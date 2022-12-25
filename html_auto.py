@@ -5,8 +5,6 @@
 
 __author__ = 'H-xm'
 
-from cgitb import html
-from email import message
 import requests
 import parsel
 import re

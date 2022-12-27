@@ -109,8 +109,7 @@ if __name__ == '__main__':
 		try:
 			urls = [
 							'http://dfw2.dingfuluntan.com/#667233',
-							# 'http://www-222739.com/141516.html#3', # 和下面是一样的
-							'https://www-563344.com/#222739/141516.html#1',
+							'http://www-222739.com/141516.html#2',
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
 			str2 = obj.get_data_2(urls[1], 'body')

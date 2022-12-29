@@ -11,8 +11,8 @@ import re
 import random, json, time
 # from pyecharts import options as opts
 # from pyecharts.charts import Bar, Line
-import os # 解决有（开启）代理无法采集数据问题
-os.environ['NO_PROXY'] = 'stackoverflow.com'
+# import os # 解决有（开启）代理无法采集数据问题
+# os.environ['NO_PROXY'] = 'stackoverflow.com'
 from pprint import pprint
 
 # timeStart = time.time()  # 开始计时
@@ -117,4 +117,5 @@ if __name__ == '__main__':
 			is_flag = False
 		except:
 			print("Connection refused by the server..")
-			continue
+			# continue
+			break

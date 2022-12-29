@@ -117,5 +117,4 @@ if __name__ == '__main__':
 			is_flag = False
 		except:
 			print("Connection refused by the server..")
-			# continue
-			break
+			continue

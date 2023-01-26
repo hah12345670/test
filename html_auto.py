@@ -403,8 +403,8 @@ if __name__ == '__main__':
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
 			str2 = obj.get_data_2(urls[1], 'body')
-			obj.html_2('he_1.html', urls[0], str1)
-			obj.html_2('he_2.html', urls[1], str2)
+			obj.html_2('he_1', urls[0], str1)
+			obj.html_2('he_2', urls[1], str2)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

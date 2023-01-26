@@ -153,8 +153,8 @@ class ReqTols(object):
 <div class="text">www-222739.com</div>
 <div class="icon m_show"></div>
 </a>
-<a class="xianlu_item" href="https://22.6373.us:1888/">
-<div class="text">线路入口三</div>
+<a class="xianlu_item" href="he_3.html">
+<div class="text">2168.site</div>
 <div class="icon m_show"></div>
 </a>
 <a class="xianlu_item mr" href="https://33.6373.us:1888/">
@@ -400,11 +400,14 @@ if __name__ == '__main__':
 			urls = [
 							'http://dfw2.dingfuluntan.com/#667233',
 							'http://www-222739.com/141516.html#2',
+							'https://mm.2168.site/',
 							]
-			str1 = obj.get_data_1(urls[0], 'body')
-			str2 = obj.get_data_2(urls[1], 'body')
-			obj.html_2('he_1', urls[0], str1)
-			obj.html_2('he_2', urls[1], str2)
+			# str1 = obj.get_data_1(urls[0], 'body')
+			# str2 = obj.get_data_2(urls[1], 'body')
+			str3 = obj.get_data_2(urls[2], 'body')
+			# obj.html_2('he_1', urls[0], str1)
+			# obj.html_2('he_2', urls[1], str2)
+			obj.html_2('he_3', urls[2], str3)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

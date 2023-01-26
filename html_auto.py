@@ -101,20 +101,25 @@ class ReqTols(object):
 		f.write(message)
 		f.close()
 
+	# 爬虫的异常处理
+	def req_try1(self):
+		# 爬虫的异常处理
+		is_flag = True
+		while is_flag:
+			try:
+				urls = [
+								'http://dfw2.dingfuluntan.com/#667233',
+								'http://www-222739.com/141516.html#2',
+								]
+				str1 = self.get_data_1(urls[0], 'body')
+				str2 = self.get_data_2(urls[1], 'body')
+				self.html(urls, str1, str2) # 生成html
+				is_flag = False
+			except:
+				print("Connection refused by the server..")
+				continue
+
 if __name__ == '__main__':
 	obj = ReqTols()
 	# 爬虫的异常处理
-	is_flag = True
-	while is_flag:
-		try:
-			urls = [
-							'http://dfw2.dingfuluntan.com/#667233',
-							'http://www-222739.com/141516.html#2',
-							]
-			str1 = obj.get_data_1(urls[0], 'body')
-			str2 = obj.get_data_2(urls[1], 'body')
-			obj.html(urls, str1, str2) # 生成html
-			is_flag = False
-		except:
-			print("Connection refused by the server..")
-			continue
+	obj.req_try1()

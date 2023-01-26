@@ -157,8 +157,8 @@ class ReqTols(object):
 <div class="text">2168.site</div>
 <div class="icon m_show"></div>
 </a>
-<a class="xianlu_item mr" href="https://33.6373.us:1888/">
-<div class="text">线路入口五</div>
+<a class="xianlu_item mr" href="he_4.html">
+<div class="text">开奖记录</div>
 <div class="icon m_show"></div>
 </a>
 </div>
@@ -401,13 +401,20 @@ if __name__ == '__main__':
 							'http://dfw2.dingfuluntan.com/#667233',
 							'http://www-222739.com/141516.html#2',
 							'https://mm.2168.site/',
+							'https://48k.48kk.homes:1888/Kj/index.html',
 							]
-			# str1 = obj.get_data_1(urls[0], 'body')
-			# str2 = obj.get_data_2(urls[1], 'body')
+			str1 = obj.get_data_1(urls[0], 'body')
+			print('he_1')
+			str2 = obj.get_data_2(urls[1], 'body')
+			print('he_2')
 			str3 = obj.get_data_2(urls[2], 'body')
-			# obj.html_2('he_1', urls[0], str1)
-			# obj.html_2('he_2', urls[1], str2)
+			print('he_3')
+			str4 = obj.get_data_2(urls[3], 'body')
+			print('he_4')
+			obj.html_2('he_1', urls[0], str1)
+			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
+			obj.html_2('he_4', urls[3], str4)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

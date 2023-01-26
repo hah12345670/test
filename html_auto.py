@@ -119,30 +119,6 @@ class ReqTols(object):
 				print("Connection refused by the server..")
 				continue
 
-	# 生成html 一个独立的小页面
-	def html_2(self, name, url, str1):
-		new_html = './github-main-htm/{}.html'.format(name)
-		f = open(new_html, 'w', encoding="utf-8")
-		# str1 = ''
-		# str2 = ''
-		message = """<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title></title>
-	<meta content="width=device-width, initial-scale=1.0" name="viewport">
-	<meta content="" name="keywords">
-	<meta content="" name="description">
-	<!-- <link href="./favicon.ico" rel="icon"> -->
-</head>
-<hr>
-<h1>%s</h1>
-<hr>
-%s
-"""%(url,str1)
-		f.write(message)
-		f.close()
-
 	# 生成html
 	def html_1(self):
 		new_html = './github-main-htm/he6.html'
@@ -388,6 +364,30 @@ var _hmt = _hmt || [];
 		</script>
 </body></html>
 """
+		f.write(message)
+		f.close()
+
+	# 生成html 一个独立的小页面
+	def html_2(self, name, url, str1):
+		new_html = './github-main-htm/{}.html'.format(name)
+		f = open(new_html, 'w', encoding="utf-8")
+		# str1 = ''
+		# str2 = ''
+		message = """<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="" name="keywords">
+	<meta content="" name="description">
+	<!-- <link href="./favicon.ico" rel="icon"> -->
+</head>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%(url,str1)
 		f.write(message)
 		f.close()
 

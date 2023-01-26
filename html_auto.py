@@ -409,7 +409,7 @@ if __name__ == '__main__':
 			print('he_2')
 			str3 = obj.get_data_2(urls[2], 'body')
 			print('he_3')
-			str4 = obj.get_data_2(urls[3], 'body')
+			str4 = obj.get_data_2(urls[3], 'div')
 			print('he_4')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)

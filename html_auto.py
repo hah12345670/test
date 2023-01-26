@@ -404,9 +404,9 @@ if __name__ == '__main__':
 							'https://48k.48kk.homes:1888/Kj/index.html',
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
-			print('he_1')
+			# print('he_1')
 			str2 = obj.get_data_2(urls[1], 'body')
-			print('he_2')
+			# print('he_2')
 			# str3 = obj.get_data_2(urls[2], 'body')
 			# print('he_3')
 			# str4 = obj.get_data_2(urls[3], 'html')

@@ -149,18 +149,18 @@ class ReqTols(object):
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 http://141516.com/ -->
-<a class="xianlu_item" href="he_2.html">
+<a class="xianlu_item mr" href="he_2.html">
 <div class="text">www-222739.com</div>
 <div class="icon m_show"></div>
 </a>
-<a class="xianlu_item" href="he_3.html">
+<!-- <a class="xianlu_item" href="he_3.html">
 <div class="text">2168.site</div>
 <div class="icon m_show"></div>
 </a>
 <a class="xianlu_item mr" href="he_4.html">
 <div class="text">开奖记录</div>
 <div class="icon m_show"></div>
-</a>
+</a> -->
 </div>
 </div>
 <div class="commonlyUsed_title clearfix m_show">
@@ -407,14 +407,14 @@ if __name__ == '__main__':
 			print('he_1')
 			str2 = obj.get_data_2(urls[1], 'body')
 			print('he_2')
-			str3 = obj.get_data_2(urls[2], 'body')
-			print('he_3')
-			str4 = obj.get_data_2(urls[3], 'div')
-			print('he_4')
+			# str3 = obj.get_data_2(urls[2], 'body')
+			# print('he_3')
+			# str4 = obj.get_data_2(urls[3], 'html')
+			# print('he_4')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
-			obj.html_2('he_3', urls[2], str3)
-			obj.html_2('he_4', urls[3], str4)
+			# obj.html_2('he_3', urls[2], str3)
+			# obj.html_2('he_4', urls[3], str4)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

@@ -164,7 +164,7 @@ class ReqTols(object):
 </a> -->
 </div>
 </div>
-<div class="commonlyUsed_title clearfix m_show">
+<!-- <div class="commonlyUsed_title clearfix m_show">
 <div class="used_title_item select">荐浏览器</div>
 <div class="used_title_item">常用网址</div>
 <div class="used_title_item">常用购物</div>
@@ -338,7 +338,7 @@ class ReqTols(object):
 </a>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 
@@ -347,7 +347,7 @@ class ReqTols(object):
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
+  hm.src = "https://hm.1231.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

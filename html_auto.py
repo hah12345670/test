@@ -402,7 +402,7 @@ if __name__ == '__main__':
 							'http://dfw2.dingfuluntan.com/#667233',
 							'http://www-222739.com/141516.html#2',
 							'https://mm.2168.site/',
-							'https://48k.48kk.homes:1888/Kj/index.html',
+							'https://kj.48kk.homes:1888/',
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
 			# print('he_1')
@@ -410,12 +410,12 @@ if __name__ == '__main__':
 			# print('he_2')
 			str3 = obj.get_data_2(urls[2], 'body')
 			# print('he_3')
-			# str4 = obj.get_data_2(urls[3], 'html')
+			str4 = obj.get_data_2(urls[3], 'body')
 			# print('he_4')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
-			# obj.html_2('he_4', urls[3], str4)
+			obj.html_2('he_4', urls[3], str4)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

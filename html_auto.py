@@ -160,7 +160,7 @@ class ReqTols(object):
 </a>
 <!-- 总网站 https://48k1.us -->
 <a class="xianlu_item mr" href="he_4.html">
-<div class="text">kj_48kk_homes:1888</div>
+<div class="text">kj_48kk_homes</div>
 <div class="icon m_show"></div>
 </a>
 </div>

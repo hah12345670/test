@@ -154,14 +154,15 @@ class ReqTols(object):
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 http://2168.site/ -->
-<a class="xianlu_item mr" href="he_3.html">
-<div class="text">2168-site</div>
+<a class="xianlu_item" href="he_3.html">
+<div class="text">2168_site</div>
 <div class="icon m_show"></div>
 </a>
-<!-- <a class="xianlu_item mr" href="he_4.html">
-<div class="text">开奖记录</div>
+<!-- 总网站 https://48k1.us -->
+<a class="xianlu_item mr" href="he_4.html">
+<div class="text">kj_48kk_homes:1888</div>
 <div class="icon m_show"></div>
-</a> -->
+</a>
 </div>
 </div>
 <!-- <div class="commonlyUsed_title clearfix m_show">

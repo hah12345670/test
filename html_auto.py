@@ -154,15 +154,15 @@ class ReqTols(object):
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 http://2168.site/ -->
-<a class="xianlu_item" href="he_3.html">
+<a class="xianlu_item mr" href="he_3.html">
 <div class="text">2168_site</div>
 <div class="icon m_show"></div>
 </a>
-<!-- 总网站 https://48k1.us -->
+<!-- 总网站 https://48k1.us
 <a class="xianlu_item mr" href="he_4.html">
 <div class="text">kj_48kk_homes</div>
 <div class="icon m_show"></div>
-</a>
+</a> -->
 </div>
 </div>
 <!-- <div class="commonlyUsed_title clearfix m_show">
@@ -411,12 +411,12 @@ if __name__ == '__main__':
 			# print('he_2')
 			str3 = obj.get_data_2(urls[2], 'body')
 			# print('he_3')
-			str4 = obj.get_data_2(urls[3], 'body')
+			# str4 = obj.get_data_2(urls[3], 'body')
 			# print('he_4')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
-			obj.html_2('he_4', urls[3], str4)
+			# obj.html_2('he_4', urls[3], str4)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

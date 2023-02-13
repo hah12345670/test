@@ -347,7 +347,7 @@ class ReqTols(object):
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.1231.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
+  hm.src = "https://hm.123.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

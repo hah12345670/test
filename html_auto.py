@@ -11,7 +11,7 @@ import re
 import random, json, time
 # from pyecharts import options as opts
 # from pyecharts.charts import Bar, Line
-# import os # 解决有（开启）代理无法采集数据问题
+import os # 解决有（开启）代理无法采集数据问题
 # os.environ['NO_PROXY'] = 'stackoverflow.com'
 from pprint import pprint
 
@@ -121,7 +121,9 @@ class ReqTols(object):
 
 	# 生成html
 	def html_1(self):
-		new_html = './github-main-htm/he6.html'
+		basedir = os.path.dirname(__file__)
+		new_html = basedir +'\he6.html'
+		# new_html = './github-main-htm/he6.html'
 		f = open(new_html, 'w', encoding="utf-8")
 		# str1 = ''
 		# str2 = ''
@@ -371,7 +373,10 @@ var _hmt = _hmt || [];
 
 	# 生成html 一个独立的小页面
 	def html_2(self, name, url, str1):
-		new_html = './github-main-htm/{}.html'.format(name)
+		basedir = os.path.dirname(__file__)
+		# print(basedir)
+		new_html = basedir +'\{}.html'.format(name)
+		# new_html = './github-main-htm/{}.html'.format(name)
 		f = open(new_html, 'w', encoding="utf-8")
 		# str1 = ''
 		# str2 = ''
@@ -395,30 +400,49 @@ var _hmt = _hmt || [];
 
 if __name__ == '__main__':
 	obj = ReqTols()
-	# 爬虫的异常处理
-	is_flag = True
-	while is_flag:
-		try:
-			urls = [
-							'http://dfw2.dingfuluntan.com/#667233',
-							'http://www-222739.com/141516.html#2',
-							'https://mm.2168.site/',
-							'https://kj.48kk.homes:1888/',
-							]
-			str1 = obj.get_data_1(urls[0], 'body')
-			# print('he_1')
-			str2 = obj.get_data_2(urls[1], 'body')
-			# print('he_2')
-			str3 = obj.get_data_2(urls[2], 'body')
-			# print('he_3')
-			# str4 = obj.get_data_2(urls[3], 'body')
-			# print('he_4')
-			obj.html_2('he_1', urls[0], str1)
-			obj.html_2('he_2', urls[1], str2)
-			obj.html_2('he_3', urls[2], str3)
-			# obj.html_2('he_4', urls[3], str4)
-			obj.html_1() # 生成html
-			is_flag = False
-		except:
-			print("Connection refused by the server..")
-			continue
+	urls = [
+					'http://dfw2.dingfuluntan.com/#667233',
+					'http://www-222739.com/141516.html#2',
+					'https://mm.2168.site/',
+					'https://kj.48kk.homes:1888/',
+					]
+	str1 = obj.get_data_1(urls[0], 'body')
+	# print('he_1')
+	str2 = obj.get_data_2(urls[1], 'body')
+	# print('he_2')
+	str3 = obj.get_data_2(urls[2], 'body')
+	# print('he_3')
+	# str4 = obj.get_data_2(urls[3], 'body')
+	# print('he_4')
+	obj.html_2('he_1', urls[0], str1)
+	obj.html_2('he_2', urls[1], str2)
+	obj.html_2('he_3', urls[2], str3)
+	# obj.html_2('he_4', urls[3], str4)
+	obj.html_1() # 生成html
+	# # 爬虫的异常处理
+	# is_flag = True
+	# while is_flag:
+	# 	try:
+	# 		urls = [
+	# 						'http://dfw2.dingfuluntan.com/#667233',
+	# 						'http://www-222739.com/141516.html#2',
+	# 						'https://mm.2168.site/',
+	# 						'https://kj.48kk.homes:1888/',
+	# 						]
+	# 		str1 = obj.get_data_1(urls[0], 'body')
+	# 		# print('he_1')
+	# 		str2 = obj.get_data_2(urls[1], 'body')
+	# 		# print('he_2')
+	# 		str3 = obj.get_data_2(urls[2], 'body')
+	# 		# print('he_3')
+	# 		# str4 = obj.get_data_2(urls[3], 'body')
+	# 		# print('he_4')
+	# 		obj.html_2('he_1', urls[0], str1)
+	# 		obj.html_2('he_2', urls[1], str2)
+	# 		obj.html_2('he_3', urls[2], str3)
+	# 		# obj.html_2('he_4', urls[3], str4)
+	# 		obj.html_1() # 生成html
+	# 		is_flag = False
+	# 	except:
+	# 		print("Connection refused by the server..")
+	# 		continue

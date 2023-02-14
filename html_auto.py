@@ -11,7 +11,7 @@ import re
 import random, json, time
 # from pyecharts import options as opts
 # from pyecharts.charts import Bar, Line
-import os # 解决有（开启）代理无法采集数据问题
+# import os # 解决有（开启）代理无法采集数据问题
 # os.environ['NO_PROXY'] = 'stackoverflow.com'
 from pprint import pprint
 

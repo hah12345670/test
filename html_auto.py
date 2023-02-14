@@ -121,7 +121,7 @@ class ReqTols(object):
 
 	# 生成html
 	def html_1(self):
-		new_html = os.path.dirname(__file__) +'\he6.html'
+		new_html = os.path.dirname(__file__) + '\he6.html'
 		# new_html = './github-main-htm/he6.html'
 		f = open(new_html, 'w', encoding="utf-8")
 		# str1 = ''
@@ -372,7 +372,7 @@ var _hmt = _hmt || [];
 
 	# 生成html 一个独立的小页面
 	def html_2(self, name, url, str1):
-		new_html = os.path.dirname(__file__) +'\{}.html'.format(name)
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
 		# new_html = './github-main-htm/{}.html'.format(name)
 		f = open(new_html, 'w', encoding="utf-8")
 		# str1 = ''

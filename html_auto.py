@@ -407,7 +407,7 @@ var _hmt = _hmt || [];
 		f.write(message)
 		f.close()
 
-	# 生成html 一个独立的小页面
+	# 生成html 一个独立的小页面 body下的内容
 	def html_2(self, name, url, str1):
 		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
 		# new_html = './github-main-htm/{}.html'.format(name)
@@ -424,6 +424,22 @@ var _hmt = _hmt || [];
 	<meta content="" name="description">
 	<!-- <link href="./favicon.ico" rel="icon"> -->
 </head>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%(url,str1)
+		f.write(message)
+		f.close()
+
+	# 生成html 一个独立的小页面 整个html的内容
+	def html_3(self, name, url, str1):
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
+		# new_html = './github-main-htm/{}.html'.format(name)
+		f = open(new_html, 'w', encoding="utf-8")
+		# str1 = ''
+		# str2 = ''
+		message = """<!DOCTYPE html>
 <hr>
 <h1>%s</h1>
 <hr>
@@ -471,8 +487,8 @@ if __name__ == '__main__':
 			obj.html_2('he_4', urls[3], str4)
 			obj.html_2('he_5', urls[4], str5)
 			obj.html_2('he_6', urls[5], str6)
-			obj.html_2('he_7', urls[6], str7)
-			obj.html_2('he_8', urls[7], str8)
+			obj.html_3('he_7', urls[6], str7)
+			obj.html_3('he_8', urls[7], str8)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

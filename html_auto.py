@@ -69,6 +69,18 @@ class ReqTols(object):
 		res = body.replace('baidu.com', '1.com') # 替换 百度的脚本
 		# print(res)
 		return res
+	
+	# 采集3
+	def get_data_3(self, url, title = 'body'):
+		response = self.get_data(url)
+		response.encoding = 'utf-8' # 不乱码
+		html_data = response.text
+		select = parsel.Selector(html_data)
+		body = select.css(title).get() # 获取body内容
+		res = body.replace('baidu.com', '1.com') # 替换 百度的脚本
+		res = res.replace('<div class="swiper-container">', '')
+		# print(res)
+		return res
 
 	# 生成html
 	def html(self, urls, str1, str2):
@@ -160,8 +172,28 @@ class ReqTols(object):
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://868575.com/ -->
-<a class="xianlu_item mr" href="he_4.html">
+<a class="xianlu_item" href="he_4.html">
 <div class="text">管家婆</div>
+<div class="icon m_show"></div>
+</a>
+<!-- 总网站 https://255727.com/ -->
+<a class="xianlu_item" href="he_5.html" target="_blank">
+<div class="text">棋琴书画</div>
+<div class="icon m_show"></div>
+</a>
+<!-- 总网站 https://255727.com/ -->
+<a class="xianlu_item" href="he_6.html" target="_blank">
+<div class="text">无错十肖</div>
+<div class="icon m_show"></div>
+</a>
+<!-- 总网站 https://48k1.us/ -->
+<a class="xianlu_item" href="he_7.html" target="_blank">
+<div class="text">澳门老人味</div>
+<div class="icon m_show"></div>
+</a>
+<!-- 总网站 https://48k1.us/ -->
+<a class="xianlu_item mr" href="he_8.html" target="_blank">
+<div class="text">无错三十六码</div>
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://48k1.us
@@ -410,7 +442,11 @@ if __name__ == '__main__':
 							'http://dfw2.dingfuluntan.com/#667233',
 							'http://www-222739.com/141516.html#2',
 							'https://mm.2168.site/',
-							'https://aa.7278834.com:1888/',
+							'https://aa.7278834.com:1888/', # 管家婆
+							'https://bxzwz.com/hao.aspx?id=44', # 255727的棋琴书画
+							'https://bxzwz.com/tt.aspx?id=0008', # 255727的无错十肖
+							'https://48.48kk.homes:1888/Images/info/id/14', # 48k的澳门老人味
+							'https://48.48kk.homes:1888/Images/info/id/1874', # 48k的无错三十六码
 							'https://kj.48kk.homes:1888/',
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
@@ -421,10 +457,22 @@ if __name__ == '__main__':
 			# print('he_3')
 			str4 = obj.get_data_2(urls[3], 'body')
 			# print('he_4')
+			str5 = obj.get_data_2(urls[4], 'body')
+			# print('he_5')
+			str6 = obj.get_data_2(urls[5], 'body')
+			# print('he_6')
+			str7 = obj.get_data_3(urls[6], 'html')
+			# print('he_7')
+			str8 = obj.get_data_3(urls[7], 'html')
+			# print('he_8')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
 			obj.html_2('he_4', urls[3], str4)
+			obj.html_2('he_5', urls[4], str5)
+			obj.html_2('he_6', urls[5], str6)
+			obj.html_2('he_7', urls[6], str7)
+			obj.html_2('he_8', urls[7], str8)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

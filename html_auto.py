@@ -78,7 +78,7 @@ class ReqTols(object):
 		select = parsel.Selector(html_data)
 		body = select.css(title).get() # 获取body内容
 		res = body.replace('baidu.com', '1.com') # 替换 百度的脚本
-		res = res.replace('<div class="swiper-container">', '')
+		res = res.replace('swiper-container', '')
 		# print(res)
 		return res
 

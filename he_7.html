@@ -50,7 +50,7 @@
                 text-align: center;
                 margin: 2px;
 	        }
-	        .swiper-container{
+	        .{
 	            position: fixed;
                 bottom: 50px;
                 width: 100%;
@@ -166,7 +166,7 @@
     $("#guang2").append(flower[selectFrom(0, flower.length - 1)]);
 </script>
 		<div style="height:50px;"></div>
-		
+		<div class="">
 		    <div class="swiper-wrapper">
 			    <div class="swiper-slide">
 			    		<div class="qid" data-i="047" data-name="amlrw.jpg">
@@ -363,7 +363,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://tk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+		    var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -385,7 +385,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://tk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+                var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

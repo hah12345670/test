@@ -461,8 +461,8 @@ if __name__ == '__main__':
 							'https://aa.7278834.com:1888/', # 管家婆
 							'https://bxzwz.com/hao.aspx?id=44', # 255727的棋琴书画
 							'https://bxzwz.com/tt.aspx?id=0008', # 255727的无错十肖
-							'https://33.48k92.com:1888/Images/info/id/14', # 48k的澳门老人味
-							'https://33.48k92.com:1888/Images/info/id/1874', # 48k的无错三十六码
+							'https://33.48kk99.com/Images/info/id/14', # 48k的澳门老人味
+							'https://33.48kk99.com/Images/info/id/1874', # 48k的无错三十六码
 							'https://kj.48kk.homes:1888/',
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
@@ -471,7 +471,7 @@ if __name__ == '__main__':
 			# print('he_2')
 			str3 = obj.get_data_2(urls[2], 'body')
 			# print('he_3')
-			str4 = obj.get_data_2(urls[3], 'body')
+			# str4 = obj.get_data_2(urls[3], 'body')
 			# print('he_4')
 			str5 = obj.get_data_2(urls[4], 'body')
 			# print('he_5')
@@ -484,7 +484,7 @@ if __name__ == '__main__':
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
-			obj.html_2('he_4', urls[3], str4)
+			# obj.html_2('he_4', urls[3], str4)
 			obj.html_2('he_5', urls[4], str5)
 			obj.html_2('he_6', urls[5], str6)
 			obj.html_3('he_7', urls[6], str7)

@@ -461,9 +461,9 @@ if __name__ == '__main__':
 							'https://aa.7278834.com:1888/', # 管家婆
 							'https://bxzwz.com/hao.aspx?id=44', # 255727的棋琴书画
 							'https://bxzwz.com/tt.aspx?id=0008', # 255727的无错十肖
-							'https://48.48kk.homes:1888/Images/info/id/14', # 48k的澳门老人味
-							'https://48.48kk.homes:1888/Images/info/id/1874', # 48k的无错三十六码
-							'https://kj.48kk.homes:1888/',
+							'https://33.48kk99.com/Images/info/id/14', # 48k的澳门老人味
+							'https://33.48kk99.com/Images/info/id/1874', # 48k的无错三十六码
+							'https://kj.48kk.homes:1888/', # 48.48kk.homes:1888
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
 			# print('he_1')

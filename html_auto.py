@@ -211,6 +211,15 @@ class ReqTols(object):
 <div class="text">没有三肖</div>
 <div class="icon m_show"></div>
 </a>
+<!-- 总网站 https://353520.com/ -->
+<a class="xianlu_item" href="he_12.html">
+<div class="text">暴富18码</div>
+<div class="icon m_show"></div>
+</a>
+<a class="xianlu_item" href="he_13.html">
+<div class="text">美女20码</div>
+<div class="icon m_show"></div>
+</a>
 <!-- 总网站 https://48k1.us
 <a class="xianlu_item ml-mr" href="he_5.html">
 <div class="text">kj_48kk_homes</div>
@@ -481,6 +490,8 @@ if __name__ == '__main__':
 							'https://77902.com/img?id=1781', # 管家婆一句赢大钱
 							'https://393960.com/?mc=true', # 管家婆
 							'https://449408.com/content?id=37928&mc=true', # 管家婆->论坛->杀料专区->绝杀三肖
+							'https://www.388318.com/content?id=45352&mc=true', # 铁盘神算->论坛->暴富18码
+							'https://www.388318.com/content?id=45355&mc=true', # 铁盘神算->论坛->美女20码
 							'https://kj.48kk.homes:1888/', # 48.48kk.homes:1888
 							]
 			str1 = obj.get_data_1(urls[0], 'body')
@@ -505,6 +516,10 @@ if __name__ == '__main__':
 			# print('he_10')
 			str11 = obj.get_data_3(urls[10], 'html')
 			# print('he_11')
+			str12 = obj.get_data_3(urls[11], 'html')
+			# print('he_12')
+			str13 = obj.get_data_3(urls[12], 'html')
+			# print('he_13')
 			obj.html_2('he_1', urls[0], str1)
 			obj.html_2('he_2', urls[1], str2)
 			obj.html_2('he_3', urls[2], str3)
@@ -516,6 +531,8 @@ if __name__ == '__main__':
 			# obj.html_3('he_9', urls[8], str9)
 			obj.html_3('he_10', urls[9], str10)
 			obj.html_3('he_11', urls[10], str11)
+			obj.html_3('he_12', urls[11], str12)
+			obj.html_3('he_13', urls[12], str13)
 			obj.html_1() # 生成html
 			is_flag = False
 		except:

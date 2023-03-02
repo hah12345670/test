@@ -15,7 +15,7 @@ import os # 解决有（开启）代理无法采集数据问题
 # os.environ['NO_PROXY'] = 'stackoverflow.com'
 from pprint import pprint
 
-# timeStart = time.time()  # 开始计时
+timeStart = time.time()  # 开始计时
 
 class ReqTols(object):
 	
@@ -513,3 +513,8 @@ if __name__ == '__main__':
 		except:
 			print("Connection refused by the server..")
 			continue
+	
+	print('================================')
+	timeEnd = time.time()
+	print('代码执行时间：', str(round(timeEnd - timeStart, 7)) + ' s')
+	print('================================')

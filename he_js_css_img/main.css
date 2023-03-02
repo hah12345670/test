@@ -172,7 +172,7 @@ i {
 	display: block;
 	height: 140px;
 	line-height: 140px;
-	width: calc(20% - 20px);
+	width: calc(25% - 20px);
 	border: 1px solid #ec6638;
 	border-radius: 10px;
 	box-sizing: border-box;

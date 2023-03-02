@@ -157,7 +157,7 @@ class ReqTols(object):
 <div class="clearfix">
 <!-- 总网站 http://dfw1.dingfuluntan.com/ -->
 <!-- 总网站 http://312011.com -->
-<a class="xianlu_item ml" href="he_1.html">
+<a class="xianlu_item" href="he_1.html">
 <div class="text">dfw1.dingfuluntan</div>
 <div class="icon m_show"></div>
 </a>
@@ -177,27 +177,27 @@ class ReqTols(object):
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://255727.com/ -->
-<a class="xianlu_item mr" href="he_5.html" target="_blank">
+<a class="xianlu_item" href="he_5.html">
 <div class="text">棋琴书画</div>
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://255727.com/ -->
-<a class="xianlu_item" href="he_6.html" target="_blank">
+<a class="xianlu_item" href="he_6.html">
 <div class="text">无错十肖</div>
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://48k1.us/ -->
-<a class="xianlu_item" href="he_7.html" target="_blank">
+<a class="xianlu_item" href="he_7.html">
 <div class="text">澳门老人味</div>
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://48k1.us/ -->
-<a class="xianlu_item mr" href="he_8.html" target="_blank">
+<a class="xianlu_item" href="he_8.html">
 <div class="text">无错三十六码</div>
 <div class="icon m_show"></div>
 </a>
 <!-- 总网站 https://48k1.us
-<a class="xianlu_item mr" href="he_5.html">
+<a class="xianlu_item ml-mr" href="he_5.html">
 <div class="text">kj_48kk_homes</div>
 <div class="icon m_show"></div>
 </a> -->

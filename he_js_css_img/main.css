@@ -155,7 +155,7 @@ i {
 }
 
 .xianlu .xianlu_item {
-	float: left;
+	/* float: left;
 	display: block;
 	margin-right: 20px;
 	height: 140px;
@@ -167,7 +167,20 @@ i {
 	text-align: center;
 	font-size: 24px;
 	color: #ec6638;
-	position: relative
+	position: relative */
+	float: left;
+	display: block;
+	height: 140px;
+	line-height: 140px;
+	width: calc(20% - 20px);
+	border: 1px solid #ec6638;
+	border-radius: 10px;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 24px;
+	color: #ec6638;
+	position: relative;
+	margin: 10px;
 }
 
 .xianlu .xianlu_item .text {

@@ -494,9 +494,9 @@ if __name__ == '__main__':
 							'https://77902.com/img?id=1781', # 管家婆一句赢大钱
 							'https://393960.com/?mc=true', # 管家婆
 							'https://449408.com/content?id=37928&mc=true', # 管家婆->论坛->杀料专区->绝杀三肖
-							'https://www.388318.com/content?id=45352&mc=true', # 铁盘神算->论坛->暴富18码
-							'https://www.388318.com/content?id=45355&mc=true', # 铁盘神算->论坛->美女20码
-							'https://www.388318.com/content?id=45376&mc=true', # 铁盘神算->论坛->买啥开啥
+							'https://www.388318.com/content?id=45407&mc=true', # 铁盘神算->论坛->暴富18码
+							'https://www.388318.com/content?id=45410&mc=true', # 铁盘神算->论坛->美女20码
+							'https://www.388318.com/content?id=45427&mc=true', # 铁盘神算->论坛->买啥开啥
 							'https://kj.48kk.homes:1888/', # 48.48kk.homes:1888
 							]
 			str1 = obj.get_data_1(urls[0], 'body')

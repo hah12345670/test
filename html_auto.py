@@ -479,7 +479,7 @@ var _hmt = _hmt || [];
 	# 正则匹配网页中指定的链接
 	def re_get_url_1(self):
 		urls = 'https://www.388318.com/'
-		str1 = self.get_data_3(urls, 'html')
+		str1 = self.get_data_3(urls + '?mc=true', 'html')
 		res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)暴富18码', str1, re.S)
 		res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
 		res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)

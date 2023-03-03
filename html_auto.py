@@ -435,6 +435,65 @@ var _hmt = _hmt || [];
 		f.write(message)
 		f.close()
 
+	# 生成html 更新
+	def html_1_updata(self, str1 = ''):
+		new_html = os.path.dirname(__file__) + '\he6.html'
+		# new_html = './github-main-htm/he6.html'
+		f = open(new_html, 'w', encoding="utf-8")
+		message = """<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>推荐网址</title>
+<link rel="stylesheet" href="he_js_css_img/main.css">
+</head>
+<body>
+<div class="body_view">
+<div class="header_title clearfix">
+<a class="logo fl" href="" target="view_window" style="user-select: none">推荐网址</a>
+<!-- <div class="title_tips fr">温馨提示：尊敬的用户，如发现备用线路无法正常访问时，请更换其他浏览器（推荐浏览器：谷歌、火狐）进行访问！</div> -->
+</div>
+<!-- <div class="title_tips_text m_show">请使用下方推荐的浏览器访问</div> -->
+<div class="xianlu">
+<div class="clearfix">
+%s
+<!-- 总网站 https://48k1.us
+<a class="xianlu_item ml-mr" href="he_5.html">
+<div class="text">kj_48kk_homes</div>
+<div class="icon m_show"></div>
+</a> -->
+</div>
+</div>
+</div>
+</div>
+
+<div style="display:none;">
+<script src="he_js_css_img/hm.js"></script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.123.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+<script src="he_js_css_img/jquery-3.6.0.min.js"></script>
+<script>
+			$('.used_title_item').click(function() {
+				var index = $(this).index()
+				$('.used_title_item').removeClass('select')
+				$(this).addClass('select')
+				$('.used_item').removeClass('m_showUsed').addClass('m_none').eq(index).removeClass('m_none').addClass(
+					'm_showUsed')
+			})
+		</script>
+</body></html>
+"""%(str1)
+		f.write(message)
+		f.close()
+
 	# 生成html 一个独立的小页面 body下的内容
 	def html_2(self, name, url, str1):
 		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
@@ -489,77 +548,69 @@ var _hmt = _hmt || [];
 						urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
 						]
 
+	# 爬虫的异常处理 2
+	def req_try_2(self):
+		# 爬虫的异常处理
+		is_flag = True
+		while is_flag:
+			try:
+				urls_arr = self.re_get_url_1()
+				urls = [
+								['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan'],
+								['http://www-222739.com/141516.html#2', 'he_2', 'www-222739'],
+								['https://mm.2168.site/', 'he_3', '2168_site'],
+								# 管家婆1
+								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
+								# 255727的棋琴书画
+								['https://bxzwz.com/hao.aspx?id=44', 'he_5', ''],
+								# 255727的无错十肖
+								['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖'],
+								# 48k的澳门老人味
+								['https://33.48kk99.com/Images/info/id/14', 'he_7', '澳门老人味'],
+								# 48k的无错三十六码
+								['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码'],
+								# 管家婆一句赢大钱
+								['https://77902.com/img?id=1781', 'he_9', ''],
+								# 管家婆
+								['https://393960.com/?mc=true', 'he_10', '管家婆'],
+								# 管家婆->论坛->杀料专区->绝杀三肖
+								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
+								# 铁盘神算->论坛->暴富18码
+								[urls_arr[0], 'he_12', '暴富18码'],
+								# 铁盘神算->论坛->美女20码
+								[urls_arr[1], 'he_13', '美女20码'],
+								# 铁盘神算->论坛->买啥开啥
+								[urls_arr[2], 'he_14', '买啥开啥'],
+								# 48.48kk.homes:1888
+								['https://kj.48kk.homes:1888/', '', 'name'],
+								]
+				str1_div = ''
+				for k,v in enumerate(urls):
+					if k == 0:
+						str1 = self.get_data_1(v[0], 'body')
+						self.html_2(v[1], v[0], str1)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+					elif k in [1,2,3,5]: # 4
+						str2 = self.get_data_2(v[0], 'body')
+						self.html_2(v[1], v[0], str2)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+					elif k in [6,7,9,10,11,12,13]: # 8
+						str3 = self.get_data_3(v[0], 'html')
+						self.html_3(v[1], v[0], str3)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+				self.html_1_updata(str1_div) # 生成html
+				is_flag = False
+			except:
+				print("Connection refused by the server..")
+				continue
+
 if __name__ == '__main__':
 	obj = ReqTols()
 	# 爬虫的异常处理
-	is_flag = True
-	while is_flag:
-		try:
-			urls_arr = obj.re_get_url_1()
-			urls = [
-							'http://dfw2.dingfuluntan.com/#667233',
-							'http://www-222739.com/141516.html#2',
-							'https://mm.2168.site/',
-							'https://aa.7278834.com:1888/', # 管家婆1
-							'https://bxzwz.com/hao.aspx?id=44', # 255727的棋琴书画
-							'https://bxzwz.com/tt.aspx?id=0008', # 255727的无错十肖
-							'https://33.48kk99.com/Images/info/id/14', # 48k的澳门老人味
-							'https://33.48kk99.com/Images/info/id/1874', # 48k的无错三十六码
-							'https://77902.com/img?id=1781', # 管家婆一句赢大钱
-							'https://393960.com/?mc=true', # 管家婆
-							'https://449408.com/content?id=37928&mc=true', # 管家婆->论坛->杀料专区->绝杀三肖
-							urls_arr[0], # 铁盘神算->论坛->暴富18码
-							urls_arr[1], # 铁盘神算->论坛->美女20码
-							urls_arr[2], # 铁盘神算->论坛->买啥开啥
-							'https://kj.48kk.homes:1888/', # 48.48kk.homes:1888
-							]
-			str1 = obj.get_data_1(urls[0], 'body')
-			# print('he_1')
-			str2 = obj.get_data_2(urls[1], 'body')
-			# print('he_2')
-			str3 = obj.get_data_2(urls[2], 'body')
-			# print('he_3')
-			str4 = obj.get_data_2(urls[3], 'body')
-			# print('he_4')
-			# str5 = obj.get_data_2(urls[4], 'body')
-			# print('he_5')
-			str6 = obj.get_data_2(urls[5], 'body')
-			# print('he_6')
-			str7 = obj.get_data_3(urls[6], 'html')
-			# print('he_7')
-			str8 = obj.get_data_3(urls[7], 'html')
-			# print('he_8')
-			# str9 = obj.get_data_3(urls[8], 'html')
-			# print('he_9')
-			str10 = obj.get_data_3(urls[9], 'html')
-			# print('he_10')
-			str11 = obj.get_data_3(urls[10], 'html')
-			# print('he_11')
-			str12 = obj.get_data_3(urls[11], 'html')
-			# print('he_12')
-			str13 = obj.get_data_3(urls[12], 'html')
-			# print('he_13')
-			str14 = obj.get_data_3(urls[13], 'html')
-			# print('he_14')
-			obj.html_2('he_1', urls[0], str1)
-			obj.html_2('he_2', urls[1], str2)
-			obj.html_2('he_3', urls[2], str3)
-			obj.html_2('he_4', urls[3], str4)
-			# obj.html_2('he_5', urls[4], str5)
-			obj.html_2('he_6', urls[5], str6)
-			obj.html_3('he_7', urls[6], str7)
-			obj.html_3('he_8', urls[7], str8)
-			# obj.html_3('he_9', urls[8], str9)
-			obj.html_3('he_10', urls[9], str10)
-			obj.html_3('he_11', urls[10], str11)
-			obj.html_3('he_12', urls[11], str12)
-			obj.html_3('he_13', urls[12], str13)
-			obj.html_3('he_14', urls[13], str14)
-			obj.html_1() # 生成html
-			is_flag = False
-		except:
-			print("Connection refused by the server..")
-			continue
+	obj.req_try_2()
 	
 	print('================================')
 	timeEnd = time.time()

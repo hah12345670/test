@@ -476,8 +476,22 @@ var _hmt = _hmt || [];
 		f.write(message)
 		f.close()
 
+	# 正则匹配网页中指定的链接
+	def re_get_url_1(self):
+		urls = 'https://www.388318.com/'
+		str1 = self.get_data_3(urls, 'html')
+		res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)暴富18码', str1, re.S)
+		res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
+		res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)
+		return [
+						urls + 'content?id={}&mc=true'.format(res1[0][-485:-480]), 
+						urls + 'content?id={}&mc=true'.format(res2[0][-485:-480]), 
+						urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
+						]
+
 if __name__ == '__main__':
 	obj = ReqTols()
+	urls_arr = obj.re_get_url_1()
 	# 爬虫的异常处理
 	is_flag = True
 	while is_flag:
@@ -494,9 +508,9 @@ if __name__ == '__main__':
 							'https://77902.com/img?id=1781', # 管家婆一句赢大钱
 							'https://393960.com/?mc=true', # 管家婆
 							'https://449408.com/content?id=37928&mc=true', # 管家婆->论坛->杀料专区->绝杀三肖
-							'https://www.388318.com/content?id=45407&mc=true', # 铁盘神算->论坛->暴富18码
-							'https://www.388318.com/content?id=45410&mc=true', # 铁盘神算->论坛->美女20码
-							'https://www.388318.com/content?id=45427&mc=true', # 铁盘神算->论坛->买啥开啥
+							urls_arr[0], # 铁盘神算->论坛->暴富18码
+							urls_arr[1], # 铁盘神算->论坛->美女20码
+							urls_arr[2], # 铁盘神算->论坛->买啥开啥
 							'https://kj.48kk.homes:1888/', # 48.48kk.homes:1888
 							]
 			str1 = obj.get_data_1(urls[0], 'body')

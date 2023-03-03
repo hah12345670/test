@@ -491,11 +491,11 @@ var _hmt = _hmt || [];
 
 if __name__ == '__main__':
 	obj = ReqTols()
-	urls_arr = obj.re_get_url_1()
 	# 爬虫的异常处理
 	is_flag = True
 	while is_flag:
 		try:
+			urls_arr = obj.re_get_url_1()
 			urls = [
 							'http://dfw2.dingfuluntan.com/#667233',
 							'http://www-222739.com/141516.html#2',

@@ -551,6 +551,53 @@ var _hmt = _hmt || [];
 						False if len(res3)==0 else urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
 						]
 
+	'''
+	# url = 'https://www.393960.com/?mc=true'
+	# title = '八肖中特'
+	# index = 9
+	# name = 'test'
+	'''
+	# 正则匹配网页中指定的链接
+	def re_get_url_2(self, url, title, index, name = 'test', encode = "utf-8"):
+		try:
+			str1 = self.get_data_3(url, 'html')
+		except ValueError as e:
+			print('错误信息:{} -> 无法访问'.format(url))
+		selector = parsel.Selector(str1)
+		arr = selector.css('.white-box').getall()
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
+		f = open(new_html, 'w', encoding=encode)
+		message = """<!DOCTYPE html>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%(title,arr[index])
+		f.write(message)
+		f.close()
+
+	# 正则匹配网页中指定的链接
+	def re_get_url_3(self, url, title, name = 'test', arr_pr = [], encode = "utf-8"):
+		try:
+			str1 = self.get_data_3(url, 'html')
+		except ValueError as e:
+			print('错误信息:{} -> 无法访问'.format(url))
+		selector = parsel.Selector(str1)
+		arr = selector.css('.white-box').getall()
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
+		str1 = ''
+		for item in arr_pr:
+			str1 += '<hr><h1>{}</h1><hr>{}'.format(item[0],arr[item[1]])
+		f = open(new_html, 'w', encoding=encode)
+		message = """<!DOCTYPE html>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%(title,str1)
+		f.write(message)
+		f.close()
+
 	# 爬虫的异常处理 2
 	def req_try_2(self):
 		# 爬虫的异常处理
@@ -604,6 +651,15 @@ var _hmt = _hmt || [];
 									'', 
 									'he_16', 
 									'测试2'],
+								# 网页中获取指定数据
+								[
+									'https://www.393960.com/?mc=true', 
+									'he_17', 
+									'管家婆精选'],
+								[
+									'https://www.388318.com/?mc=true', 
+									'he_18', 
+									'精准五尾'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -653,8 +709,28 @@ var _hmt = _hmt || [];
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						print(v[2])
 						run_num += 1
+					elif k in [16]: # 管家婆网页中的数据
+						arr_pr = [
+											['八肖中特', 9], 
+											['独占三国', 17], 
+											['单双四肖', 30], 
+											['琴棋书画', 61], 
+											['九肖中特', 64], 
+											]
+						self.re_get_url_3(v[0], v[2], v[1], arr_pr)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						print(v[2])
+						run_num += 1
+					elif k in [17]: # 铁盘神算网页中的数据
+						arr_pr = [
+											['精准五尾', 20], 
+											]
+						self.re_get_url_3(v[0], v[2], v[1], arr_pr)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						print(v[2])
+						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==14:
+				if run_num==15:
 					is_flag = False
 				else:
 					num += 1
@@ -739,7 +815,6 @@ if __name__ == '__main__':
 	obj = ReqTols()
 	# 爬虫的异常处理
 	obj.req_try_2()
-	# obj.get_k8_tjnums()
 
 	print('================================')
 	timeEnd = time.time()

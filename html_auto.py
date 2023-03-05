@@ -537,11 +537,14 @@ var _hmt = _hmt || [];
 
 	# 正则匹配网页中指定的链接
 	def re_get_url_1(self):
-		urls = 'https://www.388318.com/'
-		str1 = self.get_data_3(urls + '?mc=true', 'html')
-		res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)暴富18码', str1, re.S)
-		res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
-		res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)
+		try:
+			urls = 'https://www.388318.com/'
+			str1 = self.get_data_3(urls + '?mc=true', 'html')
+			res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)暴富18码', str1, re.S)
+			res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
+			res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)
+		except ValueError as e:
+			print('错误信息:{} -> 无法访问'.format(urls))
 		return [
 						False if len(res1)==0 else urls + 'content?id={}&mc=true'.format(res1[0][-485:-480]), 
 						False if len(res2)==0 else urls + 'content?id={}&mc=true'.format(res2[0][-485:-480]), 

@@ -610,7 +610,7 @@ var _hmt = _hmt || [];
 				elif k in [1,2,3,5]: # 4
 					try:
 						str2 = self.get_data_2(v[0], 'body')
-					except ValueError as e:
+					except print(1231231):
 						print('错误信息:{} -> 暂未更新'.format(v[1]))
 						continue
 					self.html_2(v[1], v[0], str2)

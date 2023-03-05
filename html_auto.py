@@ -579,17 +579,17 @@ var _hmt = _hmt || [];
 							[
 								urls_arr[0], 
 								'he_12', 
-								'暴富18码' if urls_arr[0] else '暂未更新'],
+								'暴富18码'],
 							# 铁盘神算->论坛->美女20码
 							[
 								urls_arr[1], 
 								'he_13', 
-								'美女20码' if urls_arr[1] else '暂未更新'],
+								'美女20码'],
 							# 铁盘神算->论坛->买啥开啥
 							[
 								urls_arr[2], 
 								'he_14', 
-								'买啥开啥' if urls_arr[2] else '暂未更新'],
+								'买啥开啥'],
 							# 48.48kk.homes:1888
 							['https://kj.48kk.homes:1888/', '', 'name'],
 							]
@@ -600,7 +600,7 @@ var _hmt = _hmt || [];
 					try:
 						str1 = self.get_data_1(v[0], 'body')
 					except ValueError as e:
-						print('错误信息:{} -> 暂未更新'.format(v[1]))
+						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
 						continue
 					self.html_2(v[1], v[0], str1)
 					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
@@ -611,7 +611,7 @@ var _hmt = _hmt || [];
 					try:
 						str2 = self.get_data_2(v[0], 'body')
 					except ValueError as e:
-						print('错误信息:{} -> 暂未更新'.format(v[1]))
+						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
 						continue
 					self.html_2(v[1], v[0], str2)
 					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
@@ -622,7 +622,7 @@ var _hmt = _hmt || [];
 					try:
 						str3 = self.get_data_3(v[0], 'html')
 					except ValueError as e:
-						print('错误信息:{} -> 暂未更新'.format(v[1]))
+						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
 						continue
 					self.html_3(v[1], v[0], str3)
 					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])

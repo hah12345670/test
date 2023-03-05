@@ -650,7 +650,7 @@ var _hmt = _hmt || [];
 if __name__ == '__main__':
 	obj = ReqTols()
 	# 爬虫的异常处理
-	obj.req_try_2()
+	obj.req_try_2() 
 	
 	print('================================')
 	timeEnd = time.time()

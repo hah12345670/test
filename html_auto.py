@@ -595,15 +595,9 @@ var _hmt = _hmt || [];
 									'he_14', 
 									'买啥开啥'],
 								# 投资价值 自己的算法
-								[
-									'', 
-									'he_15', 
-									'测试1'],
+								['', 'he_15', '测试1'],
 								# 快8 算法
-								[
-									'', 
-									'he_16', 
-									'测试2'],
+								['', 'he_16', '测试2'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -671,7 +665,7 @@ var _hmt = _hmt || [];
 				print("Connection refused by the server..")
 				continue
 
-	# 获取自己算法的40码
+	# 获取40码 自己的算法
 	def get_38code(self, name = 'he_15'):
 		import sys
 		current_dir = os.path.dirname(os.path.abspath(__file__)) # 获取当前文件的绝对路径

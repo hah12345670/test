@@ -543,14 +543,15 @@ var _hmt = _hmt || [];
 		res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
 		res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)
 		return [
-						urls + 'content?id={}&mc=true'.format(res1[0][-485:-480]), 
-						urls + 'content?id={}&mc=true'.format(res2[0][-485:-480]), 
-						urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
+						False if len(res1)==0 else urls + 'content?id={}&mc=true'.format(res1[0][-485:-480]), 
+						False if len(res2)==0 else urls + 'content?id={}&mc=true'.format(res2[0][-485:-480]), 
+						False if len(res3)==0 else urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
 						]
 
 	# 爬虫的异常处理 2
 	def req_try_2(self):
 		# 爬虫的异常处理
+		num = 0
 		is_flag = True
 		while is_flag:
 			try:
@@ -562,7 +563,7 @@ var _hmt = _hmt || [];
 								# 管家婆1
 								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
 								# 255727的棋琴书画
-								['https://bxzwz.com/hao.aspx?id=44', 'he_5', ''],
+								['https://bxzwz.com/hao.aspx?id=44', 'he_5', '棋琴书画'],
 								# 255727的无错十肖
 								['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖'],
 								# 48k的澳门老人味
@@ -570,17 +571,26 @@ var _hmt = _hmt || [];
 								# 48k的无错三十六码
 								['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码'],
 								# 管家婆一句赢大钱
-								['https://77902.com/img?id=1781', 'he_9', ''],
+								['https://77902.com/img?id=1781', 'he_9', '管家婆一句赢大钱'],
 								# 管家婆
 								['https://393960.com/?mc=true', 'he_10', '管家婆'],
 								# 管家婆->论坛->杀料专区->绝杀三肖
 								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
 								# 铁盘神算->论坛->暴富18码
-								[urls_arr[0], 'he_12', '暴富18码'],
+								[
+									urls_arr[0], 
+									'he_12', 
+									'暴富18码' if urls_arr[0] else '暂未更新'],
 								# 铁盘神算->论坛->美女20码
-								[urls_arr[1], 'he_13', '美女20码'],
+								[
+									urls_arr[1], 
+									'he_13', 
+									'美女20码' if urls_arr[1] else '暂未更新'],
 								# 铁盘神算->论坛->买啥开啥
-								[urls_arr[2], 'he_14', '买啥开啥'],
+								[
+									urls_arr[2], 
+									'he_14', 
+									'买啥开啥' if urls_arr[2] else '暂未更新'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -591,21 +601,33 @@ var _hmt = _hmt || [];
 						self.html_2(v[1], v[0], str1)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						print(v[2])
 					elif k in [1,2,3,5]: # 4
 						str2 = self.get_data_2(v[0], 'body')
 						self.html_2(v[1], v[0], str2)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						print(v[2])
 					elif k in [6,7,9,10,11,12,13]: # 8
 						str3 = self.get_data_3(v[0], 'html')
 						self.html_3(v[1], v[0], str3)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						print(v[2])
 				self.html_1_updata(str1_div) # 生成html
 				is_flag = False
-			except:
-				print("Connection refused by the server..")
+			except ValueError as e:
+				num += 1
+				print('---------------')
+				print('错误信息:', e)
+				print('---------------')
+				print('代码运行第 {} 次'.format(num), '\r\n')
+				if num==5:
+					break
 				continue
+			# except:
+			# 	print("Connection refused by the server..")
+			# 	continue
 
 if __name__ == '__main__':
 	obj = ReqTols()

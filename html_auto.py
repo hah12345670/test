@@ -730,7 +730,7 @@ var _hmt = _hmt || [];
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==15:
+				if run_num==16:
 					is_flag = False
 				else:
 					num += 1

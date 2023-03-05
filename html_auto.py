@@ -557,98 +557,136 @@ var _hmt = _hmt || [];
 		num = 0
 		is_flag = True
 		while is_flag:
-			urls_arr = self.re_get_url_1()
-			urls = [
-							['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan'],
-							['http://www-222739.com/141516.html#2', 'he_2', 'www-222739'],
-							['https://mm.2168.site/', 'he_3', '2168_site'],
-							# 管家婆1
-							['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
-							# 255727的棋琴书画
-							['https://bxzwz.com/hao.aspx?id=44', 'he_5', '棋琴书画'],
-							# 255727的无错十肖
-							['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖'],
-							# 48k的澳门老人味
-							['https://33.48kk99.com/Images/info/id/14', 'he_7', '澳门老人味'],
-							# 48k的无错三十六码
-							['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码'],
-							# 管家婆一句赢大钱
-							['https://77902.com/img?id=1781', 'he_9', '管家婆一句赢大钱'],
-							# 管家婆
-							['https://393960.com/?mc=true', 'he_10', '管家婆'],
-							# 管家婆->论坛->杀料专区->绝杀三肖
-							['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
-							# 铁盘神算->论坛->暴富18码
-							[
-								urls_arr[0], 
-								'he_12', 
-								'暴富18码'],
-							# 铁盘神算->论坛->美女20码
-							[
-								urls_arr[1], 
-								'he_13', 
-								'美女20码'],
-							# 铁盘神算->论坛->买啥开啥
-							[
-								urls_arr[2], 
-								'he_14', 
-								'买啥开啥'],
-							# 48.48kk.homes:1888
-							['https://kj.48kk.homes:1888/', '', 'name'],
-							]
-			str1_div = ''
-			run_num = 0
-			for k,v in enumerate(urls):
-				if k == 0:
-					try:
-						str1 = self.get_data_1(v[0], 'body')
-					except ValueError as e:
-						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
-						continue
-					self.html_2(v[1], v[0], str1)
-					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-					# print(v[1])
-					print(v[2])
-					run_num += 1
-				elif k in [1,2,3,5]: # 4
-					try:
-						str2 = self.get_data_2(v[0], 'body')
-					except ValueError as e:
-						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
-						continue
-					self.html_2(v[1], v[0], str2)
-					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-					# print(v[1])
-					print(v[2])
-					run_num += 1
-				elif k in [6,7,9,10,11,12,13]: # 8
-					try:
-						str3 = self.get_data_3(v[0], 'html')
-					except ValueError as e:
-						print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
-						continue
-					self.html_3(v[1], v[0], str3)
-					str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-					# print(v[1])
-					print(v[2])
-					run_num += 1
-			self.html_1_updata(str1_div) # 生成html
-			if run_num==12:
-				is_flag = False
+			try:
+				urls_arr = self.re_get_url_1()
+				urls = [
+								['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan'],
+								['http://www-222739.com/141516.html#2', 'he_2', 'www-222739'],
+								['https://mm.2168.site/', 'he_3', '2168_site'],
+								# 管家婆1
+								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
+								# 255727的棋琴书画
+								['https://bxzwz.com/hao.aspx?id=44', 'he_5', '棋琴书画'],
+								# 255727的无错十肖
+								['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖'],
+								# 48k的澳门老人味
+								['https://33.48kk99.com/Images/info/id/14', 'he_7', '澳门老人味'],
+								# 48k的无错三十六码
+								['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码'],
+								# 管家婆一句赢大钱
+								['https://77902.com/img?id=1781', 'he_9', '管家婆一句赢大钱'],
+								# 管家婆
+								['https://393960.com/?mc=true', 'he_10', '管家婆'],
+								# 管家婆->论坛->杀料专区->绝杀三肖
+								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
+								# 铁盘神算->论坛->暴富18码
+								[
+									urls_arr[0], 
+									'he_12', 
+									'暴富18码'],
+								# 铁盘神算->论坛->美女20码
+								[
+									urls_arr[1], 
+									'he_13', 
+									'美女20码'],
+								# 铁盘神算->论坛->买啥开啥
+								[
+									urls_arr[2], 
+									'he_14', 
+									'买啥开啥'],
+								# 投资价值 自己的算法
+								[
+									'', 
+									'he_15', 
+									'投资价值'],
+								# 48.48kk.homes:1888
+								['https://kj.48kk.homes:1888/', '', 'name'],
+								]
+				str1_div = ''
+				run_num = 0
+				for k,v in enumerate(urls):
+					if k == 0:
+						try:
+							str1 = self.get_data_1(v[0], 'body')
+						except ValueError as e:
+							print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
+							continue
+						self.html_2(v[1], v[0], str1)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+						print(v[2])
+						run_num += 1
+					elif k in [1,2,3,5]: # 4
+						try:
+							str2 = self.get_data_2(v[0], 'body')
+						except ValueError as e:
+							print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
+							continue
+						self.html_2(v[1], v[0], str2)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+						print(v[2])
+						run_num += 1
+					elif k in [6,7,9,10,11,12,13]: # 8
+						try:
+							str3 = self.get_data_3(v[0], 'html')
+						except ValueError as e:
+							print('错误信息:{}=>{} -> 暂未更新'.format(v[1], v[2]))
+							continue
+						self.html_3(v[1], v[0], str3)
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						# print(v[1])
+						print(v[2])
+						run_num += 1
+					elif k in [14]: # 投资价值
+						self.get_38code(v[1])
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						print(v[2])
+						run_num += 1
+				self.html_1_updata(str1_div) # 生成html
+				if run_num==13:
+					is_flag = False
+				else:
+					num += 1
+					print(
+								'--------------------', 
+								'错误信息: 没有更新完!!!', 
+								'代码运行第 {} 次'.format(num), 
+								'--------------------', 
+								'', 
+								sep = '\r\n')
+					if num==5:
+						break
+			except:
+				print("Connection refused by the server..")
+				continue
+
+	# 获取自己算法的40码
+	def get_38code(self, name = 'he_15'):
+		import sys
+		current_dir = os.path.dirname(os.path.abspath(__file__)) # 获取当前文件的绝对路径
+		sys.path.append(os.path.join(current_dir, "..")) # 添加相对路径
+		from test_数据分析.test_he7_1 import He7Method
+		arr = He7Method().get_tj_num()
+		str2 = He7Method().ret_tj_clnum(20)
+		str1 = ''
+		for k,v in enumerate(arr):
+			if (k+1)%12 == 0:
+				str1 += (format(v, '02d')+'<br />')
 			else:
-				num += 1
-				print(
-							'--------------------', 
-							'错误信息: 没有更新完!!!', 
-							'代码运行第 {} 次'.format(num), 
-							'--------------------', 
-							'', 
-							sep = '\r\n')
-				if num==5:
-					break
-			# except:
-			# 	print("Connection refused by the server..")
-			# 	continue
+				str1 += (format(v, '02d')+', ')
+		str1 = '<h3>今日推荐 -> (总个数=>{}) -> 开奖？</h3>{}'.format(len(arr), str1)
+		# print(str1)
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
+		f = open(new_html, 'w', encoding="utf-8")
+		message = """<!DOCTYPE html>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%('投资价值',str1 + '<hr>' + str2)
+		f.write(message)
+		f.close()
 
 if __name__ == '__main__':
 	obj = ReqTols()

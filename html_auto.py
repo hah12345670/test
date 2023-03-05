@@ -598,7 +598,12 @@ var _hmt = _hmt || [];
 								[
 									'', 
 									'he_15', 
-									'测试'],
+									'测试1'],
+								# 快8 算法
+								[
+									'', 
+									'he_16', 
+									'测试2'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -643,8 +648,13 @@ var _hmt = _hmt || [];
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						print(v[2])
 						run_num += 1
+					elif k in [15]: # 快8
+						self.get_k8_tjnums(v[1])
+						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						print(v[2])
+						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==13:
+				if run_num==14:
 					is_flag = False
 				else:
 					num += 1
@@ -675,7 +685,7 @@ var _hmt = _hmt || [];
 				str1 += (format(v, '02d')+'<br />')
 			else:
 				str1 += (format(v, '02d')+', ')
-		str1 = '<h3>今日推荐 -> (总个数=>{}) -> 开奖？</h3>{}'.format(len(arr), str1)
+		str1 = '<h3>今日推荐 -> (总个数=>{}) -> 开奖？</h3>{}'.format(len(arr), '<font style="line-height: 24px;font-weight: bolder;">'+str1+'</font>')
 		# print(str1)
 		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
 		f = open(new_html, 'w', encoding="utf-8")
@@ -684,7 +694,44 @@ var _hmt = _hmt || [];
 <h1>%s</h1>
 <hr>
 %s
-"""%('投资价值',str1 + '<hr>' + str2)
+"""%('投资价值(澳门)',str1 + '<hr>' + str2)
+		f.write(message)
+		f.close()
+
+	# 获取快8推荐码
+	def get_k8_tjnums(self, name = 'he_16'):
+		import sys
+		current_dir = os.path.dirname(os.path.abspath(__file__)) # 获取当前文件的绝对路径
+		sys.path.append(os.path.join(current_dir, "..")) # 添加相对路径
+		from test_数据分析.test_kl8数据分析 import Kl8Method
+		arr1 = Kl8Method().ret_tj_kl8_num_test1()
+		new_arr1 = [k for k,v in enumerate(arr1[1][:-1]) if v == 0]
+		new_arr2 = [arr1[0][x] for x in new_arr1]	
+		# pprint(new_arr2) # 获取筛选号码
+		arr2 = Kl8Method().ret_tj_kl8_num()
+		# pprint(arr2)
+		str1 = ''
+		str2 = ''
+		for x in new_arr2:
+			temp_1 = ''
+			for y in x:
+				temp_1 += (str(y)+', ')
+			str1 += '['+temp_1[:-2]+']<br>'
+		str1 = '<h3>今日推荐1</h3>{}'.format('<font style="line-height: 24px;font-weight: bolder;">'+str1+'</font>')
+		for x in arr2:
+			temp_2 = ''
+			for y in x:
+				temp_2 += (str(y)+', ')
+			str2 += '['+temp_2[:-2]+']<br>'
+		str2 = '<h3>今日推荐2</h3>{}'.format('<font style="line-height: 24px;font-weight: bolder;">'+str2+'</font>')
+		new_html = os.path.dirname(__file__) + '\{}.html'.format(name)
+		f = open(new_html, 'w', encoding="utf-8")
+		message = """<!DOCTYPE html>
+<hr>
+<h1>%s</h1>
+<hr>
+%s
+"""%('快8参考',str1 + '<hr>' + str2)
 		f.write(message)
 		f.close()
 
@@ -692,6 +739,7 @@ if __name__ == '__main__':
 	obj = ReqTols()
 	# 爬虫的异常处理
 	obj.req_try_2()
+	# obj.get_k8_tjnums()
 	
 	print('================================')
 	timeEnd = time.time()

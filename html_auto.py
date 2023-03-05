@@ -595,9 +595,15 @@ var _hmt = _hmt || [];
 									'he_14', 
 									'买啥开啥'],
 								# 投资价值 自己的算法
-								['', 'he_15', '测试1'],
+								[
+									'', 
+									'he_15', 
+									'测试1'],
 								# 快8 算法
-								['', 'he_16', '测试2'],
+								[
+									'', 
+									'he_16', 
+									'测试2'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -734,7 +740,7 @@ if __name__ == '__main__':
 	# 爬虫的异常处理
 	obj.req_try_2()
 	# obj.get_k8_tjnums()
-	
+
 	print('================================')
 	timeEnd = time.time()
 	print('代码执行时间：', str(round(timeEnd - timeStart, 7)) + ' s')

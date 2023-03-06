@@ -776,7 +776,7 @@ var _hmt = _hmt || [];
 			except:
 				print("Connection refused by the server..")
 				time.sleep(3)
-				print("现在继续抓取数据...", "\r\n")
+				print("The sleep 3s, now continue to fetch data...", "\r\n")
 				continue
 
 	# 获取40码 自己的算法

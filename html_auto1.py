@@ -58,11 +58,9 @@ html_data = res.text
 selector = parsel.Selector(html_data)
 arr = selector.css('.white-box').getall()
 new_html = os.path.dirname(__file__) + '\{}.html'.format('test')
-
 # selector = parsel.Selector(arr[44])
 # arr = selector.css('.white-box table').getall()
 # res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)每期结束', arr[44], re.S)
-
 str1 = arr[44]
 f = open(new_html, 'w', encoding="utf-8")
 message = """<!DOCTYPE html>

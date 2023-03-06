@@ -747,7 +747,7 @@ var _hmt = _hmt || [];
 											['琴棋书画', 61], 
 											['九肖中特', 64], 
 											]
-						self.re_get_url_3(v[0], v[2], v[1], arr_pr)
+						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						print(v[2])
 						run_num += 1
@@ -755,7 +755,7 @@ var _hmt = _hmt || [];
 						arr_pr = [
 											['精准五尾', 20], 
 											]
-						self.re_get_url_3(v[0], v[2], v[1], arr_pr)
+						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						print(v[2])
 						run_num += 1

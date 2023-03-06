@@ -157,6 +157,10 @@
 <div class="">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
+<div class="qid" data-i="066" data-name="amlrw.jpg">
+第066期
+</div>
+</div><div class="swiper-slide">
 <div class="qid" data-i="065" data-name="amlrw.jpg">
 第065期
 </div>
@@ -423,7 +427,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://kk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+		    var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -445,7 +449,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://kk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+                var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");
@@ -527,7 +531,7 @@
 <div class="nav">
 <div class="tab" onclick="goToHome()">
 <i class="iconfont icon-home"></i>
-<p>首页</p>
+ <p>首页</p>
 </div>
 <div class="tab" onclick="goToCol()">
 <i class="iconfont icon-tu"></i>

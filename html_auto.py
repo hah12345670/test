@@ -543,12 +543,18 @@ var _hmt = _hmt || [];
 			res1 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)暴富18码', str1, re.S)
 			res2 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)美女20码', str1, re.S)
 			res3 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)买啥开啥', str1, re.S)
+			res4 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)首选特码', str1, re.S)
+			res5 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)期期头奖', str1, re.S)
+			res6 = re.findall(r'<div class="cgi-gsb grey-line">\n(.+?)全网最准', str1, re.S)
 		except ValueError as e:
 			print('错误信息:{} -> 无法访问'.format(urls))
 		return [
 						False if len(res1)==0 else urls + 'content?id={}&mc=true'.format(res1[0][-485:-480]), 
 						False if len(res2)==0 else urls + 'content?id={}&mc=true'.format(res2[0][-485:-480]), 
 						False if len(res3)==0 else urls + 'content?id={}&mc=true'.format(res3[0][-485:-480]),
+						False if len(res4)==0 else urls + 'content?id={}&mc=true'.format(res4[0][-485:-480]),
+						False if len(res5)==0 else urls + 'content?id={}&mc=true'.format(res5[0][-485:-480]),
+						False if len(res6)==0 else urls + 'content?id={}&mc=true'.format(res6[0][-485:-480]),
 						]
 
 	'''
@@ -625,18 +631,24 @@ var _hmt = _hmt || [];
 								# 管家婆
 								['https://393960.com/?mc=true', 'he_10', '管家婆'],
 								# 管家婆->论坛->杀料专区->绝杀三肖
+								# https://449408.com/user/lishi?user_id=1153
 								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
 								# 铁盘神算->论坛->暴富18码
+								# https://www.388318.com/user/lishi?user_id=1930
+								# user_id=1851
 								[
 									urls_arr[0], 
 									'he_12', 
 									'暴富18码'],
 								# 铁盘神算->论坛->美女20码
+								# https://www.388318.com/user/lishi?user_id=1928
+								# user_id=1864
 								[
 									urls_arr[1], 
 									'he_13', 
 									'美女20码'],
 								# 铁盘神算->论坛->买啥开啥
+								# https://www.388318.com/user/lishi?user_id=1909
 								[
 									urls_arr[2], 
 									'he_14', 
@@ -660,6 +672,24 @@ var _hmt = _hmt || [];
 									'https://www.388318.com/?mc=true', 
 									'he_18', 
 									'精准五尾'],
+								# 铁盘神算->论坛->首选特码(28码)
+								# https://www.388318.com/user/lishi?user_id=1816
+								[
+									urls_arr[3], 
+									'he_19', 
+									'首选特码(28码)'],
+								# 铁盘神算->论坛->期期头奖(36码)
+								# https://www.388318.com/user/lishi?user_id=1817
+								[
+									urls_arr[4], 
+									'he_20', 
+									'期期头奖(36码)'],
+								# 铁盘神算->论坛->全网最准(5肖+2波)
+								# https://www.388318.com/user/lishi?user_id=1732
+								[
+									urls_arr[5], 
+									'he_21', 
+									'全网最准(5肖+2波)'],
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
@@ -688,7 +718,7 @@ var _hmt = _hmt || [];
 						# print(v[1])
 						print(v[2])
 						run_num += 1
-					elif k in [6,7,9,10,11,12,13]: # 8
+					elif k in [6,7,9,10,11,12,13,18,19,20]: # 8
 						try:
 							str3 = self.get_data_3(v[0], 'html')
 						except ValueError as e:
@@ -730,7 +760,7 @@ var _hmt = _hmt || [];
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==16:
+				if run_num==19:
 					is_flag = False
 				else:
 					num += 1

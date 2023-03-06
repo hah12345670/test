@@ -614,7 +614,7 @@ var _hmt = _hmt || [];
 				urls_arr = self.re_get_url_1()
 				urls = [
 								['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan'],
-								['http://www-222739.com/141516.html#2', 'he_2', 'www-222739'],
+								['http://www563344.com/141516.html#2', 'he_2', 'www-222739'],
 								['https://mm.2168.site/', 'he_3', '2168_site'],
 								# 管家婆1
 								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
@@ -775,6 +775,8 @@ var _hmt = _hmt || [];
 						break
 			except:
 				print("Connection refused by the server..")
+				time.sleep(3)
+				print("现在继续抓取数据...", "\r\n")
 				continue
 
 	# 获取40码 自己的算法

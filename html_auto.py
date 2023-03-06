@@ -609,6 +609,7 @@ var _hmt = _hmt || [];
 		# 爬虫的异常处理
 		num = 0
 		is_flag = True
+		arr_nid = []
 		while is_flag:
 			try:
 				urls_arr = self.re_get_url_1()
@@ -696,6 +697,7 @@ var _hmt = _hmt || [];
 				str1_div = ''
 				run_num = 0
 				for k,v in enumerate(urls):
+					if k in arr_nid: continue
 					if k == 0:
 						try:
 							str1 = self.get_data_1(v[0], 'body')
@@ -705,6 +707,7 @@ var _hmt = _hmt || [];
 						self.html_2(v[1], v[0], str1)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [1,2,3,5]: # 4
@@ -716,6 +719,7 @@ var _hmt = _hmt || [];
 						self.html_2(v[1], v[0], str2)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [6,7,9,10,11,12,13,18,19,20]: # 8
@@ -727,16 +731,19 @@ var _hmt = _hmt || [];
 						self.html_3(v[1], v[0], str3)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [14]: # 投资价值
 						self.get_38code(v[1])
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [15]: # 快8
 						self.get_k8_tjnums(v[1])
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [16]: # 管家婆网页中的数据
@@ -749,6 +756,7 @@ var _hmt = _hmt || [];
 											]
 						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 					elif k in [17]: # 铁盘神算网页中的数据
@@ -757,6 +765,7 @@ var _hmt = _hmt || [];
 											]
 						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
+						arr_nid.append(k)
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html

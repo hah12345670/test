@@ -607,9 +607,11 @@ var _hmt = _hmt || [];
 	# 爬虫的异常处理 2
 	def req_try_2(self):
 		# 爬虫的异常处理
-		num = 0
+		num = 0 # 代码运行
 		is_flag = True
-		arr_nid = []
+		str1_div = '' # 首页的导航
+		run_num = 0 # 抓取成功的总次数
+		arr_nid = [] # 抓取成功的url的id数组
 		while is_flag:
 			try:
 				urls_arr = self.re_get_url_1()
@@ -694,8 +696,6 @@ var _hmt = _hmt || [];
 								# 48.48kk.homes:1888
 								['https://kj.48kk.homes:1888/', '', 'name'],
 								]
-				str1_div = ''
-				run_num = 0
 				for k,v in enumerate(urls):
 					if k in arr_nid: continue
 					if k == 0:
@@ -769,7 +769,7 @@ var _hmt = _hmt || [];
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==len(arr_nid):
+				if run_num==len(urls)-3:
 					is_flag = False
 				else:
 					num += 1

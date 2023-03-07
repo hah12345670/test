@@ -616,89 +616,89 @@ var _hmt = _hmt || [];
 			try:
 				urls_arr = self.re_get_url_1()
 				urls = [
-								['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan'],
-								['http://www563344.com/141516.html#2', 'he_2', 'www-222739'],
-								['https://mm.2168.site/', 'he_3', '2168_site'],
+								['http://dfw2.dingfuluntan.com/#667233', 'he_1', 'dfw1.dingfuluntan', 0],
+								['http://www563344.com/141516.html#2', 'he_2', 'www-222739', 1],
+								['https://mm.2168.site/', 'he_3', '2168_site', 2],
 								# 管家婆1
-								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834'],
+								['https://aa.7278834.com:1888/', 'he_4', 'aa_7278834', 3],
 								# 255727的棋琴书画
-								['https://bxzwz.com/hao.aspx?id=44', 'he_5', '棋琴书画'],
+								['https://bxzwz.com/hao.aspx?id=44', 'he_5', '棋琴书画', 4],
 								# 255727的无错十肖
-								['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖'],
+								['https://bxzwz.com/tt.aspx?id=0008', 'he_6', '无错十肖', 5],
 								# 48k的澳门老人味
-								['https://33.48kk99.com/Images/info/id/14', 'he_7', '澳门老人味'],
+								['https://33.48kk99.com/Images/info/id/14', 'he_7', '澳门老人味', 6],
 								# 48k的无错三十六码
-								['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码'],
+								['https://33.48kk99.com/Images/info/id/1874', 'he_8', '无错三十六码', 7],
 								# 管家婆一句赢大钱
-								['https://77902.com/img?id=1781', 'he_9', '管家婆一句赢大钱'],
+								['https://77902.com/img?id=1781', 'he_9', '管家婆一句赢大钱', 8],
 								# 管家婆
-								['https://393960.com/?mc=true', 'he_10', '管家婆'],
+								['https://393960.com/?mc=true', 'he_10', '管家婆', 9],
 								# 管家婆->论坛->杀料专区->绝杀三肖
 								# https://449408.com/user/lishi?user_id=1153
-								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖'],
+								['https://449408.com/content?id=37928&mc=true', 'he_11', '没有三肖', 10],
 								# 铁盘神算->论坛->暴富18码
 								# https://www.388318.com/user/lishi?user_id=1930
 								# user_id=1851
 								[
 									urls_arr[0], 
 									'he_12', 
-									'暴富18码'],
+									'暴富18码', 11],
 								# 铁盘神算->论坛->美女20码
 								# https://www.388318.com/user/lishi?user_id=1928
 								# user_id=1864
 								[
 									urls_arr[1], 
 									'he_13', 
-									'美女20码'],
+									'美女20码', 12],
 								# 铁盘神算->论坛->买啥开啥
 								# https://www.388318.com/user/lishi?user_id=1909
 								[
 									urls_arr[2], 
 									'he_14', 
-									'买啥开啥'],
-								# 投资价值 自己的算法
-								[
-									'', 
-									'he_15', 
-									'测试1'],
-								# 快8 算法
-								[
-									'', 
-									'he_16', 
-									'测试2'],
+									'买啥开啥', 13],
 								# 网页中获取指定数据
 								[
 									'https://www.393960.com/?mc=true', 
 									'he_17', 
-									'管家婆精选'],
+									'管家婆精选', 16],
 								[
 									'https://www.388318.com/?mc=true', 
 									'he_18', 
-									'精准五尾'],
+									'精准五尾', 17],
 								# 铁盘神算->论坛->首选特码(28码)
 								# https://www.388318.com/user/lishi?user_id=1816
 								[
 									urls_arr[3], 
 									'he_19', 
-									'首选特码(28码)'],
+									'首选特码(28码)', 18],
 								# 铁盘神算->论坛->期期头奖(36码)
 								# https://www.388318.com/user/lishi?user_id=1817
 								[
 									urls_arr[4], 
 									'he_20', 
-									'期期头奖(36码)'],
+									'期期头奖(36码)', 19],
 								# 铁盘神算->论坛->全网最准(5肖+2波)
 								# https://www.388318.com/user/lishi?user_id=1732
 								[
 									urls_arr[5], 
 									'he_21', 
-									'全网最准(5肖+2波)'],
+									'全网最准(5肖+2波)', 20],
+								# 投资价值 自己的算法
+								[
+									'', 
+									'he_15', 
+									'测试1', 14],
+								# 快8 算法
+								[
+									'', 
+									'he_16', 
+									'测试2', 15],
 								# 48.48kk.homes:1888
-								['https://kj.48kk.homes:1888/', '', 'name'],
+								['https://kj.48kk.homes:1888/', '', 'name', 53],
 								]
-				for k,v in enumerate(urls):
-					if k in arr_nid: continue
-					if k == 0:
+				for v in urls:
+					if v[3] in arr_nid: continue
+					if v[3] == 0:
 						try:
 							str1 = self.get_data_1(v[0], 'body')
 						except ValueError as e:
@@ -707,10 +707,10 @@ var _hmt = _hmt || [];
 						self.html_2(v[1], v[0], str1)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [1,2,3,5]: # 4
+					elif v[3] in [1,2,3,5]: # 4
 						try:
 							str2 = self.get_data_2(v[0], 'body')
 						except ValueError as e:
@@ -719,10 +719,10 @@ var _hmt = _hmt || [];
 						self.html_2(v[1], v[0], str2)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [6,7,9,10,11,12,13,18,19,20]: # 8
+					elif v[3] in [6,7,9,10,11,13,18]: # 8 12 19 20 
 						try:
 							str3 = self.get_data_3(v[0], 'html')
 						except ValueError as e:
@@ -731,22 +731,22 @@ var _hmt = _hmt || [];
 						self.html_3(v[1], v[0], str3)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						# print(v[1])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [14]: # 投资价值
+					elif v[3] in [14]: # 投资价值
 						self.get_38code(v[1])
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [15]: # 快8
+					elif v[3] in [15]: # 快8
 						self.get_k8_tjnums(v[1])
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [16]: # 管家婆网页中的数据
+					elif v[3] in [16]: # 管家婆网页中的数据
 						arr_pr = [
 											['八肖中特', 9], 
 											['独占三国', 17], 
@@ -756,20 +756,20 @@ var _hmt = _hmt || [];
 											]
 						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif k in [17]: # 铁盘神算网页中的数据
+					elif v[3] in [17]: # 铁盘神算网页中的数据
 						arr_pr = [
 											['精准五尾', 20], 
 											]
 						self.re_get_url_3(v[0], v[0], v[1], arr_pr)
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
-						arr_nid.append(k)
+						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==len(urls)-3:
+				if run_num==len(urls)-6:
 					is_flag = False
 				else:
 					num += 1

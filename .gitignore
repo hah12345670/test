@@ -1,5 +1,3 @@
 .gitignore
-html_auto.py
-html_db.py
-html_test.py
-test.db
+*.py
+*.db

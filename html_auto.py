@@ -734,7 +734,7 @@ var _hmt = _hmt || [];
 						arr_nid.append(v[3])
 						print(v[2])
 						run_num += 1
-					elif v[3] in [14]: # 投资价值
+					elif v[3] in []: # 投资价值 14
 						self.get_38code(v[1])
 						str1_div += '<a class="xianlu_item" href="{}.html"><div class="text">{}</div><div class="icon m_show"></div></a>'.format(v[1], v[2])
 						arr_nid.append(v[3])
@@ -769,7 +769,7 @@ var _hmt = _hmt || [];
 						print(v[2])
 						run_num += 1
 				self.html_1_updata(str1_div) # 生成html
-				if run_num==len(urls)-6:
+				if run_num==len(urls)-7:
 					is_flag = False
 				else:
 					num += 1

@@ -158,6 +158,10 @@
 <div class="">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
+<div class="qid" data-i="077" data-name="amlrw.jpg">
+第077期
+</div>
+</div><div class="swiper-slide">
 <div class="qid" data-i="076" data-name="amlrw.jpg">
 第076期
 </div>
@@ -212,11 +216,11 @@
 </div><div class="swiper-slide">
 <div class="qid" data-i="063" data-name="amlrw.jpg">
 第063期
-</div>
+ </div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="062" data-name="amlrw.jpg">
 第062期
- </div>
+</div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="061" data-name="amlrw.jpg">
 第061期
@@ -333,11 +337,11 @@
 <div class="qid" data-i="033" data-name="amlrw.jpg">
 第033期
 </div>
-</div><div class="swiper-slide">
+ </div><div class="swiper-slide">
 <div class="qid" data-i="032" data-name="amlrw.jpg">
 第032期
 </div>
- </div><div class="swiper-slide">
+</div><div class="swiper-slide">
 <div class="qid" data-i="031" data-name="amlrw.jpg">
 第031期
 </div>
@@ -468,7 +472,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://tk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+		    var url = 'https://mm.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -490,7 +494,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://tk.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+                var url = 'https://mm.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

@@ -20,7 +20,11 @@ textarea {
 }
 
 div {
-	box-sizing: border-box
+	box-sizing: border-box;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	width: 100%;
 }
 
 p {

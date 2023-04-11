@@ -158,6 +158,10 @@
 <div class="">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
+<div class="qid" data-i="102" data-name="amlrw.jpg">
+第102期
+</div>
+</div><div class="swiper-slide">
 <div class="qid" data-i="101" data-name="amlrw.jpg">
 第101期
 </div>
@@ -211,11 +215,11 @@
 </div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="088" data-name="amlrw.jpg">
-第088期
+ 第088期
 </div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="087" data-name="amlrw.jpg">
- 第087期
+第087期
 </div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="086" data-name="amlrw.jpg">
@@ -332,11 +336,11 @@
 </div><div class="swiper-slide">
 <div class="qid" data-i="058" data-name="amlrw.jpg">
 第058期
-</div>
+ </div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="057" data-name="amlrw.jpg">
 第057期
- </div>
+</div>
 </div><div class="swiper-slide">
 <div class="qid" data-i="056" data-name="amlrw.jpg">
 第056期
@@ -453,11 +457,11 @@
 <div class="qid" data-i="028" data-name="amlrw.jpg">
 第028期
 </div>
-</div><div class="swiper-slide">
+ </div><div class="swiper-slide">
 <div class="qid" data-i="027" data-name="amlrw.jpg">
 第027期
 </div>
- </div><div class="swiper-slide">
+</div><div class="swiper-slide">
 <div class="qid" data-i="026" data-name="amlrw.jpg">
 第026期
 </div>
@@ -568,7 +572,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+		    var url = 'https://mm.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -590,7 +594,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://tu.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
+                var url = 'https://mm.tuku.fit/aomen/2023/col'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

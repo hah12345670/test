@@ -49,7 +49,10 @@
 										// 判断当前数据是否为升序
 										const isAsc = this.isAsc(list, index);
 										// 如果当前为升序，则将list降序排序；如果当前为降序，则将list升序排序；
-										list.sort((a, b) => isAsc ? b.value[index]- a.value[index]: a.value[index] - b.value[index]);
+										// 默认是升序
+										// list.sort((a, b) => isAsc ? b.value[index]- a.value[index]: a.value[index] - b.value[index]);
+										// 默认是降序
+										list.sort((a, b) => isAsc ? a.value[index]- b.value[index]: b.value[index] - a.value[index]);
 										// 将排序后的list重新插入tbody中
 										list.forEach((tr, index) => {
 												tbody.appendChild(tr.tr)
@@ -72,7 +75,8 @@
 						let arr = list.map(tr => tr.value[index])
 						let flag = true;
 						for(let i=0; i<arr.length - 1; i++){
-								if(arr[i] > arr[i+1]){
+								// if(arr[i] > arr[i+1]){ // 默认是升序
+								if(arr[i] < arr[i+1]){ // 默认是降序
 										flag = false;
 										break;
 								}

@@ -1,0 +1,27 @@
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #141414 !important;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+th{
+	background-color:#ddeeff !important; 
+}
+th, td{
+	width: auto;
+	/* border: 1px solid bisque; */
+	padding: 0 9px 0 9px;
+	text-align: center;
+	word-wrap: break-word;
+}
+tr:nth-child(odd) {
+	background-color: #ffe4c4;
+}
+tr:nth-child(even) {
+	background-color: #ffffff;
+}
+tr:hover {
+	background: #f3f3f3;
+}

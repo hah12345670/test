@@ -5,7 +5,8 @@ table {
 	border: 1px solid #131313 !important;
 }
 th{
-	background-color:#ddeeff !important; 
+	/* background-color:#ddeeff !important; */
+	background-color:#ffeebe !important;
 }
 th, td{
 	width: auto;
@@ -21,5 +22,5 @@ tr:nth-child(even) {
 	background-color: #ffffff;
 }
 tr:hover {
-	background: #f3f3f3;
+	background: #dddddd;
 }

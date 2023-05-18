@@ -1,0 +1,23 @@
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #131313 !important;
+}
+th{
+	/* background-color:#ddeeff !important; */
+	background-color:#ffeebe !important;
+}
+th, td{
+	width: auto;
+	/* border: 1px solid bisque; */
+	border: 1px solid #c6c6c6;
+	padding: 0 9px 0 9px;
+	text-align: center;
+}
+tr {
+	background-color: #ffffff;
+}
+tr:hover {
+	background: #dddddd;
+}

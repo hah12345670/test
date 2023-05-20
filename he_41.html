@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+		<!-- <div id="showtimer1"></div> -->
+		<!-- 计时器 -->
+		<div id="showtimer2"></div>
+		<div id="showdata"></div>
+		<script>
+		let myVar = setInterval(function(){myTimer()},1000);
+		function myTimer(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// 当前多少秒
+			nowsecends = d.getHours()*3600 + d.getMinutes()*60 + d.getSeconds();
+			// 目标时间
+			tragetseconds = 21*3600 + 33*60;
+			// 倒计时 秒数
+			let timeInterval = tragetseconds > nowsecends ? tragetseconds-nowsecends:tragetseconds+24*3600-nowsecends;
+			ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate()
+			h = parseInt(timeInterval/3600) + ':';
+			m = parseInt(timeInterval%3600/60) + ':';
+			s = timeInterval%3600%60 < 10 ? '0'+timeInterval%3600%60 : timeInterval%3600%60;
+			// document.getElementById("showtimer1").innerHTML = ymd + ' ' + t;
+			document.getElementById("showtimer2").innerHTML = '倒计时: ' + h + m + s;
+		}
+		</script>
+		<!-- 刷新开奖数据 -->
+		<script>
+		let datajson = setInterval(function(){resjson()},5000);
+		function resjson(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://www.macaumarksix.com/api/macaujc2.com', true);
+			xhr.responseType = 'json';
+			xhr.onload = function() {
+				str1 = '<link href="table_base2.css" rel="stylesheet" type="text/css" /><table><tr><th>期数</th><th>开奖时间</th><th colspan=6>平码</th><th>特码</th></tr>'
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let arr1 = [1,2,4]
+					// console.log(jsonResponse); // 返回的JSON对象
+					for(let x=0;x<5;x++){
+						str1 += '<tr>'
+						let arr1 = [],arr2 = [],arr3 = [];
+						arr1 = jsonResponse[x]['openCode'].split(',')
+						arr2 = jsonResponse[x]['wave'].split(',')
+						arr3 = jsonResponse[x]['zodiac'].split(',')
+						str1 += '<td rowspan=2>' + jsonResponse[x]['expect'] + '</td>'
+						str1 += '<td rowspan=2>' + jsonResponse[x]['openTime'].substring(0, 16) + '</td>'
+						for(let y=0;y<arr1.length;y++){
+							str1 += '<td><span style="background-color:' + arr2[y] + ';border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;">' + arr1[y] + '</span></td>'
+						}
+						str1 += '</tr><tr>'
+						for(let y=0;y<arr3.length;y++){
+							str1 += '<td>' + arr3[y] + '</td>'
+						}
+						str1 += '</tr>'
+					}
+					str1 += '</table>'
+					document.getElementById("showdata").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		</script>
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div style="font-weight: bolder;font-size: 1px;"><span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, <span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span></div>
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-17W024N6QS');
+		</script>
+		
+		

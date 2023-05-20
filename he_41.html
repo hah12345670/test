@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 		<!-- <div id="showtimer1"></div> -->
-		<!-- 计时器 -->
 		<div id="showtimer2"></div>
 		<div id="showdata"></div>
+		<!-- 计时器 -->
 		<script>
 		let myVar = setInterval(function(){myTimer()},1000);
 		function myTimer(){
@@ -24,7 +24,7 @@
 		</script>
 		<!-- 刷新开奖数据 -->
 		<script>
-		let datajson = setInterval(function(){resjson()},5000);
+		let datajson = setInterval(function(){resjson()},1000);
 		function resjson(){
 			var xhr = new XMLHttpRequest();
 			xhr.open('GET', 'https://www.macaumarksix.com/api/macaujc2.com', true);
@@ -41,8 +41,8 @@
 						arr1 = jsonResponse[x]['openCode'].split(',')
 						arr2 = jsonResponse[x]['wave'].split(',')
 						arr3 = jsonResponse[x]['zodiac'].split(',')
-						str1 += '<td rowspan=2>' + jsonResponse[x]['expect'] + '</td>'
-						str1 += '<td rowspan=2>' + jsonResponse[x]['openTime'].substring(0, 16) + '</td>'
+						str1 += '<td rowspan=3>' + jsonResponse[x]['expect'] + '</td>'
+						str1 += '<td rowspan=3>' + jsonResponse[x]['openTime'].substring(0, 16) + '</td>'
 						for(let y=0;y<arr1.length;y++){
 							str1 += '<td><span style="background-color:' + arr2[y] + ';border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;">' + arr1[y] + '</span></td>'
 						}
@@ -50,6 +50,7 @@
 						for(let y=0;y<arr3.length;y++){
 							str1 += '<td>' + arr3[y] + '</td>'
 						}
+						str1 += '</tr><tr><td colspan=7><span style="display: inline-block;"></span></td>'
 						str1 += '</tr>'
 					}
 					str1 += '</table>'

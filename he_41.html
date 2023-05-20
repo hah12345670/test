@@ -15,11 +15,11 @@
 			// 倒计时 秒数
 			let timeInterval = tragetseconds > nowsecends ? tragetseconds-nowsecends:tragetseconds+24*3600-nowsecends;
 			ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate()
-			h = parseInt(timeInterval/3600) + ':';
-			m = parseInt(timeInterval%3600/60) + ':';
+			h = parseInt(timeInterval/3600) < 10 ? '0'+parseInt(timeInterval/3600) : parseInt(timeInterval/3600);
+			m = parseInt(timeInterval%3600/60) < 10 ? '0'+parseInt(timeInterval%3600/60) : parseInt(timeInterval%3600/60);
 			s = timeInterval%3600%60 < 10 ? '0'+timeInterval%3600%60 : timeInterval%3600%60;
 			// document.getElementById("showtimer1").innerHTML = ymd + ' ' + t;
-			document.getElementById("showtimer2").innerHTML = '倒计时: ' + h + m + s;
+			document.getElementById("showtimer2").innerHTML = '倒计时: ' + h + ':' + m + ':' + s;
 		}
 		</script>
 		<!-- 刷新开奖数据 -->

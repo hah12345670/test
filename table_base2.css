@@ -16,6 +16,15 @@ th, td{
 	padding: 5px 9px 5px 9px;
 	text-align: center;
 }
+td:nth-child(1) {
+	background: #ffffff;
+}
+td:nth-child(2) {
+	background: #ffffff;
+}
+tr:nth-child(3n-1) {
+	background: #d2d3d5 !important;
+}
 /* tr:hover {
 	background: #dddddd;
 } */

@@ -1,5 +1,5 @@
 <!DOCTYPE html><title>统计访问量</title>
-		<div id="showtimer"></div>
+		<!-- <div id="showtimer"></div>
 		<script>
 		let reloadhtml = setInterval(function(){reload()},1000);
 		let ds = new Date(); // 当前多少秒
@@ -14,58 +14,16 @@
 			let nowseconds = d.getSeconds();
 			if(istrue && (startseconds%60 == nowseconds)){
 				istrue = false;
-				document.getElementById("showtimer").innerHTML = '<script async src="\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js"><\/script><p><div style="font-weight: bolder;font-size: 24px;"><span id="busuanzi_container_site_uv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访客量 <span id="busuanzi_value_site_uv"><\/span><\/span>, <span id="busuanzi_container_site_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访问量 <span id="busuanzi_value_site_pv"><\/span><\/span>, <span id="busuanzi_container_page_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总阅读量 <span id="busuanzi_value_page_pv"><\/span><\/span><\/div><\/p>';
+				document.getElementById("showtimer").innerHTML = '<script async src="\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js"><\/script><div style="font-weight: bolder;font-size: 24px;"><span id="busuanzi_container_site_uv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访客量 <span id="busuanzi_value_site_uv"><\/span><\/span>, <span id="busuanzi_container_site_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访问量 <span id="busuanzi_value_site_pv"><\/span><\/span>, <span id="busuanzi_container_page_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总阅读量 <span id="busuanzi_value_page_pv"><\/span><\/span><\/div>';
 			}
 		}
-		function resjson(){
-			var xhr = new XMLHttpRequest();
-			xhr.open('GET', 'https://www.macaumarksix.com/api/macaujc2.com', true);
-			xhr.responseType = 'json';
-			xhr.onload = function() {
-				str1 = '<link href="table_base2.css" rel="stylesheet" type="text/css" /><table><tr><th>期数</th><th>开奖时间</th><th colspan=6>平码</th><th>特码</th></tr>'
-				if (xhr.status === 200) {
-					var jsonResponse = xhr.response;
-					let arr1 = [1,2,4]
-					// console.log(jsonResponse); // 返回的JSON对象
-					for(let x=0;x<5;x++){
-						str1 += '<tr>'
-						let arr1 = [],arr2 = [],arr3 = [];
-						arr1 = jsonResponse[x]['openCode'].split(',')
-						arr2 = jsonResponse[x]['wave'].split(',')
-						arr3 = jsonResponse[x]['zodiac'].split(',')
-						str1 += '<td rowspan=3>' + jsonResponse[x]['expect'] + '</td>'
-						str1 += '<td rowspan=3>' + jsonResponse[x]['openTime'].substring(0, 16) + '</td>'
-						for(let y=0;y<arr1.length;y++){
-							str1 += '<td><span style="background-color:' + arr2[y] + ';border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;">' + arr1[y] + '</span></td>'
-						}
-						str1 += '</tr><tr>'
-						for(let y=0;y<arr3.length;y++){
-							str1 += '<td>' + arr3[y] + '</td>'
-						}
-						str1 += '</tr><tr><td colspan=7><span style="display: inline-block;"></span></td>'
-						str1 += '</tr>'
-					}
-					str1 += '</table>'
-					document.getElementById("showdata").innerHTML = str1;
-				}
-			};
-			xhr.send();
-		}
-		</script>
+		</script> -->
 		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		<p>
-			<div style="font-weight: bolder;font-size: 24px;">
-				<span id="busuanzi_container_site_uv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访客量 <span id="busuanzi_value_site_uv"></span></span>, 
-				<span id="busuanzi_container_site_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访问量 <span id="busuanzi_value_site_pv"></span></span>, 
-				<span id="busuanzi_container_page_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总阅读量 <span id="busuanzi_value_page_pv"></span></span>
-			</div>
-		</p>
-		<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		<div style="font-weight: bolder;font-size: 24px;">
 			<span id="busuanzi_container_site_uv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访客量 <span id="busuanzi_value_site_uv"></span></span>, 
 			<span id="busuanzi_container_site_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总访问量 <span id="busuanzi_value_site_pv"></span></span>, 
 			<span id="busuanzi_container_page_pv" style="border: 1px solid #0ae;margin-right: 15px;padding: 0 5px 5px 5px;">总阅读量 <span id="busuanzi_value_page_pv"></span></span>
-		</div> -->
+		</div>
 		
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>

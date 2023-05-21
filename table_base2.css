@@ -3,6 +3,7 @@ table {
 	border-collapse: collapse;
 	width: 100%;
 	border: 1px solid #131313 !important;
+	table-layout: fixed;
 }
 th{
 	/* background-color:#ddeeff !important; */

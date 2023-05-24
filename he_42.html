@@ -1,0 +1,236 @@
+<!DOCTYPE html><title>开奖计时(体育)</title>
+		<div id="showtimer1"></div>
+		<!-- <div id="showtimer2"></div> -->
+		<div id="showdata"></div>
+		<div id="showdata1"></div>
+		<div id="showdata2"></div>
+		<div id="showdata3"></div>
+		<div id="showdata4"></div>
+		<!-- 计时器 -->
+		<script>
+		let myVar = setInterval(function(){myTimer()},1000);
+		function myTimer(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// 当前多少秒
+			nowsecends = d.getHours()*3600 + d.getMinutes()*60 + d.getSeconds();
+			// 目标时间
+			tragetseconds = 21*3600 + 40*60;
+			// 倒计时 秒数
+			let timeInterval = tragetseconds > nowsecends ? tragetseconds-nowsecends:tragetseconds+24*3600-nowsecends;
+			ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate()
+			h = parseInt(timeInterval/3600) < 10 ? '0'+parseInt(timeInterval/3600) : parseInt(timeInterval/3600);
+			m = parseInt(timeInterval%3600/60) < 10 ? '0'+parseInt(timeInterval%3600/60) : parseInt(timeInterval%3600/60);
+			s = timeInterval%3600%60 < 10 ? '0'+timeInterval%3600%60 : timeInterval%3600%60;
+			document.getElementById("showtimer1").innerHTML = ymd + ' ' + t;
+			// document.getElementById("showtimer2").innerHTML = '倒计时: ' + h + ':' + m + ':' + s;
+		}
+		</script>
+		<!-- 刷新开奖数据 -->
+		<style>
+			/*表格样式*/
+			table {
+				width: 100%;
+				background: #ccc;
+				margin: 10px auto;
+				border-collapse: collapse;
+				/*border-collapse:collapse合并内外边距
+			(去除表格单元格默认的2个像素内外边距*/
+			}
+			th,td {
+				height: 25px;
+				line-height: 25px;
+				text-align: center;
+				border: 1px solid #ccc;
+			}
+			th {
+				background: #eee;
+				font-weight: normal;
+			}
+			tr {
+				background: #fff;
+			}
+			tr:nth-child(odd){
+				background-color:#fff; 
+			}
+			/* tr:nth-child(even){
+				background-color: #f8f8f8;
+			}
+			tr:hover {
+				background: #cc0;
+			} */
+		</style>
+		<script>
+		let datajson = setInterval(function(){resjson_kl8();resjson_ssq();resjson_3d();resjson_dlt();resjson_pl3();},1000);
+		function resjson_kl8(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://mix.lottery.sina.com.cn/gateway/index/entry?callback=kl81684938915972&__caller__=web&__verno__=1&__version__=1&cat1=gameOpenInfo&format=json&lottoType=104&dpc=1&_=1684938914740', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let jsonstr = jsonResponse.slice(21, -14);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td>' + json_str.result.data.lottoTypeCn + '</td>'
+					str1 += '<td width="8%">' + json_str.result.data.issueNo + '</td>'
+					str1 += '<td width="15%">' + json_str.result.data.createTime.substring(0, 16) + '</td><td width="70%">'
+					for(let x=0;x<json_str.result.data.openResults.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.openResults[x] + '</span>'
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		function resjson_ssq(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://mix.lottery.sina.com.cn/gateway/index/entry?callback=ssq1684945962497&__caller__=web&__verno__=1&__version__=1&cat1=gameOpenInfo&format=json&lottoType=101&dpc=1&_=1684945962269', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let jsonstr = jsonResponse.slice(21, -14);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td>' + json_str.result.data.lottoTypeCn + '</td>'
+					str1 += '<td width="8%">' + json_str.result.data.issueNo + '</td>'
+					str1 += '<td width="15%">' + json_str.result.data.createTime.substring(0, 16) + '</td><td width="70%">'
+					for(let x=0;x<json_str.result.data.redResults.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.redResults[x] + '</span>'
+					}
+					for(let x=0;x<json_str.result.data.blueResults.length;x++){
+						str1 += '<span style="background-color:blue;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.blueResults[x] + '</span>'
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata1").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		function resjson_3d(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://mix.lottery.sina.com.cn/gateway/index/entry?callback=fc3d1684945962501&__caller__=web&__verno__=1&__version__=1&cat1=gameOpenInfo&format=json&lottoType=102&dpc=1&_=1684945962270', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let jsonstr = jsonResponse.slice(22, -14);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td>' + json_str.result.data.lottoTypeCn + '</td>'
+					str1 += '<td width="8%">' + json_str.result.data.issueNo + '</td>'
+					str1 += '<td width="15%">' + json_str.result.data.createTime.substring(0, 16) + '</td><td width="70%">'
+					for(let x=0;x<json_str.result.data.openResults.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.openResults[x] + '</span>'
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata2").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		function resjson_dlt(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://match.lottery.sina.com.cn/client/index/clientProxy?callback=dlt1684946544857&__caller__=web&__verno__=1&cat1=gameCurrentInfo&format=json&gameCode=201&_=1684946544407', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let jsonstr = jsonResponse.slice(21, -14);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td>' + json_str.result.data.gameDesc + '</td>'
+					str1 += '<td width="8%">' + json_str.result.data.issue_no + '</td>'
+					str1 += '<td width="15%">' + json_str.result.data.create_time.substring(0, 16) + '</td><td width="70%">'
+					let red_result = json_str.result.data.red_result.split(',');
+					for(let x=0;x<red_result.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + red_result[x] + '</span>'
+					}
+					let blue_result = json_str.result.data.blue_result.split(',');
+					for(let x=0;x<blue_result.length;x++){
+						str1 += '<span style="background-color:blue;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + blue_result[x] + '</span>'
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata3").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		function resjson_pl3(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://match.lottery.sina.com.cn/client/index/clientProxy?callback=pl31684946644521&__caller__=web&__verno__=1&cat1=gameCurrentInfo&format=json&gameCode=203&_=1684946644279', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					let jsonstr = jsonResponse.slice(21, -14);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td>' + json_str.result.data.gameDesc + '</td>'
+					str1 += '<td width="8%">' + json_str.result.data.issue_no + '</td>'
+					str1 += '<td width="15%">' + json_str.result.data.create_time.substring(0, 16) + '</td><td width="70%">'
+					let open_result = json_str.result.data.open_result.split(',');
+					for(let x=0;x<open_result.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + open_result[x] + '</span>'
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata4").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		</script>
+		
+		<!-- <div id="show_js"></div>
+		<script>
+		let reloadhtml = setInterval(function(){reload()},1000);
+		let ds = new Date(); // 当前多少秒
+		// let startseconds = ds.getHours()*3600 + ds.getMinutes()*60 + ds.getSeconds();
+		let startseconds = ds.getSeconds() + 10;
+		let showjsistrue = true;
+		function reload(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// document.getElementById("show_js").innerHTML = t;
+			// 现在多少秒
+			let nowseconds = d.getSeconds();
+			if(showjsistrue && (startseconds%%60 == nowseconds)){
+				showjsistrue = false;
+				document.getElementById("show_js").innerHTML = '<script async src="\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js"><\/script><div style="font-weight: bolder;font-size: 0px;"><span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"><\/span><\/span>, <span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"><\/span><\/span>, <span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"><\/span><\/span><\/div>';
+			}
+		}
+		</script> -->
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		<div style="font-weight: bolder;font-size: 0px;">
+			<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
+			<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
+			<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
+		</div>
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-17W024N6QS');
+		</script>
+		
+		

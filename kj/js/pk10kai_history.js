@@ -900,8 +900,8 @@ function createHtmlList(jsondata) {
 			}
 		}
 		var drawCode = "";
-		// $("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
-		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th></tr>');
+		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
+		// $("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th></tr>');
 		for(var i = 0, len = data.length; i < len; i++) {
 			drawCode = data[i].preDrawCode.split(",");
 			var lilist = "";
@@ -930,8 +930,8 @@ function createHtmlList(jsondata) {
 				var style7 = (fifthDT == "龙") ? stylestr + "#f12d35'" : "'";
 			}
 			var colortd = "<td " + style1 + ">" + sumBigSamll + "</td><td " + style2 + ">" + sumSingleDouble + "</td><td " + style3 + ">" + firstDT + "</td><td " + style4 + ">" + secondDT + "</td><td " + style5 + ">" + thirdDT + "</td><td " + style6 + ">" + fourthDT + "</td><td " + style7 + ">" + fifthDT + "</td>";
-			// var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td><td>" + data[i].sumFS + "</td>" + colortd;
-			var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td>";
+			var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td><td>" + data[i].sumFS + "</td>" + colortd;
+			// var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td>";
 			var tr = "<tr>" + td + "</tr>";
 			$("#jrsmhmtj>table").append(tr);
 		}

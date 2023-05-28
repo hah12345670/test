@@ -891,15 +891,15 @@ function createHtmlList(jsondata) {
 	xhr.onload = function() {
 		var data = xhr.response;
 		data = data.result.data;
-		if (data.length < 50){
+		if (data.length < 80){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
 			let data1 = JSON.parse(data1str);
-			for(var x = 0, len = 50-data.length; x < len; x++) {
+			for(var x = 0, len = 80-data.length; x < len; x++) {
 				data.push(data1[x]);
 			}
 		}else{
-			data = data.slice(0, 50);
+			data = data.slice(0, 80);
 		}
 		var drawCode = "";
 		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');

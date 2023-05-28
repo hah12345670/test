@@ -1,5 +1,5 @@
 $(function() {
-	var response;
+	getDataList(getDateStr(-1));
 	createHtmlList(getDateStr(0));
 	let myVar = setInterval(function(){myTimer()},1000);
 	//开启加载动画
@@ -894,12 +894,9 @@ function createHtmlList(jsondata) {
 		if (data.length < 100){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
-			if (data1str){
-				let data1 = JSON.parse(data1str);
-				// let data2 = Object.assign(data.slice(0,1), data1.slice(0,3))
-				for(var x = 0, len = 100-data.length; x < len; x++) {
-					data.push(data1[x]);
-				}
+			let data1 = JSON.parse(data1str);
+			for(var x = 0, len = 100-data.length; x < len; x++) {
+				data.push(data1[x]);
 			}
 		}
 		var drawCode = "";

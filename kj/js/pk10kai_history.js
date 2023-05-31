@@ -891,6 +891,7 @@ function createHtmlList(jsondata) {
 	xhr.onload = function() {
 		var data = xhr.response;
 		data = data.result.data;
+		// document.getElementById("tjdata").value = JSON.stringify(data); // 今日
 		if (data.length < 80){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
@@ -901,7 +902,7 @@ function createHtmlList(jsondata) {
 		}else{
 			data = data.slice(0, 80);
 		}
-		document.getElementById("tjdata").value = JSON.stringify(data);
+		document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
 		getDataList1();
 		var drawCode = "";
 		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
@@ -1007,14 +1008,54 @@ function getDataList1() {
 	data_8 = singleNumber(data_8).sort(function(x, y){return y[1]-x[1];});
 	data_9 = singleNumber(data_9).sort(function(x, y){return y[1]-x[1];});
 	data_10 = singleNumber(data_10).sort(function(x, y){return y[1]-x[1];});
-	document.getElementById('tj1').innerText = '[1] ' + data_1[0][0] + ', ' + data_1[1][0] + ', ' + data_1[2][0] + ', ' + data_1[3][0] + ', ' + data_1[4][0];
-	document.getElementById('tj2').innerText = '[2] ' + data_2[0][0] + ', ' + data_2[1][0] + ', ' + data_2[2][0] + ', ' + data_2[3][0] + ', ' + data_2[4][0];
-	document.getElementById('tj3').innerText = '[3] ' + data_3[0][0] + ', ' + data_3[1][0] + ', ' + data_3[2][0] + ', ' + data_3[3][0] + ', ' + data_3[4][0];
-	document.getElementById('tj4').innerText = '[4] ' + data_4[0][0] + ', ' + data_4[1][0] + ', ' + data_4[2][0] + ', ' + data_4[3][0] + ', ' + data_4[4][0];
-	document.getElementById('tj5').innerText = '[5] ' + data_5[0][0] + ', ' + data_5[1][0] + ', ' + data_5[2][0] + ', ' + data_5[3][0] + ', ' + data_5[4][0];
-	document.getElementById('tj6').innerText = '[6] ' + data_6[0][0] + ', ' + data_6[1][0] + ', ' + data_6[2][0] + ', ' + data_6[3][0] + ', ' + data_6[4][0];
-	document.getElementById('tj7').innerText = '[7] ' + data_7[0][0] + ', ' + data_7[1][0] + ', ' + data_7[2][0] + ', ' + data_7[3][0] + ', ' + data_7[4][0];
-	document.getElementById('tj8').innerText = '[8] ' + data_8[0][0] + ', ' + data_8[1][0] + ', ' + data_8[2][0] + ', ' + data_8[3][0] + ', ' + data_8[4][0];
-	document.getElementById('tj9').innerText = '[9] ' + data_9[0][0] + ', ' + data_9[1][0] + ', ' + data_9[2][0] + ', ' + data_9[3][0] + ', ' + data_9[4][0];
-	document.getElementById('tj10').innerText = '[10] ' + data_10[0][0] + ', ' + data_10[1][0] + ', ' + data_10[2][0] + ', ' + data_10[3][0] + ', ' + data_10[4][0];
+	data_1_sum = (data_1[0][1]+data_1[1][1]+data_1[2][1]+data_1[3][1]+data_1[4][1]);
+	data_2_sum = (data_2[0][1]+data_2[1][1]+data_2[2][1]+data_2[3][1]+data_2[4][1]);
+	data_3_sum = (data_3[0][1]+data_3[1][1]+data_3[2][1]+data_3[3][1]+data_3[4][1]);
+	data_4_sum = (data_4[0][1]+data_4[1][1]+data_4[2][1]+data_4[3][1]+data_4[4][1]);
+	data_5_sum = (data_5[0][1]+data_5[1][1]+data_5[2][1]+data_5[3][1]+data_5[4][1]);
+	data_6_sum = (data_6[0][1]+data_6[1][1]+data_6[2][1]+data_6[3][1]+data_6[4][1]);
+	data_7_sum = (data_7[0][1]+data_7[1][1]+data_7[2][1]+data_7[3][1]+data_7[4][1]);
+	data_8_sum = (data_8[0][1]+data_8[1][1]+data_8[2][1]+data_8[3][1]+data_8[4][1]);
+	data_9_sum = (data_9[0][1]+data_9[1][1]+data_9[2][1]+data_9[3][1]+data_9[4][1]);
+	data_10_sum = (data_10[0][1]+data_10[1][1]+data_10[2][1]+data_10[3][1]+data_10[4][1]);
+	data_1_pro = (data_1_sum/data1.length).toFixed(2);
+	data_2_pro = (data_2_sum/data1.length).toFixed(2);
+	data_3_pro = (data_3_sum/data1.length).toFixed(2);
+	data_4_pro = (data_4_sum/data1.length).toFixed(2);
+	data_5_pro = (data_5_sum/data1.length).toFixed(2);
+	data_6_pro = (data_6_sum/data1.length).toFixed(2);
+	data_7_pro = (data_7_sum/data1.length).toFixed(2);
+	data_8_pro = (data_8_sum/data1.length).toFixed(2);
+	data_9_pro = (data_9_sum/data1.length).toFixed(2);
+	data_10_pro = (data_10_sum/data1.length).toFixed(2);
+	data_1_win = (2*data_1_sum-data1.length)*5;
+	data_2_win = (2*data_2_sum-data1.length)*5;
+	data_3_win = (2*data_3_sum-data1.length)*5;
+	data_4_win = (2*data_4_sum-data1.length)*5;
+	data_5_win = (2*data_5_sum-data1.length)*5;
+	data_6_win = (2*data_6_sum-data1.length)*5;
+	data_7_win = (2*data_7_sum-data1.length)*5;
+	data_8_win = (2*data_8_sum-data1.length)*5;
+	data_9_win = (2*data_9_sum-data1.length)*5;
+	data_10_win = (2*data_10_sum-data1.length)*5;
+	data_1_str = '$' + data_1_win + '_' + data_1_pro;
+	data_2_str = '$' + data_2_win + '_' + data_2_pro;
+	data_3_str = '$' + data_3_win + '_' + data_3_pro;
+	data_4_str = '$' + data_4_win + '_' + data_4_pro;
+	data_5_str = '$' + data_5_win + '_' + data_5_pro;
+	data_6_str = '$' + data_6_win + '_' + data_6_pro;
+	data_7_str = '$' + data_7_win + '_' + data_7_pro;
+	data_8_str = '$' + data_8_win + '_' + data_8_pro;
+	data_9_str = '$' + data_9_win + '_' + data_9_pro;
+	data_10_str = '$' + data_10_win + '_' + data_10_pro;
+	document.getElementById('tj1').innerText = '[1] ' + data_1[0][0] + ', ' + data_1[1][0] + ', ' + data_1[2][0] + ', ' + data_1[3][0] + ', ' + data_1[4][0] + ' [' + data_1_str + ']';
+	document.getElementById('tj2').innerText = '[2] ' + data_2[0][0] + ', ' + data_2[1][0] + ', ' + data_2[2][0] + ', ' + data_2[3][0] + ', ' + data_2[4][0] + ' [' + data_2_str + ']';
+	document.getElementById('tj3').innerText = '[3] ' + data_3[0][0] + ', ' + data_3[1][0] + ', ' + data_3[2][0] + ', ' + data_3[3][0] + ', ' + data_3[4][0] + ' [' + data_3_str + ']';
+	document.getElementById('tj4').innerText = '[4] ' + data_4[0][0] + ', ' + data_4[1][0] + ', ' + data_4[2][0] + ', ' + data_4[3][0] + ', ' + data_4[4][0] + ' [' + data_4_str + ']';
+	document.getElementById('tj5').innerText = '[5] ' + data_5[0][0] + ', ' + data_5[1][0] + ', ' + data_5[2][0] + ', ' + data_5[3][0] + ', ' + data_5[4][0] + ' [' + data_5_str + ']';
+	document.getElementById('tj6').innerText = '[6] ' + data_6[0][0] + ', ' + data_6[1][0] + ', ' + data_6[2][0] + ', ' + data_6[3][0] + ', ' + data_6[4][0] + ' [' + data_6_str + ']';
+	document.getElementById('tj7').innerText = '[7] ' + data_7[0][0] + ', ' + data_7[1][0] + ', ' + data_7[2][0] + ', ' + data_7[3][0] + ', ' + data_7[4][0] + ' [' + data_7_str + ']';
+	document.getElementById('tj8').innerText = '[8] ' + data_8[0][0] + ', ' + data_8[1][0] + ', ' + data_8[2][0] + ', ' + data_8[3][0] + ', ' + data_8[4][0] + ' [' + data_8_str + ']';
+	document.getElementById('tj9').innerText = '[9] ' + data_9[0][0] + ', ' + data_9[1][0] + ', ' + data_9[2][0] + ', ' + data_9[3][0] + ', ' + data_9[4][0] + ' [' + data_9_str + ']';
+	document.getElementById('tj10').innerText = '[10] ' + data_10[0][0] + ', ' + data_10[1][0] + ', ' + data_10[2][0] + ', ' + data_10[3][0] + ', ' + data_10[4][0] + ' [' + data_10_str + ']';
 }

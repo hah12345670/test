@@ -544,7 +544,9 @@ function myTimer(){
 	let t = d.toLocaleTimeString();
 	let t1 = t.substring(4,5), t2 = t.substring(6,8);
 	ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate();
-	if ((t1 == 4 || t1 == 9) && (t2 == 5)){
+	let data1str = document.getElementById('returndata').value;
+	let data1 = JSON.parse(data1str);
+	if ((t1 == 4 || t1 == 9) && (t2%5 == 0)){
 		createHtmlList(getDateStr(0));
 	}
 	// // 当前多少秒
@@ -902,49 +904,52 @@ function createHtmlList(jsondata) {
 		}else{
 			data = data.slice(0, 80);
 		}
-		document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
-		getDataList1();
-		var drawCode = "";
-		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
-		// $("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th></tr>');
-		for(var i = 0, len = data.length; i < len; i++) {
-			drawCode = data[i].preDrawCode.split(",");
-			var lilist = "";
-			for(var j = 0, lenli = drawCode.length; j < lenli; j++) {
-				var lastclass = "";
-				if(j == lenli - 1) {
-					lastclass = "li_after";
+		if (document.getElementById("returndata").value != JSON.stringify(data)){
+			document.getElementById("returndata").value = JSON.stringify(data);
+			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
+			getDataList1();
+			var drawCode = "";
+			$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
+			// $("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th></tr>');
+			for(var i = 0, len = data.length; i < len; i++) {
+				drawCode = data[i].preDrawCode.split(",");
+				var lilist = "";
+				for(var j = 0, lenli = drawCode.length; j < lenli; j++) {
+					var lastclass = "";
+					if(j == lenli - 1) {
+						lastclass = "li_after";
+					}
+					lilist += "<li class='numsm" + drawCode[j] + " " + lastclass + "'><i>" + drawCode[j] + "</i></li>";
 				}
-				lilist += "<li class='numsm" + drawCode[j] + " " + lastclass + "'><i>" + drawCode[j] + "</i></li>";
+				var stylestr = "style='color:";
+				if(!(drawCode.length <= 1)) {
+					var sumBigSamll = data[i].sumBigSamll == "0" ? "大" : "小";
+					var style1 = (sumBigSamll == "大") ? stylestr + "#f12d35'" : "'";
+					var sumSingleDouble = data[i].sumSingleDouble == "0" ? "单" : "双";
+					var style2 = (sumSingleDouble == "双") ? stylestr + "#f12d35'" : "'";
+					var firstDT = data[i].firstDT == "0" ? "龙" : "虎";
+					var style3 = (firstDT == "龙") ? stylestr + "#f12d35'" : "'";
+					var secondDT = data[i].secondDT == "0" ? "龙" : "虎";
+					var style4 = (secondDT == "龙") ? stylestr + "#f12d35'" : "'";
+					var thirdDT = data[i].thirdDT == "0" ? "龙" : "虎";
+					var style5 = (thirdDT == "龙") ? stylestr + "#f12d35'" : "'";
+					var fourthDT = data[i].fourthDT == "0" ? "龙" : "虎";
+					var style6 = (fourthDT == "龙") ? stylestr + "#f12d35'" : "'";
+					var fifthDT = data[i].fifthDT == "0" ? "龙" : "虎";
+					var style7 = (fifthDT == "龙") ? stylestr + "#f12d35'" : "'";
+				}
+				var colortd = "<td " + style1 + ">" + sumBigSamll + "</td><td " + style2 + ">" + sumSingleDouble + "</td><td " + style3 + ">" + firstDT + "</td><td " + style4 + ">" + secondDT + "</td><td " + style5 + ">" + thirdDT + "</td><td " + style6 + ">" + fourthDT + "</td><td " + style7 + ">" + fifthDT + "</td>";
+				var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td><td>" + data[i].sumFS + "</td>" + colortd;
+				// var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td>";
+				var tr = "<tr>" + td + "</tr>";
+				$("#jrsmhmtj>table").append(tr);
 			}
-			var stylestr = "style='color:";
-			if(!(drawCode.length <= 1)) {
-				var sumBigSamll = data[i].sumBigSamll == "0" ? "大" : "小";
-				var style1 = (sumBigSamll == "大") ? stylestr + "#f12d35'" : "'";
-				var sumSingleDouble = data[i].sumSingleDouble == "0" ? "单" : "双";
-				var style2 = (sumSingleDouble == "双") ? stylestr + "#f12d35'" : "'";
-				var firstDT = data[i].firstDT == "0" ? "龙" : "虎";
-				var style3 = (firstDT == "龙") ? stylestr + "#f12d35'" : "'";
-				var secondDT = data[i].secondDT == "0" ? "龙" : "虎";
-				var style4 = (secondDT == "龙") ? stylestr + "#f12d35'" : "'";
-				var thirdDT = data[i].thirdDT == "0" ? "龙" : "虎";
-				var style5 = (thirdDT == "龙") ? stylestr + "#f12d35'" : "'";
-				var fourthDT = data[i].fourthDT == "0" ? "龙" : "虎";
-				var style6 = (fourthDT == "龙") ? stylestr + "#f12d35'" : "'";
-				var fifthDT = data[i].fifthDT == "0" ? "龙" : "虎";
-				var style7 = (fifthDT == "龙") ? stylestr + "#f12d35'" : "'";
-			}
-			var colortd = "<td " + style1 + ">" + sumBigSamll + "</td><td " + style2 + ">" + sumSingleDouble + "</td><td " + style3 + ">" + firstDT + "</td><td " + style4 + ">" + secondDT + "</td><td " + style5 + ">" + thirdDT + "</td><td " + style6 + ">" + fourthDT + "</td><td " + style7 + ">" + fifthDT + "</td>";
-			var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td><td>" + data[i].sumFS + "</td>" + colortd;
-			// var td = "<td>" + data[i].preDrawTime + "</td><td>" + data[i].preDrawIssue + "</td><td><ul class='imgnumber'>" + lilist + "</ul></td>";
-			var tr = "<tr>" + td + "</tr>";
-			$("#jrsmhmtj>table").append(tr);
+			$("table").find("td").each(function() {
+				if($(this).text() == "undefined") {
+					$(this).text("");
+				}
+			});
 		}
-		$("table").find("td").each(function() {
-			if($(this).text() == "undefined") {
-				$(this).text("");
-			}
-		});
 	};
 	xhr.send();
 }

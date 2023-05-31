@@ -901,6 +901,8 @@ function createHtmlList(jsondata) {
 		}else{
 			data = data.slice(0, 80);
 		}
+		document.getElementById("tjdata").value = JSON.stringify(data);
+		getDataList1();
 		var drawCode = "";
 		$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
 		// $("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th></tr>');
@@ -955,4 +957,64 @@ function getDataList(jsondata) {
 		document.getElementById("returndata").value = JSON.stringify(data.result.data);
 	};
 	xhr.send();
+}
+function getDataList1() {
+	let data1str = document.getElementById('tjdata').value;
+	let data1 = JSON.parse(data1str);
+	let data_1 = [], data_2 = [], data_3 = [], data_4 = [], data_5 = [], data_6 = [], data_7 = [], data_8 = [], data_9 = [], data_10 = [];
+	for(var i = 0, len = data1.length; i < len; i++) {
+		let drawCode = data1[i].preDrawCode.split(",");
+		drawCode = drawCode.map(Number);
+		data_1.push(drawCode[0]);
+		data_2.push(drawCode[1]);
+		data_3.push(drawCode[2]);
+		data_4.push(drawCode[3]);
+		data_5.push(drawCode[4]);
+		data_6.push(drawCode[5]);
+		data_7.push(drawCode[6]);
+		data_8.push(drawCode[7]);
+		data_9.push(drawCode[8]);
+		data_10.push(drawCode[9]);
+	}
+	/**
+  * @param {number[]} nums
+  * @return {number}
+  */
+	var singleNumber = function (nums) {
+		const map = new Map();
+		// 统计每个数字出现次数
+		for (let num of nums) {
+			if (map.has(num)) {
+				map.set(num, map.get(num) + 1);
+			} else {
+				map.set(num, 1);
+			}
+		}
+		let arr = [];
+		for (let [val, num] of map.entries()) {
+			arr.push([val, num]);
+		}
+		return arr;
+	};
+	//console.log(singleNumber([9, 1, 7, 9, 7, 9, 7]));
+	data_1 = singleNumber(data_1).sort(function(x, y){return y[1]-x[1];}); // 二维数组降序
+	data_2 = singleNumber(data_2).sort(function(x, y){return y[1]-x[1];});
+	data_3 = singleNumber(data_3).sort(function(x, y){return y[1]-x[1];});
+	data_4 = singleNumber(data_4).sort(function(x, y){return y[1]-x[1];});
+	data_5 = singleNumber(data_5).sort(function(x, y){return y[1]-x[1];});
+	data_6 = singleNumber(data_6).sort(function(x, y){return y[1]-x[1];});
+	data_7 = singleNumber(data_7).sort(function(x, y){return y[1]-x[1];});
+	data_8 = singleNumber(data_8).sort(function(x, y){return y[1]-x[1];});
+	data_9 = singleNumber(data_9).sort(function(x, y){return y[1]-x[1];});
+	data_10 = singleNumber(data_10).sort(function(x, y){return y[1]-x[1];});
+	document.getElementById('tj1').innerText = '[1] ' + data_1[0][0] + ', ' + data_1[1][0] + ', ' + data_1[2][0] + ', ' + data_1[3][0] + ', ' + data_1[4][0];
+	document.getElementById('tj2').innerText = '[2] ' + data_2[0][0] + ', ' + data_2[1][0] + ', ' + data_2[2][0] + ', ' + data_2[3][0] + ', ' + data_2[4][0];
+	document.getElementById('tj3').innerText = '[3] ' + data_3[0][0] + ', ' + data_3[1][0] + ', ' + data_3[2][0] + ', ' + data_3[3][0] + ', ' + data_3[4][0];
+	document.getElementById('tj4').innerText = '[4] ' + data_4[0][0] + ', ' + data_4[1][0] + ', ' + data_4[2][0] + ', ' + data_4[3][0] + ', ' + data_4[4][0];
+	document.getElementById('tj5').innerText = '[5] ' + data_5[0][0] + ', ' + data_5[1][0] + ', ' + data_5[2][0] + ', ' + data_5[3][0] + ', ' + data_5[4][0];
+	document.getElementById('tj6').innerText = '[6] ' + data_6[0][0] + ', ' + data_6[1][0] + ', ' + data_6[2][0] + ', ' + data_6[3][0] + ', ' + data_6[4][0];
+	document.getElementById('tj7').innerText = '[7] ' + data_7[0][0] + ', ' + data_7[1][0] + ', ' + data_7[2][0] + ', ' + data_7[3][0] + ', ' + data_7[4][0];
+	document.getElementById('tj8').innerText = '[8] ' + data_8[0][0] + ', ' + data_8[1][0] + ', ' + data_8[2][0] + ', ' + data_8[3][0] + ', ' + data_8[4][0];
+	document.getElementById('tj9').innerText = '[9] ' + data_9[0][0] + ', ' + data_9[1][0] + ', ' + data_9[2][0] + ', ' + data_9[3][0] + ', ' + data_9[4][0];
+	document.getElementById('tj10').innerText = '[10] ' + data_10[0][0] + ', ' + data_10[1][0] + ', ' + data_10[2][0] + ', ' + data_10[3][0] + ', ' + data_10[4][0];
 }

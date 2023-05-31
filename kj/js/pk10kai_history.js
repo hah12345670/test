@@ -966,96 +966,93 @@ function getDataList1() {
 	for(var i = 0, len = data1.length; i < len; i++) {
 		let drawCode = data1[i].preDrawCode.split(",");
 		drawCode = drawCode.map(Number);
-		data_1.push(drawCode[0]);
-		data_2.push(drawCode[1]);
-		data_3.push(drawCode[2]);
-		data_4.push(drawCode[3]);
-		data_5.push(drawCode[4]);
-		data_6.push(drawCode[5]);
-		data_7.push(drawCode[6]);
-		data_8.push(drawCode[7]);
-		data_9.push(drawCode[8]);
-		data_10.push(drawCode[9]);
+		for(var x = 0, lenx = drawCode.length; x < lenx; x++) {
+			eval('data_' + (x+1) + '.push(' + drawCode[x] + ');');
+		}
 	}
 	/**
   * @param {number[]} nums
   * @return {number}
   */
 	var singleNumber = function (nums) {
-		const map = new Map();
-		// 统计每个数字出现次数
-		for (let num of nums) {
-			if (map.has(num)) {
-				map.set(num, map.get(num) + 1);
-			} else {
-				map.set(num, 1);
-			}
-		}
-		let arr = [];
-		for (let [val, num] of map.entries()) {
-			arr.push([val, num]);
-		}
-		return arr;
-	};
+				const map = new Map();
+				// 统计每个数字出现次数
+				for (let num of nums) {
+					if (map.has(num)) {
+						map.set(num, map.get(num) + 1);
+					} else {
+						map.set(num, 1);
+					}
+				}
+				let arr = [];
+				for (let [val, num] of map.entries()) {
+					arr.push([val, num]);
+				}
+				return arr;
+			};
 	//console.log(singleNumber([9, 1, 7, 9, 7, 9, 7]));
-	data_1 = singleNumber(data_1).sort(function(x, y){return y[1]-x[1];}); // 二维数组降序
-	data_2 = singleNumber(data_2).sort(function(x, y){return y[1]-x[1];});
-	data_3 = singleNumber(data_3).sort(function(x, y){return y[1]-x[1];});
-	data_4 = singleNumber(data_4).sort(function(x, y){return y[1]-x[1];});
-	data_5 = singleNumber(data_5).sort(function(x, y){return y[1]-x[1];});
-	data_6 = singleNumber(data_6).sort(function(x, y){return y[1]-x[1];});
-	data_7 = singleNumber(data_7).sort(function(x, y){return y[1]-x[1];});
-	data_8 = singleNumber(data_8).sort(function(x, y){return y[1]-x[1];});
-	data_9 = singleNumber(data_9).sort(function(x, y){return y[1]-x[1];});
-	data_10 = singleNumber(data_10).sort(function(x, y){return y[1]-x[1];});
-	data_1_sum = (data_1[0][1]+data_1[1][1]+data_1[2][1]+data_1[3][1]+data_1[4][1]);
-	data_2_sum = (data_2[0][1]+data_2[1][1]+data_2[2][1]+data_2[3][1]+data_2[4][1]);
-	data_3_sum = (data_3[0][1]+data_3[1][1]+data_3[2][1]+data_3[3][1]+data_3[4][1]);
-	data_4_sum = (data_4[0][1]+data_4[1][1]+data_4[2][1]+data_4[3][1]+data_4[4][1]);
-	data_5_sum = (data_5[0][1]+data_5[1][1]+data_5[2][1]+data_5[3][1]+data_5[4][1]);
-	data_6_sum = (data_6[0][1]+data_6[1][1]+data_6[2][1]+data_6[3][1]+data_6[4][1]);
-	data_7_sum = (data_7[0][1]+data_7[1][1]+data_7[2][1]+data_7[3][1]+data_7[4][1]);
-	data_8_sum = (data_8[0][1]+data_8[1][1]+data_8[2][1]+data_8[3][1]+data_8[4][1]);
-	data_9_sum = (data_9[0][1]+data_9[1][1]+data_9[2][1]+data_9[3][1]+data_9[4][1]);
-	data_10_sum = (data_10[0][1]+data_10[1][1]+data_10[2][1]+data_10[3][1]+data_10[4][1]);
-	data_1_pro = (data_1_sum/data1.length).toFixed(2);
-	data_2_pro = (data_2_sum/data1.length).toFixed(2);
-	data_3_pro = (data_3_sum/data1.length).toFixed(2);
-	data_4_pro = (data_4_sum/data1.length).toFixed(2);
-	data_5_pro = (data_5_sum/data1.length).toFixed(2);
-	data_6_pro = (data_6_sum/data1.length).toFixed(2);
-	data_7_pro = (data_7_sum/data1.length).toFixed(2);
-	data_8_pro = (data_8_sum/data1.length).toFixed(2);
-	data_9_pro = (data_9_sum/data1.length).toFixed(2);
-	data_10_pro = (data_10_sum/data1.length).toFixed(2);
-	data_1_win = (2*data_1_sum-data1.length)*5;
-	data_2_win = (2*data_2_sum-data1.length)*5;
-	data_3_win = (2*data_3_sum-data1.length)*5;
-	data_4_win = (2*data_4_sum-data1.length)*5;
-	data_5_win = (2*data_5_sum-data1.length)*5;
-	data_6_win = (2*data_6_sum-data1.length)*5;
-	data_7_win = (2*data_7_sum-data1.length)*5;
-	data_8_win = (2*data_8_sum-data1.length)*5;
-	data_9_win = (2*data_9_sum-data1.length)*5;
-	data_10_win = (2*data_10_sum-data1.length)*5;
-	data_1_str = '$' + data_1_win + '_' + data_1_pro;
-	data_2_str = '$' + data_2_win + '_' + data_2_pro;
-	data_3_str = '$' + data_3_win + '_' + data_3_pro;
-	data_4_str = '$' + data_4_win + '_' + data_4_pro;
-	data_5_str = '$' + data_5_win + '_' + data_5_pro;
-	data_6_str = '$' + data_6_win + '_' + data_6_pro;
-	data_7_str = '$' + data_7_win + '_' + data_7_pro;
-	data_8_str = '$' + data_8_win + '_' + data_8_pro;
-	data_9_str = '$' + data_9_win + '_' + data_9_pro;
-	data_10_str = '$' + data_10_win + '_' + data_10_pro;
-	document.getElementById('tj1').innerText = '[1] ' + data_1[0][0] + ', ' + data_1[1][0] + ', ' + data_1[2][0] + ', ' + data_1[3][0] + ', ' + data_1[4][0] + ' [' + data_1_str + ']';
-	document.getElementById('tj2').innerText = '[2] ' + data_2[0][0] + ', ' + data_2[1][0] + ', ' + data_2[2][0] + ', ' + data_2[3][0] + ', ' + data_2[4][0] + ' [' + data_2_str + ']';
-	document.getElementById('tj3').innerText = '[3] ' + data_3[0][0] + ', ' + data_3[1][0] + ', ' + data_3[2][0] + ', ' + data_3[3][0] + ', ' + data_3[4][0] + ' [' + data_3_str + ']';
-	document.getElementById('tj4').innerText = '[4] ' + data_4[0][0] + ', ' + data_4[1][0] + ', ' + data_4[2][0] + ', ' + data_4[3][0] + ', ' + data_4[4][0] + ' [' + data_4_str + ']';
-	document.getElementById('tj5').innerText = '[5] ' + data_5[0][0] + ', ' + data_5[1][0] + ', ' + data_5[2][0] + ', ' + data_5[3][0] + ', ' + data_5[4][0] + ' [' + data_5_str + ']';
-	document.getElementById('tj6').innerText = '[6] ' + data_6[0][0] + ', ' + data_6[1][0] + ', ' + data_6[2][0] + ', ' + data_6[3][0] + ', ' + data_6[4][0] + ' [' + data_6_str + ']';
-	document.getElementById('tj7').innerText = '[7] ' + data_7[0][0] + ', ' + data_7[1][0] + ', ' + data_7[2][0] + ', ' + data_7[3][0] + ', ' + data_7[4][0] + ' [' + data_7_str + ']';
-	document.getElementById('tj8').innerText = '[8] ' + data_8[0][0] + ', ' + data_8[1][0] + ', ' + data_8[2][0] + ', ' + data_8[3][0] + ', ' + data_8[4][0] + ' [' + data_8_str + ']';
-	document.getElementById('tj9').innerText = '[9] ' + data_9[0][0] + ', ' + data_9[1][0] + ', ' + data_9[2][0] + ', ' + data_9[3][0] + ', ' + data_9[4][0] + ' [' + data_9_str + ']';
-	document.getElementById('tj10').innerText = '[10] ' + data_10[0][0] + ', ' + data_10[1][0] + ', ' + data_10[2][0] + ', ' + data_10[3][0] + ', ' + data_10[4][0] + ' [' + data_10_str + ']';
+	for(var i = 1, len = 10; i <= len; i++) {
+		eval('data_' + i + ' = singleNumber(data_' + i + ').sort(function(x, y){return y[1]-x[1];});'); // 二维数组降序
+	}
+	// 赛道: 号码
+	drawSdHtml(data_1, data1.length, 1);
+	drawSdHtml(data_2, data1.length, 2);
+	drawSdHtml(data_3, data1.length, 3);
+	drawSdHtml(data_4, data1.length, 4);
+	drawSdHtml(data_5, data1.length, 5);
+	drawSdHtml(data_6, data1.length, 6);
+	drawSdHtml(data_7, data1.length, 7);
+	drawSdHtml(data_8, data1.length, 8);
+	drawSdHtml(data_9, data1.length, 9);
+	drawSdHtml(data_10, data1.length, 10);
+	// 号码: 赛道
+	let arr = [];
+	for(var i = 1, len = 10; i <= len; i++) {
+		let temp;
+		eval('temp = returnSdNum(data_'+i+');');
+		arr.push(temp);
+	}
+	drawNumHtml(arr, 1);
+	drawNumHtml(arr, 2);
+	drawNumHtml(arr, 3);
+	drawNumHtml(arr, 4);
+	drawNumHtml(arr, 5);
+	drawNumHtml(arr, 6);
+	drawNumHtml(arr, 7);
+	drawNumHtml(arr, 8);
+	drawNumHtml(arr, 9);
+	drawNumHtml(arr, 10);
+}
+// 赛道: 号码
+function drawSdHtml(data_, data_len, num) {
+	data_sum = (data_[0][1]+data_[1][1]+data_[2][1]+data_[3][1]+data_[4][1]);
+	data_pro = (data_sum/data_len).toFixed(2);
+	data_win = (2*data_sum-data_len)*5;
+	data_str = '$' + data_win + '_' + data_pro;
+	num_str = num < 10 ? '0'+num : num;
+	document.getElementById('tj'+num).innerText = '['+ num_str + '] ' + data_[0][0] + ', ' + data_[1][0] + ', ' + data_[2][0] + ', ' + data_[3][0] + ', ' + data_[4][0] + ' [' + data_str + ']';
+}
+// 返回各个赛道的号码
+function returnSdNum(data_) {
+	let arr = data_.slice(0, 5);
+	let arr1 = [];
+	for(var i = 0, len = arr.length; i < len; i++) {
+		arr1.push(arr[i][0]);
+	}
+	return arr1;
+}
+// 号码: 赛道
+function drawNumHtml(data, num) {
+	let arr = [];
+	for(var i = 0, len = data.length; i < len; i++) {
+		if (data[i].indexOf(num) >= 0){
+			arr.push(i+1);
+		}
+	}
+	let arr_str = '';
+	for(var i = 0, len = arr.length; i < len; i++) {
+		let temp = arr[i] < 10 ? '0'+arr[i] : arr[i];
+		arr_str += temp + ', ';
+	}
+	document.getElementById('tjnum'+num).innerText = '['+ num + '] ' + arr_str.substring(0, arr_str.length-2);
 }

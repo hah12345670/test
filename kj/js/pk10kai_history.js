@@ -904,8 +904,9 @@ function createHtmlList(jsondata) {
 		}else{
 			data = data.slice(0, 80);
 		}
-		if (document.getElementById("returndata").value != JSON.stringify(data)){
-			document.getElementById("returndata").value = JSON.stringify(data);
+		let returndata1 = document.getElementById("returndata1").value;
+		if (returndata1 != JSON.stringify(data)){
+			document.getElementById("returndata1").value = JSON.stringify(data);
 			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
 			getDataList1();
 			var drawCode = "";

@@ -1036,7 +1036,19 @@ function drawSdHtml(data_, data_len, num) {
 	data_win = (2*data_sum-data_len)*5;
 	data_str = '$' + data_win + '_' + data_pro;
 	num_str = num < 10 ? '0'+num : num;
-	document.getElementById('tj'+num).innerText = '['+ num_str + '] ' + data_[0][0] + ', ' + data_[1][0] + ', ' + data_[2][0] + ', ' + data_[3][0] + ', ' + data_[4][0] + ' [' + data_str + ']';
+	let arr = [];
+	for(var i = 0, len = data_.length; i < len; i++) {
+		arr.push(data_[i][0]);
+	}
+	arr_str = arr.slice(0, 5).join(', ');
+	arr_str1 = arr.slice(arr.length-2, arr.length).join(', ');
+	// 排除
+	arr1 = [1,2,3,4,5,6,7,8,9,10];
+	arr_set = new Set(arr);
+	arr1_set = new Set([...arr1].filter(x => !arr_set.has(x)));
+	arr_str2 = [...arr1_set].join(', ');
+	document.getElementById('tj'+num).innerText = '['+ num_str + '] ' + arr_str + ' [' + data_str + ']';
+	document.getElementById('tj_n_'+num).innerText = '['+ num_str + '] ' + arr_str1 + ' [not: ' + arr_str2 + '] ' + arr.length + '';
 }
 // 返回各个赛道的号码
 function returnSdNum(data_) {

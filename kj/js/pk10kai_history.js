@@ -968,6 +968,8 @@ function getDataList(jsondata) {
 function getDataList1() {
 	let data1str = document.getElementById('tjdata').value;
 	let data1 = JSON.parse(data1str);
+	let data2str = document.getElementById('returndata1').value;
+	let data2 = JSON.parse(data2str);
 	let data_1 = [], data_2 = [], data_3 = [], data_4 = [], data_5 = [], data_6 = [], data_7 = [], data_8 = [], data_9 = [], data_10 = [];
 	for(var i = 0, len = data1.length; i < len; i++) {
 		let drawCode = data1[i].preDrawCode.split(",");
@@ -1028,6 +1030,8 @@ function getDataList1() {
 	drawNumHtml(arr, 8);
 	drawNumHtml(arr, 9);
 	drawNumHtml(arr, 10);
+	// 推荐
+	drawTjHtml(data2);
 }
 // 赛道: 号码
 function drawSdHtml(data_, data_len, num) {
@@ -1049,6 +1053,129 @@ function drawSdHtml(data_, data_len, num) {
 	arr_str2 = [...arr1_set].join(', ');
 	document.getElementById('tj'+num).innerText = '['+ num_str + '] ' + arr_str + ' [' + data_str + ']';
 	document.getElementById('tj_n_'+num).innerText = '['+ num_str + '] ' + arr_str1 + ' [not: ' + arr_str2 + '] ' + arr.length + '';
+}
+// 推荐
+function drawTjHtml(data) {
+	let arr = [];
+	for(var i = 0, len = data.length; i < len; i++) {
+		let drawCode = data[i].preDrawCode.split(",");
+		drawCode = drawCode.map(Number);
+		arr.push(drawCode);
+	}
+	let num1 = arr[0][8];
+	let num2 = arr[1][7];
+	let num3 = arr[2][6];
+	let new_arr = [];
+	for(var i = 0; i < arr.length; i++) {
+		for(var j = 0; j < 10; j++) {
+			if (arr[i][j] == num1){
+				temp_1 = returnTrueXy(i-1, i, i+1, j-1, j, j+1);
+				for(var x = 0; x < temp_1.length; x++) {
+					if (arr[temp_1[x][0]][temp_1[x][1]] == num2){
+						temp_2 = returnTrueXy(temp_1[x][0]-1, temp_1[x][0], temp_1[x][0]+1, temp_1[x][1]-1, temp_1[x][1], temp_1[x][1]+1);
+						for(var y = 0; y < temp_2.length; y++) {
+							if (arr[temp_2[y][0]][temp_2[y][1]] == num3){
+								let temp_3 = returnTruePpei(i, j, temp_1[x][0], temp_1[x][1], temp_2[y][0], temp_2[y][1]);
+								if (temp_3[0]){
+									// console.log(
+									// 	'('+temp_2[y][0]+','+temp_2[y][1]+')', 
+									// 	'('+temp_1[x][0]+','+temp_1[x][1]+')', 
+									// 	'('+i+','+j+')', 
+									// 	temp_3[1]+','+temp_3[2]);
+									// console.log(
+									// 	arr[temp_2[y][0]][temp_2[y][1]], 
+									// 	arr[temp_1[x][0]][temp_1[x][1]], 
+									// 	arr[i][j], 
+									// 	arr[temp_3[1]][temp_3[2]]);
+									new_arr.push(arr[temp_3[1]][temp_3[2]]);
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	let arr_set = new Set(new_arr);
+	let str_arr = [...arr_set].join(', ');
+	document.getElementById('tj_xt_1').innerText = '[ ' + str_arr + ' ]';
+}
+// 返回匹配正确的
+function returnTruePpei(x1, y1, x2, y2, x3, y3) {
+	if (x1===x2 && x1===x3){
+		let dc_y_1 = returnDcData(y1, y2, y3);
+		if (dc_y_1[0] && (dc_y_1[1] >= 0 && dc_y_1[1] < 10)){
+			// console.log('行等', x1,x2,x3, dc_y_1[1]);
+			return [true, x1, dc_y_1[1]];
+		}else{
+			return [false, -1, -1];
+		}
+	}
+	if (y1===y2 && y1===y3){
+		let dc_x_2 = returnDcData(x1, x2, x3);
+		if (dc_x_2[0] && (dc_x_2[1] >= 0 && dc_x_2[1] < 80)){
+			// console.log('列等', dc_x_2[1], y1,y2,y3);
+			return [true, dc_x_2[1], y1];
+		}else{
+			return [false, -1, -1];
+		}
+	}
+	let dc_x_3 = returnDcData(x1, x2, x3);
+	let dc_y_3 = returnDcData(y1, y2, y3);
+	let temp_3 = (dc_x_3[0] && dc_y_3[0]);
+	if (temp_3 && (dc_x_3[1] >= 0 && dc_x_3[1] < 80) && (dc_y_3[1] >= 0 && dc_y_3[1] < 10)){
+		// console.log('行列', dc_x_3[1], dc_y_3[1], typeof dc_x_3[0], typeof dc_y_3[0]);
+		return [true, dc_x_3[1], dc_y_3[1]];
+	}else{
+		return [false, -1, -1];
+	}
+}
+// 返回等差数据
+function returnDcData(x1, x2, x3) {
+	let temp_1 = x1-x2;
+	let temp_2 = x2-x3;
+	if (temp_1===temp_2){
+		if (temp_1===-1){
+			return [true, x1-1];
+		}else if (temp_1===1){
+			return [true, x1+1];
+		}
+	}
+	return [false, 0];
+}
+// 返回x, y
+function returnTrueXy(x1, x2, x3, y1, y2, y3) {
+	let arr = [];
+	// x-1
+	if (x1 >= 0 && x1 < 80){
+		if (y1 >= 0 && y1 < 10){
+			arr.push([x1,y1]);
+		}
+		if(y3 >= 0 && y3 < 10){
+			arr.push([x1,y3]);
+		}
+		arr.push([x1,y2]);
+	}
+	// x
+	if (x2 >= 0 && x2 < 80){
+		if (y1 >= 0 && y1 < 10){
+			arr.push([x2,y1]);
+		}
+		if(y3 >= 0 && y3 < 10){
+			arr.push([x2,y3]);
+		}
+	}
+	// x+1
+	if (x3 >= 0 && x3 < 80){
+		if (y1 >= 0 && y1 < 10){
+			arr.push([x3,y1]);
+		}
+		if(y3 >= 0 && y3 < 10){
+			arr.push([x3,y3]);
+		}
+		arr.push([x3,y2]);
+	}
+	return arr;
 }
 // 返回各个赛道的号码
 function returnSdNum(data_) {

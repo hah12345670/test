@@ -1062,9 +1062,16 @@ function drawTjHtml(data) {
 		drawCode = drawCode.map(Number);
 		arr.push(drawCode);
 	}
-	let num1 = arr[0][8];
-	let num2 = arr[1][7];
-	let num3 = arr[2][6];
+	let str_arr1 = returnTjData(arr, arr[0][8], arr[1][7], arr[2][6]);
+	document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
+	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);
+	document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
+}
+// 返回推荐
+function returnTjData(arr, num1, num2, num3) {
+	// let num1 = arr[0][8];
+	// let num2 = arr[1][7];
+	// let num3 = arr[2][6];
 	let new_arr = [];
 	for(var i = 0; i < arr.length; i++) {
 		for(var j = 0; j < 10; j++) {
@@ -1096,9 +1103,13 @@ function drawTjHtml(data) {
 			}
 		}
 	}
-	let arr_set = new Set(new_arr);
-	let str_arr = [...arr_set].join(', ');
-	document.getElementById('tj_xt_1').innerText = '[ ' + str_arr + ' ]';
+	let str1 = '';
+	if (new_arr.length > 0){
+		let arr_set = new Set(new_arr);
+		let str_arr = [...arr_set].join(', ');
+		str1 = str_arr;
+	}
+	return str1;
 }
 // 返回匹配正确的
 function returnTruePpei(x1, y1, x2, y2, x3, y3) {

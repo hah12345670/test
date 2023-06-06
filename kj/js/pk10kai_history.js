@@ -1067,6 +1067,33 @@ function drawTjHtml(data) {
 	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);
 	document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
 }
+// 返回推荐test
+function returnTjDatatest() {
+	let datastr = document.getElementById('returndata').value;
+	let data = JSON.parse(datastr);
+	let new_arr = [];
+	for(var i = 0, len = data.length; i < len; i++) {
+		let drawCode = data[i].preDrawCode.split(",");
+		drawCode = drawCode.map(Number);
+		new_arr.push(drawCode);
+	}
+	let num = 0, coin = 0, jg = 80, m = 5;
+	for(var x = 1, len = data.length-jg; x < len; x++) {
+		let arr = new_arr.slice(x, x+jg);
+		let str_arr1 = returnTjData(arr, arr[0][8], arr[1][7], arr[2][6]);
+		let arr1 = str_arr1.split(",");
+		arr1 = arr1.map(Number);
+		if (arr1.indexOf(new_arr[x-1][9]) >= 0){
+			console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
+			num += 1;
+			coin += m*(9.8-arr1.length);
+		}else{
+			console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
+			coin -= m*arr1.length;
+		}
+	}
+	console.log(data.length-jg-1, num, coin);
+}
 // 返回推荐
 function returnTjData(arr, num1, num2, num3) {
 	// let num1 = arr[0][8];

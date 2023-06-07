@@ -894,21 +894,22 @@ function createHtmlList(jsondata) {
 		var data = xhr.response, data2 = [];
 		data = data.result.data;
 		// document.getElementById("tjdata").value = JSON.stringify(data); // 今日
-		if (data.length < 100){
+		if (data.length < 150){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
 			let data1 = JSON.parse(data1str);
-			for(var x = 0, len = 100-data.length; x < len; x++) {
+			for(var x = 0, len = 150-data.length; x < len; x++) {
 				data.push(data1[x]);
 			}
 		}else{
-			data = data.slice(0, 100);
+			data = data.slice(0, 150);
 		}
 		let returndata1 = document.getElementById("returndata1").value;
 		if (returndata1 != JSON.stringify(data.slice(0, 80))){
-			document.getElementById("returndata1").value = JSON.stringify(data.slice(0, 80));
-			document.getElementById("returndata2").value = JSON.stringify(data.slice(0, 90));
-			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
+			document.getElementById("returndata1").value = JSON.stringify(data.slice(0, 80)); // 是否更新
+			document.getElementById("returndata2").value = JSON.stringify(data.slice(0, 150)); // 测试数据
+			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20)); // 推荐数据
+			data = data.slice(0, 80); // 显示数据
 			getDataList1();
 			var drawCode = "";
 			$("#jrsmhmtj>table").html('<tr><th>时间</th><th>期数</th><th id="numberbtn" class="numberbtn"><span id="xshm" class="spanselect">显示号码</span><span id="xsdx">显示大小</span><span id="xsds">显示单双</span></th><th colspan="3">冠亚和</th><th colspan="5">1-5龙虎</th></tr>');
@@ -1064,40 +1065,48 @@ function drawTjHtml(data) {
 		arr.push(drawCode);
 	}
 	let str_arr1 = returnTjData(arr, arr[0][8], arr[1][7], arr[2][6]);
-	document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
+	// document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
 	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);
-	document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
-	returnTjDatatest();
+	// document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
+	console.log('?  => 一、[', str_arr1+']');
+	returnTjDatatest([0,8], [1,7], [2,6], 80);
+	console.log('?  => 二、[', str_arr2+']');
+	returnTjDatatest([0,9], [1,9], [2,9], 80);
 }
 // 返回推荐test
-function returnTjDatatest() {
+function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 	let datastr = document.getElementById('returndata2').value;
 	let data = JSON.parse(datastr);
+	data = data.slice(0,16+jg);
 	let new_arr = [];
 	for(var i = 0, len = data.length; i < len; i++) {
 		let drawCode = data[i].preDrawCode.split(",");
 		drawCode = drawCode.map(Number);
 		new_arr.push(drawCode);
 	}
-	let num = 0, coin = 0, jg = 80, m = 5;
+	let num = 0, coin = 0, m = 5;
 	for(var x = 1, len = data.length-jg; x < len; x++) {
 		let arr = new_arr.slice(x, x+jg);
-		let str_arr1 = returnTjData(arr, arr[0][8], arr[1][7], arr[2][6]);
+		let str_arr1 = returnTjData(arr, arr[num1[0]][num1[1]], arr[num2[0]][num2[1]], arr[num3[0]][num3[1]], jg);
 		let arr1 = str_arr1.split(",");
 		arr1 = arr1.map(Number);
 		if (arr1.indexOf(new_arr[x-1][9]) >= 0){
-			console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
+			if (x < 3){
+				console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
+			}
 			num += 1;
 			coin += m*(9.8-arr1.length);
 		}else{
-			console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
+			if (x < 3){
+				console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
+			}
 			coin -= m*arr1.length;
 		}
 	}
-	console.log(data.length-jg-1, num, coin);
+	console.log(data.length-jg-1, num, coin, '\r\n');
 }
 // 返回推荐
-function returnTjData(arr, num1, num2, num3) {
+function returnTjData(arr, num1, num2, num3, jg = 80) {
 	// let num1 = arr[0][8];
 	// let num2 = arr[1][7];
 	// let num3 = arr[2][6];
@@ -1105,13 +1114,13 @@ function returnTjData(arr, num1, num2, num3) {
 	for(var i = 0; i < arr.length; i++) {
 		for(var j = 0; j < 10; j++) {
 			if (arr[i][j] == num1){
-				temp_1 = returnTrueXy(i-1, i, i+1, j-1, j, j+1);
+				temp_1 = returnTrueXy(i-1, i, i+1, j-1, j, j+1, jg);
 				for(var x = 0; x < temp_1.length; x++) {
 					if (arr[temp_1[x][0]][temp_1[x][1]] == num2){
-						temp_2 = returnTrueXy(temp_1[x][0]-1, temp_1[x][0], temp_1[x][0]+1, temp_1[x][1]-1, temp_1[x][1], temp_1[x][1]+1);
+						temp_2 = returnTrueXy(temp_1[x][0]-1, temp_1[x][0], temp_1[x][0]+1, temp_1[x][1]-1, temp_1[x][1], temp_1[x][1]+1, jg);
 						for(var y = 0; y < temp_2.length; y++) {
 							if (arr[temp_2[y][0]][temp_2[y][1]] == num3){
-								let temp_3 = returnTruePpei(i, j, temp_1[x][0], temp_1[x][1], temp_2[y][0], temp_2[y][1]);
+								let temp_3 = returnTruePpei(i, j, temp_1[x][0], temp_1[x][1], temp_2[y][0], temp_2[y][1], jg);
 								if (temp_3[0]){
 									// console.log(
 									// 	'('+temp_2[y][0]+','+temp_2[y][1]+')', 
@@ -1141,7 +1150,7 @@ function returnTjData(arr, num1, num2, num3) {
 	return str1;
 }
 // 返回匹配正确的
-function returnTruePpei(x1, y1, x2, y2, x3, y3) {
+function returnTruePpei(x1, y1, x2, y2, x3, y3, data_len = 80) {
 	if (x1===x2 && x1===x3){
 		let dc_y_1 = returnDcData(y1, y2, y3);
 		if (dc_y_1[0] && (dc_y_1[1] >= 0 && dc_y_1[1] < 10)){
@@ -1153,7 +1162,7 @@ function returnTruePpei(x1, y1, x2, y2, x3, y3) {
 	}
 	if (y1===y2 && y1===y3){
 		let dc_x_2 = returnDcData(x1, x2, x3);
-		if (dc_x_2[0] && (dc_x_2[1] >= 0 && dc_x_2[1] < 80)){
+		if (dc_x_2[0] && (dc_x_2[1] >= 0 && dc_x_2[1] < data_len)){
 			// console.log('列等', dc_x_2[1], y1,y2,y3);
 			return [true, dc_x_2[1], y1];
 		}else{
@@ -1163,7 +1172,7 @@ function returnTruePpei(x1, y1, x2, y2, x3, y3) {
 	let dc_x_3 = returnDcData(x1, x2, x3);
 	let dc_y_3 = returnDcData(y1, y2, y3);
 	let temp_3 = (dc_x_3[0] && dc_y_3[0]);
-	if (temp_3 && (dc_x_3[1] >= 0 && dc_x_3[1] < 80) && (dc_y_3[1] >= 0 && dc_y_3[1] < 10)){
+	if (temp_3 && (dc_x_3[1] >= 0 && dc_x_3[1] < data_len) && (dc_y_3[1] >= 0 && dc_y_3[1] < 10)){
 		// console.log('行列', dc_x_3[1], dc_y_3[1], typeof dc_x_3[0], typeof dc_y_3[0]);
 		return [true, dc_x_3[1], dc_y_3[1]];
 	}else{
@@ -1184,10 +1193,10 @@ function returnDcData(x1, x2, x3) {
 	return [false, 0];
 }
 // 返回x, y
-function returnTrueXy(x1, x2, x3, y1, y2, y3) {
+function returnTrueXy(x1, x2, x3, y1, y2, y3, data_len = 80) {
 	let arr = [];
 	// x-1
-	if (x1 >= 0 && x1 < 80){
+	if (x1 >= 0 && x1 < data_len){
 		if (y1 >= 0 && y1 < 10){
 			arr.push([x1,y1]);
 		}
@@ -1197,7 +1206,7 @@ function returnTrueXy(x1, x2, x3, y1, y2, y3) {
 		arr.push([x1,y2]);
 	}
 	// x
-	if (x2 >= 0 && x2 < 80){
+	if (x2 >= 0 && x2 < data_len){
 		if (y1 >= 0 && y1 < 10){
 			arr.push([x2,y1]);
 		}
@@ -1206,7 +1215,7 @@ function returnTrueXy(x1, x2, x3, y1, y2, y3) {
 		}
 	}
 	// x+1
-	if (x3 >= 0 && x3 < 80){
+	if (x3 >= 0 && x3 < data_len){
 		if (y1 >= 0 && y1 < 10){
 			arr.push([x3,y1]);
 		}

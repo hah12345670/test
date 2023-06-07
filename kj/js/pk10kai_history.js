@@ -1066,6 +1066,7 @@ function drawTjHtml(data) {
 	document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
 	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);
 	document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
+	returnTjDatatest();
 }
 // 返回推荐test
 function returnTjDatatest() {

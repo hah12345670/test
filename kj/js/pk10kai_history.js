@@ -891,22 +891,23 @@ function createHtmlList(jsondata) {
 	xhr.open('GET', 'https://api.api68.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
 	xhr.responseType = 'json';
 	xhr.onload = function() {
-		var data = xhr.response;
+		var data = xhr.response, data2 = [];
 		data = data.result.data;
 		// document.getElementById("tjdata").value = JSON.stringify(data); // 今日
-		if (data.length < 80){
+		if (data.length < 100){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
 			let data1 = JSON.parse(data1str);
-			for(var x = 0, len = 80-data.length; x < len; x++) {
+			for(var x = 0, len = 100-data.length; x < len; x++) {
 				data.push(data1[x]);
 			}
 		}else{
-			data = data.slice(0, 80);
+			data = data.slice(0, 100);
 		}
 		let returndata1 = document.getElementById("returndata1").value;
-		if (returndata1 != JSON.stringify(data)){
-			document.getElementById("returndata1").value = JSON.stringify(data);
+		if (returndata1 != JSON.stringify(data.slice(0, 80))){
+			document.getElementById("returndata1").value = JSON.stringify(data.slice(0, 80));
+			document.getElementById("returndata2").value = JSON.stringify(data.slice(0, 90));
 			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20));
 			getDataList1();
 			var drawCode = "";
@@ -1070,7 +1071,7 @@ function drawTjHtml(data) {
 }
 // 返回推荐test
 function returnTjDatatest() {
-	let datastr = document.getElementById('returndata').value;
+	let datastr = document.getElementById('returndata2').value;
 	let data = JSON.parse(datastr);
 	let new_arr = [];
 	for(var i = 0, len = data.length; i < len; i++) {

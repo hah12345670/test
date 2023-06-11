@@ -1077,7 +1077,7 @@ function drawTjHtml(data) {
 function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 	let datastr = document.getElementById('returndata2').value;
 	let data = JSON.parse(datastr);
-	data = data.slice(0,5+jg);
+	data = data.slice(0,16+jg);
 	let new_arr = [];
 	for(var i = 0, len = data.length; i < len; i++) {
 		let drawCode = data[i].preDrawCode.split(",");

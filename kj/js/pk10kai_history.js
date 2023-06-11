@@ -894,11 +894,11 @@ function createHtmlList(jsondata) {
 		var data = xhr.response, data2 = [];
 		data = data.result.data;
 		// document.getElementById("tjdata").value = JSON.stringify(data); // 今日
-		if (data.length < 180){
+		if (data.length < 150){
 			getDataList(getDateStr(-1));
 			let data1str = document.getElementById('returndata').value;
 			let data1 = JSON.parse(data1str);
-			for(var x = 0, len = 180; x < len; x++) {
+			for(var x = 0, len = 150-data.length; x < len; x++) {
 				data.push(data1[x]);
 			}
 		}else{
@@ -907,7 +907,7 @@ function createHtmlList(jsondata) {
 		let returndata1 = document.getElementById("returndata1").value;
 		if (returndata1 != JSON.stringify(data.slice(0, 80))){
 			document.getElementById("returndata1").value = JSON.stringify(data.slice(0, 80)); // 是否更新
-			document.getElementById("returndata2").value = JSON.stringify(data.slice(0, data.length)); // 测试数据
+			document.getElementById("returndata2").value = JSON.stringify(data.slice(0, 150)); // 测试数据
 			document.getElementById("tjdata").value = JSON.stringify(data.slice(0, 20)); // 推荐数据
 			data = data.slice(0, 80); // 显示数据
 			getDataList1();
@@ -1077,7 +1077,7 @@ function drawTjHtml(data) {
 function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 	let datastr = document.getElementById('returndata2').value;
 	let data = JSON.parse(datastr);
-	data = data.slice(0,data.length-180+jg);
+	data = data.slice(0,5+jg);
 	let new_arr = [];
 	for(var i = 0, len = data.length; i < len; i++) {
 		let drawCode = data[i].preDrawCode.split(",");

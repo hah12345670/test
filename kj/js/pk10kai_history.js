@@ -1095,12 +1095,12 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 				console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
 			}
 			num += 1;
-			coin = coin + m*(9.8-arr1.length);
+			coin += m*(9.8-arr1.length);
 		}else{
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
 			}
-			coin = coin - m*arr1.length;
+			coin -= m*arr1.length;
 		}
 	}
 	console.log(data.length-jg-1, num, coin, '\r\n');

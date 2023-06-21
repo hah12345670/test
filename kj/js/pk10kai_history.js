@@ -1,7 +1,7 @@
 $(function() {
 	getDataList(getDateStr(-1));
 	createHtmlList(getDateStr(0));
-	let myVar = setInterval(function(){myTimer()},4000);
+	let myVar = setInterval(function(){myTimer()},1000);
 	//开启加载动画
 	animateMethod.loadingList("#jrsmhmtj", true);
 	//设置当前时间
@@ -546,7 +546,7 @@ function myTimer(){
 	ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate();
 	let data1str = document.getElementById('returndata').value;
 	let data1 = JSON.parse(data1str);
-	if ((t1 == 4 || t1 == 9) && (t2%5 == 0)){
+	if ((t1 == 4 || t1 == 9) && (true)){
 		createHtmlList(getDateStr(0));
 	}
 	// // 当前多少秒
@@ -1068,10 +1068,19 @@ function drawTjHtml(data) {
 	// document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
 	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);
 	// document.getElementById('tj_xt_2').innerText = '[ ' + str_arr2 + ' ]';
+	
 	console.log('?  => 一、[', str_arr1+']');
-	returnTjDatatest([0,8], [1,7], [2,6], 80);
+	document.getElementById('tj_xt_1').innerText = '一、['+str_arr1+']';
+	let return_arr = returnTjDatatest([0,8], [1,7], [2,6], 80);
+	document.getElementById('tj_xt_2').innerText = return_arr[0];
+	document.getElementById('tj_xt_3').innerText = return_arr[1];
+	document.getElementById('tj_xt_4').innerText = return_arr[2];
 	console.log('?  => 二、[', str_arr2+']');
-	returnTjDatatest([0,9], [1,9], [2,9], 80);
+	document.getElementById('tj_xt_5').innerText = '二、['+str_arr2+']';
+	let return_arr1 = returnTjDatatest([0,9], [1,9], [2,9], 80);
+	document.getElementById('tj_xt_6').innerText = return_arr1[0];
+	document.getElementById('tj_xt_7').innerText = return_arr1[1];
+	document.getElementById('tj_xt_8').innerText = return_arr1[2];
 }
 // 返回推荐test
 function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
@@ -1085,6 +1094,7 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 		new_arr.push(drawCode);
 	}
 	let num = 0, coin = 0, m = 5;
+	let return_arr = [];
 	for(var x = 1, len = data.length-jg; x < len; x++) {
 		let arr = new_arr.slice(x, x+jg);
 		let str_arr1 = returnTjData(arr, arr[num1[0]][num1[1]], arr[num2[0]][num2[1]], arr[num3[0]][num3[1]], jg);
@@ -1093,17 +1103,21 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 		if (arr1.indexOf(new_arr[x-1][9]) >= 0){
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
+				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+true+' —— '+m*(9.8-arr1.length));
 			}
 			num += 1;
 			coin += m*(9.8-arr1.length);
 		}else{
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
+				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+false+' —— '+-m*arr1.length);
 			}
 			coin -= m*arr1.length;
 		}
 	}
 	console.log(data.length-jg-1, num, coin, '\r\n');
+	return_arr.push(data.length-jg-1+' —— '+num+' —— '+coin);
+	return return_arr;
 }
 // 返回推荐
 function returnTjData(arr, num1, num2, num3, jg = 80) {

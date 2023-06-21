@@ -1,7 +1,7 @@
 $(function() {
 	getDataList(getDateStr(-1));
 	createHtmlList(getDateStr(0));
-	let myVar = setInterval(function(){myTimer()},1000);
+	let myVar = setInterval(function(){myTimer()},4000);
 	//开启加载动画
 	animateMethod.loadingList("#jrsmhmtj", true);
 	//设置当前时间

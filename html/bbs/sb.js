@@ -12,11 +12,15 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font size=\'3\'>");
+document.writeln("<span style=\'color: #00F;\'>176期</span><span style=\'color: #800000;\'>财富波色</span>蓝波红波 开:？00准</font></td></tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>175期</span><span style=\'color: #800000;\'>财富波色</span>蓝波绿波 开:？00准</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>175期</span><span style=\'color: #800000;\'>财富波色</span>蓝波<span style=\'background-color: #FFFF00\'>绿波</span> 开:狗06准</font></td></tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");

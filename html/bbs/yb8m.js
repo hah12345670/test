@@ -9,11 +9,17 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong></tr></table>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("175期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+0头</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
+document.writeln("176期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>绿波+1头</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("175期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+<span style=\'background-color: #FFFF00\'>0头</span></font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开狗06</font></font></b></font></table>");
 
 
 document.writeln("<!--推广开始-->");

@@ -1,0 +1,127 @@
+﻿document.writeln("");
+document.writeln("");
+document.writeln("<style>");
+document.writeln("");
+document.writeln("<style>");
+document.writeln("bjbj {");
+document.writeln("background-color:#ffffff;");
+document.writeln("}");
+document.writeln(".a1 td {");
+document.writeln("	border-bottom: solid 1px #c0c0c0;");
+document.writeln("}");
+document.writeln("</style>");
+document.writeln("</style>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<body class=\'bjbj\'>");
+document.writeln("");
+document.writeln("");
+document.writeln("	<div class=\'a1\'>");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\' height=\'103\'>");
+document.writeln("  <tbody>");
+document.writeln("<td style=\'text-align:center\' height=\'60\'>");
+document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>贪狼天尊</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『四肖四码』</font></b></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--推广开始-->");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
+document.writeln("<p align=\'center\'>");
+document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
+document.writeln("<!--推广结束-->");
+document.writeln("");
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第175期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马22.猪41.鼠16.蛇23】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第174期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡31.<span style=\'background-color: #FFFF00\'>猪</span>05.羊21.牛03】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>猪41</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第173期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛03.鼠16.猴20.<span style=\'background-color: #FFFF00\'>龙36</span>】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>龙36</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第171期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙24.<span style=\'background-color: #FFFF00\'>马</span>34.虎02.羊43】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>马10</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第169期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇11.猴08.<span style=\'background-color: #FFFF00\'>鼠</span>28.龙24】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>鼠04</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第168期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪05.马22.鼠16.<span style=\'background-color: #FFFF00\'>龙</span>24】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>龙12</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第166期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴20.龙46.<span style=\'background-color: #FFFF00\'>狗06</span>.蛇23】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>狗06</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第164期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴08.蛇23.鸡31.<span style=\'background-color: #FFFF00\'>马10</span>】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>马10</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--推广开始-->--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'cen");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://www.65935b.com/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<p align=\'center\'>");
+document.writeln("	<img src=https://496688a.com/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>65935b.com</font></font></b></p></a></td></tr>");
+document.writeln("");
+document.writeln("");
+
+
+document.writeln("</tbody>");
+document.writeln("</table>");

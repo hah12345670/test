@@ -27,7 +27,16 @@ document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>174期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【谋智谋策】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>175期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【千年修炼】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：癸丑日 属性：木 地支六冲：牛日：冲羊，克马，破猴，无鸡， 六合：鼠；三合：蛇鸡。空亡肖：虎羊</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>174期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【谋智谋策】</font><font color=\'#0033CC\'>开猪41<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：壬子日 属性：木 地支六冲：鼠日：冲马，克羊，破羊，无猴， 六合：牛；三合：龙猴。空亡肖：虎马</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

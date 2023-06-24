@@ -1,4 +1,3 @@
-
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>LOL职手业余爱好</font><font color=\'#FFFFFF\'>『组合20码』</font></font></b></table>");

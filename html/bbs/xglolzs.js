@@ -1,3 +1,4 @@
+
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>LOL职手业余挑战</font><font color=\'#FFFFFF\'>『香港15.码』</font></font></b></table>");

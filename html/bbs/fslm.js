@@ -21,7 +21,8 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("176期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>26.42.07.41.40</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("177期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>10.49.36.35.13</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+
 
 
 document.writeln("		<!--开始-->");

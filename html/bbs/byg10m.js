@@ -35,7 +35,7 @@ document.writeln(" <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=78 bgcolor=\"#FFFFFF\">");
 document.writeln("			<b>");
-document.writeln("			<font color=\'#0000FF\'>175期推荐特肖:</font><font color=\'#FF0000\'>（马羊蛇牛）</font><font color=\'#0000FF\'> ");
+document.writeln("			<font color=\'#0000FF\'>176期推荐特肖:</font><font color=\'#FF0000\'>（118207b.com 已更新）</font><font color=\'#0000FF\'> ");
 document.writeln("			開:？00准</font></b></td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");

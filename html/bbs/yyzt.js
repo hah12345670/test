@@ -33,12 +33,19 @@ document.writeln("  </tr>");
 document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>176期一语中特【灯火万家】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：家家都点上灯。指天黑上灯的时候。亦形容城镇夜晚的景象。解龙鸡鼠狗羊牛</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙鸡鼠狗羊牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>175期一语中特【摇首顿足】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指摇着头,跺着脚.非常懊恼或惋惜的神态。解马龙猪猴狗鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马龙猪猴狗鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马龙猪猴<span style=\'background-color: #FFFF00\'>狗</span>鼠开狗06准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -84,12 +91,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>176期一语中特【名声大噪】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：名声广泛地传播开去。解兔牛猪马鼠狗</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔牛猪马鼠狗开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>175期一语中特【磕头烧香】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻求人说好话。解猪虎鼠狗蛇马</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪虎鼠狗蛇马开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪虎鼠<span style=\'background-color: #FFFF00\'>狗</span>蛇马开狗06准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

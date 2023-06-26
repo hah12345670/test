@@ -15,7 +15,7 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("177期：平码【04.25.05.16.46.19.14.20.33.47.08.30】<br>");
+document.writeln("178期：平码【33.07.28.49.26.06.11.08.27.39.05.04】<br>");
 document.writeln("");
 
 document.writeln("");

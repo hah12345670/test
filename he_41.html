@@ -35,7 +35,9 @@
 					var jsonResponse = xhr.response;
 					let arr1 = [1,2,4]
 					// console.log(jsonResponse); // 返回的JSON对象
-					for(let x=0;x<5;x++){
+					let json_len = jsonResponse.length;
+					json_len = json_len >= 5 ? 5 : json_len;
+					for(let x=0;x<json_len;x++){
 						str1 += '<tr>'
 						let arr1 = [],arr2 = [],arr3 = [];
 						arr1 = jsonResponse[x]['openCode'].split(',')
@@ -86,6 +88,7 @@
 			<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
 			<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
 		</div>
+		<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0"/> -->
 		
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>

@@ -13,20 +13,21 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' st
 document.writeln("			<span style=font-family:楷体;color:#FF0000>10元一组本金350，中1组得700元，2组得1400元，3组2100元.（连本）</span></a></strong></tr></table>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-size: 14pt\'>");
-document.writeln("<span style=\'color: #00F;\'>179期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>180期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-size: 14pt\'>");
 document.writeln("");
-document.writeln("狗鸡拖4尾<br>");
-document.writeln("【06.18.30.42.07.19.31.43】<br>");
-document.writeln("拖【04.14.24.34.44】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("羊鸡拖9尾<br>");
+document.writeln("【21.33.45.07.31.43】<br>");
+document.writeln("拖【09.19.29.39.49】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
 

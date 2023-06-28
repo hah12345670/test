@@ -37,22 +37,23 @@ document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62102a.com）�
 document.writeln("	<div class=\'bizhong2-box\'>");
 document.writeln("    	<div class=\'bizhong2-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>179期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪虎牛马鸡蛇猴</font></li>");
-document.writeln("            	<li><font size=\'3\'>179期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪虎牛马鸡</font></li>");
-document.writeln("            	<li><font size=\'3\'>179期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪虎牛</font></li>");
-document.writeln("            	<li><font size=\'2\'>179期必中18码：</font><font size=\'2\' color=\'#FF0000\'>09.21.25.37.05.41.14.38.15.39.22.34.19.31.11.47.08.20</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>179期必中九码：</font><font size=\'2\' color=\'#FF0000\'>09.25.41.38.39.22.19.47.08</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>180期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪蛇龙虎羊猴兔狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>180期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪蛇龙虎羊猴</font></li>");
+document.writeln("            	<li><font size=\'3\'>180期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪蛇龙虎</font></li>");
+document.writeln("            	<li><font size=\'2\'>180期必中18码：</font><font size=\'2\' color=\'#FF0000\'>16.28.17.41.23.47.24.48.02.14.21.33.32.44.01.49.06.42</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>180期必中九码：</font><font size=\'2\' color=\'#FF0000\'>16.41.23.48.02.21.32.01.42</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>179期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>羊09</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>180期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>鼠16</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--必中每期开始-->");

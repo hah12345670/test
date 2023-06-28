@@ -41,7 +41,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>178期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【27.05.18.45.33.22.02.07.43.06.15.28】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>179期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【08.10.37.02.06.46.41.40.12.15.42.05】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->    ");
 document.writeln("");

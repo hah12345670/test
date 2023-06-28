@@ -41,7 +41,16 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第178期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇23.虎02.狗30.牛39】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第179期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.鼠40.猴20.龙24】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第178期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇23.<span style=\'background-color: #FFFF00\'>虎02</span>.狗30.牛39】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>虎02</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

@@ -14,13 +14,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("178期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>绿波+1头</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("175期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+<span style=\'background-color: #FFFF00\'>0头</span></font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开狗06</font></font></b></font></table>");
-
+document.writeln("179期1.波1头</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+4头</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
 
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

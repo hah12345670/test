@@ -10,7 +10,7 @@ document.writeln("    <td style=\'text-align:center\' height=\'60\'><table borde
 document.writeln("        <tbody>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-06月必出特码表』已中<span style=\'background-color: #FF0000\'>17</span>期</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-06月必出特码表』已中<span style=\'background-color: #FF0000\'>18</span>期</font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -87,7 +87,6 @@ document.writeln("        <font color=\'#0000FF\'>176期三头=032√</font><br>
 document.writeln("        <font color=\'#0000FF\'>177期三头=034√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>178期三头=230√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>179期三头=013√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>180期三头=140√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>180期三头=124√×</font><br>	");
 document.writeln("		");
 document.writeln("<br>");

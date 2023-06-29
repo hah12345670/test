@@ -15,9 +15,15 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("179期：平码【05.47.49.25.20.29.21.15.37.48.11.33】<br>");
+document.writeln("");
+document.writeln("181期：平码【44.22.32.11.49.07.06.31.38.25.13.12】<br>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("");
+document.writeln("179期：平码【05.47.49.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">25</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.20.29.21.15.37.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">48</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.11.33】<br>");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

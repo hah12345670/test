@@ -20,13 +20,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("180期<font color=\'#FF00FF\'>（虎马牛+6728尾）</font>开？00</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("179期<font color=\'#FF00FF\'>（马猴羊+35<span style=\'background-color: #FFFF00\'>4</span>8尾）</font>开鼠04</font></b></font></table>");
+document.writeln("181期<font color=\'#FF00FF\'>（鼠狗猪+2147尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

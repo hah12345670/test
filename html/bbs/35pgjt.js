@@ -47,6 +47,22 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			181期<font color=\'#FF0000\'>【关注62102a.com】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62102c.com</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：来料<br>");
+document.writeln("			大小：来料<br>");
+document.writeln("			特码：来料");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -58,9 +74,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			180期<font color=\'#FF0000\'>【本期五八有玄机，双数出来不稀奇】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：本期五八有玄机，五解猪龙，八解羊猴，双数出来解双龙虎马狗猴鼠</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：猪羊龙马狗猴鼠<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：05.17.09.21.12.24.10.22.06.18.08.20.04.16");
+document.writeln("			<br>七肖：猪羊龙<span style=\'background-color: #FFFF00\'>马</span>狗猴鼠<br>");
+
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

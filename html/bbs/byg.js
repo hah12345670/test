@@ -55,12 +55,7 @@ document.writeln("		挑十码：27.05.29.35.06.14.19.08.01.49</b><br>	");
 document.writeln("		<br>");
 document.writeln("");
 
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（180期）</font><Br>");
-document.writeln("		<b>特肖【鸡蛇牛猪羊狗猴兔鼠】<br>		");
-document.writeln("		抓特：07.11.23.03.15.27.39.05.17.29.18.08.13.25.37.04<br>		");
-document.writeln("		挑十码：07.11.15.27.17.05.18.08.13.04</b><br>	");
-document.writeln("		<br>");
+
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（181期）</font><Br>");
 document.writeln("		<b>特肖【正在来料中】<br>		");

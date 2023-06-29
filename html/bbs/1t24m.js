@@ -58,7 +58,7 @@ document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
 document.writeln(" 	            <li>180期必中一头：<font color=\'#FF0000\' size=\'4\'>4</font></li>");
 document.writeln("            	<li>180期必中二头：<font color=\'#FF0000\' size=\'4\'>4-2</font></li>");
-document.writeln("            	<li>180期必中三头：<font color=\'#FF0000\' size=\'4\'>4-2-<span style=\'background-color: #FFFF00\'>马</span></font></li>");
+document.writeln("            	<li>180期必中三头：<font color=\'#FF0000\' size=\'4\'>4-2-<span style=\'background-color: #FFFF00\'>【3】</span></font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

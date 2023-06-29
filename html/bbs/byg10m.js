@@ -40,7 +40,7 @@ document.writeln("		");
 document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("		179期:</font><font color=\'#008000\' face=\'微软雅黑\'>3.肖中特</font><font color=\'#FF0000\' face=\'微软雅黑\'>【牛兔马】");
+document.writeln("		180期:</font><font color=\'#008000\' face=\'微软雅黑\'>3.肖中特</font><font color=\'#FF0000\' face=\'微软雅黑\'>【龙虎马】");
 document.writeln("</font><font color=\'#000000\' face=\'微软雅黑\'>开？00准</font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->   ");

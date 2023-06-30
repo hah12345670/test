@@ -544,7 +544,7 @@ function nowTime(){
 	let d = new Date();
 	let t = d.toLocaleTimeString();
 	ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate();
-	document.getElementById("time").innerHTML = 123;
+	document.getElementById("time").innerHTML = ymd + ' ' + t;
 }
 
 function myTimer(){

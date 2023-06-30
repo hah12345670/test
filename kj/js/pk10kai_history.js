@@ -1,7 +1,7 @@
 $(function() {
 	getDataList(getDateStr(-1));
 	createHtmlList(getDateStr(0));
-	let myVar = setInterval(function(){myTimer()},4000);
+	let myVar = setInterval(function(){myTimer()},1000);
 	//开启加载动画
 	animateMethod.loadingList("#jrsmhmtj", true);
 	//设置当前时间
@@ -544,6 +544,7 @@ function myTimer(){
 	let t = d.toLocaleTimeString();
 	let t1 = t.substring(4,5), t2 = t.substring(6,8);
 	ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate();
+	document.getElementById('time').innerText = ymd + ' ' + t;
 	let data1str = document.getElementById('returndata').value;
 	let data1 = JSON.parse(data1str);
 	if ((t1 == 4 || t1 == 9) && (true)){

@@ -35,12 +35,16 @@ document.writeln("<colgroup span=\'1\' width=\'52%\' />");
 document.writeln("<colgroup span=\'1\' width=\'22%\' />");
 document.writeln(" <!--开始start-->");
 document.writeln("");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>181期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("	<span style=\'font-size: 10pt; \'>");
+document.writeln("虎鼠猪羊龙马鸡兔狗</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>180期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("虎鼠猴马羊猪牛蛇狗</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("虎鼠猴<span style=\'background-color: #FFFF00\'>马</span>羊猪牛蛇狗</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>马34</font>中</span></td></tr>");
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>179期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
@@ -84,13 +88,6 @@ document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
-document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
-document.writeln("<!--推广结束-->");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

@@ -19,7 +19,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>180期</font><font color=\'#006600\'>【狗猴鼠龙虎】【兔鸡牛羊猪】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>181期</font><font color=\'#006600\'>【猴虎鼠狗马】【猪牛兔鸡蛇】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

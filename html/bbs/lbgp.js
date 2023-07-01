@@ -24,11 +24,20 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>181期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【九五之尊】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>182期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【佛法无边】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：庚申日 属性：木 地支六冲：猴日：冲虎，克猪，破兔，无龙， 六合：蛇；三合：鼠龙。空亡肖：鼠虎</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>181期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【九五之尊】</font><font color=\'#0033CC\'>开蛇23<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：己未日 属性：火 地支六冲：羊日：冲牛，克鼠，破虎，无兔， 六合：马；三合：兔猪。空亡肖：牛龙</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

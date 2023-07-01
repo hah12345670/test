@@ -46,23 +46,23 @@ document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			181期<font color=\'#FF0000\'>【六畜兴旺在家中 欲钱必定问大哥】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：在家中解家肖猪牛马鸡羊狗，问大哥解男肖龙虎牛马狗猴鼠</font><br>");
+document.writeln("			182期<font color=\'#FF0000\'>【关注62102a.com】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62102c.com</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：狗鸡羊牛猪龙猴<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：06.18.07.19.09.21.03.15.05.17.12.24.08.20");
+document.writeln("			<br>七肖：来料<br>");
+document.writeln("			大小：来料<br>");
+document.writeln("			特码：来料");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");

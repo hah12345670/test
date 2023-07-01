@@ -50,18 +50,15 @@ document.writeln("		177期（平5*4+特-D6+平2+正3-2）=杀牛狗√<br>		");
 document.writeln("		178期（平5*4+特-D6+平2+正3-2）=杀羊牛√<br>		");
 document.writeln("		179期（平5*4+特-D6+平2+正3-2）=杀虎狗√<br>		");
 document.writeln("		180期（平5*4+特-D6+平2+正3-2）=杀猴龙√<br>		");
-document.writeln("		181期（平5*4+特-D6+平2+正3-2）=杀狗鸡√×<br>		");
+document.writeln("		181期（平5*4+特-D6+平2+正3-2）=杀狗鸡√<br>		");
+document.writeln("		182期（平5*4+特-D6+平2+正3-2）=杀羊蛇√×<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 
 
-document.writeln("	    175期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
-document.writeln("	    176期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
-document.writeln("	    177期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
-document.writeln("	    178期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
-document.writeln("	    179期（平4*2+正1-D3+正6+正3-特）=杀土×<br>			");
 document.writeln("	    180期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
-document.writeln("	    181期（平4*2+正1-D3+正6+正3-特）=杀水√×<br>			");
+document.writeln("	    181期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+document.writeln("	    182期（平4*2+正1-D3+正6+正3-特）=杀水√×<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -71,7 +68,8 @@ document.writeln("		177期（平5-2-D2+正4）=杀36尾√<br>		");
 document.writeln("		178期（平5-2-D2+正4）=杀40尾√<br>		");
 document.writeln("		179期（平5-2-D2+正4）=杀16尾√<br>		");
 document.writeln("		180期（平5-2-D2+正4）=杀96尾√<br>		");
-document.writeln("		181期（平5-2-D2+正4）=杀79尾√×<br>		");
+document.writeln("		181期（平5-2-D2+正4）=杀79尾√<br>		");
+document.writeln("		182期（平5-2-D2+正4）=杀31尾√×<br>		");
 document.writeln("		");
 document.writeln("<br>");
 
@@ -83,16 +81,12 @@ document.writeln("		177期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		178期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		179期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		180期（平4+3-D1+正2-平3）=杀3头×<br>		");
-document.writeln("		181期（平4+3-D1+正2-平3）=杀1头√×<br>		");
+document.writeln("		181期（平4+3-D1+正2-平3）=杀1头√<br>		");
+document.writeln("		182期（平4+3-D1+正2-平3）=杀0头√×<br>		");
 document.writeln("<br>");
 document.writeln("		");
 
-document.writeln("        <font color=\'#0000FF\'>176期三头=032√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>177期三头=034√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>178期三头=230√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>179期三头=013√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>180期三头=124×</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>181期三头=403√×</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>182期三头=312√×</font><br>	");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("		<font color=\'#0000FF\'>176期七肖=狗鸡鼠猪猴牛兔√</font><br>		");
@@ -100,15 +94,16 @@ document.writeln("		<font color=\'#0000FF\'>177期七肖=虎猴狗鸡鼠猪兔�
 document.writeln("		<font color=\'#0000FF\'>178期七肖=牛鸡狗马羊鼠虎√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>179期七肖=虎猪鼠龙鸡羊兔√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>180期七肖=鸡马猪羊牛龙狗√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>181期七肖=马羊鸡狗猴兔猪√×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>181期七肖=马羊鸡狗猴兔猪×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>182期七肖=鼠鸡狗牛猴马猪√×</font><br>		");
 document.writeln("		");
 document.writeln("<br>	");
-document.writeln("		<font color=\'#0000FF\'>180期三行=火土木√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>181期三行=木火水√×</font><br>			");
+
+document.writeln("		<font color=\'#0000FF\'>182期三行=水木金√×</font><br>			");
 document.writeln("		");
 document.writeln("<br>		");
-
 document.writeln("        <font color=\'#0000FF\'>181期六尾=064387√×</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>182期六尾=842617√×</font><br>	");
 document.writeln("		");
 
 document.writeln("	");

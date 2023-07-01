@@ -59,7 +59,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("179-180期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猪<span style=\'background-color: #FFFF00\'>马</span>猴兔龙狗】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>179</font></span>期√)  ");
+document.writeln("179-180期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猪<span style=\'background-color: #000000\'>马</span>猴兔龙狗】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>179</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

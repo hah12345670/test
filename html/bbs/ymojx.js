@@ -21,7 +21,17 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62102c.com『原创幽默猜测解特』</font></b></table>");
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
-document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第183期幽默猜测（非洲人）两岁半的女儿经常说一些可笑的话。一天看电视上非洲人跳舞，她突然问：“妈妈，这个叔叔咋没洗脸呀？”......本期图片会给我们带来什么样的玄机</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：非洲人解鼠兔猴鸡狗龙</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：鼠兔猴鸡狗龙</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -30,7 +40,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：猪猴牛蛇虎鼠</font></b></div>");
+document.writeln("	综合特肖：猪</font><font size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'4\' color=\'#009900\'>牛蛇虎鼠</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("       <!--开始-->");

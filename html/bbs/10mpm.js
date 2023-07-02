@@ -16,7 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("182期：平码【14.16.11.30.24.45.37.33.35.27.15.48】<br>");
+document.writeln("");
+document.writeln("183期：平码【09.22.18.21.36.34.49.26.03.04.02.19】<br>");
 document.writeln("");
 
 document.writeln("");

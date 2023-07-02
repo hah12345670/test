@@ -42,7 +42,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第182期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.狗18.兔25.蛇23】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第183期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙12.狗30.蛇23.猪17】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

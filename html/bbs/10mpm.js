@@ -15,11 +15,14 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("184期：平码【21.01.41.26.49.20.34.36.47.22.43.37】<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("183期：平码【09.22.18.21.36.34.49.26.03.04.02.19】<br>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("183期：平码【09.22.18.21.36.34</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">.49</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.26.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">03</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.04.02.19】<br>");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");

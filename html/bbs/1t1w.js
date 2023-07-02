@@ -22,12 +22,19 @@ document.writeln("          <ul style=\'margin-left:5px;padding-left:0px;\'>");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("            <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>184期杀【5尾】开00准 </span> </font>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("");
 document.writeln("            <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>183期杀【8尾】开00准 </span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>183期杀【8尾】开43准 </span> </font>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -179,7 +186,14 @@ document.writeln("   ");
 document.writeln("   ");
 document.writeln("               <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>183期杀【狗】开00准 </span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>184期杀【鼠】开00准 </span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("");
+document.writeln("   ");
+document.writeln("   ");
+document.writeln("               <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>183期杀【狗】开鸡准 </span> </font>");
 document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
 document.writeln("");
 

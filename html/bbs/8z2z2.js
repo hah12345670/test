@@ -43,12 +43,12 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font size=\"5\">184期8组2中2</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
-document.writeln("		【39.15】【33.16】【32.15】【18.39】<br>");
-document.writeln("		【15.28】【16.40】【25.11】【24.39】</font></p></b></td>");
+document.writeln("		【16.44】【46.25】【16.25】【25.20】<br>");
+document.writeln("		【08.10】【20.39】【44.39】【25.46】</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
-document.writeln("");
+
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");

@@ -41,13 +41,13 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font size=\"5\">185期8组2中2</span></font><p align=\'center\'>");
+document.writeln("		<font size=\"5\">186期8组2中2</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
-document.writeln("		【16.44】【46.25】【16.25】【25.20】<br>");
-document.writeln("		【08.10】【20.39】【44.39】【25.46】</font></p></b></td>");
+document.writeln("		【09.40】【08.43】【26.09】【27.08】<br>");
+document.writeln("		【43.08】【26.03】【40.27】【03.09】</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-document.writeln("");
+
 
 document.writeln("   <!--开始-->");
 document.writeln("    ");

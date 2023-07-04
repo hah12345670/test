@@ -48,7 +48,7 @@ document.writeln("      <td align=\'left\' height=42 bgcolor=\'#FFFF00\' ><p ali
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>185期<b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></b></td>");
+document.writeln("		<font color=\'#000000\'>186期<b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
@@ -62,7 +62,7 @@ document.writeln("	<tr>");
 document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头六肖中特：兔马狗牛羊虎（下注1000（2倍）开</font></font></b></td>");
+document.writeln("		<font color=\'#000000\'>光头六肖中特：羊马鼠兔龙鸡（下注1000（2倍）开</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("  ");
 document.writeln("    ");
@@ -74,40 +74,6 @@ document.writeln("		<font color=\'#FF0000\'>心水不稳，勿参</font></font><
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--结束--> ");
-
-document.writeln("               <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=42 bgcolor=\'#FFFF00\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>183期<b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头平特一肖：<span style=\'background-color: #FFFF00\'>鼠鼠鼠</span>（下注1000（2.1倍）开16</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头六肖中特：马兔鼠龙猴猪（下注1000（2倍）开</font></font></b></td>");
-document.writeln("    </tr>     ");
-document.writeln("  ");
-document.writeln("    ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=36 bgcolor=\'#FFFFCC\' align=\'left\' ><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>心水不稳，勿参</font></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("  ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
 
 
 document.writeln("            ");

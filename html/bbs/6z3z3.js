@@ -18,6 +18,23 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("<span style=\'color: #00F;\'>186期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("");
+document.writeln("猪猴拖8尾<br>");
+document.writeln("【05.17.29.41.08.20.32.44】<br>");
+document.writeln("拖【08.18.28.38.48】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
 document.writeln("<span style=\'color: #00F;\'>185期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
 document.writeln("");
 document.writeln("  <tr>");
@@ -25,8 +42,8 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<font style=\'font-size: 14pt\'>");
 document.writeln("");
 document.writeln("鸡猴拖6尾<br>");
-document.writeln("【07.19.31.3.08.20.32.44】<br>");
-document.writeln("拖【06.16.26.36.46】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>07</span>.19.<span style=\'background-color: #FFFF00\'>31</span>.43.08.20.32.44】<br>");
+document.writeln("拖【06.16.26.36.<span style=\'background-color: #FFFF00\'>46</span>】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
 

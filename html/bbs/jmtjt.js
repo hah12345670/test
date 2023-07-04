@@ -36,17 +36,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>185期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【0.6.9.5】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>186期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【2.5.3.7】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字0695或者解特龙猪兔羊牛鼠马鸡狗</font></b></td>");
+document.writeln("		解：数字2537或者解特狗龙猪鼠虎马羊猴蛇</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -59,6 +60,7 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束--> ");
+
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");

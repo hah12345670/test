@@ -24,70 +24,15 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("185期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("186期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("182期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>猴08</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("185期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>猴08</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("180期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>马34</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("179期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>鼠04</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("178期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>虎02</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("177期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>猴44</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("176期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>猴32</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("175期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>狗06</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("173期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>龙36</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("171期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>马10</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("169期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>鼠04</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("168期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>龙12</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
 
 
 

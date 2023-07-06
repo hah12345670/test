@@ -27,7 +27,14 @@ document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>186期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【一九中彩】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>187期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【口张舌露】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：乙丑日 属性：金 地支六冲：牛日：冲羊，克马，破猴，无鸡， 六合：鼠；三合：蛇鸡。空亡肖：羊蛇</font></div>");
+document.writeln("    </td>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>186期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【一九中彩】</font><font color=\'#0033CC\'>开兔01<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：甲子日 属性：金 地支六冲：鼠日：冲马，克羊，破羊，无猴， 六合：牛；三合：龙猴。空亡肖：马鸡</font></div>");
 document.writeln("    </td>");
 

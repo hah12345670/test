@@ -187,7 +187,7 @@ document.writeln("		182期杀0头单√<br>			");
 document.writeln("		183期杀4头双√<br>			");
 document.writeln("		184期杀0头单√<br>			");
 document.writeln("		185期杀2头双√<br>			");
-document.writeln("		186期杀0头单√<br>			");
+document.writeln("		186期杀0头单×<br>			");
 document.writeln("		187期杀4头单√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");

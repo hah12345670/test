@@ -21,6 +21,18 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62102c.com『原创幽默猜测解特』</font></b></table>");
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
+document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第187期幽默猜测</font><font color=\'#FF0000\'>（哪吒）“</font><font color=\'#000000\'>葫芦娃跟奥特曼谁厉害啊？”答：“我觉得还是哪吒厉害吧。.....本期图片会给我们带来什么样的玄机</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：哪吒解龙兔羊蛇马虎</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：龙兔羊蛇马虎</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");

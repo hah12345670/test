@@ -13,8 +13,23 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' st
 document.writeln("			<span style=font-family:楷体;color:#FF0000>10元一组本金350，中1组得700元，2组得1400元，3组2100元.（连本）</span></a></strong></tr></table>");
 document.writeln("");
 
-
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("<span style=\'color: #00F;\'>188期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("");
+document.writeln("猪牛拖6尾<br>");
+document.writeln("【05.17.29.41.03.15.27.39】<br>");
+document.writeln("拖【06.16.26.36.46】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
@@ -26,8 +41,8 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<font style=\'font-size: 14pt\'>");
 document.writeln("");
 document.writeln("马羊拖9尾<br>");
-document.writeln("【10.22.34.46.21.33.45】<br>");
-document.writeln("拖【09.19.29.39.49】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("【10.22<span style=\'background-color: #FFFF00\'>.34</span>.46.21.33.45】<br>");
+document.writeln("拖【09.<span style=\'background-color: #FFFF00\'>19</span>.29.39.49】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
 

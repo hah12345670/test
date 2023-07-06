@@ -16,23 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("187期：平码【45.22.40.46.04.15.09.48.01.47.31.30】<br>");
+document.writeln("");
+document.writeln("188期：平码【14.31.33.19.06.34.10.02.13.49.41.25】<br>");
 document.writeln("");
 
-document.writeln("");
-document.writeln("185期：平码【45.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">31</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.44.33.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">46</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.43.16.13.22.47.18.39】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("184期：平码【</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">21</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.01.41.26.49.20.34.36.47.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">22.43</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.37】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("183期：平码【09.22.18.21.36.34</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">.49</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.26.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">03</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.04.02.19】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

@@ -18,7 +18,10 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("187期：平特【龙马拖猪虎】开？00<br>");
+document.writeln("188期：平特【狗鸡拖龙牛】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("187期：平特【<span style=\'background-color: #FFFF00\'>龙马</span>拖<span style=\'background-color: #FFFF00\'>猪</span>虎】开24.34.05<br>");
 document.writeln("------<br>");
 
 document.writeln("");

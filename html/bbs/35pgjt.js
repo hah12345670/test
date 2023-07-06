@@ -46,74 +46,6 @@ document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			187期<font color=\'#FF0000\'>【今期龙羊争上奖，狗头军师巧计谋】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：龙羊争上奖明肖龙羊，争解战肖虎牛马狗，狗头军师解狗肖</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：狗羊龙牛马虎鼠<br>");
-document.writeln("			大小：大数<br>");
-document.writeln("			特码：30.42.33.45.36.48.27.39.34.46.26.38.28.40");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			185期<font color=\'#FF0000\'>【今期生肖出六合，三二三四两不同】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：六合的生肖06狗.15牛.24龙.33羊.42狗.三二解猴.三四解马</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：马<span style=\'background-color: #FFFF00\'>猴</span>狗羊龙牛兔<br>");
-document.writeln("			大小：大数<br>");
-document.writeln("			特码：34.46.32.44.30.42.33.45.36.48.27.39.25.49");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			183期<font color=\'#FF0000\'>【四六合一先后出，三七相逢做大戏】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：先后出解后肖马羊猴鸡狗猪，做大戏解大肖牛马虎狗羊猪</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：马羊狗猪牛虎<span style=\'background-color: #FFFF00\'>鸡</span><br>");
-document.writeln("			大小：<span style=\'background-color: #FFFF00\'>大数</span><br>");
-document.writeln("			特码：34.46.33.45.30.42.29.41.27.39.26.38.31.<span style=\'background-color: #FFFF00\'>43</span>");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			182期<font color=\'#FF0000\'>【二四当前五六到，选出二三是吉数】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：二四当前解二四龙，五六到解五龙猪，六蛇狗，二三解23蛇</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：蛇狗龙猪兔牛<span style=\'background-color: #FFFF00\'>猴</span><br>");
-document.writeln("			大小：大数<br>");
-document.writeln("			特码：35.47.30.42.36.48.29.41.37.49.27.39.32.44");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -122,15 +54,17 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			180期<font color=\'#FF0000\'>【本期五八有玄机，双数出来不稀奇】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：本期五八有玄机，五解猪龙，八解羊猴，双数出来解双龙虎马狗猴鼠</font><br>");
+document.writeln("			188期<font color=\'#FF0000\'>【关注62102a.com】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62102c.com</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：猪羊龙<span style=\'background-color: #FFFF00\'>马</span>狗猴鼠<br>");
-
+document.writeln("			<br>七肖：来料<br>");
+document.writeln("			大小：来料<br>");
+document.writeln("			特码：来料");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
 
 
 

@@ -18,7 +18,11 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("186期：平特【兔猴拖鼠龙】开？00<br>");
+document.writeln("187期：平特【龙马拖猪虎】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("186期：平特【<span style=\'background-color: #FFFF00\'>兔</span>猴拖<span style=\'background-color: #FFFF00\'>鼠龙</span>】开01.04.24<br>");
 document.writeln("------<br>");
 
 document.writeln("185期：平特【龙<span style=\'background-color: #FFFF00\'>猴</span>拖<span style=\'background-color: #FFFF00\'>狗</span>兔】开08.18<br>");

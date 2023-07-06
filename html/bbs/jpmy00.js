@@ -14,11 +14,21 @@ document.writeln("			<table style=border-collapse:collapse border=0 width=100%><
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
+
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("186期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("187期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("一粒红皮谷，半两还不足。<br>");
+document.writeln("雨来成碎锦，风起现花纹。</font></b></font></table>");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("186期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>兔01</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("一物不大身上装，胜过千金万宝囊。<br>");
 document.writeln("里面有长也有短，能装棉来能装钢。</font></b></font></table>");
 document.writeln("");

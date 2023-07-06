@@ -16,8 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("187期：平码【45.22.40.46.04.15.09.48.01.47.31.30】<br>");
 document.writeln("");
-document.writeln("186期：平码【48.24.11.20.03.26.22.23.07.37.16.06】<br>");
+
 document.writeln("");
 document.writeln("185期：平码【45.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">31</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.44.33.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">46</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.43.16.13.22.47.18.39】<br>");
 document.writeln("");

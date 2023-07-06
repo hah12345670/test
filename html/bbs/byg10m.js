@@ -40,7 +40,7 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		");
-document.writeln("186期:<font color=\'#FF0000\'><font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【62102.com高手榜已更新】</font></font>开？00准</p></b></td>");
+document.writeln("186期:<font color=\'#FF0000\'><font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【蛇虎猴】</font></font>开？00准</p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");

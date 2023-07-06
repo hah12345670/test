@@ -35,7 +35,13 @@ document.writeln("");
 document.writeln("						<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("186期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+蛇羊虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("187期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+鸡鼠狗</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("						<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("186期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔01</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("						<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -80,46 +86,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("177期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎羊</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴44</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("175期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+羊虎<span style=\'background-color: #FFFF00\'>狗</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗06</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("174期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪41</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
-
-document.writeln("");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("173期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙36</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("172期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+<span style=\'background-color: #FFFF00\'>龙</span>牛猴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙12</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("171期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎狗</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马10</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 document.writeln("");

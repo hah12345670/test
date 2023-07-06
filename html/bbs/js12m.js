@@ -42,20 +42,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>186期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【07.36.28.20.21.10.49.14.09.16.31.23】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->    ");
-
-
-
-document.writeln("");
-document.writeln("               <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>183期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【15.24.36.49.30.41.13.33.17.28.07.19】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>43√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>187期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【37.22.26.33.08.06.23.05.48.46.35.39】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->    ");
 
@@ -69,9 +56,10 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>182期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【31.11.01.49.28.10.13.32.24.06.15.23】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>08√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>186期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【07.36.28.20.21.10.49.14.09.16.31.23】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>01√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->    ");
+
 
 
 

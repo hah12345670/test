@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/186/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/187/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -28,7 +28,7 @@ document.writeln("    var picArrsbx=new Array(");
 
 
 
-
+document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/187/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/186/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/185/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/184/ammh.jpg\',");

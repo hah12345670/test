@@ -27,7 +27,7 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("186期码神哥五不中[20-28-22-18-14] <br>");
+document.writeln("187期码神哥五不中[26-39-07-28-30] <br>");
 document.writeln("	开奖:00-00-00-00-00-00+00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -36,73 +36,6 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("184期码神哥五不中[35-09-38-31-42] <br>");
-document.writeln("	开奖:25-08-21-19-43-22 T36</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #008000\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62102b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("181期码神哥五不中[35-46-39-31-24] <br>");
-document.writeln("	开奖:32-02-17-45-08-19 T23</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #008000\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62102b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("180期码神哥五不中[04-20-49-47-28] <br>");
-document.writeln("	开奖:48-24-40-16-38-22 T34</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #008000\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62102b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("179期码神哥五不中[42-14-07-45-33] <br>");
-document.writeln("	开奖:48-28-35-07-25-03 T04</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #008000\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62102b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-
 
 
 

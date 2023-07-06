@@ -51,7 +51,15 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第186期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第187期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第186期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>01</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("    <!--开始-->  ");
@@ -62,43 +70,6 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第185期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>08</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第182期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>08</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->  ");
-
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第180期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>34</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->  ");
-
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第179期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>04</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->  ");
-
-
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第177期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>44</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->  ");
-
 
 
 document.writeln("");

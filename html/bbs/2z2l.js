@@ -13,8 +13,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#6600CC\'>186期</font><font color=\'#008000\'>二组二连</font><font color=\'#0000FF\'>『</font><font color=\'#FF00FF\'>虎蛇</font><font color=\'#0000FF\'>』</font><font color=\'#0000FF\'>『</font><font color=\'#FF00FF\'>鼠羊</font><font color=\'#0000FF\'>』</font></font></b></font></table>");
+document.writeln("	<font color=\'#6600CC\'>187期</font><font color=\'#008000\'>二组二连</font><font color=\'#0000FF\'>『</font><font color=\'#FF00FF\'>龙蛇</font><font color=\'#0000FF\'>』</font><font color=\'#0000FF\'>『</font><font color=\'#FF00FF\'>兔狗</font><font color=\'#0000FF\'>』</font></font></b></font></table>");
 document.writeln("");
+
 
 
 

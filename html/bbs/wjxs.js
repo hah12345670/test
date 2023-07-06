@@ -44,7 +44,7 @@ document.writeln("    </tr>      ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>【7月必开一尾】</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【111】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(00)</font><font color=\'#FF0000\' face=\'微软雅黑\'>00次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>【7月必开一尾】</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【111】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(01)</font><font color=\'#FF0000\' face=\'微软雅黑\'>01次</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");

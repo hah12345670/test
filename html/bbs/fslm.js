@@ -21,27 +21,7 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("186期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>30.37.09.28.07</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("184期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>13.15.<span style=\'background-color: #FFFF00\'>21</span>.03.07</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("183期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>15.02.<span style=\'background-color: #FFFF00\'>16</span>.30.36</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("182期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>46.33.02.24.<span style=\'background-color: #FFFF00\'>01</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("180期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>16</span>.15.08.01.<span style=\'background-color: #FFFF00\'>22</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("187期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.48.42.27.33</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 
 document.writeln("");

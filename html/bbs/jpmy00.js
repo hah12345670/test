@@ -15,12 +15,22 @@ document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949
 document.writeln("<!--推广结束-->");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("188期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("189期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("夜里林中一哨兵，眼睛好像两盏灯。<br>");
+document.writeln("瞧瞧西来望望东，抓住盗贼不放松。</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("188期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>马46</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("没人时用着它，有人时不用它。<br>");
 document.writeln("进门时用着它，进门后不用它。</font></b></font></table>");
 document.writeln("");

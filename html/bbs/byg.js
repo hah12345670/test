@@ -42,27 +42,9 @@ document.writeln("		");
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（183期）</font><Br>");
-document.writeln("		<b>特肖【羊<span style=\'background-color: #FFFF00\'>鸡</span>猪虎兔龙】<br>		");
-document.writeln("		<br>");
-
-
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（184期）</font><Br>");
-document.writeln("		<b>特肖【猪<span style=\'background-color: #FFFF00\'>龙</span>羊鸡鼠兔】<br>		");
-document.writeln("		<br>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（185期）</font><Br>");
-document.writeln("		<b>特肖【虎马牛<span style=\'background-color: #FFFF00\'>猴</span>鸡兔】<br>		");
-document.writeln("		<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（188期）</font><Br>");
-document.writeln("		<b>特肖【羊鸡鼠龙猴牛】<br>		");
+document.writeln("                   <font color=\'#0000FF\'>（189期）</font><Br>");
+document.writeln("		<b>特肖【狗猪鼠蛇虎牛】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
@@ -83,6 +65,7 @@ document.writeln("		185期杀【44.04.01.33.26.24.20】√<br>		");
 document.writeln("		186期杀【06.24.27.44.02.19.41】√<br>		");
 document.writeln("		187期杀【22.40.18.05.49.25.15】√<br>		");
 document.writeln("		188期杀【48.37.23.02.24.25.43】√<br>		");
+document.writeln("		189期杀【31.02.28.06.14.27.15】√<br>		");
 document.writeln("			</span>");
 document.writeln("		</b></font>");
 document.writeln("		");
@@ -124,6 +107,7 @@ document.writeln("		185期杀虎鼠√<br>			");
 document.writeln("		186期杀鼠羊√<br>			");
 document.writeln("		187期杀猪马√<br>			");
 document.writeln("		188期杀龙鼠√<br>			");
+document.writeln("		189期杀鸡狗√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -156,6 +140,7 @@ document.writeln("		185期杀绿单√<br>				");
 document.writeln("		186期杀蓝双√<br>				");
 document.writeln("		187期杀绿双√<br>				");
 document.writeln("		188期杀蓝单√<br>				");
+document.writeln("		189期杀蓝单√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -193,6 +178,7 @@ document.writeln("		185期杀2头双√<br>			");
 document.writeln("		186期杀0头单×<br>			");
 document.writeln("		187期杀4头单√<br>			");
 document.writeln("		188期杀4头双√<br>			");
+document.writeln("		189期杀2头双√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -205,6 +191,7 @@ document.writeln("		185期杀1.9尾√<br>			    ");
 document.writeln("		186期杀3.4尾√<br>			    ");
 document.writeln("		187期杀5.3尾√<br>			    ");
 document.writeln("		188期杀0.7尾√<br>			    ");
+document.writeln("		189期杀2.8尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

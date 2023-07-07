@@ -61,7 +61,7 @@ document.writeln("		<b>特肖【虎马牛<span style=\'background-color: #FFFF00
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（187期）</font><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（188期）</font><Br>");
 document.writeln("		<b>特肖【羊鸡鼠龙猴牛】<br>		");
 document.writeln("		<br>");
 document.writeln("");

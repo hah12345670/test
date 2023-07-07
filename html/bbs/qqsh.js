@@ -31,68 +31,18 @@ document.writeln("	<!--结束-->");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("187期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
-
 
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("185期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴书<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴08</span>准</font></font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("183期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鸡43</span>准</font></font></b></font></table>");
+document.writeln("188期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴棋画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("181期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇23</span>准</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("180期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋<span style=\'background-color: #FFFF00\'>书</span>画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马34</span>准</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("179期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴<span style=\'background-color: #FFFF00\'>棋</span>书</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠04</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("178期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋<span style=\'background-color: #FFFF00\'>书</span>画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎02</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("177期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋琴<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴44</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("176期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴书<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴32</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("175期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴<span style=\'background-color: #FFFF00\'>棋</span>书</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗06</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("174期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋<span style=\'background-color: #FFFF00\'>画</span>书</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪41</span>准</font></font></b></font></table>");
+document.writeln("187期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鸡31</span>准</font></font></b></font></table>");
 
 
 

@@ -15,8 +15,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("190期：平码【46.49.02.38.25.10.20.29.47.36.17.42】<br>");
 document.writeln("");
-document.writeln("189期：平码【43.16.08.15.49.35.05.03.32.11.24.21】<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

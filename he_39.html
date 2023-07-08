@@ -14,6 +14,7 @@
 	<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0"/> -->
 	<div id="showtimer2"></div>
 	<div id="showdata"></div>
+	<input type="hidden" id="returndata" value="" /> <!-- 昨天数据 -->
 	<style>
 		/*表格样式*/
 		table {
@@ -65,49 +66,78 @@
 		s = timeInterval%3600%60 < 10 ? '0'+timeInterval%3600%60 : timeInterval%3600%60;
 		// document.getElementById("showtimer1").innerHTML = ymd + ' ' + t;
 		document.getElementById("showtimer2").innerHTML = '<table><tr><th>倒计时: ' + h + ':' + m + ':' + s + '</th></tr></table>';
+		let refresh = nowsecends - 21*3600 - 32*60;
+		let where1 = (refresh >= 0) && (refresh <= 30*60);
+		if (where1){
+			resjson();
+		}
 	}
 	</script>
 	<!-- 刷新开奖数据 -->
 	<script>
-	let datajson = setInterval(function(){resjson()},1000);
+	// let datajson = setInterval(function(){resjson()},1000);
+	resjson();
 	function resjson(){
 		var xhr = new XMLHttpRequest();
 		xhr.open('GET', 'https://www.macaumarksix.com/api/macaujc2.com', true);
 		xhr.responseType = 'json';
 		xhr.onload = function() {
-			str1 = '<table><tr><th>期数</th><th colspan=6>平码</th><th>特码</th></tr>'
 			if (xhr.status === 200) {
 				var jsonResponse = xhr.response;
-				let arr1 = [1,2,4]
-				// console.log(jsonResponse); // 返回的JSON对象
-				let json_len = jsonResponse.length;
-				json_len = json_len >= 3 ? 3 : json_len;
-				for(let x=0;x<json_len;x++){
-					str1 += '<tr>'
-					let arr1 = [],arr2 = [],arr3 = [];
-					arr1 = jsonResponse[x]['openCode'].split(',')
-					arr2 = jsonResponse[x]['wave'].split(',')
-					arr3 = jsonResponse[x]['zodiac'].split(',')
-					str1 += '<td rowspan=2>' + jsonResponse[x]['expect'] + '</td>'
-					for(let y=0;y<arr1.length;y++){
-						str1 += '<td><span style="background-color:' + arr2[y] + ';border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;">' + arr1[y] + '</span></td>'
-					}
-					str1 += '</tr><tr>'
-					for(let y=0;y<arr3.length;y++){
-						str1 += '<td>' + arr3[y] + '</td>'
-					}
-					// str1 += '</tr><tr><td colspan=7><span style="display: inline-block;">' + jsonResponse[x]['openTime'].substring(0, 16) + '</span></td>'
-					str1 += '</tr>'
+				let returndata = document.getElementById('returndata').value;
+				if (returndata != jsonResponse[0]['expect']){
+					document.getElementById('returndata').value = jsonResponse[0]['expect'];
+					reshtml(jsonResponse);
 				}
-				str1 += '</table>'
-				document.getElementById("showdata").innerHTML = str1;
 			}
 		};
 		xhr.send();
 	}
+	function reshtml(jsonResponse){
+		str1 = '<table><tr><th>期数</th><th colspan=6>平码</th><th>特码</th></tr>';
+		let arr1 = [1,2,4]
+		// console.log(jsonResponse); // 返回的JSON对象
+		let json_len = jsonResponse.length;
+		json_len = json_len >= 1 ? 1 : json_len;
+		for(let x=0;x<json_len;x++){
+			str1 += '<tr>'
+			let arr1 = [],arr2 = [],arr3 = [];
+			arr1 = jsonResponse[x]['openCode'].split(',')
+			arr2 = jsonResponse[x]['wave'].split(',')
+			arr3 = jsonResponse[x]['zodiac'].split(',')
+			str1 += '<td rowspan=2>' + jsonResponse[x]['expect'] + '</td>'
+			for(let y=0;y<arr1.length;y++){
+				str1 += '<td><span style="background-color:' + arr2[y] + ';border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;">' + arr1[y] + '</span></td>'
+			}
+			str1 += '</tr><tr>'
+			for(let y=0;y<arr3.length;y++){
+				str1 += '<td>' + arr3[y] + '</td>'
+			}
+			str1 += '</tr><tr><td colspan=8><span style="display: inline-block;">' + jsonResponse[x]['openTime'].substring(0, 16) + '</span></td>'
+			str1 += '</tr>'
+		}
+		str1 += '</table>'
+		document.getElementById("showdata").innerHTML = str1;
+	}
 	</script>
 	<hr>
-	<body><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【三期必出】</font></font></div><table border="1" width="100%" class="duilianpt1" bgcolor="#ffffff" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" cellpadding="2" style="text-align: center;line-height: 35px; font-size: 16px;">
+	<body>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/amgjp.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/amsbx.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/ammh.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/mts.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/jdbcz.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/lmkz.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/am30ma.jpg" width="100%"></div>
+		<!-- 额外添加 --><hr>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/tjn.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/ambxgh.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/bxyl.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/mfpy.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/pt06.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/jxsm.jpg" width="100%"></div>
+		<div><img src="https://tk.tutu.finance/aomen/2023/col/190/yylm.jpg" width="100%"></div>
+		<div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【推荐】</font></font></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><td width="15%"><font color="black">190期</font></td><td><font color="blue">马猪龙猴狗鼠兔鸡<td>8个8(32/43)</td><td width="15%"><font color="black">开:? 00</font></td></tr><tr><td width="15%"><font color="black">189期</font></td><td><font color="blue"><span style="background-color: #FFFF00">马</span>猪龙猴狗鼠兔虎鸡<td>9个3(7/9)</td><td width="15%"><font color="red">开:马46</font></td></tr><tr><td width="15%"><font color="black">188期</font></td><td><font color="blue"><span style="background-color: #FFFF00">马</span>猪龙猴狗鼠兔虎鸡<td>9个3(7/9)</td><td width="15%"><font color="red">开:马46</font></td></tr><tr><td width="15%"><font color="black">187期</font></td><td><font color="blue">马猴猪龙狗鼠兔虎<td>8个8(32/43)</td><td width="15%"><font color="black">开:鸡31</font></td></tr><tr><td width="15%"><font color="black">186期</font></td><td><font color="blue">马猴猪龙狗鼠虎鸡<td>8个8(32/43)</td><td width="15%"><font color="black">开:兔01</font></td></tr><tr><td width="15%"><font color="black">185期</font></td><td><font color="blue">马猪龙<span style="background-color: #FFFF00">猴</span>狗鼠鸡虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:猴08</font></td></tr><tr><td width="15%"><font color="black">184期</font></td><td><font color="blue">马猪猴狗鼠<span style="background-color: #FFFF00">龙</span>鸡虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:龙36</font></td></tr><tr><td width="15%"><font color="black">183期</font></td><td><font color="blue">马猪猴<span style="background-color: #FFFF00">鸡</span>狗鼠龙虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:鸡43</font></td></tr></tbody></table><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【三期必出】</font></font></div><table border="1" width="100%" class="duilianpt1" bgcolor="#ffffff" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" cellpadding="2" style="text-align: center;line-height: 35px; font-size: 16px;">
 <tr><td width="30%"><font color="red">191期</font></td>
 <td rowspan="3"><font color="blue">羊-鼠-猪-鸡</font></td>
 <td width="30%"><font color="red">开:？00</font></td></tr>
@@ -123,22 +153,6 @@
 <td width="30%"><font color="red">开:龙36</font></td></tr>
 <tr><td width="30%"><font color="red">183期</font></td>
 <td width="30%"><font color="red">开:鸡43</font></td></tr></table>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/amgjp.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/amsbx.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/ammh.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/mts.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/jdbcz.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/lmkz.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/am30ma.jpg" width="100%"></div>
-		<!-- 额外添加 --><hr>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/tjn.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/ambxgh.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/bxyl.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/mfpy.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/pt06.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/jxsm.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2023/col/189/yylm.jpg" width="100%"></div>
-		<div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【推荐】</font></font></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><td width="15%"><font color="black">189期</font></td><td><font color="blue">马猪龙猴狗鼠兔虎鸡<td>9个0(6/8)</td><td width="15%"><font color="black">开:? 00</font></td></tr><tr><td width="15%"><font color="black">188期</font></td><td><font color="blue"><span style="background-color: #FFFF00">马</span>猪龙猴狗鼠兔虎鸡<td>9个0(6/8)</td><td width="15%"><font color="red">开:马46</font></td></tr><tr><td width="15%"><font color="black">187期</font></td><td><font color="blue">马猴猪龙狗鼠兔虎<td>8个8(32/43)</td><td width="15%"><font color="black">开:鸡31</font></td></tr><tr><td width="15%"><font color="black">186期</font></td><td><font color="blue">马猴猪龙狗鼠虎鸡<td>8个8(32/43)</td><td width="15%"><font color="black">开:兔01</font></td></tr><tr><td width="15%"><font color="black">185期</font></td><td><font color="blue">马猪龙<span style="background-color: #FFFF00">猴</span>狗鼠鸡虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:猴08</font></td></tr><tr><td width="15%"><font color="black">184期</font></td><td><font color="blue">马猪猴狗鼠<span style="background-color: #FFFF00">龙</span>鸡虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:龙36</font></td></tr><tr><td width="15%"><font color="black">183期</font></td><td><font color="blue">马猪猴<span style="background-color: #FFFF00">鸡</span>狗鼠龙虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:鸡43</font></td></tr><tr><td width="15%"><font color="black">182期</font></td><td><font color="blue">马猪龙鸡狗鼠<span style="background-color: #FFFF00">猴</span>虎<td>8个8(32/43)</td><td width="15%"><font color="red">开:猴08</font></td></tr></tbody></table><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【八肖中特】</font></font></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><td width="25%"><font color="black">189期</font></td><td><font color="blue">虎羊猪鸡马蛇牛狗<td width="25%"><font color="black">开:? 00</font></td></tr><tr><td width="25%"><font color="black">188期</font></td><td><font color="blue">鸡狗牛龙兔虎羊鼠<td width="25%"><font color="black">开:马46</font></td></tr><tr><td width="25%"><font color="black">187期</font></td><td><font color="blue">虎狗鼠牛兔<span style="background-color: #FFFF00">鸡</span>猪羊<td width="25%"><font color="red">开:鸡31</font></td></tr><tr><td width="25%"><font color="black">186期</font></td><td><font color="blue">狗猴鼠蛇牛猪马龙<td width="25%"><font color="black">开:兔01</font></td></tr><tr><td width="25%"><font color="black">185期</font></td><td><font color="blue">虎鸡兔马狗蛇羊鼠<td width="25%"><font color="black">开:猴08</font></td></tr><tr><td width="25%"><font color="black">184期</font></td><td><font color="blue">虎马羊蛇<span style="background-color: #FFFF00">龙</span>鼠猴鸡<td width="25%"><font color="red">开:龙36</font></td></tr><tr><td width="25%"><font color="black">183期</font></td><td><font color="blue">羊狗龙马<span style="background-color: #FFFF00">鸡</span>猪兔猴<td width="25%"><font color="red">开:鸡43</font></td></tr><tr><td width="25%"><font color="black">182期</font></td><td><font color="blue">猪鼠牛虎兔羊龙马<td width="25%"><font color="black">开:猴08</font></td></tr><tr><td width="25%"><font color="black">181期</font></td><td><font color="blue">鼠羊狗虎猪马鸡牛<td width="25%"><font color="black">开:蛇23</font></td></tr><tr><td width="25%"><font color="black">180期</font></td><td><font color="blue">龙猪虎鸡<span style="background-color: #FFFF00">马</span>猴牛羊<td width="25%"><font color="red">开:马34</font></td></tr><tr><td width="25%"><font color="black">179期</font></td><td><font color="blue">猪猴鸡狗羊<span style="background-color: #FFFF00">鼠</span>龙蛇<td width="25%"><font color="red">开:鼠04</font></td></tr><tr><td width="25%"><font color="black">178期</font></td><td><font color="blue">狗龙猴牛马猪蛇鼠<td width="25%"><font color="black">开:虎02</font></td></tr><tr><td width="25%"><font color="black">177期</font></td><td><font color="blue">狗蛇虎牛龙<span style="background-color: #FFFF00">猴</span>马兔<td width="25%"><font color="red">开:猴44</font></td></tr><tr><td width="25%"><font color="black">176期</font></td><td><font color="blue">鼠羊兔鸡牛龙<span style="background-color: #FFFF00">猴</span>马<td width="25%"><font color="red">开:猴32</font></td></tr><tr><td width="25%"><font color="black">175期</font></td><td><font color="blue">马猪<span style="background-color: #FFFF00">狗</span>蛇鸡龙兔羊<td width="25%"><font color="red">开:狗06</font></td></tr></tbody></table><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【澳门9肖】</font></font></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><td width="25%"><font color="black">189期</font></td><td><font color="blue">虎龙猪蛇兔鼠鸡狗牛<td width="25%"><font color="black">开:? 00</font></td></tr><tr><td width="25%"><font color="black">188期</font></td><td><font color="blue">龙蛇<span style="background-color: #FFFF00">马</span>鸡鼠猴兔牛羊<td width="25%"><font color="red">开:马46</font></td></tr><tr><td width="25%"><font color="black">187期</font></td><td><font color="blue">龙猪虎狗鼠羊猴<span style="background-color: #FFFF00">鸡</span>兔<td width="25%"><font color="red">开:鸡31</font></td></tr><tr><td width="25%"><font color="black">186期</font></td><td><font color="blue">鼠龙马猴蛇牛鸡猪羊<td width="25%"><font color="black">开:兔01</font></td></tr><tr><td width="25%"><font color="black">185期</font></td><td><font color="blue">羊马猪蛇牛狗<span style="background-color: #FFFF00">猴</span>鸡龙<td width="25%"><font color="red">开:猴08</font></td></tr><tr><td width="25%"><font color="black">184期</font></td><td><font color="blue">鼠马猪鸡兔猴牛蛇<span style="background-color: #FFFF00">龙</span><td width="25%"><font color="red">开:龙36</font></td></tr><tr><td width="25%"><font color="black">183期</font></td><td><font color="blue">马猴蛇猪牛兔狗龙羊<td width="25%"><font color="black">开:鸡43</font></td></tr><tr><td width="25%"><font color="black">182期</font></td><td><font color="blue">牛<span style="background-color: #FFFF00">猴</span>蛇狗马虎兔鼠鸡<td width="25%"><font color="red">开:猴08</font></td></tr><tr><td width="25%"><font color="black">181期</font></td><td><font color="blue">牛猴虎羊<span style="background-color: #FFFF00">蛇</span>鼠猪兔鸡<td width="25%"><font color="red">开:蛇23</font></td></tr><tr><td width="25%"><font color="black">180期</font></td><td><font color="blue">猪狗牛龙羊蛇兔猴鸡<td width="25%"><font color="black">开:马34</font></td></tr><tr><td width="25%"><font color="black">179期</font></td><td><font color="blue">猪鸡蛇兔狗羊虎猴马<td width="25%"><font color="black">开:鼠04</font></td></tr><tr><td width="25%"><font color="black">178期</font></td><td><font color="blue">兔龙狗牛鸡<span style="background-color: #FFFF00">虎</span>鼠猪羊<td width="25%"><font color="red">开:虎02</font></td></tr><tr><td width="25%"><font color="black">177期</font></td><td><font color="blue">虎龙羊鸡牛狗鼠猪蛇<td width="25%"><font color="black">开:猴44</font></td></tr><tr><td width="25%"><font color="black">176期</font></td><td><font color="blue">蛇<span style="background-color: #FFFF00">猴</span>牛狗鸡龙马兔鼠<td width="25%"><font color="red">开:猴32</font></td></tr><tr><td width="25%"><font color="black">175期</font></td><td><font color="blue">牛虎鼠兔猪鸡猴羊马<td width="25%"><font color="black">开:狗06</font></td></tr></tbody></table>
 		
 		<!-- <div id="show_js"></div>
 		<script>

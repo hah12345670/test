@@ -18,8 +18,9 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("189期：平特【羊蛇拖猴兔】开？00<br>");
+document.writeln("190期：平特【羊狗拖猪蛇】开？00<br>");
 document.writeln("------<br>");
+
 document.writeln("");
 document.writeln("188期：平特【<span style=\'background-color: #FFFF00\'>狗鸡</span>拖龙<span style=\'background-color: #FFFF00\'>牛</span>】开18.31.27<br>");
 document.writeln("------<br>");

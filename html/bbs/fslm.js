@@ -21,7 +21,12 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>35.37.13.19.33</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("189期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>07.37.28.09.01</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("188期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>35.37.<span style=\'background-color: #FFFF00\'>13</span>.19.<span style=\'background-color: #FFFF00\'>33</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 
 document.writeln("");

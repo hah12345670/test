@@ -12,7 +12,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>绿波+虎羊蛇猪</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
+document.writeln("189期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+蛇马猴兔</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("		<!--开始-->");

@@ -22,12 +22,19 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>188期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【松榭云畔】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>189期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【暗藏玄机】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丁卯日 属性：火 地支六冲：兔日：冲鸡，克龙，破狗，无猪， 六合：狗；三合：羊猪。空亡肖：鸡猪</font></div>");
+document.writeln("    </td>");
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>188期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【松榭云畔】</font><font color=\'#0033CC\'>开马46<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丙寅日 属性：火 地支六冲：虎日：冲猴，克蛇，破鸡，无狗， 六合：猪；三合：马狗。空亡肖：猴猪</font></div>");
 document.writeln("    </td>");
 document.writeln("");

@@ -17,13 +17,22 @@ document.writeln("		</b>  ");
 document.writeln("		</td>");
 document.writeln("    </tr>");
 
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>189期:</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>【百花争艳好春开】(狗急跳墙)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
 
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>188期:</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>【二五六尾有钱拿】(走马观花)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>188期:</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>【二五六尾有钱拿】(走马观花)</font><font style=\'font-size: 12pt; font-weight:700\'>开特46平46</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

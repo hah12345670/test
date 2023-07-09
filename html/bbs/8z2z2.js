@@ -35,7 +35,7 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font size=\"5\">189期8组2中2</span></font><p align=\'center\'>");
+document.writeln("		<font size=\"5\">190期8组2中2</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
 document.writeln("		【11.47】【13.22】【09.23】【16.04】<br>");
 document.writeln("		【24.47】【20.13】【04.23】【22.16】</font></p></b></td>");

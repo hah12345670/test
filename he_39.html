@@ -65,10 +65,16 @@
 		m = parseInt(timeInterval%3600/60) < 10 ? '0'+parseInt(timeInterval%3600/60) : parseInt(timeInterval%3600/60);
 		s = timeInterval%3600%60 < 10 ? '0'+timeInterval%3600%60 : timeInterval%3600%60;
 		// document.getElementById("showtimer1").innerHTML = ymd + ' ' + t;
-		document.getElementById("showtimer2").innerHTML = '<table><tr><th>倒计时: ' + h + ':' + m + ':' + s + '</th></tr></table>';
 		let refresh = nowsecends - 21*3600 - 32*60;
-		let where1 = (refresh >= 0) && (refresh <= 30*60);
+		let where1 = (refresh >= 0) && (refresh <= 32);
 		if (where1){
+			s = 30-refresh;s = (s>0 && s<10) ? s : '';
+			document.getElementById("showtimer2").innerHTML = '<table><tr><th><span style="font-size: 23px;line-height: 23px;font-weight: bolder;color: red;">开奖中...' + s + '</span></th></tr></table>';
+		} else {
+			document.getElementById("showtimer2").innerHTML = '<table><tr><th>倒计时: ' + h + ':' + m + ':' + s + '</th></tr></table>';
+		}
+		let where2 = (refresh >= 0) && (refresh <= 30*60);
+		if (where2){
 			resjson();
 		}
 	}
@@ -85,10 +91,9 @@
 			if (xhr.status === 200) {
 				var jsonResponse = xhr.response;
 				let returndata = document.getElementById('returndata').value;
-				if (returndata != jsonResponse[0]['expect']){
-					document.getElementById('returndata').value = jsonResponse[0]['expect'];
-					reshtml(jsonResponse);
-				}
+				// if (returndata != jsonResponse[0]['expect']){}
+				document.getElementById('returndata').value = jsonResponse[0]['expect'];
+				reshtml(jsonResponse);
 			}
 		};
 		xhr.send();

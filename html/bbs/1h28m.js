@@ -43,9 +43,37 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62102b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
+document.writeln(" 	            <li>191期必中一行：<font color=\'#FF00FF\' size=\'4\'>木</font></li>");
+document.writeln("            	<li>191期必中二行：<font color=\'#FF00FF\' size=\'4\'>木-金</font></li>");
+document.writeln("            	<li>191期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-金-土</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>06.13.21.35.36.44</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>02.10.24.31.32.39</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>04.17.18.26.34.47</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>191期一行一码：<font color=\'#FF00FF\' size=\'6\'>(木行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");;
+
+
+document.writeln("");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62102b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
 document.writeln(" 	            <li>190期必中一行：<font color=\'#FF00FF\' size=\'4\'>木</font></li>");
 document.writeln("            	<li>190期必中二行：<font color=\'#FF00FF\' size=\'4\'>木-水</font></li>");
-document.writeln("            	<li>190期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-水-土</font></li>");
+document.writeln("            	<li>190期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-水-<span style=\'background-color: #FFFF00\'>【土】</span></font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

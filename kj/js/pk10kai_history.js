@@ -1080,15 +1080,18 @@ function drawTjHtml(data) {
 	console.log('?  => 一、[', str_arr1+']');
 	document.getElementById('tj_xt_1').innerText = '一、['+str_arr1+']';
 	let return_arr = returnTjDatatest([0,8], [1,7], [2,6], 80);
-	document.getElementById('tj_xt_2').innerText = return_arr[0];
-	document.getElementById('tj_xt_3').innerText = return_arr[1];
-	document.getElementById('tj_xt_4').innerText = return_arr[2];
+	document.getElementById('tj_xt_2').innerText = return_arr[0][0];
+	document.getElementById('tj_xt_3').innerText = return_arr[0][1];
+	document.getElementById('tj_xt_4').innerText = return_arr[0][2];
+	document.getElementById('tj_xt_yb_1').innerText = str_arr1;
+	document.getElementById('tj_xt_yb_2').innerText = return_arr[1][0];
+	document.getElementById('tj_xt_yb_3').innerText = return_arr[1][1];
 	console.log('?  => 二、[', str_arr2+']');
 	document.getElementById('tj_xt_5').innerText = '二、['+str_arr2+']';
 	let return_arr1 = returnTjDatatest([0,9], [1,9], [2,9], 80);
-	document.getElementById('tj_xt_6').innerText = return_arr1[0];
-	document.getElementById('tj_xt_7').innerText = return_arr1[1];
-	document.getElementById('tj_xt_8').innerText = return_arr1[2];
+	document.getElementById('tj_xt_6').innerText = return_arr1[0][0];
+	document.getElementById('tj_xt_7').innerText = return_arr1[0][1];
+	document.getElementById('tj_xt_8').innerText = return_arr1[0][2];
 }
 // 返回推荐test
 function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
@@ -1103,6 +1106,7 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 	}
 	let num = 0, coin = 0, m = 5;
 	let return_arr = [];
+	let return_arr1 = [];
 	for(var x = 1, len = data.length-jg; x < len; x++) {
 		let arr = new_arr.slice(x, x+jg);
 		let str_arr1 = returnTjData(arr, arr[num1[0]][num1[1]], arr[num2[0]][num2[1]], arr[num3[0]][num3[1]], jg);
@@ -1112,6 +1116,7 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
 				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+true+' —— '+m*(9.8-arr1.length));
+				return_arr1.push(new_arr[x-1][9]+' => '+str_arr1+'\r\n'+'✓');
 			}
 			num += 1;
 			coin += m*(9.8-arr1.length);
@@ -1119,13 +1124,14 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
 				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+false+' —— '+-m*arr1.length);
+				return_arr1.push(new_arr[x-1][9]+' => '+str_arr1+'\r\n'+'✗');
 			}
 			coin -= m*arr1.length;
 		}
 	}
 	console.log(data.length-jg-1, num, coin, '\r\n');
 	return_arr.push(data.length-jg-1+' —— '+num+' —— '+coin);
-	return return_arr;
+	return [return_arr, return_arr1];
 }
 // 返回推荐
 function returnTjData(arr, num1, num2, num3, jg = 80) {

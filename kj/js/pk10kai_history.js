@@ -1116,7 +1116,7 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, true, m*(9.8-arr1.length));
 				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+true+' —— '+m*(9.8-arr1.length));
-				return_arr1.push(new_arr[x-1][9]+' => '+str_arr1+'\r\n'+'✓');
+				return_arr1.push(str_arr1+'\r\n'+new_arr[x-1][9]+' => '+'✓');
 			}
 			num += 1;
 			coin += m*(9.8-arr1.length);
@@ -1124,7 +1124,7 @@ function returnTjDatatest(num1 = [0,8], num2 = [1,7], num3 = [2,6], jg = 80) {
 			if (x < 3){
 				console.log(new_arr[x-1][9], ' => '+str_arr1, false, -m*arr1.length);
 				return_arr.push(new_arr[x-1][9]+' => '+str_arr1+' —— '+false+' —— '+-m*arr1.length);
-				return_arr1.push(new_arr[x-1][9]+' => '+str_arr1+'\r\n'+'✗');
+				return_arr1.push(str_arr1+'\r\n'+new_arr[x-1][9]+' => '+'✗');
 			}
 			coin -= m*arr1.length;
 		}

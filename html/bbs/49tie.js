@@ -83,7 +83,7 @@ document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://cddwqxsa.www71156c.com:888/#qwzz'>");
+document.writeln("            <a target=\'_blank\' href=\'https://aaa.www71156d.com:888/#49qwt'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>192期【百家网澳】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（两肖中特）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
@@ -677,7 +677,7 @@ document.writeln("<div class=\'zzhl-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://fdasdsa.www71156b.com:888/xg/index.html#xgqw'>077期【百家网港】<font color=\'#FF0000\'>（平特一肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://aaa.www71156d.com:888/xg/index.html#49qwt'>077期【百家网港】<font color=\'#FF0000\'>（平特一肖）</font>已公开</a></b></li>");
 
 document.writeln("		<li><b><a target=\'_blank\' href=\'https://dffrfdfd.www82712c.com:888/#49qwt'>077期【通天特码】<font color=\'#FF0000\'>（五码中特）</font>已公开</a></b></li>");
 

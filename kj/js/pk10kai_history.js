@@ -1071,7 +1071,7 @@ function drawTjHtml(data) {
 		let drawCode = data[i].preDrawCode.split(",");
 		drawCode = drawCode.map(Number);
 		arr.push(drawCode);
-	}
+	} 
 	let str_arr1 = returnTjData(arr, arr[0][8], arr[1][7], arr[2][6]);
 	// document.getElementById('tj_xt_1').innerText = '[ ' + str_arr1 + ' ]';
 	let str_arr2 = returnTjData(arr, arr[0][9], arr[1][9], arr[2][9]);

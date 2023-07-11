@@ -13,6 +13,25 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' st
 document.writeln("			<span style=font-family:楷体;color:#FF0000>10元一组本金350，中1组得700元，2组得1400元，3组2100元.（连本）</span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("<span style=\'color: #00F;\'>193期</span>:<span style=\'color: #008000;\'>平特二肖拖一尾</span>〖<span style=\'color: #FF3300\'>中？组</span>〗</font></td></tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-size: 14pt\'>");
+document.writeln("");
+document.writeln("鸡鼠拖5尾<br>");
+document.writeln("【07.19.31.43.04.16.28.40】<br>");
+document.writeln("拖【05.15.25.35.45】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
@@ -24,8 +43,8 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<font style=\'font-size: 14pt\'>");
 document.writeln("");
 document.writeln("兔鼠拖7尾<br>");
-document.writeln("【01.13.25.49.04.16.28.40】<br>");
-document.writeln("拖【07.17.27.37.47】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
+document.writeln("【01.13.25.49.<span style=\'background-color: #FFFF00\'>04</span>.16.28.40】<br>");
+document.writeln("拖【07.<span style=\'background-color: #FFFF00\'>17.27</span>.37.47】<br><font color=\'#FF00FF\'>(本金350，收入？00)</font></font></td></tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");

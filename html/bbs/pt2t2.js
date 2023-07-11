@@ -18,9 +18,9 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("192期：平特【蛇龙拖兔羊】开？00<br>");
+document.writeln("193期：平特【鸡兔拖猴龙】开？00<br>");
 document.writeln("------<br>");
-document.writeln("");
+
 document.writeln("191期：平特【<span style=\'background-color: #FFFF00\'>龙牛</span>拖马<span style=\'background-color: #FFFF00\'>猪</span>】开27.48.29.17<br>");
 document.writeln("------<br>");
 document.writeln("");

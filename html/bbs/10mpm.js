@@ -15,8 +15,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("191期：平码【35.43.15.14.03.37.32.13.02.33.47.40】<br>");
+document.writeln("192期：平码【18.21.10.28.43.46.40.41.17.02.27.20】<br>");
 document.writeln("");
+
 document.writeln("");
 document.writeln("190期：平码【46.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">49</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.02.38.25.10.20.29.47.36.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">17</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.42】<br>");
 document.writeln("");

@@ -20,46 +20,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("191期<font color=\'#FF00FF\'>（鸡马羊+4293尾）</font>开？00</font></b></font></table>");
+document.writeln("192期<font color=\'#FF00FF\'>（蛇羊牛+9754尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("189期<font color=\'#FF00FF\'>（羊牛龙+074<span style=\'background-color: #FFFF00\'>6</span>尾）</font>开马46</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("187期<font color=\'#FF00FF\'>（兔蛇猴+8<span style=\'background-color: #FFFF00\'>1</span>70尾）</font>开鸡31</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("186期<font color=\'#FF00FF\'>（狗猪虎+793<span style=\'background-color: #FFFF00\'>1</span>尾）</font>开兔01</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("185期<font color=\'#FF00FF\'>（马鼠龙+39<span style=\'background-color: #FFFF00\'>8</span>7尾）</font>开猴08</font></b></font></table>");
-document.writeln("		<!--结束-->");
 
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("184期<font color=\'#FF00FF\'>（狗<span style=\'background-color: #FFFF00\'>龙</span>猪+0128尾）</font>开龙36</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("183期<font color=\'#FF00FF\'>（羊<span style=\'background-color: #FFFF00\'>鸡</span>牛+16<span style=\'background-color: #FFFF00\'>3</span>5尾）</font>开鸡43</font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 document.writeln("");

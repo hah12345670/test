@@ -12,24 +12,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("191期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>红波+鼠牛猪鸡</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("189期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>红波</span>+蛇<span style=\'background-color: #FFFF00\'>马</span>猴兔</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开马46</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("187期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>绿波+虎猴<span style=\'background-color: #FFFF00\'>鸡</span>猪</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开鸡31</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("186期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>红波</span>+狗牛兔蛇</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开兔01</font></font></b></font></table>");
+document.writeln("192期1.波4肖</font><font style=\'font-size: 16pt\'><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>蓝波+牛龙鸡蛇</font></font><font color=\'#0000FF\'><font style=\'font-size: 16pt\'>】</font><font size=\'4\'>开？00</font></font></b></font></table>");
 
 
 document.writeln("<!--推广开始-->");

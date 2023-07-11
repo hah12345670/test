@@ -19,44 +19,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("191期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("192期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）枪匹马</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("189期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马46</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("188期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马46</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:家禽</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("187期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡31</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:美肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("186期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>兔01</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("185期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴08</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:野兽</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）祥如意</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
 
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%>");

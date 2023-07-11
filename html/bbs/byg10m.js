@@ -43,7 +43,7 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		");
-document.writeln("191期(3)肖<font color=\"#0000FF\">【牛虎鸡】</font>开<font color=\"#FF00FF\">？00</font></p></b></td>");
+document.writeln("192期(3)肖<font color=\"#0000FF\">【82693.com已更新】</font>开<font color=\"#FF00FF\">？00</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");

@@ -37,9 +37,9 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>192期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>193期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("马龙猪虎鸡羊蛇兔狗</span></td><td>");
+document.writeln("鼠猪马牛猴虎蛇狗龙</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>191期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");

@@ -33,7 +33,6 @@ document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" hre
 document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://775593.com/gsb/029.htm">078期：仙女下凡【七肖中特】14中14&#10004;</a></b></li>');
 document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://628866a.com/bbs/0149.html ">078期：丰裕人物【大小中特】15中14&#10004;</a></b></li>');
 document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://510066b.com/gsb/083.html">078期：拔树搜根【精准单双】12中12&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://905566b.com/bbs/37.html">078期：电动马达【绝杀一肖】65中63&#10004;</a></b></li>');
 document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://40489a.com/gsb/051.html">078期：心存一人【④肖中特】10中9&#10004;</a></b></li>');
 
 

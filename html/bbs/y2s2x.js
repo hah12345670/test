@@ -86,8 +86,9 @@ document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("193期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【虎猪】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>猴08准</font></span></strong></span></p></td></tr>");
 document.writeln("");
+
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("194期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【牛鸡】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
+document.writeln("195期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【猴马】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table>");

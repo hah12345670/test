@@ -545,7 +545,10 @@ function nowTime(){
 	let t = d.toLocaleTimeString();
 	ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate();
 	document.getElementById("time").innerHTML = ymd + ' ' + t;
-	document.getElementById("time_ms").innerHTML = ' '+t.substring(3, 8);
+	let nowsecends = d.getHours()*3600 + d.getMinutes()*60 + d.getSeconds();
+	m = parseInt(nowsecends%3600/60) < 10 ? '0'+parseInt(nowsecends%3600/60) : parseInt(nowsecends%3600/60);
+	s = nowsecends%3600%60 < 10 ? '0'+nowsecends%3600%60 : nowsecends%3600%60;
+	document.getElementById("time_ms").innerHTML = ' '+m+':'+s;
 }
 
 function myTimer(){

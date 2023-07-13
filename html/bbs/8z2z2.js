@@ -35,10 +35,10 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font size=\"5\">194期8组2中2防3中3</span></font><p align=\'center\'>");
+document.writeln("		<font size=\"5\">195期8组2中2防3中3</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
-document.writeln("		【16.01/23】【23.32/15】【15.44/36】【26.15/32】<br>");
-document.writeln("		【23.28/26】【01.44/16】【32.01/28】【28.36/44】</font></p></b></td>");
+document.writeln("		【01.40/17】【26.17/38】【07.39/20】【25.38/40】<br>");
+document.writeln("		【47.38/49】【43.49/42】【20.42/27】【11.27/01】</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 

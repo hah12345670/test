@@ -47,28 +47,13 @@ document.writeln(" <!--结束--> ");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>193期</font><font color=\'#0000FF\' size=\'5\'>【人肖+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>190期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>地肖</span>+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛03</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>188期</font><font color=\'#0000FF\' size=\'5\'>【地肖+<span style=\'background-color: #FFFF00\'>天肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>马46</font>准</span></font></b></td>");
+document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>194期</font><font color=\'#0000FF\' size=\'5\'>【人肖+地肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
@@ -77,45 +62,9 @@ document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>187期</font><font color=\'#0000FF\' size=\'5\'>【人肖+<span style=\'background-color: #FFFF00\'>天肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鸡31</font>准</span></font></b></td>");
+document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>193期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>人肖</span>+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴08</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>186期</font><font color=\'#0000FF\' size=\'5\'>【地肖+<span style=\'background-color: #FFFF00\'>天肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>兔01</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>185期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>人肖</span>+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴08</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>184期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>地肖</span>+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙36</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>183期</font><font color=\'#0000FF\' size=\'5\'>【人肖+<span style=\'background-color: #FFFF00\'>天肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鸡43</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
 
 
 

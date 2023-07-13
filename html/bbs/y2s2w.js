@@ -61,7 +61,10 @@ document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-h
 document.writeln("192期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【9.5】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">猴44准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("193期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【0.7】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("193期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【0.7】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">猴08准</font></font></span></span></strong></p></td></tr>");
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("194期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.9】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table>");
 document.writeln("");

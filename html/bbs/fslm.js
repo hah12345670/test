@@ -21,17 +21,12 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("193期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.13.12.44.49</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("194期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>31.09.28.22.39</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("190期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>44.02.38.<span style=\'background-color: #FFFF00\'>03.43</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>35.37.<span style=\'background-color: #FFFF00\'>13</span>.19.<span style=\'background-color: #FFFF00\'>33</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("193期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.<span style=\'background-color: #FFFF00\'>13</span>.12.<span style=\'background-color: #FFFF00\'>44</span>.49</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 
 document.writeln("");

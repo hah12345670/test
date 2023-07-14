@@ -53,33 +53,16 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			195期<font color=\'#FF0000\'>【今期特码在蛇身，师其意不泥其迹】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：在蛇身解蛇龙，泥其迹解土肖龙羊牛狗</font><br>");
+document.writeln("			196期<font color=\'#FF0000\'>【关注62102a.com】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62102c.com</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：龙羊牛狗蛇鼠兔<br>");
-document.writeln("			大小：大数<br>");
-document.writeln("			特码：36.48.33.45.27.39.30.42.35.47.28.40.25.49");
+document.writeln("			<br>七肖：来料<br>");
+document.writeln("			大小：来料<br>");
+document.writeln("			特码：来料");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			194期<font color=\'#FF0000\'>【鼠兔相刑利害人，明取四三带五八】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：明肖鼠兔，明取四三解43鸡，五八解五龙猪，八猴羊</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：兔鼠<span style=\'background-color: #FFFF00\'>鸡</span>龙猪猴羊<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：01.13.04.16.07.19.12.24.04.16.08.20.09.21");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("");
 
 
 

@@ -42,9 +42,9 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第195期<font color=
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	     羊21.45龙12.36狗30.42<br>");
-document.writeln("		 牛03.15马22.34兔13.25<br>");
-document.writeln("		 鸡07.43鼠04.40蛇23.47<br>");
+document.writeln("	     虎02.14猴08.20蛇23.47<br>");
+document.writeln("		 鼠16.40龙24.48兔13.25<br>");
+document.writeln("		 猪17.41羊21.33牛03.27<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");

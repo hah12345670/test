@@ -43,7 +43,7 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 
-document.writeln("		194期（平5*4+特-D6+平2+正3-2）=杀狗猪√×<br>		");
+document.writeln("		195期（平5*4+特-D6+平2+正3-2）=杀狗猪√×<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 
@@ -97,7 +97,7 @@ document.writeln("        <font color=\'#0000FF\'>195期三头=432√×</font><b
 document.writeln("		");
 document.writeln("<br>");
 
-document.writeln("		<font color=\'#0000FF\'>194期七肖=鸡狗羊龙鼠牛马√×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>195期七肖=鸡狗羊龙鼠牛马√×</font><br>		");
 document.writeln("		");
 document.writeln("<br>	");
 

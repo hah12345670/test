@@ -38,7 +38,7 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第195期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font>开<font color=\'#008000\'>00</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第196期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font>开<font color=\'#008000\'>00</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");

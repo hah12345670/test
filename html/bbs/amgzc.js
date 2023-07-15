@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.jixingkaisuo.com:4949/col/195/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.jixingkaisuo.com:4949/col/196/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
@@ -59,41 +59,12 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第195期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【四书五经】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：是指“四书”与“五经”的合称。解鼠猪龙猴兔马</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第196期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【两看相厌】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：相互讨厌。解猴龙蛇羊鼠狗</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠猪龙猴兔马</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猴龙蛇羊鼠狗</font></b><br>");
 document.writeln("==========================<br>");
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第193期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴08中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【单枪匹马】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：也说匹马单 枪。比喻行动无人帮助。解牛猴蛇鸡鼠猪</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛<span style=\'background-color: #FFFF00\'>猴</span>蛇鸡鼠猪</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第191期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙48中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【四季耕耘】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：用一年里四个季节的辛勤劳作换来五谷丰收。解兔龙猪鸡虎马</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔<span style=\'background-color: #FFFF00\'>龙</span>猪鸡虎马</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第190期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛03中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【如意吉祥】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：:祥:祥瑞。如意称心。解鸡龙牛鼠马猴</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鸡龙<span style=\'background-color: #FFFF00\'>牛</span>鼠马猴</font></b><br>");
-document.writeln("==========================<br>");
-
 
 
 
@@ -107,13 +78,20 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/195/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/196/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</P>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第195期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第196期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿树红果丰收期】</span></font><br>");
+document.writeln("==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("</P>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第195期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红29中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝红开出生肖东】</span></font><br>");
 document.writeln("==========================<br>");
 document.writeln("");

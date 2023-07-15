@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("196期：平特【牛蛇拖猴兔】开？00<br>");
+document.writeln("197期：平特【狗龙拖猪鸡】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

@@ -39,7 +39,7 @@ document.writeln("      <td height=39 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
 document.writeln("		<font face=\'隶书\' size=\'4\'>");
-document.writeln("		197期</font><font color=\'#008000\' size=\'5\' face=\'隶书\'>【82693.com已更新】</font><font face=\'隶书\' size=\'4\'>开0000准</font></b></td>");
+document.writeln("		197期</font><font color=\'#008000\' size=\'5\' face=\'隶书\'>【虎蛇马牛】</font><font face=\'隶书\' size=\'4\'>开0000准</font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("");
 document.writeln("    <!--开始-->  ");

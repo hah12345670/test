@@ -25,6 +25,8 @@ document.writeln(" <span class=\'bizhong123-btn bizhong123-next\' onclick=\'next
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+
+document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/198/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/197/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/196/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/195/ammh.jpg\',");
@@ -33,24 +35,10 @@ document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/193/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/192/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/191/ammh.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/190/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/189/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/188/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/187/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/186/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/185/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/184/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/183/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/182/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/181/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/180/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/179/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/178/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/177/ammh.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/176/ammh.jpg\',");
 
 
 
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/175/ammh.jpg\'");
+document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/189/ammh.jpg\'");
 document.writeln(");");
 document.writeln("    var indexsbx=0;");
 document.writeln("    function nextsbx(){");

@@ -68,8 +68,8 @@ document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>猪</s
 document.writeln("		<br>");
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（197期）</font><Br>");
-document.writeln("		<b>特肖【马蛇虎兔龙猪】<br>		");
+document.writeln("                   <font color=\'#0000FF\'>（198期）</font><Br>");
+document.writeln("		<b>特肖【蛇猴羊猪龙狗】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
@@ -79,8 +79,8 @@ document.writeln("");
 
 
 document.writeln("		196期杀【35.46.05.40.44.12.23】√<br>		");
-
 document.writeln("		197期杀【02.41.24.20.08.25.10】√<br>		");
+document.writeln("		198期杀【07.19.40.35.20.48.10】√<br>		");
 
 document.writeln("			</span>");
 document.writeln("		</b></font>");
@@ -123,8 +123,8 @@ document.writeln("		193期杀牛鸡√<br>			");
 document.writeln("		194期杀马龙√<br>			");
 document.writeln("		195期杀虎狗√<br>			");
 document.writeln("		196期杀猴鼠√<br>			");
-
-document.writeln("		197期杀狗猴√<br>			");
+document.writeln("		197期杀狗猴×<br>			");
+document.writeln("		198期杀狗马√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -166,6 +166,7 @@ document.writeln("		194期杀绿单√<br>				");
 document.writeln("		195期杀红双√<br>				");
 document.writeln("		196期杀红双√<br>				");
 document.writeln("		197期杀红单√<br>				");
+document.writeln("		198期杀蓝双√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -196,6 +197,7 @@ document.writeln("		194期杀2头双√<br>			");
 document.writeln("		195期杀3头单√<br>			");
 document.writeln("		196期杀2头双√<br>			");
 document.writeln("		197期杀1头双√<br>			");
+document.writeln("		198期杀3头单√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -204,6 +206,7 @@ document.writeln("");
 
 document.writeln("		196期杀4.6尾√<br>			    ");
 document.writeln("		197期杀6.7尾√<br>			    ");
+document.writeln("		198期杀4.9尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

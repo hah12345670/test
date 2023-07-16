@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/197/amsbx.jpg\' id=\'lfktzm\'>");
+document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/198/amsbx.jpg\' id=\'lfktzm\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,7 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
 
-
+document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/198/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/197/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/196/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/195/amsbx.jpg\',");
@@ -35,16 +35,10 @@ document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/193/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/192/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/191/amsbx.jpg\',");
 document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/190/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/189/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/188/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/187/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/186/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/185/amsbx.jpg\',");
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/184/amsbx.jpg\',");
 
 
 
-document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/183/amsbx.jpg\'");
+document.writeln("\'https://tk2.jixingkaisuo.com:4949/col/189/amsbx.jpg\'");
 document.writeln(");");
 document.writeln("    var indexx=0;");
 document.writeln("    function syqzmw(){");

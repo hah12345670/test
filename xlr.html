@@ -41,7 +41,7 @@
 			h = parseInt(nowsecends/3600) < 10 ? '0'+parseInt(nowsecends/3600) : parseInt(nowsecends/3600);
 			m = parseInt(nowsecends%3600/60) < 10 ? '0'+parseInt(nowsecends%3600/60) : parseInt(nowsecends%3600/60);
 			s = nowsecends%3600%60 < 10 ? '0'+nowsecends%3600%60 : nowsecends%3600%60;
-			let str1 = '';arr = [['留连', '速喜', '赤口'],['大安', '空亡', '小吉']];
+			let str1 = '';str3 = '';arr = [['留连', '速喜', '赤口'],['大安', '空亡', '小吉']];
 			if (h == 23 || h == 0){
 				h = 1;
 			}else if (h == 1 || h == 2){
@@ -120,13 +120,12 @@
 				str1 += '</tr>';
 			}
 			str1 += '</table>';
-			str1 += '<p>' + arr2[str2%6][0] + '</p>';
-			str1 += '<p>' + arr2[str2%6][1] + '</p>';
-			str1 += '<p>' + arr2[str2%6][2] + '</p>';
-			str1 += '<p>' + arr2[str2%6][3] + '</p>';
-			// str1 += '<br>';
-			// str1 += str2%6;
-			document.getElementById("showdata").innerHTML = str1;
+			str3 += '<p>' + arr2[str2%6][0] + '</p>';
+			str3 += '<p>' + arr2[str2%6][1] + '</p>';
+			str3 += '<p>' + arr2[str2%6][2] + '</p>';
+			str3 += '<p>' + arr2[str2%6][3] + '</p>';
+
+			document.getElementById("showdata").innerHTML = str1 + str3;
 		}
 		</script>
 		

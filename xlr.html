@@ -1,0 +1,169 @@
+<!DOCTYPE html><title>小六壬</title><meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<div id="showdata"></div>
+		<style>
+			/*表格样式*/
+			table {
+				width: 50%;
+				background: #ccc;
+				margin: 10px auto;
+				border-collapse: collapse;
+				/*border-collapse:collapse合并内外边距
+			(去除表格单元格默认的2个像素内外边距*/
+			}
+			th,td {
+				height: 50px;
+				line-height: 50px;
+				text-align: center;
+				border: 1px solid #ccc;
+			}
+			th {
+				background: #eee;
+				font-weight: normal;
+			}
+			tr {
+				background: #fff;
+			}
+			tr:nth-child(odd){
+				background-color:#fff; 
+			}
+			p {
+				font-size: 14px;
+			}
+		</style>
+		<script>
+		myTimer();
+		function myTimer(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// 当前多少秒
+			nowsecends = d.getHours()*3600 + d.getMinutes()*60 + d.getSeconds();
+			ymd = d.getFullYear() + '-' + (d.getMonth()+1 < 10 ? '0'+(d.getMonth()+1) : d.getMonth()+1) + '-' + d.getDate()
+			h = parseInt(nowsecends/3600) < 10 ? '0'+parseInt(nowsecends/3600) : parseInt(nowsecends/3600);
+			m = parseInt(nowsecends%3600/60) < 10 ? '0'+parseInt(nowsecends%3600/60) : parseInt(nowsecends%3600/60);
+			s = nowsecends%3600%60 < 10 ? '0'+nowsecends%3600%60 : nowsecends%3600%60;
+			let str1 = '';arr = [['留连', '速喜', '赤口'],['大安', '空亡', '小吉']];
+			if (h == 23 || h == 0){
+				h = 1;
+			}else if (h == 1 || h == 2){
+				h = 2;
+			}else if (h == 3 || h == 4){
+				h = 3;
+			}else if (h == 5 || h == 6){
+				h = 4;
+			}else if (h == 7 || h == 8){
+				h = 5;
+			}else if (h == 9 || h == 10){
+				h = 6;
+			}else if (h == 11 || h == 12){
+				h = 7;
+			}else if (h == 13 || h == 14){
+				h = 8;
+			}else if (h == 15 || h == 16){
+				h = 9;
+			}else if (h == 17 || h == 18){
+				h = 10;
+			}else if (h == 19 || h == 20){
+				h = 11;
+			}else if (h == 21 || h == 22){
+				h = 12;
+			}
+			let str2 = (d.getMonth()+1) + d.getDate() + h - 2;
+			let arr1 = [[1, 1], [1,0], [0, 0], [0, 1], [0, 2], [1, 2]];
+			let arr2 = [
+									[
+										'空亡事不祥，阴人多乖张，求财无利益，行人有灾殃', 
+										'失物寻一见，官事有刑伤，病人逢暗鬼，解禳保安康',
+										'音信稀时，五行属土，颜色黄色，方位中央，临勾陈，凡谋事主三、六、九。有不吉、无结果、忧虑之含义。',
+										'最凶的卦，所占事宜均很大的不利。'
+										], 
+									[
+										'大安事事昌，求财在坤方，失物去不远，宅舍保安康',
+										'行人身未动，病者主无妨，将军回田野，仔细更推详',
+										'身不动时，五行属木，颜色青色，方位东方，临青龙，凡谋事主一、五、七。有静止、心安、吉祥之含义。',
+										'最大的吉利。'
+										], 
+									[
+										'留连事难成，求谋日未明，官事凡宜缓，去者未回程', 
+										'失物南方见，急讨方心称，更须防口舌，人口且平平',
+										'卒未归时，五行属水，颜色黑色，方位北方，临玄武，凡谋事主二、八、十。有暗昧不明、延迟、纠缠、拖延、漫长之含义。',
+										'运气平平，凡事拖延。'
+										], 
+									[
+										'速喜喜来临，求财向南行，失物申未午，逢人路上寻', 
+										'官事有福德，病者无祸侵，田宅六畜吉，行人有信音',
+										'人即至时，五行属火，颜色红色，方位南方，临朱雀，凡谋事主三、六、九。有快速、喜庆、吉利之含义。指时机已到。',
+										'喜事就在眼前，算各种事情都是上吉的好卦。'
+										], 
+									[
+										'赤口主口舌，官非切宜防，失物速速讨，行人有惊慌', 
+										'六畜多作怪，病者出西方，更须防咀咒，诚恐染瘟皇',
+										'官事凶时，五行属金，颜色白色，方位西方，临白虎，凡谋事主四、七、十。有不吉、惊恐、凶险、口舌是非之含义',
+										'多争执有官讼，事态不和。'
+										], 
+									[
+										'小吉最吉昌，路上好商量，阴人来报喜，失物在坤方', 
+										'行人即便至，交关甚是强，凡事皆和合，病者叩穷苍',
+										'人来喜时，五行属水，临六合，凡谋事主一、五、七。有和合、吉利之含义。',
+										'将要有好结果，所算的事情值得等待和坚持。'
+										]
+									];
+			str1 += '<table>';
+			for(let x=0;x<2;x++){
+				str1 += '<tr>';
+				for(let y=0;y<3;y++){
+					if (x==arr1[str2%6][0] && y==arr1[str2%6][1]){
+						str1 += '<td style="background: red;">' + arr[x][y] + '</td>';
+					}else {
+						str1 += '<td>' + arr[x][y] + '</td>';
+					}
+				}
+				str1 += '</tr>';
+			}
+			str1 += '</table>';
+			str1 += '<p>' + arr2[str2%6][0] + '</p>';
+			str1 += '<p>' + arr2[str2%6][1] + '</p>';
+			str1 += '<p>' + arr2[str2%6][2] + '</p>';
+			str1 += '<p>' + arr2[str2%6][3] + '</p>';
+			// str1 += '<br>';
+			// str1 += str2%6;
+			document.getElementById("showdata").innerHTML = str1;
+		}
+		</script>
+		
+		<!-- <div id="show_js"></div>
+		<script>
+		let reloadhtml = setInterval(function(){reload()},1000);
+		let ds = new Date(); // 当前多少秒
+		// let startseconds = ds.getHours()*3600 + ds.getMinutes()*60 + ds.getSeconds();
+		let startseconds = ds.getSeconds() + 10;
+		let showjsistrue = true;
+		function reload(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// document.getElementById("show_js").innerHTML = t;
+			// 现在多少秒
+			let nowseconds = d.getSeconds();
+			if(showjsistrue && (startseconds%%60 == nowseconds)){
+				showjsistrue = false;
+				document.getElementById("show_js").innerHTML = '<script async src="\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js"><\/script><div style="font-weight: bolder;font-size: 0px;"><span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"><\/span><\/span>, <span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"><\/span><\/span>, <span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"><\/span><\/span><\/div>';
+			}
+		}
+		</script> -->
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		<div style="font-weight: bolder;font-size: 0px;">
+			<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
+			<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
+			<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
+		</div>
+		<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0"/> -->
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-17W024N6QS');
+		</script>
+		
+		

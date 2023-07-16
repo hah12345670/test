@@ -78,9 +78,9 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("		197期杀【35.46.05.40.44.12.23】√<br>		");
+document.writeln("		196期杀【35.46.05.40.44.12.23】√<br>		");
 
-document.writeln("		198期杀【02.41.24.20.08.25.10】√<br>		");
+document.writeln("		197期杀【02.41.24.20.08.25.10】√<br>		");
 
 document.writeln("			</span>");
 document.writeln("		</b></font>");

@@ -20,7 +20,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("196期<font color=\'#FF00FF\'>（虎羊兔+2709尾）</font>开？00</font></b></font></table>");
+document.writeln("197期<font color=\'#FF00FF\'>（牛鸡狗+8061尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("196期<font color=\'#FF00FF\'>（虎羊兔+2<span style=\'background-color: #FFFF00\'>7</span>09尾）</font>开蛇47</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

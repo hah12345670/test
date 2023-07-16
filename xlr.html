@@ -41,7 +41,7 @@
 			h = parseInt(nowsecends/3600) < 10 ? '0'+parseInt(nowsecends/3600) : parseInt(nowsecends/3600);
 			m = parseInt(nowsecends%3600/60) < 10 ? '0'+parseInt(nowsecends%3600/60) : parseInt(nowsecends%3600/60);
 			s = nowsecends%3600%60 < 10 ? '0'+nowsecends%3600%60 : nowsecends%3600%60;
-			let str1 = '';str3 = '';arr = [['留连', '速喜', '赤口'],['大安', '空亡', '小吉']];
+			let str1 = '';str3 = '';arr = [['留连', '速喜', '赤口'],['', '', ''],['大安', '空亡', '小吉']];
 			if (h == 23 || h == 0){
 				h = 1;
 			}else if (h == 1 || h == 2){
@@ -68,7 +68,7 @@
 				h = 12;
 			}
 			let str2 = (d.getMonth()+1) + d.getDate() + h - 2;
-			let arr1 = [[1, 1], [1,0], [0, 0], [0, 1], [0, 2], [1, 2]];
+			let arr1 = [[2, 1], [2,0], [0, 0], [0, 1], [0, 2], [2, 2]];
 			let arr2 = [
 									[
 										'空亡事不祥，阴人多乖张，求财无利益，行人有灾殃', 
@@ -108,7 +108,7 @@
 										]
 									];
 			str1 += '<table>';
-			for(let x=0;x<2;x++){
+			for(let x=0;x<3;x++){
 				str1 += '<tr>';
 				for(let y=0;y<3;y++){
 					if (x==arr1[str2%6][0] && y==arr1[str2%6][1]){

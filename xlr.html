@@ -81,7 +81,7 @@
 			nlxx.lYear
 			nlxx.lMonth
 			nlxx.lDay
-			天干日期
+			天干地支日
 			nlxx.gzYear
 			nlxx.gzMonth
 			nlxx.gzDay
@@ -150,6 +150,13 @@
 				term = nlxx.Term;
 			}
 			str3 += '<p>' + nlxx.gzYear + '年 ' + nlxx.IMonthCn + nlxx.IDayCn + ' ' + term + '</p>';
+			str3 += '<p>' + nlxx.gzYear + ' ' + nlxx.gzMonth + ' ' + nlxx.gzDay + '</p>';
+			// nlxx.cYear nlxx.cMonth nlxx.cDay h
+			// let arr_tg = ['癸', '甲', '乙', '丙', '丁', '戊', '己', '庚', '辛', '壬'];
+			// let arr_dz = ['亥', '子', '丑', '寅', '卯', '辰', '巳', '午', '未', '申', '酉', '戌'];
+			// str3 += '<p>' + arr_tg[(nlxx.cYear-3)%10] + arr_dz[(nlxx.cYear-3)%12] + '</p>';
+			// str3 += '<p>' + arr_tg[(nlxx.cMonth-1)%10] + arr_dz[(nlxx.cMonth+1)%12] + '</p>';
+			// str3 += '<p>' + arr_tg[(nlxx.cDay-4)%10] + arr_dz[(nlxx.cDay-4)%12] + '</p>';
 
 			document.getElementById("showdata").innerHTML = str1 + str3;
 		}

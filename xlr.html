@@ -1,4 +1,4 @@
-<!DOCTYPE html><title>小六壬</title><meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!DOCTYPE html><title>小六壬</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><script type="text/javascript" src="./nl.js"></script>
 		<div id="showdata"></div>
 		<style>
 			/*表格样式*/
@@ -31,6 +31,7 @@
 			}
 		</style>
 		<script>
+		var nl = calendar;
 		myTimer();
 		function myTimer(){
 			let d = new Date();
@@ -67,7 +68,27 @@
 			}else if (h == 21 || h == 22){
 				h = 12;
 			}
-			let str2 = (d.getMonth()+1) + d.getDate() + h - 2;
+			/*
+			阴历
+			nlxx.Animal
+			nlxx.IMonthCn
+			nlxx.IDayCn
+			阳历 数字
+			nlxx.cYear
+			nlxx.cMonth
+			nlxx.cDay
+			阴历 数字
+			nlxx.lYear
+			nlxx.lMonth
+			nlxx.lDay
+			天干日期
+			nlxx.gzYear
+			nlxx.gzMonth
+			nlxx.gzDay
+			*/
+			let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate());
+			// let str2 = (d.getMonth()+1) + d.getDate() + h - 2; // 阳历月日
+			let str2 = nlxx.lMonth + nlxx.lDay + h - 2; // 阴历
 			let arr1 = [[2, 1], [2,0], [0, 0], [0, 1], [0, 2], [2, 2]];
 			let arr2 = [
 									[
@@ -124,6 +145,11 @@
 			str3 += '<p>' + arr2[str2%6][1] + '</p>';
 			str3 += '<p>' + arr2[str2%6][2] + '</p>';
 			str3 += '<p>' + arr2[str2%6][3] + '</p>';
+			let term = '';
+			if (nlxx.isTerm){
+				term = nlxx.Term;
+			}
+			str3 += '<p>' + nlxx.gzYear + '年 ' + nlxx.IMonthCn + nlxx.IDayCn + ' ' + term + '</p>';
 
 			document.getElementById("showdata").innerHTML = str1 + str3;
 		}

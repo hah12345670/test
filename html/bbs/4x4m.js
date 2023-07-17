@@ -43,7 +43,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第197期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.狗30.鸡43.龙24】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第198期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马22.牛03.虎14.龙48】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

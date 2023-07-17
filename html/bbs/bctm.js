@@ -49,7 +49,7 @@ document.writeln("			<span style=\'font-family:Arial\'>19.<font color=\"#FFFF00\
 document.writeln("          <td align=center width=20% height=33><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
 document.writeln("			<font size=\'3\'><font color=\"#FFFF00\">");
-document.writeln("			<span style=\"background-color: #FF0000\">08</span></font>.20.32</font></span></strong><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
+document.writeln("			<span style=\"background-color: #FF0000\">08</span></font>.20.<font color=\"#FFFF00\"><span style=\"background-color: #FF0000\">32</span></font></font></span></strong><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33><strong> ");
 document.writeln("			<span style=font-family:Arial;>09.33.45</span></strong></tr>");
 document.writeln("        <tr>");

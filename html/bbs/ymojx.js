@@ -22,6 +22,18 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62102c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第198期幽默猜测</font><font color=\'#FF0000\'>（告别）</font><font color=\'#000000\'>小狗和小梅花鹿一直都是最亲密的朋友，梅花鹿从小失去自己的妈妈。这天它们一起来到草地上晒太阳，互相依偎在对方身上，梅花鹿原来是跟它来告别的。.....本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：告别解兔鼠龙牛羊鸡</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：兔鼠龙牛羊鸡</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("      ");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -31,7 +43,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：虎猴鼠兔马龙</font></b></div>");
+document.writeln("	综合特肖：虎</font><font size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'4\' color=\'#009900\'>鼠兔马龙</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("      ");

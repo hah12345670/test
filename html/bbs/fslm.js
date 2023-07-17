@@ -17,11 +17,15 @@ document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("198期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.44.30.04.28</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("197期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>24.39.19.05.28</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("197期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>24.<span style=\'background-color: #FFFF00\'>39</span>.19.05.28</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");

@@ -16,7 +16,7 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>197期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>？00准</span></font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>198期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>？00准</span></font></td></tr>");
 document.writeln("<!-----结束--->");
 
 document.writeln("");

@@ -37,19 +37,29 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第198期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马22.牛03.虎14.龙48】</font><font color=\'#000000\' face=\'微软雅黑\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第199期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.狗30.蛇23.鸡43】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第198期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\"background-color: #FFFF00\">马</span>22.<span style=\"background-color: #FFFF00\">牛</span>03.虎14.<span style=\"background-color: #FFFF00\">龙48</span>】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -63,7 +73,7 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://496688a.com/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>65935b.com</font></font></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("</tbody>");
 document.writeln("</table>");

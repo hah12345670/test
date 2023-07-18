@@ -20,7 +20,7 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("198期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.44.30.04.28</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("199期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>09.46.14.21.12</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");

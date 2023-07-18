@@ -19,7 +19,11 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://j.100tzz.com:100/\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>100.CC</font></span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("				<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>199期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>34.41.17.38.39</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<!--结束-->"
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
@@ -35,28 +39,6 @@ document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>196期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>09.40.48.45.27</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>194期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>24.32.18.31.39</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>192期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>15.20.23.18.38</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>190期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>30.05.16.21.09</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>189期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>31.03.04.36.38</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->"
 
 

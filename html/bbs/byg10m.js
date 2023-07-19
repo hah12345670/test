@@ -34,7 +34,7 @@ document.writeln("   <!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("<td width=100% height=40><p align=center><font face=\'宋体\'><b><font size=\'4\'>");
 document.writeln("200期<font color=\'#008000\'>【打工仔】精选12码</font><font color=\'#FF00FF\'>开？00准</font><br>");
-document.writeln("<font color=\'#FF0000\'>【118207b.com 已更新，进入论坛查看】</font></font></b></font></table>");
+document.writeln("<font color=\'#FF0000\'>【07.19.26.38.18.30.01.25.21.33.10.34】</font></font></b></font></table>");
 document.writeln("<font face=\'宋体\'>");
 document.writeln("<!--结束-->");
 document.writeln("");

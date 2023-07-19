@@ -25,9 +25,23 @@ document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62102.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『8组2中2』</font></b></table>");
 document.writeln("");
-
-
 document.writeln("");
+document.writeln("");
+document.writeln("   <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font size=\"5\">201期8组2中2防3中2</span></font><p align=\'center\'>");
+document.writeln("		<font color=\'#FF0000\'>");
+document.writeln("		【03.39/28】【21.28/21】【43.28/21】【06.47/06】<br>");
+document.writeln("		【47.37/06】【47.48/16】【16.47/48】【06.39/03】</font></p></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    ");
@@ -41,10 +55,10 @@ document.writeln("		");
 document.writeln("		<font size=\"5\">200期8组2中2防3中2</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
 document.writeln("		【23.16/41】【41.36/15】【28.41/36】【13.08/45】<br>");
-document.writeln("		【08.26/15】【36.25/23】【45.42/36】【13.28/08】</font></p></b></td>");
+document.writeln("		【08.26/15】【36.25/23】<span style=\"background-color: #000000\">【45.42/36】</span>【13.28/08】</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");

@@ -41,16 +41,13 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("");
 
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（198期）</font><Br>");
-document.writeln("		<b>特肖【蛇猴羊猪龙<span style=\'background-color: #FFFF00\'>狗</span>】<br>		");
-document.writeln("		<br>");
 
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（200期）</font><Br>");
-document.writeln("		<b>特肖【羊兔虎蛇牛猪】<br>		");
+document.writeln("                   <font color=\'#0000FF\'>（201期）</font><Br>");
+document.writeln("		<b>特肖【鼠蛇龙牛羊猪】<br>		");
 document.writeln("		<br>");
+document.writeln("");
 document.writeln("");
 document.writeln("				<font size=\'5\' color=\'#FF0000\'>【码友心云】</font><br>");
 document.writeln("");
@@ -62,6 +59,7 @@ document.writeln("		197期杀【02.41.24.20.08.25.10】√<br>		");
 document.writeln("		198期杀【07.19.40.35.20.48.10】√<br>		");
 document.writeln("		199期杀【16.46.07.49.38.22.13】√<br>		");
 document.writeln("		200期杀【08.39.04.12.23.41.01】√<br>		");
+document.writeln("		201期杀【48.03.45.38.47.06.10】√<br>		");
 document.writeln("			</span>");
 document.writeln("		</b></font>");
 document.writeln("		");
@@ -97,8 +95,8 @@ document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友一夜春风】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
-
 document.writeln("		200期杀牛狗√<br>			");
+document.writeln("		201期杀羊牛√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -112,8 +110,8 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友书阳】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 document.writeln("");
-
 document.writeln("		200期杀绿单√<br>				");
+document.writeln("		201期杀红双√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -134,8 +132,8 @@ document.writeln("   ");
 document.writeln("   ");
 document.writeln("");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友老阿姨】</font><font style=\'font-size: 14pt\'><br>");
-
 document.writeln("		200期杀1头单√<br>			");
+document.writeln("		201期杀2头双√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -147,6 +145,7 @@ document.writeln("		197期杀6.7尾√<br>			    ");
 document.writeln("		198期杀4.9尾√<br>			    ");
 document.writeln("		199期杀7.6尾√<br>			    ");
 document.writeln("		200期杀7.2尾√<br>			    ");
+document.writeln("		201期杀3.9尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

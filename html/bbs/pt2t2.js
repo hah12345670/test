@@ -16,9 +16,11 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-
 document.writeln("");
-document.writeln("199期：平特【龙牛拖猴兔】开？00<br>");
+document.writeln("200期：平特【猴蛇拖牛鸡】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("199期：平特【<span style=\'background-color: #FFFF00\'>龙</span>牛拖<span style=\'background-color: #FFFF00\'>猴兔</span>】开36.08.49<br>");
 document.writeln("------<br>");
 
 document.writeln("");

@@ -46,9 +46,10 @@ document.writeln("                   <font color=\'#0000FF\'>（198期）</font>
 document.writeln("		<b>特肖【蛇猴羊猪龙<span style=\'background-color: #FFFF00\'>狗</span>】<br>		");
 document.writeln("		<br>");
 
+
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（199期）</font><Br>");
-document.writeln("		<b>特肖【鸡兔蛇猪马龙】<br>		");
+document.writeln("                   <font color=\'#0000FF\'>（200期）</font><Br>");
+document.writeln("		<b>特肖【羊兔虎蛇牛猪】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("				<font size=\'5\' color=\'#FF0000\'>【码友心云】</font><br>");
@@ -60,6 +61,7 @@ document.writeln("		196期杀【35.46.05.40.44.12.23】√<br>		");
 document.writeln("		197期杀【02.41.24.20.08.25.10】√<br>		");
 document.writeln("		198期杀【07.19.40.35.20.48.10】√<br>		");
 document.writeln("		199期杀【16.46.07.49.38.22.13】√<br>		");
+document.writeln("		200期杀【08.39.04.12.23.41.01】√<br>		");
 document.writeln("			</span>");
 document.writeln("		</b></font>");
 document.writeln("		");
@@ -96,7 +98,7 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 
-document.writeln("		199期杀猪猴√<br>			");
+document.writeln("		200期杀牛狗√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -110,36 +112,8 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友书阳】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("		172期杀绿单√<br>				");
-document.writeln("		173期杀蓝单√<br>				");
-document.writeln("		174期杀红双√<br>				");
-document.writeln("		175期杀红单√<br>				");
-document.writeln("		176期杀红双√<br>				");
-document.writeln("		177期杀蓝双√<br>				");
-document.writeln("		178期杀绿单√<br>				");
-document.writeln("		179期杀蓝单√<br>				");
-document.writeln("		180期杀绿双√<br>				");
-document.writeln("		181期杀绿单√<br>				");
-document.writeln("		182期杀蓝单√<br>				");
-document.writeln("		183期杀绿双√<br>				");
-document.writeln("		184期杀红单√<br>				");
-document.writeln("		185期杀绿单√<br>				");
-document.writeln("		186期杀蓝双√<br>				");
-document.writeln("		187期杀绿双√<br>				");
-document.writeln("		188期杀蓝单√<br>				");
-document.writeln("		189期杀蓝单√<br>				");
-document.writeln("		190期杀红双√<br>				");
-document.writeln("		191期杀红双√<br>				");
-document.writeln("		192期杀绿单√<br>				");
-document.writeln("		193期杀蓝双√<br>				");
-document.writeln("		194期杀绿单√<br>				");
-document.writeln("		195期杀红双√<br>				");
-document.writeln("		196期杀红双√<br>				");
-document.writeln("		197期杀红单√<br>				");
-document.writeln("		198期杀蓝双√<br>				");
-document.writeln("		199期杀红双√<br>				");
+
+document.writeln("		200期杀绿单√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -161,18 +135,7 @@ document.writeln("   ");
 document.writeln("");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友老阿姨】</font><font style=\'font-size: 14pt\'><br>");
 
-document.writeln("		189期杀2头双√<br>			");
-document.writeln("		190期杀3头单√<br>			");
-document.writeln("		191期杀2头单√<br>			");
-document.writeln("		192期杀3头双√<br>			");
-document.writeln("		193期杀1头单√<br>			");
-document.writeln("		194期杀2头双√<br>			");
-document.writeln("		195期杀3头单√<br>			");
-document.writeln("		196期杀2头双√<br>			");
-document.writeln("		197期杀1头双√<br>			");
-document.writeln("		198期杀3头单√<br>			");
-
-document.writeln("		199期杀0头双√<br>			");
+document.writeln("		200期杀1头单√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -183,6 +146,7 @@ document.writeln("		196期杀4.6尾√<br>			    ");
 document.writeln("		197期杀6.7尾√<br>			    ");
 document.writeln("		198期杀4.9尾√<br>			    ");
 document.writeln("		199期杀7.6尾√<br>			    ");
+document.writeln("		200期杀7.2尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

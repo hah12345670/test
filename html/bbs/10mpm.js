@@ -15,9 +15,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("200期：平码【14.27.17.15.34.35.02.19.08.44.13.31】<br>");
 document.writeln("");
-document.writeln("199期：平码【39.08.11.30.42.19.47.23.45.35.34.01】<br>");
-document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("");

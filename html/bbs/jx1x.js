@@ -46,7 +46,7 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【马鼠】</font><font color=\'#333399\'>195-200期(000期开？00)</font><font color=\'#FF00FF\'>  ");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【猴马】</font><font color=\'#333399\'>201-206期(000期开？00)</font><font color=\'#FF00FF\'>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

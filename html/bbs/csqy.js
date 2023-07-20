@@ -45,7 +45,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>201期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>202期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>稍后来料中</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:关注澳门六合彩资料网62102c.com</font></b></font></div>");

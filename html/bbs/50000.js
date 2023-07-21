@@ -61,10 +61,12 @@ document.writeln(".包的越久下的越大,保证让你的财源滚滚.不要�
 document.writeln("比放在银行利息高几十倍！也比炒股票更赚钱！如果你觉得可以的话！您也可以叫您身边有钱没有生意做的朋友一起来投资！）</font></p> ");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("202-204期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("201-203期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("201-203期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>201期中中中！</font>");
 
 document.writeln("");
 document.writeln("");
@@ -87,116 +89,16 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("199-201期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("202-204期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【狗肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("199-201期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>201期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
 document.writeln("197-199期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【狗肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>198期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("196-198期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>196期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("193-195期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>195期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("191-193期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>192期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("190-192期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>190期中中中！</font>");
-
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("189-191期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>189期中中中！</font>");
-
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("186-188期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【羊肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>188期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("185-187期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【狗肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>185期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("184-186期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>184期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("183-185期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>183期中中中！</font>");
-
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("181-183期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>182期中中中！</font>");
-
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("180-182期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>180期中中中！</font>");
-
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("177-179期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【牛肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>179期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("176-178期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【羊肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>176期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("174-176期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【兔肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>175期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("164-166期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【牛肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>164期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("162-164期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>163期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("158-160期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>158期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("157-159期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【羊肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>157期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("154-156期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>156期中中中！</font>");
-
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("151-153期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【兔肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>153期中中中！</font>");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("150-152期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>150期中中中！</font>");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("148-150期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>149期中中中！</font>");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("147-149期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【狗肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>147期中中中！</font>");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("146-148期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>146期中中中！</font>");
-
 
 
 document.writeln("</div>");

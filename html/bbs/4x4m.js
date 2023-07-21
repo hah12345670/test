@@ -42,7 +42,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第201期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔01.猴32.虎14.龙48】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第202期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马10.猪17.蛇23.鸡43】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");

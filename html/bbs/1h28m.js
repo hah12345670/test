@@ -67,9 +67,9 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62102b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>201期必中一行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>土</span></font></li>");
-document.writeln("            	<li>201期必中二行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>土</span>-木</font></li>");
-document.writeln("            	<li>201期必中三行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>土</span>-木-金</font></li>");
+document.writeln(" 	            <li>201期必中一行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【土】</span></font></li>");
+document.writeln("            	<li>201期必中二行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【土】</span>-木</font></li>");
+document.writeln("            	<li>201期必中三行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【土】</span>-木-金</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

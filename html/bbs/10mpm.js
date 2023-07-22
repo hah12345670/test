@@ -17,11 +17,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("203期：平码【22.09.17.11.12.44.32.35.04.36.29.45】<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("202期：平码【49.25.35.21.05.07.17.01.24.38.03.43】<br>");
-document.writeln("");
-document.writeln("");
+
 document.writeln("201期：平码【30.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">29</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.17.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">35</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.44.38.20.01.36.28.26.47】<br>");
 document.writeln("");
 document.writeln("");

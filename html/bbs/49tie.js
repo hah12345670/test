@@ -178,6 +178,8 @@ document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
+
+
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149586&type=3\'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【酷出界限】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
@@ -697,11 +699,34 @@ document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32150009&type=3\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【冷漠哥哥】<font color=\'#FF0000\'>（五肖五码）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149286&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【柳州珂儿】<font color=\'#FF0000\'>（六尾12码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149436&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【玉林梦笙】<font color=\'#FF0000\'>（必杀单双）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149347&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【北海紫陌】<font color=\'#FF0000\'>（砍杀②肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149387&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【柳城净雅】<font color=\'#FF0000\'>（必杀②尾）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32149413&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>204期【钦北区小】<font color=\'#FF0000\'>（精准四行）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
 
 
 

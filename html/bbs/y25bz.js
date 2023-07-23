@@ -25,8 +25,24 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("203期码神哥五不中[49-13-07-11-48] <br>");
+document.writeln("204期码神哥五不中[33-01-23-49-21] <br>");
 document.writeln("	开奖:00-00-00-00-00-00+00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #008000\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62102b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("203期码神哥五不中[49-13-07-11-48] <br>");
+document.writeln("	开奖:203期 22-14-36-19-06-33 T25</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");

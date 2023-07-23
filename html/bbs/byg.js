@@ -50,7 +50,12 @@ document.writeln("		<br>");
 
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（203期）</font><Br>");
-document.writeln("		<b>特肖【兔鸡猪马羊牛】<br>		");
+document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>兔</span>鸡猪马羊牛】<br>		");
+document.writeln("		<br>");
+
+document.writeln("");
+document.writeln("                   <font color=\'#0000FF\'>（204期）</font><Br>");
+document.writeln("		<b>特肖【鼠羊兔猴蛇马】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
@@ -67,6 +72,7 @@ document.writeln("		200期杀【08.39.04.12.23.41.01】√<br>		");
 document.writeln("		201期杀【48.03.45.38.47.06.10】×<br>		");
 document.writeln("		202期杀【21.46.16.42.12.43.20】√<br>		");
 document.writeln("		203期杀【32.10.42.01.35.27.48】√<br>		");
+document.writeln("		204期杀【46.22.27.31.48.39.12】√<br>		");
 document.writeln("			</span>");
 document.writeln("		</b></font>");
 document.writeln("		");
@@ -104,6 +110,8 @@ document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 document.writeln("		202期杀兔狗√<br>			");
 document.writeln("		203期杀马龙√<br>			");
+
+document.writeln("		204期杀虎牛√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -121,6 +129,7 @@ document.writeln("		200期杀绿单√<br>				");
 document.writeln("		201期杀红双√<br>				");
 document.writeln("		202期杀绿双√<br>				");
 document.writeln("		203期杀红单√<br>				");
+document.writeln("		204期杀绿双√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -145,6 +154,7 @@ document.writeln("		200期杀1头单√<br>			");
 document.writeln("		201期杀2头双√<br>			");
 document.writeln("		202期杀3头单√<br>			");
 document.writeln("		203期杀0头单√<br>			");
+document.writeln("		204期杀4头双√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -152,6 +162,7 @@ document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码�
 document.writeln("");
 
 document.writeln("		203期杀7.3尾√<br>			    ");
+document.writeln("		204期杀0.5尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

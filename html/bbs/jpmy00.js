@@ -14,12 +14,23 @@ document.writeln("			<table style=border-collapse:collapse border=0 width=100%><
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
+
+document.writeln("");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("204期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("205期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("一片一片又一片，两片三片四五片。<br>");
+document.writeln("六片七片八九片，落在水里看不见。</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("204期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>牛03</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("一匹马儿两人骑，你要高来我就低。<br>");
 document.writeln("虽然马儿不走路，我俩骑着笑嘻嘻。</font></b></font></table>");
 document.writeln("");

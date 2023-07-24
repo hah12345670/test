@@ -40,6 +40,8 @@ document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 document.writeln("");
+
+document.writeln("");
 document.writeln("");
 document.writeln("             <!--开始--> ");
 document.writeln("		<tr>");
@@ -47,7 +49,18 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("204-205期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【蛇狗羊虎牛龙】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("205-206期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猪兔马猴狗龙】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>  ");
+document.writeln("   <!--结束--> ");
+document.writeln("");
+document.writeln("             <!--开始--> ");
+document.writeln("		<tr>");
+document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("204-205期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【蛇狗羊虎<span style=\'background-color: #FFFF00\'>牛</span>龙】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>204</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

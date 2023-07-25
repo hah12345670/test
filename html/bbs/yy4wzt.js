@@ -19,7 +19,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("205期<font color=\'#FF00FF\'>（羊蛇狗+6045尾）</font>开？00</font></b></font></table>");
+document.writeln("206期<font color=\'#FF00FF\'>（猪蛇马+3724尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("205期<font color=\'#FF00FF\'>（羊<span style=\'background-color: #FFFF00\'>蛇</span>狗+6045尾）</font>开蛇11</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

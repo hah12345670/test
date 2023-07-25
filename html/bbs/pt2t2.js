@@ -17,8 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("206期：平特【虎狗拖牛猴】开？00<br>");
+document.writeln("------<br>");
+
 document.writeln("");
-document.writeln("205期：平特【狗蛇拖龙猪】开？00<br>");
+document.writeln("205期：平特【狗<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>龙猪</span>】开11.24.36.17<br>");
 document.writeln("------<br>");
 
 document.writeln("");

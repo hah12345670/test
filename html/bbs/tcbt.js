@@ -19,51 +19,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("205期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("206期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("200期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴44</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("198期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗18</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）地之子</font><font color=\'#0000FF\' size=\'5\'>-解:大肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("197期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴32</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:野兽</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("195期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猪29</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）千世界</font><font color=\'#0000FF\' size=\'5\'>-解:大肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("194期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡31</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）光明媚</font><font color=\'#0000FF\' size=\'5\'>-解:阳肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("193期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴08</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）相毕露</font><font color=\'#0000FF\' size=\'5\'>-解:凶肖</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'>（？）光明媚</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
 
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%>");

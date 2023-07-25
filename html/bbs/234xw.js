@@ -80,30 +80,14 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第205期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第206期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（夜肖）<br>	");
-document.writeln("		主肖：鼠虎猪</font></b></td>");
+document.writeln("		（日肖）<br>	");
+document.writeln("		主肖：马羊猴</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第202期日夜中特开(鼠04)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（夜肖）<br>	");
-document.writeln("		主肖：<span style=\'background-color: #FFFF00\'>鼠</span>虎鸡</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
 
 
 
@@ -140,8 +124,14 @@ document.writeln("	");
 document.writeln("                   <b>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("                   <font color=\"#FF0000\">（206期）</font></b><Br>");
+document.writeln("		<b>四肖【猪羊狗鼠】<br>		");
+document.writeln("		主特：05.41.21.33.06.42.16.40<br>			");
+document.writeln("");
 document.writeln("                   <font color=\"#FF0000\">（205期）</font></b><Br>");
-document.writeln("		<b>四肖【马牛蛇虎】<br>		");
+document.writeln("		<b>四肖【马牛<span style=\'background-color: #FFFF00\'>蛇</span>虎】<br>		");
 document.writeln("		主特：22.34.15.27.23.47.14.38<br>			");
 document.writeln("");
 
@@ -173,6 +163,13 @@ document.writeln("<!--台湾开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
 
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("206期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【牛虎+31尾】</font>√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
 
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
@@ -244,12 +241,18 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\'>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>206期：独平</font><font color=\'#FF0000\' size=\'5\'>【牛15】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("		");
 
 
 document.writeln("");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>205期：独平</font><font color=\'#FF0000\' size=\'5\'>【蛇35】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>205期：独平</font><font color=\'#FF0000\' size=\'5\'>【蛇35】</font><font color=\'#000000\' size=\'4\'>开11准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("		");
 document.writeln("");

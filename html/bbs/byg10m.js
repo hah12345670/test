@@ -38,7 +38,7 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font size=\"5\">205期三组四连</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#000080\'>");
-document.writeln("		（62102c.com已更新，进入论坛查看） </font>");
+document.writeln("		（龙羊鼠兔）（龙马兔虎） （兔鼠虎羊） </font>");
 document.writeln("		<font color=\'#008000\'>");
 document.writeln("		（32倍）</font></p></b></td>");
 document.writeln("    </tr>");

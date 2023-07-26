@@ -1,8 +1,14 @@
-﻿document.writeln("<table border=\'1\' width=\'100%\'><tbody><tr><td align=\'center\' bgcolor=\'#000066\' height=\'80\'><p style=\'line-height:200%\'><strong><span style=\'font-size:16pt;color:#fff;font-family:Arial\'>资料网62102</span><span style=\'font-family:Arial;font-size:16pt;color:#ff0\'>【精准五行】</span><span style=\'color:#0ff;font-family:Arial;font-size:16pt\'>稳定好料</span></strong></p></td></tr>");
+﻿document.writeln("");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
+document.writeln("  <tbody>");
+document.writeln("<td style=\'text-align:center\' height=\'60\'>");
+document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>唯爱小芳</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『单双两肖』</font></b></table>");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 
 document.writeln("207期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【火木金土】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");

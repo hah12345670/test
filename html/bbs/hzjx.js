@@ -21,9 +21,23 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>207期红字暗码【冤假错案】【09 22 31 45】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：冤案、假案、错案的合称。解牛鼠马虎兔猴猪</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：牛鼠马虎兔猴猪</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>206期红字暗码【败寇为王】【03 18 29 44】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：旧指在争夺政权斗争中，成功了的就是合法的，称帝称王;失败了的就是非法的，被称为寇贼。解猪鸡虎牛狗兔马</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：猪鸡虎牛狗兔马</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：猪鸡<span style=\'background-color: #FFFF00\'>虎</span>牛狗兔马</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");

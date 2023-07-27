@@ -32,46 +32,7 @@ document.writeln("	");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("207期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	");
-
-document.writeln("	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("205期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇11</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	");
-document.writeln("	");
-document.writeln("	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("204期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛03</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	");
-document.writeln("	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("202期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠04</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	");
-document.writeln("	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("199期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴08</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	");
-
-
-document.writeln("	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("198期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗18</span>准</font></font></b></font></table>");
+document.writeln("208期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("	");
 

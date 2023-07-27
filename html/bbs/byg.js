@@ -64,8 +64,8 @@ document.writeln("                   <font color=\'#0000FF\'>（206期）</font>
 document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>虎</span>猴鸡龙马猪】<br>		");
 document.writeln("		<br>");
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（207期）</font><Br>");
-document.writeln("		<b>特肖【猴蛇鸡马狗龙】<br>		");
+document.writeln("                   <font color=\'#0000FF\'>（208期）</font><Br>");
+document.writeln("		<b>特肖【猪猴牛羊马蛇】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
@@ -74,9 +74,8 @@ document.writeln("				<font size=\'5\' color=\'#FF0000\'>【码友心云】</fon
 document.writeln("");
 document.writeln("");
 
-document.writeln("		206期杀【26.43.35.18.29.27.46】√<br>		");
 
-document.writeln("		207期杀【08.22.24.49.03.13.05】√<br>		");
+document.writeln("		208期杀【35.48.17.20.04.11.44】√<br>		");
 document.writeln("			</span>");
 document.writeln("		</b></font>");
 document.writeln("		");
@@ -116,6 +115,7 @@ document.writeln("");
 document.writeln("		205期杀猴兔√<br>			");
 document.writeln("		206期杀蛇马√<br>			");
 document.writeln("		207期杀虎龙√<br>			");
+document.writeln("		208期杀马鼠√<br>			");
 document.writeln("");
 document.writeln("   ");
 
@@ -136,7 +136,8 @@ document.writeln("		203期杀红单√<br>				");
 document.writeln("		204期杀绿双√<br>				");
 document.writeln("		205期杀红双√<br>				");
 document.writeln("		206期杀红单√<br>				");
-document.writeln("		207期杀绿单√<br>				");
+document.writeln("		207期杀绿单×<br>				");
+document.writeln("		208期杀蓝单√<br>				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln("		");
 document.writeln("		             <br></font></span>");
@@ -159,6 +160,7 @@ document.writeln("");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友老阿姨】</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		206期杀2头双√<br>			");
 document.writeln("		207期杀0头单√<br>			");
+document.writeln("		208期杀4头双√<br>			");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
@@ -166,6 +168,7 @@ document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码�
 document.writeln("");
 document.writeln("		206期杀9.5尾√<br>			    ");
 document.writeln("		207期杀3.5尾√<br>			    ");
+document.writeln("		208期杀6.5尾√<br>			    ");
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

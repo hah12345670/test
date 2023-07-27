@@ -1,0 +1,1283 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box;/*moz火狐浏览器*/
+	-webkit-box-sizing: border-box;/*(webkit内核浏览器)*/
+	box-sizing: border-box;
+}
+/*公共样式开始*/
+body{
+	max-width: 720px;
+	margin: 0 auto;
+	background: #F0F5F9;
+}
+html body{
+	font-size: 13px;
+	letter-spacing: 1px;
+	font-family: "microsoft yahei","arial","arial black";
+}
+i{
+	font-style: normal;
+}
+a,a:hover,a:active{
+	text-decoration: none;
+	color: #333333;
+}
+input,textarea,select{
+	outline: none;
+}
+img{
+	border: none;
+	vertical-align: top;
+}
+li{
+	list-style: none;
+}
+#huang{
+	color: red;
+	border-radius: 5px;
+	background: #fcff00;
+}
+#hui{
+	color: #BCBDBC;
+}
+/*公共样式结束*/
+
+/*返回顶部开始*/
+.arrow{
+    border: 9px solid transparent;
+    border-bottom-color: #3DA0DB;
+    width: 0px;
+    height: 0px;
+    top:0px;
+    background-color: #dddddd;
+}
+.stick{
+    width: 8px;
+    height: 14px;
+    border-radius: 1px;
+    background-color: #3DA0DB;
+    top:15px;
+    }
+#back_top div{
+    position: absolute;
+    margin: auto;
+    right: 0px;
+    left: 0px;
+}
+#back_top{
+    background-color: #dddddd;
+    height: 38px;
+    width: 38px;
+    border-radius: 3px;
+    display: block;
+    cursor: pointer;
+    position: fixed;
+    right: 2%;
+    bottom: 80px;
+    display: none;
+    z-index: 99;
+}
+/*返回顶部结束*/
+
+/*顶部开始*/
+.header{
+	width: 100%;
+	height: 140px;
+}
+.header #amaaa{
+	width: 100%;
+	height: 100%;
+	background: url(../Img/bbjj.png)no-repeat;
+	background-position: center center;
+	background-size:100% 100%;
+}
+#amaaa a,span{
+	color: #232323;
+	line-height: 27.5px;
+	letter-spacing: 1.2px;
+	font-size: 13px;
+}
+#amaaa a{
+	padding-left: 8px;
+}
+#amaaa #amak,#amacc{
+	float: right;
+	padding-right: 8px;
+}
+#amabb img{
+	width: 185px;
+	height: 60px;
+	margin-top: 11px;
+	padding-left: 2px;
+}
+#amabb #amacc{
+	margin-top: 10px;
+	color: #f4ff7d;
+	line-height: 21px;
+	letter-spacing: 1.5px;
+	padding-right: 2px;
+}
+.sticky{
+	width: 98%;
+	height: 30px;
+	margin: 6px auto;
+	text-align: center;
+	border-radius: 5px;
+	letter-spacing: 1.2px;
+	border: 1px solid #dbffc7;
+	background-image: linear-gradient(to bottom right,#FFFAFA,#c0eeff);
+}
+.sticky b{
+	color: #3b3b3b;
+	font-size: 13px;
+	line-height: 27px;
+}
+/*顶部结束*/
+
+.am_bbs{
+	width: 100%;
+	height: 100%;
+	border: 1px solid #e0e0e0;
+}
+
+/*开奖结果开始*/
+.am_bbs .amkja{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 4px;
+}
+/*开奖结果结束*/
+/*收藏网址开始*/
+.scwz{
+	width: 100%;
+	height: 35px;
+	margin: 0 auto;
+	margin-top: 1px;
+	text-align: center;
+	background: #f8f8f8;
+	box-shadow:0 1px 0 #ccc;
+	border: 1px solid #e8e8e8;
+}
+.scwz span{
+	color: #343434;
+	line-height: 32px;
+	font-size: 16.5px;
+	font-weight: 600;
+	letter-spacing: 1.8px;
+}
+.scwz span b{
+	color: #ff3a5a;
+	font-size: 22px;
+	font-family: "arial black";
+}
+/*收藏网址结束*/
+
+/*导航开始*/
+.amnav{
+	width: 100%;
+	height: 45px;
+	margin: 0 auto;
+	background: #f8f8f8;
+	margin-top: 1px;
+	margin-bottom: 4px;
+	text-align: center;
+	border: 1px solid #ccc;
+	position: relative;
+}
+.amnav div{
+	color: #014049;
+	width: 24%;
+	height: 35px;
+	margin-top: 3.5px;
+	line-height: 34px;
+	letter-spacing: 1.8px;
+	display: inline-block;
+	border: 1px solid #29def9;
+	border-radius: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	box-shadow: 1px 1px 0 #a0a1a1;
+	text-shadow: 1px 1px 1px #fff;
+	background-image: linear-gradient(to bottom right,#c4f2ff, #23ceff);
+}
+.amnav .amnavxg{
+	border: 1px solid #02d96c;
+	background-image: linear-gradient(to bottom right,#a0f9cc, #28ec89);
+}
+.amnav Img{
+	position: absolute;
+	z-index: 3px;
+	right: 1%;
+}
+/*导航结束*/
+
+/*广告A开始*/
+.kjggba{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 4px;
+	background: #f8f8f8;
+	border: 1px solid #ccc;
+}
+.kjggba .kjggbb{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.kjggba .kjggbb img{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+.kjggba .kjggbb #ggzz{
+	width: 40px;
+	height: 18px;
+	text-align: center;
+	line-height: 15px;
+	position: absolute;
+	border: 1px solid #72d0e8;
+	right: 0.1%;
+	top: 83.8%;
+	border-radius: 15px;
+	color: #fff;
+	background:#a8a8a8;
+	opacity: 0.7;
+	letter-spacing: 1.5px;
+	padding-left: 4px;
+}
+/*广告A结束*/
+
+/*一肖一码开始*/
+.amyymm{
+	width: 100%;
+	height: 100%;
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+.amyymm #amyaa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.amymks{
+	width: 100%;
+	height: 100%;
+	margin-top: -3px;
+}
+.amymks #amoka{
+	width: 100%;
+	background: #f8f8f8;
+	border-collapse: collapse;
+}
+.amymks #amoka td{
+	height: 40px;
+	text-align: center;
+	font-weight: 600;
+	color: #494E4D;
+	border: 1px solid rgb(238, 238, 238);
+}
+.amyymm #amoka .hm{
+	color: red;
+	font-size: 15px;
+	letter-spacing: 1.5px;
+}
+.amyymm .amymks #sx{
+	color: red;
+	font-size: 18px;
+	letter-spacing: 3px;
+}
+.amyymm .amymks #ka{
+	width: 20%;
+}
+.amyymm .amymks .kb{
+	width: 62%;
+}
+.amyymm .amymks #kc{
+	width: 18%;
+}
+.amyymm .amymks #sa{
+	color: #0276b2;
+}
+.amyymm .amymks #kjmf{
+	width: 100%;
+	height: 35px;
+	color: #2a96ce;
+	background: #ade4e9;
+	letter-spacing: 1.5px;
+	font-size: 16px;
+	border-left: 1px solid #ade4e9;
+	border-right: 1px solid #ade4e9;
+	border-bottom: 1px solid #ade4e9;
+}
+/*一肖一码结束*/
+
+/*平特一肖开始*/
+.kjpt{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjpt .kjpta{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjpt .kjptb{
+	color: #4f4f4f;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 30px;
+	background: #f8f8f8;
+	letter-spacing: 1.8px;
+}
+.kjpt .kjptb font{
+	color: red;
+	font-size: 16.5px;
+}
+/*平特一肖结束*/
+
+/*三头中特开始*/
+.kjst{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjst .kjsta{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjst .kjstb{
+	color: #4f4f4f;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 30px;
+	background: #f8f8f8;
+	letter-spacing: 1.8px;
+}
+.kjst .kjstb font{
+	color: red;
+	font-size: 16.5px;
+}
+/*三头中特结束*/
+
+/*文字广告开始*/
+.fawzgg{
+	width: 100%;
+	height: 100%;
+}
+/*文字广告结束*/
+
+/*济公图开始*/
+.kjjgta{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	margin-bottom: 3px;
+	text-align: center;
+	border: 1px solid #ccc;
+}
+.tab-con img{
+	width: 100%;
+}
+.tab-con div{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+    display: none;
+    border: 1px solid #749dcf;
+}
+.tab-con div:first-child{
+    display: block;
+}
+/*济公图结束*/
+
+/*高手资料开始*/
+.kjgs{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjgs .kjgsa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjgs .kjgsb{
+	width: 100%;
+	line-height: 30px;
+	text-align: center;
+	background: #f8f8f8;
+	border-collapse: collapse;
+}
+.kjgs .kjgsb a{
+	color: #4F4F4F;
+}
+.kjgs .kjgsb a:hover{
+	border-radius: 3px;
+	background: #ceecf2;
+}
+.kjgs .kjgsb td{
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	letter-spacing: 1.5px;
+	border: 1px dashed rgb(238, 238, 238);
+}
+.kjgs .kjgsb font{
+	color: #ff004e;
+}
+/*高手资料结束*/
+
+/*家野三肖开始*/
+.kjjy{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjjy .kjjya{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjjy .kjjyb{
+	width: 100%;
+	background: #f8f8f8;
+	border-collapse: collapse;
+}
+.kjjy .kjjyb td{
+	height: 60px;
+	text-align: center;
+	font-weight: 600;
+	color: #494E4D;
+	font-size: 15.5px;
+	letter-spacing: 1.6px;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjjy .kjjyb font{
+	color: red;
+	font-size: 17px;
+	line-height: 27px;
+}
+/*家野三肖结束*/
+
+/*精选16码开始*/
+.kjsl{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjsl .kjsla{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjsl .kjslb{
+	width: 100%;
+	text-align: center;
+	background: #f8f8f8;
+	border-collapse: collapse;
+}
+.kjsl .kjslb td{
+	height: 60px;
+	color: #494E4D;
+	font-size: 15px;
+	font-weight: 600;
+	letter-spacing: 1.6px;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjsl .kjslb .kjslc{
+	color: red;
+	line-height: 24px;
+	font-size: 14.5px;
+}
+/*精选16码结束*/
+
+/*幽默猜测开始*/
+.kjymcc{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 4px;
+	position: relative;
+	border: 1px solid #ccc;
+}
+.kjymcc img{
+	width: 100%;
+	height: 100%;
+}
+.kjymcc div{
+	width: 115px;
+	height: 30px;
+	line-height: 28px;
+	letter-spacing: 1.5px;
+	border: 1px solid #bcbab8;
+	text-align: center;
+	position: absolute;
+	right: 0.5%;
+	top: 83%;
+	color: #707070;
+	opacity: 0.3;
+	background: #ebebea;
+	border-radius: 15px;
+	text-shadow: 2px 2px 2px #fff;
+	transform: rotate(-20deg);
+	-o-transform:rotate(-20deg);
+	-ms-transform:rotate(-20deg);
+	-moz-transform:rotate(-20deg);
+	-webkit-transform:rotate(-20deg);
+}
+/*幽默猜测结束*/
+
+/*三行六码开始*/
+.kjsh{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	margin-bottom: 2.5px;
+	border-bottom: 1px solid #ccc;
+}
+.kjsh .kjsha{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjsh .kjshb{
+	width: 100%;
+	color: #494E4D;
+	text-align: center;
+	background: #f8f8f8;
+	letter-spacing: 1.6px;
+	border-collapse: collapse;
+}
+.kjsh .kjshb td{
+	height: 70px;
+	font-size: 15.5px;
+	font-weight: 600;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjsh .kjshb .kjshc{
+	color: #008080;
+	line-height: 26px;
+}
+.kjsh .kjshb .kjshc font{
+	color: red;
+}
+/*三行六码结束*/
+
+/*两波中特开始*/
+.kjlb{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjlb .kjlba{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjlb .kjlbb{
+	color: #494E4D;
+	font-size: 15px;
+	font-weight: 600;
+	text-align: center;
+	line-height: 30px;
+	letter-spacing: 1.6px;
+}
+.kjlb .kjlbb font{
+	color: red;
+	font-size: 16px;
+}
+/*两波中特结束*/
+
+/*五尾十码开始*/
+.kjww{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjww .kjwwa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjww .kjwwb{
+	width: 100%;
+	color: #494E4D;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	border-collapse: collapse;
+}
+.kjww .kjwwb td{
+	height: 55px;
+	line-height: 30px;
+	text-align: center;
+}
+.kjww .kjwwb font{
+	color: red;
+}
+.kjww .kjwwb span{
+	color: #FF3F99;
+	font-size: 17px;
+	letter-spacing: 1.6px;
+}
+/*五尾十码结束*/
+
+/*原创开始*/
+.kjyca{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+}
+.kjyca .buliana{
+	width: 100%;
+	position: relative;
+}
+.kjyca .buliana img{
+	margin-top: 0.8px;
+	z-index: 9;
+	position: absolute;
+}
+/*原创结束*/
+
+/*平特一尾开始*/
+.kjptw{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjptw .kjptwa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjptw .kjptwb{
+	width: 100%;
+	color: #464746;
+	font-size: 15.5px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 1.5px;
+}
+.kjptw .kjptwb li{
+	height: 28px;
+	line-height: 27px;
+}
+.kjptw .kjptwb font{
+	color: red;
+	font-size: 16px;
+	font-family: "arial black";
+}
+/*平特一尾结果*/
+
+/*长跟两季开始*/
+.kjlj{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjlj .kjlja{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjlj .kjljb{
+	width: 100%;
+	text-align: center;
+}
+.kjlj .kjljb ul{
+	color: #464746;
+	margin-bottom: 10px;
+}
+.kjlj .kjljb font{
+	color: red;
+	font-size: 16px;
+}
+.kjlj .kjljb li{
+	height: 28px;
+	line-height: 28px;
+	font-size: 15.5px;
+	font-weight: 600;
+	letter-spacing: 1.8px;
+}
+.kjlj .kjljb #kjcxqd{
+	color: #015d92;
+	height: 28px;
+	line-height: 27px;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	border-top: 1px dashed #ccc;
+}
+/*长跟两季结束*/
+
+/*四肖八码开始*/
+.kjsx{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjsx .kjsxa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjsx .kjsxb{
+	width: 100%;
+	color: #494E4D;
+	text-align: center;
+	background: #f8f8f8;
+	letter-spacing: 1.6px;
+	border-collapse: collapse;
+}
+.kjsx .kjsxb td{
+	height: 70px;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 29px;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjsx .kjsxb span{
+	color: #027491;
+	font-size: 16px;
+}
+.kjsx .kjsxb font{
+	color: red;
+	font-size: 16.5px;
+	letter-spacing: 1.8px;
+}
+/*四肖八码结束*/
+
+/*随机广告开始*/
+.kjsjgg{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+/*随机广告结束*/
+
+/*一波八码开始*/
+.kjyb{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjyb .kjyba{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjyb .kjybb{
+	width: 100%;
+	text-align: center;
+	letter-spacing: 1.2px;
+	font-size: 15px;
+	font-weight: 600;
+	color: #494E4D;
+	border-collapse: collapse;
+}
+.kjyb .kjybb td{
+	height: 38px;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjyb .kjybb #bysh{
+	color: #ff0267;
+}
+.kjyb .kjybb #bysl{
+	color: #0291ff;
+}
+.kjyb .kjybb #byslv{
+	color: #0cbc18;
+}
+.kjyb .kjybb #ybhs{
+	color: red;
+}
+/*一波八码结束*/
+
+/*必中八肖开始*/
+.kjbx{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjbx .kjbxa{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjbx .kjbxb{
+	width: 100%;
+	text-align: center;
+	background: #f8f8f8;
+	letter-spacing: 1.5px;
+	border-collapse: collapse;
+}
+.kjbx .kjbxb td{
+	height: 40px;
+	color: #525252;
+	font-size: 15px;
+	font-weight: 600;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjbx .kjbxb font{
+	color: red;
+	font-size: 16.5px;
+}
+/*必中八肖结束*/
+
+/*输尽光开始*/
+.kjsj{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjsj .kjsja{
+	color: #fffe95;
+	width: 100%;
+	height: 38px;
+	font-size: 15.5px;
+	font-weight: 600;
+	line-height: 36px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#c4f2ff,#23ceff);
+}
+.kjsj .kjsjb{
+	width: 100%;
+	color: #494E4D;
+	text-align: center;
+	background: #f8f8f8;
+	letter-spacing: 1.6px;
+	border-collapse: collapse;
+}
+.kjsj .kjsjb td{
+	height: 60px;
+	line-height: 30px;
+	font-size: 15px;
+	font-weight: 600;
+	border: 1px solid rgb(238, 238, 238);
+}
+.kjsj .kjsjb font{
+	color: red;
+	font-size: 15.5px;
+}
+/*输尽光结束*/
+
+/*图库开始*/
+.kjtk{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	border-bottom: 1px solid #ccc;
+}
+.kjtk .kjtka{
+	width: 100%;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-bottom: none;
+}
+.kjtk .kjtka span{
+	width: 19%;
+	height: 30px;
+	color: #000;
+	margin: 5px auto;
+	font-size: 13.5px;
+	border-radius: 3px;
+	letter-spacing: 1.2px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-shadow:1px 1px 0 #666666;
+	text-shadow: 1px 1px 1px #fff;
+	background-image: linear-gradient(to bottom right,#ace4ec,#70cfea);
+}
+.kjtk .kjtka .kjtkb{
+	background-image: linear-gradient(to bottom right,#92f3d0,#0bd289);
+}
+.kjtk .kjtkd{
+	width: 100%;
+	height: 30px;
+	line-height: 29px;
+	text-align: center;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	background-image: linear-gradient(to bottom right,#ebefed,#c5dad0);
+}
+/*图库结束*/
+
+/*属性知识开始*/
+.kjsxzs{
+	width: 100%;
+	height: 100%;
+	margin: 4px auto;
+	border: 1px solid #ccc;
+}
+.kjsxzs .kjsxzsa{
+	width: 100%;
+	height: 35px;
+	background: #8cd1ee;
+}
+.kjsxzs .kjsxzsa span{
+	color: #444444;
+	line-height: 35px;
+	font-weight: bold;
+	letter-spacing: 1.5px;
+	text-shadow: 1px 0 1px #f4f4f4;
+}
+.kjsxzs .kjsxzsa #amx{
+	padding-left: 3px;
+}
+.kjsxzs .kjsxzsa #ams{
+	float: right;
+}
+.kjsxzs .kjsxdz{
+	width: 100%;
+	height: 30px;
+	background: #e8e8e8;
+	line-height: 29px;
+	text-align: center;
+	letter-spacing: 1.6px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.kjsxzs .kjsxha{
+	width: 100%;
+	letter-spacing: 1.2px;
+	text-align: center;
+	background: #f8f8f8;
+	border-collapse: collapse;
+}
+.kjsxzs .kjsxha font{
+	color: #bc03be;
+}
+.kjsxzs .kjsxha #sxkk{
+	width: 20px;
+	height: 20px;
+}
+.kjsxzs .kjsxha #xiaoji{
+	width: 20px;
+	height: 18px;
+}
+.kjsxzs .kjsxha #houzi{
+	width: 20px;
+	height: 22px;
+	margin-top: -2px;
+	margin-right: 1px;
+}
+.kjsxzs .kjsxha #xiaoma{
+	width: 16px;
+	height: 16px;
+	margin-top: 0.8px;
+	margin-right: 0.8px;
+}
+.kjsxzs .kjsxha td{
+	height: 30px;
+	border: 1px solid #e1e1e1;
+}
+.kjsxzs .kjsxha div{
+	color: #fff;
+	width: 19px;
+	display: inline-block;
+}
+.kjsxzs .kjsxha #h{
+	background: #ff4c4c;
+	border-radius: 3px;
+}
+.kjsxzs .kjsxha #l{
+	background: #33abff;
+	border-radius: 3px;
+}
+.kjsxzs .kjsxha #lv{
+	background: #29af2f;
+	border-radius: 3px;
+}
+.kjsxzs .kjbscz{
+	width: 100%;
+	background: #f8f8f8;
+	letter-spacing: 1.2px;
+	border-collapse: collapse;
+}
+.kjsxzs .kjbscz td{
+	height: 30px;
+	border: 1px solid #e1e1e1;
+}
+.kjsxzs .kjbscz #kjhb{
+	color: red;
+	width: 9%;
+	background: #FAFAFA;
+	text-align: center;
+	letter-spacing: 1.5px;
+}
+.kjsxzs .kjbscz #kjhba div{
+	color: #fff;
+	font-size: 11px;
+	background: #FF4C4C;
+	display: inline-block;
+	letter-spacing: 1.5px;
+	border-radius: 3px;
+}
+.kjsxzs .kjbscz #kjnb{
+	color: #2b58ff;
+	width: 9%;
+	text-align: center;
+	letter-spacing: 1.5px;
+}
+.kjsxzs .kjbscz #kjnba div{
+	color: #fff;
+	font-size: 11px;
+	background: #33ABFF;
+	display: inline-block;
+	letter-spacing: 1.5px;
+	border-radius: 3px;
+}
+.kjsxzs .kjbscz #kjlvb{
+	color: #039522;
+	width: 9%;
+	background: #FAFAFA;
+	text-align: center;
+	letter-spacing: 1.8px;
+}
+.kjsxzs .kjbscz #kjlva div{
+	color: #fff;
+	font-size: 11px;
+	background: #29AF2F;
+	display: inline-block;
+	letter-spacing: 1.5px;
+	border-radius: 3px;
+}
+.kjsxzs .kjwxczb{
+	width: 100%;
+	background: #f8f8f8;
+	letter-spacing: 1.2px;
+	border-collapse: collapse;
+}
+.kjsxzs .kjwxczb td{
+	height: 30px;
+	border: 1px solid #e1e1e1;
+}
+.kjsxzs .kjwxczb #jin{
+	width: 9%;
+	text-align: center;
+}
+.kjsxzs .kjwxczb #muh div{
+	color: #fff;
+	border-radius: 3px;
+	display: inline-block;
+}
+.kjsxzs .kjhsds{
+	width: 100%;
+	background: #f8f8f8;
+	letter-spacing: 1.2px;
+	border-collapse: collapse;
+}
+.kjsxzs .kjhsds td{
+	height: 24px;
+	border: 1px solid #e1e1e1;
+}
+.kjsxzs .kjhsds #hesu{
+	width: 13%;
+	text-align: center;
+}
+.kjsxzs .kjhsds #hesuh div{
+	color: #fff;
+	border-radius: 3px;
+	display: inline-block;
+}
+/*属性知识结束*/
+
+/*底部开始*/
+.amhyf{
+	width: 100%;
+	height: 80px;
+	background: url(../Img/amyf.png)no-repeat;
+}
+.amhyf .amhyfybz{
+	color: #353535;
+	text-align: center;
+	line-height: 26px;
+	letter-spacing: 1.2px;
+}
+/*底部结束*/
+
+.web_notice{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.3);
+	z-index: 99999;
+}
+
+.tanchuang{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 330px;
+	background: #FFF;
+	transform: translate(-50%, -50%);
+	border-radius: 40px;
+	padding: 10px 10px;
+	letter-spacing: 1.3px;
+}
+.tanchuang .yhfs{
+	display: flex;
+	margin-left: 20px;
+}
+.tanchuang #h3a{
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	color: red;
+	margin-top: 15px;
+}
+.tanchuang img{
+	width: 80px;
+	height: 70px;
+}
+.tanchuang .h3div{
+	font-size: 16px;
+	margin-top: 26px;
+	line-height: 30px;
+	color: #999;
+	text-align: justify;
+	color: #000000;
+	text-indent: 30px;
+	margin-top: 10px;
+}
+.tanchuang .h3div a{
+	color: #8470FF;
+}
+.tanchuang .tank{
+	display: block;
+	background: #98a3ff;
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+	font-size: 19px;
+	line-height: 60px;
+	margin: 0 auto;
+	margin-top: 25px;
+	border-radius: 32px;
+	width: 80%;
+}

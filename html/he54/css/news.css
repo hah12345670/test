@@ -1,0 +1,374 @@
+@charset "utf-8";
+/*文章框架开始*/
+.amayf{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+	background: #F8F8F8;
+	border: 1px solid #e0e0e0;
+}
+/*文章框架结束*/
+/*文章开始*/
+.bjwz{
+	font-size: 16px;
+	color:#8b8b8b;
+	font-weight: bold;
+	transform: rotate(-20deg);
+	position:absolute;
+	z-index: 100;
+	pointer-events:none;
+	filter: alpha(opacity=9);
+	-moz-opacity: 0.3;
+	opacity: 0.3;
+	top:28%;
+	left:58%;
+	letter-spacing: 1.2px;
+}
+.amayf .ma_aa{
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	line-height: 34px;
+	background: #E8E8E8;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.amayf .ma_aa div{
+	letter-spacing: 1.2px;
+	display: inline-block;
+}
+.amayf .ma_aa .kjys{
+	color: #054683;
+}
+.amayf .biaoti{
+	height: 30px;
+	line-height: 29px;
+	letter-spacing: 1.3px;
+	border-bottom: 1px dashed #c5c5c5;
+}
+.amayf .biaoti div{
+	margin-left: 3px;
+}
+.amayf #Zoom{
+	font-size: 14px;
+	line-height: 28px;
+	margin-top: 8px;
+	margin-left: 2px;
+	letter-spacing: 1.8px;
+}
+.amayf #Zoom font{
+	color: #ff005a;
+	font-weight: bold;
+}
+.amayf #Zoom .sja{
+	line-height: 20px;
+}
+.amayf #Zoom .bzsm{
+	line-height: 20px;
+}
+.amayf .sjwz{
+	height: 30px;
+	margin-left: 2px;
+	margin-top: 18px;
+	line-height: 30px;
+	letter-spacing: 1.3px;
+	border-top: 1px dashed #c5c5c5;
+}
+.amayf .ma_bb{
+	width: 100%;
+	height: 35px;
+	line-height: 34px;
+	background: #E8E8E8;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.amayf .ma_bb div{
+	display: inline-block;
+}
+.amayf .ma_bb .ma_waa{
+	margin-left: 2px;
+	margin-top: 1px;
+}
+.amayf .ma_bb .ma_wa{
+	width: 100px;
+	height: 28px;
+	color: #0487cc;
+	font-weight: bold;
+	line-height: 28px;
+	text-align: center;
+	letter-spacing: 1.8px;
+	border: 1px dashed #ccc;
+	border-radius: 5px;
+}
+.amayf .ma_bb .ma_wa img{
+	width: 20px;
+	height: 20px;
+	margin-top: 4px;
+	margin-right: 1px;
+}
+.amayf .ma_bb .ma_sl{
+	float: right;
+	margin-right: 2px;
+}
+.amayf .ma_bb .ma_sl .xpys{
+	color: #054683;
+}
+/*文章结束*/
+
+.sjggnew{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 4px;
+	border: 1px solid #ccc;
+}
+
+/*原创开始*/
+.bulian{
+	width: 100%;
+	height: 100%;
+	margin-top: 4px;
+}
+.bulian .buliana{
+	width: 100%;
+	position: relative;
+}
+.bulian .buliana img{
+	margin-top: 0.8px;
+	z-index: 9;
+	position: absolute;
+}
+.kjbu{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0 auto;
+	margin-top: 1.5px;
+}
+.kjbua{
+	width: 100%;
+	background: #F8F8F8;
+}
+.kjbua .kjbub{
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	border-collapse: collapse;
+}
+.kjbua .kjbub a{
+	color: #353636;
+	text-shadow: 1px 1px 1px #fff;
+	text-decoration: none;
+}
+.kjbua .kjbub td{
+	height: 30px;
+	border: 1px solid #ccc;
+}
+.kjbua .kjbub font{
+	color: #0585c1;
+}
+.kjbua .kjbub td:hover{
+	background: #c6f5ee;
+}
+/*原创结束*/
+
+/*开奖记录开始*/
+.amayf .kjjl{
+	width: 100%;
+	height: 35px;
+	line-height: 34px;
+	background: #e8e8e8;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.amayf .kjjl .kjsxm{
+	font-size: 13px;
+	float: right;
+	margin-right: 0.3%;
+}
+.amayf .kjjl div{
+	display: inline-block;
+}
+.amayf .kjjl .ma_waa{
+	margin-left: 2px;
+	margin-top: 1px;
+}
+.amayf .kjjl .ma_wa{
+	width: 100px;
+	height: 28px;
+	color: #0487cc;
+	font-weight: bold;
+	line-height: 28px;
+	text-align: center;
+	letter-spacing: 1.8px;
+	border: 1px dashed #ccc;
+	border-radius: 5px;
+}
+.amayf .kjjl .ma_wa img{
+	width: 20px;
+	height: 20px;
+	margin-top: 4px;
+	margin-right: 1px;
+}/*
+.amayf .kjjldq{
+	width: 100%;
+	height: 8000px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	margin-top: 6px;
+}
+.amayf .kjjldq div{
+	display: none;
+	position: absolute;
+	top: 50px;
+}
+.amayf .kjjldq label{
+	width: 100px;
+	height: 35px;
+	display: inline-block;
+	text-align: center;
+	line-height: 34px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #7ae0d8;
+}*/
+.amayf .kjjldd{
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	line-height: 34px;
+	letter-spacing: 1.8px;
+	background: #e8e8e8;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.bjwza{
+	font-size: 16px;
+	color:#8b8b8b;
+	font-weight: bold;
+	transform: rotate(-20deg);
+	-o-transform:rotate(-20deg);
+	-ms-transform:rotate(-20deg);
+	-moz-transform:rotate(-20deg);
+	-webkit-transform:rotate(-20deg);
+	position:absolute;
+	z-index: 100;
+	pointer-events:none;
+	filter: alpha(opacity=9);
+	-moz-opacity: 0.3;
+	opacity: 0.3;
+	top:65%;
+	left:62%;
+	letter-spacing: 1.2px;
+}
+.makjjl{
+	width: 100%;
+	height: 100%;
+}
+/*开奖记录结束*/
+
+/*综合资料开始*/
+.amayf .kjzh{
+	width: 100%;
+	height: 100%;
+	margin-top: 3px;
+	margin-bottom: 8px;
+	text-align: center;
+	background: #F8F8F8;
+}
+.amayf .kjzh div{
+	width: 24%;
+	height: 35px;
+	margin-top: 5px;
+	letter-spacing: 1.5px;
+	line-height: 34px;
+	border-radius: 5px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-shadow:0 1px 1px #b7f5f3;
+	text-shadow: 1px 1px 1px #fff;
+	background-image: linear-gradient(to bottom right,#a2f7da,#00d58c);
+}
+.sxsxa{
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	background: #e8e8e8;
+	line-height: 34px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+.kjsxsx{
+	width: 100%;
+	letter-spacing: 1.5px;
+}
+.kjsxsx div{
+	color: #313131;
+	height: 30px;
+	text-align: center;
+	line-height: 29px;
+	margin: 3px auto;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	display: inline-block;
+	background: #e3ffa6;
+}
+.kjsxsx #jq{
+	width: 48%;
+	margin-left: 3px;
+}
+.kjsxsx #ys{
+	width: 48%;
+	float: right;
+	margin-right: 3px;
+}
+#hx{
+	width: 99%;
+	color: #313131;
+	height: 30px;
+	text-align: center;
+	line-height: 29px;
+	margin: 5px auto;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #e3ffa6;
+}
+/*综合资料结束*/
+
+/*友链开始*/
+.amyqlj{
+	width: 100%;
+	height: 100%;
+	border: 1px solid #c4c4c4;
+}
+.amyqlj div{
+	width: 100%;
+	height: 30px;
+	color: #434242;
+	background: #F8F8F8;
+	font-size: 10px;
+	line-height: 30px;
+	letter-spacing: 1.5px;
+	border-bottom: 1px solid #c4c4c4;
+}
+.amyqlj div h3{
+	margin-left: 10px;
+}
+.amyqlj div em{
+	color: #dcdbdb;
+	font-size: 6px;
+	margin-left: 5px;
+}
+.amyqlj ul{
+	width: 100%;
+	height: 35px;
+	letter-spacing: 1.3px;
+	line-height: 34px;
+	background-image: linear-gradient(to bottom right,#f9f9f9,#eeeded);
+}
+.amyqlj ul li{
+	margin-left: 9px;
+	display: inline;
+}
+/*友链结束*/

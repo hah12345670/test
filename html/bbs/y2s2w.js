@@ -42,7 +42,9 @@ document.writeln("206期</span><span style=\'font-size:16pt\'><span style=\'colo
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("207期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【7.0】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">兔49准</font></font></span></span></strong></p></td></tr>");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("208期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【6.5】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("208期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【6.5】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">鼠28准</font></font></span></span></strong></p></td></tr>");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("209期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.1】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table>");
 document.writeln("");

@@ -28,6 +28,7 @@ document.writeln("道人本期点灵码，二三合成五六码。二三合成�
 document.writeln("十二生肖排第六，夫人皇帝找菊花。第六解06蛇狗，皇帝解龙虎。");
 document.writeln("龙狗相冲不得利，一三全四中本期。明肖龙狗，一三解兔。");
 document.writeln("");
+document.writeln("</font><font color=\'#008000\'><br> ");
 document.writeln("");
 document.writeln("<font size=\"4\">");
 document.writeln("拐特九肖：鼠马鸡兔猪蛇狗龙虎<br>");

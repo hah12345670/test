@@ -25,7 +25,7 @@ document.writeln("<b><font color=\'#0000FF\' size=\'3\'>210期红字暗码【百
 document.writeln("<b><font color=\'#008000\'>解：意思是各种各样的草都含着花朵。形容冬去春回，花草争妍的景色星。解羊蛇马兔猴鸡鼠</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：羊蛇马兔猴鸡鼠</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
@@ -37,7 +37,7 @@ document.writeln("<b><font color=\'#0000FF\' size=\'3\'>209期红字暗码【分
 document.writeln("<b><font color=\'#008000\'>解：一点一滴，详详细细。也说掰两分星。解鼠鸡猴兔狗龙羊</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：<span style=\'background-color: #FFFF00\'>鼠</span>鸡猴兔狗龙羊</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
@@ -49,7 +49,7 @@ document.writeln("<b><font color=\'#0000FF\' size=\'3\'>208期红字暗码【五
 document.writeln("<b><font color=\'#008000\'>解：令人迷惑的纠纷或混乱。解兔鸡羊猴蛇虎鼠</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：兔鸡羊猴蛇虎<span style=\'background-color: #FFFF00\'>鼠</span></font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
@@ -62,7 +62,7 @@ document.writeln("<b><font color=\'#0000FF\' size=\'3\'>207期红字暗码【冤
 document.writeln("<b><font color=\'#008000\'>解：冤案、假案、错案的合称。解牛鼠马虎兔猴猪</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：牛鼠马虎<span style=\'background-color: #FFFF00\'>兔</span>猴猪</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
@@ -76,7 +76,7 @@ document.writeln("<b><font color=\'#0000FF\' size=\'3\'>206期红字暗码【败
 document.writeln("<b><font color=\'#008000\'>解：旧指在争夺政权斗争中，成功了的就是合法的，称帝称王;失败了的就是非法的，被称为寇贼。解猪鸡虎牛狗兔马</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：猪鸡<span style=\'background-color: #FFFF00\'>虎</span>牛狗兔马</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://huidfjfgg.a626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");

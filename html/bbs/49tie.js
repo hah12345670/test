@@ -64,11 +64,13 @@ document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: la
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
+
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://tg.9898yz.com:9898/#tkkk'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>210期【爆庄一码】<font color=\'#FF0000\'>（二肖一码）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://dsvad.59219f.com:888/bbs/6699.html'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>210期【飞龙在天】<font color=\'#FF0000\'>（三肖六码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
+
 
 
 document.writeln("        <li>");
@@ -90,6 +92,14 @@ document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.co
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>210期【迪丽热巴】<font color=\'#FF0000\'>（双波中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://tg.9898yz.com:9898/#tkkk'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>210期【爆庄一码】<font color=\'#FF0000\'>（二肖一码）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://h5.49218006.com/#/corpusdetail?id=32199479&type=3\'>");

@@ -49,7 +49,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("208-210期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【兔鸡蛇猴龙马】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("210-211期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鼠虎兔猴马牛】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

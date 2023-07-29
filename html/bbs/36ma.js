@@ -22,40 +22,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>209期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		        12.08.34.33.49.01.05.43.27.44.45.31<br>");
-document.writeln("			    20.07.19.37.06.02.23.30.26.21.38.17<br>");
-document.writeln("			    03.14.13.42.29.16.25.48.32.24.46.28</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>210期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        43.36.16.34.35.18.05.47.12.24.40.42<br>");
+document.writeln("			    19.31.45.29.02.14.27.22.30.44.28.38<br>");
+document.writeln("			    01.26.48.13.03.04.23.32.46.25.41.33</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>208期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>28</font>准<br>");
-document.writeln("		        08.32.43.33.37.34.29.48.27.49.22.41<br>");
-document.writeln("			    <span style=\'background-color: #FFFF00\'>28</span>.11.13.42.46.24.15.26.39.44.25.35<br>");
-document.writeln("			    31.07.36.40.21.03.18.23.04.06.02.09</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>206期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>38</font>准<br>");
-document.writeln("		        06.26.18.33.44.45.05.21.36.35.03.01<br>");
-document.writeln("			    32.17.19.14.15.20.28.22.04.31.08.39<br>");
-document.writeln("			    13.24.29.30.<span style=\'background-color: #FFFF00\'>38</span>.49.09.37.10.40.41.34</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
-document.writeln("");
 
 
 

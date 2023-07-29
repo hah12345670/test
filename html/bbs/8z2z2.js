@@ -26,7 +26,6 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62102.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『8组2中2』</font></b></table>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -36,12 +35,13 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font size=\"5\">209期8组2中2</span></font><p align=\'center\'>");
+document.writeln("		<font size=\"5\">210期8组2中2</span></font><p align=\'center\'>");
 document.writeln("		<font color=\'#FF0000\'>");
-document.writeln("		【19.32】【26.41】【34.49】【42.29】<br>");
-document.writeln("		【13.01】【12.46】【43.10】【48.05】</font></p></b></td>");
+document.writeln("		【36.29】【33.17】【06.20】【01.46】<br>");
+document.writeln("		【08.26】【12.27】【07.32】【19.13】</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
+
 
 
 

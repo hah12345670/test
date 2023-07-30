@@ -16,18 +16,36 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>六合彩</font><font color=\'#FFFFFF\'>『特码玄机』</font></font></table>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#FF00FF\'>210期特码玄机开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>211期特码玄机开？00</font><br> ");
+document.writeln("<span style=\'color: #000\'>特码玄机:九宫六院定局面，防君子不防小人</span><font color=\'#008000\' size=\'3\'><br>");
+document.writeln("</font><font color=\'#800000\' size=\'4\'> ");
+document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("");
+document.writeln("");
+document.writeln("玄机解肖：狗鼠兔猪马猴<br>玄机解肖：狗鼠兔猪</font></span></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'38\'><tbody><tr>");
+document.writeln("			<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>雷锋规律九肖");
+document.writeln("			【连中134期】点击查看</a></strong></tr></table>");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<font color=\'#FF00FF\'>210期特码玄机开鸡07</font><br> ");
 document.writeln("<span style=\'color: #000\'>特码玄机:行下春风望夏雨，一生史以食为天</span><font color=\'#008000\' size=\'3\'><br>");
 document.writeln("</font><font color=\'#800000\' size=\'4\'> ");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
 document.writeln("");
-document.writeln("玄机解肖：羊猪狗龙牛鸡<br>玄机解肖：羊猪狗龙</font></span></p>");
+document.writeln("玄机解肖：羊猪狗龙牛<span style=\'background-color: #FFFF00\'>鸡</span><br>玄机解肖：羊猪狗龙</font></span></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'38\'><tbody><tr>");
 document.writeln("			<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>雷锋规律九肖");
 document.writeln("			【连中134期】点击查看</a></strong></tr></table>");

@@ -38,7 +38,7 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font size=\"3\"><font color=\"#0000FF\">小朵【财神奇遇解析】（210期）</font></span></font><p align=\'center\'>");
 document.writeln("		<font style=\"font-size: 12pt\">");
-document.writeln("		主博九码：已更新在62102b.com</font></p></b></td>");
+document.writeln("		主博九码：08.17.39.21.24.30.02.28.11</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");

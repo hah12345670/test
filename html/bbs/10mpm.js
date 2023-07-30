@@ -14,20 +14,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-
 document.writeln("");
-document.writeln("210期：平码【22.06.46.07.32.17.09.43.30.04.40.41】<br>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("209期：平码【16.46.<span style=\'background-color: #FFFF00\'>42.39</span>.34.18.44.29.30.17.05.33】<br>");
-document.writeln("");
-
-
-
+document.writeln("211期：平码【29.04.47.17.39.43.34.06.36.12.28.18】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("188期：平码【14.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">31.33</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.19.06.34.10.02.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">13</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.49.41.25】<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("210期：平码【</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">22.06</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.46.07.32.17.09</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>.</font><font style=\"font-weight: 700\" face=\"微软雅黑\">43</font><font style=\'font-weight:700\' face=\'微软雅黑\'>.30.04</font><font style=\"font-weight: 700\" face=\"微软雅黑\">.40.41</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("209期：平码【16.46.</font><font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑\' color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>42.39</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.34.18.44.29.30.17.05.33】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("			");
+document.writeln("			");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");

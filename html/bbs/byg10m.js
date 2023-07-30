@@ -27,6 +27,23 @@ document.writeln("			<a target=\'_blank\' href=\'https://tututu.b626102.com:888/
 document.writeln("		<font color=\'#008000\'><img src=https://tututu.b626102.com:888/images/33567.gif style=\'width:20px\' height=\'19\'></font><span style=font-family:楷体;color:#008000><font style=\'font-size: 16pt\'>已更新在62102b.com点击进入<br>首页导航奇遇小朵就能找到</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ");
+
+
+document.writeln("    <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font size=\"3\"><font color=\"#0000FF\">小朵【财神奇遇解析】（212期）</font></span></font><p align=\'center\'>");
+document.writeln("		<font style=\"font-size: 12pt\">");
+document.writeln("		主博九码：62102b.com 已更新</font></p></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+document.writeln("");
 document.writeln("    <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -38,7 +55,7 @@ document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font size=\"3\"><font color=\"#0000FF\">小朵【财神奇遇解析】（211期）</font></span></font><p align=\'center\'>");
 document.writeln("		<font style=\"font-size: 12pt\">");
-document.writeln("		主博九码：62102b.com 已更新</font></p></b></td>");
+document.writeln("		主博九码：10.<font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">28</span></font>.37.47.15.41.20.36.31</font></p></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");

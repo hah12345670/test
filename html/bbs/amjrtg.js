@@ -51,7 +51,7 @@ document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
 document.writeln("<a target=\'_blank\' href=\'https://asdnvuew.www72293a.com:888/#62jrtg\'>");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");
-document.writeln("		<img border=\'0\' src=\'https://www.49896b.com/images/dingjian.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>澳门跑狗【平特一肖】<br>【10中09！稳赚】<font color=\'#FF00FF\'>点击查看</font></b></span></a></font><a target=\'_blank\' href=\'https://www.39895a.com/AMgsb/208.htm\'></font></a><br><br />");
+document.writeln("		<img border=\'0\' src=\'https://www.49896b.com/images/dingjian.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>新王中王【二肖4码】<br>【致富猛料！稳赚】<font color=\'#FF00FF\'>点击查看</font></b></span></a></font><a target=\'_blank\' href=\'https://www.39895a.com/AMgsb/208.htm\'></font></a><br><br />");
 document.writeln("<!--结束-->	");
 document.writeln("			");
 document.writeln("	");

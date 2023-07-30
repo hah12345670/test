@@ -47,7 +47,7 @@ document.writeln("            	<li>必中三码：<font color=\'#FF0000\' size=\
 document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>10.30.40</font></li>");
 document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>12.32.42</font></li>");
 document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>03.33.43</font></li>");
-document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>18.28.48/font></li>");
+document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>18.28.48</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");

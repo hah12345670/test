@@ -11,7 +11,7 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62102b.com</font><font color=\'#FFFFFF\'>『金牌谜语』</font></font></b></table>");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 
@@ -222,7 +222,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40>");
 document.writeln("			<p style=text-align:center><strong>");
-document.writeln("			<a target=\"_blank\" href=\"https://21689.com/#62\">");
+document.writeln("			<a target=\"_blank\" href=\"https://21689b.com/#62\">");
 document.writeln("			<span style=\"text-decoration: none\"><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>更多金牌谜语历史记录<Br></span>");
 document.writeln("			</span><span style=font-family:楷体;font-size:17pt;>");
 document.writeln("			<font color=\"#FF0000\"><span style=\"text-decoration: none\">请到21689.com</span></font></span></a></strong></tr></table>");

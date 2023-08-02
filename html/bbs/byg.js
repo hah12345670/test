@@ -48,7 +48,12 @@ document.writeln("");
 
 
 document.writeln("                   <font color=\'#0000FF\'>（213期）</font></b><Br>");
-document.writeln("		<b>特肖【兔羊猴狗牛鼠】<br>		");
+document.writeln("		<b>特肖【兔羊猴<span style=\'background-color: #FFFF00\'>狗</span>牛鼠】<br>		");
+document.writeln("		<br>");
+document.writeln("");
+
+document.writeln("                   <font color=\'#0000FF\'>（214期）</font></b><Br>");
+document.writeln("		<b>特肖【猪马兔鸡虎牛】<br>		");
 document.writeln("		<br>");
 document.writeln("");
 document.writeln("");
@@ -61,7 +66,8 @@ document.writeln("		209期必中平特【猪+<span style=\'background-color: #FF
 document.writeln("		210期必中平特【鼠+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
 document.writeln("		211期必中平特【鸡+<span style=\'background-color: #FFFF00\'>狗</span>】√<br>	");
 document.writeln("		212期必中平特【<span style=\'background-color: #FFFF00\'>牛</span>+猪】√<br>	");
-document.writeln("		213期必中平特【羊+龙】√<br>	");
+document.writeln("		213期必中平特【<span style=\'background-color: #FFFF00\'>羊</span>+龙】√<br>	");
+document.writeln("		214期必中平特【虎+鼠】√<br>	");
 document.writeln("			<br>");
 document.writeln("		");
 document.writeln("");
@@ -72,6 +78,7 @@ document.writeln("		210期杀【34.43.48.47.06.44.01】√<br>");
 document.writeln("		211期杀【06.04.44.30.41.32.25】√<br>");
 document.writeln("		212期杀【04.11.16.41.15.46.20】√<br>");
 document.writeln("		213期杀【31.29.05.43.49.44.04】√<br>");
+document.writeln("		214期杀【19.15.18.33.37.16.38】√<br>");
 document.writeln("	");
 document.writeln("<br>");
 document.writeln("		换了跟踪高手，以下都是长跟高手，以前记录就不上了，重在未来<br>	");
@@ -115,10 +122,9 @@ document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
-document.writeln("");
-document.writeln("		209期红蓝绿肖（红肖）√<br>			");
+
 document.writeln("		212期红蓝绿肖（红肖）√<br>			");
-document.writeln("		213期红蓝绿肖（蓝肖）√<br>			");
+document.writeln("		214期红蓝绿肖（绿肖）√<br>			");
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -133,7 +139,7 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("");
 document.writeln("		210期单双四尾【13<span style=\'background-color: #FFFF00\'>7</span>5尾】√<br>				");
 document.writeln("		212期单双四尾【268<span style=\'background-color: #FFFF00\'>4</span>尾】√<br>				");
-document.writeln("		213期单双四尾【1597尾】√<br>				");
+document.writeln("		214期单双四尾【2680尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -150,9 +156,8 @@ document.writeln("		        <td style=\'text-align:center;background:#FFF\' widt
 document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		");
-document.writeln("		209期巧儿二头（3.4头）开40√<br>	");
-document.writeln("		210期巧儿二头（2.0头）开07√<br>	");
-document.writeln("		213期巧儿二头（3.1头）开00√<br>	");
+
+document.writeln("		214期巧儿二头（4.0头）开00√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -163,7 +168,8 @@ document.writeln("		    ");
 document.writeln("		209期财迷1.波（<span style=\'background-color: #FFFF00\'>红波</span>+绿单）√<br>	");
 document.writeln("		211期财迷1.波（<span style=\'background-color: #FFFF00\'>绿波</span>+蓝单）√<br>	");
 document.writeln("		212期财迷1.波（<span style=\'background-color: #FFFF00\'>红波</span>+蓝双）√<br>	");
-document.writeln("		213期财迷1.波（蓝波+红单）√<br>	");
+document.writeln("		213期财迷1.波（<span style=\'background-color: #FFFF00\'>蓝波</span>+红单）√<br>	");
+document.writeln("		214期财迷1.波（蓝波+红双）√<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b><br>	");
@@ -193,6 +199,7 @@ document.writeln("");
 document.writeln("		211期杀鸡马√<br>");
 document.writeln("		212期杀狗鸡√<br>");
 document.writeln("		213期杀鸡马√<br>");
+document.writeln("		214期杀龙虎√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");
@@ -206,6 +213,7 @@ document.writeln("		210期杀绿单√<br>");
 document.writeln("		211期杀红单√<br>");
 document.writeln("		212期杀绿单√<br>");
 document.writeln("		213期杀绿双√<br>");
+document.writeln("		214期杀绿单√<br>");
 document.writeln("		");
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -215,8 +223,12 @@ document.writeln("");
 document.writeln("<td style=\'text-align:center;background:#FFF\' width=\'45%\' rowspan=\'2\'><div style=\'height: normal;\'>  ");
 document.writeln("<b>");
 document.writeln(" <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友老阿姨】</font><font style=\'font-size: 14pt\'><br>");
+
+
+
 document.writeln("		212期杀3头单√<br>	");
 document.writeln("		213期杀1头双√<br>	");
+document.writeln("		214期杀1头单√<br>	");
 document.writeln("						");
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -230,6 +242,8 @@ document.writeln("		210期杀1.8尾√<br>");
 document.writeln("		211期杀5.8尾×<br>");
 document.writeln("		212期杀6.9尾√<br>");
 document.writeln("		213期杀8.7尾√<br>");
+
+document.writeln("		214期杀9.4尾√<br>");
 document.writeln("		");
 document.writeln("");
 document.writeln("			    ");

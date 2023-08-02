@@ -23,7 +23,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62102b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『绝杀12码』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62103b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『绝杀12码』</font></b></table>");
 document.writeln("");
 
 document.writeln("");
@@ -41,7 +41,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>213期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【42.22.34.25.38.05.40.26.16.18.20.11】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>214期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【12.10.40.25.37.47.44.04.16.13.34.23】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->    ");
 

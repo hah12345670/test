@@ -23,7 +23,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62102b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『绝杀10码』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62103b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『绝杀10码』</font></b></table>");
 
 
 document.writeln("   <!--开始-->  ");
@@ -42,8 +42,8 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>213期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
-document.writeln("		【10.06.15.20.43.41.37.01.42.07】</font></span><span style=\'font-size: 14pt\'>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>214期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【11.44.12.22.46.21.38.25.08.40】</font></span><span style=\'font-size: 14pt\'>");
 document.writeln("		</span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

@@ -8,7 +8,7 @@ document.writeln("");
 document.writeln("<body>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>62102b.com</font><font color=\'#FFFFFF\'>『正+另版输尽光』</font></font></b></table>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>62103b.com</font><font color=\'#FFFFFF\'>『正+另版输尽光』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -26,94 +26,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("                                                 <!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>213期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(猴+狗)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>？</font>准</font></b></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>214期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(猴+羊)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>？</font>准</font></b></table>");
 document.writeln("        <!--结束-->      ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>212期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(羊+牛)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>马</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>209期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(猴+鸡)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>鼠</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>208期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(狗+猪)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>鼠</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>207期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(鼠+虎)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>兔</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>206期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(狗+鸡)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>虎</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>205期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(龙+鸡)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>蛇</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>204期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(鸡+蛇)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>牛</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>203期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(虎+猴)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>兔</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-document.writeln("");
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>202期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(狗+牛)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>鼠</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>201期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(猴+龙)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>牛</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
-document.writeln("");
-document.writeln("                                                 <!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>200期</font><font face=\'微软雅黑\'>正另版买</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(虎+蛇)</font><font size=\'4\' face=\'楷体\'>输尽光</font><font face=\'楷体\'>开<font color=\'#0000FF\'>猴</font>准</font></b></table>");
-document.writeln("        <!--结束-->      ");
-
 
 
 document.writeln("");

@@ -33,12 +33,20 @@ document.writeln("  </tr>");
 document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>215期一语中特【隔宿之仇】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：隔夜的仇怨。解蛇龙马猪虎鼠</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙马猪虎鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>214期一语中特【春蛙秋蝉】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：春天蛙叫，秋天蝉鸣。比喻喧闹夸张、空洞无物的言谈。解鸡羊猪蛇虎马</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡羊猪蛇虎马开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡羊猪蛇<span style=\'background-color: #FFFF00\'>虎</span>马开虎14准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -71,9 +79,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>214期一语中特【富富有余】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容东西量多,满足需要外,还有富余。解猪狗兔鼠龙猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪狗兔鼠龙猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>215期一语中特【悲欢聚散】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：人世间悲与欢、聚与散的遭遇和心情。解龙鼠羊猪虎鸡</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙鼠羊猪虎鸡开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

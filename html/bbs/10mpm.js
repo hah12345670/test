@@ -14,8 +14,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
+
 document.writeln("");
-document.writeln("214期：平码【35.09.30.26.14.45.03.28.10.41.47.40】<br>");
+document.writeln("215期：平码【04.07.22.41.47.32.09.37.02.46.08.28】<br>");
 document.writeln("");
 
 

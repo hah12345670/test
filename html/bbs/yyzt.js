@@ -35,9 +35,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>215期一语中特【隔宿之仇】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：隔夜的仇怨。解蛇龙马猪虎鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙马猪虎鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>216期一语中特【左右逢源】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：处遇到充足的水源。指做事得心应手，怎样进行都很顺利。解猪龙虎狗羊牛</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪龙虎狗羊牛开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -79,9 +79,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>215期一语中特【悲欢聚散】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：人世间悲与欢、聚与散的遭遇和心情。解龙鼠羊猪虎鸡</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙鼠羊猪虎鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>216期一语中特【鹰派人物】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻立场强硬,行动直接,且好战、勇猛。解牛羊兔蛇虎猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛羊兔蛇虎猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

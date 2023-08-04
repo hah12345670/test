@@ -16,8 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("215期：平码【04.07.22.41.47.32.09.37.02.46.08.28】<br>");
+document.writeln("216期：平码【21.01.24.06.37.29.41.32.19.43.08.04】<br>");
 document.writeln("");
+
 
 
 document.writeln("");

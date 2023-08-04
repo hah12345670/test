@@ -20,9 +20,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("215期<font color=\'#FF00FF\'>（鼠狗龙+6540尾）</font>开？00</font></b></font></table>");
+document.writeln("216期<font color=\'#FF00FF\'>（马羊猪+2985尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

@@ -22,10 +22,19 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>216期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【赶尽杀绝】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>217期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【争权夺利】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：乙未日 属性：金 地支六冲：羊日：冲牛，克鼠，破虎，无兔， 六合：马；三合：兔猪。空亡肖：牛龙</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>216期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【赶尽杀绝】</font><font color=\'#0033CC\'>开龙36<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：甲午日 属性：金 地支六冲：马日：冲鼠，克牛，破牛，无虎， 六合：羊；三合：虎狗。空亡肖：鼠龙</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("");

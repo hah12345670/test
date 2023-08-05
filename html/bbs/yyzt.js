@@ -33,11 +33,22 @@ document.writeln("  </tr>");
 document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
+
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>217期一语中特【无所遁形】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：没有地方可以隐藏形迹、身影，赤裸裸的展现在人们面前。解兔马虎龙猴鼠</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马虎龙猴鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>216期一语中特【左右逢源】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：处遇到充足的水源。指做事得心应手，怎样进行都很顺利。解猪龙虎狗羊牛</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪龙虎狗羊牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪<span style=\'background-color: #FFFF00\'>龙</span>虎狗羊牛开龙36准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -79,9 +90,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>216期一语中特【鹰派人物】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻立场强硬,行动直接,且好战、勇猛。解牛羊兔蛇虎猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛羊兔蛇虎猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>217期一语中特【异姓骨肉】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：虽然不同姓但像骨肉兄弟一样亲近。解羊牛马鼠鸡狗</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠鸡狗开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

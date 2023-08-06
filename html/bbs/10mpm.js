@@ -14,13 +14,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-
 document.writeln("");
-document.writeln("217期：平码【24.30.42.23.49.37.18.38.22.28.35.39】<br>");
 document.writeln("");
-
-
-
+document.writeln("218期：平码【23.19.31.10.30.13.26.22.01.44.18.34】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("217期：平码【24.30.42.23.49.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\'background-color: #FFFF00\'>37.</span><span style=\'background-color: #000000\'>18</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.38.22.28.35.39】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -38,9 +38,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>217期一语中特【无所遁形】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：没有地方可以隐藏形迹、身影，赤裸裸的展现在人们面前。解兔马虎龙猴鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马虎龙猴鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>218期一语中特【三山五狱】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：五岳:泰山、华山、衡山、嵩山、恒山。泛指名山或各地。解蛇马龙狗兔猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马龙狗兔猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -87,12 +87,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>218期一语中特【万箭穿心】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：犹万箭攒心。形容万分伤痛。解龙马羊鸡牛蛇</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马羊鸡牛蛇开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>217期一语中特【异姓骨肉】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：虽然不同姓但像骨肉兄弟一样亲近。解羊牛马鼠鸡狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠鸡狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠鸡<span style=\'background-color: #FFFF00\'>狗</span>开狗18</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

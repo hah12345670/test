@@ -23,11 +23,19 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>218期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【一萧风月】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>219期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【牛鬼蛇神】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丁酉日 属性：火 地支六冲：鸡日：冲兔，克狗，破龙，无蛇， 六合：龙；三合：牛蛇。空亡肖：兔龙</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>218期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【一萧风月】</font><font color=\'#0033CC\'>开鸡19<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丙申日 属性：火 地支六冲：猴日：冲虎，克猪，破兔，无龙， 六合：蛇；三合：鼠龙。空亡肖：虎龙</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("");

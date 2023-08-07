@@ -30,22 +30,11 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>218期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>219期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【牛虎马猴狗猪】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【鼠兔龙蛇羊鸡】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>15.27.02.38.22.46.08.20.06.30.17.41</table>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>216期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【鼠兔<span style=\'background-color: #FFFF00\'>龙</span>蛇羊鸡】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>04.40.25.37.12.48.23.47.21.33.31.43</table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>04.40.13.49.24.48.23.47.09.21.31.43</table>");
 document.writeln("");
 
 

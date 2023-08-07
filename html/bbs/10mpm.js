@@ -16,7 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("218期：平码【23.19.31.10.30.13.26.22.01.44.18.34】<br>");
+document.writeln("219期：平码【11.13.06.35.47.15.08.17.10.39.40.09】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("218期：平码【23.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #000000\">19</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.</font><font style=\'font-weight:700\' face=\'微软雅黑\'><span style=\"background-color: #FFFF00\"><font color=\"#FF0000\" size=\"5\">31.10</font></span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.30.13.26.22.01.44.18.34】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

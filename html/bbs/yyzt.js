@@ -38,28 +38,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>218期一语中特【三山五狱】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：五岳:泰山、华山、衡山、嵩山、恒山。泛指名山或各地。解蛇马龙狗兔猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【旁门歪道】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指不正经的东西；亦指不正经。解鸡虎猪牛鼠兔</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马龙狗兔猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>216期一语中特【左右逢源】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：处遇到充足的水源。指做事得心应手，怎样进行都很顺利。解猪龙虎狗羊牛</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪<span style=\'background-color: #FFFF00\'>龙</span>虎狗羊牛开龙36准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>214期一语中特【春蛙秋蝉】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：春天蛙叫，秋天蝉鸣。比喻喧闹夸张、空洞无物的言谈。解鸡羊猪蛇虎马</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡羊猪蛇<span style=\'background-color: #FFFF00\'>虎</span>马开虎14准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 
@@ -89,12 +74,22 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
 
+
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【英明果断】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：思想出色明智，做事果敢。解马羊牛蛇狗虎</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马羊牛蛇狗虎开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>218期一语中特【万箭穿心】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：犹万箭攒心。形容万分伤痛。解龙马羊鸡牛蛇</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马羊鸡牛蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马羊<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇开鸡19准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

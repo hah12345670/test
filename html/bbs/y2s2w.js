@@ -81,9 +81,10 @@ document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-h
 document.writeln("218期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.2】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">鸡19准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("");
+
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("219期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【9.0】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("220期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【7.5】<span style=\'color:#960\'>开</span><span style=\"background-color: #FF0000\"><font color=\"#FFFF00\">肖00准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table>");
 document.writeln("");

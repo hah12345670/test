@@ -34,13 +34,24 @@ document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
 
+
 document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>220期一语中特【破壳而出】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：破壳而出 破壳而出的意思。解蛇龙狗马虎牛</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙狗马虎牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【旁门歪道】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指不正经的东西；亦指不正经。解鸡虎猪牛鼠兔</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马龙狗兔猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>马</span>龙狗兔猴开马10准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -74,13 +85,22 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>220期一语中特【生拼硬凑】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：勉强拼凑。解鼠猪兔猴羊鸡</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠猪兔猴羊鸡开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【英明果断】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：思想出色明智，做事果敢。解马羊牛蛇狗虎</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马羊牛蛇狗虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>马</span>羊牛蛇狗虎开马10准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

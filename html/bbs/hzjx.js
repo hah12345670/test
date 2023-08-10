@@ -16,6 +16,19 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>民间彩友</font><font color=\'#FFFFFF\'>『解红字肖』</font></font></b></table>");
 document.writeln("");
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>222期红字暗码【傍门依户】【02 18 33 40】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：傍：依傍，靠着；门、户：家。依靠在别人门庭上。指依赖别人，不能自立。解羊猴龙蛇猪狗虎</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：羊猴龙蛇猪狗虎</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -23,7 +36,7 @@ document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>221期红字暗码【头撞南墙】【05 28 34 39】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：撞：撞击。指认死理。用这种现象比喻某人的行为固执,听不进不同意见。解鸡狗蛇猴牛鼠虎</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：鸡狗蛇猴牛鼠虎</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：鸡狗蛇猴牛鼠<span style=\'background-color: #FFFF00\'>虎</span></font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");

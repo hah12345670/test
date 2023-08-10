@@ -31,14 +31,13 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 
-
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>221期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>222期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("关注62103c.com<BR>");
 document.writeln("关注62103c.com</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：正在来料，关注论坛</font><font style=\'font-size: 13pt\'><br>");
@@ -46,6 +45,24 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：www.62103c.com<br>");
 document.writeln("			四肖：www.62103c.com<br>");
 document.writeln("			特码：www.62103c.com			</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>221期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("满马尘埃面黧黑<BR>");
+document.writeln("盛事许同花烛夜</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：面黧黑解黑肖鼠牛猴鸡龙蛇，花烛夜解夜肖鼠牛虎鸡狗猪</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鼠牛鸡狗猪龙<span style=\'background-color: #FFFF00\'>虎</span><br>");
+document.writeln("			四肖：鼠牛鸡狗<br>");
+document.writeln("			特码：04.16.15.39.19.31.30.42.17.29.24.48.02.14			</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

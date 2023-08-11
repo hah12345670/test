@@ -29,20 +29,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>222期</font>【<font color=\'#FF0000\'>独肖:羊马兔</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>223期</font>【<font color=\'#FF0000\'>合肖:猴鸡狗</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>219期</font>【<font color=\'#FF0000\'>独肖:牛虎兔</font>】开<font color=\'#FF00FF\'>(马10)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>218期</font>【<font color=\'#FF0000\'>合肖:猴猪<span style=\'background-color: #FFFF00\'>鸡</span></font>】开<font color=\'#FF00FF\'>(鸡19)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
+
 
 
 document.writeln("");

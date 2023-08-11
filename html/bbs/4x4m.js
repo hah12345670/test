@@ -42,36 +42,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第222期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.羊21.兔49.马22】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第223期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪17.鼠40.羊21.龙48】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第218期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪17.<span style=\'background-color: #FFFF00\'>鸡</span>43.鼠16.猴20】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第217期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇23.<span style=\'background-color: #FFFF00\'>狗</span>30.鼠16.马10】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第215期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊33.龙48.<span style=\'background-color: #FFFF00\'>兔</span>25.猪41】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
+
 
 
 document.writeln("");

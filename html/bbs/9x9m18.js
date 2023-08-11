@@ -35,21 +35,22 @@ document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62103a.com）�
 document.writeln("	<div class=\'bizhong2-box\'>");
 document.writeln("    	<div class=\'bizhong2-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>222期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪猴牛龙鼠虎蛇</font></li>");
-document.writeln("            	<li><font size=\'3\'>222期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪猴牛龙鼠</font></li>");
-document.writeln("            	<li><font size=\'3\'>222期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊兔猪猴牛</font></li>");
-document.writeln("            	<li><font size=\'2\'>222期必中18码：</font><font size=\'2\' color=\'#FF0000\'>21.45.01.49.17.41.20.44.15.39.24.48.04.40.14.38.23.47</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>222期必中九码：</font><font size=\'2\' color=\'#FF0000\'>21.49.17.44.39.48.40.14.23</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>223期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>羊鼠鸡蛇马猪狗虎牛</font></li>");
+document.writeln("            	<li><font size=\'3\'>223期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊鼠鸡蛇马猪狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>223期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊鼠鸡蛇马</font></li>");
+document.writeln("            	<li><font size=\'2\'>223期必中18码：</font><font size=\'2\' color=\'#FF0000\'>09.33.16.28.31.43.11.47.22.46.05.41.30.42.02.14.27.39</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>223期必中九码：</font><font size=\'2\' color=\'#FF0000\'>33.16.43.11.46.05.42.14.39</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>222期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>羊21</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>223期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>羊33</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong2\'>");
 document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62103a.com）九肖九码</div>");

@@ -1,4 +1,4 @@
-﻿
+﻿document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
@@ -10,7 +10,7 @@ document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
+document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln(" ");
 document.writeln("");
 document.writeln("");
@@ -29,14 +29,11 @@ document.writeln("			特码：www.62103c.com			</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>223期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>224期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("关注62103c.com<BR>");
 document.writeln("关注62103c.com</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：正在来料，关注论坛</font><font style=\'font-size: 13pt\'><br>");
@@ -44,6 +41,22 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：www.62103c.com<br>");
 document.writeln("			四肖：www.62103c.com<br>");
 document.writeln("			特码：www.62103c.com			</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>224期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("离愁渐远渐无穷<BR>");
+document.writeln("迢迢不断如春水</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：无穷解无边肖兔马羊虎牛鼠，春水解春肖龙虎兔，水肖猪鼠</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猪鼠牛马虎兔<span style=\'background-color: #FFFF00\'>羊</span><br>");
+document.writeln("			四肖：猪鼠牛马<br>");
+document.writeln("			特码：05.17.04.16.03.15.10.22.02.14.013.25.<span style=\'background-color: #FFFF00\'>09</span>.21</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -66,7 +79,7 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -116,9 +129,9 @@ document.writeln("			特码：07.43.21.33.13.25.04.14.22.15.39</font></b></td>")
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -138,10 +151,11 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("</table>");
 document.writeln("</tbody>");
+document.writeln("");

@@ -16,7 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("223期：平码【36.29.39.21.16.30.18.15.04.17.33.34】<br>");
+document.writeln("224期：平码【04.30.44.17.10.40.05.15.20.34.26.31】<br>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("222期：平码【36.45.48.49.47.06.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">04</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.28.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">34.</span><span style=\"background-color: #000000\">31</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.23.21】<br>");

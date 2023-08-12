@@ -1,4 +1,4 @@
-﻿
+﻿document.writeln("");
 document.writeln("");
 document.writeln("	<div class=\'a1\'>");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
@@ -11,7 +11,7 @@ document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
+document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln(" ");
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -48,14 +48,13 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			223期<font color=\'#FF0000\'>【关注62103a.com】</font>");
+document.writeln("			224期<font color=\'#FF0000\'>【关注62103a.com】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62103c.com</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：来料<br>");
@@ -65,6 +64,7 @@ document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
@@ -132,9 +132,10 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("</table></div> ");
+document.writeln("");

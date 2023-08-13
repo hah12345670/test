@@ -41,7 +41,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第224期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马22.鸡31.龙48.牛15】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第225期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.兔25.蛇11.羊45】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

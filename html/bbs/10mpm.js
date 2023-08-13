@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("224期：平码【04.30.44.17.10.40.05.15.20.34.26.31】<br>");
+document.writeln("225期：平码【25.04.20.05.21.33.41.09.07.37.11.02】<br>");
 document.writeln("");
 
 document.writeln("");

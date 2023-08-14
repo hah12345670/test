@@ -16,8 +16,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("225期：平码【25.04.20.05.21.33.41.09.07.37.11.02】<br>");
 document.writeln("");
+document.writeln("226期：平码【20.37.24.16.46.45.15.49.31.32.39.05】<br>");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("");

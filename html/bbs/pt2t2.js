@@ -17,8 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("225期：平特【龙蛇拖马牛】开？00<br>");
+document.writeln("226期：平特【羊蛇拖鼠猪】开？00<br>");
 document.writeln("------<br>");
+
 
 document.writeln("224期：平特【<span style=\'background-color: #FFFF00\'>狗鼠</span>拖<span style=\'background-color: #FFFF00\'>鸡兔</span>】开28.42.07.25<br>");
 document.writeln("------<br>");

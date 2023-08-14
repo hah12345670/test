@@ -39,40 +39,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>225期一语中特【心不由己】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻坏主意还没有打消。解羊兔狗猴马龙</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊兔狗猴马龙开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>226期一语中特【云游天下】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：像行云一样在天下漂游，指漫游天下。解猪蛇马羊兔龙</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪蛇马羊兔龙开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>222期一语中特【倾注全力】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：把所有力量集中在一个目标。解牛蛇虎龙鸡猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛蛇虎龙<span style=\'background-color: #FFFF00\'>鸡</span>猪开鸡31准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>221期一语中特【悄无人声】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指非常寂静。解鼠蛇虎马鸡猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙狗马<span style=\'background-color: #FFFF00\'>虎</span>牛开虎38准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【旁门歪道】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指不正经的东西；亦指不正经。解鸡虎猪牛鼠兔</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>马</span>龙狗兔猴开马10准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 
@@ -105,60 +77,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>225期一语中特【硝烟弥漫】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：硝烟，爆炸后产生的烟雾。解狗马羊蛇兔鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗马羊蛇兔鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>226期一语中特【伸大拇指】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：表示自己对某句话或是某件事之激赏。解羊兔狗鼠猴牛</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊兔狗鼠猴牛开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>222期一语中特【宇量深广】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容人的度量宏远。解猴狗马鸡虎羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴狗马<span style=\'background-color: #FFFF00\'>鸡</span>虎羊开鸡31准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>220期一语中特【生拼硬凑】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：勉强拼凑。解鼠猪兔猴羊鸡</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠猪兔<span style=\'background-color: #FFFF00\'>猴</span>羊鸡开猴20准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>219期一语中特【英明果断】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：思想出色明智，做事果敢。解马羊牛蛇狗虎</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>马</span>羊牛蛇狗虎开马10准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>218期一语中特【万箭穿心】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：犹万箭攒心。形容万分伤痛。解龙马羊鸡牛蛇</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马羊<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇开鸡19准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>217期一语中特【异姓骨肉】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：虽然不同姓但像骨肉兄弟一样亲近。解羊牛马鼠鸡狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠鸡<span style=\'background-color: #FFFF00\'>狗</span>开狗18</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 

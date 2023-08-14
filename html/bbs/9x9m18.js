@@ -28,17 +28,43 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
+
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong2\'>");
 document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62103a.com）九肖九码</div>");
 document.writeln("	<div class=\'bizhong2-box\'>");
 document.writeln("    	<div class=\'bizhong2-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>225期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛羊虎兔鼠猴猪鸡狗</font></li>");
-document.writeln("            	<li><font size=\'3\'>225期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛羊虎兔鼠猴猪</font></li>");
+document.writeln("            	<li><font size=\'3\'>226期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>狗兔龙猴羊猪虎牛马</font></li>");
+document.writeln("            	<li><font size=\'3\'>226期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>狗兔龙猴羊猪虎</font></li>");
+document.writeln("            	<li><font size=\'3\'>226期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>狗兔龙猴羊</font></li>");
+document.writeln("            	<li><font size=\'2\'>226期必中18码：</font><font size=\'2\' color=\'#FF0000\'>18.30.25.37.12.36.08.20.09.21.17.41.26.38.15.39.22.46</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>226期必中九码：</font><font size=\'2\' color=\'#FF0000\'>18.25.36.08.21.41.38.39.22</span></font></li>");
+document.writeln("");
+document.writeln("            	");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("    </div>");
+document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>226期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>狗18</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期结束-->");
+document.writeln("");
+
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong2\'>");
+document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62103a.com）九肖九码</div>");
+document.writeln("	<div class=\'bizhong2-box\'>");
+document.writeln("    	<div class=\'bizhong2-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li><font size=\'3\'>225期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛羊虎兔鼠猴<span style=\'background-color: #FFFF00\'>【猪】</span>鸡狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>225期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛羊虎兔鼠猴<span style=\'background-color: #FFFF00\'>【猪】</span></font></li>");
 document.writeln("            	<li><font size=\'3\'>225期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>牛羊虎兔鼠</font></li>");
-document.writeln("            	<li><font size=\'2\'>225期必中18码：</font><font size=\'2\' color=\'#FF0000\'>03.15.21.45.02.26.16.40.20.32.17.41.31.43.06.30</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>225期必中九码：</font><font size=\'2\' color=\'#FF0000\'>15.21.26.40.20.41.31.30</span></font></li>");
+
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");

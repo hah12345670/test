@@ -88,7 +88,12 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("225-227期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("226-228期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("225-227期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>225期中中中！</font>");
 
 
 document.writeln("");

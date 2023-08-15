@@ -22,11 +22,22 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>226期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【谋智谋策】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>227期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【十拿九稳】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：乙巳日 属性：火 地支六冲：蛇日：冲猪，克虎，破鼠，无牛， 六合：猴；三合：牛鸡。空亡肖：虎猪</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("    ");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>226期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【谋智谋策】</font><font color=\'#0033CC\'>开猴20<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：甲辰日 属性：火 地支六冲：龙日：冲狗，克兔，破猪，无鼠， 六合：鸡；三合：鼠猴。空亡肖：马羊</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("    ");

@@ -33,7 +33,25 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("");
 
 
+
 document.writeln("");
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第227期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    猴08.44猪17.29马10.34<br>");
+document.writeln("		牛15.39虎02.14狗30.42<br>");
+document.writeln("		龙12.36鸡31.43兔25.49<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -43,7 +61,7 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第226期<font color=
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    猪05.17龙24.36猴32.44<br>");
+document.writeln("	    猪05.17龙24.36<font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">猴</span></font>32.44<br>");
 document.writeln("		马10.34虎02.38鸡19.43<br>");
 document.writeln("		羊21.33兔25.49鼠28.40<br>");
 document.writeln("		  </font>  ");

@@ -37,9 +37,9 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>226期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>227期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("羊狗虎兔牛猪鼠龙马</span></td><td>");
+document.writeln("马龙猪狗羊兔鼠蛇虎</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 
 document.writeln("");

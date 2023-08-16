@@ -16,92 +16,9 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>227期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>？00准</span></font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>228期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>？00准</span></font></td></tr>");
 document.writeln("<!-----结束--->");
 document.writeln("");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>225期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>猪29准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>223期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>羊09准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>222期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>鸡31准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>221期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>虎38准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>220期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>猴20准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>218期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>鸡19准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>217期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>狗18准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>215期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>单数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>兔49准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>214期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>虎14准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>213期</span>:<span style=\'color: #800000;\'>精准单双</span>〖<span style=\'color: #F00;\'>双数</span>〗开：<span style=\'background-color: #FFFF00; color: #F00;\'>狗42准</span></font></td></tr>");
-document.writeln("<!-----结束--->");
 document.writeln("");
 
 

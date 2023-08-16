@@ -17,6 +17,18 @@ document.writeln("<!------开始------>");
 document.writeln("");
 
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
+document.writeln("<span style=\'color: #FF0000;\'>228期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
+document.writeln("【马龙猪】【狗猴龙】【猴马兔】</font></td></tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【鸡猪马】【蛇鸡羊】【鼠蛇马】</font><font color=\'#008000\'> </font>");
+document.writeln("</td></tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
@@ -25,7 +37,7 @@ document.writeln("<span style=\'color: #FF0000;\'>227期(2)连4.2倍(3)连11.12�
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【鼠兔蛇】【蛇鸡鼠】【羊兔鸡】</font></td></tr>");
+document.writeln("【鼠兔蛇】【蛇鸡鼠】<span style=\'background-color: #FFFF00\'>【羊兔鸡】</span></font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【牛鸡猴】【猪羊龙】【兔虎龙】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");

@@ -25,16 +25,10 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("227期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>0-7-2-4-6-5</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("228期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>6-0-8-3-1-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("225期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\"background-color: #FFFF00\">4-2-6-8</span>-5-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

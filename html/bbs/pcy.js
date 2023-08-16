@@ -37,10 +37,22 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第227期：家丑外扬<Br></font>  ");
+document.writeln("		<font color=\'#FF0000\'>第228期：大地开花<Br></font>  ");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
 document.writeln("		解：关注62103b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("               <!--开始--> ")
+document.writeln("               <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
+document.writeln("		<font color=\'#FF0000\'>第227期：家丑外扬<Br></font>  ");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
+document.writeln("		解：家食，丑肖（牛03）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> ")
@@ -179,178 +191,6 @@ document.writeln("		解：野兽（兔49）</font><font color=\'#FF0000\' face=\
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第212期：心大够野<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：大肖（马34）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第211期：小心后院<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：小肖（鼠28）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第210期：家中丑闻<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：家禽（鸡07）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第209期：大地之子<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：地肖（鼠40）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第208期：天下丑闻<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：丑肖（鼠28）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第207期：野兵天外<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：野兽，天肖（兔49）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第206期：双喜临门<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：双肖（虎38）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第205期：大地之子<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：地肖（蛇11）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第204期：天下一家<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：天肖，家禽（牛03）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第203期：前院美景<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：前肖，美肖（兔25）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第201期：攻城野战<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：战肖（牛03）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第200期：天下大事<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：天肖（猴44）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第199期：男人主家<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：男肖（猴08）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-document.writeln("               <!--开始--> ");
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第198期：大地之春<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：大肖，地肖（狗18）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ")
-
 
 
 document.writeln("");

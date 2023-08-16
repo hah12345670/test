@@ -6,61 +6,11 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("218期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【火木<span style=\'background-color: #FFFF00\'>水</span>土】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>鸡19准</font></span></strong></span></p></td></tr>");
-document.writeln("");
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("219期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【木土水<span style=\'background-color: #FFFF00\'>金</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>马10准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("220期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【火木金<span style=\'background-color: #FFFF00\'>水</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>猴20准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("221期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【木金水<span style=\'background-color: #FFFF00\'>火</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>虎38准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("222期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【水<span style=\'background-color: #FFFF00\'>金</span>木土】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>鸡31准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("223期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【土<span style=\'background-color: #FFFF00\'>金</span>木火】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>羊09准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("224期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【<span style=\'background-color: #FFFF00\'>火</span>土水金】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>羊45准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("225期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【土金水<span style=\'background-color: #FFFF00\'>火</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>猪29准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
-document.writeln("227期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【水火金木】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
+document.writeln("228期</span><span style=\'color:#c30\'>资料网");
+document.writeln("</span><span style=\'color:#060\'>澳门</span>【土木金水】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial;font-weight:700\'><span style=\'font-size:15pt;color:red\'>");
 document.writeln("【金】01 02 09 10 23 24 31 32 39 40<br></span><span style=\'font-size:15pt\'><span style=\'color:green\'>");

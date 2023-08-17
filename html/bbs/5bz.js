@@ -16,72 +16,78 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("");
-
-
-
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("				<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>229期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>45.41.33.03.39</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>228期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>20.05.03.38.13</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>227期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>26.40.04.22.35</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>226期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>44.33.29.07.47</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
+document.writeln("	<!--结束-->");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>225期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>28.19.47.44.45</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>224期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>43.06.19.49.46</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>223期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>04.16.23.49.32</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-
+document.writeln("	<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>221期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>40.12.46.23.36</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-
-
+document.writeln("	<!--结束-->");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>220期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>10.06.49.28.45</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->"
-
-
-
+document.writeln("	<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</a></strong></tr></table>");

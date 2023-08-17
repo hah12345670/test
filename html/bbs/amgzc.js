@@ -51,9 +51,20 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.jixingkaisuo.com:4949/col/228/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/229/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+document.writeln("");
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【信口开合】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻随口乱说一气。解鼠龙马狗猪兔</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鼠龙马狗猪兔</font></b><br>");
+document.writeln("==========================<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("</P>");
@@ -63,7 +74,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【不三不四】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：谓不伦不类，不像样子的。解兔鼠猪鸡狗蛇</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠猪鸡狗蛇</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠<span style=\'background-color: #FFFF00\'>猪</span>鸡狗蛇</font></b><br>");
 document.writeln("==========================<br>");
 
 document.writeln("</P>");
@@ -99,12 +110,19 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.jixingkaisuo.com:4949/col/228/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/229/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("</P>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第228期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【要红要蓝自己挑】</span></font><br>");
+document.writeln("==========================<br>");
+
+
+document.writeln("</P>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第228期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红29中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【柳树红果丰收期】</span></font><br>");
 document.writeln("==========================<br>");
 

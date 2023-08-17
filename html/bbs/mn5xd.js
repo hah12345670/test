@@ -45,7 +45,7 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("228期【羊鼠龙蛇猴马狗牛兔虎】√<br>		");
+document.writeln("229期【龙牛猴蛇兔马狗虎羊鸡】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -64,8 +64,8 @@ document.writeln("<!--四头-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老二主四头】√</font><font size=\'4\'><br>");
-
-document.writeln("	228期【3120头】√<br>		");
+document.writeln("	228期【31<span style=\'background-color: #FFFF00\'>2</span>0头】√<br>		");
+document.writeln("	229期【4023头】√<br>		");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -81,7 +81,8 @@ document.writeln("<font size=\'4\' color=\'#0000FF\'>【老三主四行】√</f
 document.writeln("225期【金水土<span style=\'background-color: #FFFF00\'>火</span>】√<br>			");
 document.writeln("226期【金土<span style=\'background-color: #FFFF00\'>水</span>火】√<br>			");
 document.writeln("227期【<span style=\'background-color: #FFFF00\'>土</span>木水金】√<br>			");
-document.writeln("228期【木水火土】√<br>			");
+document.writeln("228期【木水<span style=\'background-color: #FFFF00\'>火</span>土】√<br>			");
+document.writeln("229期【水金土木】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -102,7 +103,8 @@ document.writeln("	224期【6140782<span style=\'background-color: #FFFF00\'>5</
 document.writeln("	225期【4026<span style=\'background-color: #FFFF00\'>9</span>583】√<br>	");
 document.writeln("	226期【9834<span style=\'background-color: #FFFF00\'>0</span>526】√<br>	");
 document.writeln("	227期【8961072<span style=\'background-color: #FFFF00\'>3</span>】√<br>	");
-document.writeln("	228期【45629137】√<br>	");
+document.writeln("	228期【4562<span style=\'background-color: #FFFF00\'>9</span>137】√<br>	");
+document.writeln("	229期【80326479】√<br>	");
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -115,7 +117,7 @@ document.writeln("<!--双波-->");
 document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老五主双波】√</font><font size=\'4\'><br>     ");
 
 
-document.writeln("228期【蓝波绿波】√<br>  	");
+document.writeln("229期【绿波蓝波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

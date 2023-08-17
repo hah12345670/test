@@ -39,9 +39,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>228期一语中特【大败而逃】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指吃了败仗慌张逃跑。解鼠狗马兔龙猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠狗马兔龙猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>229期一语中特【十劲冲天】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：做事的积极性冲入蓝天,指情绪激越高亢。解牛虎鸡猪猴兔</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛虎鸡猪猴兔开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -76,25 +76,26 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>229期一语中特【果如其言】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：果然象他说的那样。指事情的变化和预想的一样。解狗猪羊猴虎牛</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗猪羊猴虎牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>228期一语中特【蜀得其龙】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是蜀国得到诸葛亮。解猪虎龙猴蛇羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪虎龙猴蛇羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>猪</span>虎龙猴蛇羊开猪29准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 
 
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>226期一语中特【伸大拇指】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：表示自己对某句话或是某件事之激赏。解羊兔狗鼠猴牛</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊兔狗鼠<span style=\'background-color: #FFFF00\'>猴</span>牛开猴20准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 

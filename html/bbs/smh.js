@@ -13,7 +13,7 @@ document.writeln("");
 document.writeln(".bizhong567 img {width:100%;height:100%; border-collapse: collapse; font-weight: bold;}");
 document.writeln("</style>");
 document.writeln(" ");
-document.writeln("<div class=\'bizhong567 clearfix\'><img src=\'img/feicui/228.jpg\' id=\'123sjkjpicx567\'>");
+document.writeln("<div class=\'bizhong567 clearfix\'><img src=\'img/feicui/229.jpg\' id=\'123sjkjpicx567\'>");
 document.writeln("    <div class=\'bizhong567-box action-bz\'>");
 document.writeln("    </div>");
 document.writeln("    ");
@@ -25,30 +25,15 @@ document.writeln("    <span class=\'bizhong567-btn bizhong567-next\' onclick=\'n
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrx567=new Array(");
-
+document.writeln("\'img/feicui/229.jpg\',");
 document.writeln("\'img/feicui/228.jpg\',");
 document.writeln("\'img/feicui/227.jpg\',");
 document.writeln("\'img/feicui/226.jpg\',");
 document.writeln("\'img/feicui/225.jpg\',");
 document.writeln("\'img/feicui/224.jpg\',");
-document.writeln("\'img/feicui/223.jpg\',");
-document.writeln("\'img/feicui/222.jpg\',");
-document.writeln("\'img/feicui/221.jpg\',");
-document.writeln("\'img/feicui/220.jpg\',");
-document.writeln("\'img/feicui/219.jpg\',");
-document.writeln("\'img/feicui/218.jpg\',");
-document.writeln("\'img/feicui/217.jpg\',");
-document.writeln("\'img/feicui/216.jpg\',");
-document.writeln("\'img/feicui/215.jpg\',");
-document.writeln("\'img/feicui/214.jpg\',");
-document.writeln("\'img/feicui/213.jpg\',");
-document.writeln("\'img/feicui/212.jpg\',");
-document.writeln("\'img/feicui/211.jpg\',");
-document.writeln("\'img/feicui/210.jpg\',");
-document.writeln("\'img/feicui/209.jpg\',");
 
 
-document.writeln("\'img/feicui/208.jpg\'");
+document.writeln("\'img/feicui/223.jpg\'");
 document.writeln(");");
 document.writeln("    var indexx=0;");
 document.writeln("    function nextx567(){");

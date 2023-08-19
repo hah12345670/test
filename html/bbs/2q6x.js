@@ -61,7 +61,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("000-000期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【稍后正在来料】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("230-231期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【兔马猪鼠羊牛】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
@@ -73,7 +73,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("228-229期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鸡蛇兔羊鼠牛】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("228-229期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鸡蛇兔<font color=\'#FF0000\' size=\"5\"><span style=\"background-color: #FFFF00\">羊</span></font>鼠牛】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>229</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

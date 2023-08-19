@@ -45,18 +45,20 @@ document.writeln("		<b>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("	229期（平5*4+特-D6+平2+正3-2）=杀羊马√<br>		");
+document.writeln("	230期（平5*4+特-D6+平2+正3-2）=杀虎猴√<br>		");
+document.writeln("	231期（平5*4+特-D6+平2+正3-2）=杀马狗√<br>		");
 document.writeln("		");
 document.writeln("<br>		");
-
 document.writeln("      229期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
+document.writeln("      230期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+document.writeln("      231期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("		229期（平5-2-D2+正4）=杀04尾√<br>		");
+document.writeln("		231期（平5-2-D2+正4）=杀48尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -65,6 +67,8 @@ document.writeln("");
 document.writeln("		227期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		228期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		229期（平4+3-D1+正2-平3）=杀0头√<br>		");
+document.writeln("		230期（平4+3-D1+正2-平3）=杀4头√<br>		");
+document.writeln("		231期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("<br>");
 document.writeln("		");
 document.writeln("");
@@ -77,24 +81,28 @@ document.writeln("        <font color=\'#0000FF\'>226期四头=<span style=\'bac
 
 document.writeln("        <font color=\'#0000FF\'>227期四头=<span style=\'background-color: #FFFF00\'>0</span>342√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>228期四头=4<span style=\'background-color: #FFFF00\'>2</span>01√</font><br>	");
-
-document.writeln("        <font color=\'#0000FF\'>229期四头1324√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>229期四头=1<span style=\'background-color: #FFFF00\'>3</span>24√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>230期四头=4120×</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>231期四头=3421√</font><br>	");
 document.writeln("		");
 document.writeln("<br>");
 
-
-document.writeln("		<font color=\'#0000FF\'>229期七肖=狗虎蛇羊猪龙猴√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>229期七肖=狗虎蛇<span style=\'background-color: #FFFF00\'>羊</span>猪龙猴√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>230期七肖=兔猴虎羊猪<span style=\'background-color: #FFFF00\'>龙</span>蛇√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>231期七肖=马虎蛇龙兔猴鼠√</font><br>		");
 document.writeln("		");
 document.writeln("		");
 document.writeln("<br>	");
-
-document.writeln("		<font color=\'#0000FF\'>229期三行=土木金√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>229期三行=<span style=\'background-color: #FFFF00\'>土</span>木金√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>230期三行=<span style=\'background-color: #FFFF00\'>木</span>水金√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>231期三行=金土木√</font><br>			");
 document.writeln("		");
 document.writeln("<br>		");
 
 document.writeln("        <font color=\'#0000FF\'>228期六尾=1<span style=\'background-color: #FFFF00\'>9</span>3756√</font><br>	");
-
-document.writeln("        <font color=\'#0000FF\'>229期六尾=096573√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>229期六尾=09657<span style=\'background-color: #FFFF00\'>3</span>√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>230期六尾=1309<span style=\'background-color: #FFFF00\'>6</span>5√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>231期六尾=409782√</font><br>	");
 document.writeln("		");
 document.writeln("");
 document.writeln("	");

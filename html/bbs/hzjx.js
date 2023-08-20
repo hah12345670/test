@@ -16,13 +16,14 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>民间彩友</font><font color=\'#FFFFFF\'>『解红字肖』</font></font></b></table>");
 document.writeln("");
 
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>229期红字暗码【棺材瓤子】【06 15 29 34】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：指快死的老年人 含诅咒意。解牛兔猪狗龙马鸡</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：牛兔猪狗龙马鸡</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>232期红字暗码【二八女郎】【02 11 36 49】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：二八：指十六岁。十五六岁的美女。指年轻貌美的女子。解虎狗牛鸡猪龙鼠</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：虎狗牛鸡猪龙鼠</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
@@ -33,15 +34,30 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>227期红字暗码【屹然挺立】【02 15 29 34】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：屹然：高耸的样子。像山峰一样高耸而坚定地直立着。解马猪蛇牛兔狗猴</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：马猪蛇<span style=\'background-color: #FFFF00\'>牛</span>兔狗猴</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>231期红字暗码【捅马蜂窝】【01 20 36 42】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：比喻闯祸或敢于得罪厉害的人 对不正之风,我们要有捅马蜂窝的精神。解牛羊鼠龙兔虎蛇</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：牛<span style=\'background-color: #FFFF00\'>羊</span>鼠龙兔虎蛇</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
 document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>230期红字暗码【八难三灾】【01 22 35 40】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：比喻小孩生来多病。也形容经常遭遇不幸。解羊鸡马蛇龙猴兔</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：羊鸡马蛇<span style=\'background-color: #FFFF00\'>龙</span>猴兔</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
+
 
 
 document.writeln("");

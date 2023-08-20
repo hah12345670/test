@@ -28,13 +28,24 @@ document.writeln("		<font color=\'#008000\'><img src=https://tututu.b626102.com:
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
+
 document.writeln("");
 document.writeln("       <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("231期12码:<font color=\"#FF0000\">86281c.com 已更新</font></b></td>");
+document.writeln("232期12码:<font color=\"#FF0000\">86281c.com 已更新</font></b></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("     ");
+document.writeln("");
+document.writeln("       <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("231期12码:<font color=\"#FF0000\">12 36 14 26 09 21 35 47 07 31 22 34</font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("     ");

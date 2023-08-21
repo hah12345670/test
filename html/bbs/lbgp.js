@@ -22,11 +22,20 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>232期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【为虎作伥】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>233期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【才高八斗】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 辛亥日 属性：金 地支六冲：猪日：冲蛇，克猴，破马，无羊， 六合：虎；三合：兔羊。空亡肖：兔蛇</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("    ");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>232期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【为虎作伥】</font><font color=\'#0033CC\'>开兔13<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：庚戌日 属性：金 地支六冲：狗日：冲龙，克鸡，破蛇，无马， 六合：兔；三合：虎马。空亡肖：虎龙</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("    ");

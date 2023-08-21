@@ -16,8 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("232期：平码【06.37.31.15.05.34.20.09.10.47.11.22】<br>");
+document.writeln("233期：平码【02.14.05.12.21.17.43.33.06.24.04.42】<br>");
 document.writeln("");
+
 document.writeln("");
 document.writeln("231期：平码【27.36.22.11.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">41</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.49.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">21</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.10.20.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">16</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.28.30】<br>");
 document.writeln("");

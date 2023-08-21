@@ -32,6 +32,24 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
 
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第233期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    猴08.20兔37.49龙12.48<br>");
+document.writeln("		蛇11.35牛03.39鼠16.40<br>");
+document.writeln("		猪05.41狗30.42虎26.38<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
+
 
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
@@ -44,7 +62,7 @@ document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
 document.writeln("	    鼠16.40鸡31.43蛇11.47<br>");
 document.writeln("		马10.46猴08.20龙12.36<br>");
-document.writeln("		牛03.39羊21.45兔13.49<br>");
+document.writeln("		牛03.39羊21.45<font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">兔13</span></font>.49<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");

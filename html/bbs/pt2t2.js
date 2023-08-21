@@ -19,7 +19,13 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("232期：平特【龙虎拖羊蛇】开？00<br>");
+document.writeln("233期：平特【羊狗拖猪鸡】开？00<br>");
+document.writeln("------<br>");
+
+
+
+document.writeln("");
+document.writeln("232期：平特【<span style=\'background-color: #FFFF00\'>龙虎</span>拖羊<span style=\'background-color: #FFFF00\'>蛇</span>】开24.02.23<br>");
 document.writeln("------<br>");
 
 document.writeln("");

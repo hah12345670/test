@@ -47,7 +47,6 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
-
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
@@ -55,12 +54,29 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			233期<font color=\'#FF0000\'>【关注62103a.com】</font>");
+document.writeln("			234期<font color=\'#FF0000\'>【关注62103a.com】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62103c.com</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：来料<br>");
 document.writeln("			大小：来料<br>");
 document.writeln("			特码：来料");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			233期<font color=\'#FF0000\'>【风调雨顺报吉昌，横行霸道不好】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：报吉昌解吉肖鸡羊兔蛇龙马。，横行霸道解坏肖鼠猴</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：鼠猴<span style=\'background-color: #FFFF00\'>龙</span>马蛇鸡兔<br>");
+
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
@@ -77,8 +93,7 @@ document.writeln("			231期<font color=\'#FF0000\'>【今期特码在蛇身，�
 document.writeln("			<br><font color=\'#0000FF\'>解析：今期特码在蛇身解蛇，泥解土肖狗龙牛羊</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：蛇狗龙牛<span style=\'background-color: #FFFF00\'>羊</span>虎猴<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：11.23.06.18.12.24.03.15.09.21.02.14.08.20");
+
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
@@ -94,8 +109,7 @@ document.writeln("			230期<font color=\'#FF0000\'>【今期生肖北方找，�
 document.writeln("			<br><font color=\'#0000FF\'>解析：北方找解北方生肖鼠猪牛，一，五解一鼠兔，五龙猪</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：<span style=\'background-color: #FFFF00\'>龙</span>猪牛鼠兔马猴<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：12.24.05.17.03.15.04.16.01.13.10.22.08.20");
+
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
@@ -111,8 +125,7 @@ document.writeln("			229期<font color=\'#FF0000\'>【绿波今期有特码，�
 document.writeln("			<br><font color=\'#0000FF\'>解析：绿波解绿肖牛龙狗羊，下注要钱解金肖猴鸡</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：猴牛龙狗鸡<span style=\'background-color: #FFFF00\'>羊</span>鼠<br>");
-document.writeln("			大小：小数<br>");
-document.writeln("			特码：08.20.03.15.12.24.06.18.07.19.09.21.04.16");
+
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

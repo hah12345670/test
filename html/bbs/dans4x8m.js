@@ -27,9 +27,9 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("233期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【双数】【马】【虎】【鼠】【龙】<br>");
-document.writeln("【22-34-14-26-04-40-12-48】<br>");
+document.writeln("234期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【马】【虎】【鼠】【狗】<br>");
+document.writeln("【22-34-14-26-04-40-30-42】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
@@ -37,7 +37,24 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
+document.writeln("233期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>龙12</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【马】【虎】【鼠】</font><font face=\'微软雅黑\' color=\'#000000\' size=\'5\'><span style=\"background-color: #FFFF00\">【龙】</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'><br>");
+document.writeln("【22-34-14-26-04-40-</font><font face=\'微软雅黑\' color=\'#000000\' size=\'5\'><span style=\"background-color: #FFFF00\">12</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>-48】<br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #333300\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -45,8 +62,8 @@ document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
 document.writeln("232期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>兔13</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【单数】【牛】<span style=\'background-color: #FFFF00\'>【兔】</span>【蛇】【鸡】<br>");
-document.writeln("【03-39-<span style=\'background-color: #FFFF00\'>13</span>-49-23-47-31-43】<br>");
+document.writeln("【单数】【牛】</font><font face=\'微软雅黑\' color=\'#000000\' size=\'5\'><span style=\'background-color: #FFFF00\'>【兔】</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>【蛇】【鸡】<br>");
+document.writeln("【03-39-</font><font face=\'微软雅黑\' color=\'#000000\' size=\'5\'><span style=\'background-color: #FFFF00\'>13</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>-49-23-47-31-43】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
@@ -54,10 +71,10 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

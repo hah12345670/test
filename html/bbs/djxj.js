@@ -23,20 +23,20 @@ document.writeln("");
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 
-
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>233期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>234期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>猪头猴脑骏马笨,三阳开泰逢佳景</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>骑牛追马猴捞月，凤阁龙楼二威严</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖猪猴马阳(通羊).阳偏看阳肖.鸡兔牛羊虎猴.三解三位虎三岁牛.心水诗大意是虽然看出来又傻又笨,但是在天时地利人合的时候,一切都会遇到最好的.综合得主猪猴马羊防虎鸡兔牛蛇 </font></div>");
+document.writeln("			解析:预先解明肖牛马猴鸡龙。生肖诗大意是什么能力办什么事。龙凤天生自带威严，如果骑牛去追马就如同猴子捞月一样一场空。因为马是天生奔跑就比牛快，就如龙凤天生就是富贵命。综合得主猴牛马鸡防龙蛇猪兔狗。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>解特肖：猪猴马羊虎鸡</font></b></div>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>解特肖：猴牛马鸡龙蛇</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");

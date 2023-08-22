@@ -19,7 +19,12 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("233期：平特【羊狗拖猪鸡】开？00<br>");
+document.writeln("234期：平特【马鸡拖虎龙】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("233期：平特【<span style=\'background-color: #FFFF00\'>羊</span>狗拖<span style=\'background-color: #FFFF00\'>猪</span>鸡】开45.05.41<br>");
 document.writeln("------<br>");
 
 

@@ -52,15 +52,16 @@ document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第234期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第235期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
-document.writeln("		主四肖：牛羊狗猪<br>			");
-document.writeln("        博八码：03.39.21.33.04.18.05.41</font></b></td>");
+document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
+document.writeln("		主四肖：鼠兔龙蛇<br>			");
+document.writeln("        博八码：04.40.25.37.12.48.11.47</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
+
 
 
 

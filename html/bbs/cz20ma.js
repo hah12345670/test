@@ -16,15 +16,34 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>六合彩</font><font color=\'#FFFFFF\'>『传真20码』</font></font></table>");
 document.writeln("");
 document.writeln("");
+
+
+
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>234期内幕传真20码开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>235期内幕传真20码开？00</font><br> ");
+document.writeln("特码玄268 149(猴32)19+23= ？   <br>特码：处事清闲一生乐，皆是英雄血染成<br>");
+document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
+document.writeln("04 03 14 26 39 34 24 02 37 27<br>   ");
+document.writeln("18 10 36 44 38 42 49 19 33 15</font> </p>         ");
+document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
+document.writeln("  <tbody><tr>");
+document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
+document.writeln("</td>");
+document.writeln("  <!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<font color=\'#FF00FF\'>234期内幕传真20码开兔13</font><br> ");
 document.writeln("特码玄178 269(龙36)14+27= ？   <br>特码：两岸三地相对望，一六出特龙马来<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
 document.writeln("16.26.02.07.01.45.24.32.31.17<br>   ");
-document.writeln("22.44.43.49.48.11.23.42.33.13</font> </p>         ");
+document.writeln("22.44.43.49.48.11.23.42.33.<span style=\'background-color: #FFFF00\'>13</span></font> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");
 document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");

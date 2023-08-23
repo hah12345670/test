@@ -21,22 +21,9 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>233期红字暗码【请人捉刀】【04 19 22 41】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：捉刀：指代人作文。代人做事或写文章。解鼠狗牛猪鸡虎羊</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：鼠狗牛猪鸡虎羊</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
-document.writeln("");
-document.writeln("</a></tr></table></td>");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>231期红字暗码【捅马蜂窝】【01 20 36 42】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：比喻闯祸或敢于得罪厉害的人 对不正之风,我们要有捅马蜂窝的精神。解牛羊鼠龙兔虎蛇</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：牛<span style=\'background-color: #FFFF00\'>羊</span>鼠龙兔虎蛇</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>235期红字暗码【生旦净丑】【06 17 20 39】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：戏曲行当的名称。解龙马鼠蛇牛猪兔</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：龙马鼠蛇牛猪兔</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
 document.writeln("");
@@ -44,19 +31,6 @@ document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
 document.writeln("");
 
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>230期红字暗码【八难三灾】【01 22 35 40】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：比喻小孩生来多病。也形容经常遭遇不幸。解羊鸡马蛇龙猴兔</font></b><br>");
-document.writeln("<b><font color=\'#800000\' size=\'4\'>解取特肖：羊鸡马蛇<span style=\'background-color: #FFFF00\'>龙</span>猴兔</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进335526.com查看</font></a></tr></table>");
-document.writeln("");
-document.writeln("</a></tr></table></td>");
-document.writeln("<!--开始-->");
-document.writeln("");
 
 
 

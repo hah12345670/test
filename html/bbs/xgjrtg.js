@@ -10,30 +10,30 @@ document.writeln('<div class="unsites"><ul>');
 
 
 
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://61921a.com/#45612">094期：天选之人【10码中特】13中13&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.391199b.com/pt/270.html">094期：王倩西式【平特一肖】36中31&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://192255.com/gsb/048.html ">094期：嘴上功夫 【朝夕中特】16中15&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://272733.com/gsb/085.html ">094期：香车宝马【男女中特】 11中11&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://325577.com/gsb/0030.htm ">094期：勇敢作者【极品阴阳】14中12&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://663385c.com/gsb/068.htm">094期：白手起家【绝杀一方】19中17&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://550118.com/gsb/060.html">094期：惊弓之鸟【大小中特】07中06&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://669925a.com/gsb3/jsyx.html ">094期：默默无闻【绝杀一肖】91中87&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://669971b.com/gsb1/g198.htm">094期：发财小哥【绝杀四码】59中57&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://496688c.com/gsb/005.html">094期：成都九爷【黑肖白肖】18中16&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118sjkj.com/gsb/dxzt.html">094期：美丽邂逅【大小中特】22中18&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118hdx.com/bbs1/253.htm ">094期：大仙符文【吉美凶丑】25中23&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://01736.com/gsbb2/40.html">094期：公式王@【公式六肖】18中14&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.760077b.com/gsb/006.html">094期：金戈铁马【单双中特】15中12&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.290996a.com/xsq/234011.html">094期：雷锋论坛【绝杀二肖】71中67&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.890099.com/gsb/071.html">094期：清浅蓝色【六肖中特】13中13&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.735858a.com/top/1800.html">094期：喜闻乐见【五肖中特】17中15&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://593399b.com/gsb1/198.html ">094期：林风一刀【绝杀7码】42中40&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://775593.com/gsb/022.htm">094期：千钧一发【男女中特】16中14&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://628866a.com/bbs/0151.html">094期：天厨妙香【天地中特】15中14&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://510066b.com/gsb/086.html">094期：殷忧启圣【左右中特】11中11&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.40489a.com/gsb/053.html ">094期：落雪倾城【⒓码中特】10中10&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118379.cc/zlyq/9416.html">094期：众说纷纭【大小中特】07中07&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://905566a.com/bbs/37.html">094期：电动马达【绝杀一肖】15中14&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://61921a.com/#45612">095期：天选之人【10码中特】13中13&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.391199b.com/pt/292.html">095期：晚宴取义【平特一肖】14中14&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://192255.com/gsb/048.html ">095期：嘴上功夫 【朝夕中特】19中17&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://272733.com/gsb/085.html ">095期：香车宝马【男女中特】 14中13&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://325577.com/gsb/0035.htm ">095期：一鸣惊人【双波中特】11中10&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://663385c.com/gsb/068.htm">095期：白手起家【绝杀一方】22中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://550118.com/gsb/060.html">095期：惊弓之鸟【大小中特】10中08&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://669925a.com/gsb3/jsyx.html ">095期：默默无闻【绝杀一肖】94中90&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://669971b.com/gsb1/g198.htm">095期：发财小哥【绝杀四码】59中57&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://496688c.com/shagsb/s02.html">095期：@挡箭牌【绝杀一波】18中17&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118sjkj.com/gsb/dxzt.html">095期：美丽邂逅【大小中特】25中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118hdx.com/bbs1/253.htm ">095期：大仙符文【吉美凶丑】28中25&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://01736.com/gsbb2/40.html">095期：公式王@【公式六肖】21中17&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.760077b.com/gsb/005.html">095期：落花忆梦【九肖中特】21中21&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.290996a.com/xsq/234011.html">095期：雷锋论坛【绝杀二肖】74中70&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.890099b.com/gsb/072.html">095期：水来土掩【五肖中特】10中10&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.735858a.com/top/3000.html">095期：雾里看花 【四肖中特】10中10&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://593399b.com/gsb1/198.html ">095期：林风一刀【绝杀7码】45中43&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://775593.com/gsb/026.htm ">095期：半城残雪【大小中特】17中14&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://628866a.com/bbs/0152.html ">095期：清爽夏天【平特一肖】14中14&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://510066b.com/gsb/086.html">095期：殷忧启圣【左右中特】14中13&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://www.40489c.com/gsb/054.html">095期：怡堂燕雀【二头必中】13中13&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://118379.cc/zlyq/9416.html">095期：众说纷纭【大小中特】08中08&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="https://905566a.com/bbs/37.html">095期：电动马达【绝杀一肖】15中14&#10004;</a></b></li>');
 
 
 document.writeln('<div class="clearfix"></div></ul></div>');

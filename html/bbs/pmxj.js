@@ -52,7 +52,7 @@ document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p ali
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>234期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\'>235期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b>  ");
 document.writeln("		</td>");
@@ -61,13 +61,13 @@ document.writeln("	<tr>");
 document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阴肖【蛇马狗】</font>  ");
+document.writeln("		<font color=\'#0000FF\'>阴肖【龙蛇猪】</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>11.23.22.46.06.42</b> </td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>24.48.11.23.05.41</b> </td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ");
 

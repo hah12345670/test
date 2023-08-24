@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/235/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/236/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
@@ -59,11 +59,11 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第235期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【万里晴空】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容天空晴朗，没有一点云彩。解虎猴狗蛇牛马</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【天马行空】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻气势豪放，不受拘束。解牛猪羊鸡兔龙</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：虎猴狗蛇牛马</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：牛猪羊鸡兔龙</font></b><br>");
 document.writeln("==========================<br>");
 
 document.writeln("</P>");
@@ -100,16 +100,22 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/235/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/236/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
 
-document.writeln("</P>");
+document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第235期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红日蓝天必有特】</span></font><br>");
+document.writeln("==========================<br>");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第235期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝04中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【单数红蓝出特码】</span></font><br>");
 document.writeln("==========================<br>");
-document.writeln("</P>");
-document.writeln("</P>");
+
+
 document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第234期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红13中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红橙黄绿青艳紫】</span></font><br>");

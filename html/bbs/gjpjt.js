@@ -19,13 +19,24 @@ document.writeln("    </tr>");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>235期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二四有数红绿出)(龙争虎斗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>236期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(五座山谷一线天)(指鸡骂狗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>235期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二<span style=\'background-color: #FFFF00\'>四</span>有数红绿出)(<span style=\'background-color: #FFFF00\'>龙争虎斗</span>)</font><font style=\'font-size: 12pt; font-weight:700\'>开特鼠平48</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 document.writeln("");

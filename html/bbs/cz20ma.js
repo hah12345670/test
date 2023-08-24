@@ -18,16 +18,31 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<font color=\'#FF00FF\'>236期内幕传真20码开？00</font><br> ");
+document.writeln("特码玄395 471(狗30)11+23= ？   <br>特码：我佛造经传极乐，画龙点睛我自如<br>");
+document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
+document.writeln("05 11 19 15 36 07 40 02 05 41<br>   ");
+document.writeln("26 01 25 48 14 23 21 32 33 37</font> </p>         ");
+document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
+document.writeln("  <tbody><tr>");
+document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
+document.writeln("</td>");
+document.writeln("  <!--结束-->");
 
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>235期内幕传真20码开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>235期内幕传真20码开鼠04</font><br> ");
 document.writeln("特码玄268 149(猴32)19+23= ？   <br>特码：处事清闲一生乐，皆是英雄血染成<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("04 03 14 26 39 34 24 02 37 27<br>   ");
+document.writeln("<span style=\'background-color: #FFFF00\'>04</span> 03 14 26 39 34 24 02 37 27<br>   ");
 document.writeln("18 10 36 44 38 42 49 19 33 15</font> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");

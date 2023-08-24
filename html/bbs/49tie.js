@@ -73,6 +73,14 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://tututu.www59197b.com:888/bbs/6699.html\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>236期【胡作菲为】<font color=\'#FF0000\'>（平三连肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+
+
+document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://h5.49217999.com:888/#/corpusdetail?id=32447950&type=3\'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>236期【听风暖@】<font color=\'#FF0000\'>（必准六尾）</font>已公开</strong></div>");
 document.writeln("            </a>");
@@ -252,11 +260,6 @@ document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: la
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://tututu.www59197b.com:888/bbs/6699.html\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>236期【胡作菲为】<font color=\'#FF0000\'>（平三连肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
 
 
 

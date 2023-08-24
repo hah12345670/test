@@ -243,7 +243,7 @@ document.writeln("		232期杀马羊√<br>");
 document.writeln("		233期杀鸡猪√<br>");
 document.writeln("		234期杀龙狗√<br>");
 document.writeln("		235期杀猴猪√<br>");
-document.writeln("		236期杀鼠04√<br>");
+document.writeln("		236期杀鼠马√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");

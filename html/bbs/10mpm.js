@@ -16,7 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("236期：平码【38.04.31.29.03.15.17.49.44.20.36.37】<br>");
+document.writeln("237期：平码【15.36.32.39.40.03.26.47.27.22.18.01】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("236期：平码【38.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">04.</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>31.29.03.15.17.49.44.20.36.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">37</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

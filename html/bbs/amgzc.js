@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/236/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/237/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
@@ -59,11 +59,22 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第237期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【狼虎之词】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：语言内有黄色内容。解狗虎鸡龙鼠马</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗虎鸡龙鼠马</font></b><br>");
+document.writeln("==========================<br>");
+
+document.writeln("");
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鸡19中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【天马行空】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：比喻气势豪放，不受拘束。解牛猪羊鸡兔龙</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛猪羊鸡兔龙</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：牛猪羊<span style=\'background-color: #FFFF00\'>鸡</span>兔龙</font></b><br>");
 document.writeln("==========================<br>");
 
 document.writeln("</P>");
@@ -100,12 +111,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/236/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
+document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/237/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第237期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝绿两色争春晖】</span></font><br>");
+document.writeln("==========================<br>");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红19中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红日蓝天必有特】</span></font><br>");
 document.writeln("==========================<br>");
 

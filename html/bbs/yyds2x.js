@@ -16,39 +16,19 @@ document.writeln("		<tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:888/#62103\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 14pt\'><span style=font-family:楷体;color:#00f>进入澳门马会传真</span></font><span style=font-family:楷体;><font color=\'#FF0000\' size=\'5\'>57185</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>.com</font></span></a></strong></td></tr></table>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>236期：</font>【<font color=\'#008000\'>单数+马虎</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>237期：</font>【<font color=\'#008000\'>单数+马龙</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>233期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+牛羊</font>】开<font color=\'#FF0000\'>(龙12)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>232期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单数</span>+马龙</font>】开<font color=\'#FF0000\'>(兔13)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>230期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+牛猪</font>】开<font color=\'#FF0000\'>(龙36)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>229期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单数</span>+鼠猴</font>】开<font color=\'#FF0000\'>(羊33)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>236期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单数</span>+马虎</font>】开<font color=\'#FF0000\'>(鸡19)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
+document.writeln("");
 
 
 document.writeln("");

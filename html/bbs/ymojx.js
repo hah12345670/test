@@ -22,6 +22,18 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62103c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第238期幽默猜测</font><font color=\'#FF0000\'>（青蛙）</font><font color=\'#000000\'>一只待在并底的青蛙悠闲地躺着，井边飞来一只小鸟。它跟青蛙说外面的世界好大，青蛙请求小鸟带它去外面的世界看看，青蛙被小鸟带到空中看外面的世界。井底的青蛙还会回到井里吗？.......本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：青蛙解牛鼠羊鸡马狗</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：牛鼠羊鸡马狗</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -31,7 +43,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：蛇鸡鼠牛猪狗</font></b></div>");
+document.writeln("	综合特肖：蛇鸡鼠</font><font size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font><font size=\'4\' color=\'#009900\'>猪狗</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

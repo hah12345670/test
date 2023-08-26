@@ -19,11 +19,11 @@ document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949
 document.writeln("<!--推广结束-->");
 
 
-
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("237期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>36.39.27.49.22</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("238期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>13.49.31.05.40</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+
 
 
 document.writeln("		<!--开始-->");

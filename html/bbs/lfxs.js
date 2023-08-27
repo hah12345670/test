@@ -31,7 +31,24 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
-
+document.writeln("");
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第239期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    兔25.49牛03.39鼠16.40<br>");
+document.writeln("		蛇23.47龙12.36鸡31.43<br>");
+document.writeln("		虎02.38羊21.45狗06.42<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -42,7 +59,7 @@ document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
 document.writeln("	    狗06.42牛15.27鸡31.43<br>");
-document.writeln("		猴08.44蛇11.23鼠16.40<br>");
+document.writeln("		猴08.44</font><font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">蛇</span></font><font face=\'隶书\' size=\'5\' color=\'#0000FF\'>11.</font><font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">23</span></font><font face=\'隶书\' size=\'5\' color=\'#0000FF\'>鼠16.40<br>");
 document.writeln("		虎02.38龙12.48猪05.41<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
@@ -83,7 +100,7 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -101,8 +118,8 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -120,8 +137,8 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -139,7 +156,7 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -157,7 +174,7 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -192,7 +209,7 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("  </tbody>");

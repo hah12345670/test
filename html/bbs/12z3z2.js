@@ -68,21 +68,23 @@ document.writeln("		【14.13.08】【23.49.16】【43.21.16】<br>				");
 document.writeln("		【25.13.14】【25.22.49】【43.14.29】</b><br>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
+
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">238期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">239期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【49.28.24】【33.27.43】【12.48.21】<br>");
-document.writeln("		【10.46.32】【49.33.12】【28.27.21】<br>		");
-document.writeln("		【24.10.21】【46.28.12】【32.43.28】<br>				");
-document.writeln("		【46.49.24】【32.48.27】【10.49.33】</b><br>");
+document.writeln("		【32.46.24】【27.29.04】【09.33.35】<br>");
+document.writeln("		【39.37.10】【32.29.33】【46.27.09】<br>		");
+document.writeln("		【24.35.04】【39.04.35】【37.32.10】<br>				");
+document.writeln("		【10.29.46】【24.35.39】【37.09.29】</b><br>");
 document.writeln(" <!--结束--> ");
-document.writeln("");
+
 document.writeln("　</font>");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

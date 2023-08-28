@@ -41,49 +41,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第239期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙24.马10.猪29.羊21】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第240期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙36.猴20.蛇23.牛27】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第236期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.虎38.<span style=\'background-color: #FFFF00\'>鸡</span>31.马46】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第234期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎38.<span style=\'background-color: #FFFF00\'>兔</span>25.蛇11.龙48】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第233期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>龙12</span>.狗30.猴44.羊21】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第232期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.羊21.龙48.<span style=\'background-color: #FFFF00\'>兔</span>37】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
 
 
 document.writeln("");

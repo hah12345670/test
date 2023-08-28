@@ -26,9 +26,10 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>239期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(绿波开出几多鲜)(牛刀小试)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>240期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(金银财福随手招)(画蛇添足)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
+
 
 
 document.writeln("");

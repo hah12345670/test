@@ -1,6 +1,6 @@
 ﻿document.writeln("<div style=\'display:none\'>");
 document.writeln("");
-document.writeln("</div>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -31,8 +31,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td align=\"center\"><font color=\'#008000\'><span style=\"font-size: 14pt\">238期</span></font><span style=\"font-size: 14pt\"><img src=\'https://mnbvctrs.www58317a.com:888/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'https://mnbvctrs.www58317a.com:888/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
-document.writeln("27 07 31 43 28 40 21 45 22 46 06 30 42</span></tr>");
+document.writeln("<td align=\"center\"><font color=\'#008000\'><span style=\"font-size: 14pt\">239期</span></font><span style=\"font-size: 14pt\"><img src=\'https://mnbvctrs.www58317a.com:888/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'https://mnbvctrs.www58317a.com:888/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
+document.writeln("03 39 04 16 40 01 37 49 07 31 43 11 47</span></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
@@ -105,4 +105,6 @@ document.writeln(" 		</span></a></font> ");
 document.writeln("");
 document.writeln("    ");
 document.writeln("</body>");
+
+document.writeln("</div>");
 document.writeln("");

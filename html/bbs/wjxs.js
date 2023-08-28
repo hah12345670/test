@@ -48,7 +48,7 @@ document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>8月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【34.46.14.43.25.44.24.28.11.08】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>0</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>8月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【34.46.<span style=\'background-color: #FFFF00\'>14</span>.43.25.44.24.28.11.08】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>1</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("    <!--结束--> ");
 document.writeln("");

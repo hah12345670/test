@@ -36,52 +36,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>240期一语中特【两袖清风】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：两袖中除清风外，别无所有。比喻做官廉洁。解狗鼠牛龙猴鸡</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鼠牛龙猴鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>241期一语中特【黄金时期】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：古希腊人将人类历史分为金、银、铜、铁四个时期，其中最初最盛的时代。全盛时期，黄金时代。解龙兔虎牛鼠猪</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙兔虎牛鼠猪开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>238期一语中特【三山五狱】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：泰山又名岱山、岱宗。解羊狗马蛇鼠兔</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊狗马<span style=\'background-color: #FFFF00\'>蛇</span>鼠兔开蛇23准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>236期一语中特【学业有成】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：学业有成意思为学业有成就。解龙羊马牛鸡猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙羊马牛<span style=\'background-color: #FFFF00\'>鸡</span>猪开鸡19准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>235期一语中特【泫然流涕】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指泪珠止不住地流下来。解牛猴龙鼠羊狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛猴龙<span style=\'background-color: #FFFF00\'>鼠</span>羊狗开鼠04准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>234期一语中特【线抽傀儡】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：木偶戏中用线拉的木头人。解猪虎牛鸡羊兔</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪虎牛鸡羊<span style=\'background-color: #FFFF00\'>兔</span>开兔13准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
 
 
 
@@ -111,13 +71,21 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>241期一语中特【玩人丧德】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：谓戏弄他人，以致失去做人的道德。解牛猪鼠鸡虎马</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛猪鼠鸡虎马开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>240期一语中特【摆龙门阵】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：〈方〉谈天或讲故事。解猴牛兔猪鸡龙</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴牛兔猪鸡龙开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴牛兔<span style=\'background-color: #FFFF00\'>猪</span>鸡龙开猪17准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

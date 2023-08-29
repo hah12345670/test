@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/240/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.fanghuwanglan.com:4949/col/241/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
@@ -59,11 +59,21 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【福无双至】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：幸运的事情不会连续到来（常与“祸不单行”连用）。解羊猴兔龙蛇鼠</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：羊猴兔龙蛇鼠</font></b><br>");
+document.writeln("==========================<br>");
+
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第240期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【四季发财】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：四季发财指生肖虎,虎是万兽之王,万事平安幸福年,一年四季都发财。解猪鼠虎龙狗鸡</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猪鼠虎龙狗鸡</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>猪</span>鼠虎龙狗鸡</font></b><br>");
 document.writeln("==========================<br>");
 
 
@@ -79,59 +89,12 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/240/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
+document.writeln("<img src=\'https://tk2.fanghuwanglan.com:4949/col/241/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第240期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【今期特码蓝红色】</span></font><br>");
-document.writeln("==========================<br>");
-
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第237期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝15中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝绿两色争春晖】</span></font><br>");
-document.writeln("==========================<br>");
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红19中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红日蓝天必有特】</span></font><br>");
-document.writeln("==========================<br>");
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第235期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝04中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【单数红蓝出特码】</span></font><br>");
-document.writeln("==========================<br>");
-
-
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第234期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红13中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红橙黄绿青艳紫】</span></font><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第233期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红12中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【特码红绿最理想】</span></font><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第232期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红13中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿水青山人人爱】</span></font><br>");
-document.writeln("==========================<br>");
-
-document.writeln("</P>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第231期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红45中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红花绿柳美如画】</span></font><br>");
-document.writeln("==========================<br>");
-
-document.writeln("</P>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第230期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝36中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝红开出生肖东】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【花红柳绿三月间】</span></font><br>");
 document.writeln("==========================<br>");
 
 

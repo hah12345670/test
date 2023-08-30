@@ -26,7 +26,7 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>241期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二三上下左右好)(猪狗不如)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>242期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(门路在双追二四)(真龙天子)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

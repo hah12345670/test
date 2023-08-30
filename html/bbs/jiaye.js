@@ -24,51 +24,8 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("241期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("242期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
-
-
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("239期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>虎14</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("236期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>鸡19</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("235期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>鼠04</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("234期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>兔13</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("233期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>龙12</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
 
 
 

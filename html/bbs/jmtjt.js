@@ -41,13 +41,13 @@ document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>242期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【2.0.4.9】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>243期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【1.8.0.6】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字2049尾或者解特鸡羊牛蛇兔龙马虎鼠</font></b></td>");
+document.writeln("		解：数字1806尾或者解特猴蛇鸡羊鼠兔虎猪牛</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -60,6 +60,7 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束--> ");
+
 
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");

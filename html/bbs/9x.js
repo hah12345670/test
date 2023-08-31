@@ -37,10 +37,11 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>242期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>243期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("兔羊鼠鸡狗牛蛇猪猴</span></td><td>");
+document.writeln("龙羊鼠马蛇兔猪牛狗</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+
 
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>241期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");

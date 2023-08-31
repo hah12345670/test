@@ -44,7 +44,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>242期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【水行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>243期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【木行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
 document.writeln("   <!--开始-->");
@@ -109,80 +109,6 @@ document.writeln("		<font style=\'font-size: 14pt\'>235期<font color=\'#0000FF\
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
 
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>233期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙12</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>232期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【水行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>兔13</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>231期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【水行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊45</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>229期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【火行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊33</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>228期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猪29</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>227期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【水行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛03</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>226期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【火行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴20</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
 
 
 

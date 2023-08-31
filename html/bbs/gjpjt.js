@@ -26,7 +26,18 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>242期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(门路在双追二四)(真龙天子)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>243期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(木火有钱两头找)(亡羊补牢)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>242期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(门路在<span style=\'background-color: #FFFF00\'>双</span>追二四)<span style=\'background-color: #FFFF00\'>(真龙天子)</span></font><font style=\'font-size: 12pt; font-weight:700\'>开特20平12</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

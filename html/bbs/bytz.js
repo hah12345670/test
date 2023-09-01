@@ -39,7 +39,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!------结束------>");
 document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");

@@ -42,7 +42,16 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第244期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.兔13.虎38.羊21】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第245期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙12.猴44.鸡31.蛇23】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第244期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.<span style=\'background-color: #FFFF00\'>兔</span>13.虎38.羊21】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

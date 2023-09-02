@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("244期：平特【鼠狗拖虎马】开？00<br>");
+document.writeln("245期：平特【蛇龙拖猴鼠】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("244期：平特【<span style=\'background-color: #FFFF00\'>鼠狗</span>拖虎马】开16.30<br>");
 document.writeln("------<br>");
 document.writeln("243期：平特【鸡<span style=\'background-color: #FFFF00\'>狗</span>拖<span style=\'background-color: #FFFF00\'>鼠</span>龙】开18.16<br>");
 document.writeln("------<br>");
@@ -69,35 +72,6 @@ document.writeln("231期：平特【<span style=\'background-color: #FFFF00\'>�
 document.writeln("------<br>");
 
 
-
-document.writeln("");
-document.writeln("229期：平特【<span style=\'background-color: #FFFF00\'>羊鼠</span>拖猴<span style=\'background-color: #FFFF00\'>牛</span>】开45.33.28.15.03<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("227期：平特【蛇<span style=\'background-color: #FFFF00\'>羊</span>拖<span style=\'background-color: #FFFF00\'>兔</span>狗】开21.33.49<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("226期：平特【<span style=\'background-color: #FFFF00\'>羊</span>蛇拖<span style=\'background-color: #FFFF00\'>鼠</span>猪】开09.16<br>");
-document.writeln("------<br>");
-
-
-document.writeln("224期：平特【<span style=\'background-color: #FFFF00\'>狗鼠</span>拖<span style=\'background-color: #FFFF00\'>鸡兔</span>】开28.42.07.25<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("223期：平特【<span style=\'background-color: #FFFF00\'>猪</span>猴拖鼠<span style=\'background-color: #FFFF00\'>牛</span>】开05.27<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("222期：平特【<span style=\'background-color: #FFFF00\'>鼠鸡</span>拖狗蛇】开04.31<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("221期：平特【猪<span style=\'background-color: #FFFF00\'>鸡</span>拖<span style=\'background-color: #FFFF00\'>兔</span>龙】开43.01<br>");
-document.writeln("------<br>");
 
 
 

@@ -116,18 +116,20 @@ document.writeln("		【07.25.21】【12.49.30】【09.31.20】<br>				");
 document.writeln("		【16.13.25】【09.13.08】【21.12.07】</b><br>");
 document.writeln(" <!--结束--> ");
 
+
+
 document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">244期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">245期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【38.10.03】【48.01.39】【06.18.14】<br>");
-document.writeln("		【46.25.21】【38.48.06】【10.01.14】<br>		");
-document.writeln("		【03.39.14】【46.03.18】【10.25.14】<br>				");
-document.writeln("		【38.39.06】【14.46.03】【48.18.03】</b><br>");
+document.writeln("		【45.25.06】【29.44.40】【19.04.47】<br>");
+document.writeln("		【14.05.31】【45.29.04】【25.44.47】<br>		");
+document.writeln("		【06.40.19】【14.45.06】【05.29.44】<br>				");
+document.writeln("		【31.04.47】【05.47.40】【06.29.04】</b><br>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
 document.writeln("　</font>");

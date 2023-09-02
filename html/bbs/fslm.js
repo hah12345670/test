@@ -22,7 +22,12 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>16.05.44.38.46</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("245期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>46.49.24.30.08</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>16</span>.05.44.38.46</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 
 
@@ -49,25 +54,6 @@ document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("239期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>17.08.25.07.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("236期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>46</span>.06.38.<span style=\'background-color: #FFFF00\'>09</span>.32</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("235期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>09.16.30.33.<span style=\'background-color: #FFFF00\'>27</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("233期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>04.<span style=\'background-color: #FFFF00\'>05</span>.48.06.37</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 
 document.writeln("");

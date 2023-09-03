@@ -17,7 +17,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("245期：平特【蛇龙拖猴鼠】开？00<br>");
+document.writeln("");
+document.writeln("246期：平特【牛虎拖兔羊】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("245期：平特【蛇<span style=\'background-color: #FFFF00\'>龙</span>拖<span style=\'background-color: #FFFF00\'>猴鼠</span>】开36.48.20.16<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("244期：平特【<span style=\'background-color: #FFFF00\'>鼠狗</span>拖虎马】开16.30<br>");

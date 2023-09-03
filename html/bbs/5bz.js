@@ -22,7 +22,7 @@ document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>245期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>06.20.12.47.33</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>246期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>45.02.11.34.04</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->");
 
 

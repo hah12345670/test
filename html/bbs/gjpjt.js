@@ -19,6 +19,15 @@ document.writeln("    </tr>");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>246期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二五有数红绿出)(猪狗不如)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
 
 document.writeln("");
 document.writeln("          <!--开始-->");
@@ -26,7 +35,17 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>244期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期生肖三四头)(九牛二虎)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>245期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期特尾二三<span style=\'background-color: #FFFF00\'>七</span>)(<span style=\'background-color: #FFFF00\'>飞龙在天</span>)</font><font style=\'font-size: 12pt; font-weight:700\'>开特37平36</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>244期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期生肖三四头)(九<span style=\'background-color: #FFFF00\'>牛</span>二虎)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平03</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

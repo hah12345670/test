@@ -18,6 +18,16 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>247期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(一七三六特码边)(青梅竹马)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
 
 document.writeln("");
 document.writeln("          <!--开始-->");
@@ -25,7 +35,7 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>246期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二五有数红绿出)(猪狗不如)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>246期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(<span style=\'background-color: #FFFF00\'>二五</span>有数<span style=\'background-color: #FFFF00\'>红</span>绿出)<span style=\'background-color: #FFFF00\'>(猪狗不如)</span></font><font style=\'font-size: 12pt; font-weight:700\'>开特13平29</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

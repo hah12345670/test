@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.youdocoffee.com:4949/col/247/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.youdocoffee.com:4949/col/248/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
@@ -59,56 +59,12 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第247期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【四季发财】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：四季发财指生肖虎,虎是万兽之王,万事平安幸福年,一年四季都发财。解蛇马猪龙狗虎</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第248期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【粗心大意】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：粗：粗疏。指做事马虎，不细心。解虎羊鼠龙猴蛇</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：蛇马猪龙狗虎</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：虎羊鼠龙猴蛇</font></b><br>");
 document.writeln("==========================<br>");
-
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第246期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔13中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【千呼万换】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容再三催促。解兔牛鸡鼠猪蛇</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>兔</span>牛鸡鼠猪蛇</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第243期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：狗18中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【六六大顺】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：本指农历六月初六。多用于祝福中年人士家庭幸福。解羊虎鸡马狗牛</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：羊虎鸡马<span style=\'background-color: #FFFF00\'>狗</span>牛</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴20中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【福无双至】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：幸运的事情不会连续到来（常与“祸不单行”连用）。解羊猴兔龙蛇鼠</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：羊<span style=\'background-color: #FFFF00\'>猴</span>兔龙蛇鼠</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第240期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【四季发财】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：四季发财指生肖虎,虎是万兽之王,万事平安幸福年,一年四季都发财。解猪鼠虎龙狗鸡</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>猪</span>鼠虎龙狗鸡</font></b><br>");
-document.writeln("==========================<br>");
-
-
 
 
 document.writeln("");
@@ -121,13 +77,13 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.youdocoffee.com:4949/col/247/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
+document.writeln("<img src=\'https://tk2.youdocoffee.com:4949/col/248/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第247期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【花】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第248期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【花绿得码说你知】</span></font><br>");
 document.writeln("==========================<br>");
 
 document.writeln("");

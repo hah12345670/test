@@ -17,11 +17,15 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("248期：平码【09.14.16.38.29.32.03.48.01.17.36.18】<br>");
 document.writeln("");
-document.writeln("247期：平码【36.03.35.30.04.28.33.26.01.49.22.38】<br>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("247期：平码【36.03.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">35.30</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.04.28.33.26.01.49.22.38】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("			");

@@ -42,38 +42,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第247期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴08.猪17.兔25.虎14】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第248期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛39.猪05.马22.虎14】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第244期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.<span style=\'background-color: #FFFF00\'>兔</span>13.虎38.羊21】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第243期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴08.<span style=\'background-color: #FFFF00\'>狗</span>30.虎14.龙48】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第242期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙24.蛇47.鼠40.<span style=\'background-color: #FFFF00\'>猴20</span>】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
 
 
 

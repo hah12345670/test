@@ -45,9 +45,9 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【9尾:19.29】");
-document.writeln("【4尾:24.44】<br>");
-document.writeln("【8尾:08.38】");
-document.writeln("【2尾:02.32】</span></p>");
+document.writeln("【3尾:03.33】<br>");
+document.writeln("【5尾:25.45】");
+document.writeln("【6尾:16.36】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
 document.writeln("<!--开始-->");

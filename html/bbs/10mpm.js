@@ -16,10 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("248期：平码【09.14.16.38.29.32.03.48.01.17.36.18】<br>");
-document.writeln("");
-document.writeln("");
+document.writeln("249期：平码【02.01.10.43.04.23.19.33.47.21.24.48】<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("247期：平码【36.03.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">35.30</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.04.28.33.26.01.49.22.38】<br>");

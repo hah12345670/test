@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.youdocoffee.com:4949/col/248/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://tk2.youdocoffee.com:4949/col/249/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,7 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
-
+document.writeln("\'https://tk2.youdocoffee.com:4949/col/249/ammh.jpg\',");
 document.writeln("\'https://tk2.youdocoffee.com:4949/col/248/ammh.jpg\',");
 document.writeln("\'https://tk2.youdocoffee.com:4949/col/247/ammh.jpg\',");
 document.writeln("\'https://tk2.youdocoffee.com:4949/col/246/ammh.jpg\',");

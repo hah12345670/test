@@ -21,7 +21,12 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("248期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'\'>羊蛇虎猴狗鸡</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
+document.writeln("249期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'\'>马兔牛狗猪猴</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("248期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'\'><span style=\'background-color: #FFFF00\'>羊</span>蛇虎猴狗鸡</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("		<!--开始-->");

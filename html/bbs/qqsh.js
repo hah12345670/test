@@ -34,58 +34,7 @@ document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("248期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴棋书</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("246期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>棋画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔13</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("245期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔37</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>棋书</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔25</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("243期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴<span style=\'background-color: #FFFF00\'>棋</span>画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗18</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("242期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋书<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴20</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("241期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴棋<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴20</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("240期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋书<span style=\'background-color: #FFFF00\'>画</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪17</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("239期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>棋<span style=\'background-color: #FFFF00\'>书</span>画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎14</span>准</font></font></b></font></table>");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("238期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>琴</span>书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇23</span>准</font></font></b></font></table>");
-
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("237期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴<span style=\'background-color: #FFFF00\'>棋</span>画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛15</span>准</font></font></b></font></table>");
+document.writeln("249期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>琴书画</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 
 
 document.writeln("");

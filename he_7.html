@@ -193,6 +193,10 @@
 <div class="">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
+<div class="qid" data-i="251" data-name="amlrw.jpg">
+第251期
+</div>
+</div><div class="swiper-slide">
 <div class="qid" data-i="250" data-name="amlrw.jpg">
 第250期
 </div>
@@ -1199,7 +1203,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://tk2.youdocoffee.com:4949/col'+'/'+i+'/'+name;
+		    var url = 'https://tk2.qingxinmingxiang.com:4949/col'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -1221,7 +1225,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://tk2.youdocoffee.com:4949/col'+'/'+i+'/'+name;
+                var url = 'https://tk2.qingxinmingxiang.com:4949/col'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

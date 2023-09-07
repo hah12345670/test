@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("249期：平特【马鸡拖牛鼠】开？00<br>");
+document.writeln("250期：平特【牛蛇拖鸡狗】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("249期：平特【马<span style=\'background-color: #FFFF00\'>鸡</span>拖<span style=\'background-color: #FFFF00\'>牛</span>鼠】开07.27<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("248期：平特【鸡猪拖<span style=\'background-color: #FFFF00\'>蛇羊</span>】开47.21<br>");
@@ -47,45 +50,6 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("240期：平特【<span style=\'background-color: #FFFF00\'>猪</span>猴拖<span style=\'background-color: #FFFF00\'>虎</span>鸡】开17.38<br>");
 document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("239期：平特【牛猪拖<span style=\'background-color: #FFFF00\'>羊龙</span>】开33.24<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("237期：平特【<span style=\'background-color: #FFFF00\'>龙</span>鸡拖<span style=\'background-color: #FFFF00\'>猪</span>鼠】开24.48.29<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("236期：平特【狗<span style=\'background-color: #FFFF00\'>鼠</span>拖<span style=\'background-color: #FFFF00\'>蛇马</span>】开04.23.22.46<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("235期：平特【<span style=\'background-color: #FFFF00\'>鼠</span>鸡拖猪<span style=\'background-color: #FFFF00\'>龙</span>】开04.48<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("234期：平特【<span style=\'background-color: #FFFF00\'>马鸡</span>拖虎龙】开34.07.43<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("233期：平特【<span style=\'background-color: #FFFF00\'>羊</span>狗拖<span style=\'background-color: #FFFF00\'>猪</span>鸡】开45.05.41<br>");
-document.writeln("------<br>");
-
-
-
-document.writeln("");
-document.writeln("232期：平特【<span style=\'background-color: #FFFF00\'>龙虎</span>拖羊<span style=\'background-color: #FFFF00\'>蛇</span>】开24.02.23<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("231期：平特【<span style=\'background-color: #FFFF00\'>兔</span>蛇拖牛<span style=\'background-color: #FFFF00\'>猪</span>】开01.41<br>");
-document.writeln("------<br>");
-
 
 
 

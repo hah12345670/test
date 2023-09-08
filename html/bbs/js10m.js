@@ -42,8 +42,8 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>250期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
-document.writeln("		【06.37.14.10.20.09.17.12.27.35】</font></span><span style=\'font-size: 14pt\'>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>251期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【45.40.01.28.24.31.17.07.12.47】</font></span><span style=\'font-size: 14pt\'>");
 document.writeln("		</span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
@@ -134,20 +134,6 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>242期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>猴20</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
-document.writeln("		【19.03.24.32.42.26.04.46.27.41】</font></span><span style=\'font-size: 14pt\'>");
-document.writeln("		</span>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
 
 
 

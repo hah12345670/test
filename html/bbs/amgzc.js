@@ -51,9 +51,20 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/250/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/251/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+
+document.writeln("");
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第251期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【马马虎虎】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容做事马虎、随便。解狗猪龙牛兔鸡</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗猪龙牛兔鸡</font></b><br>");
+document.writeln("==========================<br>");
 
 document.writeln("");
 document.writeln("</P>");
@@ -63,7 +74,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【小巧玲珑】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：形容东西小而精致。解狗牛虎鸡马兔</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：狗牛虎鸡马兔</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗牛<span style=\'background-color: #FFFF00\'>虎</span>鸡马兔</font></b><br>");
 document.writeln("==========================<br>");
 
 document.writeln("");
@@ -88,14 +99,14 @@ document.writeln("</div>");
 document.writeln("	<div id=\"con_ptyxjplx50000_2\">");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/250/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/251/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第250期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红红绿绿出双波】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第251期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【单来红绿挡不住】</span></font><br>");
 document.writeln("==========================<br>");
 
 document.writeln("");

@@ -16,8 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("250期：平码【18.48.01.41.05.02.33.44.28.46.35.09】<br>");
-
+document.writeln("251期：平码【19.28.25.42.48.38.22.46.11.04.31.17】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("250期：平码【18.48.</font><font style=\'font-weight:700\' face=\'微软雅黑\'><span style=\"background-color: #FFFF00\"><font color=\"#FF0000\" size=\"5\">01</font></span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.41.05.02.33.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">44</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.28.46.35.09】<br>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("			");

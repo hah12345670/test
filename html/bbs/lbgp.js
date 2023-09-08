@@ -23,10 +23,19 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>250期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【占山火王】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>251期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【牛鬼蛇神】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：己巳日 属性：木 地支六冲：蛇日：冲猪，克虎，破鼠，无牛， 六合：猴；三合：鼠龙。空亡肖：狗猪</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("    ");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>250期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【占山火王】</font><font color=\'#0033CC\'>开虎14<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：戊辰日 属性：木 地支六冲：龙日：冲狗，克兔，破猪，无鼠， 六合：鸡；三合：鼠猴。空亡肖：狗猪</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("    ");
@@ -142,76 +151,6 @@ document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 甲寅日 �
 document.writeln("    </td></tr>");
 document.writeln("    ");
 document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>235期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【牛前虎后】</font><font color=\'#0033CC\'>开鼠04<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 癸丑日 属性：木 地支六冲：牛日：冲羊，克马，破猴，无鸡， 六合：鼠；三合：蛇鸡。空亡肖：虎羊</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>234期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【惜玉怜香】</font><font color=\'#0033CC\'>开兔13<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 壬子日 属性：木 地支六冲：鼠日：冲马，克羊，破羊，无猴， 六合：牛；三合：龙猴。空亡肖：虎马</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>233期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【才高八斗】</font><font color=\'#0033CC\'>开龙12<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 辛亥日 属性：金 地支六冲：猪日：冲蛇，克猴，破马，无羊， 六合：虎；三合：兔羊。空亡肖：兔蛇</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>232期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【为虎作伥】</font><font color=\'#0033CC\'>开兔13<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性：庚戌日 属性：金 地支六冲：狗日：冲龙，克鸡，破蛇，无马， 六合：兔；三合：虎马。空亡肖：虎龙</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>231期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【首鼠两端】</font><font color=\'#0033CC\'>开羊45<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 己酉日 属性：土 地支六冲：鸡日：冲兔，克狗，破龙，无蛇， 六合：龙；三合：牛蛇。空亡肖：兔羊</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>230期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【欺世盗名】</font><font color=\'#0033CC\'>开龙36<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 戊申日 属性：土 地支六冲：猴日：冲虎，克猪，破兔，无龙， 六合：蛇；三合：鼠龙。空亡肖：虎兔</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>229期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【绿林暴客】</font><font color=\'#0033CC\'>开羊33<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 丁未日 属性：水 地支六冲：羊日：冲牛，克鼠，破虎，无兔， 六合：马；三合：兔猪。空亡肖：牛虎</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>228期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【择双而入】</font><font color=\'#0033CC\'>开猪29<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 丙午日 属性：水 地支六冲：马日：冲鼠，克牛，破牛，无虎， 六合：羊；三合：虎狗。空亡肖：鼠虎</font></div>");
-document.writeln("    </td></tr>");
-document.writeln("    ");
-
 
 
 

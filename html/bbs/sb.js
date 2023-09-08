@@ -18,7 +18,7 @@ document.writeln("<!--推广结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>250期</span><span style=\'color: #800000;\'>财富波色</span>红波绿波开:？00准</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>251期</span><span style=\'color: #800000;\'>财富波色</span>绿波红波开:？00准</font></td></tr>");
 
 
 document.writeln("<tr>");
@@ -46,36 +46,6 @@ document.writeln("<font size=\'3\'>");
 document.writeln("<span style=\'color: #00F;\'>245期</span><span style=\'color: #800000;\'>财富波色</span>红波<span style=\'background-color: #FFFF00\'>蓝波</span>开:兔37准</font></td></tr>");
 
 
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>242期</span><span style=\'color: #800000;\'>财富波色</span>绿波<span style=\'background-color: #FFFF00\'>蓝波</span>开:猴20准</font></td></tr>");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>241期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>蓝波</span>绿波开:猴20准</font></td></tr>");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>240期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>绿波</span>蓝波开:猪17准</font></td></tr>");
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>239期</span><span style=\'color: #800000;\'>财富波色</span>绿波<span style=\'background-color: #FFFF00\'>蓝波</span>开:虎14准</font></td></tr>");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>238期</span><span style=\'color: #800000;\'>财富波色</span>蓝波<span style=\'background-color: #FFFF00\'>红波</span>开:蛇23准</font></td></tr>");
 
 document.writeln("");
 document.writeln("<!--推广开始-->");

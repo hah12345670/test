@@ -31,7 +31,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td height=41 align=\"center\">");
-document.writeln("<b><font size=\"3\">251期</font><span style=\"font-size: 12pt\">14码:118207b.com  已更新</span></b></tr>");
+document.writeln("<b><font size=\"3\">251期</font><span style=\"font-size: 12pt\">14码:21.33.23.47.06.18.26.14.05.41.03.15.20.44</span></b></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");

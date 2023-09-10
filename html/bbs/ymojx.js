@@ -22,6 +22,19 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62103c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第253期幽默猜测</font><font color=\'#FF0000\'>（生日）</font><font color=\'#000000\'>村长儿子生日到了，家家户都送上了厚重的礼物，它拿着气球逛街时候，发现了好多漂亮女生。........本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：生日解兔蛇虎羊龙鼠</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：兔蛇虎羊龙鼠</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -30,7 +43,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：牛猴狗羊猪鼠</font></b></div>");
+document.writeln("	综合特肖：牛猴狗<span style=\"background-color: #FFFF00\">羊</span>猪鼠</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

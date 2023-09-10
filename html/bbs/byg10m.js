@@ -31,7 +31,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td height=41 align=\"center\">");
-document.writeln("<b><font size=\"3\">251期</font><span style=\"font-size: 12pt\">14码:21.33.23.47.06.18.26.14.05.41.03.15.20.44</span></b></tr>");
+document.writeln("<b><font size=\"3\">252期</font><span style=\"font-size: 12pt\">14码:21.33.11.23.01.25.18.30.20.32.10.34.24.36</span></b></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");

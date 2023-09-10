@@ -17,7 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("252期：平特【虎龙拖猴猪】开？00<br>");
+document.writeln("253期：平特【鸡马拖猪蛇】开？00<br>");
 document.writeln("------<br>");
 
 

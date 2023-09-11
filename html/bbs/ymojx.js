@@ -22,6 +22,18 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62103c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第254期幽默猜测</font><font color=\'#FF0000\'>（冰岛）</font><font color=\'#000000\'>老婆：“又看球赛，那队对那队啊？”我：“葡萄牙对冰岛。”老婆：“哦，我喜欢吃葡萄，不过据说冰岛很美啊。”我。........本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：冰岛解牛马狗猴虎蛇</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：牛马狗猴虎蛇</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -31,7 +43,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：兔蛇虎羊龙鼠</font></b></div>");
+document.writeln("	综合特肖：兔蛇<span style=\"background-color: #FFFF00\">虎</span>羊龙鼠</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

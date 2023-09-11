@@ -24,7 +24,17 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>253期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(特码就在火土水)(犬马之劳)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>254期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二六归来七飘流)(猫哭老鼠)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>253期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(特码就在火<span style=\'background-color: #FFFF00\'>土</span>水)(犬马之劳)</font><font style=\'font-size: 12pt; font-weight:700\'>开特26平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

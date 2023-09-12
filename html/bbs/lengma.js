@@ -31,7 +31,7 @@ document.writeln("    (30)132期未开<br>    ");
 document.writeln("    (35)124期未开<br>  ");
 document.writeln("    (16)113期未开<br>   ");
 document.writeln("    (22)106期未开<br>");
-document.writeln("    (92)144期未开   ");
+document.writeln("    (05)092期未开   ");
 document.writeln("    </font></b></font></table>");
 document.writeln("		<font style=\'font-size: 16pt\' color=\'#008000\'>");
 document.writeln("		<!--结束-->");

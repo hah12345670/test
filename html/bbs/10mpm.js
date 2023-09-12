@@ -15,7 +15,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("254期：平码【15.05.09.11.40.21.45.22.34.48.27.23】<br>");
+document.writeln("");
+document.writeln("255期：平码【03.18.13.40.06.07.27.14.10.04.49.41】<br>");
 
 
 document.writeln("");

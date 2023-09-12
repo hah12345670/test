@@ -35,7 +35,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-08月极限特肖资料』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-09月极限特肖资料』</font></b></table>");
 document.writeln("    	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");

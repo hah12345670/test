@@ -19,7 +19,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("254期<font color=\'#FF00FF\'>（羊牛龙+2964尾）</font>开？00</font></b></font></table>");
+document.writeln("255期<font color=\'#FF00FF\'>（鼠龙牛+0852尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("254期<font color=\'#FF00FF\'>（羊牛龙+2<span style=\'background-color: #FFFF00\'>9</span>64尾）</font>开兔49</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

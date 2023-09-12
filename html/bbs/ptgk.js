@@ -19,14 +19,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("254期<font color=\'#FF0000\'>平鸡→鸡狗(2连)→鸡狗龙(3连)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
-document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("252期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>猴</span>→猴马(2连)→猴马猪(3连)</font></font></b></font></table>");
+document.writeln("255期<font color=\'#FF0000\'>平蛇→蛇虎(2连)→蛇虎狗(3连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

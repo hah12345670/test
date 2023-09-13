@@ -16,8 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("255期：平码【03.18.13.40.06.07.27.14.10.04.49.41】<br>");
-
+document.writeln("256期：平码【03.31.39.13.10.30.46.17.36.06.07.43】<br>");
 
 document.writeln("");
 document.writeln("			");

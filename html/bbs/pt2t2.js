@@ -17,7 +17,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("256期：平特【狗羊拖马虎】开？00<br>");
+document.writeln("");
+document.writeln("257期：平特【狗马拖猴蛇】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("256期：平特【狗羊拖马虎】开33.26.34<br>");
 document.writeln("------<br>");
 
 

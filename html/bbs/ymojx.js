@@ -21,6 +21,17 @@ document.writeln("<td style=\'border:10px double #00f; height: 51px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62103c.com『原创幽默猜测解特』</font></b></table>");
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第257期幽默猜测</font><font color=\'#FF0000\'>（人头马）</font><font color=\'#000000\'>甲：“我到埃及看过人面狮身像，你羡不羡慕啊，乙：“这有什么，我家有一大堆人头马呢。”........本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：人头马解羊鼠猪虎猴马</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：羊鼠猪虎猴马</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -30,7 +41,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：马猪蛇牛兔虎</font></b></div>");
+document.writeln("	综合特肖：<span style=\"background-color: #FFFF00\">马</span>猪蛇牛兔虎</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

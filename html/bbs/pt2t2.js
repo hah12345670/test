@@ -16,13 +16,19 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("259期：平特【猪猴拖狗鼠】开？00<br>");
+document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("257期：平特【狗马拖猴蛇】开？00<br>");
+document.writeln("258期：平特【兔蛇拖<span style=\'background-color: #FFFF00\'>鸡猪</span>】开07.41<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("257期：平特【<span style=\'background-color: #FFFF00\'>狗马</span>拖猴蛇】开06.34<br>");
 document.writeln("------<br>");
 
 document.writeln("");
-document.writeln("256期：平特【狗羊拖马虎】开33.26.34<br>");
+document.writeln("256期：平特【狗<span style=\'background-color: #FFFF00\'>羊</span>拖<span style=\'background-color: #FFFF00\'>马虎</span>】开33.26.34<br>");
 document.writeln("------<br>");
 
 

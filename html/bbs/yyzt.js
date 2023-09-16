@@ -36,9 +36,26 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>259期一语中特【朝晖夕阴】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：为一天里或早或晚阴晴变化。解龙虎狗猪兔鸡</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙虎狗猪兔鸡开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>")
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>257期一语中特【傍柳随花】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：春天依倚花草柳树而游乐的情调。解牛猴龙鼠蛇虎</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛猴<span style=\'background-color: #FFFF00\'>龙</span>鼠蛇虎开龙36准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>")
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>256期一语中特【耍两面派】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：耍两面手法，表里不一，也指对斗争双方都采取敷衍的行为。解虎猴羊马龙狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴羊马龙狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴羊<span style=\'background-color: #FFFF00\'>马</span>龙狗开马34准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
 document.writeln("  <tr>");
@@ -129,22 +146,25 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>256期一语中特【功臣自居】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：认为自己是功臣而了不起。解鼠虎牛狗鸡猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠虎牛狗鸡猴开0000准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>254期一语中特【钻天打洞】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻利用一切机会钻营。解狗兔牛蛇猴鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗<span style=\'background-color: #FFFF00\'>兔</span>牛蛇猴鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>259期一语中特【兜头盖脸】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：正对着头和脸。解马猪猴蛇羊虎</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马猪猴蛇羊虎开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+document.writeln("");
 
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>258期一语中特【德高望重】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：品德高尚，又有很高的声望。解猴羊鸡猪蛇兔</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴<span style=\'background-color: #FFFF00\'>羊</span>鸡猪蛇兔开羊09准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 

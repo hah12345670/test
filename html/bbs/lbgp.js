@@ -23,10 +23,26 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>257期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【七情六欲】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>259期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【冲锋陷阵】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丁丑日 属性：水 地支六冲：牛日：冲羊，克马，破猴，无鸡， 六合：鼠；三合：蛇鸡。空亡肖：羊鸡</font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   ");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>258期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【冲锋陷阵】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丙子日 属性：水 地支六冲：鼠日：冲马，克羊，破羊，无猴， 六合：牛；三合：龙猴。空亡肖：马鸡</font></div>");
+document.writeln("    </td></tr>");
+document.writeln(" ");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>257期另版挂牌</font><font size=\'4\' color=\'#FF0000\'>【七情六欲】</font><font color=\'#0033CC\'>开龙36<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：乙亥日 属性：火 地支六冲：猪日：冲蛇，克猴，破马，无羊， 六合：虎；三合：兔羊。空亡肖：蛇羊</font></div>");
 document.writeln("    </td></tr>");
 document.writeln("    ");
@@ -197,11 +213,11 @@ document.writeln("	</font><font color=\'#000000\'>◎生肖属性： 甲寅日 �
 document.writeln("    </td></tr>");
 document.writeln("    ");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

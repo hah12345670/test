@@ -46,72 +46,16 @@ document.writeln("                   <b>");
 document.writeln("		");
 
 
-document.writeln("                   <font color=\'#0000FF\'>（240期）</font></b><Br>");
-document.writeln("		<b>特肖【马狗龙蛇<span style=\'background-color: #FFFF00\'>猪</span>鼠】<br>		");
-document.writeln("		<br>");
-
-document.writeln("                   <font color=\'#0000FF\'>（241期）</font></b><Br>");
-document.writeln("		<b>特肖【牛鸡鼠猪<span style=\'background-color: #FFFF00\'>猴</span>羊】<br>		");
-document.writeln("		<br>");
-document.writeln("                   <font color=\'#0000FF\'>（242期）</font></b><Br>");
-document.writeln("		<b>特肖【兔猪鼠龙<span style=\'background-color: #FFFF00\'>猴</span>牛】<br>		");
-document.writeln("		<br>");
-
-document.writeln("                   <font color=\'#0000FF\'>（243期）</font></b><Br>");
-document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>狗</span>马猴兔羊鼠】<br>		");
-document.writeln("		<br>");
-document.writeln("                   <font color=\'#0000FF\'>（244期）</font></b><Br>");
-document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>兔</span>龙马羊狗虎】<br>		");
-document.writeln("		<br>");
-
-document.writeln("                   <font color=\'#0000FF\'>（245期）</font></b><Br>");
-document.writeln("		<b>特肖【虎<span style=\'background-color: #FFFF00\'>兔</span>鼠鸡蛇龙】<br>		");
-document.writeln("		<br>");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（246期）</font></b><Br>");
-document.writeln("		<b>特肖【鼠鸡猪马<span style=\'background-color: #FFFF00\'>兔</span>龙】<br>		");
-document.writeln("		<br>");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（248期）</font></b><Br>");
-document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>羊</span>鼠猴狗猪蛇】<br><br>		");
-
-
-
-document.writeln("                   <font color=\'#0000FF\'>（249期）</font></b><Br>");
-document.writeln("		<b>特肖【鼠兔<span style=\'background-color: #FFFF00\'>猪</span>马牛猴】<br>	<br>	");
-
-
-
-document.writeln("                   <font color=\'#0000FF\'>（250期）</font></b><Br>");
-document.writeln("		<b>特肖【龙猪鼠牛羊<span style=\'background-color: #FFFF00\'>虎</span>】<br>	<br>	");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（251期）</font></b><Br>");
-document.writeln("		<b>特肖【猴龙<span style=\'background-color: #FFFF00\'>马</span>兔虎鼠】<br>	<br>	");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（252期）</font></b><Br>");
-document.writeln("		<b>特肖【猪鸡狗<span style=\'background-color: #FFFF00\'>羊</span>蛇兔】<br>	<br>	");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（254期）</font></b><Br>");
-document.writeln("		<b>特肖【<span style=\'background-color: #FFFF00\'>兔</span>马龙猴牛鼠】<br>	<br>	");
-
-
-document.writeln("                   <font color=\'#0000FF\'>（255期）</font></b><Br>");
-document.writeln("		<b>特肖【猴鼠<span style=\'background-color: #FFFF00\'>兔</span>虎龙蛇】<br>	<br>	");
-
-
-
-document.writeln("                   <font color=\'#0000FF\'>（256期）</font></b><Br>");
-document.writeln("		<b>特肖【虎猪鼠<span style=\'background-color: #FFFF00\'>马</span>兔猴】<br>	<br>	");
-
 
 
 document.writeln("                   <font color=\'#0000FF\'>（259期）</font></b><Br>");
-document.writeln("		<b>特肖【羊猪牛鸡兔虎】<br>	<br>	");
+document.writeln("		<b>特肖【羊<span style=\'background-color: #FFFF00\'>猪</span>牛鸡兔虎】<br>	<br>	");
+
+
+
+document.writeln("                   <font color=\'#0000FF\'>（260期）</font></b><Br>");
+document.writeln("		<b>特肖【鼠蛇羊龙牛虎】<br>	<br>	");
+
 
 
 
@@ -126,28 +70,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("		236期必中平特【<span style=\'background-color: #FFFF00\'>兔</span>+狗】√<br>	");
-document.writeln("		237期必中平特【鸡+<span style=\'background-color: #FFFF00\'>马</span>】√<br>	");
-document.writeln("		238期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+龙】√<br>	");
-document.writeln("		239期必中平特【兔+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
-document.writeln("		240期必中平特【鸡+<span style=\'background-color: #FFFF00\'>牛</span>】√<br>	");
-document.writeln("		241期必中平特【牛+<span style=\'background-color: #FFFF00\'>虎</span>】√<br>	");
-document.writeln("		242期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+牛】√<br>	");
-document.writeln("		243期必中平特【<span style=\'background-color: #FFFF00\'>鼠+蛇</span>】√<br>	");
-document.writeln("		244期必中平特【蛇+<span style=\'background-color: #FFFF00\'>龙</span>】√<br>	");
-document.writeln("		245期必中平特【狗+<span style=\'background-color: #FFFF00\'>兔</span>】√<br>	");
-document.writeln("		246期必中平特【马+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
-document.writeln("		247期必中平特【<span style=\'background-color: #FFFF00\'>兔+龙</span>】√<br>	");
-document.writeln("		248期必中平特【<span style=\'background-color: #FFFF00\'>兔+羊</span>】√<br>	");
-document.writeln("		249期必中平特【狗+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
-document.writeln("		250期必中平特【狗+<span style=\'background-color: #FFFF00\'>虎</span>】√<br>	");
+
 document.writeln("		251期必中平特【<span style=\'background-color: #FFFF00\'>马+猴</span>】√<br>	");
 document.writeln("		252期必中平特【<span style=\'background-color: #FFFF00\'>鼠</span>+兔】√<br>	");
 document.writeln("		254期必中平特【<span style=\'background-color: #FFFF00\'>虎</span>+蛇】√<br>	");
 document.writeln("		255期必中平特【<span style=\'background-color: #FFFF00\'>猪</span>+鼠】√<br>	");
 document.writeln("		256期必中平特【<span style=\'background-color: #FFFF00\'>羊</span>+猪】√<br>	");
 document.writeln("		257期必中平特【猴+<span style=\'background-color: #FFFF00\'>马</span>】√<br>	");
-document.writeln("		259期必中平特【鼠+牛】√<br>	");
+document.writeln("		260期必中平特【鼠+羊】√<br>	");
 document.writeln("			<br>");
 document.writeln("		");
 document.writeln("");
@@ -171,8 +101,8 @@ document.writeln("		255期杀【19.02.09.42.07.20.03】√<br>");
 document.writeln("		256期杀【18.48.33.37.26.21.05】√<br>");
 document.writeln("		257期杀【10.28.29.47.08.21.48】√<br>");
 document.writeln("		258期杀【15.21.08.35.49.25.32】√<br>");
-
 document.writeln("		259期杀【40.47.08.31.44.03.07】√<br>");
+document.writeln("		260期杀【19.45.36.49.23.41.02】√<br>");
 document.writeln("	");
 document.writeln("<br>");
 document.writeln("");
@@ -218,7 +148,8 @@ document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("		254期（红肖）√<br>			");
 document.writeln("		256期（红肖）√<br>			");
 document.writeln("		257期（绿肖）√<br>			");
-document.writeln("		259期（红肖）√<br>			");
+
+document.writeln("		260期（蓝肖）√<br>			");
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -230,8 +161,8 @@ document.writeln("   ");
 document.writeln("");
 document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
-
-document.writeln("		259期【3590尾】√<br>				");
+document.writeln("		259期【35<span style=\'background-color: #FFFF00\'>9</span>0尾】√<br>				");
+document.writeln("		260期【1923尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -251,7 +182,7 @@ document.writeln("		");
 document.writeln("");
 
 
-document.writeln("		258期（3.0头）√<br>	");
+document.writeln("		260期（4.0头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -260,19 +191,9 @@ document.writeln("");
 document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友财迷】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("		241期红波+<span style=\'background-color: #FFFF00\'>蓝双</span>√<br>	");
-document.writeln("		242期<span style=\'background-color: #FFFF00\'>蓝波</span>+红双√<br>	");
-document.writeln("		243期绿波+<span style=\'background-color: #FFFF00\'>红双</span>√<br>	");
-document.writeln("		244期<span style=\'background-color: #FFFF00\'>蓝波</span>+红单√<br>	");
-document.writeln("		245期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿双√<br>	");
-document.writeln("		247期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿单√<br>	");
-document.writeln("		249期绿波+<span style=\'background-color: #FFFF00\'>红单</span>√<br>	");
-document.writeln("		250期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿双√<br>	");
-document.writeln("		251期<span style=\'background-color: #FFFF00\'>红波</span>+绿双√<br>	");
-document.writeln("		252期红波+<span style=\'background-color: #FFFF00\'>蓝单</span>√<br>	");
-document.writeln("		255期<span style=\'background-color: #FFFF00\'>红波</span>+绿单√<br>	");
 document.writeln("		258期<span style=\'background-color: #FFFF00\'>蓝波</span>+红双√<br>	");
-document.writeln("		259期蓝波+红单√<br>	");
+document.writeln("		259期蓝波+<span style=\'background-color: #FFFF00\'>红单</span>√<br>	");
+document.writeln("		260期红波+蓝单<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b><br>	");
@@ -299,16 +220,16 @@ document.writeln("<span style=\'font-size: 14pt\'>           ");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友一夜春风】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
-document.writeln("		258期杀蛇猪√<br>");
-document.writeln("		259期杀猪蛇√<br>");
+
+document.writeln("		260期杀牛猴√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友书阳】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 document.writeln("");
-
 document.writeln("		259期杀绿双√<br>");
+document.writeln("		260期杀红单√<br>");
 document.writeln("		");
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -324,6 +245,7 @@ document.writeln("");
 
 document.writeln("		258期杀4头单√<br>	");
 document.writeln("		259期杀2头双√<br>	");
+document.writeln("		260期杀0头双√<br>	");
 document.writeln("						");
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -335,7 +257,8 @@ document.writeln("		255期杀3.7尾√<br>");
 document.writeln("		256期杀5.3尾√<br>");
 document.writeln("		257期杀5.9尾√<br>");
 document.writeln("		258期杀7.2尾√<br>");
-document.writeln("		259期杀9.5尾√<br>");
+document.writeln("		259期杀9.5尾×<br>");
+document.writeln("		260期杀4.2尾√<br>");
 document.writeln("		");
 document.writeln("");
 document.writeln("			    ");

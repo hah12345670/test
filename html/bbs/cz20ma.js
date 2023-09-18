@@ -16,14 +16,30 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>六合彩</font><font color=\'#FFFFFF\'>『传真20码』</font></font></table>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>260期内幕传真20码开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>261期内幕传真20码开？00</font><br> ");
+document.writeln("特码玄129 305(鸡31)23+15= ？   <br>特码：猎犬自是山上丧，归根到底终须离<br>");
+document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
+document.writeln("41 45 09 03 36 13 49 06 27 37<br>   ");
+document.writeln("31 46 07 18 32 01 16 04 08 28</font> </p>         ");
+document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
+document.writeln("  <tbody><tr>");
+document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
+document.writeln("</td>");
+document.writeln("  <!--结束-->");
+document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<font color=\'#FF00FF\'>260期内幕传真20码开猪17</font><br> ");
 document.writeln("特码玄214 368(兔37)29+10= ？   <br>特码：天蓬元帅保唐僧<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("20 18 14 21 06 05 31 25 46 17<br>   ");
+document.writeln("20 18 14 21 06 05 31 25 46 <span style=\'background-color: #FFFF00\'>17</span><br>   ");
 document.writeln("38 03 22 26 16 24 37 41 39 47</font> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");
@@ -48,21 +64,6 @@ document.writeln("</td>");
 document.writeln("  <!--结束-->");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>257期内幕传真20码开龙36</font><br> ");
-document.writeln("特码玄345 126(虎38)26+11= ？   <br>特码：三两海欧添点缀，虽无修为亦无坚<br>");
-document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("35 24 11 25 34 15 48 46 31 04<br>   ");
-document.writeln("30 02 21 28 39 37 <span style=\'background-color: #FFFF00\'>36</span> 08 01 23</font> </p>         ");
-document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
-document.writeln("  <tbody><tr>");
-document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
-document.writeln("</td>");
-document.writeln("  <!--结束-->");
-document.writeln("");
 
 
 

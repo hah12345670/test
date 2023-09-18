@@ -35,9 +35,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>261期一语中特【断瓦残垣】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容建筑物倒塌残破的景象。解龙狗鼠兔鸡马</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙狗鼠兔鸡马开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>")
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>260期一语中特【盛水不漏】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻说理严密。解蛇猪龙虎猴狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇猪龙虎猴狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>猪</span>龙虎猴狗开猪17准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
 document.writeln("");
@@ -96,34 +104,6 @@ document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：有
 document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>虎</span>马猪猴羊狗开虎14准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>247期一语中特【缄舌闭口】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：闭着嘴不说话。解鼠虎马牛狗兔</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠虎马<span style=\'background-color: #FFFF00\'>牛</span>狗兔开牛03准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>246期一语中特【湖海飘零】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：居无定所,四处飘泊。解猪狗兔龙蛇马</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪狗<span style=\'background-color: #FFFF00\'>兔</span>龙蛇马开兔13准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>245期一语中特【猴子救月】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容没事找事，结果自己反而受到伤害。解马猪蛇兔牛鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马猪蛇<span style=\'background-color: #FFFF00\'>兔</span>牛鼠开兔37准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 
@@ -157,9 +137,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>260期一语中特【寒气刺骨】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：使冷得几乎失去知觉;使感到特别冷。解虎龙羊兔猴鸡</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙羊兔猴鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>261期一语中特【治乱扶安】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：治理乱象。解鼠兔牛虎鸡蛇</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠兔牛虎鸡蛇开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

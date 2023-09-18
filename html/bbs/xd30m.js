@@ -12,7 +12,7 @@ document.writeln("<td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-heigh
 document.writeln("<span style=\'font-family:Arial\'>");
 
 document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma259.jpg\' width=\'100%\' border=\'0\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma260.jpg\' width=\'100%\' border=\'0\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma261.jpg\' width=\'100%\' border=\'0\'>");
 
 
 

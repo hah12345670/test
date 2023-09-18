@@ -21,7 +21,7 @@ document.writeln("<!--推广结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("260期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>35.18.06.46.31</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("261期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>05.19.23.17.16</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");

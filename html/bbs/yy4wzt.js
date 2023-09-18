@@ -17,10 +17,16 @@ document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("260期<font color=\'#FF00FF\'>（蛇猴猪+6082尾）</font>开？00</font></b></font></table>");
+document.writeln("261期<font color=\'#FF00FF\'>（兔狗龙+6349尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("260期<font color=\'#FF00FF\'>（蛇猴<span style=\'background-color: #FFFF00\'>猪</span>+6082尾）</font>开猪17</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

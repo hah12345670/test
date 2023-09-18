@@ -34,6 +34,35 @@ document.writeln("");
 document.writeln("<!--必中start-->");
 document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
+
+
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li>261期必中一行：<font color=\'#FF00FF\' size=\'4\'>金</font></li>");
+document.writeln("            	<li>261期必中二行：<font color=\'#FF00FF\' size=\'4\'>金-水</font></li>");
+document.writeln("            	<li>261期必中三行：<font color=\'#FF00FF\' size=\'4\'>金-水-火</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>02.09.10.23.24.32</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>12.19.20.28.41.42</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>08.15.16.30.38.45</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>261期一行一码：<font color=\'#FF00FF\' size=\'6\'>(金行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
 document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码中特</div>");
@@ -41,8 +70,8 @@ document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
 document.writeln(" 	            <li>260期必中一行：<font color=\'#FF00FF\' size=\'4\'>木</font></li>");
-document.writeln("            	<li>260期必中二行：<font color=\'#FF00FF\' size=\'4\'>木-土</font></li>");
-document.writeln("            	<li>260期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-土-火</font></li>");
+document.writeln("            	<li>260期必中二行：<font color=\'#FF00FF\' size=\'4\'>木-<span style=\'background-color: #FFFF00\'>【土】</span></font></li>");
+document.writeln("            	<li>260期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-<span style=\'background-color: #FFFF00\'>【土】</span>-火</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

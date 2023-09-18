@@ -20,15 +20,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>259期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期特出零一头)(呆若木鸡)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>260期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(四六合一先后出)(人中之龙)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 document.writeln("");
+
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");

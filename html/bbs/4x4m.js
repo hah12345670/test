@@ -42,7 +42,18 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第261期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.猴20.牛15.马46】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第262期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.龙36.蛇23.羊21】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+
+document.writeln("");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第261期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.<span style=\'background-color: #FFFF00\'>猴20</span>.牛15.马46】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

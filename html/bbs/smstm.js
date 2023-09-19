@@ -43,7 +43,7 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>蛋糕是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:蛇牛龙狗猴兔鼠<span style=\'background-color: #FFFF00\'>猪</span></font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:蛇牛龙狗</font><font color=\'#FF0000\' size=\"5\"><span style=\'background-color: #FFFF00\'>猴</span></font><font color=\'#000000\' style=\"font-size: 13pt\">兔鼠</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
@@ -56,12 +56,12 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>四川是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:<span style=\'background-color: #FFFF00\'>猪</span>鼠羊蛇猴龙牛鸡</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:</font><font color=\'#FF0000\' size=\"5\"><span style=\'background-color: #FFFF00\'>猪</span></font><font color=\'#000000\' style=\"font-size: 13pt\">鼠羊蛇猴龙牛鸡</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -71,13 +71,13 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>立春是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:马鸡牛<span style=\'background-color: #FFFF00\'>羊</span>猴猪鼠狗</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:马鸡牛</font><font color=\'#FF0000\' size=\"5\"><span style=\'background-color: #FFFF00\'>羊</span></font><font color=\'#000000\' style=\"font-size: 13pt\">猴猪鼠狗</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

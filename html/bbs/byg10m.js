@@ -32,7 +32,7 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td height=41 align=\"center\">");
 document.writeln("<font size=\"4\">");
-document.writeln("<b>261期7.码：<font color=\"#FF0000\">29.04.03.24.07.23.02</span></font></b></tr>");
+document.writeln("<b>262期7.码：<font color=\"#FF0000\">118207b.com已更新</span></font></b></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");

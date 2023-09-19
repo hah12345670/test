@@ -62,7 +62,7 @@ document.writeln("			</tr>");
 document.writeln("						<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#F4F4F4\'>");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">蛇龙<font color=\'#FF0000\' style=\"font-size: 14pt\">猪虎马鸡牛羊</font><font color=\'#FF0000\' size=\"6\"><span style=\"background-color: #FFFF00\">猪</span></font>狗鼠牛羊</font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">蛇龙<font color=\'#FF0000\' size=\"6\"><span style=\"background-color: #FFFF00\">猪</span></font>狗鼠牛羊</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			");
 document.writeln("			<tr>");

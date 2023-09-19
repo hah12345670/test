@@ -64,8 +64,8 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【稍后来料】<br>");
-document.writeln("		【稍后来料】</font></b></td>");
+document.writeln("		【02.10.06.05.16.18.17.33】<br>");
+document.writeln("		【31.30.40.38.37.47.46.43】</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
 

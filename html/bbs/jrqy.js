@@ -14,7 +14,7 @@ document.writeln(".bizhong1234 img {width:100%; border-collapse: collapse; font-
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong1234 clearfix\'>");
 document.writeln("    <div class=\'bizhong1234-box action-bz\'>");
-document.writeln("<img src=\'/img/jrqy262.jpg\' id=\'jrqypicx\'>");
+document.writeln("<img src=\'/img/jrqy263.jpg\' id=\'jrqypicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,7 +25,7 @@ document.writeln(" <span class=\'bizhong1234-btn bizhong1234-next\' onclick=\'ne
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
-
+document.writeln("\'/img/jrqy263.jpg\',");
 document.writeln("\'/img/jrqy262.jpg\',");
 
 document.writeln("\'/img/jrqy261.jpg\',");
@@ -39,24 +39,11 @@ document.writeln("\'/img/jrqy256.jpg\',");
 document.writeln("\'/img/jrqy255.jpg\',");
 document.writeln("\'/img/jrqy254.jpg\',");
 document.writeln("\'/img/jrqy253.jpg\',");
-document.writeln("\'/img/jrqy252.jpg\',");
-document.writeln("\'/img/jrqy251.jpg\',");
-document.writeln("\'/img/jrqy250.jpg\',");
-document.writeln("\'/img/jrqy249.jpg\',");
-document.writeln("\'/img/jrqy248.jpg\',");
-document.writeln("\'/img/jrqy247.jpg\',");
-document.writeln("\'/img/jrqy246.jpg\',");
-document.writeln("\'/img/jrqy245.jpg\',");
-document.writeln("\'/img/jrqy244.jpg\',");
-document.writeln("\'/img/jrqy243.jpg\',");
-document.writeln("\'/img/jrqy242.jpg\',");
-document.writeln("\'/img/jrqy241.jpg\',");
-document.writeln("\'/img/jrqy240.jpg\',");
-document.writeln("\'/img/jrqy239.jpg\',");
 
 
 
-document.writeln("\'/img/jrqy230.jpg\'");
+
+document.writeln("\'/img/jrqy252.jpg\'");
 document.writeln(");");
 document.writeln("    var indexjrqy=0;");
 document.writeln("    function nextsbx(){");

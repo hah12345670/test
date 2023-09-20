@@ -35,9 +35,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>262期一语中特【鸿运当头】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：在新年开始的时候就有了好运。解兔牛羊马狗鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔牛羊马狗鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>263期一语中特【狂蜂浪蝶】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻轻薄放荡的男子。解鸡牛猴马虎羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡牛猴马虎羊开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
 document.writeln("");
@@ -106,9 +106,20 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>263期一语中特【穷言杂语】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：各种各样的论调。解牛猪龙马狗蛇</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛猪龙马狗蛇开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>262期一语中特【挑拨煽惑】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：搬弄是非,煽动闹事。解蛇鸡马猪龙虎</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇鸡马猪龙虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>鸡</span>马猪龙虎开鸡31准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

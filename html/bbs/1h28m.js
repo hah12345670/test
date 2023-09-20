@@ -43,9 +43,36 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
+document.writeln(" 	            <li>263期必中一行：<font color=\'#FF00FF\' size=\'4\'>金</font></li>");
+document.writeln("            	<li>263期必中二行：<font color=\'#FF00FF\' size=\'4\'>金-木</font></li>");
+document.writeln("            	<li>263期必中三行：<font color=\'#FF00FF\' size=\'4\'>金-木-火</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>02.09.10.23.24.31</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>05.06.14.21.35.36</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>08.15.16.29.37.45</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>262期一行一码：<font color=\'#FF00FF\' size=\'6\'>(金行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
 document.writeln(" 	            <li>262期必中一行：<font color=\'#FF00FF\' size=\'4\'>火</font></li>");
 document.writeln("            	<li>262期必中二行：<font color=\'#FF00FF\' size=\'4\'>火-土</font></li>");
-document.writeln("            	<li>262期必中三行：<font color=\'#FF00FF\' size=\'4\'>火-土-金</font></li>");
+document.writeln("            	<li>262期必中三行：<font color=\'#FF00FF\' size=\'4\'>火-土-<span style=\'background-color: #FFFF00\'>【金】</span></font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

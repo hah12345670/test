@@ -17,17 +17,18 @@ document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("262期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("263期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
-document.writeln("（01.05.06.48.11.12.24.30.37.45.16.25）<br>");
-document.writeln("（07.34.28.35.15.27.43.32.41.40.23.29）</span></font></p>");
+document.writeln("（41.02.45.21.47.38.44.11.10.29.37.32）<br>");
+document.writeln("（39.36.09.43.24.15.12.08.30.49.31.35）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
+
 
 document.writeln("<!-----开始----->");
 document.writeln("<tr>");

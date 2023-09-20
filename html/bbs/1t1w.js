@@ -24,7 +24,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("            <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>262期杀【6尾】开00准 </span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>263期杀【3尾】开00准 </span> </font>");
+
+document.writeln("");
+document.writeln("            <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>262期杀【6尾】开31准 </span> </font>");
 
 document.writeln("            <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
@@ -58,10 +63,15 @@ document.writeln("  ");
 document.writeln("		        <td style=\'text-align:left;background:#FFF;\' width=\'45%\' rowspan=\'2\'><div style=\'height: normal;\'>");
 document.writeln("   ");
 document.writeln("   ");
+document.writeln("               <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>263期杀【马】开00准 </span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+
 document.writeln("   ");
 document.writeln("               <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>262期杀【猴】开00准 </span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>262期杀【猴】开鸡准 </span> </font>");
 document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
 
 document.writeln("   ");

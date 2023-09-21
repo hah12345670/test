@@ -63,7 +63,10 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("263-265期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("264-266期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("263-265期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>363期中中中！</font>");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
 document.writeln("262-264期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>262期中中中！</font>");
@@ -149,7 +152,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("261-263期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("264-266期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
 document.writeln("259-261期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【牛肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>260期中中中！</font>");

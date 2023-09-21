@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("263期：平特【蛇虎拖兔狗】开？00<br>");
+document.writeln("264期：平特【马鸡拖牛猴】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("263期：平特【蛇虎拖<span style=\'background-color: #FFFF00\'>兔狗</span>】开49.06<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("262期：平特【牛<span style=\'background-color: #FFFF00\'>猴</span>拖<span style=\'background-color: #FFFF00\'>兔</span>狗】开44.25.13<br>");

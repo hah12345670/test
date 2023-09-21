@@ -43,7 +43,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第263期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊33.猪05.鸡43.狗30】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第264期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔37.鼠40.虎14.狗42】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

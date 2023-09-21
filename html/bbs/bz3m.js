@@ -31,6 +31,7 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
+
 document.writeln("      <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -41,7 +42,21 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("263-265期<font style=\'font-size: 14pt\'>【20.32.44】</font>第?0期中</span></font></font></b></td>");
+document.writeln("264期<font style=\'font-size: 14pt\'>【09.33.45】</font>第?0期中</span></font></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+
+document.writeln("      <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
+document.writeln("263-265期<font style=\'font-size: 14pt\'>【20.32.<span style=\'background-color: #FFFF00\'>44</span>】</font>第263期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 

@@ -43,21 +43,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第264期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔37.鼠40.虎14.狗42】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第261期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.<span style=\'background-color: #FFFF00\'>猴20</span>.牛15.马46】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第265期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔37.羊33.鸡43.猴20】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

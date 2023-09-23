@@ -1,0 +1,272 @@
+<!DOCTYPE html><title>模糊查询</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><script type="text/javascript" src="./nl.js"></script>
+		<div id="showdata1">
+			<input type="text" placeholder="请输入, 例如: 野兽..." oninput="search(this)" onchange="search(this)" value="" />
+		</div>
+		<div id="showdata"></div>
+		<style>
+			/*表格样式*/
+			table {
+				width: 100%;
+				background: #ccc;
+				margin: 10px auto;
+				border-collapse: collapse;
+				/*border-collapse:collapse合并内外边距
+			(去除表格单元格默认的2个像素内外边距*/
+			}
+			th,td {
+				height: 50px;
+				line-height: 50px;
+				text-align: center;
+				border: 1px solid #ccc;
+			}
+			th {
+				background: #eee;
+				font-weight: normal;
+			}
+			tr {
+				background: #fff;
+			}
+			tr:nth-child(odd){
+				background-color:#fff; 
+			}
+			p {
+				font-size: 14px;
+			}
+			input[type="text"] {
+				font-size: 16px;
+				border: 1px solid black;
+				padding: 5px;
+				background-color: #f2f2f2;
+				color: red;
+				border-radius: 5px;
+				box-shadow: 1px 1px 1px #888888;
+				width: 50%;
+			}
+		</style>
+		<script>
+		let arr1 = [
+								'家禽: 牛、马、羊、鸡、狗、猪',
+								'野兽: 鼠、虎、兔、龙、蛇、猴',
+								'吉美: 兔、龙、蛇、马、羊、鸡',
+								'凶丑: 鼠、牛、虎、猴、狗、猪',
+								'阴性: 鼠、龙、蛇、马、狗、猪',
+								'阳性: 牛、虎、兔、羊、猴、鸡',
+								'单笔: 鼠、龙、马、蛇、鸡、猪',
+								'双笔: 虎、猴、狗、兔、羊、牛',
+								'天肖: 兔、马、猴、猪、牛、龙',
+								'地肖: 蛇、羊、鸡、狗、鼠、虎',
+								'白边: 鼠、牛、虎、鸡、狗、猪',
+								'黑中: 兔、龙、蛇、马、羊、猴',
+								'女肖: 兔、蛇、羊、鸡、猪(五宫肖)',
+								'男肖: 鼠、牛、虎、龙、马、猴、狗',
+								'三合: 鼠龙猴、牛蛇鸡、虎马狗、兔羊猪',
+								'六合: 鼠牛、龙鸡、虎猪、蛇猴、兔狗、马羊',
+								'琴: 兔蛇鸡',
+								'棋: 鼠牛狗',
+								'书: 虎龙马',
+								'画: 羊猴猪',
+								'五福肖: 鼠、虎、兔、蛇、猴 [龙]',
+								'红肖: 马、兔、鼠、鸡',
+								'蓝肖: 蛇、虎、猪、猴',
+								'绿肖: 羊、龙、牛、狗',
+								'日肖: 兔、龙、蛇、马、羊、猴',
+								'夜肖: 鼠、牛、虎、鸡、狗、猪',
+								'金肖: 猴、鸡',
+								'木肖: 虎、兔',
+								'水肖: 鼠、猪',
+								'火肖: 蛇、马',
+								'土肖: 牛、龙、羊、狗',
+								'山肖: 鼠、虎、兔、羊、猴、鸡、猪',
+								'佛肖: 牛、虎、龙、蛇、猴',
+								'变肖: 虎、猴',
+								'子肖: 鼠、猴',
+								'猫肖: 虎、兔、猴、狗',
+								'才子: 龙、虎、猪',
+								'前肖: 鼠、牛、虎、兔、龙、蛇',
+								'后肖: 马、羊、猴、狗、猪',
+								'大肖: 牛、虎、马、羊、狗、猪',
+								'小肖: 鼠、兔、龙、蛇、猴、鸡',
+								'左肖: 鼠、牛、龙、蛇、猴、鸡',
+								'战肖: 虎、马、狗、牛',
+								'春东风肖: 兔、虎、龙',
+								'夏南雷肖: 蛇、马、羊',
+								'秋西云肖: 猴、鸡、狗',
+								'冬北云肖: 猪、鼠、牛',
+								'有边生肖: 龙、蛇、猴、鸡、狗、猪',
+								'无边生肖: 鼠、牛、虎、兔、马、羊',
+								'西天生肖: 虎、龙、狗、猪',
+								'两大君王: 龙、虎',
+								'两大恶人: 鼠、猴',
+								'四大美女: 兔、蛇、羊、鸡',
+								'四大家臣: 牛、马、狗、猪',
+								'夫妻生肖: 马、羊',
+								'三公天肖: 鼠、兔、马、鸡',
+								'三公地肖: 牛、龙、羊、狗',
+								'三公人肖: 虎、蛇、猴、猪',
+								'胆大生肖: 牛、虎、马、猴、狗、猪',
+								'胆小生肖: 鼠、兔、龙、蛇、羊、鸡',
+								'独字生肖: 鼠、牛、虎、兔、马、羊',
+								'合字生肖: 龙、蛇、猴、鸡、狗、猪',
+								'皇宫生肖: 虎、龙、马、猴、鸡',
+								'左边生肖: 鼠、牛、龙、蛇、猴、鸡',
+								'右边生肖: 虎、兔、马、羊、狗、猪',
+								'无红肖: 龙',
+								'无绿肖: 羊',
+								'边远肖: 鼠、猪',
+								'阴阳(太监、人妖)肖: 猴、猪',
+								'忠肖: 羊、狗',
+								'电肖: 兔、狗',
+								'衰肖: 马、牛',
+								'猛肖: 虎、蛇',
+								'舌肖: 龙、鸡',
+								'甜肖: 狗、猪',
+								'妖肖: 鼠、蛇',
+								'凡肖: 马、牛',
+								'神肖: 狗、鸡',
+								'鬼肖: 虎、猪',
+								'勤肖: 马、牛',
+								'短肖: 羊、狗',
+								'苦肖: 虎、羊',
+								'雨肖: 马、羊',
+								'听肖: 兔、狗',
+								'好肖: 牛、马',
+								'辣肖: 兔、后',
+								'地肖: 蛇、后',
+								'慢肖: 鸡、猪',
+								'目肖: 马、羊',
+								'风肖: 鼠、牛',
+								'酸肖: 牛、马',
+								'怒肖: 鼠、猴',
+								'长肖: 龙、蛇',
+								'雷肖: 虎、猪',
+								'贱肖: 牛、马',
+								'笨肖: 羊、猪',
+								'懒肖: 羊、猪',
+								'臭肖: 鼠、蛇',
+								'快肖: 猴、兔',
+								'天肖: 龙、鸡',
+								'伤肖: 虎、蛇',
+								'身肖: 虎、猪',
+								'优肖: 兔、龙',
+								'鼻肖: 鼠、蛇',
+								'意肖: 猴、牛',
+								'愁肖: 羊、狗',
+								'灵肖: 猴、狗',
+								'喜肖: 鸡、猪',
+								'惊肖: 鼠、兔',
+								'烈肖: 虎、兔',
+								'善肖: 猴、鸡',
+								'奸肖: 鼠、龙',
+								'坏肖: 鼠、猴',
+								'僧: 0尾',
+								'佛: 1尾',
+								'仙: 2尾',
+								'妖: 3尾',
+								'师: 4尾',
+								'王: 5尾',
+								'妃: 6尾',
+								'智: 7尾',
+								'霸: 8尾',
+								'雄: 9尾',
+								'犬旁肖: 猴、猪、狗',
+								'贪吃肖: 蛇、虎、猪',
+								'小偷生肖: 鼠、马、鸡',
+								'才子: 虎、龙、猪、马',
+								'仙肖: 牛、兔、猪、马',
+								'带刀肖: 虎、蛇、兔、龙',
+								'多情肖: 龙、狗、猪、马',
+								'贪财肖: 猴、鸡、狗、鼠',
+								'吃草肖(素食): 牛、马、羊、兔',
+								'领先肖: 鼠、马、龙、虎',
+								/* '黑肖: 鼠、牛、猴、鸡、龙、蛇', */
+								'洞中生肖: 鼠、兔、蛇、狗',
+								'好色肖: 龙、猪、狗、牛',
+								'头上有角肖: 牛、羊、龙、马(鹿)',
+								'尖嘴生肖: 鼠、兔、蛇、鸡、猴',
+								'虫肖: 大虫(龙)、小虫(蛇)',
+								'盲瞎: 蛇',
+								'聋: 龙',
+								'唇裂: 兔',
+								'太监: 猴、猪',
+								'多钱肖、多金肖: 猴、鸡、狗、猪、龙、马、羊'
+								];
+		myTimer(arr1);
+		function myTimer(list){
+			let str1 = '<table><tr><th colspan=5>属性总纲</th></tr>';
+			for (var x = 0; x < Math.ceil(list.length/5); x++) {
+				str1 += '<tr>';
+				for (var y = 0; y < 5; y++) {
+					if ((5*x+y) < list.length) {
+						str1 += '<td>' + list[(5*x+y)] + '</td>';
+					} else {
+						str1 += '<td></td>';
+					}
+				}
+				str1 += '</tr>';
+			}
+			str1 += '</table>';
+			document.getElementById("showdatax").innerHTML = str1;
+		}
+		function search(str1){
+			let list = fuzzyQuery(arr1, str1.value);
+			let str = '';
+			for (var i = 0; i < list.length; i++) {
+				str += '<p>' + list[i] + '</p>';
+			}
+			document.getElementById("showdata").innerHTML = str;
+		}
+		/**
+		* 使用test方法实现模糊查询
+		* @param  {Array}  list     原数组
+		* @param  {String} keyWord  查询的关键词
+		* @return {Array}           查询的结果
+		*/
+		function fuzzyQuery(list, keyWord) {
+			var reg =  new RegExp(keyWord);
+			var arr = [];
+			for (var i = 0; i < list.length; i++) {
+				if (reg.test(list[i])) {
+					arr.push(list[i]);
+				}
+			}
+			return arr;
+		}
+		</script>
+		
+		<!-- <div id="show_js"></div>
+		<script>
+		let reloadhtml = setInterval(function(){reload()},1000);
+		let ds = new Date(); // 当前多少秒
+		// let startseconds = ds.getHours()*3600 + ds.getMinutes()*60 + ds.getSeconds();
+		let startseconds = ds.getSeconds() + 10;
+		let showjsistrue = true;
+		function reload(){
+			let d = new Date();
+			let t = d.toLocaleTimeString();
+			// document.getElementById("show_js").innerHTML = t;
+			// 现在多少秒
+			let nowseconds = d.getSeconds();
+			if(showjsistrue && (startseconds%%60 == nowseconds)){
+				showjsistrue = false;
+				document.getElementById("show_js").innerHTML = '<script async src="\/\/busuanzi.ibruce.info\/busuanzi\/2.3\/busuanzi.pure.mini.js"><\/script><div style="font-weight: bolder;font-size: 0px;"><span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"><\/span><\/span>, <span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"><\/span><\/span>, <span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"><\/span><\/span><\/div>';
+			}
+		}
+		</script> -->
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		<div style="font-weight: bolder;font-size: 0px;">
+			<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
+			<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
+			<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
+		</div>
+		<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0"/> -->
+		
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-17W024N6QS');
+		</script>
+		
+		

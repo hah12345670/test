@@ -17,14 +17,26 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>265期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>266期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        42.36.41.22.35.49.14.34.19.31.28.24<br>");
+document.writeln("			    48.33.40.10.39.08.32.03.46.30.18.12<br>");
+document.writeln("			    07.44.09.29.11.25.05.01.27.15.16.205</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>265期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>25</font>准<br>");
 document.writeln("		        20.46.34.09.48.03.08.47.13.24.05.41<br>");
 document.writeln("			    17.11.32.06.26.37.28.01.40.04.29.14<br>");
-document.writeln("			    39.25.16.30.38.45.23.21.02.18.27.35</font>");
+document.writeln("			    39.<span style=\'background-color: #FFFF00\'>25</span>.16.30.38.45.23.21.02.18.27.35</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");

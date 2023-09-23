@@ -1,6 +1,7 @@
 <!DOCTYPE html><title>模糊查询</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><script type="text/javascript" src="./nl.js"></script>
 		<div id="showdata1">
 			<input type="text" placeholder="请输入, 例如: 野兽..." oninput="search(this)" onchange="search(this)" value="" />
+			<label><b style="color: #ff00004e;">*</b>多个关键词用"|"分开, 例如: "野兽|火"</label>
 		</div>
 		<div id="showdata"></div>
 		<style>
@@ -40,7 +41,12 @@
 				color: red;
 				border-radius: 5px;
 				box-shadow: 1px 1px 1px #888888;
-				width: 50%;
+				width: -moz-available;
+			}
+			label {
+				font-size: 13px;
+				font-style: italic;
+				color: #0000ff4e;
 			}
 		</style>
 		<script>
@@ -208,7 +214,7 @@
 			document.getElementById("showdatax").innerHTML = str1;
 		}
 		function search(str1){
-			let list = fuzzyQuery(arr1, str1.value);
+			let list = fuzzyQuery(arr1, str1.value); // 一个关键词
 			let str = '';
 			for (var i = 0; i < list.length; i++) {
 				str += '<p>' + list[i] + '</p>';

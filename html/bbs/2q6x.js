@@ -48,7 +48,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("265-266期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鼠鸡蛇牛猴狗】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("267-268期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【羊狗虎兔龙马】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

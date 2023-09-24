@@ -48,18 +48,36 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("		266期<font color=\'#FF0000\'>【关注62103a.com】</font>");
+document.writeln("			267期<font color=\'#FF0000\'>【关注62103a.com】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62103c.com</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：来料<br>");
 document.writeln("			大小：来料<br>");
 document.writeln("			特码：来料");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("		266期<font color=\'#FF0000\'>【今期生肖送太监，一二三四自已查】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：太监解猪，一四解鼠兔，二三解虎牛，</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：<span style=\'background-color: #FFFF00\'>虎</span>鼠兔猪牛龙蛇<br>");
+document.writeln("			大小：小数<br>");
+document.writeln("			特码：<span style=\'background-color: #FFFF00\'>02</span>.14.04.16.01.13.05.17.03.15.12.24.11.23");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
@@ -176,25 +194,6 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
-
-
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			253期<font color=\'#FF0000\'>【江河湖海任我行，死路一条还要走】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：江河湖海解水肖鼠猪，死路一条解凶肖狗猪鼠虎牛猴</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：猪鼠<span style=\'background-color: #FFFF00\'>虎</span>狗牛猴龙<br>");
-document.writeln("			大小：<span style=\'background-color: #FFFF00\'>大数</span><br>");
-document.writeln("			特码：29.41.28.40.<span style=\'background-color: #FFFF00\'>26</span>.38.30.42.27.39.32.44.36.48");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("");
 
 
 

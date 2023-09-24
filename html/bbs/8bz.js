@@ -37,7 +37,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>266期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>267期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");

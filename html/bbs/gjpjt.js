@@ -23,7 +23,16 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>267期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(双数有奖红也是)(目无金牛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>268期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(一六四尾不得九)(一龙一猪)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>267期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(<span style=\'background-color: #FFFF00\'>双数有奖</span>红也是)(目无金牛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特32平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

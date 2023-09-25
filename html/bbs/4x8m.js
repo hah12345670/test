@@ -18,6 +18,24 @@ document.writeln("<!-----结束----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>268期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
+document.writeln("</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【马34.46】");
+document.writeln("【羊09.45】<br>");
+document.writeln("【鼠28.40】");
+document.writeln("【猪05.41】<br>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
+
+document.writeln("<!-----结束----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("<span style=\'color: #00F;\'>267期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
 document.writeln("</font></td></tr>");
 document.writeln("<tr>");
@@ -25,10 +43,10 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【虎26.38】");
-document.writeln("【猴20.44】<br>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>猴</span>20.44】<br>");
 document.writeln("【鸡31.43】");
 document.writeln("【蛇23.47】<br>");
-document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>猴32准</span></span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 

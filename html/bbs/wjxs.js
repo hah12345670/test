@@ -49,7 +49,7 @@ document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>9月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【19.24.<span style=\'background-color: #FFFF00\'>01</span>.27.04.12.32.16.<span style=\'background-color: #FFFF00\'>20</span>.30】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>2</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>9月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【19.24.<span style=\'background-color: #FFFF00\'>01</span>.27.04.12.<span style=\'background-color: #FFFF00\'>32</span>.16.<span style=\'background-color: #FFFF00\'>20</span>.30】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>3</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("    <!--结束--> ");
 document.writeln("");

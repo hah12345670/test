@@ -17,7 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("267期：平特【兔牛拖龙虎】开？00<br>");
+document.writeln("268期：平特【猪鼠拖鸡虎】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

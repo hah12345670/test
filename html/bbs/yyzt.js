@@ -36,19 +36,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>266期一语中特【痿不忘起】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意志坚强。解猪狗鼠蛇虎羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪狗鼠蛇虎羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语中特【摇摇欲倒】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 摇摇:摇晃;欲:将要。形容很快就要倒塌,或不稳固,很快。解龙蛇猪狗牛羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙蛇猪狗牛羊开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>264期一语中特【狂蜂浪蝶】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻轻薄放荡的男子。解鸡牛猴马虎羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡牛猴马虎<span style=\'background-color: #FFFF00\'>羊</span>开羊09准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>267期一语中特【五穷六绝】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：股市在每逢5月的时候都会开始跌市，到了6月更会大跌。解牛虎猴狗蛇羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛虎<span style=\'background-color: #FFFF00\'>猴</span>狗蛇羊开猴32准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
+
 
 
 
@@ -81,9 +83,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>266期一语中特【急躁冒进】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：碰到不称心的事情易于激动。解马蛇牛兔猪猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马蛇牛兔猪猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语中特【外紧内松】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指政策的收紧与放宽或指人的心情,即内心紧张,态度镇静。解兔鼠虎牛猴蛇</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠虎牛猴蛇开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

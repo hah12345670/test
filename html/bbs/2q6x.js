@@ -41,17 +41,17 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("             <!--开始--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("267-268期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【羊狗虎兔龙马】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("269-270期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鼠蛇龙猪牛羊】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
+
 document.writeln("");
 document.writeln("             <!--开始--> ");
 document.writeln("		<tr>");

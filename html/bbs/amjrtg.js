@@ -150,7 +150,7 @@ document.writeln("");
 document.writeln("<table id=table3 border=0 width=100% cellspacing=0 cellpadding=0 bgcolor=#ff0000 height=\'150\'><tbody>");
 document.writeln("<tr><td style=\'border:10px double #ff0\';background=\'rad\' align=center height=\'250\' bgcolor=\'#000000\'>");
 document.writeln("	<strong><span style=font-family:方正粗黑宋简体;font-size:16pt;color:#ff0>");
-document.writeln("	<a target=\'_blank\' href=\'https://tututu.b626102.com:888/#ty353563\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://tututuu.www62102.com:888/#ty353563\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font color=\'#FFFF00\'>澳门资料网</font><font color=\'#FF0000\'>62103b.com</font><font color=\'#FFFF00\'>论坛的<br>正确打开方式:<br>①手动输入全网址:<br></font><font color=\'#FF0000\'>http://www.62103b.com</font><font color=\'#FFFF00\'><br>②打开后等待一分钟加载完成<br>③再进行论坛浏览<br>就不会有论坛卡顿评论区白屏情况</font><font color=\'#FF0000\'><br>点击这里<img src=\'https://www.123966b.com/images/zu.gif\' style=\'width:32px; height:21px\' >进入查看</font></span></a></span></strong></table>  ");
 document.writeln("	");
 document.writeln("	");

@@ -32,7 +32,7 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("	268期12码:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>37859c.com已更新</font></div>");
+document.writeln("	268期12码:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>08 32 16 28 14 38 24 36 06 42 19 43</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

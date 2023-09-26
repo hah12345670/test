@@ -121,7 +121,7 @@ document.writeln("<br>	");
 document.writeln("		<font color=\'#0000FF\'>266期三行=<span style=\'background-color: #FFFF00\'>金</span>土火√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>267期三行=水<span style=\'background-color: #FFFF00\'>金</span>土√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>268期三行=金木水×</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>269期三行=龙羊兔√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>269期三行=水火金√</font><br>			");
 document.writeln("		");
 document.writeln("<br>		");
 

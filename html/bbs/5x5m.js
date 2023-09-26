@@ -45,7 +45,7 @@ document.writeln("    	<div class=\'bizhong18-r\'>");
 document.writeln("        	<ul>");
 document.writeln("                <li>必中三码：<font color=\'#FF0000\' size=\'4\'>01.31.41</font></li>");
 document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>27.37.47</font></li>");
-document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>08.18.48/font></li>");
+document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>08.18.48</font></li>");
 document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>10.30.40</font></li>");
 document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>04.24.44</font></li>");
 document.writeln("");

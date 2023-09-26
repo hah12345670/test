@@ -33,12 +33,19 @@ document.writeln("  </tr>");
 document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>269期一语中特【新酒旧瓶】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻用旧的形式表现新的内容。解狗鸡兔龙蛇猪</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鸡兔龙蛇猪开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>")
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语中特【摇摇欲倒】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 摇摇:摇晃;欲:将要。形容很快就要倒塌,或不稳固,很快。解龙蛇猪狗牛羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙蛇猪狗牛羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙蛇猪狗<span style=\'background-color: #FFFF00\'>牛</span>羊开牛03准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
 
@@ -83,9 +90,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>269期一语中特【莺歌燕舞】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指小燕子，成语的意思是，黄莺在歌唱，小燕子在飞舞，形容春天鸟儿喧闹活跃的景象。解蛇羊猪鼠马虎</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇羊猪鼠马虎开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语中特【外紧内松】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指政策的收紧与放宽或指人的心情,即内心紧张,态度镇静。解兔鼠虎牛猴蛇</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠虎牛猴蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠虎<span style=\'background-color: #FFFF00\'>牛</span>猴蛇开牛03准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

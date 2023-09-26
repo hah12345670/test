@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("268期：平特【猪鼠拖鸡虎】开？00<br>");
+document.writeln("269期：平特【狗鼠拖兔猪】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("268期：平特【<span style=\'background-color: #FFFF00\'>猪</span>鼠拖<span style=\'background-color: #FFFF00\'>鸡</span>虎】开05.43<br>");
 document.writeln("------<br>");
 
 document.writeln("");

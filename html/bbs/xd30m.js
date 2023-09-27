@@ -11,7 +11,7 @@ document.writeln("<tr>");
 document.writeln("<td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:35px\'>");
 document.writeln("<span style=\'font-family:Arial\'>");
 
-document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma268.jpg\' width=\'100%\' border=\'0\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma270.jpg\' width=\'100%\' border=\'0\'>");
 document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma269.jpg\' width=\'100%\' border=\'0\'>");
 
 

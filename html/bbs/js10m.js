@@ -42,13 +42,14 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>270期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
-document.writeln("		【02.49.17.14.29.45.05.08.48.28】</font></span><span style=\'font-size: 14pt\'>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>271期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【06.45.20.40.34.32.26.10.35.49】</font></span><span style=\'font-size: 14pt\'>");
 document.writeln("		</span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
+
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");

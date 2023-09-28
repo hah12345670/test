@@ -16,7 +16,11 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("270期：平特【羊虎拖鼠龙】开？00<br>");
+document.writeln("");
+document.writeln("271期：平特【兔龙拖猴蛇】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("270期：平特【<span style=\'background-color: #FFFF00\'>羊</span>虎拖<span style=\'background-color: #FFFF00\'>鼠</span>龙】开45.28<br>");
 document.writeln("------<br>");
 
 document.writeln("");

@@ -42,43 +42,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第270期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.鸡31.猪05.羊45】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第271期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴20.鸡31.羊45.猪05】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
-
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第267期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠04.龙36.马22.<span style=\'background-color: #FFFF00\'>猴</span>44】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第266期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40.猪41.<span style=\'background-color: #FFFF00\'>虎</span>14.蛇35】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第265期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>兔</span>37.羊33.鸡43.猴20】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
 
 
 

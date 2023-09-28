@@ -33,11 +33,19 @@ document.writeln("  </tr>");
 document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>271期一语中特【富贵功名】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：	指既有财势又官位显赫。解虎马蛇羊牛猪</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎马蛇羊牛猪开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>")
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>270期一语中特【割须换袍】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：	超遂令人叫拏短髯者是曹操。操闻之，即扯旗角包颈而逃。解羊虎猴狗马蛇</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊虎猴狗马蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊虎<span style=\'background-color: #FFFF00\'>猴</span>狗马蛇开猴08准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>")
 document.writeln("  <tr>");
@@ -92,14 +100,22 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>271期一语中特【浅斟低酌】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：慢慢地饮着茶酒欣赏;形容悠然自得的样子。解猪羊马兔狗鼠</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪羊马兔狗鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>270期一语中特【予人口实】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：给人留下责难的借口。解猴狗虎鸡鼠马</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴狗虎鸡鼠马开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>猴</span>狗虎鸡鼠马开猴08准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

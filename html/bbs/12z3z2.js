@@ -9,6 +9,21 @@ document.writeln("<font color=\'#008000\' size=\'5\' style=\'font-weight: 700\' 
 document.writeln("<!--说明-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("   <!--开始-->");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">271期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		【48.32.31】【16.45.27】【19.06.07】<br>");
+document.writeln("		【49.07.36】【24.01.18】【48.27.06】<br>		");
+document.writeln("		【14.24.30】【09.47.34】【02.10.16】<br>				");
+document.writeln("		【14.01.19】【18.49.06】【02.10.48】</b><br>");
+document.writeln(" <!--结束--> ");
+document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
@@ -17,10 +32,10 @@ document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">270期【�
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【46.29.11】【24.05.28】【49.02.25】<br>");
+document.writeln("		【46.29.11】【24.<span style=\'background-color: #FFFF00\'>05.28</span>】【49.02.25】<br>");
 document.writeln("		【32.29.13】【07.45.36】【46.05.25】<br>		");
 document.writeln("		【17.09.03】【20.27.40】【35.11.44】<br>				");
-document.writeln("		【03.28.35】【20.11.44】【17.29.02】</b><br>");
+document.writeln("		【<span style=\'background-color: #FFFF00\'>03.28</span>.35】【20.11.44】【17.29.02】</b><br>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
 

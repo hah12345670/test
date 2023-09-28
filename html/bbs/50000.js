@@ -161,10 +161,13 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("269-271期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("271-273期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("266-268期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("269-271期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>270期中中中！</font>");
+
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("266-268期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>268期中中中！</font>");
 
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
 document.writeln("264-266期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>265期中中中！</font>");

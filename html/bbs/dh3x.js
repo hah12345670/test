@@ -25,42 +25,49 @@ document.writeln("独肖：鼠牛虎兔马羊</span></font></b></font></table>")
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>272期</font>【<font color=\'#FF0000\'>独肖:兔马羊</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>271期</font>【<font color=\'#FF0000\'>独肖:牛虎兔</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>271期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>牛</span>虎兔</font>】开<font color=\'#FF00FF\'>(牛39)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>270期</font>【<font color=\'#FF0000\'>合肖:龙猪蛇</font>】开<font color=\'#FF00FF\'>(猴08)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>269期</font>【<font color=\'#FF0000\'>独肖:牛马<span style=\'background-color: #FFFF00\'>兔</span></font>】开<font color=\'#FF00FF\'>(兔13)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
+document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("  </tbody>");

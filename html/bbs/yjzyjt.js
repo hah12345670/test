@@ -19,27 +19,27 @@ document.writeln("");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>271期特码玄机开？00</font><font size=\'4\'><br> ");
+document.writeln("<font size=\'4\' color=\'#0000FF\'>272期特码玄机开？00</font><font size=\'4\'><br> ");
 document.writeln("</font> ");
-document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：残羹剩饭充饥饿<br>");
+document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：情意绵绵似娇妻<br>");
 document.writeln("</font>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("<font size=\'4\'>");
-document.writeln("<span style=\'color: #008000\'>玄机给肖：双数+羊鸡<br>");
-document.writeln("玄机双波：主红 防绿</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
+document.writeln("<span style=\'color: #008000\'>玄机给肖：单数+狗虎<br>");
+document.writeln("玄机双波：主红 防蓝</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
 document.writeln("</span>");
 document.writeln("</font>  ");
 document.writeln("</span>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
-document.writeln("04.29.21.48.35.07.47.27.44.15<br>");
-document.writeln("13.10.33.31.26.46.17.41.08.01<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
+document.writeln("06.18.30.42.02.26.38.14.11.23<br>");
+document.writeln("35.47.05.17.29.41.03.15.27.39<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
 document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://tututu.b626102.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

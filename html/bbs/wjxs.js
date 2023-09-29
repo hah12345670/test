@@ -26,7 +26,7 @@ document.writeln("			<table style=border-collapse:collapse border=0 width=100%><
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("    <!--开始--> ");
 document.writeln("    ");
@@ -44,7 +44,7 @@ document.writeln("    </tr>      ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>9月必开一尾</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【111】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(21.31)</font><font color=\'#FF0000\' face=\'微软雅黑\'>2次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>9月必开一尾</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【111】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(21.31.01)</font><font color=\'#FF0000\' face=\'微软雅黑\'>3次</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");

@@ -10,15 +10,29 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:35px\'>");
 document.writeln("<span style=\'font-family:Arial\'>");
-
+document.writeln("");
 document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma270.jpg\' width=\'100%\' border=\'0\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma271.jpg\' width=\'100%\' border=\'0\'>");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("</span>");
+document.writeln("<span style=\'font-family:Arial\'>");
+document.writeln("");
+document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma271.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("");
+document.writeln("");
+document.writeln("<span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma272.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

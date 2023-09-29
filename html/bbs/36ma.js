@@ -12,24 +12,23 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>271期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		        32.42.19.23.16.07.29.46.03.21.30.26<br>");
-document.writeln("			    08.28.15.01.47.49.40.36.37.09.44.20<br>");
-document.writeln("			    02.05.18.34.43.48.17.35.06.25.31.10</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>272期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        33.22.29.45.07.40.08.20.25.31.36.21<br>");
+document.writeln("			    26.01.16.10.41.43.06.02.30.27.38.39<br>");
+document.writeln("			    09.44.49.32.19.47.24.48.03.35.11.13</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
@@ -124,25 +123,15 @@ document.writeln("			    11.33.39.28.49.38.04.17.22.27.36.20</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>261期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>20</font>准<br>");
-document.writeln("		        33.22.29.45.07.40.08.<span style=\'background-color: #FFFF00\'>20</span>.25.31.36.21<br>");
-document.writeln("			    26.01.16.10.41.43.06.02.30.27.38.39<br>");
-document.writeln("			    09.44.49.32.19.47.24.48.03.35.11.13</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">49图库<font color=\"#FF0000\">49.com</font>图纸最全-最快</b></p></a></td></tr>");
+document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

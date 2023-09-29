@@ -9,9 +9,9 @@ document.writeln("<body>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『合数中特』</font></font></b></table>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
@@ -19,12 +19,13 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700/\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("271期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("272期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
+document.writeln("		");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
@@ -32,24 +33,25 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("270期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>猴08</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("269期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>兔13</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("");
 document.writeln("267期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>猴32</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
@@ -57,60 +59,20 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("266期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>虎02</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("265期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>兔25</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("262期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>鸡31</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("261期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>猴20</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
 document.writeln("");
 document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("260期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>猪17</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
 document.writeln("");
 document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("258期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>羊09</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
 document.writeln("");
 document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("257期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>龙36</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
 document.writeln("");
-
-
-
-
-
-
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888/#62102c12\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;font-size:17pt;color:#00f>进入雷锋论坛</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>628282.CC</font></span></a></strong></tr></table>");

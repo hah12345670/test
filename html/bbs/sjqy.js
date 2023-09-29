@@ -15,7 +15,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<body class=\'bjbj\'>");
-document.writeln(""); 
+document.writeln(" ");
 document.writeln("");
 document.writeln("	<div class=\'a1\'>");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\' height=\'150\'>");
@@ -29,7 +29,7 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/271/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/272/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
@@ -40,13 +40,27 @@ document.writeln("               <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第272期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（开山劈地成六道）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：开山劈地成六道，解猴虎狗马牛鼠。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：猴虎狗马牛鼠</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
+document.writeln("");
+document.writeln(" <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
 document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第271期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
 document.writeln("		（将军君王美女伴）<br></font>  ");
 document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：将军君王美女伴，解牛兔猴鼠龙猪。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：牛兔猴鼠龙猪</font></b></td>");
+document.writeln("		综合特码：<span style=\'background-color: #FFFF00\'>牛</span>兔猴鼠龙猪</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");
@@ -107,7 +121,7 @@ document.writeln("		综合特码：马兔狗<span style=\'background-color: #FFF
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("               <!--开始--> ");
 document.writeln("    	<tr>");
@@ -123,9 +137,9 @@ document.writeln("		综合特码：虎鸡蛇羊兔<span style=\'background-color
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("           ");
 document.writeln("<!--推广开始-->");

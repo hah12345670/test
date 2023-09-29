@@ -22,7 +22,41 @@ document.writeln(".bizhong7-foot { font-size: 18px;}");
 document.writeln("}");
 document.writeln("");
 document.writeln("</style>");
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong7\'>");
+document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong7-box\'>");
+document.writeln("    	<div class=\'bizhong7-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li>272期必中一头：<font color=\'#FF0000\' size=\'4\'>0</font></li>");
+document.writeln("            	<li>272期必中二头：<font color=\'#FF0000\' size=\'4\'>0-3</font></li>");
+document.writeln("            	<li>272期必中三头：<font color=\'#FF0000\' size=\'4\'>0-3-4</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong7-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>01.04.05.06.08.09</font></li>");
+document.writeln("            	<li>②<font color=\'#FF0000\' size=\'4\'>30.32.33.34.35.36</font></li>");
+document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>41.45.46.47.48.49</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong7-foot\'>272期一头中特：<font color=\'#FF0000\' size=\'6\'>（0头）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong7\'>");
 document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码中特</div>");
@@ -31,25 +65,15 @@ document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
 document.writeln(" 	            <li>271期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
 document.writeln("            	<li>271期必中二头：<font color=\'#FF0000\' size=\'4\'>1-2</font></li>");
-document.writeln("            	<li>271期必中三头：<font color=\'#FF0000\' size=\'4\'>1-2-3</font></li>");
+document.writeln("            	<li>271期必中三头：<font color=\'#FF0000\' size=\'4\'>1-2-<span style=\'background-color: #FFFF00\'>【3】</span></font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
-document.writeln("    	<div class=\'bizhong7-r\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>11.12.13.15.16.18</font></li>");
-document.writeln("            	<li>②<font color=\'#FF0000\' size=\'4\'>20.21.23.25.26.27</font></li>");
-document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>30.32.34.35.36.37</font></li>");
 document.writeln("");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong7-foot\'>271期一头中特：<font color=\'#FF0000\' size=\'6\'>（1头）</font>单车变宝马~</div>");
 document.writeln("");
-document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong7\'>");
 document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码中特</div>");
@@ -75,16 +99,16 @@ document.writeln("      <div class=\'bizhong7-foot\'>270期一头中特：<font 
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

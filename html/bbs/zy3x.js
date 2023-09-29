@@ -17,7 +17,7 @@ document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -29,11 +29,25 @@ document.writeln("右肖虎兔马羊狗猪</font></font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("271期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>左肖+虎马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("272期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>右肖+猴鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
+document.writeln("		");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("271期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+虎马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛39</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("		");
+document.writeln("		");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
@@ -119,9 +133,9 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("254期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+龙蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔49</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>9898.cc</font></span></a></strong></tr></table>");

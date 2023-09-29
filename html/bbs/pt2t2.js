@@ -17,7 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("271期：平特【兔龙拖猴蛇】开？00<br>");
+document.writeln("272期：平特【狗虎拖牛鼠】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("270期：平特【<span style=\'background-color: #FFFF00\'>羊</span>虎拖<span style=\'background-color: #FFFF00\'>鼠</span>龙】开45.28<br>");

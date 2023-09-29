@@ -34,27 +34,34 @@ document.writeln("   <!--gavc-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("  <tr>");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>272期一语中特【揭竿四起】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：	到处高举义旗，起来斗争。泛指人民到处进行武装起义。解狗虎牛马龙猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗虎牛马龙猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("   <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>271期一语中特【富贵功名】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：	指既有财势又官位显赫。解虎马蛇羊牛猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎马蛇羊牛猪开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎马蛇羊<span style=\'background-color: #FFFF00\'>牛</span>猪开牛39准</div>");
 document.writeln("    </td>");
-document.writeln("  </tr>")
+document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>270期一语中特【割须换袍】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：	超遂令人叫拏短髯者是曹操。操闻之，即扯旗角包颈而逃。解羊虎猴狗马蛇</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'>综合：羊虎<span style=\'background-color: #FFFF00\'>猴</span>狗马蛇开猴08准</div>");
 document.writeln("    </td>");
-document.writeln("  </tr>")
+document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>269期一语中特【新酒旧瓶】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻用旧的形式表现新的内容。解狗鸡兔龙蛇猪</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鸡<span style=\'background-color: #FFFF00\'>兔</span>龙蛇猪开兔13准</div>");
 document.writeln("    </td>");
-document.writeln("  </tr>")
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
@@ -62,8 +69,8 @@ document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 摇摇:摇晃;欲:将要。形容很快就要倒塌,或不稳固,很快。解龙蛇猪狗牛羊</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'>综合：龙蛇猪狗<span style=\'background-color: #FFFF00\'>牛</span>羊开牛03准</div>");
 document.writeln("    </td>");
-document.writeln("  </tr>")
-
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
@@ -71,11 +78,11 @@ document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>267期一语
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：股市在每逢5月的时候都会开始跌市，到了6月更会大跌。解牛虎猴狗蛇羊</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'>综合：牛虎<span style=\'background-color: #FFFF00\'>猴</span>狗蛇羊开猴32准</div>");
 document.writeln("    </td>");
-document.writeln("  </tr>")
-
-
-
-
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -104,9 +111,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>271期一语中特【浅斟低酌】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：慢慢地饮着茶酒欣赏;形容悠然自得的样子。解猪羊马兔狗鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪羊马兔狗鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>272期一语中特【温良忍让】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：表示听他人意志的摆布、忍让、屈从。解蛇鸡羊兔猪猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇鸡羊兔猪猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -119,7 +126,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-co
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>268期一语中特【外紧内松】</font></div>");
@@ -128,11 +135,11 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠虎<span style=\'back
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

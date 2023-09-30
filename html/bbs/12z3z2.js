@@ -10,19 +10,21 @@ document.writeln("<!--说明-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">272期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">273期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【07.46.09】【42.02.03】【28.42.45】<br>");
-document.writeln("		【49.07.36】【24.01.18】【48.27.06】<br>		");
-document.writeln("		【14.24.30】【28.29.42】【02.10.16】<br>				");
-document.writeln("		【34.37.41】【20.36.44】【03.34.23】</b><br>");
+document.writeln("		【23.06.31】【21.22.03】【02.36.06】<br>");
+document.writeln("		【43.39.24】【24.20.03】【03.42.40】<br>		");
+document.writeln("		【12.39.24】【12.22.37】【03.28.44】<br>				");
+document.writeln("		【39.23.48】【43.14.36】【01.08.21】</b><br>");
 document.writeln(" <!--结束--> ");
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("		");

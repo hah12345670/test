@@ -26,7 +26,7 @@ document.writeln("			<span style=font-family:Arial;>");
 document.writeln("									<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>02</span></font>.<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>14</span></font>.38</span></font></strong><td align=center bgcolor=#9966FF width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=35><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'3\'><font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>03</span></font>.15.27</font></span></strong></tr>");
+document.writeln("			<font size=\'3\'><font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>03</span></font>.15.</font></span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'><span style=\'font-family: Arial\'>27</span></font></span></strong></tr>");
 document.writeln("");
 document.writeln("        <tr>");
 document.writeln("          <td align=center bgcolor=#9966FF width=10% height=38><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鼠</font></span></strong></span>");

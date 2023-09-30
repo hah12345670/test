@@ -16,58 +16,31 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!------开始------>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>272期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【牛鸡龙】【蛇马猪】【猴龙虎】</font></td></tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【羊狗鸡】【狗龙虎】【猪猴龙】</font><font color=\'#008000\'> </font>");
-document.writeln("</td></tr>");
-document.writeln("<!------结束------>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>270期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("<span style=\'color: #FF0000;\'>273期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【龙兔虎】<span style=\'background-color: #FFFF00\'>【兔猴狗】【兔猪狗】</span></font></td></tr>");
+document.writeln("【羊马狗】【牛鸡猪】【蛇兔狗】</font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【狗龙牛】【羊兔蛇】【牛蛇马】</font><font color=\'#008000\'> </font>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【猴虎猪】【羊兔牛】【鼠龙狗】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");
 document.writeln("<!------结束------>");
 document.writeln("");
-document.writeln("");
-document.writeln("<!------开始------>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>268期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【羊猪牛】【猴猪龙】【龙猪虎】</font></td></tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【蛇鼠狗】【鸡羊马】<span style=\'background-color: #FFFF00\'>【牛猪蛇】</span></font><font color=\'#008000\'> </font>");
-document.writeln("</td></tr>");
-document.writeln("<!------结束------>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -16,13 +16,33 @@ document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' st
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
+
+
+
+
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>272期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>273期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        10.11.12.13.14.15.16.17.18.19.20.21<br>");
+document.writeln("			    22.24.25.26.27.28.29.30.31.32.33.35<br>");
+document.writeln("			    36.37.38.39.40.41.42.43.44.45.46.47</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>272期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>27</font>准<br>");
 document.writeln("		        33.22.29.45.07.40.08.20.25.31.36.21<br>");
-document.writeln("			    26.01.16.10.41.43.06.02.30.27.38.39<br>");
+document.writeln("			    26.01.16.10.41.43.06.02.30.<span style=\'background-color: #FFFF00\'>27</span>.38.39<br>");
 document.writeln("			    09.44.49.32.19.47.24.48.03.35.11.13</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");

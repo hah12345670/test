@@ -25,7 +25,12 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
@@ -34,27 +39,30 @@ document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码
 document.writeln("	<div class=\'bizhong7-box\'>");
 document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>272期必中一头：<font color=\'#FF0000\' size=\'4\'>0</font></li>");
-document.writeln("            	<li>272期必中二头：<font color=\'#FF0000\' size=\'4\'>0-3</font></li>");
-document.writeln("            	<li>272期必中三头：<font color=\'#FF0000\' size=\'4\'>0-3-4</font></li>");
+document.writeln(" 	            <li>273期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
+document.writeln("            	<li>273期必中二头：<font color=\'#FF0000\' size=\'4\'>1-2</font></li>");
+document.writeln("            	<li>273期必中三头：<font color=\'#FF0000\' size=\'4\'>1-2-4</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong7-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>01.04.05.06.08.09</font></li>");
-document.writeln("            	<li>②<font color=\'#FF0000\' size=\'4\'>30.32.33.34.35.36</font></li>");
-document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>41.45.46.47.48.49</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>11.14.15.16.18.19</font></li>");
+document.writeln("            	<li>②<font color=\'#FF0000\' size=\'4\'>21.24.25.26.29.28</font></li>");
+document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>40.41.42.43.44.45</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong7-foot\'>272期一头中特：<font color=\'#FF0000\' size=\'6\'>（0头）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong7-foot\'>273期一头中特：<font color=\'#FF0000\' size=\'6\'>（1头）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 document.writeln("");
-document.writeln("");
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--必中每期开始-->");

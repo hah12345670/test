@@ -159,6 +159,7 @@ document.writeln("		269期（红肖）√<br>			");
 document.writeln("		270期（蓝肖）√<br>			");
 document.writeln("		271期（绿肖）√<br>			");
 document.writeln("		272期（绿肖）√<br>			");
+document.writeln("		273期（红肖）√<br>			");
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -175,7 +176,7 @@ document.writeln("		264期【2<span style=\'background-color: #FFFF00\'>9</span>
 document.writeln("		266期【543<span style=\'background-color: #FFFF00\'>2</span>尾】√<br>				");
 document.writeln("		268期【5<span style=\'background-color: #FFFF00\'>3</span>78尾】√<br>				");
 document.writeln("		271期【<span style=\'background-color: #FFFF00\'>3</span>402尾】√<br>				");
-document.writeln("		272期【4210尾】√<br>				");
+document.writeln("		273期【6921尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");

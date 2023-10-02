@@ -159,6 +159,14 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\' https://tututu.www59197b.com:888/#49tttt   \'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>       274期【通天神算】<font color=\'#FF0000\'>（二肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+
+
+document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'      https://olkmhbk.www28261b.com:888/#49tkqw   \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>    275期【如意心水】<font color=\'#FF0000\'>（三肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");

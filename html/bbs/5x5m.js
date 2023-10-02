@@ -34,6 +34,40 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln(" <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong18\'>");
+document.writeln("	<div class=\'bizhong18-tit\'>弑神者（62103b.com）15码中特</div>");
+document.writeln("	<div class=\'bizhong18-box\'>");
+document.writeln("    	<div class=\'bizhong18-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li>275期必中一尾：<font color=\'#FF0000\' size=\'4\'>4</font></li>");
+document.writeln("            	<li>275期必中二尾：<font color=\'#FF0000\' size=\'4\'>4-3</font></li>");
+document.writeln("            	<li>275期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-3-6</font></li>");
+document.writeln("            	<li>275期必中四尾：<font color=\'#FF0000\' size=\'4\'>4-3-6-9</font></li>");
+document.writeln("            	<li>275期必中五尾：<font color=\'#FF0000\' size=\'4\'>4-3-6-9-1</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong18-r\'>");
+document.writeln("        	<ul>");
+document.writeln("                <li>必中三码：<font color=\'#FF0000\' size=\'4\'>04.24.44</font></li>");
+document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.23.33</font></li>");
+document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>06.26.46</font></li>");
+document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>09.29.49</font></li>");
+document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>11.21.41</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong18-foot\'>275期一尾一码：<font color=\'#FF0000\' size=\'6\'>（04）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("");
+
+
+
 
 document.writeln("");
 document.writeln("");
@@ -44,16 +78,16 @@ document.writeln("	<div class=\'bizhong18-box\'>");
 document.writeln("    	<div class=\'bizhong18-l\'>");
 document.writeln("        	<ul>");
 document.writeln(" 	            <li>274期必中一尾：<font color=\'#FF0000\' size=\'4\'>2</font></li>");
-document.writeln("            	<li>274期必中二尾：<font color=\'#FF0000\' size=\'4\'>2-3</font></li>");
-document.writeln("            	<li>274期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-3-6</font></li>");
-document.writeln("            	<li>274期必中四尾：<font color=\'#FF0000\' size=\'4\'>2-3-6-7</font></li>");
-document.writeln("            	<li>274期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-3-6-7-8</font></li>");
+document.writeln("            	<li>274期必中二尾：<font color=\'#FF0000\' size=\'4\'>2-<span style=\'background-color: #FFFF00\'>【3】</span></font></li>");
+document.writeln("            	<li>274期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-<span style=\'background-color: #FFFF00\'>【3】</span>-6</font></li>");
+document.writeln("            	<li>274期必中四尾：<font color=\'#FF0000\' size=\'4\'>2-<span style=\'background-color: #FFFF00\'>【3】</span>-6-7</font></li>");
+document.writeln("            	<li>274期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-<span style=\'background-color: #FFFF00\'>【3】</span>-6-7-8</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong18-r\'>");
 document.writeln("        	<ul>");
 document.writeln("                <li>必中三码：<font color=\'#FF0000\' size=\'4\'>22.32.42</font></li>");
-document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.13.23</font></li>");
+document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.<span style=\'background-color: #FFFF00\'>【13】</span>.23</font></li>");
 document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>06.26.46</font></li>");
 document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>27.37.47</font></li>");
 document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>08.28.38</font></li>");

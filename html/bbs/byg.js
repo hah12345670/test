@@ -100,7 +100,7 @@ document.writeln("		270期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		272期必中平特【<span style=\'background-color: #FFFF00\'>猴+鸡</span>】√<br>	");
 document.writeln("		273期必中平特【<span style=\'background-color: #FFFF00\'>猪+鼠</span>】√<br>	");
 document.writeln("		274期必中平特【<span style=\'background-color: #FFFF00\'>猴</span>+蛇】√<br>	");
-document.writeln("		111期必中平特【狗+牛】√<br>	");
+document.writeln("		275期必中平特【狗+牛】√<br>	");
 document.writeln("			<br>");
 document.writeln("		");
 document.writeln("");
@@ -211,7 +211,7 @@ document.writeln("		269期（<span style=\'background-color: #FFFF00\'>1</span>.
 document.writeln("		270期（3.<span style=\'background-color: #FFFF00\'>0</span>头）√<br>	");
 document.writeln("		273期（1.<span style=\'background-color: #FFFF00\'>2</span>头）√<br>	");
 document.writeln("		274期（<span style=\'background-color: #FFFF00\'>1</span>.3头）√<br>	");
-document.writeln("		274期（3.1头）√<br>	");
+document.writeln("		275期（3.1头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");

@@ -30,36 +30,51 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
-document.writeln("");
 
 
 
 
 
-
-document.writeln("");
-document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>274期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>276期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【04.08.09.20.21.24.25.26.29】<br>");
-document.writeln("		【32.35.36.39.40.41.43.45.46】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【02.04.09.24.25.26.28.29.30】<br>");
+document.writeln("		【31.32.33.35.36.38.41.42.45】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+
+
+
+
+
+document.writeln("   <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>275期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>马10</font>准<font color=\'#000000\'><br>");
+document.writeln("		</font> <font color=\'#008000\'>");
+document.writeln("		【34.40.47.25.28.05.16.42.24】<br>");
+document.writeln("		【04.37.<span style=\'background-color: #FFFF00\'>10</span>.39.07.48.44.43.35】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://www.65935c.com#49029\' style=\'text-decoration: none\'>");

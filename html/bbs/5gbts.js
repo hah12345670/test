@@ -33,19 +33,12 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
 
 
 
 
 
-
-document.writeln("");
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -53,7 +46,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>274期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>276期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -61,42 +54,13 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font style=\'font-size: 16pt\'>");
-document.writeln("		（2头双2头单3头双3头单4头单）</font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-
-
-
-
-
-
-
-
-document.writeln("      <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'隶书\'>");
-document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>272期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（牛27）</font></font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'隶书\'>");
-document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 16pt\'>");
-document.writeln("		（1头双<span style=\'background-color: #FFFF00\'>2头单</span>2头双3头单3头双）</font></b></td>");
+document.writeln("		（1头双2头单3头双3头单4头双）</font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

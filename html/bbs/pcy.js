@@ -31,14 +31,64 @@ document.writeln("		<b>");
 document.writeln("");
 document.writeln("		<font color=\'#000000\'>六合【破成语】</font></td>");
 document.writeln("    </tr>");
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("               <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
+document.writeln("		<font color=\'#FF0000\'>第276期：家有主男<Br></font>  ");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
+document.writeln("		解：关注62103b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("               <!--开始--> \')");
+
+
+
+
+
+
+
+
+
+document.writeln("               <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
+document.writeln("		<font color=\'#FF0000\'>第275期：小人得志<Br></font>  ");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
+document.writeln("		解：小数（马10）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("               <!--开始--> \')");
 
 
 
 
 
-document.writeln("");
+
+
+
+
+
+
+
+
 document.writeln("               <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
@@ -47,16 +97,20 @@ document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
 document.writeln("		<font color=\'#FF0000\'>第274期：天下大事<Br></font>  ");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：关注62103b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
+document.writeln("		解：天肖（兔13）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> \')");
-document.writeln("               ");
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
+
+
+
+
+
 document.writeln("               <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
@@ -321,19 +375,6 @@ document.writeln("		解：水肖（猪29）</font><font color=\'#FF0000\' face=\
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> \')");
-document.writeln("               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第248期：家有主男<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：家禽（羊21）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> \')");
-
 
 document.writeln("");
 document.writeln("");

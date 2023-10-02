@@ -13,15 +13,40 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
+
+
+
+
+
+
+
+
 document.writeln("");
+document.writeln("<!-----结束----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>276期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
+document.writeln("</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【龙36.48】");
+document.writeln("【牛03.15】<br>");
+document.writeln("【羊21.33】");
+document.writeln("【虎26.38】<br>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
 document.writeln("");
+
+
+
+
+
+
 document.writeln("");
-
-
-
-
-
-
 document.writeln("<!-----结束----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
@@ -35,18 +60,16 @@ document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【虎02.14】");
 document.writeln("【马10.22】<br>");
 document.writeln("【猴32.44】");
-document.writeln("【兔01.25】<br>");
-document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>兔</span>01.25】<br>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>兔13准</span></span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!-----结束----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
@@ -65,12 +88,12 @@ document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>�
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("</tbody>");
 document.writeln("</table>");
 document.writeln("");

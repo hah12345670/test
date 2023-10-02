@@ -43,8 +43,6 @@ document.writeln("		</b>  ");
 document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
 
 
 
@@ -53,14 +51,14 @@ document.writeln("");
 
 
 
-document.writeln("");
+
 document.writeln("             <!--开始--> ");
 document.writeln("    <tr>");
 document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>274期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\'>276期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b>  ");
 document.writeln("		</td>");
@@ -69,7 +67,49 @@ document.writeln("	<tr>");
 document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阳肖【鼠龙蛇】</font>  ");
+document.writeln("		<font color=\'#0000FF\'>阴肖【龙蛇马】</font>  ");
+document.writeln("		</b> </font> </td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>12.24.11.23.10.22</b> </td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束--> ");
+document.writeln("    ");
+document.writeln("");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("             <!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("");
+document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("		<font color=\'#000000\'>274期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>兔13</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b>  ");
+document.writeln("		</td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>阳肖</span></font><font color=\'#0000FF\'>【鼠龙蛇】</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
@@ -80,148 +120,13 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ");
 document.writeln("    ");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("    ");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>271期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>牛39</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阳肖【</font><span style=\'background-color: #FFFF00\'><font size=\'5\' color=\'#FF0000\'>牛</font></span><font color=\'#0000FF\'>虎鸡】</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>03.15.14.38.31.43</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ");
-document.writeln("    ");
-document.writeln("    ");
-document.writeln("    ");
-document.writeln("    ");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>270期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>猴08</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阳肖【<font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>猴</span></font>】</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>15.27.02.38.20.44</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>267期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>猴32</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阳肖【牛兔<font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>猴</span></font>】</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>15.39.25.37.08.44</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>266期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>虎02</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\'><font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>阳肖</span></font>【牛羊猴】</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>03.15.21.33.08.20</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>264期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#FF0000\'>羊09</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>阳肖【虎兔</font><font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>羊</span></font><font color=\'#0000FF\'>】</font>  ");
-document.writeln("		</b> </font> </td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>02.14.13.49.21.33</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

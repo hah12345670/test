@@ -33,7 +33,6 @@ document.writeln("");
 
 
 
-
 document.writeln("");
 document.writeln("");
 document.writeln(" <!--必中每期开始-->");
@@ -42,29 +41,32 @@ document.writeln("	<div class=\'bizhong18-tit\'>弑神者（62103b.com）15码�
 document.writeln("	<div class=\'bizhong18-box\'>");
 document.writeln("    	<div class=\'bizhong18-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>275期必中一尾：<font color=\'#FF0000\' size=\'4\'>4</font></li>");
-document.writeln("            	<li>275期必中二尾：<font color=\'#FF0000\' size=\'4\'>4-3</font></li>");
-document.writeln("            	<li>275期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-3-6</font></li>");
-document.writeln("            	<li>275期必中四尾：<font color=\'#FF0000\' size=\'4\'>4-3-6-9</font></li>");
-document.writeln("            	<li>275期必中五尾：<font color=\'#FF0000\' size=\'4\'>4-3-6-9-1</font></li>");
+document.writeln(" 	            <li>276期必中一尾：<font color=\'#FF0000\' size=\'4\'>2</font></li>");
+document.writeln("            	<li>276期必中二尾：<font color=\'#FF0000\' size=\'4\'>2-3</font></li>");
+document.writeln("            	<li>276期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-3-5</font></li>");
+document.writeln("            	<li>276期必中四尾：<font color=\'#FF0000\' size=\'4\'>2-3-5-7</font></li>");
+document.writeln("            	<li>276期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-3-5-7-8</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong18-r\'>");
 document.writeln("        	<ul>");
-document.writeln("                <li>必中三码：<font color=\'#FF0000\' size=\'4\'>04.24.44</font></li>");
-document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.23.33</font></li>");
-document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>06.26.46</font></li>");
-document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>09.29.49</font></li>");
-document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>11.21.41</font></li>");
+document.writeln("                <li>必中三码：<font color=\'#FF0000\' size=\'4\'>02.32.22</font></li>");
+document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>13.23.43</font></li>");
+document.writeln("            	<li>必中九码：<font style=\'color:#FF0000\' size=\'4\'>005.15.25</font></li>");
+document.writeln("            	<li>必中12码：<font style=\'color:#FF0000\' size=\'4\'>27.37.47</font></li>");
+document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>08.18.28</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong18-foot\'>275期一尾一码：<font color=\'#FF0000\' size=\'6\'>（04）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong18-foot\'>276期一尾一码：<font color=\'#FF0000\' size=\'6\'>（02）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 document.writeln("");
+
+
+
 
 
 

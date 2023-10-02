@@ -15,28 +15,29 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-document.writeln("");
 
 
 
 
 
 
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>274期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		        04.05.09.10.11.12.14.15.16.20.21.24<br>");
-document.writeln("			    25.26.28.29.30.32.33.34.35.36.37.38<br>");
-document.writeln("			    39.40.41.42.43.44.45.46.47.48.49.01</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>276期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        02.04.05.06.09.12.14.15.20.21.24.26<br>");
+document.writeln("			    27.28.29.30.31.32.33.35.36.37.38.39<br>");
+document.writeln("			    40.41.42.43.44.45.46.47.48.49.01.03</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
+document.writeln("");
 
 
 
 
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
@@ -48,9 +49,9 @@ document.writeln("			    36.37.38.39.40.41.42.43.44.45.46.47</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");

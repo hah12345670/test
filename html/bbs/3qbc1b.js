@@ -34,75 +34,10 @@ document.writeln("<!--推广结束-->");
 
 
 
-
-
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>273-275期</font>【<font color=\'#FF0000\'>红波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>270-272期</font>【<font color=\'#FF0000\'>绿波</font>】272期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>268-270期</font>【<font color=\'#FF0000\'>红波</font>】269期开<font color=\'#FF00FF\'>(13)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>265-267期</font>【<font color=\'#FF0000\'>绿波</font>】267期开<font color=\'#FF00FF\'>(32)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>264-266期</font>【<font color=\'#FF0000\'>蓝波</font>】264期开<font color=\'#FF00FF\'>(09)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>258-260期</font>【<font color=\'#FF0000\'>绿波</font>】260期开<font color=\'#FF00FF\'>(17)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>255-257期</font>【<font color=\'#FF0000\'>蓝波</font>】257期开<font color=\'#FF00FF\'>(36)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>252-254期</font>【<font color=\'#FF0000\'>绿波</font>】254期开<font color=\'#FF00FF\'>(49)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>250-252期</font>【<font color=\'#FF0000\'>红波</font>】251期开<font color=\'#FF00FF\'>(34)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>247-249期</font>【<font color=\'#FF0000\'>红波</font>】249期开<font color=\'#FF00FF\'>(29)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>245-247期</font>【<font color=\'#FF0000\'>红波</font>】246期开<font color=\'#FF00FF\'>(13)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>240-242期</font>【<font color=\'#FF0000\'>蓝波</font>】241期开<font color=\'#FF00FF\'>(20)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>"); 
-document.writeln("	<font color=\'#008000\'>238-240期</font>【<font color=\'#FF0000\'>蓝波</font>】239期开<font color=\'#FF00FF\'>(14)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>276-278期</font>【<font color=\'#FF0000\'>蓝波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

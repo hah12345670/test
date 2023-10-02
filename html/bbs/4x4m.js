@@ -24,7 +24,7 @@ document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>贪狼天尊</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『四肖四码』</font></b></table>");
-
+document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
@@ -36,21 +36,41 @@ document.writeln("<!--推广结束-->");
 
 
 
-
-
-document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第274期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.蛇11.鼠28.兔25】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第276期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛39.虎26.兔25.羊33】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 
 
 
+
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第275期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙36.蛇11.虎26.<span style=\'background-color: #FFFF00\'>马</span>34】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("");
+document.writeln("");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第274期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.蛇11.鼠28.<span style=\'background-color: #FFFF00\'>兔</span>25】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("            <!--开始--> ");
@@ -72,7 +92,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<!--推广开始-->--> ");
+document.writeln("<!--推广开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");

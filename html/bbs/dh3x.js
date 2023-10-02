@@ -23,7 +23,10 @@ document.writeln("	<font color=\'#008000\' size=\'4\'><span style=\'background-c
 document.writeln("合肖：龙蛇猴鸡狗猪<br>");
 document.writeln("独肖：鼠牛虎兔马羊</span></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
+
+
+
+
 
 
 
@@ -32,12 +35,20 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>274期</font>【<font color=\'#FF0000\'>合肖:蛇猴鸡</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>276期</font>【<font color=\'#FF0000\'>合肖:蛇猴鸡</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
-
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>275期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:牛兔羊</font>】开<font color=\'#FF00FF\'>(马10)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

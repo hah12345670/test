@@ -18,8 +18,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("274期：平特【猴狗拖虎蛇】开？00<br>");
+document.writeln("275期：平特【狗兔拖羊猴】开？00<br>");
 document.writeln("------<br>");
+
 
 document.writeln("273期：平特【龙<span style=\'background-color: #FFFF00\'>牛</span>拖<span style=\'background-color: #FFFF00\'>马</span>鸡】开15.39.10<br>");
 document.writeln("------<br>");

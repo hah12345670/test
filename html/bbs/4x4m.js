@@ -35,16 +35,17 @@ document.writeln("<!--推广结束-->");
 
 
 
-
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第276期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛39.虎26.兔25.羊33】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第277期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.鼠28.龙36.猪29】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
+
+
 
 
 

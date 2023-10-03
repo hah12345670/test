@@ -38,7 +38,6 @@ document.writeln("    <!--结束-->  ");
 
 
 
-
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -46,7 +45,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>276期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>277期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -54,10 +53,13 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font style=\'font-size: 16pt\'>");
-document.writeln("		（1头双2头单3头双3头单4头双）</font></b></td>");
+document.writeln("		（0头双0头单2头双2头单3头双）</font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
+
+
+
 
 
 

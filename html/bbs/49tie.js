@@ -236,12 +236,6 @@ document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'  https://tyty.lkngdfuhsaqqom.com:2025/ \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>       276期【风中蔷薇】<font color=\'#FF0000\'>（两肖两码）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-
 
 
 document.writeln("        <li>");

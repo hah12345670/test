@@ -26,16 +26,15 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 
 
 
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("276期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【双数】【马】【虎】【狗】【龙】<br>");
-document.writeln("【22-34-02-14-06-18-12-24】<br>");
+document.writeln("277期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【鼠 】【猴】【龙】【马】<br>");
+document.writeln("【40-28-20-32-12-24-10-22】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
@@ -46,54 +45,6 @@ document.writeln("<!--结束-->");
 document.writeln("");
 
 
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("273期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>鼠28</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【双数】【<span style=\'background-color: #FFFF00\'>鼠</span>】【虎】【龙】【猴】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>28</span>-40-02-14-36-48-20-32】<br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #333300\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("272期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>牛27</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【单数】【<span style=\'background-color: #FFFF00\'>牛</span>】【兔】【蛇】【猪】<br>");
-document.writeln("【15-<span style=\'background-color: #FFFF00\'>27</span>-25-37-11-23-05-17】<br>");
-document.writeln("	</font>");
-document.writeln("	<span style=\'background-color: #333300\'>");
-document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
-document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

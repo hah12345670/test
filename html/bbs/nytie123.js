@@ -1,29 +1,106 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
-<title>404 - �Ҳ����ļ���Ŀ¼��</title>
-<style type="text/css">
-<!--
-body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-fieldset{padding:0 15px 10px 15px;} 
-h1{font-size:2.4em;margin:0;color:#FFF;}
-h2{font-size:1.7em;margin:0;color:#CC0000;} 
-h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-background-color:#555555;}
-#content{margin:0 0 0 2%;position:relative;}
-.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
--->
-</style>
-</head>
-<body>
-<div id="header"><h1>����������</h1></div>
-<div id="content">
- <div class="content-container"><fieldset>
-  <h2>404 - �Ҳ����ļ���Ŀ¼��</h2>
-  <h3>��Ҫ���ҵ���Դ�����ѱ�ɾ�����Ѹ������ƻ�����ʱ�����á�</h3>
- </fieldset></div>
-</div>
-</body>
-</html>
+document.writeln("<!--互联 start-->");
+document.writeln("<style type=\'text/css\'>");
+document.writeln("ul,dl,ol {list-style-type:none;}");
+document.writeln(".chenyu { border: solid 3px #00a0e9; border-radius: 10px; overflow: hidden;}");
+document.writeln(".chenyu-tit {}.chenyu-tit img {width:100%;}.chenyu ul {}");
+document.writeln(".chenyu ul li { height: 40px; line-height: 40px; padding: 0 10px; border-bottom: solid 1px #ddd; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}");
+document.writeln(".chenyu ul li:last-child { border-bottom: none;} ");
+document.writeln(".chenyu ul li a { font-size: 16px; font-weight: bold;}");
+document.writeln(".chenyu ul li a img { margin-right: 5px;}");
+document.writeln(".chenyu ul li span { float: right; color: #999;}");
+document.writeln(".chenyu {}@media screen and (max-width:800px){ ");
+document.writeln(".chenyu { border: solid 2px #00a0e9; border-radius: 5px;}");
+document.writeln(".chenyu ul li { padding: 0 5px;}");
+document.writeln(".chenyu ul li a { font-size: 14px;}");
+document.writeln(".chenyu ul li a img { display: none;}");
+document.writeln(".chenyu ul li span { font-size: 12px;}img { max-width: 100%; height: auto; border: 0; }");
+document.writeln(".mt10 { margin-top: 5px;}.chenyu { background-color:#FFFFFF;}}");
+document.writeln("</style>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<div class=\'chenyu\'>");
+document.writeln("    <ul>");
+document.writeln("        <li>");
+document.writeln("            <b><font color=\'#FF0000\'>以下推荐资料（期期实战，从不改料）查看方式</font></b></li>");
+document.writeln("      ");
+document.writeln("        ");
+document.writeln("      <li>");
+document.writeln("            <b><font color=\'#FF0000\'>进入连接→导航高手榜→找到作者→进入查看</font></b></li>");
+document.writeln("                ");
+document.writeln("      <li>");
+document.writeln("            <b><font color=\'#FF0000\'>欢迎进入论坛长期跟踪</font></b></li>");
+
+document.writeln("             ");
+document.writeln("                <li>");
+document.writeln("            <span><font color=\'#000000\'>38297.com</font></span><a target=\'_blank\' href=\'https://38297c.com/bbs/31.html\'><font color=\'#008000\'><img src=\'https://393957b.com/img/zhong.gif\'>277期太子孤独【必杀半头】92中92</font></a><font color=\'#008000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+
+document.writeln("		");
+document.writeln("                           <li>");
+document.writeln("            <span><font color=\'#000000\'>61269.com</font></span><a target=\'_blank\' href=\'https://61269c.com/juesha/010.html\'><img src=\'https://393957b.com/img/zhong.gif\'><font color=\'#800080\'>277期童颜巨根【杀半单双】13中12</font></a><font color=\'#800080\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("				");
+document.writeln("");
+document.writeln("				");
+document.writeln("                          <li>");
+document.writeln("            <span><font color=\'#000000\'>118207.com</font></span><a target=\'_blank\' href=\'https://118902.cc/shagsb/009.html\'><img src=\'https://393957b.com/img/zhong.gif\'><font color=\'#008000\'>277期一场云烟【精杀一肖】27中27</font></a><font color=\'#008000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("        ");
+document.writeln("				");
+document.writeln("                          <li>");
+document.writeln("            <span><font color=\'#000000\'>616129.com</font></span><a target=\'_blank\' href=\'https://216969.cc/shagsb/S008.htm\'><img src=\'https://393957b.com/img/zhong.gif\'><font color=\'#FF0000\'>277期物超所值【绝杀十码】20中20</font></a><font color=\'#FF0000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("				");
+document.writeln("    ");
+document.writeln("");
+document.writeln("        ");
+document.writeln("                                  <li>");
+document.writeln("            <span><font color=\'#000000\'>19763.com</font></span><a target=\'_blank\' href=\'https://19763c.com/gsb/18.html\'><font color=\'#800080\'><img src=\'https://393957b.com/img/zhong.gif\'></font><font color=\'#000000\'>277期运河东新【绝杀一合】50中50</font></a>");
+document.writeln("        </li>");
+document.writeln("        ");
+document.writeln("             ");
+document.writeln("                                  <li>");
+document.writeln("            <span><font color=\'#000000\'>118207.com</font></span><a target=\'_blank\' href=\'https://gfbgfgf.www118207a.com:888/shagsb/007.html\'><font color=\'#800080\'><img src=\'https://393957b.com/img/zhong.gif\'></font><font color=\'#808000\'>277期言不由衷【绝杀俩肖】30中30</font></a><font color=\'#808000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("        				");
+document.writeln("                          <li>");
+document.writeln("            <span><font color=\'#000000\'>118207.com</font></span><a target=\'_blank\' href=\'https://gfbgfgf.www118207a.com:888/shagsb/014.html\'><img src=\'https://393957b.com/img/zhong.gif\'><font color=\'#FF0000\'>277期一眼钟你【绝杀二头】27中26</font></a><font color=\'#FF0000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("        				");
+document.writeln("                          <li>");
+document.writeln("            <span><font color=\'#000000\'>717195.com</font></span><a target=\'_blank\' href=\'https://717195c.com/gsb/024.html\'><img src=\'https://393957b.com/img/zhong.gif\'>277期龙游天下【无措杀尾】80中76</a><font color=\'#0000FF\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("        				");
+document.writeln("                          <li>");
+document.writeln("            <span><font color=\'#000000\'>39857.com</font></span><a target=\'_blank\' href=\'https://39857c.com/gsb/045.html\'><img src=\'https://393957b.com/img/zhong.gif\'><font color=\'#008000\'>277期大圆满@【绝杀半波】132中128</font></a><font color=\'#008000\'>");
+document.writeln("			</font>");
+document.writeln("        </li>");
+document.writeln("");
+document.writeln("");
+document.writeln("        ");
+document.writeln("");
+document.writeln("         ");
+document.writeln("        ");
+document.writeln("    </ul>");
+document.writeln("</div> ");

@@ -61,7 +61,7 @@ document.writeln("	<tr>");
 document.writeln("      <td height=37 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>有钱不买单单数，特码就开0234头</font>  ");
+document.writeln("		<font color=\'#000000\'>有钱不买绿单数，特码就开0234头</font>  ");
 document.writeln("");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

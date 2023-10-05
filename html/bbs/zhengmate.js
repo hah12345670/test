@@ -824,7 +824,15 @@ document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("277期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿单】</font>开？00√</font></b></font></table>");
+document.writeln("277期稳杀半波<font color=\'#0000FF\' size=\'5\'>【红双】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->")
+
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("277期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿单】</font>开狗18√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->")
 document.writeln("		<!--开始三特-->");

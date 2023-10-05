@@ -273,13 +273,13 @@ document.writeln("            <a target=\'_blank\' href=\'  https://h5.49217002.
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      278期【初心不负】<font color=\'#FF0000\'>（二头中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
-document.writeln("        <!--开始--  ");
+document.writeln("        <!--开始-->  ");
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      278期【六合宝典】<font color=\'#FF0000\'>（两肖两码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
-document.writeln("        --结束-->  ");
+document.writeln("        <!--结束-->  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'   https://h5.49217002.com:8443/#/corpusdetail?id=32870225&type=3  \'>");

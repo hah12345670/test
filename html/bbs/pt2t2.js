@@ -18,30 +18,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("277期：平特【羊兔拖猴狗】开？00<br>");
+document.writeln("278期：平特【兔马拖猴猪】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("277期：平特【<span style=\'background-color: #FFFF00\'>羊</span>兔拖猴<span style=\'background-color: #FFFF00\'>狗</span>】开45.18<br>");
 document.writeln("------<br>");
 
 document.writeln("276期：平特【<span style=\'background-color: #FFFF00\'>蛇猴</span>拖猪<span style=\'background-color: #FFFF00\'>狗</span>】开35.08.18<br>");
 document.writeln("------<br>");
-
-document.writeln("273期：平特【龙<span style=\'background-color: #FFFF00\'>牛</span>拖<span style=\'background-color: #FFFF00\'>马</span>鸡】开15.39.10<br>");
-document.writeln("------<br>");
-
-document.writeln("270期：平特【<span style=\'background-color: #FFFF00\'>羊</span>虎拖<span style=\'background-color: #FFFF00\'>鼠</span>龙】开45.28<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("269期：平特【狗<span style=\'background-color: #FFFF00\'>鼠</span>拖<span style=\'background-color: #FFFF00\'>兔</span>猪】开40.01<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("268期：平特【<span style=\'background-color: #FFFF00\'>猪</span>鼠拖<span style=\'background-color: #FFFF00\'>鸡</span>虎】开05.43<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("266期：平特【<span style=\'background-color: #FFFF00\'>鼠虎</span>拖猪猴】开26.16.14.02<br>");
-document.writeln("------<br>");
-
 
 
 

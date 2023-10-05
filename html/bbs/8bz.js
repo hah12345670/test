@@ -28,12 +28,12 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -41,7 +41,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>277期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>278期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -49,17 +49,18 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
-document.writeln("		本期蓝单有特码<br>");
+document.writeln("		本期红单有特码<br>");
 document.writeln("		还有绿双也不错<br>");
-document.writeln("		看好蓝双一定防</font></b> </td>");
+document.writeln("		看好绿单一定防</font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -77,14 +78,14 @@ document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期红单有特码<br>");
 document.writeln("		还有绿单也不错<br>");
-document.writeln("		看好<span style=\'background-color: #FFFF00\'>红双</span>一定防</font></b> </td>");
+document.writeln("		<span style=\"background-color: #FFFF00\">看好红双一定防</span></font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -100,7 +101,7 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
-document.writeln("		本期<span style=\'background-color: #FFFF00\'>蓝双</span>有特码<br>");
+document.writeln("		<span style=\"background-color: #FFFF00\">本期蓝双有特码</span><br>");
 document.writeln("		还有红单也不错<br>");
 document.writeln("		看好绿双一定防</font></b> </td>");
 document.writeln("    </tr>");
@@ -122,7 +123,7 @@ document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期蓝双有特码<br>");
-document.writeln("		还有<span style=\'background-color: #FFFF00\'>红单</span>也不错<br>");
+document.writeln("		<span style=\"background-color: #FFFF00\">还有红单也不错</span><br>");
 document.writeln("		看好红双一定防</font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
@@ -147,7 +148,7 @@ document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期蓝单有特码<br>");
 document.writeln("		还有绿单也不错<br>");
-document.writeln("		看好<span style=\'background-color: #FFFF00\'>绿双</span>一定防</font></b> </td>");
+document.writeln("		<span style=\"background-color: #FFFF00\">看好绿双一定防</span></font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
@@ -174,7 +175,7 @@ document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期蓝单有特码<br>");
-document.writeln("		还有<span style=\'background-color: #FFFF00\'>绿单</span>也不错<br>");
+document.writeln("		<span style=\"background-color: #FFFF00\">还有绿单也不错</span><br>");
 document.writeln("		看好蓝双一定防</font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");

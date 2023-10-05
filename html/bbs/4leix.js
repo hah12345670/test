@@ -51,6 +51,22 @@ document.writeln(" <!--结束--> ");
 
 
 
+document.writeln("   <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>278期四类<font color=\'#008000\'>【美女家臣】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+document.writeln(" ");
+
+
+
+
+
 
 document.writeln("   <!--开始-->");
 document.writeln("    ");
@@ -59,7 +75,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>277期四类<font color=\'#008000\'>【家臣君王】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>277期四类<font color=\'#008000\'>【<span style=\'background-color: #FFFF00\'>家臣</span>君王】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>狗18</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln(" ");

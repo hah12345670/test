@@ -60,7 +60,7 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【狗<span style=\'background-color: #FFFF00\'>马</span>】</font><font color=\'#333399\'>274-279期(275期开马10)</font><font color=\'#FF00FF\'>  ");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【狗</font><font color=\'#FF0000\' size=\'5\'><span style=\'background-color: #FFFF00\'>马</span></font><font color=\'#FF0000\' size=\'4\'>】</font><font color=\'#333399\'>274-279期(275期开马10)</font><font color=\'#FF00FF\'>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

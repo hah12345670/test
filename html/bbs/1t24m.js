@@ -26,28 +26,29 @@ document.writeln("</style>");
 
 
 
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong7\'>");
 document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong7-box\'>");
 document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>277期必中一头：<font color=\'#FF0000\' size=\'4\'>2</font></li>");
-document.writeln("            	<li>277期必中二头：<font color=\'#FF0000\' size=\'4\'>2-3</font></li>");
-document.writeln("            	<li>277期必中三头：<font color=\'#FF0000\' size=\'4\'>2-3-4</font></li>");
+document.writeln(" 	            <li>278期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
+document.writeln("            	<li>278期必中二头：<font color=\'#FF0000\' size=\'4\'>1-3</font></li>");
+document.writeln("            	<li>278期必中三头：<font color=\'#FF0000\' size=\'4\'>1-3-4</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong7-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>22.23.24.25.26.27</font></li>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>33.34.35.36.38.39</font></li>");
-document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>41.42.43.44.45.46</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>12.14.15.16.17.18</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>30.32.34.35.36.37</font></li>");
+document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>40.41.44.45.46.49</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong7-foot\'>277期一头中特：<font color=\'#FF0000\' size=\'6\'>（2头）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong7-foot\'>278期一头中特：<font color=\'#FF0000\' size=\'6\'>（1头）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
@@ -86,41 +87,6 @@ document.writeln("<!--必中每期开始-->");
 
 
 
-
-
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong7\'>");
-document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62103b.com）18码中特</div>");
-document.writeln("	<div class=\'bizhong7-box\'>");
-document.writeln("    	<div class=\'bizhong7-l\'>");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li>273期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
-document.writeln("            	<li>273期必中二头：<font color=\'#FF0000\' size=\'4\'>1-<span style=\'background-color: #FFFF00\'>2</span></font></li>");
-document.writeln("            	<li>273期必中三头：<font color=\'#FF0000\' size=\'4\'>1-<span style=\'background-color: #FFFF00\'>2</span>-4</font></li>");
-document.writeln("");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("    	<div class=\'bizhong7-r\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>11.14.15.16.18.19</font></li>");
-document.writeln("            	<li>②<font color=\'#FF0000\' size=\'4\'>21.24.25.26.29.<span style=\'background-color: #FFFF00\'>28</span></font></li>");
-document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>40.41.42.43.44.45</font></li>");
-document.writeln("");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong7-foot\'>273期一头中特：<font color=\'#FF0000\' size=\'6\'>（1头）</font>单车变宝马~</div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

@@ -34,13 +34,12 @@ document.writeln("<!--推广结束-->");
 
 
 
-
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第277期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.鼠28.龙36.猪29】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第278期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.龙36.兔37.鼠28】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
@@ -50,45 +49,6 @@ document.writeln("");
 
 
 
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第275期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙36.蛇11.虎26.<span style=\'background-color: #FFFF00\'>马</span>34】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第274期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗18.蛇11.鼠28.<span style=\'background-color: #FFFF00\'>兔</span>25】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第272期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>牛</span>15.鼠28.马22.蛇11】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

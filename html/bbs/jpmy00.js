@@ -14,12 +14,20 @@ document.writeln("			<table style=border-collapse:collapse border=0 width=100%><
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("279期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("散步在小溪，睡觉在池塘<br>");
+document.writeln("奔跑在江河，咆哮在海洋</font></b></font></table>");
+document.writeln("");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("278期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("278期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>牛39</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("小时青青似野草，老来满头金珠宝<br>");
 document.writeln("珠宝人人都珍惜，天下无人不依靠</font></b></font></table>");
 document.writeln("");
@@ -88,41 +96,6 @@ document.writeln("270期澳门【金牌谜语】</font><font color=\'#008000\'>�
 document.writeln("一物不大身上装，胜过千金万宝囊<br>");
 document.writeln("里面有长也有短，能装棉来能装钢</font></b></font></table>");
 document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("269期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>兔13</font></span><font color=\'#0000FF\'>	</font><br>");
-document.writeln("一片一片又一片，两片三片四五片<br>");
-document.writeln("六片七片八九片，落在水里看不见</font></b></font></table>");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("268期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>牛03</font></span><font color=\'#0000FF\'>	</font><br>");
-document.writeln("风吹皮皱，雨打开花<br>");
-document.writeln("食虽无味，少不了它</font></b></font></table>");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("267期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>猴32</font></span><font color=\'#0000FF\'>	</font><br>");
-document.writeln("一粒红皮谷，半两还不足<br>");
-document.writeln("雨来成碎锦，风起现花纹</font></b></font></table>");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("266期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>虎02</font></span><font color=\'#0000FF\'>	</font><br>");
-document.writeln("兄弟全是瘦长个，长着一色小脑壳<br>");
-document.writeln("平时挤着不吭声，出门办事就万火</font></b></font></table>");
-document.writeln("");
-document.writeln("");
-
-
 
 
 

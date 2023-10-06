@@ -51,6 +51,21 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("          <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=33 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第280期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("     	<tr>");
+document.writeln("      <td height=33 >");
+document.writeln("		<p align=\'center\'><b> ");
+document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【绿肖出特蓝肖防】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("          <!--开始--> ");
+document.writeln("          ");
+
 
 
 document.writeln("");
@@ -58,34 +73,18 @@ document.writeln("          <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第279期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第279期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开马10</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("     	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'center\'><b> ");
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【绿肖出特红肖防】</font></b></td>");
+document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【绿肖出特<span style=\'background-color: #FFFF00\'>红肖</span>防】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("          <!--开始--> ");
 document.writeln("          ");
 
 
 
-
-
-document.writeln("");
-document.writeln("          <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第277期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开狗18</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> ");
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>绿肖</span>出特红肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");
-document.writeln("          ");
 
 
 

@@ -18,7 +18,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("279期：平特【猪蛇拖牛虎】开？00<br>");
+document.writeln("280期：平特【马羊拖猴狗】开？00<br>");
+document.writeln("------<br>");
+document.writeln("279期：平特【猪蛇拖<span style=\'background-color: #FFFF00\'>牛虎</span>】开26.15<br>");
 document.writeln("------<br>");
 
 document.writeln("277期：平特【<span style=\'background-color: #FFFF00\'>羊</span>兔拖猴<span style=\'background-color: #FFFF00\'>狗</span>】开45.18<br>");

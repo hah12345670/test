@@ -35,7 +35,7 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>279期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>280期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("关注62103c.com");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：正在来料，关注论坛</font><font style=\'font-size: 13pt\'><br>");

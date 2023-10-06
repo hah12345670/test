@@ -20,12 +20,24 @@ document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:
 
 
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("280期<font color=\'#FF00FF\'>（鸡虎羊+6147尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+
+
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("279期<font color=\'#FF00FF\'>（蛇兔羊+9065尾）</font>开？00</font></b></font></table>");
+document.writeln("279期<font color=\'#FF00FF\'>（蛇兔羊+9<span style=\'background-color: #FFFF00\'>0</span>65尾）</font>开马10</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

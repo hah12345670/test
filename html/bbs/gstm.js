@@ -48,21 +48,21 @@ document.writeln("");
 
 document.writeln("	277期（平5*4+特-D6+平2+正3-2）=杀猴猪√<br>		");
 document.writeln("	278期（平5*4+特-D6+平2+正3-2）=杀狗蛇√<br>		");
+document.writeln("	279期（平5*4+特-D6+平2+正3-2）=杀羊牛√<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 
 document.writeln("      276期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
 document.writeln("      277期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
 document.writeln("      278期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
+document.writeln("      279期（平4*2+正1-D3+正6+正3-特）=杀土√<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
 document.writeln("");
 
 
-document.writeln("		276期（平5-2-D2+正4）=杀64尾√<br>		");
-document.writeln("		277期（平5-2-D2+正4）=杀05尾√<br>		");
-document.writeln("		278期（平5-2-D2+正4）=杀49尾√<br>		");
+document.writeln("		279期（平5-2-D2+正4）=杀70尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -73,24 +73,28 @@ document.writeln("		275期（平4+3-D1+正2-平3）=杀0头√<br>		");
 document.writeln("		276期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		277期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("		278期（平4+3-D1+正2-平3）=杀2头√<br>		");
+document.writeln("		279期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("<br>");
 document.writeln("		");
 document.writeln("        <font color=\'#0000FF\'>277期四头=4<span style=\'background-color: #FFFF00\'>1</span>30√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>278期四头=0314√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>278期四头=0<span style=\'background-color: #FFFF00\'>3</span>14√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>279期四头=4023√</font><br>	");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("		<font color=\'#0000FF\'>275期七肖=龙狗鸡牛<span style=\'background-color: #FFFF00\'>马</span>猴兔√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>276期七肖=羊蛇牛<span style=\'background-color: #FFFF00\'>猴</span>虎鼠龙√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>278期七肖=狗牛蛇马虎兔羊√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>278期七肖=狗<span style=\'background-color: #FFFF00\'>牛</span>蛇马虎兔羊√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>279期七肖=鸡猴龙羊猪兔蛇√</font><br>		");
 document.writeln("		");
 document.writeln("		");
 document.writeln("<br>	");
-
-document.writeln("		<font color=\'#0000FF\'>278期三行=土木金√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>278期三行=土木<span style=\'background-color: #FFFF00\'>金</span>√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>279期三行=土木水√</font><br>			");
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("        <font color=\'#0000FF\'>277期六尾=619<span style=\'background-color: #FFFF00\'>8</span>07√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>278期六尾=029541√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>278期六尾=02<span style=\'background-color: #FFFF00\'>9</span>541√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>279期六尾=470816√</font><br>	");
 document.writeln("		");
 document.writeln("");
 document.writeln("	");

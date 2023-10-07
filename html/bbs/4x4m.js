@@ -38,7 +38,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第279期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.羊33.猪41.龙48】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第280期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡31.蛇11.龙48.马10】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");

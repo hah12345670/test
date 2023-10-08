@@ -85,6 +85,13 @@ document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: la
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
+document.writeln("        <!--开始--> ");
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      281期【六合宝典】<font color=\'#FF0000\'>（两肖两码）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+document.writeln("        <!--结束-->  ");
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'  https://h5.49217002.com:8443/#/corpusdetail?id=32902541&type=3    \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>     281期【看看刘郎】<font color=\'#FF0000\'>（精准②头）</font>已公开</strong></div>");
@@ -111,13 +118,6 @@ document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
-document.writeln("        <!--开始-- ");
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      281期【六合宝典】<font color=\'#FF0000\'>（两肖两码）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-document.writeln("        <!--结束-->  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'  https://h5.49217002.com:8443/#/corpusdetail?id=32902484&type=3     \'>");
@@ -597,7 +597,7 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'        https://zxcfsd.www71152b.com:888/#49qwt\'>");
+document.writeln("            <a target=\'_blank\' href=\'     https://rrrwww.www71697a.com:8443/#49qwt  \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>     281期【港澳宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
@@ -613,7 +613,7 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'        https://aaa.www71156f.com:888/#49qwt\'>");
+document.writeln("            <a target=\'_blank\' href=\'       https://asdqfdfb.www71685a.com:8443/#49qwt\'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>        281期【百家网澳】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（单双100%）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");

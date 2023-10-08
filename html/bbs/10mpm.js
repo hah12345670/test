@@ -14,14 +14,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("");
-document.writeln("281期：平码【48.09.41.17.15.44.32.18.04.25.24.43】<br>");
 
+document.writeln("");
+document.writeln("282期：平码【28.30.19.25.44.04.39.10.47.17.21.14】<br>");
 
-document.writeln("278期：平码【49.28.27.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">11</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.36.23.45.</font><font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑\' color=\"#FF0000\"><span style=\"background-color: #000000\">39</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.26.12.46.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">44</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>】<br>");
-document.writeln("");
-document.writeln("277期：平码【</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">11</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.32.33.42.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">34</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.07.39.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">41</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.31.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #000000\">18</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.26.09】<br>");
-document.writeln("");
 document.writeln("			");
 document.writeln("			");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</a></strong></tr></table>");

@@ -45,7 +45,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("279-281期<font style=\'font-size: 14pt\'>【19.31.43】</font>第?0期中</span></font></font></b></td>");
+document.writeln("282-284期<font style=\'font-size: 14pt\'>【05.29.41】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("");

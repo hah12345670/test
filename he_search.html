@@ -664,14 +664,11 @@
 		function showdata_gz(arr1) {
 			var nl = calendar;
 			let d = new Date();
+			let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0);
+			let list = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
 			let str = '';
-			for(let x=0;x<100;x++){
-				let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-x);
-				let list = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
-				for (var i = 0; i < list.length; i++) {
-					str += '<p>' + list[i] + '</p>';
-				}
-				str += '************************';
+			for (var i = 0; i < list.length; i++) {
+				str += '<p>' + list[i] + '</p>';
 			}
 			document.getElementById("showdata_gz").innerHTML = str;
 		}

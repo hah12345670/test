@@ -4,6 +4,7 @@
 			<div>
 				<label><b style="color: #ff00004e;">*</b>多个关键词用"|"分开, 例如: "野兽|火"</label>
 			</div>
+			<div id="showdata_gz"></div>
 		</div>
 		<div id="showdata"></div>
 		<style>
@@ -642,7 +643,7 @@
 								'辛亥杀码：02 49；杀肖：猴',
 								'癸亥杀码：35 33 32 30 27 26；杀肖：马',
 								];
-		myTimer(arr1);
+		// myTimer(arr1);
 		function myTimer(list){
 			let str1 = '<table><tr><th colspan=5>属性总纲</th></tr>';
 			for (var x = 0; x < Math.ceil(list.length/5); x++) {
@@ -658,6 +659,21 @@
 			}
 			str1 += '</table>';
 			document.getElementById("showdatax").innerHTML = str1;
+		}
+		showdata_gz(arr1);
+		function showdata_gz(arr1) {
+			var nl = calendar;
+			let d = new Date();
+			let str = '';
+			for(let x=0;x<100;x++){
+				let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-x);
+				let list = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
+				for (var i = 0; i < list.length; i++) {
+					str += '<p>' + list[i] + '</p>';
+				}
+				str += '************************';
+			}
+			document.getElementById("showdata_gz").innerHTML = str;
 		}
 		function search(str1){
 			let list = fuzzyQuery(arr1, str1.value); // 一个关键词

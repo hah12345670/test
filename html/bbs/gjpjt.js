@@ -23,7 +23,15 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>281期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(红绿波色今看好)(披红挂影)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>282期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期道人木金火)(多如牛毛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>281期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(红<span style=\'background-color: #FFFF00\'>绿</span>波色今看好)(披红挂影)</font><font style=\'font-size: 12pt; font-weight:700\'>开特16平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

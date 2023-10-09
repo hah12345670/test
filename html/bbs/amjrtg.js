@@ -135,7 +135,7 @@ document.writeln("<!--结束-->											");
 document.writeln("	");
 document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
-document.writeln("<a target=\"_blank\" href=\"https://862727.cc/gsb/226.html\">");
+document.writeln("<a target=\"_blank\" href=\"https://hhghh.www86281b.com:8443/gsb/226.html\">");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");
 document.writeln("		<img border=\'0\' src=\'https://www.49896b.com/images/niubi.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>熟男日记〖平特一肖〗<br>【07中06！稳赚】<font color=\'#FF00FF\'>点击查看</font></b></span></a></font><br><br />");
 document.writeln("<!--结束-->										");

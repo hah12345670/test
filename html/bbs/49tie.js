@@ -58,6 +58,13 @@ document.writeln("");
 
 
 
+document.writeln("        <!--开始--> ");
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      282期【六合宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+document.writeln("        <!--结束-->  ");
 
 
 
@@ -85,13 +92,6 @@ document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: la
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
-document.writeln("        <!--开始-- ");
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      282期【六合宝典】<font color=\'#FF0000\'>（两肖两码）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-document.writeln("        <!--结束-->  ");
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'  https://h5.49217002.com:8443/#/corpusdetail?id=32913454&type=3    \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>     282期【漫步雨夜】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");

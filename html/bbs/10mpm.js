@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("282期：平码【28.30.19.25.44.04.39.10.47.17.21.14】<br>");
+document.writeln("283期：平码【28.32.40.49.03.17.37.27.48.15.33.35】<br>");
 
 document.writeln("			");
 document.writeln("			");

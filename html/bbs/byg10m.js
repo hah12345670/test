@@ -36,7 +36,7 @@ document.writeln("			<tr>");
 document.writeln("				<td style=\'background-position: 0% 0%; text-align:center; background-image:none; background-repeat:repeat; background-attachment:scroll\' width=\'100%\'>");
 document.writeln("				<font face=\'微软雅黑\'>");
 document.writeln("				<b>");
-document.writeln("				<font size=\'2\'>282期</font><font color=\'#FF0000\' size=\'5\'>【21689.com已更新】</font><font size=\'2\'>稳中爆富！</font></b></font></td>");
+document.writeln("				<font size=\'2\'>283期</font><font color=\'#FF0000\' size=\'5\'>【已更新在21689b.com】</font><font size=\'2\'>稳中爆富！</font></b></font></td>");
 document.writeln("			</tr>");
 document.writeln("			<tr>");
 document.writeln("				<td style=\'background-position: 0% 0%; text-align:center; background-image:none; background-repeat:repeat; background-attachment:scroll\' width=\'100%\'>");

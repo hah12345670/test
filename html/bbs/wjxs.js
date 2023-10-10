@@ -49,7 +49,7 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("    	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>10月必开一肖</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【虎虎虎】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(00)</font><font face=\'微软雅黑\' color=\'#FF0000\'>？次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>10月必开一肖</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>【虎虎虎】</font><font color=\'#0000FF\' face=\'微软雅黑\'>开(38)</font><font face=\'微软雅黑\' color=\'#FF0000\'>？次</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");

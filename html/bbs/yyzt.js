@@ -36,9 +36,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>282期一语中特【目光远大】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：一个人的见解及处世观高远而伟大。解蛇牛兔鸡羊猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇牛兔鸡羊猪开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>283期一语中特【风号雨泣】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：风声像是怒号，雨声像是哭泣。渲染悲壮的气氛。解兔马牛蛇虎羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马牛蛇虎羊开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -66,14 +66,22 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>283期一语中特【腾空而起】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：腾空：向天空飞升。向高空升起。解猴猪兔鼠虎羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴猪兔鼠虎羊开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("  ");
+
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>282期一语中特【擎天玉柱】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：支撑天的柱子，比喻担负重任的人。解马蛇猪龙虎牛</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马蛇猪龙虎牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马蛇猪龙<span style=\'background-color: #FFFF00\'>虎</span>牛开虎38准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");

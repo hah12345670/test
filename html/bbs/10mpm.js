@@ -14,9 +14,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-
 document.writeln("");
-document.writeln("283期：平码【28.32.40.49.03.17.37.27.48.15.33.35】<br>");
+document.writeln("284期：平码【44.19.17.27.33.11.45.40.26.02.35.12】<br>");
+
 
 document.writeln("			");
 document.writeln("			");

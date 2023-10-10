@@ -35,6 +35,19 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 
+document.writeln("  <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>284期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【49.38.39.17.27.43.33.11.34.40】</font> </span>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
 
 document.writeln("  <!--开始-->");
 document.writeln("    ");
@@ -43,7 +56,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>283期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>283期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>开</font><span style=\'background-color: #000000\'><font color=\'#FFFF00\'>羊33</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
 document.writeln("		【18.08.12.37.07.16.26.03.45.24】</font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

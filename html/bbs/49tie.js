@@ -58,7 +58,7 @@ document.writeln("");
 
 
 
-document.writeln("        <!--开始-- ");
+document.writeln("        <!--开始--> ");
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'  https://tgtg.nlvdahewio.com:2025/#1234 \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>      284期【六合宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");

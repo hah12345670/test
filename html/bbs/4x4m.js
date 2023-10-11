@@ -39,46 +39,11 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第283期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔25.龙48.猴20.猪41】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第284期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马10.狗30.牛15.猪41】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第281期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇11.羊21.虎38.<span style=\'background-color: #FFFF00\'>鼠</span>04】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第280期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡31.蛇11.龙48.<span style=\'background-color: #FFFF00\'>马</span>10】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第278期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>牛</span>15.龙36.兔37.鼠28】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
 
 
 

@@ -219,7 +219,7 @@ document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("284期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【狗猪+27尾】</font>√</font></b></font></table>");
+document.writeln("285期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【狗猪+27尾】</font>√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");

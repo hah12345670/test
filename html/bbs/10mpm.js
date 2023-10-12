@@ -15,9 +15,13 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("284期：平码【44.19.17.27.33.11.45.40.26.02.35.12】<br>");
-
-
+document.writeln("");
+document.writeln("285期：平码【16.08.01.44.43.38.14.27.15.32.41.42】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("284期：平码【</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">44</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.19.17.27.33.11.45.40.26.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">02</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.35.12】<br>");
+document.writeln("");
+document.writeln("");
 document.writeln("			");
 document.writeln("			");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</a></strong></tr></table>");

@@ -46,7 +46,7 @@ document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字3814尾或者解特猴鼠狗龙鸡马蛇羊猪兔</font></b></td>");
+document.writeln("		解：数字3814尾或者解特猴鼠狗龙鸡马蛇羊猪</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

@@ -22,37 +22,10 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	285期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>31.04.06.15.48</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	286期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>06.43.27.05.07</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	283期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>49.<span style=\'background-color: #FFFF00\'>20</span>.07.32.34</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	280期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>47.43.06.20.<span style=\'background-color: #FFFF00\'>36</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	279期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>15</span>.07.09.21</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("");
-document.writeln("		<!--开始-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	278期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.<span style=\'background-color: #FFFF00\'>29</span>.36.17.33</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("");
-document.writeln("		<!--开始-->");
 
 
 document.writeln("");

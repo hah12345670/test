@@ -27,11 +27,14 @@ document.writeln("	<td width=100% height=40><p align=center><font color=\'#0000F
 document.writeln("	<font size=\'4\' face=\'楷体\'>");
 document.writeln("	前肖：鼠牛虎兔龙蛇<br>后肖：马羊猴鸡狗猪</font></font></b></font></table>		");
 document.writeln("	");
+
+document.writeln("	");
 document.writeln("								<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("286期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("287期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
+
 
 document.writeln("	");
 document.writeln("								<!--开始-->");
@@ -46,28 +49,6 @@ document.writeln("								<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("284期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗06</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("	");
-document.writeln("								<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("282期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎38</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("								<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("280期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马46</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("	");
-document.writeln("								<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("278期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛39</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

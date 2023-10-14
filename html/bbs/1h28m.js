@@ -41,6 +41,32 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li>287期必中一行：<font color=\'#FF00FF\' size=\'4\'>土</font></li>");
+document.writeln("            	<li>287期必中二行：<font color=\'#FF00FF\' size=\'4\'>土-火</font></li>");
+document.writeln("            	<li>287期必中三行：<font color=\'#FF00FF\' size=\'4\'>土-火-金</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>11.12.20.27.28.41</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>08.15.16.29.30.37</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>02.09.10.23.24.31</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>287期一行一码：<font color=\'#FF00FF\' size=\'6\'>(土行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
@@ -48,15 +74,15 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62103b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>286期必中一行：<font color=\'#FF00FF\' size=\'4\'>水</font></li>");
-document.writeln("            	<li>286期必中二行：<font color=\'#FF00FF\' size=\'4\'>水-火</font></li>");
-document.writeln("            	<li>286期必中三行：<font color=\'#FF00FF\' size=\'4\'>水-火-金</font></li>");
+document.writeln(" 	            <li>286期必中一行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【水】</span></font></li>");
+document.writeln("            	<li>286期必中二行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【水】</span>-火</font></li>");
+document.writeln("            	<li>286期必中三行：<font color=\'#FF00FF\' size=\'4\'><span style=\'background-color: #FFFF00\'>【水】</span>-火-金</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong6-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>11.12.19.27.28.41</font></li>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>11.12.<span style=\'background-color: #FFFF00\'>【19】</span>.27.28.41</font></li>");
 document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>08.15.16.30.37.38</font></li>");
 document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>02.09.10.24.32.39</font></li>");
 document.writeln("");

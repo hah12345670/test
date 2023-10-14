@@ -68,22 +68,7 @@ document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\
 document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【四尾中特】</font>杨家佬爷</div>");
 document.writeln("		</a></li>");
 document.writeln("		");
-document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
-document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/xin07.html\'>");
-document.writeln("		<div class=\'zzhl-img\' style=\'margin: 0px 8px 0px 0px; padding: 0px; float: left;\'>");
-document.writeln("			<img src=\'/images/zhong.gif\' style=\'margin: 0px; padding: 0px; border: 0px; vertical-align: middle; width: 40px; height: 40px; border-radius: 50%;\'></div>");
-document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【12组2中2】</font>溜溜六合</div>");
-document.writeln("		</a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
-document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/xin10.html\'>");
-document.writeln("		<div class=\'zzhl-img\' style=\'margin: 0px 8px 0px 0px; padding: 0px; float: left;\'>");
-document.writeln("			<img src=\'/images/zhong.gif\' style=\'margin: 0px; padding: 0px; border: 0px; vertical-align: middle; width: 40px; height: 40px; border-radius: 50%;\'></div>");
-document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【9肖杀9码】</font>宇宝宇宝</div>");
-document.writeln("		</a></li>");
+
 
 document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
 document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/xin03.html\'>");
@@ -104,25 +89,8 @@ document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\
 document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【波王一波】</font>波王波王</div>");
 document.writeln("		</a></li>");
 document.writeln("		");
-document.writeln("");
-document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
-document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/xin09.html\'>");
-document.writeln("		<div class=\'zzhl-img\' style=\'margin: 0px 8px 0px 0px; padding: 0px; float: left;\'>");
-document.writeln("			<img src=\'/images/zhong.gif\' style=\'margin: 0px; padding: 0px; border: 0px; vertical-align: middle; width: 40px; height: 40px; border-radius: 50%;\'></div>");
-document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【平特平尾】</font>王霏心水</div>");
-document.writeln("		</a></li>");
-document.writeln("		");
-document.writeln("");
-document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
-document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/0017.html\'>");
-document.writeln("		<div class=\'zzhl-img\' style=\'margin: 0px 8px 0px 0px; padding: 0px; float: left;\'>");
-document.writeln("			<img src=\'/images/zhong.gif\' style=\'margin: 0px; padding: 0px; border: 0px; vertical-align: middle; width: 40px; height: 40px; border-radius: 50%;\'></div>");
-document.writeln("		<div class=\'zzhl-txt1\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			287期:<font color=\'#FF0000\' style=\'margin: 0px; padding: 0px; font-size: 16pt;\'>【㈠波⒉码】</font>左面相爷</div>");
-document.writeln("		</a></li>");
-document.writeln("		");
-document.writeln("");
+
+
 document.writeln("");
 document.writeln("	<li style=\'margin: 0px; padding: 0px; list-style: none; width: 360px; float: left; border-bottom: 1px solid rgb(238, 238, 238);\'>");
 document.writeln("		<a target=\'_blank\' style=\'margin: 0px; padding: 10px; color: inherit; outline: 0px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-decoration: none; display: block;\' href=\'/6dgsb/0016.html\'>");

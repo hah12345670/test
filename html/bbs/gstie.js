@@ -95,8 +95,9 @@ document.writeln("284期:<font color=\"#008000\">3.肖中特</font><font color=\
 document.writeln("");
 document.writeln("285期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【鸡牛<span style=\"background-color: #FFFF00\">猪</span>】</font>开猪41准<BR>");
 document.writeln("");
-document.writeln("286期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【蛇鼠鸡】</font>开？00准</span><BR>");
+document.writeln("286期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【蛇鼠<span style=\'background-color: #FFFF00\'>鸡</span>】</font>开鸡19准<BR>");
 document.writeln("");
+document.writeln("287期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【虎猪狗】</font>开？00准</span><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

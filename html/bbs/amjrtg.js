@@ -45,7 +45,7 @@ document.writeln("		<img border=\'0\' src=\'https://www.49896b.com/images/dingji
 document.writeln("<!--结束-->	");
 document.writeln("						");
 document.writeln("	");
-document.writeln("<!--开始--");
+document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
 document.writeln("<a target=\'_blank\' href=\'https://titi.nlvdahewio.com:2025/#jrtj \'>");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");

@@ -18,7 +18,16 @@ document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("288期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("289期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("没人时用着它，有人时不用它<br>");
+document.writeln("进门时用着它，进门后不用它</font></b></font></table>");
+document.writeln("");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("288期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>蛇23</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("身上大环套小环，生来就爱吃子弹<br>");
 document.writeln("过硬本领它作证，你说这是哪一件</font></b></font></table>");
 document.writeln("");

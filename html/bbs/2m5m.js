@@ -39,7 +39,15 @@ document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<span style=\'color: #6600CC;\'>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("288期：方向报码</span><font color=\'#FF0000\'>【东南北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("289期：方向报码</span><font color=\'#FF0000\'>【西南北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("");
+document.writeln("<!-----开始----->");
+document.writeln("<!-----开始----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<span style=\'color: #6600CC;\'>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("288期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>南</span>北】</font><span style=\'color: #6600CC;\'>开蛇23</font></td></tr>");
 document.writeln("");
 document.writeln("<!-----开始----->");
 

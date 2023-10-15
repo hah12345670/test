@@ -51,10 +51,20 @@ document.writeln("    </div>");
 document.writeln("<div class=\'Contentbox50000\'>");
 document.writeln("	<div id=\'con_ptyxjplx50000_1\' style=\'display:none\'>");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/287/gzc1.jpg\' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/288/gzc1.jpg\' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第288期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【亭亭玉立】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容美女身材修长或花木等形体挺拔。解狗鸡猴龙羊鼠</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗鸡猴龙羊鼠</font></b><br>");
+document.writeln("==========================<br>");
+
 document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
@@ -63,7 +73,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【金枝玉叶】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：旧指皇族，也指出身高贵的公子小姐。解猪牛鼠狗鸡虎</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猪牛鼠狗鸡虎</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猪<span style=\'background-color: #FFFF00\'>牛</span>鼠狗鸡虎</font></b><br>");
 document.writeln("==========================<br>");
 
 document.writeln("");
@@ -91,12 +101,18 @@ document.writeln("	<div id=\'con_ptyxjplx50000_2\'>");
 
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/287/gzc2.jpg\' width=\'75%\' style=\' height: 400px;\'><br></P>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/288/gzc2.jpg\' width=\'75%\' style=\' height: 400px;\'><br></P>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第287期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第288期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红色绿色我都爱】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("	");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第287期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿39中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝天绿海在三亚】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("	");

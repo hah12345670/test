@@ -44,7 +44,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font color=\'#0000FF\' style=\"font-size: 14pt\">");
-document.writeln("		21689b.com已更新</font></b></td>");
+document.writeln("		02.22.03.23.04.24.05.25.07.27.08.28</font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");

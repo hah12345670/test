@@ -24,16 +24,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("288期码神哥五不中[10-19-44-17-03] <br>");
+document.writeln("289期码神哥五不中[44-02-28-19-05] <br>");
 document.writeln("	开奖:00-00-00-00-00-00+00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -42,9 +40,25 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("288期码神哥五不中[10-19-44-17-03] <br>");
+document.writeln("	开奖:36-05-34-46-15-04+23</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #008000\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -60,9 +74,9 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -78,8 +92,8 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -95,10 +109,10 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");

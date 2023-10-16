@@ -6,114 +6,118 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("275期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【火<span style=\'background-color: #FFFF00\'>金</span>土水】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("马10准</font></span></strong></span></p></td></tr>");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("276期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【金土木<span style=\'background-color: #FFFF00\'>火</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("猴08准</font></span></strong></span></p></td></tr>");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("277期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【<span style=\'background-color: #FFFF00\'>土</span>木火水】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("狗18准</font></span></strong></span></p></td></tr>");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("278期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【<span style=\'background-color: #FFFF00\'>金</span>土木水】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("牛39准</font></span></strong></span></p></td></tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("279期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【火土水<span style=\'background-color: #FFFF00\'>金</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("马10准</font></span></strong></span></p></td></tr>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("280期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【木水<span style=\'background-color: #FFFF00\'>火</span>土】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("马46准</font></span></strong></span></p></td></tr>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("281期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【土<span style=\'background-color: #FFFF00\'>火</span>水金】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("鼠16准</font></span></strong></span></p></td></tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("282期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【土金木<span style=\'background-color: #FFFF00\'>火</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("虎38准</font></span></strong></span></p></td></tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("283期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【水金火<span style=\'background-color: #FFFF00\'>土</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("羊33准</font></span></strong></span></p></td></tr>");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("285期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【<span style=\'background-color: #FFFF00\'>水</span>火木土】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("猪41准</font></span></strong></span></p></td></tr>");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("287期</span><span style=\'color:#c30\'>资料网");
 document.writeln("</span><span style=\'color:#060\'>澳门</span>【土<span style=\'background-color: #FFFF00\'>金</span>水火】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("牛39准</font></span></strong></span></p></td></tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("288期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【水木火金】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("</span><span style=\'color:#060\'>澳门</span>【水木火<span style=\'background-color: #FFFF00\'>金</span>】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("蛇23准</font></span></strong></span></p></td></tr>");
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
+document.writeln("289期</span><span style=\'color:#c30\'>资料网");
+document.writeln("</span><span style=\'color:#060\'>澳门</span>【土木火金】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("肖00准</font></span></strong></span></p></td></tr>");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

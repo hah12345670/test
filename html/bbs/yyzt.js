@@ -36,9 +36,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>288期一语中特【消磨岁月】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：消磨：虚度。虚度年月。解猴兔虎牛羊狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴兔虎牛羊狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>289期一语中特【背槽抛粪】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：（牲口吃完食）掉过头朝着食槽拉屎。比喻忘恩负义，以怨报德。解猪狗猴鸡羊马</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪狗猴鸡羊马开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -49,7 +49,7 @@ document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：通
 document.writeln("<div class=\'jyyzt-txt3\'>综合：马<span style=\'background-color: #FFFF00\'>牛</span>兔猴鸡龙开牛39准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
@@ -58,8 +58,8 @@ document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：风
 document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠牛兔<span style=\'background-color: #FFFF00\'>鸡</span>龙猴开鸡19准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -85,11 +85,20 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("   <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>289期一语中特【仓卒应战】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指没有准备匆忙对付。解兔蛇鼠龙猴马</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔蛇鼠龙猴马开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("  ");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>288期一语中特【彷徨四顾】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：彷徨：徘徊，游移不定。游移不定，四处观望。形容犹豫不决的神情。解羊龙虎猴猪蛇</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊龙虎猴猪蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊龙虎猴猪<span style=\'background-color: #FFFF00\'>蛇</span>开");
+document.writeln("	蛇23准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
@@ -101,7 +110,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇狗马鼠<span style=\'b
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>286期一语中特【搭桥牵线】</font></div>");
@@ -110,7 +119,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙兔蛇<span style=\'b
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -120,7 +129,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：兔猴羊虎鸡<span style=
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>283期一语中特【腾空而起】</font></div>");
@@ -129,7 +138,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：猴猪兔鼠虎<span style=
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -139,7 +148,7 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：马蛇猪龙<span style=\'b
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("  ");

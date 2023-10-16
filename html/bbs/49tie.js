@@ -725,7 +725,7 @@ document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'     https://rrrwww.www71697a.com:8443/#49qwt  \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>   289期【港澳宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>   289期【澳任我发】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
@@ -741,7 +741,7 @@ document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'       https://asdqfdfb.www71685a.com:8443/#49qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>    289期【百家网澳】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（单双100%）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>    289期【澳牛魔王】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（单双100%）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 

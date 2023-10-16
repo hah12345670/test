@@ -41,34 +41,31 @@ document.writeln("<!------结束------>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
 document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FFFFFF\'>");
-document.writeln("288期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
+document.writeln("289期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【01尾】【29尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【52尾】【14尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("70元一组共计140元</font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【701尾】【829尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【528尾】【149尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("30元一组共计60元</font></td></tr>");
 document.writeln("<!------结束------>");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

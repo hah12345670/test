@@ -15,24 +15,33 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>288期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>289期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        02.05.09.10.11.12.13.15.16.17.18.19<br>");
+document.writeln("			    20.21.22.23.25.26.28.29.30.31.32.33<br>");
+document.writeln("			    34.35.36.37.38.39.40.42.43.45.46.48</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>288期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>23</font>准<br>");
 document.writeln("		        34.37.45.12.22.17.27.47.32.05.13.46<br>");
-document.writeln("			    33.28.19.42.39.25.09.38.48.11.23.03<br>");
+document.writeln("			    33.28.19.42.39.25.09.38.48.11.<span style=\'background-color: #FFFF00\'>23</span>.03<br>");
 document.writeln("			    35.02.04.41.36.15.10.49.08.01.16.24</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -44,10 +53,10 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -59,13 +68,13 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -77,12 +86,12 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -94,10 +103,10 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -109,9 +118,9 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -123,9 +132,9 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -137,9 +146,9 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -151,7 +160,7 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -163,8 +172,8 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -176,12 +185,12 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
@@ -193,11 +202,11 @@ document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

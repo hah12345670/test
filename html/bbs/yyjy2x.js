@@ -13,51 +13,56 @@ document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("288期：<font color=\'#0000FF\'>（野兽+猪狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("289期：<font color=\'#0000FF\'>（野兽+羊马）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 document.writeln("");
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("288期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+猪狗）</font>开<font color=\'#FF0000\'>(蛇23)</font></font></b></font></table>");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("287期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+猴鼠）</font>开<font color=\'#FF0000\'>(牛39)</font></font></b></font></table>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("286期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+龙兔）</font>开<font color=\'#FF0000\'>(鸡19)</font></font></b></font></table>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("284期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+龙虎）</font>开<font color=\'#FF0000\'>(狗06)</font></font></b></font></table>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("283期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+龙猴）</font>开<font color=\'#FF0000\'>(羊33)</font></font></b></font></table>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("282期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+马牛）</font>开<font color=\'#FF0000\'>(虎38)</font></font></b></font></table>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888/#49029\' style=\'text-decoration: none\'>");

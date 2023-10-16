@@ -30,29 +30,29 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>288期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>289期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【48.02.09.01.35.31.06.44.17】<br>");
-document.writeln("		【45.08.28.43.46.47.12.41.03】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【02.09.12.16.18.22.26.27.29】<br>");
+document.writeln("		【30.32.33.35.39.40.42.45.48】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -8,7 +8,7 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln(" ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
@@ -41,67 +41,70 @@ document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("276期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.5】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴08准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("277期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.4】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗18准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("278期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【0.1】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛39准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("279期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.5】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马10准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("280期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马46准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("281期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鼠16准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("282期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.9】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎38准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("285期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猪41准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("286期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.6】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡19准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("287期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【4.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛39准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("288期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.2】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("288期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.2】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇23准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("289期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【2.4】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

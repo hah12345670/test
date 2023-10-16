@@ -31,24 +31,25 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>288期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("春来绿树遍天涯，须弥灵吉定风魔");
+document.writeln("			<font style=\'font-size: 13pt\'>289期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("关注62103c.com");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：春来绿树解春肖龙虎兔，绿肖牛龙狗羊，天涯解天肖牛马猴猪龙兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：正在来料，关注论坛</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：马猴猪龙兔牛虎<br>");
-document.writeln("			四肖：马猴猪龙<br>");
-document.writeln("			特码：10.34.08.20.17.41.12.48.13.25.15.39.14.38</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：www.62103c.com<br>");
+document.writeln("			四肖：www.62103c.com<br>");
+document.writeln("			特码：www.62103c.com			</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");

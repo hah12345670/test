@@ -47,23 +47,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			288期<font color=\'#FF0000\'>【二字带头尾数七，红波有望出旺码】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：二解二虎牛，七解马鸡，红解红肖鼠兔马鸡</font><br>");
+document.writeln("			289期<font color=\'#FF0000\'>【关注62103a.com】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：18点来料，关注62103c.com</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：马鸡虎牛鼠兔龙<br>");
-document.writeln("			特码：34.46.31.43.26.38.27.39.28.40.37.49.36.48");
+document.writeln("			<br>七肖：来料<br>");
+document.writeln("			特码：来料");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("	");

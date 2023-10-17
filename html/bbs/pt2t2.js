@@ -19,7 +19,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("289期：平特【蛇兔拖虎猪】开？00<br>");
+document.writeln("290期：平特【马兔拖猪猴】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("289期：平特【蛇兔拖<span style=\'background-color: #FFFF00\'>虎猪</span>】开29.02<br>");
 document.writeln("------<br>");
 
 

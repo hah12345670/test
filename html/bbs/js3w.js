@@ -33,9 +33,9 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -43,10 +43,21 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>289期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【5.9.2】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>290期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【6.7.2】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>289期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【5.9.2】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊21</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -57,7 +68,7 @@ document.writeln("		");
 document.writeln("		<font style=\'font-size: 14pt\'>288期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【8.3.5】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>蛇23</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -169,7 +180,7 @@ document.writeln("		<font style=\'font-size: 14pt\'>273期<font color=\'#0000FF\
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -23,7 +23,7 @@ document.writeln("			25.37.49</font></b><td align=center bgcolor=#9966FF width=1
 document.writeln("          <td align=center width=20% height=35><strong> ");
 document.writeln("			<font size=\'3\'> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("									02.14.<font color=\"#FFFF00\"><span style=\"background-color: #FF0000\">38</span></font></span></font></strong><td align=center bgcolor=#9966FF width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
+document.writeln("									02.14.<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>38</span></font></span></font></strong><td align=center bgcolor=#9966FF width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=35><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
 document.writeln("			<font size=\'3\'>15.27</font></span></strong></tr>");
@@ -39,7 +39,7 @@ document.writeln("			<span style=font-family:Arial;>");
 document.writeln("																		05.<font size=\'3\'><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>41</font></span><td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font color=\"#FFFF00\"><span style=\"background-color: #FF0000\">18</span></font>.30.42</span></strong></tr>");
+document.writeln("			<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>18</span></font>.30.42</span></strong></tr>");
 document.writeln("        <tr>");
 document.writeln("          <td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鸡</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33 bgcolor=\'#FFFFFF\'><strong> ");
@@ -57,7 +57,7 @@ document.writeln("          <td align=center width=20% height=38 bgcolor=\'#FFFF
 document.writeln("			<span style=font-family:Arial;>");
 document.writeln("			<font size=\'3\'>");
 document.writeln("												<font color=\'#FFFF00\'>");
-document.writeln("			<span style=\'background-color: #FF0000\'>10</span></font>.22.<span style=\'background-color: #FF0000\'>46</span><td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
+document.writeln("			<span style=\'background-color: #FF0000\'>10</span></font>.22.</font></span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'><span style=\'font-family: Arial\'>46</span></font></span><td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
 document.writeln("			<font size=\'3\'>11.35.47</font></span></strong><td align=center bgcolor=#9966FF width=10% height=38><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");

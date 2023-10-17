@@ -15,7 +15,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("289期：平码【11.04.25.49.46.22.15.37.10.01.20.42】<br>");
+document.writeln("290期：平码【27.28.10.02.41.15.19.49.22.43.38.01】<br>");
+document.writeln("");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

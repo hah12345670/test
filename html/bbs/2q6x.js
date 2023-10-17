@@ -50,7 +50,17 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("289-290期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猴牛狗虎羊猪】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("290-291期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猴牛蛇马猪龙】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>000</font></span>期√)  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>  ");
+document.writeln("   <!--结束--> ");
+document.writeln("    <!--开始--> ");
+document.writeln("		<tr>");
+document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("289-290期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【猴牛狗虎</font><font color=\'#FF0000\' style=\'background-color:#FFFF00\' size=\'5\'>羊</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>猪】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>羊21</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
@@ -64,6 +74,7 @@ document.writeln("288-289期<font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
+
 document.writeln("             <!--开始--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");

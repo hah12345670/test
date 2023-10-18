@@ -48,7 +48,8 @@ document.writeln("286期【牛虎龙蛇<span style=\'background-color: #FFFF00\'
 document.writeln("287期【马鸡兔猪蛇猴虎羊<span style=\'background-color: #FFFF00\'>牛</span>龙】√<br>		");
 document.writeln("288期【虎鸡龙鼠狗<span style=\'background-color: #FFFF00\'>蛇</span>牛猪猴羊】√<br>		");
 document.writeln("289期【狗猴牛兔<span style=\'background-color: #FFFF00\'>羊</span>猪蛇鸡龙鼠】√<br>		");
-document.writeln("290期【鼠狗蛇猴马龙鸡牛虎猪】√<br>		");
+document.writeln("290期【鼠<span style=\'background-color: #FFFF00\'>狗</span>蛇猴马龙鸡牛虎猪】√<br>		");
+document.writeln("291期【狗鸡马虎猴龙牛鼠猪蛇】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -67,21 +68,14 @@ document.writeln("<!--四头-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老二主四头】√</font><font size=\'4\'><br>");
-document.writeln("	276期【31<span style=\'background-color: #FFFF00\'>0</span>4头】√<br>		");
-document.writeln("	277期【02<span style=\'background-color: #FFFF00\'>1</span>4头】√<br>		");
-document.writeln("	278期【1<span style=\'background-color: #FFFF00\'>3</span>20头】√<br>		");
-document.writeln("	279期【203<span style=\'background-color: #FFFF00\'>1</span>头】√<br>		");
-document.writeln("	280期【<span style=\'background-color: #FFFF00\'>4</span>032头】√<br>		");
-document.writeln("	281期【342<span style=\'background-color: #FFFF00\'>1</span>头】√<br>		");
-document.writeln("	282期【<span style=\'background-color: #FFFF00\'>3</span>204头】√<br>		");
-document.writeln("	283期【4012头】×<br>		");
+
 document.writeln("	284期【34<span style=\'background-color: #FFFF00\'>0</span>1头】√<br>		");
 document.writeln("	285期【<span style=\'background-color: #FFFF00\'>4</span>120头】√<br>		");
 document.writeln("	286期【<span style=\'background-color: #FFFF00\'>1</span>432头】√<br>		");
 document.writeln("	287期【4<span style=\'background-color: #FFFF00\'>3</span>10头】√<br>		");
 document.writeln("	288期【<span style=\'background-color: #FFFF00\'>2</span>014头】√<br>		");
 document.writeln("	289期【<span style=\'background-color: #FFFF00\'>2</span>310头】√<br>		");
-document.writeln("	290期【2031头】√<br>		");
+document.writeln("	291期【2401头】√<br>		");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -94,13 +88,7 @@ document.writeln("<!--四行-->");
 document.writeln("	");
 document.writeln("<font size=\'4\' color=\'#0000FF\'>【老三主四行】√</font><font size=\'4\'><br>");
 
-document.writeln("284期【水金<span style=\'background-color: #FFFF00\'>木</span>土】√<br>			");
-document.writeln("285期【金火<span style=\'background-color: #FFFF00\'>水</span>土】√<br>			");
-document.writeln("286期【木金土<span style=\'background-color: #FFFF00\'>水</span>】√<br>			");
-document.writeln("287期【水<span style=\'background-color: #FFFF00\'>金</span>木土】√<br>			");
-document.writeln("288期【木<span style=\'background-color: #FFFF00\'>金</span>水火】√<br>			");
-document.writeln("289期【土<span style=\'background-color: #FFFF00\'>木</span>火金】√<br>			");
-document.writeln("290期【土木金火】√<br>			");
+document.writeln("291期【金火水木】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -119,7 +107,8 @@ document.writeln("	<br>");
 
 document.writeln("	288期【57281<span style=\'background-color: #FFFF00\'>3</span>04】√<br>	");
 document.writeln("	289期【205<span style=\'background-color: #FFFF00\'>1</span>8463】√<br>	");
-document.writeln("	290期【04236985】√<br>	");
+document.writeln("	290期【04<span style=\'background-color: #FFFF00\'>2</span>36985】√<br>	");
+document.writeln("	291期【02843517】√<br>	");
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -138,7 +127,8 @@ document.writeln("286期【<span style=\'background-color: #FFFF00\'>红波</spa
 document.writeln("287期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
 document.writeln("288期【<span style=\'background-color: #FFFF00\'>红波</span>蓝波】√<br>  	");
 
-document.writeln("290期【蓝波绿波】√<br>  	");
+document.writeln("290期【<span style=\'background-color: #FFFF00\'>蓝波</span>绿波】√<br>  	");
+document.writeln("291期【绿波蓝波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

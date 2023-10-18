@@ -39,7 +39,7 @@ document.writeln("			<span style=font-family:Arial;>");
 document.writeln("																		05.<font size=\'3\'><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>41</font></span><td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>18</span></font>.30.42</span></strong></tr>");
+document.writeln("			<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>18</span></font>.30.</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'><span style=\'font-family: Arial\'>42</span></font></span></strong></tr>");
 document.writeln("        <tr>");
 document.writeln("          <td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鸡</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33 bgcolor=\'#FFFFFF\'><strong> ");

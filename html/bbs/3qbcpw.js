@@ -28,86 +28,92 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>288-290期</font>【平七尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>291-293期</font>【平二尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#FF00FF\'>288-290期</font>【平七尾】<font color=\'#FF0000\'>290</font>期开<font color=\'#008000\'>(37)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>286-288期</font>【平三尾】<font color=\'#FF0000\'>287</font>期开<font color=\'#008000\'>(03)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>284-286期</font>【平五尾】<font color=\'#FF0000\'>285</font>期开<font color=\'#008000\'>(35)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>282-284期</font>【平三尾】<font color=\'#FF0000\'>283</font>期开<font color=\'#008000\'>(43)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>281-283期</font>【平六尾】<font color=\'#FF0000\'>281</font>期开<font color=\'#008000\'>(16)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>279-281期</font>【平九尾】<font color=\'#FF0000\'>280</font>期开<font color=\'#008000\'>(09)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>278-280期</font>【平一尾】<font color=\'#FF0000\'>278</font>期开<font color=\'#008000\'>(11)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>276-278期</font>【平四尾】<font color=\'#FF0000\'>277</font>期开<font color=\'#008000\'>(34)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#FF00FF\'>273-275期</font>【平三尾】<font color=\'#FF0000\'>275</font>期开<font color=\'#008000\'>(10)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");

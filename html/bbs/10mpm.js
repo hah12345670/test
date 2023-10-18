@@ -15,7 +15,12 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("290期：平码【27.28.10.02.41.15.19.49.22.43.38.01】<br>");
+document.writeln("");
+document.writeln("291期：平码【13.05.26.11.22.14.07.27.48.17.49.42】<br>");
+document.writeln("");
+document.writeln("");
+
+document.writeln("290期：平码【27.<font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">28</span></font>.10.02.41.15.19.49.22.43.38.<font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">01</span></font>】<br>");
 document.writeln("");
 document.writeln("");
 

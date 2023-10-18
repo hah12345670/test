@@ -1,4 +1,4 @@
-﻿
+﻿document.writeln("");
 document.writeln("");
 document.writeln("<style>");
 document.writeln("bjbj {");
@@ -8,7 +8,7 @@ document.writeln(".a1 td {");
 document.writeln("	border-bottom: solid 1px #c0c0c0;");
 document.writeln("}");
 document.writeln("</style>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -48,12 +48,12 @@ document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第290期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第291期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：龙蛇猴鸡<br>			");
-document.writeln("        博八码：12.36.11.47.08.20.31.43</font></b></td>");
+document.writeln("		主四肖：鼠蛇猴鸡<br>			");
+document.writeln("        博八码：04.40.11.47.08.20.31.43</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -65,8 +65,7 @@ document.writeln("");
 document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第289期八码中特开(羊21)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马<span style=\'background-color: #FFFF00\'>羊</span>狗猪）<br>	");		");
-document.writeln("        </font></b></td>");
+document.writeln("		特肖：大肖（牛虎马<span style=\'background-color: #FFFF00\'>羊</span>狗猪）</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -127,8 +126,8 @@ document.writeln("        博八码：15.39.02.38.10.34.05.<span style=\'backgro
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
@@ -142,12 +141,12 @@ document.writeln("        博八码：03.39.14.26.10.46.21.<span style=\'backgro
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("  </tbody>");

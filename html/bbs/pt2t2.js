@@ -18,8 +18,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("292期：平特【兔羊拖马蛇】开？00<br>");
+document.writeln("------<br>");
 
-document.writeln("291期：平特【鼠鸡拖马蛇】开？00<br>");
 document.writeln("------<br>");
 document.writeln("290期：平特【马<span style=\'background-color: #FFFF00\'>兔</span>拖<span style=\'background-color: #FFFF00\'>猪</span>猴】开01.37.05<br>");
 document.writeln("------<br>");

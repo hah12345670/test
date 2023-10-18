@@ -18,7 +18,7 @@ document.writeln("<body class=\'bjbj\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<div class=\'a1\'>");
-document.writeln("<table width=\'375px\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");

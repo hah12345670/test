@@ -47,7 +47,7 @@ document.writeln("						");
 document.writeln("	");
 document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
-document.writeln("<a target=\'_blank\' href=\'https://titi.nlvdahewio.com:2025/#jrtj \'>");
+document.writeln("<a target=\'_blank\' href=\'https://tgtg.sdafagrhty.com:2025/#jrtj \'>");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");
 document.writeln("		<img border=\'0\' src=\'https://www.49896b.com/images/dingjian.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>六合宝典【三期必中】<br>【38中34！稳赚】<font color=\'#FF00FF\'>点击查看</font></b></span></a></font><a target=\'_blank\' href=\'https://www.39895a.com/AMgsb/208.htm\'></font></a><br><br />");
 document.writeln("<!--结束-->	");

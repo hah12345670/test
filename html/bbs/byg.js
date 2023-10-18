@@ -178,7 +178,7 @@ document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
-document.writeln("		290期（蓝肖）√<br>			");
+
 document.writeln("		291期（红肖）√<br>			");
 document.writeln("");
 document.writeln("   ");

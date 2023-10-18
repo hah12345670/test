@@ -76,8 +76,8 @@ document.writeln(" <b>289期:提供【16码中特】<font color=\"#FF00FF\">开�
 document.writeln("	<span style=\"font-size: 11pt\">16码</span><font color=\"#FF0000\"><span style=\"font-size: 11pt\">【13.25.19.31.23.35.22.34.17.29.15.39.18.30.<span style=\"background-color: #FFFF00\">21</span>.33】</span></font></b></p>  ");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" 	290期:提供【16码中特】<font color=\"#FF00FF\">开？00准</font><br>");
-document.writeln("	<span style=\"font-size: 11pt\">16码</span><font color=\"#FF0000\"><span style=\"font-size: 11pt\">【15.39.20.32.11.23.16.28.13.49.17.29.18.30.22.34】</span></font></p>  ");
+document.writeln(" 	291期:提供【16码中特】<font color=\"#FF00FF\">开？00准</font><br>");
+document.writeln("	<span style=\"font-size: 11pt\">16码</span><font color=\"#FF0000\"><span style=\"font-size: 11pt\">【09.33.18.42.20.32.15.39.12.36.19.31.11.23.22.46】</span></font></p>  ");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -18,7 +18,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("292期：平特【兔羊拖马蛇】开？00<br>");
+document.writeln("293期：平特【猪鼠拖狗鸡】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("292期：平特【<span style=\'background-color: #FFFF00\'>>兔羊</span拖<span style=\'background-color: #FFFF00\'>马</span>蛇】开25.45.10.34<br>");
 document.writeln("------<br>");
 
 document.writeln("------<br>");

@@ -72,8 +72,12 @@ document.writeln("		<b>特肖【龙虎牛狗鼠<span style=\'background-color: #
 
 
 document.writeln("                   <font color=\'#0000FF\'>（293期）</font></b><Br>");
-document.writeln("		<b>特肖【鸡虎猴马龙鼠】<br>	<br>	");
+document.writeln("		<b>特肖【鸡虎<span style=\'background-color: #FFFF00\'>猴</span>马龙鼠】<br>	<br>	");
 
+
+
+document.writeln("                   <font color=\'#0000FF\'>（294期）</font></b><Br>");
+document.writeln("		<b>特肖【龙猴牛羊马兔】<br>	<br>	");
 
 
 
@@ -114,7 +118,8 @@ document.writeln("		287期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		289期必中平特【<span style=\'background-color: #FFFF00\'>羊+狗</span>】√<br>	");
 document.writeln("		290期必中平特【马+<span style=\'background-color: #FFFF00\'>狗</span>】√<br>	");
 document.writeln("		292期必中平特【龙+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
-document.writeln("		293期必中平特【虎+牛】√<br>	");
+document.writeln("		293期必中平特【<span style=\'background-color: #FFFF00\'>虎</span>+牛】√<br>	");
+document.writeln("		294期必中平特【鸡+鼠】√<br>	");
 document.writeln("			<br>");
 document.writeln("		");
 document.writeln("");
@@ -134,6 +139,7 @@ document.writeln("		290期杀【39.30.32.15.49.34.02】√<br>")
 document.writeln("		291期杀【23.21.11.09.42.47.31】√<br>")
 document.writeln("		292期杀【07.30.31.17.14.28.43】√<br>")
 document.writeln("		293期杀【22.12.29.34.14.31.24】√<br>")
+document.writeln("		294期杀【23.41.30.02.39.04.36】√<br>")
 document.writeln("	");;
 document.writeln("<br>");
 document.writeln("");
@@ -197,7 +203,8 @@ document.writeln("		288期【<span style=\'background-color: #FFFF00\'>3</span>6
 document.writeln("		290期【<span style=\'background-color: #FFFF00\'>2</span>047尾】√<br>				");
 document.writeln("		291期【4<span style=\'background-color: #FFFF00\'>8</span>10尾】√<br>				");
 document.writeln("		292期【<span style=\'background-color: #FFFF00\'>5</span>408尾】√<br>				");
-document.writeln("		293期【7102尾】√<br>				");
+document.writeln("		293期【71<span style=\'background-color: #FFFF00\'>0</span>2尾】√<br>				");
+document.writeln("		294期【7568尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -227,7 +234,8 @@ document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码�
 document.writeln("		    ");
 document.writeln("		290期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿单<br>	");
 document.writeln("		291期红波+<span style=\'background-color: #FFFF00\'>蓝双</span><br>	");
-document.writeln("		293期蓝波+绿单<br>	");
+document.writeln("		293期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿单<br>	");
+document.writeln("		294期绿波+蓝单<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b><br>	");
@@ -258,6 +266,7 @@ document.writeln("		290期杀蛇兔√<br>");
 document.writeln("		291期杀羊鼠√<br>");
 document.writeln("		292期杀猪狗√<br>");
 document.writeln("		293期杀牛鼠√<br>");
+document.writeln("		294期杀猴鼠√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");
@@ -265,7 +274,8 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("");
 document.writeln("		291期杀绿单√<br>");
 document.writeln("		292期杀红双√<br>");
-document.writeln("		293期杀蓝双√<br>");
+document.writeln("		293期杀蓝双×<br>");
+document.writeln("		294期杀绿单√<br>");
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -284,7 +294,8 @@ document.writeln("		289期杀4头双√<br>	");
 document.writeln("		290期杀3头单√<br>	");
 document.writeln("		291期杀2头双√<br>	");
 document.writeln("		292期杀4头单√<br>	");
-document.writeln("		293期杀2头双√<br>	");
+document.writeln("		293期杀2头双×<br>	");
+document.writeln("		294期杀3头单√<br>	");
 document.writeln("						");
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -295,6 +306,7 @@ document.writeln("		290期杀4.6尾√<br>");
 document.writeln("		291期杀1.3尾√<br>");
 document.writeln("		292期杀6.7尾√<br>");
 document.writeln("		293期杀3.4尾√<br>");
+document.writeln("		294期杀7.6尾√<br>");
 document.writeln("		");
 document.writeln("");
 document.writeln("			    ");

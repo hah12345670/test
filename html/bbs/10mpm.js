@@ -14,8 +14,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("293期：平码【31.16.08.34.15.18.17.39.07.14.05.28】<br>");
+
 document.writeln("");
+document.writeln("294期：平码【11.38.30.05.32.47.10.22.46.20.39.27】<br>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("292期：平码【19.12.05.41.22</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">.29</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.43.39.02.27.26.23】<br>");
 document.writeln("");

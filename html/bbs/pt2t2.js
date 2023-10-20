@@ -17,8 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("294期：平特【狗马拖羊猴】开？00<br>");
+document.writeln("------<br>");
+
 document.writeln("");
-document.writeln("293期：平特【猪鼠拖狗鸡】开？00<br>");
+document.writeln("293期：平特【<span style=\'background-color: #FFFF00\'>猪</span>鼠拖<span style=\'background-color: #FFFF00\'>狗鸡</span>】开41.30.19<br>");
 document.writeln("------<br>");
 
 document.writeln("");

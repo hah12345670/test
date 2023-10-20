@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/293/amsbx.jpg\' id=\'lfktzm\'>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/294/amsbx.jpg\' id=\'lfktzm\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,26 +25,16 @@ document.writeln("    <span class=\'bizhong123-btn bizhong123-next\' onclick=\'s
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
+
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/294/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/293/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/292/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/291/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/290/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/289/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/288/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/287/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/286/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/285/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/284/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/283/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/282/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/281/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/280/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/279/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/278/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/277/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/276/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/275/amsbx.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/274/amsbx.jpg\'");
+
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/287/amsbx.jpg\'");
 document.writeln(");");
 document.writeln("    var indexx=0;");
 document.writeln("    function syqzmw(){");

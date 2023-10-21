@@ -47,36 +47,36 @@ document.writeln("		");
 
 
 
-document.writeln("                   <font color=\'#0000FF\'>（286期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（286期）</font><Br>");
 document.writeln("		<b>特肖【龙狗猪<span style=\'background-color: #FFFF00\'>鸡</span>马牛】<br>	<br>	");
 
 
-document.writeln("                   <font color=\'#0000FF\'>（287期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（287期）</font><Br>");
 document.writeln("		<b>特肖【马猴<span style=\'background-color: #FFFF00\'>牛</span>虎羊鼠】<br>	<br>	");
 
 
 
-document.writeln("                   <font color=\'#0000FF\'>（288期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（288期）</font><Br>");
 document.writeln("		<b>特肖【虎兔狗<span style=\'background-color: #FFFF00\'>蛇</span>鸡羊】<br>	<br>	");
 
 
 
 
-document.writeln("                   <font color=\'#0000FF\'>（290期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（290期）</font><Br>");
 document.writeln("		<b>特肖【鸡鼠牛<span style=\'background-color: #FFFF00\'>狗</span>兔蛇】<br>	<br>	");
 
 
-document.writeln("                   <font color=\'#0000FF\'>（292期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（292期）</font><Br>");
 document.writeln("		<b>特肖【龙虎牛狗鼠<span style=\'background-color: #FFFF00\'>兔</span>】<br>	<br>	");
 
 
 
-document.writeln("                   <font color=\'#0000FF\'>（293期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（293期）</font><Br>");
 document.writeln("		<b>特肖【鸡虎<span style=\'background-color: #FFFF00\'>猴</span>马龙鼠】<br>	<br>	");
 
 
 
-document.writeln("                   <font color=\'#0000FF\'>（294期）</font></b><Br>");
+document.writeln("                   <font color=\'#0000FF\'>（294期）</font><Br>");
 document.writeln("		<b>特肖【龙猴牛羊马兔】<br>	<br>	");
 
 
@@ -184,7 +184,7 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
 
-document.writeln("		293期（红肖）√<br>			");
+document.writeln("		294期（绿肖）√<br>			");
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -224,7 +224,7 @@ document.writeln("		");
 document.writeln("");
 
 document.writeln("		292期（1.<span style=\'background-color: #FFFF00\'>2</span>头）√<br>	");
-document.writeln("		293期（4.1头）√<br>	");
+document.writeln("		294期（0.1头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");

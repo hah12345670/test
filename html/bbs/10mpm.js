@@ -14,9 +14,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-
 document.writeln("");
-document.writeln("294期：平码【11.38.30.05.32.47.10.22.46.20.39.27】<br>");
+document.writeln("295期：平码【11.14.39.20.29.21.28.17.18.31.30.47】<br>");
 document.writeln("");
 
 document.writeln("");
@@ -31,22 +30,7 @@ document.writeln("");
 document.writeln("290期：平码【27.<font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">28</span></font>.10.02.41.15.19.49.22.43.38.<font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">01</span></font>】<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("288期：平码【03.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">46</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.08.01.18.10.37.07.31.33.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">36</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.20】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("286期：平码【29.33.38.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">27</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.30.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">14</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #000000\">19</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.39.09.13.07.08】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("285期：平码【16.08.01.44.43.38.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">14</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.27.15.32.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #000000\">41</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.42】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("284期：平码【</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">44</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.19.17.27.33.11.45.40.26.</font><font color=\"#FF0000\" size=\"5\" style=\"font-weight: 700\" face=\"微软雅黑\"><span style=\"background-color: #FFFF00\">02</span></font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>.35.12】<br>");
-document.writeln("");
+
 document.writeln("");
 document.writeln("			");
 document.writeln("			");

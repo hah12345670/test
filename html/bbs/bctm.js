@@ -61,7 +61,7 @@ document.writeln("												<font color=\'#FFFF00\'>");
 document.writeln("			<span style=\'background-color: #FF0000\'>10</span></font>.22.</font></span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'><span style=\'font-family: Arial\'>46</span></font></span><td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'3\'>11.35.47</font></span></strong><td align=center bgcolor=#9966FF width=10% height=38><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");
+document.writeln("			<font size=\'3\'>11.<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>35</font></span>.47</font></span></strong><td align=center bgcolor=#9966FF width=10% height=38><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>12.24.</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'><span style=\'font-family: Arial\'>48</span></font></span></tr>");
 document.writeln("			</table></table>");

@@ -87,7 +87,14 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
 document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("294期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>钻天打洞</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
+document.writeln("294期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>钻天打洞</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>蛇35</font></font></td></tr>");
+document.writeln("<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("295期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>非分之念</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
 document.writeln("<!--结束-->");
 
 document.writeln("<!--推广开始-->");

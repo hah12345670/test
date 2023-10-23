@@ -18,16 +18,15 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 document.writeln("");
-
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>295期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(孙子兵法有三六)(龙争虎斗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>296期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(等到三四不变五)(目无金牛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
-document.writeln("");
+
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");

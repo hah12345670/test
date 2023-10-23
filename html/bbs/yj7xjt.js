@@ -19,13 +19,23 @@ document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpaddi
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		295期</font></th>");
+document.writeln("		296期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				鼠猴马鸡虎兔狗，合单大数中本期</font></th>");
+document.writeln("				猪龙鼠猴马虎羊，合单小数中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
 document.writeln("				开？00</font></th>");
+document.writeln("			</tr>");
+document.writeln("			<tr>");
+document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
+document.writeln("		295期</font></th>");
+document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
+document.writeln("				<span style=\'text-decoration: none\'>");
+document.writeln("				<span style=\'font-size: 11pt\'>");
+document.writeln("				<font color=\'#FF0000\'>鼠<span style=\'background-color: #FFFF00\'>猴</span>马鸡虎兔狗，合单<span style=\'background-color: #FFFF00\'>大数</span>中本期</font></th>");
+document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
+document.writeln("				开猴44</font></th>");
 document.writeln("			</tr>");
 document.writeln("			<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
@@ -161,6 +171,7 @@ document.writeln("				蛇兔<span style=\'background-color: #FFFF00\'>羊</span>
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
 document.writeln("				开羊33</font></th>");
 document.writeln("			</tr>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

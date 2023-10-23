@@ -19,7 +19,7 @@ document.writeln("");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62103c.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>【稳赚六肖】</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62361c.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>【稳赚六肖】</font></b></table>");
 document.writeln("           ");
 document.writeln("");
 document.writeln("");

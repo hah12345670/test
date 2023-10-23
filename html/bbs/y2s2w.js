@@ -1,4 +1,4 @@
-﻿document.writeln("<table border=\'1\' width=\'100%\'><tbody><tr><td align=\'center\' bgcolor=\'#003300\' height=\'80\'><p style=\'line-height:200%\'><strong><span style=\'font-size:16pt;color:#fff;font-family:Arial\'>资料网62103</span><span style=\'font-family:Arial;font-size:16pt;color:#ff0\'>【绝杀二尾】</span><span style=\'color:#0ff;font-family:Arial;font-size:16pt\'>稳定好料</span></strong></p></td></tr>");
+﻿document.writeln("<table border=\'1\' width=\'100%\'><tbody><tr><td align=\'center\' bgcolor=\'#003300\' height=\'80\'><p style=\'line-height:200%\'><strong><span style=\'font-size:16pt;color:#fff;font-family:Arial\'>资料网62361【绝杀二尾】</span><span style=\'color:#0ff;font-family:Arial;font-size:16pt\'>稳定好料</span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -54,7 +54,10 @@ document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-h
 document.writeln("294期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【4.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇35准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("295期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("295期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴44准</font></font></span></span></strong></p></td></tr>");
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("296期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.4】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table>");
 document.writeln("");

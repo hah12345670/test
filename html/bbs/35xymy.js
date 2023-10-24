@@ -14,28 +14,13 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln(" ");
 document.writeln("");
 document.writeln("");
-document.writeln("<!--头部start--");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>206期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("关注62361c.com");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：正在来料，关注论坛</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：www.62361c.com<br>");
-document.writeln("			四肖：www.62361c.com<br>");
-document.writeln("			特码：www.62361c.com			</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("");
-document.writeln("");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>296期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>297期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("蛇蝎心肠妇人心，猪头为贡谢天恩");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：蛇蝎心肠妇人心，妇人，女肖兔蛇羊鸡猪。猪头为贡谢天恩，天恩，天肖猴龙马猪牛兔。</font><font style=\'font-size: 13pt\'><br>");

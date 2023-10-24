@@ -61,7 +61,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <b><font size=\"4\">297期:【前后特肖】开？00准<br>");
-document.writeln("	</font><font size=\"4\" color=\"#FF0000\">①三肖：（兔龙蛇）</font></b></p>  ");
+document.writeln("	</font><font size=\"4\" color=\"#FF0000\">①三肖：（鼠蛇虎）</font></b></p>  ");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -106,7 +106,7 @@ document.writeln("		297期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("<br>");
 document.writeln("		");
 
-document.writeln("        <font color=\'#0000FF\'>296期四头=0412√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>297期四头=0412√</font><br>	");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");

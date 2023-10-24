@@ -17,7 +17,7 @@ document.writeln(".jrtzao:hover .jrtzao-btn { background: #f00;}");
 document.writeln("</style>");
 document.writeln("<div class=\'jrtzao\'>");
 document.writeln("    <div class=\'jrtzao-tit\'><font color=\'#000000\' style=\'font-size: 21pt\'>");
-document.writeln("		<span style=\'background-color: #FFFF00\'>★今日推荐296期★★</span></font></div>");
+document.writeln("		<span style=\'background-color: #FFFF00\'>★今日推荐297期★★</span></font></div>");
 document.writeln("    <div class=\'jrtzao-box\'>");
 document.writeln("    ");
 document.writeln("");

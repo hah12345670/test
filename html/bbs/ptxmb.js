@@ -40,39 +40,49 @@ document.writeln("    <!--结束--> ");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("  <!--开始--- ");
+
+
+
+
+document.writeln("  <!--开始---> ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>202期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
+document.writeln("		297期：开00.00.00.00.00.00T00</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>【平特小卖部】老板：冰山木,男，未婚。有车有房。</font><font color=\'#6600CC\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br></font>");
-document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>摊位一平特：【】 ");
+document.writeln("		<font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		【平特小卖部】老板：冰山木,男，未婚。有车有房。</font><font color=\'#6600CC\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br></font>");
+document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		                               摊位一平特：【狗】 ");
 document.writeln("											</font>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("											摊位二推荐连肖：<br>");
-document.writeln("									（）（）（）</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（4.12倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
-document.writeln("                                      （）（） （）  ");
-document.writeln("											</font>");
+document.writeln("									（狗猪）（鼠猴）（兔鸡）</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（4.12倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("                               （狗猪鼠）（鼠猴龙）（兔鸡马）						</font>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（11.12倍）");
 document.writeln("											</font>");
 document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>    <br>");
-document.writeln("                                      （）（）（）    ");
-document.writeln("											</font>");
+document.writeln("                         （狗猪鼠羊）（鼠猴龙鸡）（兔鸡马羊）											</font>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（32倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>   <br>");
 document.writeln("");
-document.writeln("											摊位三推荐平码：<br>00.00.00.00.00.00.00.00.00<br>");
-document.writeln("											</font>");
-document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2中2/70倍）（3中3/650倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>推位四推荐平尾：【？尾】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（1.8尾）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>推位五推荐连尾：<br>");
-document.writeln("											【】【】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（3.18倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
-document.writeln("											【】【】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（7.08倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>	");
-document.writeln("											【】【】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（15.8倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("											摊位三推荐平码：<br>");
+document.writeln("		06.30.05.29.04.40.08.20.01.25<br>");
+document.writeln("											</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		（2中2/70倍）（3中3/650倍）</font>");
+document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("		推位四推荐平尾：【3尾】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.9尾）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("		推位五推荐连尾：<br>");
+document.writeln("											【32】【39】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（3.18倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("											【326】【395】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（7.08倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>	");
+document.writeln("											【3265】【3951】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（15.8倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("											摊位六5不中：<br>");
-document.writeln("											00.00.00.00.00</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
-document.writeln("											00.00.00.00.00</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("											02.05.06.24.28</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("									    	12.05.18.34.39</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("											</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("");
@@ -94,13 +104,17 @@ document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
-document.writeln("");
+
+
+
+
+
 document.writeln("  <!--开始---> ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		296期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		296期：开24.25.15.31.08.01T20</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -109,11 +123,11 @@ document.writeln("		<font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		【平特小卖部】老板：冰山木,男，未婚。有车有房。</font><font color=\'#6600CC\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br></font>");
 document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		                               摊位一平特：【猴】 ");
+document.writeln("		                               摊位一平特：【<span style=\'background-color: #FFFF00\'>猴</span>】 ");
 document.writeln("											</font>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("											摊位二推荐连肖：<br>");
-document.writeln("									（猴鸡）（兔羊）（马猪）</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（4.12倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("									（<span style=\'background-color: #FFFF00\'>猴鸡</span>）（兔羊）（马猪）</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（4.12倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("                               （猴鸡羊）（猴兔羊）（马鸡猪）						</font>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（11.12倍）");
 document.writeln("											</font>");
@@ -122,11 +136,11 @@ document.writeln("                         （猴鸡羊兔）（猪猴兔羊）�
 document.writeln("		<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（32倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'>   <br>");
 document.writeln("");
 document.writeln("											摊位三推荐平码：<br>");
-document.writeln("		08.32.31.43.13.25.21.33.34.05<br>");
+document.writeln("		<span style=\'background-color: #FFFF00\'>08</span>.32.<span style=\'background-color: #FFFF00\'>31</span>.43.13.<span style=\'background-color: #FFFF00\'>25</span>.21.33.34.05<br>");
 document.writeln("											</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		（2中2/70倍）（3中3/650倍）</font>");
 document.writeln("		<font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
-document.writeln("		推位四推荐平尾：【6尾】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（1.8尾）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
+document.writeln("		推位四推荐平尾：【6尾】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（<span style=\'background-color: #FFFF00\'>1.8</span>尾）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("		推位五推荐连尾：<br>");
 document.writeln("											【19】【76】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（3.18倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>");
 document.writeln("											【190】【768】</font><font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（7.08倍）</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br>	");
@@ -155,6 +169,11 @@ document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
+
+
+
+
+
 
 document.writeln("");
 document.writeln("");

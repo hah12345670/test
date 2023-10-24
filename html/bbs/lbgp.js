@@ -46,7 +46,7 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>296期另版挂牌</font><font size=\'4\' color=\'#008000\'>【一唱一和】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>296期另版挂牌</font><font size=\'4\' color=\'#008000\'>【一唱一和】</font><font color=\'#0033CC\'>开猴20<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：甲寅日 属性：水（鼠猪） 地支六冲：虎日：冲猴，克蛇，破鸡，无狗， 六合：猪；三合：马狗。空亡肖：鼠猴</p>");
 document.writeln("	</font>");
 document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠猪</font><font size=\'5\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'3\' color=\'#FF0000\'>蛇鸡狗龙马兔<br>");

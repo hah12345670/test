@@ -46,7 +46,7 @@ document.writeln("");
 document.writeln("294期【鸡兔马<span style=\'background-color: #FFFF00\'>蛇</span>鼠羊牛龙狗猪】√<br>		");
 document.writeln("295期【牛马猪兔<span style=\'background-color: #FFFF00\'>猴</span>虎龙蛇鼠羊】√<br>		");
 document.writeln("296期【<span style=\'background-color: #FFFF00\'>猴</span>兔狗猪鸡蛇龙羊鼠牛】√<br>		");
-document.writeln("297期【鼠羊狗马兔鸡龙猴猪】√<br>		");
+document.writeln("297期【鼠羊狗马兔鸡龙猴猪蛇】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");

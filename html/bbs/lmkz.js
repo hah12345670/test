@@ -26,22 +26,28 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
+
+
+
+
+
+
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>296期：【职业玩家】破解龙门客栈</font><br>");
-document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【举重若轻】<br>客官：【三斤猪蹄子，六瓶啤酒】<br>");
-document.writeln("		小二：【客官，今天吃点什么】</font></font></font></span></td>");
+document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>297期：【职业玩家】破解龙门客栈</font><br>");
+document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【亭亭玉立】<br>客官：【千锅田鸡，八宝粥，地三鲜!】<br>");
+document.writeln("		小二：【客官，饮料免费供应?】</font></font></font></span></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=34 bgcolor=\'#FFFFFF\' ><p><b>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：举重若轻解大肖牛猪虎马狗羊</font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：形容女子身材細長。 也形容花木等形體挺拔，解女肖:兔蛇羊鸡猪</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\'  bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'华文楷体\' style=\'font-size: 14pt; font-weight:700\' color=\'#008000\'>");
-document.writeln("				综合特肖：牛猪虎马狗羊。</font></td>");
+document.writeln("				综合特肖：兔蛇羊鸡猪。</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

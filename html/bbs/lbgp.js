@@ -23,6 +23,25 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+
+
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>297期另版挂牌</font><font size=\'4\' color=\'#008000\'>【鼠肚鸡肠】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：乙卯日 属性：水 地支六冲：兔日：冲鸡，克龙，破狗，无猪， 六合：狗；三合：羊猪。空亡肖：蛇鸡</p>");
+document.writeln("	</font>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠牛虎龙马羊猴鸡<br>");
+document.writeln("	</p>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.16.03.15.02.38.12.24.10.22.09.21.08.20.07.31</font></font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   <!--结束-->");
+
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -30,11 +49,15 @@ document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p><font color=\'#0033CC\'>296期另版挂牌</font><font size=\'4\' color=\'#008000\'>【一唱一和】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>◎生肖属性：甲寅日 属性：水（鼠猪） 地支六冲：虎日：冲猴，克蛇，破鸡，无狗， 六合：猪；三合：马狗。空亡肖：鼠猴</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠猪猴蛇鸡狗龙马兔<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠猪</font><font size=\'5\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'3\' color=\'#FF0000\'>蛇鸡狗龙马兔<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.40.05.41.20.32.11.23.31.19.06.42.12.36.22.34.13.49</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.40.05.41.</font><font size=\'5\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">20</span></font><font size=\'3\' color=\'#FF0000\'>.32.11.23.31.19.06.42.12.36.22.34.13.49</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
+
+
+
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");

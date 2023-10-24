@@ -32,7 +32,15 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>查看最全图纸进入<font color=\'#FF0000\'>49图库</font></font></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
-document.writeln("     <!--开始--");
+
+
+
+
+
+
+
+document.writeln("");
+document.writeln(" <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'left\'>");
@@ -41,7 +49,7 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（155期）<br></font>");
+document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（297期）<br></font>");
 document.writeln("		</font>");
 document.writeln("		");
 document.writeln("		<font color=\'#FF0000\'>【奇遇小朵】个人心水，仅供参考！</font><font style=\'font-size: 14pt\'><br>		");
@@ -54,21 +62,28 @@ document.writeln("	<span style=\'font-size: 11pt; font-weight: 700\'>");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\'>-------------------</font><br>");
 document.writeln("		");
-document.writeln("奇遇①：来料中。（关注我，不迷路）<br>");
-document.writeln("奇遇②：来料中。（期期参考中特码）<br>");
+document.writeln("奇遇①：头顶蓝天。（蓝天，蓝天解天肖:牛兔龙马猴猪）<br>");
+document.writeln("奇遇②：织女在等阿牛哥。（织女，织女解女肖:兔蛇羊鸡猪）<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
 document.writeln("	（主要心水）</font><br>");
-document.writeln("	特肖【记住62361b.com 最早查看】	<br>");
-document.writeln("		四肖：【最早更新在62361b.com】<br>");
-document.writeln("		挑特18码：关注查看<br>");
-document.writeln("		主博九码：财富只在机会中！</td>");
+document.writeln("		</span><font size=\"2\">");
+document.writeln("		");
+document.writeln("	<span style=\'font-weight: 700\'>");
+document.writeln("");
+document.writeln("	特肖【牛兔龙马猴猪蛇羊鸡】	<br>");
+document.writeln("		四肖：【牛兔龙马】<br>");
+document.writeln("		挑特18码：03.15.01.25.12.24.10.22.08.20.05.41.11.23.09.21.07.31<br>");
+document.writeln("		主博九码：03.01.12.22.20.41.23.09.31</font></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-document.writeln("");
-document.writeln("");
+
+
+
+
+
 document.writeln("");
 document.writeln(" <!--开始-->");
 document.writeln("    ");
@@ -103,12 +118,18 @@ document.writeln("		</span><font size=\"2\">");
 document.writeln("		");
 document.writeln("	<span style=\'font-weight: 700\'>");
 document.writeln("");
-document.writeln("	特肖【羊狗蛇鸡龙牛鼠猪猴】	<br>");
+document.writeln("	特肖【羊狗蛇鸡龙牛鼠猪</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">猴</span></font><font size=\"2\">】	<br>");
 document.writeln("		四肖：【羊狗蛇鸡】<br>");
-document.writeln("		挑特18码：09.33.18.30.11.23.31.43.12.36.03.15.04.40.29.41.20.32<br>");
+document.writeln("		挑特18码：09.33.18.30.11.23.31.43.12.36.03.15.04.40.29.41.</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">20</span></font><font size=\"2\">.32<br>");
 document.writeln("		主博九码：09.18.11.31.36.03.04.41.20</font></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
+
+
+
+
+
+
 document.writeln(" <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");

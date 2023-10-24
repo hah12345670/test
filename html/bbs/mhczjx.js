@@ -6,37 +6,47 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
+
+
+
+
+
+
+
+
 document.writeln("                <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>传真296期</font><font color=\'#0000FF\'><br>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>传真297期</font><font color=\'#0000FF\'><br>");
 document.writeln("</font></font>");
 document.writeln("<font size=\'4\'>");
-document.writeln("今期生肖二五加，九九归一大团圆。<br>");
-document.writeln("红波定在中间发，开门见喜申时贵。<br>");
-document.writeln("逢人只说三分话，是虎是龙细心想。<br>");
-document.writeln("看中特码落大注，自有醉客去跟进。");
+document.writeln("今期特码兔鼠在,六八四八必定开。<br>");
+document.writeln("单数必開羊狗诙,春风得意发财时。<br>");
+document.writeln("主人不视它是贸,吉取五九跟三四。<br>");
+document.writeln("猴蛇猪肖猜四尾,踏破铁鞋无觅处。");
 document.writeln("");
 document.writeln("");
-document.writeln("<br>大好山河</font><font color=\'#0000FF\'><br>解：");
-document.writeln("今期生肖二五加，九九归一大团圆。二五解兔虎猪，九解羊。");
-document.writeln("红波定在中间发，开门见喜申时贵。红波，");
-document.writeln("逢人只说三分话，是虎是龙细心想。明肖虎龙，三解牛肖。");
-document.writeln("看中特码落大注，自有醉客去跟进。大注解大肖牛马羊猪狗虎。");
+document.writeln("<br>严父慈母</font><font color=\'#0000FF\'><br>解：");
+document.writeln("单数必開羊狗诙,春风得意发财时，单数解单: 牛羊兔蛇鸡猪");
+document.writeln("今期特码兔鼠在,六八四八必定开。明肖兔鼠。");
+document.writeln("主人不视它是贸,吉取五九跟三四,吉，吉美生肖:兔龙蛇马羊鸡");
+document.writeln("猴蛇猪肖猜四尾,踏破铁鞋无觅处。明肖猴蛇猪");
 document.writeln("");
 document.writeln("</font><font color=\'#008000\'><br> ");
 document.writeln("");
 document.writeln("");
 document.writeln("<font size=\'4\'>");
-document.writeln("拐特九肖：兔虎猪羊龙牛马狗鼠<br>");
-document.writeln("拐特五肖：兔虎猪羊龙</font><br>");
+document.writeln("拐特九肖：兔鼠牛羊蛇鸡猪龙马<br>");
+document.writeln("拐特五肖：兔鼠牛羊蛇</font><br>");
 document.writeln("</font>");
 document.writeln("</b>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
-document.writeln("主特：13.25.14.38.05.41.09.21.12.24.34.46.18.30.04.40</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
+document.writeln("主特：01.25.04.40.03.39.09.21.11.35.07.31.05.41.12.24.10.22</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>");
@@ -49,6 +59,18 @@ document.writeln("");
 document.writeln("</a></tr></table></td> ");
 document.writeln(" <!--结束-->");
 document.writeln("");
+
+
+
+
+
+
+
+
+
+
+
+
 document.writeln("                <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");

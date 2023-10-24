@@ -18,12 +18,27 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 document.writeln("");
+
+
+
+
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>296期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(等到三四不变五)(目无金牛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>297期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期特尾二三七)(相鼠有皮)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>296期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(等到三四不变五)(目无金<span style=\'background-color: #FFFF00\'>牛</span>)</font><font style=\'font-size: 12pt; font-weight:700\'>开特20平15</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

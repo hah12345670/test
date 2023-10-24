@@ -44,6 +44,25 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
+
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\'><strong>297期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月24号，九月初十</font><font color=\'#000000\'>，吉日五行:大溪水; 兔日冲(己酉)鸡 ");
+document.writeln("	,二十八星宿：宿名：东方心月狐</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font size=\'3\'>预测:大凶虎猴狗猪,五行:土：01.02.05.26.28.49.41.35冲煞:兔日冲鸡:马牛羊,星宿杀肖:兔,综合：虎鼠兔龙猴蛇牛鸡羊 本期主攻:虎鼠兔龙猴，号码16.40.04.40.01.25.12.24.08.20</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\'><strong>296期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月23号，九月初九</font><font color=\'#000000\'>，吉日五行:大溪水; 虎日冲(戊申)猴煞北 ");

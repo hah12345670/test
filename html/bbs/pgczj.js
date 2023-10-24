@@ -17,21 +17,27 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 16pt\'><font color
 document.writeln("           ");
 document.writeln("");
 document.writeln("");
+
+
+
+
+
+
 document.writeln("         <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>296期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>297期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【揆】</font></b><br>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【林】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：揆，估量解牛鸡马猪兔<br>⑵：揆，五行木，解木肖虎兔。</font></span><br>");
+document.writeln("⑴：解：林，双木林，木肖虎兔<br>⑵：林，五行木，解木肖虎兔。</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：牛鸡马猪兔虎<br>");
-document.writeln("主攻特肖：牛鸡马猪<br>");
-document.writeln("主攻特码：03.27.19.31.10.22.05.41.13.49.02.38</font><br><font color=\'#FFFF00\'>");
+document.writeln("本期围特：虎兔鼠羊猴鸡猪<br>");
+document.writeln("主攻特肖：虎兔鼠羊猴<br>");
+document.writeln("主攻特码：02.14.01.25.04.40.09.21.08.20.07.31.05.41</font><br><font color=\'#FFFF00\'>");
 document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
 document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
@@ -40,6 +46,15 @@ document.writeln("");
 document.writeln("</tr></table></td>  ");
 document.writeln("");
 document.writeln("");
+
+
+
+
+
+
+
+
+
 document.writeln("         <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");

@@ -25,7 +25,7 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>298期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(更新中)(更新中)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>298期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(红绿两波可看好)(绮马七纸)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

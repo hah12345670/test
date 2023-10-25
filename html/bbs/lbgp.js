@@ -31,12 +31,12 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>298期另版挂牌</font><font size=\'4\' color=\'#008000\'>【更新中】</font><font color=\'#0033CC\'>开？00<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性：更新中</p>");
+document.writeln("	<p><font color=\'#0033CC\'>298期另版挂牌</font><font size=\'4\' color=\'#008000\'>【鼠肚鸡肠】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丙辰日 属性：土 地支六冲：龙日：冲狗，克兔，破猪，无鼠， 六合：鸡；三合：鼠猴。空亡肖：鼠狗</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：更新中<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠狗蛇羊马虎猪<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：更新中</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：16.28.18.30.11.23.21.33.10.22.14.26</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 

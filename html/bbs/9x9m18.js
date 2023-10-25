@@ -29,27 +29,29 @@ document.writeln("");
 document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong2\'>");
 document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62361a.com）九肖九码</div>");
 document.writeln("	<div class=\'bizhong2-box\'>");
 document.writeln("    	<div class=\'bizhong2-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>297期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>猪虎蛇鼠马鸡兔龙羊</font></li>");
-document.writeln("            	<li><font size=\'3\'>297期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>猪虎蛇鼠马鸡兔</font></li>");
-document.writeln("            	<li><font size=\'3\'>297期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>猪虎蛇鼠马</font></li>");
-document.writeln("            	<li><font size=\'2\'>297期必中18码：</font><font size=\'2\' color=\'#FF0000\'>05.29.02.26.11.35.04.40.10.22.07.31.01.25.12.24.09.21</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>297期必中九码：</font><font size=\'2\' color=\'#FF0000\'>05.26.35.40.10.07.25.24.09</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>298期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>羊狗马蛇猴鸡猪龙鼠</font></li>");
+document.writeln("            	<li><font size=\'3\'>298期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊狗马蛇猴鸡猪</font></li>");
+document.writeln("            	<li><font size=\'3\'>298期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊狗马蛇猴</font></li>");
+document.writeln("            	<li><font size=\'2\'>298期必中18码：</font><font size=\'2\' color=\'#FF0000\'>21.45.06.30.10.22.11.23.08.20.07.31.05.41.12.36.04.40</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>298期必中九码：</font><font size=\'2\' color=\'#FF0000\'>21.30.10.23.20.07.05.12.40</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>296期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>19</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>296期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>羊21</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
+
 
 
 

@@ -59,12 +59,14 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第297期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【姿态万千】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：原指女子的美媚，形容树木等美丽的景物形容容貌。. 现指姿态多种多样。解兔蛇羊鸡猪</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第298期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【更新中】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：更新中</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔蛇羊鸡猪</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：更新中</font></b><br>");
 document.writeln("==========================<br>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");

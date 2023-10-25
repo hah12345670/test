@@ -7,6 +7,25 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<font color=\'#0000FF\'><b>298期挂牌《更新中》<br>");
+document.writeln("解释：更新中<br>");
+document.writeln("解：更新中<br>");
+document.writeln("</b></font>");
+document.writeln("");
+document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("");
+document.writeln("");
+document.writeln("<font size=\'3\'>七肖：更新中</font></span></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
+document.writeln("");
+document.writeln("</tr></table></td>");
+document.writeln("<!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -20,49 +39,15 @@ document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
 document.writeln("");
-document.writeln("<font size=\'3\'>七肖：牛龙羊狗虎兔马</font></span></p>");
+document.writeln("<font size=\'3\'>七肖：<span style=\'background-color: #FFFF00\'>牛</span>龙羊狗虎兔马</font></span></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
 document.writeln("");
 document.writeln("</tr></table></td>");
 document.writeln("<!--结束-->");
 
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>296期挂牌《蓝天飞虹》<br>");
-document.writeln("解释：在广阔的天地里有所作为，展现出不同凡响的风采。<br>");
-document.writeln("解：羊马鼠牛虎兔。挂:47爆:龙，47蛇冲猪，龙冲狗<br>");
-document.writeln("</b></font>");
-document.writeln("");
-document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("");
-document.writeln("");
-document.writeln("<font size=\'3\'>七肖：羊马鼠牛虎兔狗</font></span></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>");
-document.writeln("<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>294期挂牌《四国之战》<br>");
-document.writeln("解释：意思指古代赵国。指四面平坦，容易受攻击的地方。<br>");
-document.writeln("解：羊蛇虎猪猴马。挂:38爆:兔，38虎冲猴，兔冲鸡<br>");
-document.writeln("</b></font>");
-document.writeln("");
-document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("");
-document.writeln("");
-document.writeln("<font size=\'3\'>七肖：羊</font></span><font color=\"#FF0000\" size=\"5\"><span style=\"font-family: 微软雅黑; text-indent: 2em; background-color: #FFFF00\">蛇</span></font><font size=\'3\'><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>虎猪猴马鸡</span></font></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>");
-document.writeln("<!--结束-->");
+
+
 document.writeln("");
 document.writeln("  ");
 document.writeln("</table>");

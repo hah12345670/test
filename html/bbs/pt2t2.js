@@ -22,8 +22,9 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("297期：平特【虎狗拖鸡羊】开？00<br>");
+document.writeln("298期：平特【猴鼠拖狗兔】开？00<br>");
 document.writeln("------<br>");
+
 
 
 document.writeln("");

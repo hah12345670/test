@@ -11,10 +11,26 @@ document.writeln("<!--说明-->");
 document.writeln("</font><font color=\'#FF0000\' face=\'华文楷体\' style=\'font-weight: 700\' size=\'4\'>欢迎参考挑选平码3中3，2中2</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'><br>");
 document.writeln("<!--说明结束-->");
 document.writeln("");
+
+
+
+
+
+
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("297期：平码【17.13.33.28.32.15.06.26.23.38.39.02】<br>");
+document.writeln("298期：平码【09.37.35.12.18.29.43.48.23.15.16.08】<br>");
+document.writeln("");
+document.writeln("");
+
+
+
+
+document.writeln("");
+document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("297期：平码【<span style=\'background-color: #FFFF00\'>17</span>.13.33.28.32.15.06.26.23.38.<span style=\'background-color: #FFFF00\'>39</span>.02】<br>");
 document.writeln("");
 document.writeln("");
 

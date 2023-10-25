@@ -28,6 +28,7 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
@@ -35,15 +36,18 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			297期<font color=\'#FF0000\'>【中彩之碼是五六，定下其中共一固】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：中彩之碼是五六，05猪龙，06狗蛇。定下其中共一固，合肖龙蛇猴鸡狗猪</font><br>");
+document.writeln("			298期<font color=\'#FF0000\'>【更新中】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：更新中</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：猪龙狗蛇鸡猪兔<br>");
-document.writeln("			特码：29.41.36.48.30.42.35.47.31.43.29.37");
+document.writeln("			<br>七肖：更新中<br>");
+document.writeln("			特码：更新中");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+document.writeln("");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");

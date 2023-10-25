@@ -16,21 +16,25 @@ document.writeln("");
 document.writeln("");
 
 
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>297期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("蛇蝎心肠妇人心，猪头为贡谢天恩");
+document.writeln("			<font style=\'font-size: 13pt\'>298期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("更新中");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：蛇蝎心肠妇人心，妇人，女肖兔蛇羊鸡猪。猪头为贡谢天恩，天恩，天肖猴龙马猪牛兔。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔蛇羊鸡猪龙马<br>");
-document.writeln("			四肖：兔蛇羊鸡<br>");
-document.writeln("			特码：13.49.11.47.09.21.31.43.05.41.12.36.22.34</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
+document.writeln("			四肖：更新中<br>");
+document.writeln("			特码：更新中</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");

@@ -20,6 +20,14 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>298期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(更新中)(更新中)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
 
 
 document.writeln("          <!--开始-->");
@@ -27,7 +35,7 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>297期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期特尾二三七)(相鼠有皮)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>297期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期特尾二三七)(相<span style=\'background-color: #FFFF00\'>鼠</span>有皮)</font><font style=\'font-size: 12pt; font-weight:700\'>开特39平16</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

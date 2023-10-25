@@ -38,6 +38,51 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln(" <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（298期）<br></font>");
+document.writeln("		</font>");
+document.writeln("		");
+document.writeln("		<font color=\'#FF0000\'>【奇遇小朵】个人心水，仅供参考！</font><font style=\'font-size: 14pt\'><br>		");
+document.writeln("		");
+document.writeln("		</font>");
+document.writeln("		");
+document.writeln("		</b>");
+document.writeln("		");
+document.writeln("	<span style=\'font-size: 11pt; font-weight: 700\'>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\'>-------------------</font><br>");
+document.writeln("		");
+document.writeln("奇遇①：更新中。（更新中）<br>");
+document.writeln("奇遇②：更新中。（更新中）<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
+document.writeln("	（主要心水）</font><br>");
+document.writeln("		</span><font size=\"2\">");
+document.writeln("		");
+document.writeln("	<span style=\'font-weight: 700\'>");
+document.writeln("");
+document.writeln("	特肖【更新中】	<br>");
+document.writeln("		四肖：【更新中】<br>");
+document.writeln("		挑特18码：更新中<br>");
+document.writeln("		主博九码：更新中</font></td>");
+document.writeln("    </tr>");
+document.writeln("   <!--开始-->");
+
+
+
+
+
 
 document.writeln("");
 document.writeln(" <!--开始-->");
@@ -73,8 +118,8 @@ document.writeln("		</span><font size=\"2\">");
 document.writeln("		");
 document.writeln("	<span style=\'font-weight: 700\'>");
 document.writeln("");
-document.writeln("	特肖【牛兔龙马猴猪蛇羊鸡】	<br>");
-document.writeln("		四肖：【牛兔龙马】<br>");
+document.writeln("	特肖【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font size=\"2\">兔龙马猴猪蛇羊鸡】	<br>");
+document.writeln("		四肖：【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font size=\"2\">兔龙马】<br>");
 document.writeln("		挑特18码：03.15.01.25.12.24.10.22.08.20.05.41.11.23.09.21.07.31<br>");
 document.writeln("		主博九码：03.01.12.22.20.41.23.09.31</font></td>");
 document.writeln("    </tr>");

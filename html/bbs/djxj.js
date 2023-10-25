@@ -24,19 +24,20 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>297期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>298期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>地荒羊瘦鼠狂，兔死狗烹过冬</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>三更夜草马儿肥，贼猴横财能首富</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:明肖,羊鼠兔狗,地,地肖：蛇羊鸡狗鼠虎。综合得主兔蛇羊鸡狗鼠虎。</font></div>");
+document.writeln("			解析:三更夜草：夜肖:鼠牛虎鸡狗猪。明肖马</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：兔蛇羊鸡狗鼠虎<br>");
-document.writeln("	特码：01.25.11.23.09.21.07.31.06.30.04.40.02.26</font></b></div>");
+document.writeln("	解特肖：牛虎鸡狗猪马<br>");
+document.writeln("	特码：15.27.02.26.07.31.06.30.05.41.10.34</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");

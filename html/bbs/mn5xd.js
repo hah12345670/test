@@ -42,11 +42,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 14pt\'>");
 document.writeln("");
 
-
-document.writeln("294期【鸡兔马<span style=\'background-color: #FFFF00\'>蛇</span>鼠羊牛龙狗猪】√<br>		");
-document.writeln("295期【牛马猪兔<span style=\'background-color: #FFFF00\'>猴</span>虎龙蛇鼠羊】√<br>		");
-document.writeln("296期【<span style=\'background-color: #FFFF00\'>猴</span>兔狗猪鸡蛇龙羊鼠牛】√<br>		");
-document.writeln("298期【蛇兔马狗猪羊龙猴虎鼠】√<br>		");
+document.writeln("298期【蛇兔马狗猪羊龙<span style=\'background-color: #FFFF00\'>猴</span>虎鼠】√<br>		");
+document.writeln("299期【虎鼠狗龙马兔蛇牛羊猴】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -70,8 +67,8 @@ document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老二主四头】√</
 document.writeln("	295期【023<span style=\'background-color: #FFFF00\'>4</span>头】√<br>		");
 document.writeln("	296期【4<span style=\'background-color: #FFFF00\'>2</span>03头】√<br>		");
 document.writeln("	297期【12<span style=\'background-color: #FFFF00\'>3</span>4头】√<br>		");
-document.writeln("	298期【0231头】√<br>		");
-
+document.writeln("	298期【02<span style=\'background-color: #FFFF00\'>3</span>1头】√<br>		");
+document.writeln("	299期【4021头】√<br>		");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -84,9 +81,9 @@ document.writeln("<!--四行-->");
 document.writeln("	");
 document.writeln("<font size=\'4\' color=\'#0000FF\'>【老三主四行】√</font><font size=\'4\'><br>");
 
-document.writeln("296期【金土<span style=\'background-color: #FFFF00\'>水</span>火】√<br>			");
-document.writeln("298期【金土水火】√<br>			");
 
+document.writeln("298期【<span style=\'background-color: #FFFF00\'>金</span>土水火】√<br>			");
+document.writeln("299期【火木金土】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -107,7 +104,8 @@ document.writeln("	<br>");
 document.writeln("	295期【58<span style=\'background-color: #FFFF00\'>4</span>79612】√<br>	");
 document.writeln("	296期【7<span style=\'background-color: #FFFF00\'>0</span>951684】√<br>	");
 document.writeln("	297期【4256<span style=\'background-color: #FFFF00\'>9</span>810】√<br>	");
-document.writeln("	298期【48179502】√<br>	");
+document.writeln("	298期【4817950<span style=\'background-color: #FFFF00\'>2</span>】√<br>	");
+document.writeln("	299期【85314962】√<br>	");
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -132,7 +130,8 @@ document.writeln("292期【绿波<span style=\'background-color: #FFFF00\'>蓝�
 document.writeln("294期【蓝波<span style=\'background-color: #FFFF00\'>红波</span>】√<br>  	");
 document.writeln("295期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
 document.writeln("297期【红波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
-document.writeln("298期【蓝波绿波】√<br>  	");
+document.writeln("298期【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
+document.writeln("299期【红波绿波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

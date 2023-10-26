@@ -15,22 +15,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("							<!--开始-->");
 document.writeln("		<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><a href=\'https://www.290996b.com/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
-document.writeln("	<span style=\"font-size: 13pt\">298期今期鼠兔龙出特，万财之道无绝径<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
+document.writeln("	<span style=\"font-size: 13pt\">299期今期猴鸡龙出特，明月半帘花弄影<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
 document.writeln("	</span>		");
-document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀羊蛇虎(09.21.33.45.11.23.35.47.02.14.26.38)</span><font color=\'#008000\'><BR>");
-document.writeln("<span style=\'font-size: 14pt\'>②图解特肖鼠兔龙马鸡</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
-document.writeln("	③大数+合双<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀鼠牛狗(04.16.28.40.03.15.27.39.06.18.30.42)</span><font color=\'#008000\'><BR>");
+document.writeln("<span style=\'font-size: 14pt\'>②图解特肖猴鸡龙猪兔</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③绿波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");
 document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'33\'><tbody><tr>");
@@ -40,11 +39,33 @@ document.writeln("");
 document.writeln("		<!--结束-->");
 document.writeln("		");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("							<!--开始-->");
+document.writeln("		<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=left>");
+document.writeln("	<b><a href=\'https://www.290996b.com/#49029\'>");
+document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
+document.writeln("	<span style=\"font-size: 13pt\">298期今期鼠兔龙出特，万财之道无绝径<span style=\'background-color: #FFFF00\'>开猴32</span></span></font><span style=\"font-size: 13pt\"><br>		");
+document.writeln("	</span>		");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt; background-color:#FFFF00\">①杀羊蛇虎(09.21.33.45.11.23.35.47.02.14.26.38)</span><font color=\'#008000\'><BR>");
+document.writeln("<span style=\'font-size: 14pt\'>②图解特肖鼠兔龙马鸡</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③<span style=\"background-color: #FFFF00\">大数</span>+合双<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	</font>");
+document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
+document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'33\'><tbody><tr>");
+document.writeln("				<td height=33><p style=text-align:center><strong>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></strong></tr></table>");
+document.writeln("");
+document.writeln("		<!--结束-->");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("							<!--开始-->");
 document.writeln("		<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
@@ -52,7 +73,7 @@ document.writeln("	<b><a href=\'https://www.290996b.com/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
 document.writeln("	<span style=\"font-size: 13pt\">297期今期今期猪兔龙出特，九月相会二十五<span style=\'background-color: #FFFF00\'>开牛39</span></span></font><span style=\"font-size: 13pt\"><br>		");
 document.writeln("	</span>		");
-document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀<span style=\'background-color: #FFFF00\'>马兔猴</span>(10.22.34.46.01.25.37.49.08.20.32.44)</span><font color=\'#008000\'><BR>");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt; background-color: #FFFF00\">①杀马兔猴(10.22.34.46.01.25.37.49.08.20.32.44)</span><font color=\'#008000\'><BR>");
 document.writeln("<span style=\'font-size: 14pt\'>②图解特肖猪兔龙鼠羊</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
 document.writeln("	③红波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");

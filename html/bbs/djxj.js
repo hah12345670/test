@@ -29,55 +29,18 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>298期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>299期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>三更夜草马儿肥，贼猴横财能首富</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙王降水万物春,蛇狗相逐鸡在笑</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:三更夜草：夜肖:鼠牛虎鸡狗猪。明肖马</font></div>");
+document.writeln("			解析:预先解龙蛇狗鸡，王肖猴龙虎。春解虎兔龙。心水诗大意是：一派祥和，万物皆春。动物都和谐的追逐嬉戏。这是好的景象。看好吉肖。综合得主龙蛇狗鸡防猴虎兔羊马</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：牛虎鸡狗猪马<br>");
-document.writeln("	特码：15.27.02.26.07.31.06.30.05.41.10.34</font></b></div>");
+document.writeln("	解特肖：龙蛇狗鸡猴虎<br>");
+document.writeln("	特码：12.48.23.47.06.30.31.43.08.20.02.38</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>296期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开猴20准</span></font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>扮猪吃虎做前锋，军师二人助君王</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖猪虎（王肖虎龙猴）军师鼠。二解二位牛二岁虎。生肖诗大意是：做前锋的都是有勇有谋的，就算看起来不厉害也只是伪装扮猪吃虎而以。一个好的君王一定会有好的大臣辅佐。前偏看前肖。综合得主虎龙猴猪防马鼠牛狗蛇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：虎龙<span style=\'background-color: #FFFF00\'>猴</span>猪马鼠<br>");
-document.writeln("	特码：02.38.12.36.08.<span style=\'background-color: #FFFF00\'>20</span>.17.41.10.46.04.40</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>295期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开猴44准</span></font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>木牛流马行八百，金猴翻斗万里雨</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解君解王肖猴虎龙。云肖猴鸡狗。山解土肖牛龙羊狗。花偏看女肖蛇羊鸡兔 。生肖诗大意是在某年与君一别，剩下的是天天笑着等待君王再次出现在自己的世界里。苍穹是苍天，广阔的天空的意思，这里指君王。综合得主虎<span style=\'background-color: #FFFF00\'>猴</span>龙鸡防狗牛羊兔蛇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：虎<span style=\'background-color: #FFFF00\'>猴</span>龙鸡狗牛<br>");
-document.writeln("	特码：02.14.32.<span style=\'background-color: #FFFF00\'>44</span>.12.36.31.43.06.18.15.27</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
 
 
 

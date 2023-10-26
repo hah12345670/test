@@ -17,16 +17,24 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
 document.writeln("");
+
+
+
+
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>298期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		        01 05 06 08 09 11 12 13 15 16 18 19<br>");
-document.writeln("			    20 21 22 23 25 26 28 29 30 31 33 34<br>");
-document.writeln("			    35 36 37 38 39 40 42 43 45 46 48 49</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>299期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        32 02 37 46 04 31 49 01 43 29 11 18 <br>");
+document.writeln("			    09 34 15 17 28 25 35 14 19 12 26 20 <br>");
+document.writeln("			    38 41 40 10 47 39 03 33 13 27 45 08 </font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
+
+
+
+
 document.writeln(" <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");

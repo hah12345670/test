@@ -22,13 +22,19 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("298期：平特【猴鼠拖狗兔】开？00<br>");
+document.writeln("299期：平特【蛇猪拖羊龙】开？00<br>");
 document.writeln("------<br>");
 
 
 
 document.writeln("");
-document.writeln("296期：平特【<span style=\'background-color: #FFFF00\'>牛龙</span>拖马鼠】开？00<br>");
+document.writeln("298期：平特【<span style=\'background-color: #FFFF00\'>猴</span>鼠拖<span style=\'background-color: #FFFF00\'>狗</span>兔】开32.18<br>");
+document.writeln("------<br>");
+
+
+
+document.writeln("");
+document.writeln("296期：平特【<span style=\'background-color: #FFFF00\'>牛龙</span>拖马鼠】开15.24<br>");
 document.writeln("------<br>");
 
 document.writeln("");

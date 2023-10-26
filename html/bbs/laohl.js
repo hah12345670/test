@@ -44,47 +44,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\'><strong>298期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>00月00号，？月初？</font><font color=\'#000000\'>，更新中 ");
-document.writeln("	,更新中</font></td>");
+document.writeln("    <td class=\'lhl-tit\'><strong>299期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月26号，九月十二</font><font color=\'#000000\'>，吉日五行:沙中土;蛇日冲(辛亥)猪煞东 ,二十八星宿：宿名：北方斗木獬</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
-document.writeln("    <td><font size=\'3\'>预测:更新中，号码更新中</font></td>");
-document.writeln("  </tr>");
-document.writeln("<!--每期结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("<!--每期开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\'><strong>297期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月24号，九月初十</font><font color=\'#000000\'>，吉日五行:大溪水; 兔日冲(己酉)鸡 ");
-document.writeln("	,二十八星宿：宿名：东方心月狐</font></td>");
-document.writeln("  </tr>");
-document.writeln("  <tr>");
-document.writeln("    <td><font size=\'3\'>预测:大凶虎猴狗猪,五行:土：01.02.05.26.28.49.41.35冲煞:兔日冲鸡:马牛羊,星宿杀肖:兔,综合：虎鼠兔龙猴蛇<span style=\'background-color: #FFFF00\'>牛</span>鸡羊 本期主攻:虎鼠兔龙猴，号码16.40.04.40.01.25.12.24.08.20</font></td>");
-document.writeln("  </tr>");
-document.writeln("<!--每期结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<!--每期开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\'><strong>296期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月23号，九月初九</font><font color=\'#000000\'>，吉日五行:大溪水; 虎日冲(戊申)猴煞北 ");
-document.writeln("	,二十八星宿：宿名：东方心月狐</font></td>");
-document.writeln("  </tr>");
-document.writeln("  <tr>");
-document.writeln("    <td><font size=\'3\'>预测:大凶牛猪虎狗,五行:水：11 12 19 20 27 28 41 42 49冲煞:虎猴煞北:鼠猪牛,星宿杀肖:马,综合：牛狗虎猪兔蛇鼠羊鸡 本期主攻:牛狗虎猪兔，号码15.39.30.42.02.14.17.41.25.49</font></td>");
+document.writeln("    <td><font size=\'3\'>");
+document.writeln("	预测:小吉,五行:土：01.02.05.26.28.49.41.35冲煞:蛇猪煞东:鼠猪牛,星宿杀肖:牛,综合：鸡龙马虎兔猴羊狗鼠 本期主攻:鸡龙马虎兔，号码07.43.12.36.10.46.02.38.25.49</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 document.writeln("");
@@ -93,14 +62,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\'><strong>295期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月22号，九月初八</font><font color=\'#000000\'>，吉日五行:桑柘木; 牛日冲(丁未)羊煞东 ");
-document.writeln("	,二十八星宿：宿名：东方房日兔</font></td>");
+document.writeln("    <td class=\'lhl-tit\'><strong>298期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>10月25号，九月十一</font><font color=\'#000000\'>，吉日五行:沙中土; ");
+document.writeln("	龙日冲(庚戌)狗煞南 ,二十八星宿：宿名：东方箕水豹</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
-document.writeln("    <td><font size=\'3\'>预测:大吉羊马,五行:木:05 06 13 14 21 22 35 36 43 ");
-document.writeln("	44冲煞:羊牛煞东:虎兔龙,星宿杀肖:虎,综合：羊马狗龙鸡蛇鼠猪</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'3\'> 本期主攻:羊马狗龙鸡，号码09.45.10.46.06.30.12.36.31.43</font></td>");
+document.writeln("    <td><font size=\'3\'>");
+document.writeln("	预测:大吉，五行:土：01.02.05.26.28.49.41.35冲煞:龙狗煞南:蛇马羊,星宿杀肖:鸡,综合：马羊蛇牛鼠</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">猴</span></font><font size=\'3\'>猪兔狗 ");
+document.writeln("	本期主攻:马羊蛇牛鼠，号码10.22.21.33.11.23.03.19</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

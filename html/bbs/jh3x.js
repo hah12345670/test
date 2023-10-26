@@ -34,53 +34,17 @@ document.writeln("		<tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:888/#62102\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 14pt\'><span style=font-family:楷体;color:#00f>进入澳门马会传真</span></font><span style=font-family:楷体;><font color=\'#FF0000\' size=\'5\'>57185</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>.com</font></span></a></strong></td></tr></table>");
 document.writeln("");
 document.writeln("");
+
+
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>296-298期</font>【羊虎狗】000期中</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\'>299-301期</font>【虎羊蛇】000期中</font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>295-297期</font>【猪<span style=\'background-color: #FFFF00\'>猴</span>鼠】295期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>292-294期</font>【<span style=\'background-color: #FFFF00\'>蛇</span>鸡虎】294期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>290-292期</font>【<span style=\'background-color: #FFFF00\'>龙</span>猪马】290期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>287-289期</font>【狗鼠<span style=\'background-color: #FFFF00\'>羊</span>】289期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>286-288期</font>【<span style=\'background-color: #FFFF00\'>鸡</span>猴猪】286期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>284-286期</font>【<span style=\'background-color: #FFFF00\'>猪</span>猴蛇】285期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>280-282期</font>【<span style=\'background-color: #FFFF00\'>马</span>龙蛇】280期中</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

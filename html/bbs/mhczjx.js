@@ -6,16 +6,58 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("                <!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>传真299期</font><font color=\'#0000FF\'><br>");
+document.writeln("</font></font>");
+document.writeln("<font size=\'4\'>");
+document.writeln("今期生肖有火花，二十之数有玄机。<br>");
+document.writeln("放之四海而皆准，世事磋跎戚自首。<br>");
+document.writeln("一日千里四蹄踩，死诸葛走生仲达。<br>");
+document.writeln("三九出現今期怪，历来富贵三更梦。");
+document.writeln("");
+document.writeln("");
+document.writeln("<br>度日如年</font><font color=\'#0000FF\'><br>解：");
+document.writeln("今期生肖有火花，二十之数有玄机。火花，火肖蛇马，");
+document.writeln("放之四海而皆准，世事磋跎戚自首。四海，水肖鼠猪，");
+document.writeln("一日千里四蹄踩，死诸葛走生仲达。四蹄，牛羊马猪，");
+document.writeln("三九出現今期怪，历来富贵三更梦。三九牛。");
+document.writeln("");
+document.writeln("</font><font color=\'#008000\'><br> ");
+document.writeln("");
+document.writeln("");
+document.writeln("<font size=\'4\'>");
+document.writeln("拐特九肖：蛇马鼠猪牛羊狗虎兔<br>");
+document.writeln("拐特五肖：蛇马鼠猪牛</font><br>");
+document.writeln("</font>");
+document.writeln("</b>");
+document.writeln("");
+document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("");
+document.writeln("主特：11.35.10.46.04.40.05.41.15.39.21.33.30.42.02.38.13.49</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
+document.writeln("</span>");
+document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
+document.writeln("<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>");
+document.writeln("越前越主，如有雷同，我是原创！你抄袭~</font></span><font color=\'#800000\'><br>");
+document.writeln("");
+document.writeln("以上分析只代表个人理解，对错误怪</font></span></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:888/#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>更多解析进入</span><font color=\'#FF0000\'><span style=\'font-family:楷体;font-size:17pt; \'>58317.com</span></font></font></a></strong></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td> ");
+document.writeln(" <!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("                <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
@@ -31,22 +73,22 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>月满西楼</font><font color=\'#0000FF\'><br>解：");
 document.writeln("今期玄机诗中寻,二二有意出特来，二虎，二二马");
-document.writeln("红红火火出特码,夏侯菌拔矢啖睛。红红，红波，火，火肖");
-document.writeln("日行千里是骏马,不分胜负不相让，日，日肖，");
+document.writeln("红红火火出特码,夏侯菌拔矢啖睛。红红，红波，火，火肖蛇马");
+document.writeln("日行千里是骏马,不分胜负不相让，日，日肖 龙蛇鸡兔猴鼠羊，");
 document.writeln("龙蛇鸡兔猴鼠羊,农家都有的动物，明肖：龙蛇鸡兔猴鼠羊");
 document.writeln("");
 document.writeln("</font><font color=\'#008000\'><br> ");
 document.writeln("");
 document.writeln("");
 document.writeln("<font size=\'4\'>");
-document.writeln("拐特九肖：龙蛇鸡兔猴鼠羊马牛狗<br>");
-document.writeln("拐特五肖：龙蛇鸡兔猴</font><br>");
+document.writeln("拐特九肖：龙蛇鸡兔</font></font><font color=\'#FF0000\' size=\"5\"><span style=\"background-color: #FFFF00\">猴</span></font><font color=\'#008000\' size=\"4\">鼠羊马牛<br>");
+document.writeln("拐特五肖：龙蛇鸡兔</font><font color=\'#FF0000\' size=\"5\"><span style=\"background-color: #FFFF00\">猴</span></font><font color=\'#008000\'><br>");
 document.writeln("</font>");
 document.writeln("</b>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
-document.writeln("主特：12.24.11.23.07.31.01.25.08.20.04.40.09.21.10.22.03.39.06.30</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
+document.writeln("主特：12.24.11.23.07.31.01.25.08.20.04.40.09.21.10.22.03.39</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>");
@@ -59,11 +101,12 @@ document.writeln("");
 document.writeln("</a></tr></table></td> ");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("                <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
@@ -87,14 +130,14 @@ document.writeln("</font><font color=\'#008000\'><br> ");
 document.writeln("");
 document.writeln("");
 document.writeln("<font size=\'4\'>");
-document.writeln("拐特九肖：兔鼠<span style=\'background-color: #FFFF00\'>牛</span>羊蛇鸡猪龙马<br>");
-document.writeln("拐特五肖：兔鼠<span style=\'background-color: #FFFF00\'>牛</span>羊蛇</font><br>");
+document.writeln("拐特九肖：兔鼠</font></font><font color=\'#FF0000\' size=\"5\"><span style=\'background-color: #FFFF00\'>牛</span></font><font color=\'#008000\' size=\"4\">羊蛇鸡猪龙马<br>");
+document.writeln("拐特五肖：兔鼠</font><font color=\'#FF0000\' size=\"5\"><span style=\'background-color: #FFFF00\'>牛</span></font><font color=\'#008000\' size=\"4\">羊蛇</font><font color=\'#008000\'><br>");
 document.writeln("</font>");
 document.writeln("</b>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
-document.writeln("主特：01.25.04.40.03.<span style=\'background-color: #FFFF00\'>39</span>.09.21.11.35.07.31.05.41.12.24.10.22</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
+document.writeln("主特：01.25.04.40.03.</span><font color=\"#FF0000\" size=\"5\"><span style=\'background-color: #FFFF00; font-family:微软雅黑; text-indent:2em\'>39</span></font><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>.09.21.11.35.07.31.05.41.12.24.10.22</span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'><br>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>");
@@ -107,18 +150,18 @@ document.writeln("");
 document.writeln("</a></tr></table></td> ");
 document.writeln(" <!--结束-->");
 document.writeln("");
-
-
-
-
-
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("                <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");

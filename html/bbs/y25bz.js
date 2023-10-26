@@ -22,12 +22,16 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
+
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("298期码神哥五不中[26.30.03.25.11] <br>");
+document.writeln("299期码神哥五不中[03.35.48.23.37] <br>");
 document.writeln("	开奖:00 00 00 00 00 00T00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -37,6 +41,10 @@ document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
+
+
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");

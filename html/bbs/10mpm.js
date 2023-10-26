@@ -15,14 +15,15 @@ document.writeln("");
 
 
 
-
-
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("298期：平码【09.37.35.12.18.29.43.48.23.15.16.08】<br>");
+document.writeln("299期：平码【15.10.01.11.30.35.17.45.03.48.19.20】<br>");
 document.writeln("");
 document.writeln("");
+
+
+
 
 
 

@@ -32,12 +32,57 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>查看最全图纸进入<font color=\'#FF0000\'>49图库</font></font></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln(" <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（299期）<br></font>");
+document.writeln("		</font>");
+document.writeln("		");
+document.writeln("		<font color=\'#FF0000\'>【奇遇小朵】个人心水，仅供参考！</font><font style=\'font-size: 14pt\'><br>		");
+document.writeln("		");
+document.writeln("		</font>");
+document.writeln("		");
+document.writeln("		</b>");
+document.writeln("		");
+document.writeln("	<span style=\'font-size: 11pt; font-weight: 700\'>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\'>-------------------</font><br>");
+document.writeln("		");
+document.writeln("奇遇①：一地鸡毛。（明肖鸡，地，地肖蛇羊鸡虎鼠狗）<br>");
+document.writeln("奇遇②：左转三条狗。（明肖狗，左，左肖鼠牛龙蛇猴鸡）<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
+document.writeln("	（主要心水）</font><br>");
+document.writeln("		</span><font size=\"2\">");
+document.writeln("		");
+document.writeln("	<span style=\'font-weight: 700\'>");
+document.writeln("");
+document.writeln("	特肖【鸡狗鼠蛇虎羊猴龙牛】	<br>");
+document.writeln("		四肖：【鸡狗鼠蛇】<br>");
+document.writeln("		挑特18码：07.19.06.30.04.40.11.23.02.38.21.33.20.44.12.36.03.39<br>");
+document.writeln("		主博九码：07.30.40.11.38.21.20.12.39</font></td>");
+document.writeln("    </tr>");
+document.writeln("   <!--开始-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln(" <!--开始-->");
 document.writeln("    ");
@@ -68,22 +113,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
 document.writeln("	（主要心水）</font><br>");
-document.writeln("		</span><font size=\"2\">");
+document.writeln("		</span>");
 document.writeln("		");
 document.writeln("	<span style=\'font-weight: 700\'>");
 document.writeln("");
-document.writeln("	特肖【牛兔龙马猴猪虎羊狗】	<br>");
-document.writeln("		四肖：【牛兔龙马】<br>");
-document.writeln("		挑特18码：03.27.01.25.12.24.10.22.08.20.05.17.02.26.09.21.06.30<br>");
-document.writeln("		主博九码：27.25.24.10.20.05.26.21.06</font></td>");
+document.writeln("		<font size=\"2\">");
+document.writeln("		");
+document.writeln("	特肖【牛兔龙马</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">猴</span></font><font size=\"2\">猪虎羊狗】	</font></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln(" <!--开始-->");
 document.writeln("    ");
@@ -114,21 +158,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
 document.writeln("	（主要心水）</font><br>");
-document.writeln("		</span><font size=\"2\">");
+document.writeln("		</span>");
 document.writeln("		");
 document.writeln("	<span style=\'font-weight: 700\'>");
 document.writeln("");
+document.writeln("		<font size=\"2\">");
+document.writeln("		");
 document.writeln("	特肖【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font size=\"2\">兔龙马猴猪蛇羊鸡】	<br>");
-document.writeln("		四肖：【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font size=\"2\">兔龙马】<br>");
-document.writeln("		挑特18码：03.15.01.25.12.24.10.22.08.20.05.41.11.23.09.21.07.31<br>");
-document.writeln("		主博九码：03.01.12.22.20.41.23.09.31</font></td>");
+document.writeln("		四肖：【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font size=\"2\">兔龙马】</font></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln(" <!--开始-->");
 document.writeln("    ");
@@ -159,100 +203,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
 document.writeln("	（主要心水）</font><br>");
-document.writeln("		</span><font size=\"2\">");
+document.writeln("		</span>");
 document.writeln("		");
 document.writeln("	<span style=\'font-weight: 700\'>");
 document.writeln("");
+document.writeln("		<font size=\"2\">");
+document.writeln("		");
 document.writeln("	特肖【羊狗蛇鸡龙牛鼠猪</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">猴</span></font><font size=\"2\">】	<br>");
-document.writeln("		四肖：【羊狗蛇鸡】<br>");
-document.writeln("		挑特18码：09.33.18.30.11.23.31.43.12.36.03.15.04.40.29.41.</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">20</span></font><font size=\"2\">.32<br>");
-document.writeln("		主博九码：09.18.11.31.36.03.04.41.20</font></td>");
+document.writeln("		挑特18码：09.33.18.30.11.23.31.43.12.36.03.15.04.40.29.41.</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">20</span></font><font size=\"2\">.32</font></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
-
-
-
-
-
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("		");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（294期）<br></font>");
-document.writeln("		</font>");
-document.writeln("		");
-document.writeln("		<font color=\'#FF0000\'>【奇遇小朵】个人心水，仅供参考！</font><font style=\'font-size: 14pt\'><br>		");
-document.writeln("		");
-document.writeln("		</font>");
-document.writeln("		");
-document.writeln("		</b>");
-document.writeln("		");
-document.writeln("	<span style=\'font-size: 11pt; font-weight: 700\'>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>-------------------</font><br>");
-document.writeln("		");
-document.writeln("奇遇①：凶狗斗蛇。（明肖蛇狗，凶解凶肖牛猪猴虎鼠狗）<br>");
-document.writeln("奇遇②：阴风阵阵现猪牛。（明肖猪牛，阴风解阴肖鼠龙蛇马狗猪）<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
-document.writeln("	（主要心水）</font><br>");
-document.writeln("		</span>");
-document.writeln("		");
-document.writeln("	<span style=\'font-weight: 700\'>");
-document.writeln("");
-document.writeln("		<font size=\"2\">");
-document.writeln("		");
-document.writeln("	特肖【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">蛇</span></font><font size=\"2\">狗猪牛猴虎鼠猪龙】	<br>");
-document.writeln("		四肖：【</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">蛇</span></font><font size=\"2\">狗猪牛】</font></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr> <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("		");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'><font color=\'#0000FF\'>小朵【财神奇遇解析】（292期）<br></font>");
-document.writeln("		</font>");
-document.writeln("		");
-document.writeln("		<font color=\'#FF0000\'>【奇遇小朵】个人心水，仅供参考！</font><font style=\'font-size: 14pt\'><br>		");
-document.writeln("		");
-document.writeln("		</font>");
-document.writeln("		");
-document.writeln("		</b>");
-document.writeln("		");
-document.writeln("	<span style=\'font-size: 11pt; font-weight: 700\'>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>-------------------</font><br>");
-document.writeln("		");
-document.writeln("奇遇①：两条野狗。（明肖狗，野解野兽龙蛇猴兔虎鼠）<br>");
-document.writeln("奇遇②：玉兔天仙。（明肖兔，天仙解天肖牛猪猴龙马兔）<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>-------------------<br>");
-document.writeln("	（主要心水）</font><br>");
-document.writeln("		</span>");
-document.writeln("		");
-document.writeln("	<span style=\'font-weight: 700\'>");
-document.writeln("");
-document.writeln("		<font size=\"2\">");
-document.writeln("		");
-document.writeln("	特肖【狗</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">兔</span></font><font size=\"2\">猴鼠猪马龙蛇牛】	<br>");
-document.writeln("		四肖：【狗</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">兔</span></font><font size=\"2\">猴鼠】</font></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");

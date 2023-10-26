@@ -22,15 +22,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>299期一语中特【压寨夫人】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指山寨头领的妻子，解女肖蛇羊鸡猪兔</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇羊鸡猪兔狗开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>298期一语中特【积日累月】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：积日累月、日，日肖:兔龙蛇马羊猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔龙蛇马羊猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔龙蛇马羊<span style=\'background-color: #FFFF00\'>猴</span>开猴32准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -81,9 +89,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>298期一语中特【一心一意】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：一心一意，意思是只有一个心眼，没有别的念头</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪龙狗蛇鼠兔开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>299期一语中特【若有所失】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：感觉好像丢掉了什么，形容心情怅惘。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊蛇猪兔牛狗开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

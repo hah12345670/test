@@ -25,6 +25,25 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("299期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
+document.writeln("[马10.34.46][龙12.24.48][鼠04.16.40]<br>");
+document.writeln("[牛03.15.39][兔13.25.49][猴08.20.44]<br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62361b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("");
+
+
 
 
 document.writeln("<!--开始-->");
@@ -32,10 +51,10 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("298期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("298期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>猴32准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
 document.writeln("[虎02.14.26][牛15.27.39][兔01.25.37]<br>");
-document.writeln("[狗06.30.42][猴20.32.44][龙12.36.48]<br>");
+document.writeln("[狗06.30.42][<span style=\'background-color: #FFFF00\'>猴</span>20.<span style=\'background-color: #FFFF00\'>32</span>.44][龙12.36.48]<br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
 document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62361b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
 document.writeln("    </td>");

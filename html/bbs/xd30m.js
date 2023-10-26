@@ -18,13 +18,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma297.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
-document.writeln("");
+
 document.writeln("<span style=\'font-family:Arial\'>");
 document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma298.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");

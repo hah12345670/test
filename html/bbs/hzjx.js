@@ -48,7 +48,7 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>297期红字暗码【站不住脚】【01 12 38 42】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：站不住脚，意思是比喻观点等经不起推敲与反驳</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：蛇猪狗羊龙鸡<span style=\'background-color: #FFFF00\'>牛</span><br>");
+document.writeln("解取特肖：蛇猪狗羊龙鸡<br>");
 document.writeln("主特14码：23.35.05.29.06.30.09.21.12.24.07.31");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");

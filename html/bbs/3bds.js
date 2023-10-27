@@ -30,7 +30,13 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("299期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大双小双大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("300期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大双小单大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->	");
+
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("299期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大双<span style=\'background-color: #FFFF00\'>小双</span>大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙24</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 
 
@@ -84,10 +90,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("290期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单<span style=\'background-color: #FFFF00\'>大双</span>小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗42</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
-document.writeln("");
 
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

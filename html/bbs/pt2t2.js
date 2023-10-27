@@ -20,9 +20,14 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("300期：平特【狗羊拖兔牛】开？00<br>");
+document.writeln("------<br>");
+
+
 
 document.writeln("");
-document.writeln("299期：平特【蛇猪拖羊龙】开？00<br>");
+document.writeln("299期：平特【蛇<span style=\'background-color: #FFFF00\'>猪</span>拖羊<span style=\'background-color: #FFFF00\'>龙</span>】开41.36.48.24<br>");
 document.writeln("------<br>");
 
 

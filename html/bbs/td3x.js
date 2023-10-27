@@ -36,7 +36,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("299期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+牛龙猪</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("300期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+虎羊鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("299期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+牛<span style=\'background-color: #FFFF00\'>龙</span>猪</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙24</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -49,36 +55,6 @@ document.writeln("		<!--结束-->");
 
 
 
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("296期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+龙<span style=\'background-color: #FFFF00\'>猴</span>兔</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴20</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("295期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+虎鸡狗</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴44</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("294期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+<span style=\'background-color: #FFFF00\'>蛇</span>羊鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇35</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("						<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("293期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+虎羊狗</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴20</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("292期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎羊</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔25</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

@@ -13,12 +13,18 @@ document.writeln("<!--说明结束-->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("300期：平码【21.45.42.23.34.11.04.03.02.15.09.35】<br>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("299期：平码【15.10.01.11.30.35.17.45.03.48.19.20】<br>");
+document.writeln("299期：平码【15.10.01.11.30.35.17.45.<span style=\'background-color: #FFFF00\'>03.48</span>.19.20】<br>");
 document.writeln("");
 document.writeln("");
 

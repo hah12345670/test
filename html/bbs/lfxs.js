@@ -32,13 +32,34 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第300期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    蛇11.47兔13.25龙24.36<br>");
+document.writeln("		马10.34鼠04.40猴08.44<br>");
+document.writeln("		羊21.45虎02.38猪05.41<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
@@ -50,7 +71,7 @@ document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
 document.writeln("	    蛇11.47牛03.39猴20.32<br>");
-document.writeln("		虎02.38龙12.48羊21.45<br>");
+document.writeln("		虎02.38</font><font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">龙</span></font><font face=\'隶书\' size=\'5\' color=\'#0000FF\'>12.48羊21.45<br>");
 document.writeln("		猪05.17兔13.37马10.22<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
@@ -59,9 +80,9 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
 document.writeln("");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -73,7 +94,7 @@ document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
 document.writeln("	    虎02.14猪05.17狗06.30<br>");
 document.writeln("		兔25.37鼠04.28猴20.32<br>");
-document.writeln("		鸡07.19羊21.33<span style=\'background-color: #FFFF00\'>牛</span>03.15<br>");
+document.writeln("		鸡07.19羊21.33</font><font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>牛</span></font><font face=\'隶书\' size=\'5\' color=\'#0000FF\'>03.15<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");

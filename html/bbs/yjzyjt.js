@@ -27,81 +27,21 @@ document.writeln("");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>299期特码玄机开猴32</font><font size=\'4\'><br> ");
+document.writeln("<font size=\'4\' color=\'#0000FF\'>300期特码玄机开猴32</font><font size=\'4\'><br> ");
 document.writeln("</font> ");
-document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：四六幸会开此期<br>");
+document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：三番五次鼠猪中<br>");
 document.writeln("</font>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("<font size=\'4\'>");
-document.writeln("<span style=\'color: #008000\'>玄机给肖：单数+猴狗<br>");
-document.writeln("玄机双波：主蓝 防红</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
+document.writeln("<span style=\'color: #008000\'>玄机给肖：单数+鼠猴<br>");
+document.writeln("玄机双波：主绿 防红</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
 document.writeln("</span>");
 document.writeln("</font>  ");
 document.writeln("</span>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
-document.writeln("11.16.01.47.03.36.28.13.42.29<br>");
-document.writeln("44.18.21.09.07.40.34.32.08.33<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
-document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
-document.writeln("</a></tr></table></td>");
-document.writeln("<!--开始-->");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <table style=\'b order-collapse:collapse;color:#000;font-weight:700;border:1px solid #000\' border=1 width=100%>");
-document.writeln("");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>297期特码玄机开牛39</font><font size=\'4\'><br> ");
-document.writeln("</font> ");
-document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：特码猜出是美人<br>");
-document.writeln("</font>");
-document.writeln("</span>");
-document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("<font size=\'4\'>");
-document.writeln("<span style=\'color: #008000\'>玄机给肖：<span style=\'background-color: #FFFF00\'>单数</span>+龙虎<br>");
-document.writeln("玄机双波：主<span style=\'background-color: #FFFF00\'>绿</span> 防红</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
-document.writeln("</span>");
-document.writeln("</font>  ");
-document.writeln("</span>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
-document.writeln("32.23.37.13.36.10.01.38.08.12<br>");
-document.writeln("02.15.17.24.<span style=\'background-color: #FFFF00\'>39</span>.22.06.45.40.49<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
-document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
-document.writeln("</a></tr></table></td>");
-document.writeln("<!--开始-->");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <table style=\'b order-collapse:collapse;color:#000;font-weight:700;border:1px solid #000\' border=1 width=100%>");
-document.writeln("");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>296期特码玄机开猴20</font><font size=\'4\'><br> ");
-document.writeln("</font> ");
-document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：二九合成桂花香<br>");
-document.writeln("</font>");
-document.writeln("</span>");
-document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("<font size=\'4\'>");
-document.writeln("<span style=\'color: #008000\'>玄机给肖：<span style=\'background-color: #FFFF00\'>双数</span>+鸡兔<br>");
-document.writeln("玄机双波：主红 防<span style=\'background-color: #FFFF00\'>蓝</span></span><span style=\'color: #008000; font-weight: 700\'><br>  ");
-document.writeln("</span>");
-document.writeln("</font>  ");
-document.writeln("</span>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
-document.writeln("38.46.16.19.18.44.17.23.36.04<br>");
-document.writeln("15.31.43.26.12.32.28.10.22.49<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
+document.writeln("28.09.30.10.37.22.27.13.11.39<br>");
+document.writeln("20.07.01.06.48.24.26.08.42.46<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
 document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");

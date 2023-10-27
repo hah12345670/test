@@ -28,7 +28,7 @@ document.writeln("    var picArrx567=new Array(");
 
 
 
-
+document.writeln("\'img/feicui/300.jpg\',")
 document.writeln("\'img/feicui/299.jpg\',")
 document.writeln("\'img/feicui/298.jpg\',")
 document.writeln("\'img/feicui/297.jpg\',")

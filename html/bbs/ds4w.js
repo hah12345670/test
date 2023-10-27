@@ -38,7 +38,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>299期</font><font color=\'#006600\'>【1759】【4628】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>300期</font><font color=\'#006600\'>【1359】【0268】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>299期</font><font color=\'#006600\'>【1759】【<span style=\'background-color: #FFFF00\'>4</span>628】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -78,9 +86,6 @@ document.writeln("	<font color=\'#0000FF\'>294期</font><font color=\'#006600\'>
 document.writeln("		<!--结束-->");
 document.writeln("	");
 
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://www.65935b.com/#49029\' style=\'text-decoration: none\'>");

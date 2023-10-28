@@ -26,14 +26,15 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		300期</font></th>");
+document.writeln("		301期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				兔鼠马牛鸡羊虎，合双大数中本期</font></th>");
+document.writeln("				蛇猪虎马鸡牛兔，合单大数中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
 document.writeln("				开？00</font></th>");
 document.writeln("			</tr>");
+
 
 
 

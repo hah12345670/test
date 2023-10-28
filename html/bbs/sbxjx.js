@@ -20,11 +20,11 @@ document.writeln("		<table style=border-collapse:collapse border=1 width=100% bg
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><a href=\'https://www.290996b.com/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
-document.writeln("	<span style=\"font-size: 13pt\">300期今期兔牛鼠出特，西风两岸芦花斜<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
+document.writeln("	<span style=\"font-size: 13pt\">301期今期猪鼠鸡出特，多情音衫梦琵琶<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
 document.writeln("	</span>		");
-document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀狗鸡龙(06.18.30.42.07.19.31.43.12.24.36.48)</span><font color=\'#008000\'><BR>");
-document.writeln("<span style=\'font-size: 14pt\'>②图解特肖兔牛鼠虎马</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
-document.writeln("	③蓝波+红波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀龙蛇猴(12.24.36.48.11.23.35.47.08.20.32.44)</span><font color=\'#008000\'><BR>");
+document.writeln("<span style=\'font-size: 14pt\'>②图解特肖猪鼠鸡兔牛</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③绿波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");
 document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'33\'><tbody><tr>");

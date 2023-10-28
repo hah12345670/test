@@ -21,6 +21,19 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("<!--结束-->");
 
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'center\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>301期【四字玄机】</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>三五前后</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
+document.writeln("&#10146;&#10146;推荐特肖:蛇龙牛马猴猪<br>");
+document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
+document.writeln("23.47.12.36.03.15.10.34.20.44.05.41</font></b></font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -30,9 +43,9 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>一六左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:鼠龙虎羊狗马<br>");
+document.writeln("&#10146;&#10146;推荐特肖:鼠<span style=\'background-color: #FFFF00\'>龙</span>虎羊狗马<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("04.40.12.36.02.38.21.33.30.42.10.46</font></b></font></div>");
+document.writeln("04.40.12.<span style=\'background-color: #FFFF00\'>36</span>.02.38.21.33.30.42.10.46</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

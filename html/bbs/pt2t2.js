@@ -21,8 +21,10 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("300期：平特【狗羊拖兔牛】开？00<br>");
+document.writeln("301期：平特【虎羊拖龙马】开？00<br>");
 document.writeln("------<br>");
+
+
 
 
 

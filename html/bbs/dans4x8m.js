@@ -26,15 +26,33 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
+document.writeln("301期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【单数】【牛】【兔】【猪】【蛇】<br>");
+document.writeln("【03.39.13.49.05.41.23.47】<br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #333300\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("300期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【双数】【马】【鼠】【狗】【龙】<br>");
-document.writeln("【10.46.16.40.18.30.12.36】<br>");
+document.writeln("300期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>龙36</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【马】【鼠】【狗】<span style=\'background-color: #FFFF00\'>【龙】</span><br>");
+document.writeln("【10.46.16.40.18.30.12.<span style=\'background-color: #FFFF00\'>36</span>】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");

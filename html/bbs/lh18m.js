@@ -43,10 +43,28 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>301期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		</font> <font color=\'#008000\'>");
+document.writeln("		【29 01 30 09 20 34 16 19 08】<br>");
+document.writeln("		【42 44 03 31 02 47 49 10 37】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+document.writeln("");
+
+
+
+document.writeln("   <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
 document.writeln("		<font style=\'font-size: 14pt\'>300期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
 document.writeln("		【19 11 32 38 41 17 26 33 20】<br>");
-document.writeln("		【06 36 25 47 37 08 02 04 48】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【06 <span style=\'background-color: #FFFF00\'>36</span> 25 47 37 08 02 04 48】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");

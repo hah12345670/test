@@ -24,19 +24,37 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>301期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙虎二者争天下,鸡左蛇右猪中彩</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("			解析:预先解明肖鸡蛇猪龙虎。心水诗大意是，有能者争天下，谁得天下有权有势，最后就能强者，它身边的人也会像中彩一样，有一定的帮助。综合得主鸡蛇猪龙防虎马羊猴狗</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：鸡蛇猪龙虎马<br>");
+document.writeln("	特码：31.43.11.47.29.41.12.36.02.38.10.22</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>300期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>300期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开龙36准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>牧童赶羊犬帮忙，绿草青青奔蓝天</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖羊牛。绿解绿肖：牛龙羊狗。蓝解蓝肖:蛇虎猪猴。生肖诗的大意描述了安静祥和的情景，牧童赶的着，牧羊犬在左右帮忙，大家一起朝着蓝天白云绿草地而去。综合得主羊牛狗龙防蛇虎猪猴鸡。</font></div>");
+document.writeln("			解析:预先解明肖羊牛。绿解绿肖：牛龙羊狗。蓝解蓝肖:蛇虎猪猴。生肖诗的大意描述了安静祥和的情景，牧童赶的着，牧羊犬在左右帮忙，大家一起朝着蓝天白云绿草地而去。综合得主羊牛狗<span style=\'background-color: #FFFF00\'>龙</span>防蛇虎猪猴鸡。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：羊牛狗龙蛇虎<br>");
+document.writeln("	解特肖：羊牛狗<span style=\'background-color: #FFFF00\'>龙</span>蛇虎<br>");
 document.writeln("	特码：21.33.03.15.30.42.12.48.23.47.02.38</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

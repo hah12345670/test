@@ -30,6 +30,27 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong2\'>");
+document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62361a.com）九肖九码</div>");
+document.writeln("	<div class=\'bizhong2-box\'>");
+document.writeln("    	<div class=\'bizhong2-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li><font size=\'3\'>301期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪虎狗龙蛇兔马猴</font></li>");
+document.writeln("            	<li><font size=\'3\'>301期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪虎狗龙蛇兔</font></li>");
+document.writeln("            	<li><font size=\'3\'>301期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪虎狗龙</font></li>");
+document.writeln("            	<li><font size=\'2\'>301期必中18码：</font><font size=\'2\' color=\'#FF0000\'>04.40.05.41.14.38.30.42.12.36.23.47.13.49.10.34.20.44</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>301期必中九码：</font><font size=\'2\' color=\'#FF0000\'>04.41.14.42.12.23.49.34.44</span></font></li>");
+document.writeln("");
+document.writeln("            	");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("    </div>");
+document.writeln("      <div class=\'bizhong2-foot\'><font color=\'#00FFFF\'>301期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>鸡31</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期结束-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong2\'>");
@@ -37,11 +58,11 @@ document.writeln("	<div class=\'bizhong2-tit\'>澳门资料网（62361a.com）�
 document.writeln("	<div class=\'bizhong2-box\'>");
 document.writeln("    	<div class=\'bizhong2-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>300期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鸡蛇马猴羊狗兔猪龙</font></li>");
+document.writeln("            	<li><font size=\'3\'>300期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鸡蛇马猴羊狗兔猪<span style=\'background-color: #FFFF00\'>【龙】</span></font></li>");
 document.writeln("            	<li><font size=\'3\'>300期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鸡蛇马猴羊狗兔</font></li>");
 document.writeln("            	<li><font size=\'3\'>300期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鸡蛇马猴羊</font></li>");
-document.writeln("            	<li><font size=\'2\'>300期必中18码：</font><font size=\'2\' color=\'#FF0000\'>31.43.11.47.10.22.08.20.21.33.06.30.13.49.05.41.36.48</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>300期必中九码：</font><font size=\'2\' color=\'#FF0000\'>31.11.10.08.21.30.13.41.36</span></font></li>");
+document.writeln("            	<li><font size=\'2\'>300期必中18码：</font><font size=\'2\' color=\'#FF0000\'>31.43.11.47.10.22.08.20.21.33.06.30.13.49.05.41.<span style=\'background-color: #FFFF00\'>【36】</span>.48</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>300期必中九码：</font><font size=\'2\' color=\'#FF0000\'>31.11.10.08.21.30.13.41.<span style=\'background-color: #FFFF00\'>【36】</span></span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");

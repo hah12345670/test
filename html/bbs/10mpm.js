@@ -16,7 +16,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("300期：平码【21.45.42.23.34.11.04.03.02.15.09.35】<br>");
+document.writeln("301期：平码【15.09.22.19.44.07.41.33.26.37.42.39】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("300期：平码【<span style=\'background-color: #FFFF00\'>21</span>.45.42.23.34.11.04.03.02.15.<span style=\'background-color: #FFFF00\'>09</span>.35】<br>");
 document.writeln("");
 document.writeln("");
 

@@ -15,18 +15,19 @@ document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">300期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">301期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【39.17.31】【16.10.23】【19.33.44】<br>");
-document.writeln("		【11.25.34】【48.19.36】【02.03.22】<br>		");
-document.writeln("		【45.22.09】【32.02.21】【23.13.35】<br>				");
-document.writeln("		【40.42.47】【46.35.31】【20.39.26】</b><br>");
+document.writeln("		【32.41.46】【44.43.14】【36.23.19】<br>");
+document.writeln("		【47.29.26】【31.14.23】【25.27.13】<br>		");
+document.writeln("		【22.33.27】【42.35.11】【26.30.18】<br>				");
+document.writeln("		【29.47.37】【08.18.02】【08.11.18】</b><br>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("   <!--开始-->");

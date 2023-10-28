@@ -361,7 +361,7 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'        https://j.simproway.com:888/'>");
+document.writeln("            <a target=\'_blank\' href=\'        https://j.jzxke120.com:888/ '>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>301期【49聊天室】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（一码中特）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
@@ -995,56 +995,54 @@ document.writeln("	<ul>");
 
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083287&type=3\'>098期【酒武至尊】<font color=\'#0000ff\'>（七肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083227&type=3  \'>098期【半厦微澜】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122555&type=3\'>301期【酒武至尊】<font color=\'#0000ff\'>（七肖中特）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083267&type=3\'>098期【摘星不得】<font color=\'#0000ff\'>（必中三头）</font>已公开</a></b></li>");
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083264&type=3 \'>098期【记忆是盛】<font color=\'#0000ff\'>（春夏秋冬）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122603&type=3\'>301期【摘星不得】<font color=\'#0000ff\'>（必中三头）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083308&type=3\'>098期【独霸青楼】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123333&type=3\'>301期【独霸青楼】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083241&type=3\'>098期【二氧化甜】<font color=\'#0000ff\'>（准杀五码）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122494&type=3\'>301期【二氧化甜】<font color=\'#0000ff\'>（准杀五码）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083219&type=3 \'>098期【南葵思暖】<font color=\'#0000ff\'>（绝杀二肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122464&type=3 \'>301期【南葵思暖】<font color=\'#0000ff\'>（绝杀二肖）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083286&type=3 \'>098期【猥琐欲为】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123346&type=3\'>301期【猥琐欲为】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083254&type=3\'>098期【粉色樱花】<font color=\'#0000ff\'>（八肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083272&type=3  \'>098期【喜欢杨幂】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083297&type=3 \'>098期【无以名之】<font color=\'#0000ff\'>（平特一肖）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083233&type=3\'>098期【路尽隐香】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083236&type=3  \'>098期【盛开的彼】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083289&type=3  \'>098期【风吹花成】<font color=\'#0000ff\'>（单双中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083234&type=3 \'>098期【清风不解】<font color=\'#0000ff\'>（绝世六肖）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083243&type=3 \'>098期【歌散酒初】<font color=\'#0000ff\'>（五肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122496&type=3\'>301期【粉色樱花】<font color=\'#0000ff\'>（八肖中特）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083275&type=3 \'>098期【我的宝贝】<font color=\'#0000ff\'>（特码单双）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122573&type=3 \'>301期【无以名之】<font color=\'#0000ff\'>（平特一肖）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33083291&type=3 \'>098期【风归影@】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122478&type=3\'>301期【路尽隐香】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083246&type=3   \'>098期【爱咋咋地】<font color=\'#0000ff\'>（期杀十码）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123324&type=3\'>301期【盛开的彼】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083294&type=3\'>098期【野鸡贩大】<font color=\'#0000ff\'>（三行中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083319&type=3\'>098期【于你悸动】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122674&type=3 \'>301期【歌散酒初】<font color=\'#0000ff\'>（五肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083278&type=3 \'>098期【倾城歌女】<font color=\'#0000ff\'>（家野中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083255&type=3\'>098期【寂寞学会】<font color=\'#0000ff\'>（精准七肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123335&type=3\'>301期【我的宝贝】<font color=\'#0000ff\'>（特码单双）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33083314&type=3\'>098期【梦中风几】<font color=\'#0000ff\'>（3行中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122540&type=3\'>301期【风归影@】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123339&type=3\'>301期【爱咋咋地】<font color=\'#0000ff\'>（期杀十码）</font>已公开</a></b></li>");
+
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123347&type=3\'>301期【野鸡贩大】<font color=\'#0000ff\'>（三行中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123314&type=3\'>301期【于你悸动】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122663&type=3 \'>301期【倾城歌女】<font color=\'#0000ff\'>（家野中特）</font>已公开</a></b></li>");
+
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33122601&type=3\'>301期【梦中风几】<font color=\'#0000ff\'>（3行中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33123344&type=3\'>301期【此用户下】<font color=\'#0000ff\'>（必中双波）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33123321&type=3\'>301期【你有弟我】<font color=\'#0000ff\'>（平特三肖）</font>已公开</a></b></li>");
 
 
 

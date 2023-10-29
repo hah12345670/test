@@ -28,18 +28,20 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>301期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>302期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙虎二者争天下,鸡左蛇右猪中彩</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>欢天喜地红火火，马羊猴鸡过大年</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖鸡蛇猪龙虎。心水诗大意是，有能者争天下，谁得天下有权有势，最后就能强者，它身边的人也会像中彩一样，有一定的帮助。综合得主鸡蛇猪龙防虎马羊猴狗</font></div>");
+document.writeln("			解析:预先解明肖马羊猴鸡。红解红肖鼠兔马鸡。火解火肖蛇马。心水诗的大意是，新年将至所有的动物们都欢天喜地的，真是一片祥和。过大年过的是什么年尼，新年是牛年。牛气冲天。综合得主牛马羊猴防鸡蛇狗鼠兔</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鸡蛇猪龙虎马<br>");
-document.writeln("	特码：31.43.11.47.29.41.12.36.02.38.10.22</font></b></div>");
+document.writeln("	解特肖：牛马羊猴鸡蛇<br>");
+document.writeln("	特码：03.39.22.46.21.33.08.20.31.43.11.47</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
+
 
 
 

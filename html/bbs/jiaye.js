@@ -27,28 +27,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("301期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("302期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 document.writeln("");
 
 
 
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("299期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>野野野</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>龙24</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("297期<font color=\'#9933FF\'>家野六肖</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>家家家</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #008000\'>牛39</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

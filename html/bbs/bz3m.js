@@ -37,6 +37,20 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("      <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
+document.writeln("302-304期<font style=\'font-size: 14pt\'>【12.36.48】</font>第?0期中</span></font></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+document.writeln("");
 
 document.writeln("      <!--开始-->");
 document.writeln("    ");
@@ -48,7 +62,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("301-303期<font style=\'font-size: 14pt\'>【05.17.41】</font>第?0期中</span></font></font></b></td>");
+document.writeln("301-303期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>05</span>.17.41】</font>第301期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("");

@@ -42,17 +42,17 @@ document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("                         <!--开始--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("300-301期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【虎蛇狗马猪鸡】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>？00</font></span>期√)  ");
-document.writeln("		</b> </td>");
+document.writeln("302-303期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鸡兔蛇虎马猴】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>？00</font></span>期√)  ");document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
+
+
 
 document.writeln("");
 document.writeln("");

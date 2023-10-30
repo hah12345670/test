@@ -40,10 +40,18 @@ document.writeln("");
 
 
 document.writeln("");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>303期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("	<span style=\'font-size: 10pt; \'>");
+document.writeln("狗兔蛇龙猴鸡虎羊鼠</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("");
+
+
+document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>302期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("狗牛猪鼠马兔龙猴虎</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("狗牛猪鼠马兔龙<span style=\'background-color: #FFFF00\'>猴</span>虎</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>猴32</font>中</span></td></tr>");
 document.writeln("");
 
 

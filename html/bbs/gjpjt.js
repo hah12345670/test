@@ -24,7 +24,25 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>301期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(七九一起二在上)(杯弓蛇影)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>303期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(七仙下凡送二八)(龙生九子)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>302期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(四七六五本期连)(呆若木鸡)</font><font style=\'font-size: 12pt; font-weight:700\'>开特猴3平31</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>301期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(七九一起二在上)(杯弓蛇影)</font><font style=\'font-size: 12pt; font-weight:700\'>开特25平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

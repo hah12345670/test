@@ -24,6 +24,23 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
+document.writeln("303期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【龙】【鼠】【狗】【虎】<br>");
+document.writeln("【12.24.04.16.30.42.02.38】<br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #333300\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("<!--开始-->");
@@ -31,8 +48,8 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("302期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【双数】【龙】【马】【狗】【虎】<br>");
+document.writeln("302期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>猴32</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("<span style=\'background-color: #FFFF00\'>【双数】</span> 【龙】【马】【狗】【虎】<br>");
 document.writeln("【12.24.34.46.30.42.02.38】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");

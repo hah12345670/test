@@ -29,11 +29,29 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/301/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/303/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
+document.writeln("");
+
+
+
+
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第303期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（望一九再次回头）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：望一九再次回头，一九解鸡，回头解后肖马羊猴鸡狗猪。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：马羊猴鸡狗猪</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
 document.writeln("");
 
 
@@ -49,7 +67,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：偷偷绝技遭人打，偷解贼肖鼠猴。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：鼠猴虎兔马羊</font></b></td>");
+document.writeln("		综合特码：鼠猴虎<span style=\'background-color: #FFFF00\'>兔</span>马羊</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");

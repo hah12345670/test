@@ -12,11 +12,17 @@ document.writeln("</font><font color=\'#FF0000\' face=\'华文楷体\' style=\'f
 document.writeln("<!--说明结束-->");
 document.writeln("");
 
+document.writeln("");
+document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("303期：平码【41.46.03.23.02.06.22.47.13.11.17.15】<br>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("302期：平码【06.04.27.12.02.46.40.03.11.33.09.18】<br>");
+document.writeln("302期：平码【06.04.27.12.02.46.40.03.<span style=\'background-color: #FFFF00\'>11</span>.33.09.18】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

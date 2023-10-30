@@ -18,17 +18,33 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>303期红字暗码【跟踪追击】【01 26 30 43】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：指跟寻踪迹进行打击。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：牛猪兔狗马蛇猴<br>");
+document.writeln("主特14码：15.39.05.41.25.37.30.42.10.46.23.47.32.44");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
 
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>301期红字暗码【蹑手蹑脚】【03 22 35 48】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：形容走路时脚步放得很轻，解马鸡鼠猪虎龙蛇</font></b><br>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>302期红字暗码【醉翁之意】【08 15 24 33】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：意:意趣。之:的。表示本意不在此而在别的方面。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：马鸡鼠猪虎龙蛇<br>");
-document.writeln("主特14码：10.34.19.43.04.40.05.17.02.38.12.48.23.47");
+document.writeln("解取特肖：虎<span style=\'background-color: #FFFF00\'>猴</span>马蛇狗牛猪<br>");
+document.writeln("主特14码：02.38.20.44.10.34.11.23.06.30.15.39.05.41");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");

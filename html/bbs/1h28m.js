@@ -45,17 +45,42 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>304期必中一行：<font color=\'#FF00FF\' size=\'4\'>金</font></li>");
-document.writeln("            	<li>304期必中二行：<font color=\'#FF00FF\' size=\'4\'>金-火</font></li>");
-document.writeln("            	<li>304期必中三行：<font color=\'#FF00FF\' size=\'4\'>金-火-水</font></li>");
+document.writeln(" 	            <li>305期必中一行：<font color=\'#FF00FF\' size=\'4\'>木</font></li>");
+document.writeln("            	<li>305期必中二行：<font color=\'#FF00FF\' size=\'4\'>木-金</font></li>");
+document.writeln("            	<li>305期必中三行：<font color=\'#FF00FF\' size=\'4\'>木-金-火</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong6-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>02.09.10.24.31.32</font></li>");
-document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>08.15.16.30.38.45</font></li>");
-document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>11.12.20.28.41.42</font></li>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>06.13.14.22.35.36</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>02.09.23.24.32.39</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>08.15.16.30.38.45</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>305期一行一码：<font color=\'#FF00FF\' size=\'6\'>(木行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>304期必中三行：<font color=\'#FF00FF\' size=\'4\'>金-火-<span style=\'background-color: #FFFF00\'>【水】</span></font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>11.12.20.<span style=\'background-color: #FFFF00\'>【28】</span>.41.42</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");

@@ -18,13 +18,31 @@ document.writeln("");
 
 
 
+document.writeln("<!-----开始----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("305期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<font color=\'#0000FF\'>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("");
+document.writeln("（47.04.16.26.23.40.21.18.13.05.45.02）<br>");
+document.writeln("（43.44.27.36.07.31.06.19.09.10.34.35）</span></font></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
+document.writeln("");
+document.writeln("");
+
 
 
 document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("304期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("304期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>鼠28</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
@@ -32,7 +50,7 @@ document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
 document.writeln("（44.06.15.07.37.33.08.17.19.11.39.49）<br>");
-document.writeln("（38.43.31.16.13.21.22.27.34.35.28.20）</span></font></p>");
+document.writeln("（38.43.31.16.13.21.22.27.34.35.<span style=\'background-color: #FFFF00\'>28</span>.20）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");

@@ -18,10 +18,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("");
+document.writeln("305期：平特【羊兔拖龙狗】开？00<br>");
+document.writeln("------<br>");
+
 
 
 document.writeln("");
-document.writeln("304期：平特【虎鸡拖龙猪】开？00<br>");
+document.writeln("304期：平特【虎<span style=\'background-color: #FFFF00\'>鸡</span>拖<span style=\'background-color: #FFFF00\'>龙</span>猪】开31.12.24<br>");
 document.writeln("------<br>");
 
 

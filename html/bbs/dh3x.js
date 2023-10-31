@@ -31,55 +31,11 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>304期</font>【<font color=\'#FF0000\'>合肖:龙猪狗</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>305期</font>【<font color=\'#FF0000\'>独肖:鼠牛兔</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
 
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>299期</font>【<font color=\'#FF0000\'>合肖:猴鸡狗</font>】开<font color=\'#FF00FF\'>(龙24)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>297期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>牛</span>虎兔</font>】开<font color=\'#FF00FF\'>(牛39)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>296期</font>【<font color=\'#FF0000\'>合肖:蛇<span style=\'background-color: #FFFF00\'>猴</span>鸡</font>】开<font color=\'#FF00FF\'>(猴20)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>295期</font>【<font color=\'#FF0000\'>合肖:龙蛇<span style=\'background-color: #FFFF00\'>猴</span></font>】开<font color=\'#FF00FF\'>(猴44)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>294期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>合肖</span>:猴鸡狗</font>】开<font color=\'#FF00FF\'>(蛇35)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>293期</font>【<font color=\'#FF0000\'>合肖:龙蛇<span style=\'background-color: #FFFF00\'>猴</span></font>】开<font color=\'#FF00FF\'>(猴20)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>292期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:鼠牛虎</font>】开<font color=\'#FF00FF\'>(兔25)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");

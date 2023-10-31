@@ -14,8 +14,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("304期：平码【10.21.39.01.26.13.28.33.15.32.03.12】<br>");
+
 document.writeln("");
+document.writeln("305期：平码【03.08.02.07.22.21.46.16.30.27.26.43】<br>");
 document.writeln("");
 
 document.writeln("");

@@ -8,47 +8,10 @@ document.writeln(" ");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("296期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.09.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("	猴20准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("297期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【05.08.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("牛39准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("298期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【06.10.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("猴32准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("299期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【05.12.07】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("龙24准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("300期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【01.04.07】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("龙36准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("301期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【05.11.08】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("兔25准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("303期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【06.09.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("304期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【11.12.04】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 

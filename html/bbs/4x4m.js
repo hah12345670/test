@@ -44,20 +44,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第303期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪05马34鼠40猴20】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第301期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇23马46鸡07<span style=\'background-color: #FFFF00\'>兔</span>49】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第304期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊09兔25鼠40鸡31】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

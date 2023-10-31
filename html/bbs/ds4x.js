@@ -9,19 +9,20 @@ document.writeln("");
 document.writeln("");
 
 
-
 document.writeln("<!--------->");
 document.writeln("<tr>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font color=\'#00F\' size=\'3\'>303期</font></td>");
+document.writeln("<font color=\'#00F\' size=\'3\'>304期</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>猴鼠马龙</font></td>");
+document.writeln("<font size=\'3\'>马龙狗虎</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>猪鸡羊兔</font></td>");
+document.writeln("<font size=\'3\'>羊兔蛇鸡</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
 document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
 document.writeln("");
 document.writeln("<!--------->");
+
+
 
 
 

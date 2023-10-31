@@ -23,7 +23,16 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("303期：<font color=\'#0000FF\'>（野兽+马牛）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("304期：<font color=\'#0000FF\'>（家禽+兔蛇）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("");
+
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("303期：<font color=\'#0000FF\'>（野兽+马<span style=\'background-color: #FFFF00\'>牛</span>）</font>开<font color=\'#FF0000\'>(牛15)</font></font></b></font></table>");
 document.writeln("");
 
 

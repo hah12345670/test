@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/303/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/304/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
@@ -59,36 +59,13 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第303期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【不堪一击】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：不堪：经不起。形容力量薄弱，经不起一击。也形容论点不严密，经不起反驳</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第304期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【魔高一尺】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻说话夸大之极。同“一尺水翻腾做一丈波”。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：马蛇兔虎鸡狗</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：牛兔狗蛇虎马</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第301期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【人高马大】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容人身材十分高大魁梧。解牛鸡虎蛇马兔</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛鸡虎蛇马<span style=\'background-color: #FFFF00\'>兔</span></font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第298期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴32中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【一统江山】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：雄霸天下，解鼠虎兔羊猴鸡猪</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠虎兔羊<span style=\'background-color: #FFFF00\'>猴</span>鸡猪</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("");
-
 
 
 
@@ -102,31 +79,22 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/303/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/304/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第303期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【稍后来料】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第304期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红波蓝波中本期】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("	");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第301期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝25中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【前是绿来后是蓝】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第303期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝15中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【本期开个红蓝波】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("	");
-
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第299期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红24中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【要开红绿也不难】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-
 
 
 document.writeln("");

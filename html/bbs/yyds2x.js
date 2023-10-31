@@ -17,11 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:
 document.writeln("");
 document.writeln("");
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>304期：</font>【<font color=\'#008000\'>单数+鼠狗</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>303期：</font>【<font color=\'#008000\'>双数+牛羊</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>303期：</font>【<font color=\'#008000\'>双数+<span style=\'background-color: #FFFF00\'>牛</span>羊</font>】开<font color=\'#FF0000\'>(牛15)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

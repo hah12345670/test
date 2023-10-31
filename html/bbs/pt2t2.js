@@ -21,7 +21,12 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("303期：平特【牛虎拖羊龙】开？00<br>");
+document.writeln("304期：平特【虎鸡拖龙猪】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("303期：平特【<span style=\'background-color: #FFFF00\'>牛虎</span>拖羊<span style=\'background-color: #FFFF00\'>龙</span>】开39.03.15.26.36.24<br>");
 document.writeln("------<br>");
 
 

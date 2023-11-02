@@ -16,7 +16,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("305期：平码【03.08.02.07.22.21.46.16.30.27.26.43】<br>");
+document.writeln("306期：平码【27.04.03.02.20.10.44.43.31.18.24.11】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("305期：平码【03.08.02.07.<span style=\'background-color: #FFFF00\'>22</span>.21.<span style=\'background-color: #FFFF00\'>46</span>.16.30.27.26.<span style=\'background-color: #FFFF00\'>43</span>】<br>");
 document.writeln("");
 
 document.writeln("");

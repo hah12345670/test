@@ -19,7 +19,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("305期：平特【羊兔拖龙狗】开？00<br>");
+document.writeln("306期：平特【猪龙拖马蛇】开？00<br>");
 document.writeln("------<br>");
 
 

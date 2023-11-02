@@ -48,7 +48,8 @@ document.writeln("301期:三肖中特<b><font size=\"5\">【<span style=\"backgr
 document.writeln("302期:三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">猴</span>鼠鸡】</font></b>开:猴32准 <br>	");
 document.writeln("303期:三肖中特<b><font size=\"5\">【龙<span style=\'background-color: #FFFF00\'>牛</span>鸡】</font></b>开:牛15准 <br>	");
 document.writeln("304期:三肖中特<b><font size=\"5\">【<span style=\'background-color: #FFFF00\'>鼠</span>猴蛇】</font></b>开:鼠28准 <br>	");
-document.writeln("305期:三肖中特<b><font size=\"5\">【蛇猴鸡】</font></b>开:？00准 <br>	");
+document.writeln("305期:三肖中特<b><font size=\"5\">【蛇猴鸡】</font></b>开:马34错 <br>	");
+document.writeln("306期:三肖中特<b><font size=\"5\">【马狗鸡】</font></b>开:？00准 <br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

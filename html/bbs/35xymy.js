@@ -33,12 +33,11 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-
-document.writeln("<!--头部start-->");
+document.writeln("<!--头部start->-");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>305期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>306期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -46,6 +45,23 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>305期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("飞龙猛虎走一起，龙眼一只为君开");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天肖鼠猪牛猴马兔龙+虎。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猪牛猴<span style=\'background-color: #FFFF00\'>马</span> 兔龙虎<br>");
+document.writeln("			四肖：猪牛猴<span style=\'background-color: #FFFF00\'>马</span><br>");
+document.writeln("			特码：05.41.15.39.20.32.10.3<span style=\'background-color: #FFFF00\'>34</span>.13.25.24.36.14.38</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

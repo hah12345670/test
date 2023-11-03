@@ -42,7 +42,7 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第306期：大吉大利<Br></font>  ");
+document.writeln("		<font color=\'#FF0000\'>第307期：树大遮天<Br></font>  ");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
 document.writeln("		解：关注62103b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
@@ -50,70 +50,6 @@ document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> ");
 
-
-
-document.writeln("                               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第305期：后继无人<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：无边肖（马34）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ");
-
-
-
-
-document.writeln("                               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第304期：地大物博<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：地肖（鼠28）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ");
-
-
-
-document.writeln("                               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第303期：前途无量<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：前肖，无边肖（牛15）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ");
-
-
-
-
-
-
-
-document.writeln("                               <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第300期：家有主男<Br></font>  ");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
-document.writeln("		解：男肖（龙36）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("               <!--开始--> ");
 
 
 

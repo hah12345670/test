@@ -19,7 +19,12 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("306期：平特【猪龙拖马蛇】开？00<br>");
+document.writeln("307期：平特【猴兔拖鼠马】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("306期：平特【<span style=\'background-color: #FFFF00\'>猪龙</span>拖马蛇】开41.24<br>");
 document.writeln("------<br>");
 
 

@@ -109,10 +109,8 @@ document.writeln("      <!--天肖牛猪猴龙马兔  地肖蛇羊鸡虎鼠狗--
 document.writeln("				<b> ");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半面妆容】(3肖)</font></b></span><b><font color=\"#0000FF\"></b></font></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
-document.writeln("		302期【龙马<span style=\'background-color: #FFFF00\'>猴</span>】<br>		");
-document.writeln("		303期【<span style=\'background-color: #FFFF00\'>牛</span>猪龙】<br>		");
-document.writeln("		304期【虎<span style=\'background-color: #FFFF00\'>鼠</span>狗】<br>		");
-document.writeln("		307期【蛇虎狗】<br>		");
+
+document.writeln("		308期【鸡虎鼠】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -121,8 +119,8 @@ document.writeln("");
 document.writeln("	      <!--左肖鼠牛龙蛇猴鸡  右肖虎兔马羊狗猪--> 			");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
-document.writeln("				304期【<span style=\'background-color: #FFFF00\'>鼠</span>蛇+鸡】？<br>				");
-document.writeln("				307期【牛龙+猴】？<br>				");
+
+document.writeln("				308期【虎兔+马】？<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -136,8 +134,8 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神经】(3肖4码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 
 document.writeln("				");
-document.writeln("				307期牛龙蛇<br>");
-document.writeln("				02.14.26.38<br>");
+document.writeln("				308期虎兔龙<br>");
+document.writeln("				03.15.27.39<br>");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
 document.writeln("				<p><b><br>");
@@ -147,15 +145,10 @@ document.writeln("				      <!--吃菜猪猴鸡鼠 吃肉狗龙虎蛇 吃草牛�
 document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小情怀】(12码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
-document.writeln("				304期<br>");
-document.writeln("				05.17.32.44.31.43<br>");
-document.writeln("				04.16.<span style=\'background-color: #FFFF00\'>28</span>.30.42.12<br>	");
-document.writeln("				305期<br>");
-document.writeln("				06.30.12.36.02.38<br>");
-document.writeln("				11.23.35.10.<span style=\'background-color: #FFFF00\'>34</span>.25<br>	");
-document.writeln("				307期<br>");
+
+document.writeln("				308期<br>");
 document.writeln("				05.17.29.41.08.20<br>");
-document.writeln("				31.43.04.06.30.42<br>	");
+document.writeln("				32.15.39.21.33.49<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -187,7 +180,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("				305期【鼠<span style=\'background-color: #FFFF00\'>马</span>兔鸡】<br>				");
 document.writeln("				306期【<span style=\'background-color: #FFFF00\'>鼠</span>马兔鸡】<br>				");
-document.writeln("				307期【牛羊龙狗】<br>				");
+document.writeln("				308期【猪猴蛇虎】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -200,9 +193,9 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【归彩】(8码)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 document.writeln("		    ");
-document.writeln("				307期？<br>");
-document.writeln("				【27.39.22.46】<br>");
-document.writeln("				【02.38.06.18】<br>				");
+document.writeln("				308期？<br>");
+document.writeln("				【04.40.12.36】<br>");
+document.writeln("				【23.47.08.32】<br>				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -216,9 +209,9 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【自�
 document.writeln("		    ");
 
 document.writeln("		    ");
-document.writeln("				307期<br>");
-document.writeln("			（02.14.08.20.12）<br>");
-document.writeln("			（06.30.10.34.40）<br>	");
+document.writeln("				308期<br>");
+document.writeln("			（12.24.36.06.30）<br>");
+document.writeln("			（10.46.16.40.21）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -228,7 +221,7 @@ document.writeln("			  <!--春肖兔虎龙 夏肖蛇马羊 秋肖猴鸡狗  冬�
 document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		    ");
-document.writeln("				307期兔虎龙+狗<br>				");
+document.writeln("				308期兔马虎++牛<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

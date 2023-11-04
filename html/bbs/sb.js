@@ -20,7 +20,7 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>307期</span><span style=\'color: #800000;\'>财富波色</span>红波蓝波开:？00准</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>308期</span><span style=\'color: #800000;\'>财富波色</span>红波绿波开:？00准</font></td></tr>");
 document.writeln("");
 
 
@@ -39,57 +39,6 @@ document.writeln("<span style=\'color: #00F;\'>305期</span><span style=\'color:
 document.writeln("");
 
 
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>302期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>绿波</span>蓝波开:猴32准</font></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>301期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>蓝波</span>红波开:兔25准</font></td></tr>");
-document.writeln("");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>299期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>红波</span>蓝波开:龙24准</font></td></tr>");
-document.writeln("");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>298期</span><span style=\'color: #800000;\'>财富波色</span>红波<span style=\'background-color: #FFFF00\'>绿波</span>开:猴32准</font></td></tr>");
-document.writeln("");
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>297期</span><span style=\'color: #800000;\'>财富波色</span>蓝波<span style=\'background-color: #FFFF00\'>绿波</span>开:牛39准</font></td></tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>296期</span><span style=\'color: #800000;\'>财富波色</span>绿波<span style=\'background-color: #FFFF00\'>蓝波</span>开:猴20准</font></td></tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>295期</span><span style=\'color: #800000;\'>财富波色</span><span style=\'background-color: #FFFF00\'>绿波</span>红波开:猴44准</font></td></tr>");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

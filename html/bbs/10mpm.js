@@ -16,7 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("307期：平码【47.42.19.28.13.29.02.06.24.08.30.14】<br>");
+document.writeln("308期：平码【22.20.05.12.19.25.39.01.43.21.31.18】<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("307期：平码【47.42.<span style=\'background-color: #FFFF00\'>19</span>.28.13.29.02.06.24.08.30.14】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -26,52 +30,37 @@ document.writeln("");
 document.writeln("305期：平码【03.08.02.07.<span style=\'background-color: #FFFF00\'>22</span>.21.<span style=\'background-color: #FFFF00\'>46</span>.16.30.27.26.<span style=\'background-color: #FFFF00\'>43</span>】<br>");
 document.writeln("");
 
-document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("");
+
 document.writeln("303期：平码【<span style=\'background-color: #FFFF00\'>41</span>.46.<span style=\'background-color: #FFFF00\'>03</span>.23.02.06.22.47.13.11.17.15】<br>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+
 document.writeln("");
 document.writeln("302期：平码【06.04.27.12.02.46.40.03.<span style=\'background-color: #FFFF00\'>11</span>.33.09.18】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+
 document.writeln("");
 document.writeln("301期：平码【<span style=\'background-color: #FFFF00\'>15</span>.09.22.19.44.<span style=\'background-color: #FFFF00\'>07</span>.41.33.26.37.42.39】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+
 document.writeln("");
 document.writeln("300期：平码【<span style=\'background-color: #FFFF00\'>21</span>.45.42.23.34.11.04.03.02.15.<span style=\'background-color: #FFFF00\'>09</span>.35】<br>");
 document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+
 document.writeln("");
 document.writeln("299期：平码【15.10.01.11.30.35.17.45.<span style=\'background-color: #FFFF00\'>03.48</span>.19.20】<br>");
 document.writeln("");
 document.writeln("");
 
 
-
-
-
-
-
-document.writeln("");
-document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("");
-document.writeln("297期：平码【<span style=\'background-color: #FFFF00\'>17</span>.13.33.28.32.15.06.26.23.38.<span style=\'background-color: #FFFF00\'>39</span>.02】<br>");
-document.writeln("");
-document.writeln("");
 
 
 

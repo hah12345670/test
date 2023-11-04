@@ -38,7 +38,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>307期</font><font color=\'#006600\'>【5179】【8462】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>308期</font><font color=\'#006600\'>【5917】【4862】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>307期</font><font color=\'#006600\'>【5179】【84<span style=\'background-color: #FFFF00\'>6</span>2】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -75,57 +83,6 @@ document.writeln("	<font color=\'#0000FF\'>302期</font><font color=\'#006600\'>
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>300期</font><font color=\'#006600\'>【1359】【02<span style=\'background-color: #FFFF00\'>6</span>8】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>299期</font><font color=\'#006600\'>【1759】【<span style=\'background-color: #FFFF00\'>4</span>628】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>298期</font><font color=\'#006600\'>【3751】【<span style=\'background-color: #FFFF00\'>2</span>046】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>297期</font><font color=\'#006600\'>【1<span style=\'background-color: #FFFF00\'>9</span>75】【4680】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>296期</font><font color=\'#006600\'>【5937】【6<span style=\'background-color: #FFFF00\'>0</span>24】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>295期</font><font color=\'#006600\'>【1753】【<span style=\'background-color: #FFFF00\'>4</span>268】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>294期</font><font color=\'#006600\'>【3<span style=\'background-color: #FFFF00\'>5</span>19】【8460】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	");
 
 document.writeln("");
 document.writeln("<!--推广开始-->");

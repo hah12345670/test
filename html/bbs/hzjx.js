@@ -19,6 +19,23 @@ document.writeln("");
 
 
 
+
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>308期红字暗码【粗俗之辈】【06 27 32 41】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：原指庄稼人或佃农,现在更多指缺乏文化教养、行为、意识粗野庸俗的人。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：猪马龙牛鸡虎鼠<br>");
+document.writeln("主特14码：05.41.10.22.12.36.15.39.31.43.02.38.28.40");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
@@ -26,8 +43,8 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>307期红字暗码【色艺双绝】【09 14 24 38】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：姿色和技艺都绝无仅有，非常美妙。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：狗猪兔蛇虎猴鼠<br>");
-document.writeln("主特14码：06.30.17.41.25.49.11.23.26.38.20.44.16.28");
+document.writeln("解取特肖：狗猪兔蛇虎猴<span style=\'background-color: #FFFF00\'>鼠</span><br>");
+document.writeln("主特14码：06.30.17.41.25.49.11.23.26.38.20.44.<span style=\'background-color: #FFFF00\'>16</span>.28");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");

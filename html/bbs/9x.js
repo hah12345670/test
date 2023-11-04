@@ -37,70 +37,21 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>307期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>308期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("猴猪狗牛虎鸡鼠龙羊</span></td><td>");
+document.writeln("龙牛猪狗鼠羊虎鸡猴</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 document.writeln("");
 
 
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>305期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>307期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("蛇狗兔虎龙猴羊<span style=\'background-color: #FFFF00\'>马</span>鼠</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>马34</font>中</span></td></tr>");
+document.writeln("猴猪狗牛虎鸡<span style=\'background-color: #FFFF00\'>鼠</span>龙羊</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>鼠16</font>中</span></td></tr>");
 document.writeln("");
 
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>304期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("牛龙马兔猴鸡<span style=\'background-color: #FFFF00\'>鼠</span>狗羊</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>鼠28</font>中</span></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>302期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("狗牛猪鼠马兔龙<span style=\'background-color: #FFFF00\'>猴</span>虎</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>猴32</font>中</span></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>301期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("鸡猪狗龙蛇虎<span style=\'background-color: #FFFF00\'>兔</span>马鼠</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>兔25</font>中</span></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>300期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("马牛猴鸡羊蛇狗<span style=\'background-color: #FFFF00\'>龙</span>兔</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>龙36</font>中</span></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>299期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("蛇牛猪兔狗鼠猴<span style=\'background-color: #FFFF00\'>龙</span>鸡</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>龙24</font>中</span></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>298期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
-document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("<span style=\'background-color: #FFFF00\'>猴</span>羊龙鸡虎蛇猪狗兔</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>猴32</font>中</span></td></tr>");
-document.writeln("");
 
 
 document.writeln("");

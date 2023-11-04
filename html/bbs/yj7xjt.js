@@ -22,14 +22,13 @@ document.writeln("");
 
 
 
-
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		307期</font></th>");
+document.writeln("		308期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				马牛鼠兔蛇狗猪，合双大数中本期</font></th>");
+document.writeln("				猴鸡鼠龙虎马牛，合双小数中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
 document.writeln("				开？00</font></th>");
 document.writeln("			</tr>");
@@ -40,189 +39,17 @@ document.writeln("			</tr>");
 
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		304期</font></th>");
+document.writeln("		307期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				猴蛇羊<span style=\'background-color: #FFFF00\'>鼠</span>狗牛鸡，合单大数中本期</font></th>");
+document.writeln("				马牛<span style=\'background-color: #FFFF00\'>鼠</span>兔蛇狗猪，合双大数中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开鼠28</font></th>");
+document.writeln("				开鼠16</font></th>");
 document.writeln("			</tr>");
 
 
 
-
-
-document.writeln("<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		303期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				兔蛇马鸡猴狗<span style=\'background-color: #FFFF00\'>牛</span>，合单大数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开牛15</font></th>");
-document.writeln("			</tr>");
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		302期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				龙狗鸡鼠猪<span style=\'background-color: #FFFF00\'>猴</span>羊，<span style=\'background-color: #FFFF00\'>合单</span>小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开猴32</font></th>");
-document.writeln("			</tr>");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		301期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				蛇猪虎马鸡牛<span style=\'background-color: #FFFF00\'>兔</span>，<span style=\'background-color: #FFFF00\'>合单大数</span>中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开兔25</font></th>");
-document.writeln("			</tr>");
-
-
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		298期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				虎鸡马狗<span style=\'background-color: #FFFF00\'>猴</span>兔羊，<span style=\'background-color: #FFFF00\'>合单</span>小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开猴32</font></th>");
-document.writeln("			</tr>");
-
-
-
-
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		297期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<span style=\'font-size: 11pt\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>牛</span>鸡羊鼠龙猴猪，<span style=\'background-color: #FFFF00\'>合双</span>小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开牛39</font></th>");
-document.writeln("			</tr>");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		296期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				猪龙鼠<span style=\'background-color: #FFFF00\'>猴</span>马虎羊，合单小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开猴20</font></th>");
-document.writeln("			</tr>");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		295期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<span style=\'font-size: 11pt\'>");
-document.writeln("				<font color=\'#FF0000\'>鼠<span style=\'background-color: #FFFF00\'>猴</span>马鸡虎兔狗，合单<span style=\'background-color: #FFFF00\'>大数</span>中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开猴44</font></th>");
-document.writeln("			</tr>");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		294期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				猪羊鼠马狗牛<span style=\'background-color: #FFFF00\'>蛇</span>，<span style=\'background-color: #FFFF00\'>合单</span>小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开蛇35</font></th>");
-document.writeln("			</tr>	");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		293期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				猪蛇牛鸡龙<span style=\'background-color: #FFFF00\'>猴</span>虎，<span style=\'background-color: #FFFF00\'>合双</span>大数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开猴20</font></th>");
-document.writeln("			</tr>	");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		292期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				猴狗蛇牛虎龙鼠，<span style=\'background-color: #FFFF00\'>合单大数</span>中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开兔25</font></th>");
-document.writeln("			</tr>	");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		291期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				狗羊猪牛<span style=\'background-color: #FFFF00\'>龙</span>鸡马，合单小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开龙48</font></th>");
-document.writeln("			</tr>	");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		290期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				蛇兔鸡猴虎龙鼠，<span style=\'background-color: #FFFF00\'>合双</span>小数中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开狗42</font></th>");
-document.writeln("			</tr>	");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		289期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				蛇鸡猴鼠马兔狗，<span style=\'background-color: #FFFF00\'>合单小数</span>中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开羊21</font></th>");
-document.writeln("			</tr>	");
-document.writeln("			");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		288期</font></th>");
-document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("				<span style=\'text-decoration: none\'>");
-document.writeln("				<span style=\'font-size: 11pt\'>");
-document.writeln("				<font color=\'#FF0000\'>牛<span style=\'background-color: #FFFF00\'>蛇</span>鼠羊猴狗鸡，合双<span style=\'background-color: #FFFF00\'>小数</span>中本期</font></th>");
-document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开蛇23</font></th>");
-document.writeln("			</tr>	");
-document.writeln("");
-document.writeln("");
 
 document.writeln("");
 document.writeln("		");

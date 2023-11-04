@@ -40,16 +40,17 @@ document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
 document.writeln("			<font style=\'font-size: 13pt\'>308期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("更新中");
+document.writeln("风轻云淡蓝天空，城边树林绿萌萌");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天肖猪牛猴马兔龙。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
-document.writeln("			四肖：更新中<br>");
-document.writeln("			特码：更新中</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡猪牛猴马兔龙<br>");
+document.writeln("			四肖：鸡猪牛猴<br>");
+document.writeln("			特码：31.43.05.41.15.39.08.20.10.34.13.25.12.36</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
 
 
 document.writeln("<!--头部start-->");

@@ -20,6 +20,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("<!--结束-->");
+
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'center\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>309期【四字玄机】</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>三八左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
+document.writeln("&#10146;&#10146;推荐特肖:鼠牛蛇羊猪鸡<br>");
+document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
+document.writeln("04.28.15.39.23.47.21.33.05.41.31.43</font></b></font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+
+
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("  <tr>");
@@ -28,9 +45,9 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>五九前后</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:牛马猪龙狗蛇<br>");
+document.writeln("&#10146;&#10146;推荐特肖:牛马猪<span style=\'background-color: #FFFF00\'>龙</span>狗蛇<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("03.15.22.34.05.41.12.48.06.30.11.47</font></b></font></div>");
+document.writeln("03.15.22.34.05.41.12.<span style=\'background-color: #FFFF00\'>48</span>.06.30.11.47</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

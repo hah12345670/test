@@ -41,8 +41,11 @@ document.writeln("<b><font size=\"4\">306期:【大亨送彩】二肖四码开:<
 document.writeln("<br>【鸡兔】【<span style=\"background-color: #FFFF00\">28</span>.31.19.18】<br><br>");
 document.writeln("307期:【大亨送彩】二肖四码开:<span class=\"style2\">鼠16</span>错		");
 document.writeln("<br>【虎羊】【30.07.11.22】<br><br>");
-document.writeln("308期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
-document.writeln("<br>【蛇鸡】【16.12.01.04】</font></b><br><br>");
+document.writeln("308期:【大亨送彩】二肖四码开:<span class=\"style2\">龙48</span>错		");
+document.writeln("<br>【蛇鸡】【16.12.01.04】<br><br>");
+document.writeln("309期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【鸡兔】【03.33.38.11】</font></b><br><br>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

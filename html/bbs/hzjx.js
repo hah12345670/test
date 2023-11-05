@@ -19,6 +19,22 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>309期红字暗码【开路先锋】【08 15 28 37】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：一批不畏艰险、身先士卒、勇往直前为大家创造良好基础的先遣人员。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：猪狗虎兔龙马猴<br>");
+document.writeln("主特14码：17.41.30.42.02.38.13.49.12.36.22.34.08.44");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -27,7 +43,7 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>308期红字暗码【粗俗之辈】【06 27 32 41】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：原指庄稼人或佃农,现在更多指缺乏文化教养、行为、意识粗野庸俗的人。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：猪马龙牛鸡虎鼠<br>");
+document.writeln("解取特肖：猪马<span style=\'background-color: #FFFF00\'>龙</span>牛鸡虎鼠<br>");
 document.writeln("主特14码：05.41.10.22.12.36.15.39.31.43.02.38.28.40");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");

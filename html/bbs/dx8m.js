@@ -47,21 +47,21 @@ document.writeln("");
 document.writeln("");
 
 
-
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第309期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第310期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
-document.writeln("		主四肖：牛虎马羊<br>			");
-document.writeln("        博八码：15.27.02.38.34.46.21.33</font></b></td>");
+document.writeln("		主四肖：马羊狗猪<br>			");
+document.writeln("        博八码：22.34.21.33.06.30.05.41</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
 document.writeln("");
+
 
 
 document.writeln("    <!--开始-->   ");

@@ -32,7 +32,26 @@ document.writeln("");
 document.writeln("");
 
 
-
+document.writeln("      <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'隶书\'>");
+document.writeln("		<b>");
+document.writeln("		<font style=\'font-size: 14pt\'>310期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("    </tr>  ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'隶书\'>");
+document.writeln("		<b>");
+document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
+document.writeln("		本期绿单有特码<br>");
+document.writeln("		还有红双也不错<br>");
+document.writeln("		看好绿双一定防</font></b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+document.writeln("  ");
 
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -40,7 +59,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>309期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>309期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（鼠16）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -50,7 +69,7 @@ document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期绿单有特码<br>");
 document.writeln("		还有红单也不错<br>");
-document.writeln("		看好绿双一定防</font></b> </td>");
+document.writeln("		<span style=\'background-color: #FFFF00\'>看好绿双一定防</span></font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 document.writeln("  ");

@@ -46,7 +46,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第309期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴20虎14龙36兔49】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第310期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15鸡31蛇23羊45】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

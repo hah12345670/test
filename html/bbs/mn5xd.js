@@ -52,7 +52,9 @@ document.writeln("304期【猪狗羊鸡兔蛇<span style=\'background-color: #FF
 document.writeln("305期【羊虎蛇狗猪鼠兔鸡猴<span style=\'background-color: #FFFF00\'>马</span>】√<br>		");
 document.writeln("306期【猪马<span style=\'background-color: #FFFF00\'>鼠</span>鸡牛虎狗龙蛇羊】√<br>		");
 document.writeln("307期【狗龙兔猴虎<span style=\'background-color: #FFFF00\'>鼠</span>马鸡羊牛】√<br>		");
-document.writeln("308期【龙狗牛鸡马蛇猪羊鼠猴】√<br>		");
+document.writeln("308期【<span style=\'background-color: #FFFF00\'>龙</span>狗牛鸡马蛇猪羊鼠猴】√<br>		");
+document.writeln("309期【蛇虎鸡牛马羊猪猴龙狗】×<br>		");
+document.writeln("310期【鸡蛇马狗鼠虎兔猪龙牛】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -76,7 +78,9 @@ document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老二主四头】√</
 
 document.writeln("	306期【01<span style=\'background-color: #FFFF00\'>2</span>4头】√<br>		");
 document.writeln("	307期【3<span style=\'background-color: #FFFF00\'>1</span>40头】√<br>		");
-document.writeln("	308期【1430头】√<br>		");
+document.writeln("	308期【1<span style=\'background-color: #FFFF00\'>4</span>30头】√<br>		");
+document.writeln("	309期【034<span style=\'background-color: #FFFF00\'>1</span>头】√<br>		");
+document.writeln("	310期【1032头】√<br>		");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -93,7 +97,9 @@ document.writeln("304期【金火木<span style=\'background-color: #FFFF00\'>�
 document.writeln("305期【<span style=\'background-color: #FFFF00\'>土</span>木金水】√<br>			");
 document.writeln("306期【金<span style=\'background-color: #FFFF00\'>水</span>火木】√<br>			");
 document.writeln("307期【水<span style=\'background-color: #FFFF00\'>火</span>土木】√<br>			");
-document.writeln("308期【火木土金】√<br>			");
+document.writeln("308期【火木<span style=\'background-color: #FFFF00\'>土</span>金】√<br>			");
+document.writeln("309期【<span style=\'background-color: #FFFF00\'>水</span>土水金】√<br>			");
+document.writeln("310期【金火水木】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -115,7 +121,9 @@ document.writeln("	<br>");
 document.writeln("	305期【023198<span style=\'background-color: #FFFF00\'>4</span>6】√<br>	");
 document.writeln("	306期【<span style=\'background-color: #FFFF00\'>8</span>2135790】√<br>	");
 document.writeln("	307期【<span style=\'background-color: #FFFF00\'>6</span>1593827】√<br>	");
-document.writeln("	308期【10934785】√<br>	");
+document.writeln("	308期【109347<span style=\'background-color: #FFFF00\'>8</span>5】√<br>	");
+document.writeln("	309期【37285419】×<br>	");
+document.writeln("	310期【04398652】√<br>	");
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -128,20 +136,13 @@ document.writeln("<!--双波-->");
 document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老五主双波】√</font><font size=\'4\'><br>     ");
 document.writeln("");
 
-document.writeln("290期【<span style=\'background-color: #FFFF00\'>蓝波</span>绿波】√<br>  	");
-document.writeln("291期【绿波<span style=\'background-color: #FFFF00\'>蓝波</span>】√<br>  	");
-document.writeln("292期【绿波<span style=\'background-color: #FFFF00\'>蓝波</span>】√<br>  	");
-document.writeln("294期【蓝波<span style=\'background-color: #FFFF00\'>红波</span>】√<br>  	");
-document.writeln("295期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
-document.writeln("297期【红波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
-document.writeln("298期【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
-document.writeln("299期【<span style=\'background-color: #FFFF00\'>红波</span>绿波】√<br>  	");
-document.writeln("300期【<span style=\'background-color: #FFFF00\'>蓝波</span>绿波】√<br>  	");
-document.writeln("302期【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】√<br>  	");
+
 document.writeln("304期【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
 document.writeln("305期【蓝波<span style=\'background-color: #FFFF00\'>红波</span>】√<br>  	");
 document.writeln("307期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
-document.writeln("308期【蓝波绿波】√<br>  	");
+document.writeln("308期【<span style=\'background-color: #FFFF00\'>蓝波</span>绿波】√<br>  	");
+document.writeln("309期【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】√<br>  	");
+document.writeln("310期【红波绿波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

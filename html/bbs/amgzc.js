@@ -51,18 +51,18 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/309/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/310/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第309期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【名正言顺】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：指名分正当，说话合理。后多指做某事名义正当，道理也说得通。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第310期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【魔高一尺】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻说话夸大之极。同“一尺水翻腾做一丈波”。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鸡羊虎马牛鼠</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：马羊狗兔虎蛇</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
 
@@ -70,13 +70,14 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第307期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鼠16中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【此言差矣】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：言语错误。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第309期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鼠16中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【名正言顺】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：指名分正当，说话合理。后多指做某事名义正当，道理也说得通。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：虎<span style=\'background-color: #FFFF00\'>鼠</span>龙猴鸡羊</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鸡羊虎马牛<span style=\'background-color: #FFFF00\'>鼠</span></font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
+
 
 
 
@@ -90,33 +91,16 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/309/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/310/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第309期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【本期开个红蓝波】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第310期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝色一波藏绿机】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("	");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第306期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿28中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红红绿绿出双波】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第305期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红34中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【花红柳绿颜如花】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第303期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝15中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【本期开个红蓝波】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
+
 
 
 document.writeln("");

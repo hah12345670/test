@@ -51,40 +51,41 @@ document.writeln("      <td align=\'left\' height=42 bgcolor=\'#FFFF00\' ><p ali
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>309期<font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></td>");
+document.writeln("		<font color=\'#000000\'>310期<font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头平特一肖：狗狗狗（2.1倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>光头平特一肖：鸡鸡鸡（2.1倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头平特一尾：999（1.8倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>光头平特一尾：444（1.8倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>必中平码：06.30.29.49（2.1倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>必中平码：31.43.24.44（2.1倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头六肖中特：兔牛猴蛇狗鼠（2倍）开</font></font></b></td>");
+document.writeln("		<font color=\'#000000\'>光头六肖中特：虎鸡蛇鼠马狗（2倍）开</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("  ");
 document.writeln("     ");
 document.writeln("  ");
 document.writeln("    <!--结束--> ");
 document.writeln("  ");
+
 
 
 

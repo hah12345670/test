@@ -25,12 +25,13 @@ document.writeln("");
 
 
 
-
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	309期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>14.39.46.43.35</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	310期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>15.26.35.44.16</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+
+
 
 
 document.writeln("	<!--开始-->");

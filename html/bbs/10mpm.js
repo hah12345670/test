@@ -14,11 +14,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
+document.writeln("");
+document.writeln("310期：平码【36.49.27.33.31.39.28.25.29.21.13.15】<br>");
+document.writeln("");
+document.writeln("");
 
-document.writeln("");
-document.writeln("309期：平码【09.39.17.29.30.07.21.28.13.32.04.45】<br>");
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("308期：平码【<span style=\'background-color: #FFFF00\'>22</span>.20.<span style=\'background-color: #FFFF00\'>05</span>.12.<span style=\'background-color: #FFFF00\'>19</span>.25.39.01.43.21.31.18】<br>");
 document.writeln("");

@@ -17,10 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
 document.writeln("");
-document.writeln("309期：平特【兔羊拖马猪】开？00<br>");
+document.writeln("310期：平特【兔牛拖猪马】开？00<br>");
 document.writeln("------<br>");
+
+
 
 
 document.writeln("");

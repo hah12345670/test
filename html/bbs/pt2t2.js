@@ -18,7 +18,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("310期：平特【兔牛拖猪马】开？00<br>");
+document.writeln("311期：平特【鸡羊拖狗虎】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("310期：平特【<span style=\'background-color: #FFFF00\'>兔</span>牛拖<span style=\'background-color: #FFFF00\'>猪</span>马】开13.17<br>");
 document.writeln("------<br>");
 
 

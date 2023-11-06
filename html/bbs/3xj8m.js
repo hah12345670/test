@@ -3,30 +3,35 @@ document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'58\'><tbod
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=52><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#FFFF00\'>只赚三毛</font><font color=\'#FFFFFF\'>『七肖中特』</font></font></b></table>");
 document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("<!--开始 -->");
 document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
 document.writeln("			<tr>");
 document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>310期</font></b>七肖中特：62361a.com长期跟踪</td>");
+document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>311期</font></b>七肖中特：62361a.com长期跟踪</td>");
 document.writeln("			</tr>");
 document.writeln("						<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#F4F4F4\'>");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">羊鼠牛马猪猴虎</font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">鸡龙兔鼠羊马牛</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			");
 document.writeln("			<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#F4F4F4\'>");
 document.writeln("				<b>");
 document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#FF0000\' style=\"font-size: 13pt\">21.33.04.40.15.39.10.34.05.41.32.44.14.38</font></b></td>");
+document.writeln("				<font color=\'#FF0000\' style=\"font-size: 13pt\">19.31.12.48.25.37.04.28.21.33.34.46.03.15</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("							");
 document.writeln("						");
 document.writeln("</table> ");
 document.writeln("			");
 document.writeln("<!--结束 -->");
+
+
 
 document.writeln("");
 document.writeln("<!--开始 -->");

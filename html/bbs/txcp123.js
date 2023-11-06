@@ -110,7 +110,7 @@ document.writeln("				<b> ");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半面妆容】(3肖)</font></b></span><b><font color=\"#0000FF\"></b></font></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("		310期【羊猴龙】<br>		");
+document.writeln("		311期【龙鸡狗】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -119,8 +119,9 @@ document.writeln("");
 document.writeln("	      <!--左肖鼠牛龙蛇猴鸡  右肖虎兔马羊狗猪--> 			");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
-document.writeln("				309期【虎<span style=\'background-color: #FFFF00\'>鼠</span>+龙】？<br>				");
-document.writeln("				310期【鼠猴++牛】？<br>				");
+document.writeln("				309期【虎<span style=\'background-color: #FFFF00\'>鼠</span>+龙】<br>				");
+
+document.writeln("				311期【马兔+牛】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -137,8 +138,12 @@ document.writeln("				");
 document.writeln("				308期虎兔<span style=\'background-color: #FFFF00\'>龙</span><br>");
 document.writeln("				03.15.27.39<br>");
 document.writeln("				");
-document.writeln("				310期兔鼠鸡<br>");
+document.writeln("				310期<span style=\'background-color: #FFFF00\'>兔</span>鼠鸡<br>");
 document.writeln("				08.20.32.44<br>");
+document.writeln("				");
+document.writeln("				311期鼠鸡龙<br>");
+document.writeln("				14.26.08.20<br>");
+document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
 document.writeln("				<p><b><br>");
@@ -149,9 +154,10 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小情怀】(12码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("				310期<br>");
-document.writeln("				13.26.29.05.15.24<br>");
-document.writeln("				11.17.02.27.33.22<br>	");
+
+document.writeln("				311期<br>");
+document.writeln("				49.33.25.15.44.38<br>");
+document.writeln("				27.18.31.09.10.24<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -181,9 +187,9 @@ document.writeln("");
 document.writeln("				</font> 	");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
-document.writeln("				305期【鼠<span style=\'background-color: #FFFF00\'>马</span>兔鸡】<br>				");
-document.writeln("				306期【<span style=\'background-color: #FFFF00\'>鼠</span>马兔鸡】<br>				");
-document.writeln("				310期【羊马猪狗】<br>				");
+
+
+document.writeln("				311期【蛇羊鼠兔】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -196,9 +202,14 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【归彩】(8码)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 document.writeln("		    ");
-document.writeln("				310期？<br>");
-document.writeln("				【26.13.06.09】<br>");
+document.writeln("				310期开兔13<br>");
+document.writeln("				【26.<span style=\'background-color: #FFFF00\'>13</span>.06.09】<br>");
 document.writeln("				【16.27.14.21】<br>				");
+document.writeln("				");
+document.writeln("		    ");
+document.writeln("				311期？<br>");
+document.writeln("				【05.14.07.46】<br>");
+document.writeln("				【19.08.34.18】<br>				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -212,7 +223,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【自�
 document.writeln("		    ");
 
 document.writeln("		    ");
-document.writeln("				310期<br>");
+document.writeln("				311期<br>");
 document.writeln("			（08.25.17.15.11）<br>");
 document.writeln("			（31.24.35.05.33）<br>	");
 document.writeln("				");
@@ -224,7 +235,7 @@ document.writeln("			  <!--春肖兔虎龙 夏肖蛇马羊 秋肖猴鸡狗  冬�
 document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		    ");
-document.writeln("				310期猴羊牛+马<br>				");
+document.writeln("				311期鼠猴蛇+羊<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

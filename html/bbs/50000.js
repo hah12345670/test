@@ -62,10 +62,16 @@ document.writeln("比放在银行利息高几十倍！也比炒股票更赚钱�
 
 
 
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("311-313期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("308-310期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("308-310期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>310期中中中！</font>");
 document.writeln("");
 
 
@@ -130,7 +136,11 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("310-312期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("311-313期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("");
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("310-312期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>310期中中中！</font>");
 document.writeln("");
 
 

@@ -36,7 +36,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
 document.writeln("      <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -47,10 +46,10 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("308-310期<font style=\'font-size: 14pt\'>【11.35.47】</font>第?0期中</span></font></font></b></td>");
+document.writeln("311-313期<font style=\'font-size: 14pt\'>【25.37.49】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
-document.writeln("");
+
 
 document.writeln("      <!--开始-->");
 document.writeln("    ");

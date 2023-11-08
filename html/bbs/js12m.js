@@ -34,6 +34,7 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 
 document.writeln("           <!--开始-->");
 document.writeln("    <tr>");
@@ -41,7 +42,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>311期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【30.49.18.03.44.25.24.01.12.09.17.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>312期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【13.44.28.15.04.02.05.07.31.01.26.23】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 
@@ -66,79 +67,6 @@ document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 
 
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>307期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【28.44.45.03.02.32.19.37.49.18.22.41】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>16√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>305期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【31.13.16.28.01.35.22.38.21.11.23.40】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>34√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-document.writeln("     ");
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>304期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【46.20.25.06.12.41.01.19.11.22.38.24】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-document.writeln("     ");
-
-
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>303期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【31.41.29.12.23.10.27.19.37.47.14.03】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>15√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-document.writeln("     ");
-
-
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>302期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【35.33.29.27.12.43.23.49.42.04.41.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>32√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-document.writeln("     ");
-
-
-
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>301期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【17.27.13.10.44.20.19.36.07.42.43.33】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>25√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-document.writeln("     ");
 
 
 

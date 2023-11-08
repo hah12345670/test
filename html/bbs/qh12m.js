@@ -46,14 +46,17 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第311期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第312期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
+
+
 
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");

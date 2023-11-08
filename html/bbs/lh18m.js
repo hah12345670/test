@@ -42,10 +42,27 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>311期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>312期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		</font> <font color=\'#008000\'>");
+document.writeln("		【10.14.12.41.30.16.22.27.18】<br>");
+document.writeln("		【28.23.11.19.01.20.48.39.31】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+
+
+
+document.writeln("   <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>311期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>狗30</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
 document.writeln("		【09.08.33.27.03.39.11.34.28】<br>");
-document.writeln("		【44.22.04.07.14.31.47.40.30】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【44.22.04.07.14.31.47.40.<span style=\'background-color: #FFFF00\'>30</span>】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");

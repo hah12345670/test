@@ -21,120 +21,18 @@ document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("311期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("312期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
-document.writeln("（41.01.02.38.04.42.20.30.11.24.43.19）<br>");
-document.writeln("（10.26.15.07.33.23.08.35.44.28.37.45）</span></font></p>");
+document.writeln("（05.34.37.02.09.36.28.15.12.42.21.20）<br>");
+document.writeln("（17.13.24.22.41.10.03.07.44.48.23.11）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");
-
-
-
-document.writeln("<!-----开始----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("309期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>鼠16</span></font></font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("");
-document.writeln("（03.40.07.<span style=\'background-color: #FFFF00\'>16</span>.05.14.06.43.18.42.45.30）<br>");
-document.writeln("（23.29.01.34.13.19.17.27.37.12.26.09）</span></font></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-document.writeln("");
-
-document.writeln("<!-----开始----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("307期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>鼠16</span></font></font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("");
-document.writeln("（20.41.06.23.09.25.38.26.19.37.29.33）<br>");
-document.writeln("（<span style=\'background-color: #FFFF00\'>16</span>.01.17.12.48.47.32.45.11.18.42.03）</span></font></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-document.writeln("");
-document.writeln("");
-
-document.writeln("<!-----开始----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("305期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>马34</span></font></font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("");
-document.writeln("（47.04.16.26.23.40.21.18.13.05.45.02）<br>");
-document.writeln("（43.44.27.36.07.31.06.19.09.10.<span style=\'background-color: #FFFF00\'>34</span>.35）</span></font></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<!-----开始----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("304期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>鼠28</span></font></font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("");
-document.writeln("（44.06.15.07.37.33.08.17.19.11.39.49）<br>");
-document.writeln("（38.43.31.16.13.21.22.27.34.35.<span style=\'background-color: #FFFF00\'>28</span>.20）</span></font></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-
-
-document.writeln("<!-----开始----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("300期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("");
-document.writeln("（32 48 06 <span style=\'background-color: #FFFF00\'>36</span> 42 38 43 21 20 15 30 10）<br>");
-document.writeln("（46 40 03 02 37 22 26 28 25 19 12 27）</span></font></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-document.writeln("");
-document.writeln("");
-
 
 
 

@@ -20,7 +20,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>311期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（虎猴狗马）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（猪鸡蛇兔）</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>312期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（猴马龙鼠）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（猪羊蛇兔）</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>311期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（虎猴<span style=\'background-color: #FFFF00\'>狗</span>马）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（猪鸡蛇兔）</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
@@ -37,53 +43,6 @@ document.writeln("	<font color=\'#0000FF\' size=\'4\'>308期</font><font color=\
 document.writeln("		<!--结束-->");
 document.writeln("		");
 
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>306期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（龙狗马<span style=\'background-color: #FFFF00\'>鼠</span>）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（蛇羊兔鸡）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>305期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（虎龙狗<span style=\'background-color: #FFFF00\'>马</span>）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（蛇兔羊猪）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>304期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（龙猴<span style=\'background-color: #FFFF00\'>鼠</span>马）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（牛兔猪羊）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>303期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（鼠猴狗马）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（兔鸡猪<span style=\'background-color: #FFFF00\'>牛</span>）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>302期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（鼠<span style=\'background-color: #FFFF00\'>猴</span>虎牛）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（蛇兔羊鸡）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>301期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（鼠猴虎牛）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（<span style=\'background-color: #FFFF00\'>兔</span>羊猪鸡）</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
 
 
 

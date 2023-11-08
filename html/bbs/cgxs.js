@@ -30,6 +30,20 @@ document.writeln("    <!--结束-->  ");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font color=\'#000000\'>312期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【龙猴蛇鸡猪】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
+
 
 document.writeln("<!--开始-->");
 document.writeln("    ");
@@ -38,7 +52,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>311期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【猴龙猪羊马】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>311期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【猴龙猪羊马】</font><font color=\'#000000\'>开狗30准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");

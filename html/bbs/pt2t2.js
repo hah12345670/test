@@ -16,9 +16,12 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("312期：平特【虎马拖鼠猴】开？00<br>");
+document.writeln("------<br>");
+
+
 document.writeln("");
-document.writeln("");
-document.writeln("311期：平特【鸡羊拖狗虎】开？00<br>");
+document.writeln("311期：平特【鸡<span style=\'background-color: #FFFF00\'>羊</span>拖<span style=\'background-color: #FFFF00\'>狗虎</span>】开21.30.42.02<br>");
 document.writeln("------<br>");
 
 

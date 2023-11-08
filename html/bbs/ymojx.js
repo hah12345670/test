@@ -22,7 +22,17 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62361c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第312期幽默猜测</font><font color=\'#FF0000\'>（冬天)</font><font color=\'#000000\'>寒冬，一哥们站在楼道口，穿着大裤衩和拖鞋，看着满地的积雪，惊讶说地喊道：“晕，什么时候冬天了？”.........本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：冬天解马狗鸡蛇虎猴</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：马狗鸡蛇虎猴</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
@@ -31,7 +41,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鼠龙狗马牛虎</font></b></div>");
+document.writeln("	综合特肖：鼠龙<span style=\"background-color: #FFFF00\">狗</span>马牛虎</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

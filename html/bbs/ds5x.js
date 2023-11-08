@@ -15,11 +15,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>312期</font><font color=\'#006600\'>【鼠马狗虎猴】【兔蛇羊猪牛】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>311期</font><font color=\'#006600\'>【猴狗马龙虎】【羊猪牛兔蛇】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>311期</font><font color=\'#006600\'>【猴<span style=\'background-color: #FFFF00\'>狗</span>马龙虎】【羊猪牛兔蛇】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("		");
@@ -66,44 +72,6 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>304期</font><font color=\'#006600\'>【马狗猴虎<span style=\'background-color: #FFFF00\'>鼠</span>】【羊猪兔鸡牛】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>302期</font><font color=\'#006600\'>【虎狗<span style=\'background-color: #FFFF00\'>猴</span>龙马】【牛鸡羊蛇兔】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>301期</font><font color=\'#006600\'>【狗马龙鼠虎】【羊鸡蛇<span style=\'background-color: #FFFF00\'>兔</span>猪】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>300期</font><font color=\'#006600\'>【<span style=\'background-color: #FFFF00\'>龙</span>鼠马狗虎】【兔猪蛇羊鸡】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>299期</font><font color=\'#006600\'>【<span style=\'background-color: #FFFF00\'>龙</span>鼠马猴虎】【兔猪蛇羊牛】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>298期</font><font color=\'#006600\'>【狗<span style=\'background-color: #FFFF00\'>猴</span>龙鼠虎】【蛇羊鸡兔猪】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("		");
 

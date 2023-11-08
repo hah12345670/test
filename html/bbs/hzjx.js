@@ -18,6 +18,23 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>312期红字暗码【风流佳话】【01 24 33 42】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：有关男女相爱婚配之类的好事或趣事。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：蛇猪兔狗牛鼠龙<br>");
+document.writeln("主特14码：23.47.05.41.13.49.18.30.15.39.04.40.12.48");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
+
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -26,8 +43,8 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>311期红字暗码【摆老资格】【05 16 30 42】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：以阅历多或地位高等而摆架子。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：狗羊虎龙猴兔<br>");
-document.writeln("主特14码：18.30.21.33.02.38.12.36.20.44.13.49");
+document.writeln("解取特肖：<span style=\'background-color: #FFFF00\'>狗</span>羊虎龙猴兔<br>");
+document.writeln("主特14码：18.<span style=\'background-color: #FFFF00\'>30</span>.21.33.02.38.12.36.20.44.13.49");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");

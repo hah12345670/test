@@ -27,7 +27,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>311期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀魏】</font><font size=\'4\'>开？00准</font></b></font></table>");
+document.writeln("	<font size=\'4\'>312期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀吴】</font><font size=\'4\'>开？00准</font></b></font></table>");
+document.writeln("		");
+document.writeln("		<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
+document.writeln("	<font size=\'4\'>311期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀<span style=\'background-color: #FFFF00\'>魏</span>】</font><font size=\'4\'>开狗30准</font></b></font></table>");
 document.writeln("		");
 document.writeln("		<!--开始-->");
 
@@ -46,64 +53,6 @@ document.writeln("	<font size=\'4\'>309期三国中特</font><font color=\'#FF00
 document.writeln("		");
 document.writeln("		<!--开始-->");
 
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>307期三国中特</font><font color=\'#FF0000\' size=\'5\'>【吴<span style=\'background-color: #FFFF00\'>魏</span>】</font><font size=\'4\'>开鼠16准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>306期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀<span style=\'background-color: #FFFF00\'>魏</span>】</font><font size=\'4\'>开鼠28准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>304期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀<span style=\'background-color: #FFFF00\'>魏</span>】</font><font size=\'4\'>开鼠28准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>303期三国中特</font><font color=\'#FF0000\' size=\'5\'>【吴<span style=\'background-color: #FFFF00\'>魏</span>】</font><font size=\'4\'>开牛15准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>302期三国中特</font><font color=\'#FF0000\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>蜀</span>魏】</font><font size=\'4\'>开猴32准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>301期三国中特</font><font color=\'#FF0000\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>吴</span>魏】</font><font size=\'4\'>开兔25准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>300期三国中特</font><font color=\'#FF0000\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>吴</span>蜀】</font><font size=\'4\'>开龙36准</font></b></font></table>");
-document.writeln("		");
-document.writeln("		<!--开始-->");
 
 
 

@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("312期：平码【32.03.40.34.07.30.02.25.46.06.33.13】<br>");
+document.writeln("313期：平码【10.19.26.39.30.22.12.05.13.21.36.41】<br>");
 
 
 document.writeln("");

@@ -29,12 +29,29 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/312/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.qingxinmingxiang.com:4949/col/313/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 document.writeln("");
+
+
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第313期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（卖定秀才有钱收）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：卖定秀才有钱收解鸡鼠羊虎兔蛇。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：鸡鼠羊虎兔蛇</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
+document.writeln("");
+
 
 
 document.writeln("              <!--开始--> ");
@@ -47,7 +64,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：一代明君功千秋解羊马虎龙鸡猪。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：虎猪羊龙鸡鼠</font></b></td>");
+document.writeln("		综合特码：虎<span style=\'background-color: #FFFF00\'>猪</span>羊龙鸡鼠</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");

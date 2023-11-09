@@ -23,7 +23,16 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("312期<font color=\'#FF0000\'>平猪→猪蛇(2连)→猪蛇鸡(3连)</font></font></b></font></table>");
+document.writeln("313期<font color=\'#FF0000\'>平龙→龙猴(2连)→龙猴牛(3连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("312期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>猪</span>→猪蛇(2连)→<span style=\'background-color: #FFFF00\'>猪</span>蛇<span style=\'background-color: #FFFF00\'>鸡</span>(3连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

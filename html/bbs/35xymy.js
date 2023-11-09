@@ -32,11 +32,14 @@ document.writeln("			特码：更新中</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>312期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>313期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -44,6 +47,21 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>312期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天下和平家家好，山绿水秀处处春");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：家肖牛马羊鸡狗猪。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛马羊鸡狗<span style=\'background-color: #FFFF00\'>猪</span>虎<br>");
+document.writeln("			四肖：牛马羊鸡<br>");
+document.writeln("			特码：15.39.10.34.21.33.31.43.06.42.17.41.14.38</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

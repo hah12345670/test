@@ -43,10 +43,25 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第312期：天方夜谭<Br></font>  ");
+document.writeln("		<font color=\'#FF0000\'>第313期：大地之春<Br></font>  ");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
 document.writeln("		解：关注62103b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("               <!--开始--> ");
+
+
+
+document.writeln("                               <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
+document.writeln("		<font color=\'#FF0000\'>第312期：天方夜谭<Br></font>  ");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
+document.writeln("		解：天肖，夜肖（猪05）</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("               <!--开始--> ");

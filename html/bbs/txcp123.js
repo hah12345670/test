@@ -111,7 +111,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半�
 document.writeln("		    ");
 
 document.writeln("		311期【龙鸡<span style=\'background-color: #FFFF00\'>狗</span>】<br>		");
-document.writeln("		312期【龙羊鼠】<br>		");
+document.writeln("		313期【狗牛羊】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -121,7 +121,7 @@ document.writeln("	      <!--左肖鼠牛龙蛇猴鸡  右肖虎兔马羊狗猪-
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
-document.writeln("				312期【鼠鸡+龙】<br>				");
+document.writeln("				313期【牛狗+马】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -134,8 +134,8 @@ document.writeln("		");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神经】(3肖4码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 
-document.writeln("				312期牛羊蛇<br>");
-document.writeln("				24.36.48.11<br>");
+document.writeln("				313期蛇龙鼠<br>");
+document.writeln("				02.38.17.41<br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -148,9 +148,9 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小�
 document.writeln("		    ");
 
 
-document.writeln("				312期<br>");
-document.writeln("				24.26.06.35.07.15<br>");
-document.writeln("				30.16.10.41.21.29<br>	");
+document.writeln("				313期<br>");
+document.writeln("				01.48.37.42.17.41<br>");
+document.writeln("				08.27.13.22.39.05<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -182,7 +182,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("				312期【蛇鸡鼠牛】<br>				");
+document.writeln("				313期【鼠马兔鸡】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -194,15 +194,11 @@ document.writeln("	  <!--大肖牛羊马猪虎狗  小肖鼠龙蛇猴兔鸡--> 	
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【归彩】(8码)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
+
 document.writeln("		    ");
-document.writeln("				310期开兔13<br>");
-document.writeln("				【26.<span style=\'background-color: #FFFF00\'>13</span>.06.09】<br>");
-document.writeln("				【16.27.14.21】<br>				");
-document.writeln("				");
-document.writeln("		    ");
-document.writeln("				312期？<br>");
-document.writeln("				【33.30.10.26】<br>");
-document.writeln("				【47.18.11.07】<br>				");
+document.writeln("				313期？<br>");
+document.writeln("				【16.27.08.35】<br>");
+document.writeln("				【01.14.32.40】<br>				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -216,9 +212,9 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【自�
 document.writeln("		    ");
 
 document.writeln("		    ");
-document.writeln("				312期<br>");
-document.writeln("			（22.25.04.32.34）<br>");
-document.writeln("			（03.11.16.01.38）<br>	");
+document.writeln("				313期<br>");
+document.writeln("			（31.12.28.23.22）<br>");
+document.writeln("			（27.09.40.21.32）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -228,7 +224,7 @@ document.writeln("			  <!--春肖兔虎龙 夏肖蛇马羊 秋肖猴鸡狗  冬�
 document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		    ");
-document.writeln("				312期虎牛鸡+猴<br>				");
+document.writeln("				313期猴龙猪+鸡<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

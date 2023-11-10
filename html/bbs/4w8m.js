@@ -21,7 +21,7 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>313期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("<span style=\'color: #00F;\'>314期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
 document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
@@ -30,9 +30,10 @@ document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【2尾:22.42】");
 document.writeln("【9尾:29.39】<br>");
 document.writeln("【1尾:21.31】");
-document.writeln("【8尾:08.38】</span></p>");
+document.writeln("【0尾:10.30】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
+
 
 
 

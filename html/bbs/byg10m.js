@@ -46,7 +46,7 @@ document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; font-weight: 700\">七码</span></td>");
 document.writeln("		<td align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><font size=\"5\">已更新在75879b.com，进入查看 </font></b></td>");
+document.writeln("		<b><font size=\"5\">32.31.33.35.26.24.22</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    </tbody> ");

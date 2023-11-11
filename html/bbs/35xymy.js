@@ -34,12 +34,11 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
-
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>314期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>315期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -47,6 +46,23 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>314期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("羊前猪后混一谈，秋风不敢三四晚");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：虎龙猪鼠牛羊蛇。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>虎</span>龙猪鼠牛羊蛇<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>虎</span>龙猪鼠<br>");
+document.writeln("			特码：02.38.12.36.05.41.04.40.15.39.21.33.11.23</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("314期：平码【48.20.07.45.38.23.30.37.44.27.40.15】<br>");
+document.writeln("315期：平码【31.33.45.11.23.14.08.28.15.12.41.20】<br>");
 
 
 

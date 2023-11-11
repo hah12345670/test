@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/314/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/315/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,6 +25,7 @@ document.writeln(" <span class=\'bizhong123-btn bizhong123-next\' onclick=\'next
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/315/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/314/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/313/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/312/ammh.jpg\',");
@@ -33,18 +34,9 @@ document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/310/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/309/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/308/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/307/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/306/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/305/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/304/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/303/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/302/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/301/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/300/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/299/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/298/ammh.jpg\',");
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/297/ammh.jpg\',");
 
-document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/273/ammh.jpg\'");
+
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/306/ammh.jpg\'");
 document.writeln(");");
 document.writeln("    var indexsbx=0;");
 document.writeln("    function nextsbx(){");

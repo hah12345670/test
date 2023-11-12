@@ -25,21 +25,24 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>315期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>316期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>狗看鼠门最能干，大蛇咬人牙最毒</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>三思而行看月兔，头戴凤冠姿多娆</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖狗鼠蛇。门看木肖虎兔。大解大肖鼠牛虎兔龙蛇。心水诗大意是什么样的动物有什么样的技能，综合得主狗鼠蛇牛防龙兔虎马羊</font></div>");
+document.writeln("			解析:预先解明肖兔鸡，三解三位虎三岁牛，月偏看阴肖鼠龙马蛇狗猪。综合得主兔鸡牛鼠防龙马蛇狗猪 </font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：狗鼠蛇牛龙兔<br>");
-document.writeln("	特码：18.30.04.40.23.47.15.39.24.48.13.49</font></b></div>");
+document.writeln("	解特肖：兔鸡牛鼠马蛇<br>");
+document.writeln("	特码：13.25.19.43.27.39.04.40.22.34.11.23</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

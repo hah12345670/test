@@ -15,8 +15,12 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 
+
 document.writeln("");
-document.writeln("315期：平码【31.33.45.11.23.14.08.28.15.12.41.20】<br>");
+document.writeln("316期：平码【24.12.39.21.49.34.30.22.04.05.25.07】<br>");
+
+document.writeln("");
+document.writeln("315期：平码【31.33.45.11.23.14.08.28.15.12.<span style=\"background-color: #FFFF00\">41</span>.20】<br>");
 
 
 

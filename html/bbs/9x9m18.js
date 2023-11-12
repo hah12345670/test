@@ -30,17 +30,18 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 document.writeln("");
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong5\'>");
 document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62361a.com）九肖九码</div>");
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>315期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鸡牛马猴鼠狗羊虎蛇</font></li>");
-document.writeln("            	<li><font size=\'3\'>315期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鸡牛马猴鼠狗羊</font></li>");
-document.writeln("            	<li><font size=\'3\'>315期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鸡牛马猴鼠</font></li>");
-document.writeln("            	<li><font size=\'2\'>315期必中18码：</font><font size=\'2\' color=\'#FF0000\'>31.43.03.15.22.34.08.20.04.40.30.42.21.45.01.38.23.35</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>315期必中九码：</font><font size=\'2\' color=\'#FF0000\'>31.03.22.08.40.30.21.01.23</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>316期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>羊猴狗兔蛇鼠马虎龙</font></li>");
+document.writeln("            	<li><font size=\'3\'>316期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊猴狗兔蛇鼠马</font></li>");
+document.writeln("            	<li><font size=\'3\'>316期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊猴狗兔蛇</font></li>");
+document.writeln("            	<li><font size=\'2\'>316期必中18码：</font><font size=\'2\' color=\'#FF0000\'>09.33.08.20.18.30.13.49.11.23.28.40.10.34.26.38.24.36</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>316期必中九码：</font><font size=\'2\' color=\'#FF0000\'>31.08.18.13.11.28.10.38.36</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
@@ -51,6 +52,7 @@ document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>315
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
+
 
 document.writeln("");
 document.writeln("<!--必中每期开始-->");

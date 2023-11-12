@@ -25,6 +25,8 @@ document.writeln(" <span class=\'bizhong123-btn bizhong123-next\' onclick=\'next
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/316/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/315/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/314/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/313/ammh.jpg\',");

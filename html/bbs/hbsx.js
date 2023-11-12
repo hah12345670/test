@@ -52,9 +52,21 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>315期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【白肖+蛇马】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>316期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【黑肖+鼠牛】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
+
+document.writeln("   <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>315期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【<span style=\'background-color: #FFFF00\'>白肖</span>+蛇马】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猪29</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");

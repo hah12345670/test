@@ -33,23 +33,26 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第315期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第316期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    猴08.20牛15.39兔25.49<br>");
-document.writeln("		马10.46龙24.36鼠04.40<br>");
-document.writeln("		鸡31.43狗06.30蛇11.23<br>");
+document.writeln("	    鼠04.16蛇23.35鸡19.43<br>");
+document.writeln("		兔25.37狗18.42猴08.20<br>");
+document.writeln("		羊21.45龙12.24牛15.39<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
+
 document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");

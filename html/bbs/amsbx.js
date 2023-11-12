@@ -26,6 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
 
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/317/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/316/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/315/amsbx.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/314/amsbx.jpg\',");

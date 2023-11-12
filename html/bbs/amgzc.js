@@ -57,6 +57,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第317期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【五花八门】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻事物繁多，变化莫测。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇虎羊鼠兔猪</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("");
+
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -64,7 +76,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【欢天喜地】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：形容非常高兴。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔蛇羊鸡龙猴</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔蛇羊鸡<span style=\'background-color: #FFFF00\'>龙</span>猴</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
 

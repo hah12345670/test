@@ -41,13 +41,27 @@ document.writeln("		    </tr>");
 document.writeln("		    ");
 document.writeln("");
 document.writeln("");
+
 document.writeln("             <!--开始-->");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【龙蛇】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">314-319期(000期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【马蛇】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">317-322期(000期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		</span>  ");
+document.writeln("		 ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("");
+
+document.writeln("             <!--开始-->");
+document.writeln("		<tr>");
+document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【</font><font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font><font color=\'#FF0000\' size=\'4\'>蛇】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">314-319期(316期开龙48)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
 document.writeln("		</span>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");

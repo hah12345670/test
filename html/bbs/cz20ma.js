@@ -17,13 +17,28 @@ document.writeln("<font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'
 document.writeln("");
 document.writeln("");
 
+
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<font color=\'#FF00FF\'>317期内幕传真20码开？00</font><br> ");
+document.writeln("特码玄167 305(兔37)11+22=?   <br>特码：多情却似总无情，唯觉尊前笑不成。<br>");
+document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
+document.writeln("31 05 03 44 49 42 01 35 34 09<br>   ");
+document.writeln("37 38 06 29 23 33 14 45 40 12</font> </p>         ");
+document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
+document.writeln("  <tbody><tr>");
+document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
+document.writeln("</td>");
+document.writeln("  <!--结束-->");
+
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>316期内幕传真20码开？00</font><br> ");
 document.writeln("特码玄169 247(马34)12+26=?   <br>特码：好雨滋润万木荣，有雨云头腾蛟龙。<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("18 36 01 40 25 14 35 24 48 46<br>   ");
+document.writeln("18 36 01 40 25 14 35 24 <span style=\'background-color: #FFFF00\'>48</span> 46<br>   ");
 document.writeln("42 07 45 08 05 41 16 39 10 43</font> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");

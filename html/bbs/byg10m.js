@@ -1,6 +1,6 @@
 ﻿document.writeln("<div style=\'display:none\'>");
 document.writeln("");
-document.writeln("</div>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--台湾推广-->");
@@ -98,3 +98,4 @@ document.writeln("");
 document.writeln("    ");
 document.writeln("</body>");
 document.writeln("");
+document.writeln("</div>");

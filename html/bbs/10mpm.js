@@ -17,7 +17,10 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("316期：平码【24.12.39.21.49.34.30.22.04.05.25.07】<br>");
+document.writeln("317期：平码【31.14.33.07.11.21.06.49.13.39.47.20】<br>");
+
+document.writeln("");
+document.writeln("316期：平码【24.12.<span style=\"background-color: #FFFF00\">39</span>.21.49.34.30.22.04.05.25.07】<br>");
 
 document.writeln("");
 document.writeln("315期：平码【31.33.45.11.23.14.08.28.15.12.<span style=\"background-color: #FFFF00\">41</span>.20】<br>");

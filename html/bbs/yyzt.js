@@ -26,9 +26,17 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>317期一语中特【登山越岭】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是形容长途跋涉，旅途艰辛。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡牛虎羊鼠猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>316期一语中特【动荡不定】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：荡：摇动。动荡摇摆，不安定。形容局势不稳定，不平静</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎牛猴兔鸡龙开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎牛猴兔鸡<span style=\'background-color: #FFFF00\'>龙</span>开龙48准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -128,9 +136,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>317期一语中特【天府之国】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指形势险固、土地肥沃、物产丰富的地方</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊蛇猪虎牛狗开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>315期一语中特【冬残春近】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：冬天即将过去,春天就要到来了。形容时光流逝</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔牛鸡猪虎狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔牛鸡<span style=\'background-color: #FFFF00\'>猪</span>虎狗开猪29准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

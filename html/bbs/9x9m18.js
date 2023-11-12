@@ -41,14 +41,14 @@ document.writeln("            	<li><font size=\'3\'>316期必中九肖：</font>
 document.writeln("            	<li><font size=\'3\'>316期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>羊猴狗兔蛇鼠马</font></li>");
 document.writeln("            	<li><font size=\'3\'>316期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>羊猴狗兔蛇</font></li>");
 document.writeln("            	<li><font size=\'2\'>316期必中18码：</font><font size=\'2\' color=\'#FF0000\'>09.33.08.20.18.30.13.49.11.23.28.40.10.34.26.38.24.36</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>316期必中九码：</font><font size=\'2\' color=\'#FF0000\'>31.08.18.13.11.28.10.38.36</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>316期必中九码：</font><font size=\'2\' color=\'#FF0000\'>33.08.18.13.11.28.10.38.36</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>315期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>鸡31</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>316期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>羊33</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");

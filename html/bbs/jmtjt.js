@@ -48,7 +48,7 @@ document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字6128尾或者解特蛇鸡猪牛羊狗兔猴龙</font></b></td>");
+document.writeln("		解：数字8576尾或者解特蛇鸡猪牛羊狗兔猴龙</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

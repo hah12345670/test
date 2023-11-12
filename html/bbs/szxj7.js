@@ -31,7 +31,7 @@ document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#0
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
 document.writeln("&#10146;&#10146;推荐特肖:龙牛鸡鼠狗兔<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("20.44.05.17.06.30.12.36.21.33</font></b></font></div>");
+document.writeln("12.36.03.27.07.43.28.40.06.30.25.37</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
@@ -46,7 +46,7 @@ document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#0
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
 document.writeln("&#10146;&#10146;推荐特肖:猴<span style=\'background-color: #FFFF00\'>猪</span>狗马龙羊<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("20.44.05.17.06.30.12.36.21.33</font></b></font></div>");
+document.writeln("20.44.05.17.06.30.10.34.12.36.21.33</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

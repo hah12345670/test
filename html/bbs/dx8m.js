@@ -56,7 +56,7 @@ document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
 document.writeln("		主四肖：马羊狗牛<br>			");
-document.writeln("        博八码：14.26.10.34.21.33.18.30</font></b></td>");
+document.writeln("        博八码：22.34.33.45.06.18.15.27</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");

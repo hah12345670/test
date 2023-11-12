@@ -187,7 +187,7 @@ document.writeln("		四肖：牛兔鸡猴<br><Br>			");
 document.writeln("");
 document.writeln("");
 document.writeln("                   <font color=\"#FF0000\">（315期）</font></b><Br>");
-document.writeln("		<b>六肖【猪鼠蛇猴马羊】<br>		");
+document.writeln("		<b>六肖【<span style=\'background-color: #FFFF00\'>猪</span>鼠蛇猴马羊】<br>		");
 document.writeln("		四肖：鼠蛇猴马<br><Br>			");
 document.writeln("");
 document.writeln("");
@@ -430,13 +430,6 @@ document.writeln("			<tr>");
 document.writeln("			<td height=\'46\'>");
 document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>316期：独平</font><font color=\'#FF0000\' size=\'5\'>【猴08】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>315期：独平</font><font color=\'#FF0000\' size=\'5\'>【蛇23】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
 
 document.writeln("");
 document.writeln("			<tr>");

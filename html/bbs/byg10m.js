@@ -46,7 +46,7 @@ document.writeln("313期:<font color=\"#008080\">三肖中特</font>『鸡猪羊
 document.writeln("314期:<font color=\"#008080\">三肖中特</font>『<span style=\"background-color: #FFFF00\">虎</span>马牛』<font color=\"#FF0000\">开:虎26准</font><br>");
 document.writeln("315期:<font color=\"#008080\">三肖中特</font>『牛羊鸡』</font><font color=\"#FF0000\" style=\"font-size: 14pt\">开:猪29错</font></b><br>");
 document.writeln("");
-document.writeln("316期:<font color=\"#008080\">三肖中特</font>『已更新在86281b.com 高手榜』</font><font color=\"#FF0000\" style=\"font-size: 14pt\">开:0000准</font></b><br>");
+document.writeln("316期:<font color=\"#008080\">三肖中特</font>『羊鸡牛』</font><font color=\"#FF0000\" style=\"font-size: 14pt\">开:0000准</font></b><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("    </tr>");

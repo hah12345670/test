@@ -40,7 +40,7 @@ document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
 document.writeln("				<span style=\'background-color: #FFFF00\'>猪</span>蛇狗牛马兔猴，合双<span style=\'background-color: #FFFF00\'>大数</span>中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开？00</font></th>");
+document.writeln("				开猪29</font></th>");
 document.writeln("			</tr>");
 
 

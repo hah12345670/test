@@ -27,12 +27,24 @@ document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第318期幽默猜测</font><font color=\'#FF0000\'>（旅游团）</font><font color=\'#000000\'>：春节期间，小朋友和动物们组团出游它们坐着77号旅游大巴一路赏春，大家一路欢声笑语，猫头鹰白天开车会不会睡着呢？....本期图片会给我们带来什么样的玄机呢?</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：旅游团解鼠羊猴鸡牛马</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：鼠羊猴鸡牛马</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第317期幽默猜测</font><font color=\'#FF0000\'>（龙凤呈祥）</font><font color=\'#000000\'>：每当好日子来临，人们都会高举气势如虹的龙和珠在半空舞动以及身姿曼妙的凤凰和荷花，龙凤呈祥寓意美好事物的发生。.…...本期图片会给我们带来什么样的玄机呢?</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：龙凤呈祥解狗牛兔鸡猪龙</font></b></div>");
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：狗牛兔鸡猪龙</font></b></div>");
+document.writeln("	综合特肖：狗牛兔鸡<span style=\'background-color: #FFFF00\'>猪</span>龙</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 

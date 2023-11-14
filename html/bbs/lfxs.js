@@ -40,18 +40,19 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第317期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第318期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    牛15.27鼠16.28龙36.48<br>");
-document.writeln("		鸡07.19狗30.42羊21.33<br>");
-document.writeln("		蛇23.47猴20.44虎14.38<br>");
+document.writeln("	    猪17.41狗06.18猴20.44<br>");
+document.writeln("		蛇23.47马22.34兔13.37<br>");
+document.writeln("		鼠28.40虎26.38羊09.21<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
+
 
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");

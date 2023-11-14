@@ -19,7 +19,10 @@ document.writeln("");
 
 
 
-document.writeln("317期：平特【蛇兔拖牛羊】开？00<br>");
+document.writeln("318期：平特【猴马拖兔猪】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("317期：平特【蛇兔拖牛<span style=\'background-color: #FFFF00\'>羊</span>】开33<br>");
 document.writeln("------<br>");
 
 document.writeln("316期：平特【<span style=\'background-color: #FFFF00\'>龙牛</span>拖鸡猪】开48.39<br>");

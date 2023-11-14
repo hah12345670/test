@@ -26,11 +26,12 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>317期一语中特【登山越岭】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是形容长途跋涉，旅途艰辛。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡牛虎羊鼠猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>318期一语中特【喘息之机】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是暂停活动、舒缓一段时间。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔羊牛狗马猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
@@ -134,11 +135,19 @@ document.writeln("   <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("");
 document.writeln("");
+
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>318期一语中特【视入草芥】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是看作像泥土，小草一般轻贱；比喻极端轻视</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠牛羊猴兔鸡开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>317期一语中特【天府之国】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指形势险固、土地肥沃、物产丰富的地方</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊蛇猪虎牛狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊蛇<span style=\'background-color: #FFFF00\'>猪</span>虎牛狗开猪41准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<tr>");

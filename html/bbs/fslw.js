@@ -23,13 +23,19 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("317期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>6-2-9-4-5-8</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("318期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>6-9-7-0-5-2</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("316期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>4-<span style=\'background-color: #FFFF00\'>8-3-7</span></font><font color=\'#0000FF\'>-6-<span style=\'background-color: #FFFF00\'>9</span></font><font color=\'#0000FF\'></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
+document.writeln("317期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>6-<span style=\'background-color: #FFFF00\'>2</span>-9-<span style=\'background-color: #FFFF00\'>4</span>-5-<span style=\'background-color: #FFFF00\'>8</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("316期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>4-<span style=\'background-color: #FFFF00\'>8-3-7</span>-6-<span style=\'background-color: #FFFF00\'>9</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");

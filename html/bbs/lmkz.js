@@ -33,7 +33,7 @@ document.writeln("");
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>317期：【职业玩家】破解龙门客栈</font><br>");
+document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>318期：【职业玩家】破解龙门客栈</font><br>");
 document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【更新中】<br>客官：【更新中】<br>");
 document.writeln("		小二：【更新中】</font></font></font></span></td>");
 document.writeln("    </tr>");
@@ -57,6 +57,7 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束--> ");
+
 
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");

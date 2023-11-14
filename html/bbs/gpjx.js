@@ -10,9 +10,9 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>317期挂牌《更新中》<br>");
-document.writeln("解释：更新中<br>");
-document.writeln("解：更新中<br>");
+document.writeln("<font color=\'#0000FF\'><b>318期挂牌《更新中》<br>");
+document.writeln("解释：更新中。<br>");
+document.writeln("解：更新中，無羊<br>");
 document.writeln("</b></font>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
@@ -24,6 +24,7 @@ document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:cente
 document.writeln("");
 document.writeln("</tr></table></td>");
 document.writeln("<!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");

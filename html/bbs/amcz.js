@@ -26,6 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
+document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/318/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/317/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/316/ammh.jpg\',");
 document.writeln("\'https://tk2.qingxinmingxiang.com:4949/col/315/ammh.jpg\',");

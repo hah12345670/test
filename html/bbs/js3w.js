@@ -43,10 +43,10 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>318期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【1.9.3】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>319期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【9.8.1】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
-document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");

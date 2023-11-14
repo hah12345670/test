@@ -22,17 +22,18 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font color=\'#0000FF\' size=\'3\'>318期红字暗码【装怯作勇】【03 24 31 42】</font></b><br> ");
-document.writeln("<b><font color=\'#008000\'>解：指意思是本来胆怯，却装出勇敢的样子</font></b><br>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>319期红字暗码【娱心悦耳】【03 12 31 49】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：娱、悦：使愉快。使心情愉快，耳目舒畅</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：虎猴龙马牛鼠狗<br>");
-document.writeln("主特14码：14.38.20.32.24.36.34.46.03.15.16.28.06.18");
+document.writeln("解取特肖：龙马羊兔猴牛狗<br>");
+document.writeln("主特14码：12.24.22.46.09.33.13.25.08.20.15.39.18.30");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
+
 
 
 document.writeln("<!--开始-->");

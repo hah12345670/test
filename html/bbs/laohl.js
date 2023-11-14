@@ -46,13 +46,25 @@ document.writeln("");
 
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\'><strong>319期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>11月15号，十月初三</font><font color=\'#000000\'>，吉日五行:洞下水; 牛日冲(辛未)羊煞东 ");
+document.writeln("	,宿名：南方轸水蚓</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font size=\'3\'>");
+document.writeln("	预测:大鸡,五行:水：11.12.19.20.27.28.41.42.49冲煞:牛羊煞东:兔虎龙,星宿杀肖:牛,综合：兔龙羊狗鸡虎猴鼠蛇 ");
+document.writeln("	本期主攻:兔龙羊狗鸡，号码25.37.24.36.21.33.06.18.19.31</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\'><strong>318期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>11月14号，十月初二</font><font color=\'#000000\'>，吉日五行:洞下水; 鼠日冲(庚午)马煞南 ");
 document.writeln("	,宿名：南方翼火蛇</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font size=\'3\'>");
 document.writeln("	预测:大凶,五行:水：11.12.19.20.27.28.41.42.49冲煞:猪蛇煞南:蛇马羊,星宿杀肖:蛇,综合：蛇兔猴猪鼠牛狗马龙 ");
-document.writeln("	本期主攻:蛇兔猴猪鼠，号码11.23.25.37.20.32.29.41.28.40</font></td>");
+document.writeln("	本期主攻:蛇</font><font color=\"#FFFF00\" size=\"5\"><span style=\"font-weight: 700; background-color: #008000\">兔</span></font><font size=\'3\'>猴猪鼠，号码11.23.25.37.20.32.29.41.28.40</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 

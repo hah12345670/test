@@ -21,7 +21,16 @@ document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("318期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("319期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("	<span style=\"font-size: 13pt\">不是姐俩是哥俩，脸庞身体全不差<br>");
+document.writeln("对面打量难分辨，一个说唱一个哑</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
+document.writeln("");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("318期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>兔49</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("	<span style=\"font-size: 13pt\">身体多轻柔，逍遥漫天游<br>");
 document.writeln("风来它就躲，雨来它带头</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
 document.writeln("");

@@ -27,14 +27,15 @@ document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第318期幽默猜测</font><font color=\'#FF0000\'>（旅游团）</font><font color=\'#000000\'>：春节期间，小朋友和动物们组团出游它们坐着77号旅游大巴一路赏春，大家一路欢声笑语，猫头鹰白天开车会不会睡着呢？....本期图片会给我们带来什么样的玄机呢?</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：旅游团解鼠羊猴鸡牛马</font></b></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第319期幽默猜测</font><font color=\'#FF0000\'>（足球）</font><font color=\'#000000\'>：老公是个超级球迷，有次去吃饭，菜单上有道菜名叫”中国足球”，老公点了.上菜后，一看是“臭豆腐炖猪蹄”.味道还好，就是老公脸色不怎么好.….….本期图片会给我们带来么样的玄机呢？</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：足球解鸡猪羊狗龙虎</font></b></div>");
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鼠羊猴鸡牛马</font></b></div>");
+document.writeln("	综合特肖：鸡猪羊狗龙虎</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
+
 
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");

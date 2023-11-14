@@ -32,18 +32,19 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>318期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>319期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>九个帅哥</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:九解09岁羊.09位猴，帅哥解男肖鼠牛虎龙马猴狗</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>八戒调戏大脚仙</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:八戒解猪.08猴，大脚仙解大肖牛虎马羊狗猪</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：羊猴鼠牛虎狗</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛虎马羊狗猴</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：羊猴鼠牛</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛虎马羊</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

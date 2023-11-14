@@ -35,7 +35,7 @@ document.writeln("  <!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>316期内幕传真20码开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>316期内幕传真20码开龙48</font><br> ");
 document.writeln("特码玄169 247(马34)12+26=?   <br>特码：好雨滋润万木荣，有雨云头腾蛟龙。<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
 document.writeln("18 36 01 40 25 14 35 24 <span style=\'background-color: #FFFF00\'>48</span> 46<br>   ");

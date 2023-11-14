@@ -118,7 +118,7 @@ document.writeln("	<tr>");
 document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头六肖中特：鼠羊鸡狗牛兔（2倍）开</font></font></b></td>");
+document.writeln("		<font color=\'#000000\'>光头六肖中特：鼠羊鸡狗牛兔（2倍）开猪41</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("  ");
 document.writeln("     ");

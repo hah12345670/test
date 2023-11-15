@@ -29,12 +29,12 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>319期另版挂牌</font><font size=\'4\' color=\'#008000\'>【更新中】</font><font color=\'#0033CC\'>开？00<br>");
-document.writeln("	</font><font color=\'#000000\'>◎生肖属性：更新中</p>");
+document.writeln("	<p><font color=\'#0033CC\'>319期另版挂牌</font><font size=\'4\' color=\'#008000\'>【千年修炼】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>◎生肖属性：丁丑日 属性：水（鼠猪） 地支六冲：牛日：冲羊，克马，破猴，无鸡； 六合：鼠；三合：蛇鸡。空亡肖：羊鸡</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：更新中<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鸡虎兔羊猴猪鼠马牛<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：更新中</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：19.43.02.14.25.37.08.20.17.29.28.40.22.34.03.27</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 

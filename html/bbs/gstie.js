@@ -47,8 +47,14 @@ document.writeln("317期:【大亨送彩】二肖四码开:<span class=\"style2\
 document.writeln("<br>【牛<span style=\"background-color: #FFFF00\">猪</span>】【12.24.36.48】<br><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("318期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("318期:【大亨送彩】二肖四码开:<span class=\"style2\">兔49</span>错		");
 document.writeln("<br>【鼠狗】【02.14.26.38】<br><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("319期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【马虎】【04.16.28.40】<br><br>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

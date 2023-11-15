@@ -26,9 +26,17 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>320期一语中特【强不凌弱】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是力量强大的不欺侮弱小的。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鸡蛇鼠牛猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>319期一语中特【跌磕蹭蹬】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：跌:跌到;磕:磕碰;蹭蹬:路途险阻难行。指人倒霉,不顺利。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡蛇马狗鼠羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡蛇马<span style=\'background-color: #FFFF00\'>狗</span>鼠羊开狗42准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -146,9 +154,9 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>319期一语中特【一步登天】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是一步跨上青天，比喻一下子就达到很高的境界或程度，有时也用来比喻人突然得志，爬上高位</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠猴龙鸡蛇牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>320期一语中特【徒唤奈何】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：可以理解为白费力气、无用功、没有结果</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鼠牛虎鸡蛇开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

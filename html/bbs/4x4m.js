@@ -44,31 +44,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第319期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马10蛇35兔49鼠28】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第315期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊21<span style=\'background-color: #FFFF00\'>猪</span>05龙36鸡43】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第312期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙24<span style=\'background-color: #FFFF00\'>猪</span>41猴44兔13】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第320期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40鸡19羊45牛03】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

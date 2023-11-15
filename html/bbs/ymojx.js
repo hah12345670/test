@@ -27,12 +27,24 @@ document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第320期幽默猜测</font><font color=\'#FF0000\'>（孤苦伶仃）</font><font color=\'#000000\'>：小狗从小孤苦伶们，非常羡慕小鸡有个充满母爰的鸡妈妈，有一天小狗被主人驱赶出门，它哭泣着奔向鸡妈妈怀中，旁边的小鸡非常不屑的说：“这是我的位置，你走开！...….本期图片会给我们带来什么样的玄机呢？</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：孤苦伶仃解独肖鼠牛虎兔马羊</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：鼠牛虎兔马羊</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第319期幽默猜测</font><font color=\'#FF0000\'>（足球）</font><font color=\'#000000\'>：老公是个超级球迷，有次去吃饭，菜单上有道菜名叫”中国足球”，老公点了.上菜后，一看是“臭豆腐炖猪蹄”.味道还好，就是老公脸色不怎么好.….….本期图片会给我们带来么样的玄机呢？</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：足球解鸡猪羊狗龙虎</font></b></div>");
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鸡猪羊狗龙虎</font></b></div>");
+document.writeln("	综合特肖：鸡猪羊<span style=\'background-color: #FFFF00\'>狗</span>龙虎</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 

@@ -112,7 +112,8 @@ document.writeln("		    ");
 
 
 
-document.writeln("		319期【鼠蛇猪】<br>		");
+
+document.writeln("		320期【兔猴狗】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -123,7 +124,8 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("				319期【鸡羊+兔】<br>				");
+
+document.writeln("				320期【龙羊+蛇】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -141,6 +143,9 @@ document.writeln("				318期<span style=\'background-color: #FFFF00\'>兔</span>
 document.writeln("				14.20.32.41<br>");
 document.writeln("				319期龙鼠牛<br>");
 document.writeln("				09.30.10.16<br>");
+document.writeln("				320期兔猴蛇<br>");
+document.writeln("				31.29.03.25<br>");
+
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -161,6 +166,10 @@ document.writeln("				13.22.36.08.29.04<br>	");
 document.writeln("				319期<br>");
 document.writeln("				34.24.11.31.15.14<br>");
 document.writeln("				45.44.07.40.25.37<br>	");
+document.writeln("				320期<br>");
+document.writeln("				15.04.39.48.18.21<br>");
+document.writeln("				07.17.20.12.38.45<br>	");
+
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -193,7 +202,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 
 
 document.writeln("				318期【蛇鼠龙<span style=\'background-color: #FFFF00\'>兔</span>】<br>				");
-document.writeln("				319期【猪狗猴鸡】<br>				");
+document.writeln("				319期【猪<span style=\'background-color: #FFFF00\'>狗</span>猴鸡】<br>				");
+document.writeln("				320期【兔羊马狗】<br>				");
 
 document.writeln("				");
 document.writeln("				");
@@ -209,15 +219,18 @@ document.writeln("		    ");
 
 
 
-document.writeln("				317期？<br>");
+document.writeln("				317期猪41<br>");
 document.writeln("				【33.05.40.07】<br>");
 document.writeln("				【<span style=\'background-color: #FFFF00\'>41</span>.16.48.30】<br>				");
-document.writeln("				318期？<br>");
+document.writeln("				318期兔49<br>");
 document.writeln("				【03.28.02.35】<br>");
 document.writeln("				【42.08.07.36】<br>				");
 document.writeln("				319期？<br>");
 document.writeln("				【07.23.19.09】<br>");
 document.writeln("				【37.17.06.49】<br>				");
+document.writeln("				320期？<br>");
+document.writeln("				【03.17.38.27】<br>");
+document.writeln("				【31.28.02.40】<br>				");
 
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -231,27 +244,10 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【自称马神】(10码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 document.writeln("		    ");
-document.writeln("				314期<br>");
-document.writeln("			（46.33.11.19.20）<br>");
-document.writeln("			（34.<span style=\'background-color: #FFFF00\'>26</span>.49.48.10）<br>	");
-document.writeln("		    ");
-document.writeln("				315期<br>");
-document.writeln("			（49.09.<span style=\'background-color: #FFFF00\'>29</span>.30.32）<br>");
-document.writeln("			（48.40.23.08.12）<br>	");
-document.writeln("				");
-document.writeln("				316期<br>");
-document.writeln("			（29.20.05.28.17）<br>");
-document.writeln("			（18.16.<span style=\'background-color: #FFFF00\'>48</span>.47.06）<br>	");
-document.writeln("				");
-document.writeln("				317期<br>");
-document.writeln("			（23.12.21.34.19）<br>");
-document.writeln("			（37.02.10.24.03）<br>	");
-document.writeln("				318期<br>");
-document.writeln("			（05.43.33.46.03）<br>");
-document.writeln("			（12.24.22.09.20）<br>	");
-document.writeln("				319期<br>");
-document.writeln("			（18.31.43.03.01）<br>");
-document.writeln("			（15.10.11.21.48）<br>	");
+
+document.writeln("				320期<br>");
+document.writeln("			（07.23.17.03.29）<br>");
+document.writeln("			（26.08.46.22.32）<br>	");
 
 document.writeln("				");
 document.writeln("				");
@@ -266,7 +262,8 @@ document.writeln("		    ");
 
 
 
-document.writeln("				319期猴马兔+鼠<br>				");
+
+document.writeln("				320期羊兔龙+猴<br>				");
 
 document.writeln("				");
 document.writeln("				</span><br>");

@@ -26,38 +26,38 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>321期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>马精羊怪兴风浪,兔走鸡来谁可爱</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("			解析:预先解明肖马羊兔鸡.风解风肖虎兔龙.心水诗大意是不管谁兴风作浪,最后留下最可爱的人.综合得主鸡兔马羊防虎鼠龙蛇牛。 </font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：鸡兔马羊虎鼠<br>");
+document.writeln("	特码：07.43.13.25.10.34.21.33.02.38.16.40</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>320期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>320期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开蛇23准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>老来得子总是喜，眠牛虎口相扶持</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖牛虎,子偏看男肖鼠牛虎龙马猴狗.老偏看大肖大码.综合得主牛虎猴狗防鼠龙马鸡蛇。 </font></div>");
+document.writeln("			解析:预先解明肖牛虎,子偏看男肖鼠牛虎龙马猴狗.老偏看大肖大码.综合得主牛虎猴狗防鼠龙马鸡<span style=\'background-color: #FFFF00\'>蛇</span>。 </font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：牛虎猴狗鸡蛇<br>");
-document.writeln("	特码：15.27.26.38.08.32.30.42.19.43.11.23</font></b></div>");
+document.writeln("	解特肖：牛虎猴狗鸡<span style=\'background-color: #FFFF00\'>蛇</span><br>");
+document.writeln("	特码：15.27.26.38.08.32.30.42.19.43.11.<span style=\'background-color: #FFFF00\'>23</span></font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
 
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>318期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>早晨朝阳红艳艳，勤劳鸡牛早劳作</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖鸡牛,红解红肖鼠马兔鸡,早晨看阳肖鸡兔牛羊虎猴.综合得主鸡牛鼠马防<span style=\'background-color: #FFFF00\'>兔</span>羊虎猴狗。 </font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鸡牛鼠马羊猴<br>");
-document.writeln("	特码：19.43.03.15.28.40.22.46.21.45.20.32</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
 
 
 

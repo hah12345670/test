@@ -16,8 +16,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 
+
 document.writeln("");
-document.writeln("320期：平码【33.30.29.12.47.02.19.38.17.21.41.24】<br>");
+document.writeln("321期：平码【33.42.19.43.27.25.07.44.23.11.04.10】<br>");
+
+document.writeln("");
+document.writeln("320期：平码【33.<span style=\'background-color: #FFFF00\'>30.29</span>.12.47.02.19.38.17.21.41.24】<br>");
 
 document.writeln("");
 document.writeln("319期：平码【18.34.<span style=\"background-color: #FFFF00\">01.09</span>.43.31.27.32.41.12.22.24】<br>");

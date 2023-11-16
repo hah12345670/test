@@ -43,7 +43,19 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>320期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【7.6.4】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>321期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【7.0.8】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>320期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【7.6.4】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>蛇23</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
@@ -157,188 +169,6 @@ document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
 
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>307期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【2.0.5】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鼠16</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>306期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【5.1.7】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鼠28</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>305期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【8.0.7】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>马34</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>304期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【9.2.7】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鼠28</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>303期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【3.8.0】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛15</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>302期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【4.5.8】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴32</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>301期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【9.8.0】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>兔25</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>300期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【9.3.0】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙36</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>298期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【6.9.0】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴32</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-
-
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>297期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【1.2.8】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛39</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>296期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【4.5.9】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴20</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>295期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【2.8.0】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴44</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>294期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【1.4.6】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>蛇35</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>293期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【2.5.8】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴20</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln(" <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>292期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【2.7.9】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>兔25</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>291期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【1.4.6】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙48</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

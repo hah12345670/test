@@ -33,12 +33,11 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>320期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>321期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -46,6 +45,22 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>320期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("无非万事随缘，尽享眼前怡悦");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：无非解无肖：鼠牛虎兔马羊，眼前解前肖龙鼠兔虎蛇牛。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鼠兔牛虎马羊龙<span style=\'background-color: #FFFF00\'>蛇</span><br>");
+document.writeln("			四肖：鼠兔牛虎<br>");
+document.writeln("			特码：01 02 03 04 09 11 12 13 14 21 22 <span style=\'background-color: #FFFF00\'>23</span> 24 25 26 28 33 34 35 36 39</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

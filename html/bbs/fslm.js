@@ -24,7 +24,7 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	320期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>17.41.21.38.22</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	321期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>45.12.06.17.11</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 

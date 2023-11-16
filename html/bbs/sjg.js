@@ -36,12 +36,13 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("<!--开始--> ");
 document.writeln("    <tr>");
 document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("");
-document.writeln("		<b><font face=\'微软雅黑\' size=\'4\'>320期</font></b></font><b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>输尽光玄机</font><font color=\'#000000\' size=\'4\' face=\'微软雅黑\'>开？00中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<b><font face=\'微软雅黑\' size=\'4\'>321期</font></b></font><b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>输尽光玄机</font><font color=\'#000000\' size=\'4\' face=\'微软雅黑\'>开？00中</font><font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b>  ");
 document.writeln("		</td>");
@@ -50,14 +51,43 @@ document.writeln("	<tr>");
 document.writeln("      <td height=41 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 13pt\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>今期买龙输尽光，小单今期无人买</font>  ");
+document.writeln("		<font color=\'#000000\'>今期买猴输尽光，大双今期无人买</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=37 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 13pt\">");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>有钱不买绿双数，特码就开4132头</font>  ");
+document.writeln("		<font color=\'#000000\'>有钱不买红单数，特码就开3041头</font>  ");
+document.writeln("");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
+
+
+document.writeln("");
+document.writeln("<!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("");
+document.writeln("		<b><font face=\'微软雅黑\' size=\'4\'>320期</font></b></font><b><font color=\'#FF0000\' face=\'隶书\' size=\'6\'>输尽光玄机</font><font color=\'#000000\' size=\'4\' face=\'微软雅黑\'>开蛇23中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		</font>  ");
+document.writeln("		</b>  ");
+document.writeln("		</td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td height=41 bgcolor=\'#FFFFFF\' align=\'center\' >");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 13pt\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\'>今期买<span style=\'background-color: #FFFF00\'>龙</span>输尽光，小单今期无人买</font>  ");
+document.writeln("		</b> </font> </td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td height=37 bgcolor=\'#FFFFFF\' align=\'center\' ><b>");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 13pt\">");
+document.writeln("");
+document.writeln("		<font color=\'#000000\'>有钱不买<span style=\'background-color: #FFFF00\'>绿双</span>数，特码就开413<span style=\'background-color: #FFFF00\'>2</span>头</font>  ");
 document.writeln("");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");

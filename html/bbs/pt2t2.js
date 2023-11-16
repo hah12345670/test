@@ -19,8 +19,10 @@ document.writeln("");
 
 
 
-document.writeln("320期：平特【牛猴拖虎羊】开？00<br>");
+document.writeln("321期：平特【龙蛇拖猴鸡】开？00<br>");
 document.writeln("------<br>");
+
+
 
 document.writeln("319期：平特【<span style=\'background-color: #FFFF00\'>兔蛇</span>拖牛猴】开49.01.35<br>");
 document.writeln("------<br>");
@@ -33,54 +35,6 @@ document.writeln("------<br>");
 
 document.writeln("316期：平特【<span style=\'background-color: #FFFF00\'>龙牛</span>拖鸡猪】开48.39<br>");
 document.writeln("------<br>");
-
-document.writeln("314期：平特【<span style=\'background-color: #FFFF00\'>虎</span>牛拖<span style=\'background-color: #FFFF00\'>鸡</span>狗】开26.07<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("312期：平特【<span style=\'background-color: #FFFF00\'>虎</span>马拖鼠<span style=\'background-color: #FFFF00\'>猴</span>】开02.26.20<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("311期：平特【鸡<span style=\'background-color: #FFFF00\'>羊</span>拖<span style=\'background-color: #FFFF00\'>狗虎</span>】开21.30.42.02<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("310期：平特【<span style=\'background-color: #FFFF00\'>兔</span>牛拖<span style=\'background-color: #FFFF00\'>猪</span>马】开13.17<br>");
-document.writeln("------<br>");
-
-
-
-
-document.writeln("");
-document.writeln("307期：平特【猴<span style=\'background-color: #FFFF00\'>兔</span>拖<span style=\'background-color: #FFFF00\'>鼠马</span>】开37.16.22<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("306期：平特【<span style=\'background-color: #FFFF00\'>猪龙</span>拖马蛇】开41.24<br>");
-document.writeln("------<br>");
-
-
-
-document.writeln("");
-document.writeln("304期：平特【虎<span style=\'background-color: #FFFF00\'>鸡</span>拖<span style=\'background-color: #FFFF00\'>龙</span>猪】开31.12.24<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("303期：平特【<span style=\'background-color: #FFFF00\'>牛虎</span>拖羊<span style=\'background-color: #FFFF00\'>龙</span>】开39.03.15.26.36.24<br>");
-document.writeln("------<br>");
-
-
-
-document.writeln("");
-document.writeln("302期：平特【<span style=\'background-color: #FFFF00\'>猴</span>虎拖<span style=\'background-color: #FFFF00\'>牛</span>狗】开32.39<br>");
-document.writeln("------<br>");
-
 
 
 

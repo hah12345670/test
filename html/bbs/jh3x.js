@@ -40,7 +40,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>318-320期</font>【猴鼠鸡】000期中</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\'>321-323期</font>【鸡蛇狗】000期中</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

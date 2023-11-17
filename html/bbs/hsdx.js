@@ -51,7 +51,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>320期</font>【<font color=\'#FF0000\'>合数小</font>】开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>321期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#008000\'>320期</font>【<font color=\'#FF0000\'>合数小</font>】开<font color=\'#FF00FF\'>(23)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
@@ -70,66 +76,6 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#008000\'>315期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(29)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>313期</font>【<font color=\'#FF0000\'>合数小</font>】开<font color=\'#FF00FF\'>(10)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>311期</font>【<font color=\'#FF0000\'>合数小</font>】开<font color=\'#FF00FF\'>(30)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>310期</font>【<font color=\'#FF0000\'>合数小</font>】开<font color=\'#FF00FF\'>(13)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>309期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(16)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>308期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(48)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>307期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(16)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>305期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(34)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#008000\'>304期</font>【<font color=\'#FF0000\'>合数大</font>】开<font color=\'#FF00FF\'>(28)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

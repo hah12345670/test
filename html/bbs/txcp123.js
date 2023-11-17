@@ -113,7 +113,7 @@ document.writeln("		    ");
 
 
 
-document.writeln("		320期【兔猴狗】<br>		");
+document.writeln("		321期【鼠蛇虎】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -124,8 +124,8 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-
-document.writeln("				320期【龙羊+蛇】<br>				");
+document.writeln("			320期【龙羊+<span style=\'background-color: #FFFF00\'>蛇</span>】<br>				");
+document.writeln("			321期【鸡猴+猪】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -141,10 +141,11 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 document.writeln("				318期<span style=\'background-color: #FFFF00\'>兔</span>猴牛<br>");
 document.writeln("				14.20.32.41<br>");
-document.writeln("				319期龙鼠牛<br>");
-document.writeln("				09.30.10.16<br>");
-document.writeln("				320期兔猴蛇<br>");
+
+document.writeln("				320期兔猴<span style=\'background-color: #FFFF00\'>蛇</span><br>");
 document.writeln("				31.29.03.25<br>");
+document.writeln("				321期猪牛鸡<br>");
+document.writeln("				13.25.49.37<br>");
 
 document.writeln("								");
 document.writeln("								");
@@ -160,15 +161,11 @@ document.writeln("		    ");
 
 
 
-document.writeln("				318期<br>");
-document.writeln("				18.17.23.34.10.<span style=\'background-color: #FFFF00\'>49</span><br>");
-document.writeln("				13.22.36.08.29.04<br>	");
-document.writeln("				319期<br>");
-document.writeln("				34.24.11.31.15.14<br>");
-document.writeln("				45.44.07.40.25.37<br>	");
-document.writeln("				320期<br>");
-document.writeln("				15.04.39.48.18.21<br>");
-document.writeln("				07.17.20.12.38.45<br>	");
+
+document.writeln("				321期<br>");
+document.writeln("				44.06.15.10.03.19<br>");
+document.writeln("				45.08.07.18.14.09<br>	");
+
 
 document.writeln("						");
 document.writeln("				</span><br>");
@@ -203,7 +200,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 
 document.writeln("				318期【蛇鼠龙<span style=\'background-color: #FFFF00\'>兔</span>】<br>				");
 document.writeln("				319期【猪<span style=\'background-color: #FFFF00\'>狗</span>猴鸡】<br>				");
-document.writeln("				320期【兔羊马狗】<br>				");
+document.writeln("				321期【龙猴蛇羊】<br>				");
 
 document.writeln("				");
 document.writeln("				");
@@ -219,18 +216,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				317期猪41<br>");
-document.writeln("				【33.05.40.07】<br>");
-document.writeln("				【<span style=\'background-color: #FFFF00\'>41</span>.16.48.30】<br>				");
-document.writeln("				318期兔49<br>");
-document.writeln("				【03.28.02.35】<br>");
-document.writeln("				【42.08.07.36】<br>				");
-document.writeln("				319期？<br>");
-document.writeln("				【07.23.19.09】<br>");
-document.writeln("				【37.17.06.49】<br>				");
-document.writeln("				320期？<br>");
-document.writeln("				【03.17.38.27】<br>");
-document.writeln("				【31.28.02.40】<br>				");
+document.writeln("				321期？<br>");
+document.writeln("				【06.16.29.26】<br>");
+document.writeln("				【41.05.28.27】<br>				");
 
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -244,10 +232,12 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【自称马神】(10码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 document.writeln("		    ");
-
 document.writeln("				320期<br>");
-document.writeln("			（07.23.17.03.29）<br>");
+document.writeln("			（07.<span style=\'background-color: #FFFF00\'>23</span>.17.03.29）<br>");
 document.writeln("			（26.08.46.22.32）<br>	");
+document.writeln("				321期<br>");
+document.writeln("			（03.31.32.40.36）<br>");
+document.writeln("			（10.18.15.39.28）<br>	");
 
 document.writeln("				");
 document.writeln("				");
@@ -263,7 +253,7 @@ document.writeln("		    ");
 
 
 
-document.writeln("				320期羊兔龙+猴<br>				");
+document.writeln("				321期牛猪羊+虎<br>				");
 
 document.writeln("				");
 document.writeln("				</span><br>");

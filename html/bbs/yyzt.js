@@ -23,12 +23,19 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>321期一语中特【嵬然不动】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：是高大坚固，不可动摇。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鸡虎马羊龙开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>320期一语中特【强不凌弱】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是力量强大的不欺侮弱小的。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鸡蛇鼠牛猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鸡<span style=\'background-color: #FFFF00\'>蛇</span>鼠牛猴开蛇23准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -102,23 +109,6 @@ document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形
 document.writeln("<div class=\'jyyzt-txt3\'>综合：虎牛猪鸡<span style=\'background-color: #FFFF00\'>龙</span>鼠开龙48准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>306期一语中特【徒有其表】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：表：表面，外貌。空有好看的外表，实际上不行。指有名无实。解龙猴马虎羊鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙猴马虎羊<span style=\'background-color: #FFFF00\'>鼠</span>开鼠28准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>304期一语中特【干劲冲天】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：做事的积极性冲入蓝天，指情绪激越高亢。解蛇马虎鼠龙羊</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马虎<span style=\'background-color: #FFFF00\'>鼠</span>龙羊开鼠28准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 document.writeln("");
@@ -154,9 +144,16 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>321期一语中特【进退两难】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：:前进和后退都难。比喻事情无法决定，因而难以行动，处境困难</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马龙兔牛狗鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>320期一语中特【徒唤奈何】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：可以理解为白费力气、无用功、没有结果</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鼠牛虎鸡蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗鼠牛虎鸡<span style=\'background-color: #FFFF00\'>蛇</span>开蛇23准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

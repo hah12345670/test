@@ -22,70 +22,19 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62361c.c
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第320期幽默猜测</font><font color=\'#FF0000\'>（孤苦伶仃）</font><font color=\'#000000\'>：小狗从小孤苦伶们，非常羡慕小鸡有个充满母爰的鸡妈妈，有一天小狗被主人驱赶出门，它哭泣着奔向鸡妈妈怀中，旁边的小鸡非常不屑的说：“这是我的位置，你走开！...….本期图片会给我们带来什么样的玄机呢？</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：孤苦伶仃解独肖鼠牛虎兔马羊</font></b></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第321期幽默猜测</font><font color=\'#FF0000\'>（耕种萝卜）</font><font color=\'#000000\'>兔子一家三口以耕种萝下为生，别着表面温馨其实，这家仁都不正常，父亲是个暴力狂但是个种植能手，母亲是个刽子手但私底下很爱家人，而小免子的也得到了遗传，可它遗传了坏的一面。.....本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：耕种萝卜解狗马牛鼠兔羊</font></b></div>");
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鼠牛虎兔马羊</font></b></div>");
+document.writeln("	综合特肖：狗马牛鼠兔羊</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
-
-document.writeln("       <!--开始-->");
-document.writeln(" <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第319期幽默猜测</font><font color=\'#FF0000\'>（足球）</font><font color=\'#000000\'>：老公是个超级球迷，有次去吃饭，菜单上有道菜名叫”中国足球”，老公点了.上菜后，一看是“臭豆腐炖猪蹄”.味道还好，就是老公脸色不怎么好.….….本期图片会给我们带来么样的玄机呢？</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：足球解鸡猪羊狗龙虎</font></b></div>");
-document.writeln("   <br>");
-document.writeln("   ");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鸡猪羊<span style=\'background-color: #FFFF00\'>狗</span>龙虎</font></b></div>");
-document.writeln(" </td></tr>");
-document.writeln(" <!--结束-->");
-
-
-document.writeln("       <!--开始-->");
-document.writeln(" <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第317期幽默猜测</font><font color=\'#FF0000\'>（龙凤呈祥）</font><font color=\'#000000\'>：每当好日子来临，人们都会高举气势如虹的龙和珠在半空舞动以及身姿曼妙的凤凰和荷花，龙凤呈祥寓意美好事物的发生。.…...本期图片会给我们带来什么样的玄机呢?</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：龙凤呈祥解狗牛兔鸡猪龙</font></b></div>");
-document.writeln("   <br>");
-document.writeln("   ");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：狗牛兔鸡<span style=\'background-color: #FFFF00\'>猪</span>龙</font></b></div>");
-document.writeln(" </td></tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("       <!--开始-->");
-document.writeln(" <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第316期幽默猜测</font><font color=\'#FF0000\'>（分享）</font><font color=\'#000000\'>：看着刚叼着满嘴小鱼回来的同类，小鸟多希望自己的同类可以分享一些小鱼给它，到底小鸟最后有没有得到同类分享的猎物呢？....本期图片会给我们带来什么样的玄机呢？</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：分享解鼠龙马牛猪狗</font></b></div>");
-document.writeln("   <br>");
-document.writeln("   ");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鼠<span style=\'background-color: #FFFF00\'>龙</span>马牛猪狗</font></b></div>");
-document.writeln(" </td></tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("       <!--开始-->");
-document.writeln(" <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'>2023年第315期幽默猜测</font><font color=\'#FF0000\'>（昏官)</font><font color=\'#000000\'>3个8相加是多少？一个人说是24；另一个人说是21；两个人争执了一天后去衙门公断，此人委屈说：昏..昏官！县太爷道：你把三八等于24的简单问题和一个说成等21的人争执了一天足可以看出你的智商，不.........本期图片会给我们带来什么样的玄机呢</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：昏官解龙牛鸡猪兔马</font></b></div>");
-document.writeln("   <br>");
-document.writeln("   ");
-document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：龙牛鸡<span style=\'background-color: #FFFF00\'>猪</span>兔马</font></b></div>");
-document.writeln(" </td></tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("    ");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -44,7 +44,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第320期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠40鸡19羊45牛03】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第321期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡31.马22.猴44.虎14】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

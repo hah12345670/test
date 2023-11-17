@@ -29,7 +29,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>320期</font>【<font color=\'#FF0000\'>合肖:蛇猴鸡</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>321期</font>【<font color=\'#FF0000\'>独肖:马羊虎</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>320期</font>【<font color=\'#FF0000\'>合肖:<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡</font>】开<font color=\'#FF00FF\'>(蛇23)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
@@ -49,21 +55,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>316期</font>【<font color=\'#FF0000\'>合肖:蛇猴鸡</font>】开<font color=\'#FF00FF\'>(龙48)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>313期</font>【<font color=\'#FF0000\'>独肖:鼠牛兔</font>】开<font color=\'#FF00FF\'>(马10)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>312期</font>【<font color=\'#FF0000\'>合肖:猴鸡<span style=\'background-color: #FFFF00\'>猪</span></font>】开<font color=\'#FF00FF\'>(猪05)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
 
 
 document.writeln("");

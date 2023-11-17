@@ -19,6 +19,35 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <table style=\'b order-collapse:collapse;color:#000;font-weight:700;border:1px solid #000\' border=1 width=100%>");
+document.writeln("");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<font size=\'4\' color=\'#0000FF\'>321期特码玄机开？00</font><font size=\'4\'><br> ");
+document.writeln("</font> ");
+document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：吉日升腾果遂期<br>");
+document.writeln("</font>");
+document.writeln("</span>");
+document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("<font size=\'4\'>");
+document.writeln("<span style=\'color: #008000\'>玄机给肖：单数+龙马	<br>");
+document.writeln("玄机双波：主蓝 防绿</span><span style=\'color: #008000; font-weight: 700\'><br>  ");
+document.writeln("</span>");
+document.writeln("</font>  ");
+document.writeln("</span>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
+document.writeln("01.10.20.22.18.04.02.17.12.30<br>");
+document.writeln("07.37.09.49.42.21.14.25.11.24<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
+document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
+
+
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -27,7 +56,7 @@ document.writeln("");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>320期特码玄机开？00</font><font size=\'4\'><br> ");
+document.writeln("<font size=\'4\' color=\'#0000FF\'>320期特码玄机开蛇23</font><font size=\'4\'><br> ");
 document.writeln("</font> ");
 document.writeln("<span style=\'color: #008000; font-weight:700\'><font size=\'4\'>一句真言：此人非是池中物<br>");
 document.writeln("</font>");
@@ -40,7 +69,7 @@ document.writeln("</span>");
 document.writeln("</font>  ");
 document.writeln("</span>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
-document.writeln("10.23.34.14.42.36.27.31.22.32<br>");
+document.writeln("10.<span style=\'background-color: #FFFF00\'>23</span>.34.14.42.36.27.31.22.32<br>");
 document.writeln("08.15.44.28.19.46.01.20.40.06<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
 document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://www.61269a.com#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
 document.writeln("</a></tr></table></td>");

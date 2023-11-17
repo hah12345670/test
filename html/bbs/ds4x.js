@@ -7,7 +7,18 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『单双四肖』</font></font></b></table></td></tr>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("<!--------->");
+document.writeln("<tr>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font color=\'#00F\' size=\'3\'>322期</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>马虎鼠猴</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>羊兔猪蛇</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("");
+document.writeln("<!--------->");
 document.writeln("<!--------->");
 document.writeln("<tr>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
@@ -15,9 +26,9 @@ document.writeln("<font color=\'#00F\' size=\'3\'>321期</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
 document.writeln("<font size=\'3\'>猴龙虎狗</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>猪羊鸡兔</font></td>");
+document.writeln("<font size=\'3\'>猪羊<span style=\'background-color: #FFFF00\'>鸡</span>兔</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>鸡19</font></td></tr>");
 document.writeln("");
 document.writeln("<!--------->");
 document.writeln("<!--------->");
@@ -42,7 +53,7 @@ document.writeln("<font size=\'3\'>猴马鼠<span style=\'background-color: #FFF
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
 document.writeln("<font size=\'3\'>兔蛇羊鸡</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>狗42</font></td></tr>");
 document.writeln("");
 document.writeln("<!--------->");
 

@@ -16,15 +16,16 @@ document.writeln("   <!--开始-->");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
-document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">321期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">322期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
 document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		【33.34.32】【09.17.37】【49.11.12】<br>");
-document.writeln("		【28.13.37】【15.09.36】【27.40.01】<br>		");
+document.writeln("		【31.06.16】【24.22.35】【28.12.30】<br>");
+document.writeln("		【32.18.22】【25.30.07】【42.34.47】<br>		");
 document.writeln("		【13.38.36】【32.12.41】【18.31.45】<br>				");
-document.writeln("		【39.28.19】【16.08.11】【25.23.46】</b><br>");
+document.writeln("		【39.28.19】【03.23.20】【41.10.27】</b><br>");
 document.writeln(" <!--结束--> ");
+
 
 document.writeln("   <!--开始-->");
 document.writeln("		");

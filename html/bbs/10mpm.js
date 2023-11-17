@@ -18,7 +18,11 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("321期：平码【33.42.19.43.27.25.07.44.23.11.04.10】<br>");
+document.writeln("322期：平码【44.05.42.33.48.21.19.25.36.10.15.08】<br>");
+
+
+document.writeln("");
+document.writeln("321期：平码【33.42.<span style=\'background-color: #FFFF00\'>19</span>.43.27.25.07.44.23.11.<span style=\'background-color: #FFFF00\'>04</span>.10】<br>");
 
 document.writeln("");
 document.writeln("320期：平码【33.<span style=\'background-color: #FFFF00\'>30.29</span>.12.47.02.19.38.17.21.41.24】<br>");

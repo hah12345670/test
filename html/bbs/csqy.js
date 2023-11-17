@@ -32,36 +32,34 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>321期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>322期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>三十富家</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:三十富家解家禽牛马羊鸡猪狗</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>真龙天子进家门</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:明肖龙，进家门解家禽牛马羊鸡猪狗</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛马羊鸡猪狗</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：龙牛马羊鸡猪</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛马羊鸡</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：龙牛马羊</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>319期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开狗42准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>321期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开鸡19准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>八戒调戏大脚仙</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:八戒解猪.08猴，大脚仙解大肖牛虎马羊狗猪</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>三十富家</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:三十富家解家禽牛马羊鸡猪狗</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛虎马羊<span style=\"background-color: #FFFF00\">狗</span>猴</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛马羊<span style=\'background-color: #FFFF00\'>鸡</span>猪狗</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛虎马羊</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛马羊<span style=\'background-color: #FFFF00\'>鸡</span></font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
 
 
 

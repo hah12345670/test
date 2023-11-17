@@ -19,7 +19,7 @@ document.writeln("");
 
 
 
-document.writeln("321期：平特【龙蛇拖猴鸡】开？00<br>");
+document.writeln("322期：平特【马鼠拖猪羊】开？00<br>");
 document.writeln("------<br>");
 
 

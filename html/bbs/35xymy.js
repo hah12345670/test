@@ -33,11 +33,13 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>321期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>322期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -45,6 +47,21 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>321期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("八龙嬉戏蓝天下，东四西六开出十");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：蓝天下解天肖兔牛马猴猪龙，东四西六解东肖龙虎兔，西肖猴鸡狗。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔牛马猴猪龙<span style=\'background-color: #FFFF00\'>鸡</span><br>");
+document.writeln("			四肖：兔牛马猴<br>");
+document.writeln("			特码：13.49.03.15.10.34.08.20.17.41.12.36.31.43</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

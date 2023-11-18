@@ -51,17 +51,9 @@ document.writeln("		");
 document.writeln("");
 
 
-
-document.writeln("                   <font color=\'#0000FF\'>（317期）</font><Br>");
-document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>猪</span>猴马羊狗牛】<br>	<br>	");
-document.writeln("                   <font color=\'#0000FF\'>（318期）</font><Br>");
-document.writeln("		特肖【猪牛猴羊鼠蛇】<br>	<br>	");
-document.writeln("                   <font color=\'#0000FF\'>（319期）</font><Br>");
-document.writeln("		特肖【龙蛇猴马羊<span style=\'background-color: #FFFF00\'>狗</span>】<br>	<br>	");
-
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（321期）</font><Br>");
-document.writeln("		特肖【马牛鼠兔猴蛇】<br>	<br>	");
+document.writeln("		特肖【龙蛇猪羊虎猴】<br>	<br>	");
 document.writeln("");
 document.writeln("");
 
@@ -87,7 +79,8 @@ document.writeln("		<font size=\"4\"><br>	");
 
 
 document.writeln("		320期必中平特【<span style=\'background-color: #FFFF00\'>蛇</span>+鼠】√<br>	");
-document.writeln("		321期必中平特【狗+马】√<br>	");
+document.writeln("		321期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+马】√<br>	");
+document.writeln("		322期必中平特【猴+猪】√<br>	");
 document.writeln("			</font>	");
 document.writeln("			<br>");
 document.writeln("		");
@@ -115,6 +108,7 @@ document.writeln("		318期杀【21.16.31.43.11.35.05】√<br>");
 document.writeln("		319期杀【08.04.25.15.49.22.33】√<br>");
 document.writeln("		320期杀【13.26.05.04.10.23.37】×<br>");
 document.writeln("		321期杀【17.08.44.29.23.39.48】√<br>");
+document.writeln("		322期杀【46.41.36.33.39.20.09】√<br>");
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -162,7 +156,7 @@ document.writeln("");
 
 
 document.writeln("		321期（红肖）√<br>			");
-
+document.writeln("		322期（绿肖）√<br>			");
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -176,7 +170,7 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
 
 
-document.writeln("		321期【2183尾】√<br>				");
+document.writeln("		322期【3219尾】√<br>				");
 
 document.writeln("");
 document.writeln("				");
@@ -199,6 +193,7 @@ document.writeln("");
 document.writeln("		319期（4.3头）√<br>	");
 document.writeln("		320期（0.2头）√<br>	");
 document.writeln("		321期（0.1头）√<br>	");
+document.writeln("		322期（2.0头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -207,8 +202,8 @@ document.writeln("");
 document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友财迷】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("		321期红波+蓝单<br>	");
-
+document.writeln("		321期<span style=\'background-color: #FFFF00\'>红波</span>+蓝单<br>	");
+document.writeln("		322期红波+绿单<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b><br>	");
@@ -236,9 +231,7 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 
-
-document.writeln("		320期杀牛虎√<br>");
-document.writeln("		321期杀马鸡√<br>");
+document.writeln("		322期杀羊猴√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");
@@ -256,6 +249,7 @@ document.writeln("		318期杀绿双√<br>");
 document.writeln("		319期杀蓝单√<br>");
 document.writeln("		320期杀蓝单√<br>");
 document.writeln("		321期杀红双√<br>");
+document.writeln("		322期杀蓝单√<br>");
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -273,6 +267,7 @@ document.writeln("");
 document.writeln("		319期杀3头单√<br>	");
 document.writeln("		320期杀1头双√<br>	");
 document.writeln("		321期杀3头单√<br>	");
+document.writeln("		322期杀0头单√<br>	");
 document.writeln("						");
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -281,7 +276,7 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 
 document.writeln("		320期杀7.8尾√<br>");
 document.writeln("		321期杀7.5尾√<br>");
-
+document.writeln("		322期杀4.2尾√<br>");
 document.writeln("		");
 document.writeln("");
 document.writeln("			    ");

@@ -30,137 +30,32 @@ document.writeln("");
 document.writeln("");
 
 
-
-
-
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>320-322期</font>【平四尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>319-321期</font>【平四尾】<font color=\'#FF0000\'>319</font>期开<font color=\'#008000\'>(14)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>317-319期</font>【平一尾】<font color=\'#FF0000\'>318</font>期开<font color=\'#008000\'>(11.01)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>313-315期</font>【平七尾】<font color=\'#FF0000\'>313</font>期开<font color=\'#008000\'>(37)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>312-314期</font>【平五尾】<font color=\'#FF0000\'>312</font>期开<font color=\'#008000\'>(05)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>311-312期</font>【平二尾】<font color=\'#FF0000\'>311</font>期开<font color=\'#008000\'>(02)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>308-309期</font>【平四尾】<font color=\'#FF0000\'>308</font>期开<font color=\'#008000\'>(04)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>307-308期</font>【平二尾】<font color=\'#FF0000\'>307</font>期开<font color=\'#008000\'>(22)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>322-323期</font>【平三尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>306-307期</font>【平八尾】<font color=\'#FF0000\'>306</font>期开<font color=\'#008000\'>(28)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>320-321期</font>【平四尾】<font color=\'#FF0000\'>321</font>期开<font color=\'#008000\'>(04)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>305-306期</font>【平四尾】<font color=\'#FF0000\'>305</font>期开<font color=\'#008000\'>(34)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>319-320期</font>【平四尾】<font color=\'#FF0000\'>319</font>期开<font color=\'#008000\'>(14)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>304-305期</font>【平一尾】<font color=\'#FF0000\'>304</font>期开<font color=\'#008000\'>(11)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>303-304期</font>【平三尾】<font color=\'#FF0000\'>303</font>期开<font color=\'#008000\'>(03)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>317-318期</font>【平一尾】<font color=\'#FF0000\'>318</font>期开<font color=\'#008000\'>(11.01)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("		");
 
 
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>302-304期</font>【平一尾】<font color=\'#FF0000\'>302</font>期开<font color=\'#008000\'>(11)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>301-303期</font>【平七尾】<font color=\'#FF0000\'>301</font>期开<font color=\'#008000\'>(07)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>300-302期</font>【平四尾】<font color=\'#FF0000\'>300</font>期开<font color=\'#008000\'>(14)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>299-301期</font>【平一尾】<font color=\'#FF0000\'>299</font>期开<font color=\'#008000\'>(41)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>298-300期</font>【平八尾】<font color=\'#FF0000\'>298</font>期开<font color=\'#008000\'>(18)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");

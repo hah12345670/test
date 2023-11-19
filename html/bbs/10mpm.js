@@ -18,7 +18,8 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("322期：平码【44.05.42.33.48.21.19.25.36.10.15.08】<br>");
+document.writeln("323期：平码【33.29.25.49.13.08.36.30.42.31.44.03】<br>");
+
 
 
 document.writeln("");

@@ -45,9 +45,36 @@ document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
+document.writeln(" 	            <li>323期必中一行：<font color=\'#FF00FF\' size=\'4\'>土</font></li>");
+document.writeln("            	<li>323期必中二行：<font color=\'#FF00FF\' size=\'4\'>土-金</font></li>");
+document.writeln("            	<li>323期必中三行：<font color=\'#FF00FF\' size=\'4\'>土-金-火</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong6-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>04.18.25.33.34.47</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>02.09.10.24.31.39</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>08.15.29.37.45.46</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong6-foot\'>323期一行一码：<font color=\'#FF00FF\' size=\'6\'>(土行)</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong6\'>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-box\'>");
+document.writeln("    	<div class=\'bizhong6-l\'>");
+document.writeln("        	<ul>");
 document.writeln(" 	            <li>322期必中一行：<font color=\'#FF00FF\' size=\'4\'>水</font></li>");
-document.writeln("            	<li>322期必中二行：<font color=\'#FF00FF\' size=\'4\'>水-金</font></li>");
-document.writeln("            	<li>322期必中三行：<font color=\'#FF00FF\' size=\'4\'>水-金-火</font></li>");
+document.writeln("            	<li>322期必中二行：<font color=\'#FF00FF\' size=\'4\'>水-<span style=\'background-color: #FFFF00\'>【金】</span></font></li>");
+document.writeln("            	<li>322期必中三行：<font color=\'#FF00FF\' size=\'4\'>水-<span style=\'background-color: #FFFF00\'>【金】</span>-火</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");

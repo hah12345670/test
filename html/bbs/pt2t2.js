@@ -18,9 +18,10 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("324期：平特【蛇鸡拖猴马】开？00<br>");
-document.writeln("------<br>");
 
+
+document.writeln("325期：平特【虎龙拖狗鸡】开？00<br>");
+document.writeln("------<br>");
 
 
 

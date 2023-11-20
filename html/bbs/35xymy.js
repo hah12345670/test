@@ -34,12 +34,11 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
-
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>323期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>324期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -47,6 +46,24 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>323期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("金牛出门迎才神，猴蛇共午看今期");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：金牛出门解金肖猴鸡，牛，才神解才子肖龙虎马猪，猴蛇共午解猴蛇。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙<span style=\'background-color: #FFFF00\'>虎</span>马猪猴鸡蛇<br>");
+document.writeln("			四肖：龙<span style=\'background-color: #FFFF00\'>虎</span>马猪<br>");
+document.writeln("			特码：12.36.<span style=\'background-color: #FFFF00\'>02</span>.38.10.34.05.41.08.20.31.43.11.23</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

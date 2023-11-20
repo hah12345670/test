@@ -21,19 +21,44 @@ document.writeln("");
 
 
 
+
 document.writeln("         <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>323期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>324期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【桂】</font></b><br>");
+document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
+document.writeln("<font color=\'#0000FF\'>");
+document.writeln("⑴：解：桂， 桂花树，木犀的通称，桂花解猪。<br>⑵：桂，五行木，解木肖虎兔</font></span><br>");
+document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
+document.writeln("本期围特：猪虎兔鼠猴狗<br>");
+document.writeln("主攻特肖：猪虎兔鼠<br>");
+document.writeln("主攻特码：05.41.14.38.13.49.04.40.08.20.30.42</font><br><font color=\'#FFFF00\'>");
+document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
+document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
+document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://j.1999zx.com:1999/\'><img src=https://www.62753b.com/images/33567.gif width=20 height=19><span style=font-family:楷体;color:#00f><font size=\'4\'>点击投注六合彩</font></span><span style=font-family:楷体;><font size=\'5\'><font color=\'#FF0000\'>1999.cc</font></font></a></strong></tr></table>");
+document.writeln("");
+document.writeln("</tr></table></td>  ");
+document.writeln("");
+document.writeln("");
+
+document.writeln("         <!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
+document.writeln("<span style=\'background-color: #000000\'>323期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>虎02</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
 document.writeln("<font color=\'#FF0000\' size=\'5\'>【骅】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("⑴：解：骅，赤色的好马，解狗鼠蛇猴虎<br>⑵：骅，五行水，解水肖鼠猪</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：狗鼠蛇猴虎猪<br>");
+document.writeln("本期围特：狗鼠蛇猴<span style=\'background-color: #FFFF00\'>虎</span>猪<br>");
 document.writeln("主攻特肖：狗鼠蛇猴<br>");
 document.writeln("主攻特码：06.30.16.28.23.47.08.20.14.38.27.39</font><br><font color=\'#FFFF00\'>");
 document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");

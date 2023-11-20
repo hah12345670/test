@@ -16,9 +16,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("324期：平码【16.26.29.46.42.22.06.47.20.24.02.23】<br>");
+
 
 document.writeln("");
-document.writeln("323期：平码【33.29.25.49.13.08.36.30.42.31.44.03】<br>");
+document.writeln("323期：平码【33.<span style=\'background-color: #FFFF00\'>29</span>.25.49.13.08.<span style=\'background-color: #FFFF00\'>36</span>.30.42.31.44.03】<br>");
 
 
 

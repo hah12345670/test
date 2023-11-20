@@ -44,14 +44,13 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			323期<font color=\'#FF0000\'>【更新中】</font>");
+document.writeln("			324期<font color=\'#FF0000\'>【更新中】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：更新中</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：更新中<br>");
@@ -61,6 +60,7 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("	");

@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("323期：平特【羊兔拖龙猪】开？00<br>");
+document.writeln("324期：平特【蛇鸡拖猴马】开？00<br>");
 document.writeln("------<br>");
 
 

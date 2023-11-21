@@ -16,6 +16,19 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!------开始------>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
+document.writeln("<span style=\'color: #FF0000;\'>325期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
+document.writeln("【猪鸡鼠】【龙猴猪】【猴马猪】</font></td></tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【牛虎蛇】【虎兔猪】【鼠牛鸡】</font><font color=\'#008000\'> </font>");
+document.writeln("</td></tr>");
+document.writeln("<!------结束------>");
 
 document.writeln("<!------开始------>");
 document.writeln("<tr>");
@@ -25,7 +38,7 @@ document.writeln("<span style=\'color: #FF0000;\'>324期(2)连4.2倍(3)连11.12�
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【猪鸡鼠】【龙猴猪】【狗鼠猪】</font></td></tr>");
+document.writeln("【猪鸡鼠】【龙猴猪】<span style=\'background-color: #FFFF00\'>【狗鼠猪】</span></font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【虎蛇兔】【鸡龙虎】【鼠鸡蛇】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");

@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>325期一语中特【懦弱无能】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：懦弱指软弱无能。形容胆小怕事，缺乏才能。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠蛇牛鸡猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>324期一语中特【巍然挺立】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指像高山一样耸立，不可动摇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡龙马虎猪鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡龙马<span style=\'background-color: #FFFF00\'>虎</span>猪鼠开虎26准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -167,9 +176,9 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>324期一语中特【头撞南墙】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：用这种现象比喻某人的行为固执，听不进不同意见</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：用这种现象比喻某人的行为固执，听不进不同意见开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>325期一语中特【以势压人】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：凭借自己的权势去压制别人。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙蛇猪马狗开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

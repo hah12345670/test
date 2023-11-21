@@ -41,7 +41,6 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 
-docu
 document.writeln("");
 document.writeln("                         <!--开始--> ");
 document.writeln("		<tr>");

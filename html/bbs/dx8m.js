@@ -47,16 +47,30 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第327期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：小肖（牛虎马羊狗猪）<br>	");
+document.writeln("		主四肖：虎马羊狗<br>			");
+document.writeln("        博八码：02.38.10.34.21.33.06.18</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
 
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第326期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第326期八码中特开(蛇35)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：兔龙蛇猴<br>			");
+document.writeln("		特肖：小肖（鼠兔龙<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡）<br>	");
+document.writeln("		主四肖：兔龙<span style=\'background-color: #FFFF00\'>蛇</span>猴<br>			");
 document.writeln("        博八码：13.25.12.36.23.47.08.20</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");

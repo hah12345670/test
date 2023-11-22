@@ -33,8 +33,16 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
 
+document.writeln("         <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>327期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
 
 
 document.writeln("         <!--开始-->");
@@ -43,7 +51,7 @@ document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>326期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>326期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开蛇35准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 

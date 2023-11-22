@@ -16,9 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("326期：平码【18.29.04.13.38.42.28.09.21.06.12.16】<br>");
+document.writeln("327期：平码【14.09.40.28.01.10.11.25.16.45.06.30】<br>");
+
 
 
 document.writeln("");

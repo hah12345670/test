@@ -33,7 +33,22 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+document.writeln("<!--头部start--");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>327期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("更新中");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
+document.writeln("			四肖：更新中<br>");
+document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
 document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 
 
@@ -42,13 +57,13 @@ document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
 document.writeln("			<font style=\'font-size: 13pt\'>326期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("更新中");
+document.writeln("出二入八迎零七,两支曲刀头中拼");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八解二牛虎，八猴羊，零七解七马鸡，曲刀解带刀肖虎龙蛇兔。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
-document.writeln("			四肖：更新中<br>");
-document.writeln("			特码：更新中</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎龙<span style=\'background-color: #FFFF00\'>蛇</span>兔马鸡猴<br>");
+document.writeln("			四肖：虎龙<span style=\'background-color: #FFFF00\'>蛇</span>兔<br>");
+document.writeln("			特码：02.38.12.36.23.47.01.49.10.34.31.43.08.20</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

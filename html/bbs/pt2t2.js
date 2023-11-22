@@ -24,9 +24,13 @@ document.writeln("325期：平特【<span style=\'background-color: #FFFF00\'>�
 document.writeln("------<br>");
 
 
-document.writeln("326期：平特【马龙拖猪牛】开？00<br>");
+document.writeln("326期：平特【<span style=\'background-color: #FFFF00\'>马龙</span>拖猪牛】开46.22.12<br>");
 document.writeln("------<br>");
 
+
+
+document.writeln("327期：平特【牛兔拖鼠虎】开？00<br>");
+document.writeln("------<br>");
 
 
 

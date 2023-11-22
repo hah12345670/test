@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>326期一语中特【潦草塞责】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容不认真、不仔细,草率从事,也作“浮皮潦草”。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙鸡马猴狗开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>325期一语中特【懦弱无能】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：懦弱指软弱无能。形容胆小怕事，缺乏才能。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠蛇牛鸡猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠蛇牛<span style=\'background-color: #FFFF00\'>鸡</span>猴开鸡07准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -176,9 +185,9 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>325期一语中特【以势压人】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：凭借自己的权势去压制别人。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙蛇猪马狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>326期一语中特【想前顾后】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：想着前面,又顾虑后面。形容犹豫不决、矛盾重重的状态。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛虎马兔狗羊开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

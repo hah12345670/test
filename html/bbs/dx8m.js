@@ -47,14 +47,30 @@ document.writeln("");
 document.writeln("");
 
 
+
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第325期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第326期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
+document.writeln("		主四肖：兔龙蛇猴<br>			");
+document.writeln("        博八码：13.25.12.36.23.47.08.20</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
+
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第325期八码中特开(鸡07)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：小肖（鼠兔龙蛇猴<span style=\'background-color: #FFFF00\'>鸡</span>）<br>	");
 document.writeln("		主四肖：鼠龙蛇猴<br>			");
 document.writeln("        博八码：04.40.12.36.23.47.08.20</font></b></td>");
 document.writeln("    </tr>      ");

@@ -33,6 +33,25 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+document.writeln("");
+
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>326期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("更新中");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
+document.writeln("			四肖：更新中<br>");
+document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 
 
 
@@ -45,8 +64,8 @@ document.writeln("龙争虎斗争地头，马到成功家业大");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙马虎，争地头解地肖虎狗蛇羊鼠鸡，家业大解家肖狗马鸡羊猪牛。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：狗马鸡羊猪牛龙<br>");
-document.writeln("			四肖：狗马鸡羊<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：狗马<span style=\'background-color: #FFFF00\'>鸡</span>羊猪牛龙<br>");
+document.writeln("			四肖：狗马<span style=\'background-color: #FFFF00\'>鸡</span>羊<br>");
 document.writeln("			特码：06.30.10.34.31.43.21.33.05.41.15.27.36.48</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

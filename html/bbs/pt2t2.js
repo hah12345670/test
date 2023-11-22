@@ -20,8 +20,13 @@ document.writeln("");
 
 
 
-document.writeln("325期：平特【虎龙拖狗鸡】开？00<br>");
+document.writeln("325期：平特【<span style=\'background-color: #FFFF00\'>虎龙</span>拖狗<span style=\'background-color: #FFFF00\'>鸡</span>】开02.12.07<br>");
 document.writeln("------<br>");
+
+
+document.writeln("326期：平特【马龙拖猪牛】开？00<br>");
+document.writeln("------<br>");
+
 
 
 

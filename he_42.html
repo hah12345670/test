@@ -70,7 +70,8 @@
 				str1 = ''
 				if (xhr.status === 200) {
 					var jsonResponse = xhr.response;
-					let jsonstr = jsonResponse.slice(21, -14);
+					// let jsonstr = jsonResponse.slice(21, -14);
+					let jsonstr = jsonResponse.slice(17, -2);
 					let json_str = JSON.parse(jsonstr);
 					// console.log(json_str); // 返回的JSON对象
 					// console.log(json_str.result.data.prizeList);
@@ -95,7 +96,8 @@
 				str1 = ''
 				if (xhr.status === 200) {
 					var jsonResponse = xhr.response;
-					let jsonstr = jsonResponse.slice(21, -14);
+					// let jsonstr = jsonResponse.slice(21, -14);
+					let jsonstr = jsonResponse.slice(17, -2);
 					let json_str = JSON.parse(jsonstr);
 					// console.log(json_str); // 返回的JSON对象
 					// console.log(json_str.result.data.prizeList);
@@ -123,7 +125,8 @@
 				str1 = ''
 				if (xhr.status === 200) {
 					var jsonResponse = xhr.response;
-					let jsonstr = jsonResponse.slice(22, -14);
+					// let jsonstr = jsonResponse.slice(22, -14);
+					let jsonstr = jsonResponse.slice(18, -2);
 					let json_str = JSON.parse(jsonstr);
 					// console.log(json_str); // 返回的JSON对象
 					// console.log(json_str.result.data.prizeList);

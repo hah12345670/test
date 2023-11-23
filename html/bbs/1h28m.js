@@ -41,7 +41,7 @@ document.writeln("");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -67,7 +67,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -92,7 +92,7 @@ document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -119,7 +119,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -146,7 +146,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -173,7 +173,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -199,7 +199,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -226,7 +226,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -252,7 +252,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -278,7 +278,7 @@ document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
@@ -303,7 +303,7 @@ document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62361b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");

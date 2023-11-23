@@ -107,7 +107,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://qahghh.www62361b.com:888\"><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;color:#00f>关注62361b.com长期发表</a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://qahghh.www62361b.com:888\"><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;color:#00f>关注62519b.com长期发表</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln(" </div>");

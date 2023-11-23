@@ -4,7 +4,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62361c.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『西游谜语』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62519c.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『西游谜语』</font></b></table>");
 document.writeln("   ");
 document.writeln("");
 document.writeln("<!--推广开始-->");

@@ -40,8 +40,9 @@ document.writeln("					<b><font style=\"font-size: 16pt\">322期平特一肖【�
 document.writeln("323期平特一肖【龙】开龙36准<br>");
 document.writeln("					324期平特一肖【虎】开虎26准<br>");
 document.writeln("325期平特一肖【马】开马22准<br>	");
-document.writeln("326期平特一肖【鸡】开發00准</font></b><br>	");
-document.writeln("");
+document.writeln("326期平特一肖【鸡】开鸡31准<br>	");
+document.writeln("327期平特一肖【马】开發00准<br>	");
+document.writeln("</font></b>");
 document.writeln("");
 document.writeln("  </td></tr>");
 document.writeln("  </tbody>");

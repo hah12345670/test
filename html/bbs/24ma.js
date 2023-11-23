@@ -4,7 +4,7 @@ document.writeln("<tr>");
 document.writeln("<td style=\'font-weight:700;border:1px solid #000; height: 60px;\' align=center bgcolor=#000000 width=100%>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62361b.com</font><font color=\'#FFFFFF\'>『24码中特』</font></font></b></table></td></tr>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62519b.com</font><font color=\'#FFFFFF\'>『24码中特』</font></font></b></table></td></tr>");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949\' style=\'text-decoration: none\'>");
@@ -17,12 +17,29 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("<!-----开始----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("327期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<font color=\'#0000FF\'>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("");
+document.writeln("（33.24.25.06.46.08.17.49.48.15.45.32）<br>");
+document.writeln("（12.10.19.16.40.14.18.22.21.11.29.27）</span></font></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
+document.writeln("");
+
 
 document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("326期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("326期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>蛇35</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
@@ -30,7 +47,7 @@ document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
 document.writeln("（48.21.46.25.43.33.45.19.23.38.15.49）<br>");
-document.writeln("（29.09.27.18.10.41.05.13.35.28.32.02）</span></font></p>");
+document.writeln("（29.09.27.18.10.41.05.13.<span style=\'background-color: #FFFF00\'>35</span>.28.32.02）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");

@@ -24,7 +24,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律一】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律一】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -40,7 +40,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律二】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律二】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -55,7 +55,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律三】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律三】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -70,7 +70,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律四】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律四】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -86,7 +86,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律五】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律五】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -101,7 +101,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律六】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律六】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -117,7 +117,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律七】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律七】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -132,7 +132,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律八】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律八】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -146,7 +146,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律九】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律九】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -161,7 +161,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律十】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律十】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -176,7 +176,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律11】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律11】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -191,7 +191,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律12】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律12】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -206,7 +206,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律13】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律13】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -221,7 +221,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律14】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律14】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -236,7 +236,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律15】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律15】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -251,7 +251,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律16】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律16】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -266,7 +266,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律17】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律17】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");
@@ -281,7 +281,7 @@ document.writeln("<b><font color=\'#000000\' face=\'微软雅黑\'>327期</font>
 document.writeln("</font> ");
 document.writeln("</span> ");
 document.writeln("<strong> <span style=\'text-decoration: none\'> <span style=\'font-family: 微软雅黑;\'>                ");
-document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律18】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62361.com</span></font>              ");
+document.writeln("<font color=\'#000000\'>短期</font><span style=\'color: #ff0000;\'>【规律18】</span></span><font color=\'#000000\'><span style=\'font-family: 微软雅黑\'>62519.com</span></font>              ");
 document.writeln("</span><span style=\'text-decoration: none; color: #000000; font-family: 微软雅黑\'>");
 document.writeln("<img src=\'/images/3957bc323b.gif\' width=\'30\' height=\'auto\'>");
 document.writeln("</span></strong></a>        </td>      ");

@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>327期一语中特【黎民百姓】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指普通老百姓。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马猴鸡鼠羊开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>326期一语中特【潦草塞责】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容不认真、不仔细,草率从事,也作“浮皮潦草”。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙鸡马猴狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>蛇</span>龙鸡马猴狗开蛇35准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -185,9 +194,9 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>326期一语中特【想前顾后】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：想着前面,又顾虑后面。形容犹豫不决、矛盾重重的状态。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛虎马兔狗羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>327期一语中特【观望风色】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：观望：看风头。指犹豫不定，坐观情势发展，以便见机行事。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴蛇羊鸡兔开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

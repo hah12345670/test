@@ -32,7 +32,7 @@ document.writeln("");
 
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong18\'>");
-document.writeln("	<div class=\'bizhong18-tit\'>弑神者（62361b.com）15码中特</div>");
+document.writeln("	<div class=\'bizhong18-tit\'>弑神者（62519b.com）15码中特</div>");
 document.writeln("	<div class=\'bizhong18-box\'>");
 document.writeln("    	<div class=\'bizhong18-l\'>");
 document.writeln("        	<ul>");

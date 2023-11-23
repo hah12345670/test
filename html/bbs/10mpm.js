@@ -17,7 +17,11 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("327期：平码【14.09.40.28.01.10.11.25.16.45.06.30】<br>");
+document.writeln("328期：平码【28.29.15.25.34.32.18.12.10.02.05.08】<br>");
+
+
+document.writeln("");
+document.writeln("327期：平码【<span style=\'background-color: #FFFF00\'>14</span>.09.40.28.01.10.<span style=\'background-color: #FFFF00\'>11.25</span>.16.45.<span style=\'background-color: #FFFF00\'>06</span>.30】<br>");
 
 
 

@@ -47,7 +47,7 @@ document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		327期(3)肖</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>【82693b.com已更新进入查看】</font><font face=\'微软雅黑\' size=\'4\'>开<font color=\'#FF00FF\'>？00</font></font></b></td>");
+document.writeln("		327期(3)肖</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>【龙蛇羊】</font><font face=\'微软雅黑\' size=\'4\'>开<font color=\'#FF00FF\'>？00</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("     ");
 document.writeln("");

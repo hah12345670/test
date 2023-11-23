@@ -14,13 +14,19 @@ document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("328期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏冬</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("						<!--开始-->");
+
 
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("327期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏秋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("327期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春<span style=\'background-color: #FFFF00\'>夏</span>秋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>羊21</span>准</font></font></b></font></table>");
 document.writeln("						<!--开始-->");
 
 

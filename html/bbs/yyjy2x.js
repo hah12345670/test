@@ -18,40 +18,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("327期：<font color=\'#0000FF\'>（野兽+鸡猪）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("328期：<font color=\'#0000FF\'>（家禽+龙虎）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("325期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+猴兔）</font>开<font color=\'#FF0000\'>(鸡07)</font></font></b></font></table>");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("324期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+马狗）</font>开<font color=\'#FF0000\'>(虎26)</font></font></b></font></table>");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("323期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+马羊）</font>开<font color=\'#FF0000\'>(虎02)</font></font></b></font></table>");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("322期：<font color=\'#0000FF\'>（家禽+<span style=\'background-color: #FFFF00\'>猴</span>虎）</font>开<font color=\'#FF0000\'>(猴32)</font></font></b></font></table>");
-document.writeln("");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("320期：<font color=\'#0000FF\'>（家禽+<span style=\'background-color: #FFFF00\'>蛇</span>鼠）</font>开<font color=\'#FF0000\'>(蛇23)</font></font></b></font></table>");
-document.writeln("");
-
-
 
 
 

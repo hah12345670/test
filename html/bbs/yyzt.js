@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>328期一语中特【踪迹诡秘】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：行踪隐秘难测。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴猪羊蛇鸡虎开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>327期一语中特【黎民百姓】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指普通老百姓。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马猴鸡鼠羊开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙马猴鸡鼠<span style=\'background-color: #FFFF00\'>羊</span>开羊21准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -194,9 +203,17 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>328期一语中特【心事重重】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：心里挂着很多沉重的顾虑。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔猪狗猴龙牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>327期一语中特【观望风色】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：观望：看风头。指犹豫不定，坐观情势发展，以便见机行事。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴蛇羊鸡兔开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴蛇<span style=\'background-color: #FFFF00\'>羊</span>鸡兔开羊21准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

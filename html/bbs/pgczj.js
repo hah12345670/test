@@ -20,22 +20,45 @@ document.writeln("");
 
 
 
+document.writeln("         <!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
+document.writeln("<span style=\'background-color: #000000\'>328期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【所】</font></b><br>");
+document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
+document.writeln("<font color=\'#0000FF\'>");
+document.writeln("⑴：解：所，处所，解家禽牛马羊狗猪鸡<br>⑵：所，五行金，解金肖猴鸡</font></span><br>");
+document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
+document.writeln("本期围特：牛马猴狗猪鸡<br>");
+document.writeln("主攻特肖：牛马猴狗<br>");
+document.writeln("主攻特码：15.39.10.34.20.44.18.30.05.29.31.43</font><br><font color=\'#FFFF00\'>");
+document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
+document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
+document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://j.1999zx.com:1999/\'><img src=https://www.62753b.com/images/33567.gif width=20 height=19><span style=font-family:楷体;color:#00f><font size=\'4\'>点击投注六合彩</font></span><span style=font-family:楷体;><font size=\'5\'><font color=\'#FF0000\'>1999.cc</font></font></a></strong></tr></table>");
+document.writeln("");
+document.writeln("</tr></table></td>  ");
+document.writeln(""
+
 
 document.writeln("         <!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>327期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>327期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>羊21</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
 document.writeln("<font color=\'#FF0000\' size=\'5\'>【认】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("⑴：解：认，认识。解蛇羊猴猪牛<br>⑵：认，五行金，解金肖猴鸡</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：蛇羊猴猪牛鸡<br>");
-document.writeln("主攻特肖：蛇羊猴猪<br>");
-document.writeln("主攻特码：11.47.21.33.08.20.05.41.15.39.31.43</font><br><font color=\'#FFFF00\'>");
+document.writeln("本期围特：蛇<span style=\'background-color: #FFFF00\'>羊</span>猴猪牛鸡<br>");
+document.writeln("主攻特肖：蛇<span style=\'background-color: #FFFF00\'>羊</span>猴猪<br>");
+document.writeln("主攻特码：11.47.<span style=\'background-color: #FFFF00\'>21</span>.33.08.20.05.41.15.39.31.43</font><br><font color=\'#FFFF00\'>");
 document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
 document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");

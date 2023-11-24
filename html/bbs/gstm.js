@@ -48,9 +48,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<span style=\"font-size: 13pt\">		");
 
-document.writeln("	318期（平5*4+特-D2+平5+正3-2）=杀蛇鸡√<br>		");
-document.writeln("	319期（平5*4+特-D2+平5+正3-2）=杀蛇牛√<br>		");
-document.writeln("	320期（平5*4+特-D2+平5+正3-2）=杀蛇羊×<br>		");
+
 document.writeln("	321期（平5*4+特-D2+平5+正3-2）=杀牛鼠√<br>		");
 document.writeln("	322期（平5*4+特-D2+平5+正3-2）=杀马蛇√<br>		");
 document.writeln("	323期（平5*4+特-D2+平5+正3-2）=杀猪牛√<br>		");
@@ -58,6 +56,7 @@ document.writeln("	324期（平5*4+特-D2+平5+正3-2）=杀羊蛇√<br>		");
 document.writeln("	325期（平5*4+特-D2+平5+正3-2）=杀马龙√<br>		");
 document.writeln("	326期（平5*4+特-D2+平5+正3-2）=杀牛猪√<br>		");
 document.writeln("	327期（平5*4+特-D2+平5+正3-2）=杀猴龙√<br>		");
+document.writeln("	328期（平5*4+特-D2+平5+正3-2）=杀龙虎√<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 
@@ -72,6 +71,7 @@ document.writeln("      324期（平4*2+正1-D3+正6+正3-特）=杀火√<br>		
 document.writeln("      325期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
 document.writeln("      326期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("      327期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
+document.writeln("      328期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -80,12 +80,9 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("		322期（平5-2-D2+正4）=杀20尾√<br>		");
-document.writeln("		323期（平5-2-D2+正4）=杀56尾√<br>		");
-document.writeln("		324期（平5-2-D2+正4）=杀36尾×<br>		");
-document.writeln("		325期（平5-2-D2+正4）=杀73尾×<br>		");
 document.writeln("		326期（平5-2-D2+正4）=杀98尾√<br>		");
-document.writeln("		327期（平5-2-D2+正4）=杀10尾√<br>		");
+document.writeln("		327期（平5-2-D2+正4）=杀10尾×<br>		");
+document.writeln("		328期（平5-2-D2+正4）=杀53尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -104,24 +101,16 @@ document.writeln("		324期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		325期（平4+3-D1+正2-平3）=杀0头√<br>		");
 document.writeln("		326期（平4+3-D1+正2-平3）=杀3头×<br>		");
 document.writeln("		327期（平4+3-D1+正2-平3）=杀3头√<br>		");
+document.writeln("		328期（平4+3-D1+正2-平3）=杀0头√<br>		");
 document.writeln("<br>");
 document.writeln("		");
 
 
 
 
-document.writeln("        <font color=\'#0000FF\'>316期四头=<span style=\'background-color: #FFFF00\'>4</span>120√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>317期四头=<span style=\'background-color: #FFFF00\'>4</span>123√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>318期四头=<span style=\'background-color: #FFFF00\'>4</span>103√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>319期四头=1203×</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>320期四头=<span style=\'background-color: #FFFF00\'>2</span>134√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>321期四头=324<span style=\'background-color: #FFFF00\'>1</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>322期四头=120<span style=\'background-color: #FFFF00\'3</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>323期四头=3<span style=\'background-color: #FFFF00\'>0</span>24√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>324期四头=3041×</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>325期四头=4321×</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>326期四头=40<span style=\'background-color: #FFFF00\'>3</span>2√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>327期四头=1342√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>327期四头=134<span style=\'background-color: #FFFF00\'>2</span>√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>328期四头=0234√</font><br>	");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -131,7 +120,8 @@ document.writeln("		<font color=\'#0000FF\'>323期七肖=<span style=\'backgroun
 document.writeln("		<font color=\'#0000FF\'>324期七肖=龙狗马<span style=\'background-color: #FFFF00\'>虎</span>鼠牛羊√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>325期七肖=猪鼠马<span style=\'background-color: #FFFF00\'>鸡</span>猴牛蛇√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>326期七肖=鸡牛狗鼠<span style=\'background-color: #FFFF00\'>蛇</span>猴龙√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>327期七肖=猪牛兔龙虎羊狗√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>327期七肖=猪牛兔龙虎<span style=\'background-color: #FFFF00\'>羊</span>狗√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>328期七肖=鼠鸡猴兔猪马蛇√</font><br>		");
 document.writeln("		");
 document.writeln("		");
 document.writeln("<br>	");
@@ -143,7 +133,8 @@ document.writeln("		<font color=\'#0000FF\'>323期三行=<span style=\'backgroun
 document.writeln("		<font color=\'#0000FF\'>324期三行=木水<span style=\'background-color: #FFFF00\'>土</span>√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>325期三行=水木<span style=\'background-color: #FFFF00\'>火</span>√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>326期三行=金火<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>327期三行=木金土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>327期三行=<span style=\'background-color: #FFFF00\'>木</span>金土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>328期三行=水火土√</font><br>			");
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -151,12 +142,7 @@ document.writeln("        </span>		");
 
 
 
-document.writeln("		");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">323期六尾=1358<span style=\'background-color: #FFFF00\'>2</span>4√</span></font><br>	");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">324期六尾=493217×</span></font><br>	");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">325期六尾=8263<span style=\'background-color: #FFFF00\'>7</span>5√</span></font><br>	");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">326期六尾=937821×</span></font><br>	");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">327期六尾=025368√</span></font><br>	");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 14pt\">328期六尾=180964√</span></font><br>	");
 document.writeln("		");
 document.writeln("");
 document.writeln("	");

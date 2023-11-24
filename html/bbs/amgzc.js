@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/327/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/328/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
@@ -59,38 +59,13 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第327期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【欲罢不能】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：罢：停；歇。想停止却又收不住。指因各种原因（包括迫于形势）无法中止。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第328期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【拒之千里】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：拒之千里是把人挡在千里之外，不愿接近人。形容态度极其傲慢。指不听取别人的意见。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠狗虎鸡兔龙</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：羊牛狗虎猪鼠</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第325期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鸡07中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【目不转睛】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：指眼球一动不动地盯着看，形容注意力高度集中。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：羊狗鼠<span style=\'background-color: #FFFF00\'>鸡</span>兔马</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("");
-
-document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第324期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：虎26中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【冲锋陷阵】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：向敌人冲击，深入敌阵。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>虎</span>鸡猴牛龙蛇</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("");
-
 
 
 
@@ -105,56 +80,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/327/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.qingxinmingxiang.com:4949/col/328/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第327期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿蓝偷得美人归】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第325期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红07中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿波有特兼防红】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第323期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红02中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【双来红绿挡不住】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第321期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红19中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝红特码蓝也好】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第319期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝42中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿荷生出红莲华】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第318期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿49中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红绿特码任您选】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第317期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝41中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红旺波弱绿跟齐】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第316期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙48中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝蓝绿绿蓝为主】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("	");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第315期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猪29中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第328期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝色一波藏绿机】</span></font><br>");
 document.writeln("	==========================<br>");
-document.writeln("	");
-
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第327期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿21中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿蓝偷得美人归】</span></font><br>");
 
 
 document.writeln("");

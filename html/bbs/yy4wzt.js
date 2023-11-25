@@ -21,7 +21,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("328期<font color=\'#FF00FF\'>（狗鸡蛇+5480尾）</font>开？00</font></b></font></table>");
+document.writeln("329期<font color=\'#FF00FF\'>（牛猴龙+7586尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -41,7 +41,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388ttz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln(" ");

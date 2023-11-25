@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>328期一语中特【踪迹诡秘】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：行踪隐秘难测。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴猪羊蛇鸡虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>329期一语中特【碧波荡漾】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：青绿色。波：波浪。青绿色的波浪。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎马狗蛇鼠猴开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -200,12 +200,18 @@ document.writeln("   <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>329期一语中特【横生枝节】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：表示意外地插进了一些问题，使主要问题不能顺利解决。枝节：比喻细小的或旁出的事情。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠鸡牛蛇马龙开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>328期一语中特【心事重重】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：心里挂着很多沉重的顾虑。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔猪狗猴龙牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>兔</span>猪狗猴龙牛开兔01准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

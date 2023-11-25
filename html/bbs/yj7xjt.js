@@ -19,15 +19,27 @@ document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpaddi
 document.writeln("");
 
 
+
+document.writeln("<tr>");
+document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
+document.writeln("		329期</font></th>");
+document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
+document.writeln("				<span style=\'text-decoration: none\'>");
+document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
+document.writeln("				兔猪龙蛇鼠牛马，合双大数中本期</font></th>");
+document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
+document.writeln("				开？00</font></th>");
+document.writeln("			</tr>");
+
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("		328期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("				兔猪狗羊龙猴虎，合双小数中本期</font></th>");
+document.writeln("				<span style=\'background-color: #FFFF00\'>兔</span>猪狗羊龙猴虎，合双<span style=\'background-color: #FFFF00\'>小数</span>中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
-document.writeln("				开？00</font></th>");
+document.writeln("				开兔01</font></th>");
 document.writeln("			</tr>");
 
 
@@ -207,7 +219,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("</body>");

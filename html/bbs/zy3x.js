@@ -15,7 +15,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
@@ -31,7 +31,14 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("328期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>右肖+鼠龙</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("329期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>右肖+蛇龙</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("328期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+鼠龙</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔01</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -59,18 +66,6 @@ document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("324期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+蛇猴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎26</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("322期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+虎兔</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴32</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("320期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+马虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇23</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

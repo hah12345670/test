@@ -38,7 +38,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("328期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+猴马牛</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("329期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+蛇虎狗</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -70,25 +70,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("322期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+龙<span style=\'background-color: #FFFF00\'>猴</span>猪</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴32</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("320期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+牛猴马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇23</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("319期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\"background-color: #FFFF00\">地肖</span>+牛兔马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗42</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("318期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+猴<span style=\"background-color: #FFFF00\">兔</span>马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔49</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
 
 
 document.writeln("");

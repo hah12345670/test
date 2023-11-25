@@ -27,14 +27,32 @@ document.writeln("      ");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388tz.com:2388\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388ttz.com:2388\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第329期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    羊21.33马10.46蛇11.47<br>");
+document.writeln("		虎02.38狗30.42鸡19.43<br>");
+document.writeln("		猴20.44猪05.17兔13.49<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
+document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -44,7 +62,7 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第328期<font color=
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    猪05.41兔25.37牛15.39<br>");
+document.writeln("	    猪05.41</font><font face=\'隶书\' size=\'5\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">兔</span></font><font face=\'隶书\' size=\'5\' color=\'#0000FF\'>25.37牛15.39<br>");
 document.writeln("		虎02.38鼠28.40马22.34<br>");
 document.writeln("		羊21.33猴08.20蛇23.47<br>");
 document.writeln("		  </font>  ");
@@ -52,8 +70,8 @@ document.writeln("	");
 document.writeln("		</b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

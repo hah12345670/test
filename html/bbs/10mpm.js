@@ -16,8 +16,13 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 
+
 document.writeln("");
-document.writeln("328期：平码【28.29.15.25.34.32.18.12.10.02.05.08】<br>");
+document.writeln("329期：平码【25.11.47.43.01.28.03.08.16.31.49.14】<br>");
+
+
+document.writeln("");
+document.writeln("328期：平码【28.29.15.25.34.32.18.<span style=\'background-color: #FFFF00\'>12.10.02</span>.05.<span style=\'background-color: #FFFF00\'>08</span>】<br>");
 
 
 document.writeln("");

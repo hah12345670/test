@@ -18,9 +18,9 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("328期：平特【马龙拖羊鼠】开？00<br>");
+document.writeln("329期：平特【狗猴拖猪龙】开？00<br>");
 document.writeln("------<br>");
+
 
 
 document.writeln("327期：平特【<span style=\'background-color: #FFFF00\'>牛兔</span>拖鼠<span style=\'background-color: #FFFF00\'>虎</span>】开15.25.14<br>");
@@ -44,7 +44,7 @@ document.writeln("");
 document.writeln("<!-----开始----->");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388tz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln(" ");

@@ -29,7 +29,7 @@ document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma328.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://asddasdas.www123769a.com:888/gsbtu/30ma330.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

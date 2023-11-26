@@ -47,7 +47,7 @@ document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		329期(3)肖</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>【82693b.com已更新，进入查看】</font><font face=\'微软雅黑\' size=\'4\'>开<font color=\'#FF00FF\'>？00</font></font></b></td>");
+document.writeln("		329期(3)肖</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>【鼠牛虎】</font><font face=\'微软雅黑\' size=\'4\'>开<font color=\'#FF00FF\'>？00</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("     ");
 document.writeln("");
@@ -149,7 +149,7 @@ document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">325期：�
 document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">326期：△♂【<font color=\"#0000FF\">04.44.</font></font><font size=\"5\" color=\"#FF0000\"><span style=\"background-color: #FFFF00\">35</span></font><font style=\"font-size: 13pt\" color=\"#0000FF\">.39.13.19.41.28.20.43.25</font><font style=\"font-size: 13pt\">】开</font><font color=\"#FF0000\" style=\"font-size: 13pt\">35中</font></p>");
 document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">327期：△♂【<font color=\"#0000FF\">19.08.40.49.24.23.43.</font></font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">21</span></font><font style=\"font-size: 13pt\"><font color=\"#0000FF\">.20.04.41</font>】开</font><font color=\"#FF0000\" style=\"font-size: 13pt\">21中</font></p>");
 document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">328期：△♂【<font color=\"#0000FF\">12.18.40.30.04.44.38.28.10.49.08</font>】开</font><font color=\"#FF0000\" style=\"font-size: 13pt\">01错</font></p>");
-document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">329期：△♂【<font color=\"#0000FF\">75879b.com 已更新，进入论坛查看</font>】开</font><font color=\"#FF0000\" style=\"font-size: 13pt\">00中</font></p>");
+document.writeln("<p align=\"center\"><font style=\"font-size: 13pt\">329期：△♂【<font color=\"#0000FF\">28.40.32.19.43.42.14.44.23.33.38</font>】开</font><font color=\"#FF0000\" style=\"font-size: 13pt\">00中</font></p>");
 document.writeln("    ");
 document.writeln("    </tr>     ");
 document.writeln("     ");

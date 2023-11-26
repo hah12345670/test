@@ -18,7 +18,8 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("329期：平码【25.11.47.43.01.28.03.08.16.31.49.14】<br>");
+document.writeln("330期：平码【36.05.13.06.16.43.47.04.35.17.42.28】<br>");
+
 
 
 document.writeln("");

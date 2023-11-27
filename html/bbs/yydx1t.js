@@ -17,11 +17,15 @@ document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	331期<font color=\'#FF0000\'>（小数+4头）</font>开？00√</font></b></font></table>");
+document.writeln("	332期<font color=\'#FF0000\'>（大数+1头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	331期<font color=\'#FF0000\'>（小数+<span style=\'background-color: #FFFF00\'>4头</span>）</font>开马46√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -35,11 +39,6 @@ document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\
 document.writeln("	328期<font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>小数</span>+4头）</font>开兔01√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	326期<font color=\'#FF0000\'>（小数+<span style=\'background-color: #FFFF00\'>3头</span>）</font>开蛇35√</font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 

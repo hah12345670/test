@@ -23,7 +23,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("331期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>猴牛虎羊兔鸡</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
+document.writeln("332期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>牛龙蛇猴马狗</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
@@ -31,28 +31,7 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("330期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>蛇猪猴<span style=\'background-color: #FFFF00\'>狗</span>牛羊</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("327期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>鼠<span style=\'background-color: #FFFF00\'>羊</span>鸡猴牛狗</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("326期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>羊马鼠狗鸡<span style=\'background-color: #FFFF00\'>蛇</span></font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("325期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>羊兔马猴蛇<span style=\'background-color: #FFFF00\'>鸡</span></font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

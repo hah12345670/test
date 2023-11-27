@@ -60,425 +60,389 @@ document.writeln("");
 document.writeln("        <!--开始--> ");
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://sghaj.dsajflkdasfu78968.com:2025\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【六合宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【六合宝典】<font color=\'#FF0000\'>（三期必中）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 document.writeln("        <!--结束-->  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'      https://tgam.82200aa.com:9898/#qwt'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【特码大王】<font color=\'#FF0000\'>（二码中特）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【特码大王】<font color=\'#FF0000\'>（二码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'       https://gfreqasca.www97185c.com:8443/#qwt'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【大三八网】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（平特一肖）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【大三八网】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（平特一肖）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\' https://gugugu.www59631c.com:888/#qwt   \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【御龙英豪】<font color=\'#FF0000\'>（二期必中）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【御龙英豪】<font color=\'#FF0000\'>（二期必中）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://oijnbgv.www51926b.com:888/#49qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【飞龙在天】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【飞龙在天】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://dssdfsd.www72385c.com:8443/#qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【王中王@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【王中王@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://frqfecxa.www98217b.com:8443/#qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【今日头条】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（三期必开）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【今日头条】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（三期必开）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403268&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【小芭比@】<font color=\'#FF0000\'>（两半单双）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411125&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【小芭比@】<font color=\'#FF0000\'>（两半单双）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://sghaj.dsajflkdasfu78968.com:2025\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【六合宝典】<font color=\'#FF0000\'>（无错单双）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【六合宝典】<font color=\'#FF0000\'>（无错单双）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33403733&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【蓝月亮@】<font color=\'#FF0000\'>（六肖12码）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33411786&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【蓝月亮@】<font color=\'#FF0000\'>（六肖12码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33403728&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【盛世唐朝】<font color=\'#FF0000\'>（六肖⑥码）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33411776&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【盛世唐朝】<font color=\'#FF0000\'>（六肖⑥码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33403724&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【头条号@】<font color=\'#FF0000\'>（头条六肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=33411773&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【头条号@】<font color=\'#FF0000\'>（头条六肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403406&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【鄙人称乌】<font color=\'#FF0000\'>（绝杀一尾）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411315&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【鄙人称乌】<font color=\'#FF0000\'>（绝杀一尾）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403437&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【不努力如】<font color=\'#FF0000\'>（强杀一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411327&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【不努力如】<font color=\'#FF0000\'>（强杀一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403446&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【顿顿大鱼】<font color=\'#FF0000\'>（稳杀①头）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411345&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【顿顿大鱼】<font color=\'#FF0000\'>（稳杀①头）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403395&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【东莞市神】<font color=\'#FF0000\'>（稳杀十码）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411309&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【东莞市神】<font color=\'#FF0000\'>（稳杀十码）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://49150.com/#/corpusdetail?id=33403505&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【梦回最初】<font color=\'#FF0000\'>（绝杀半波）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411222&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【国妓总奸】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403442&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【就想中点】<font color=\'#FF0000\'>（三头中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411335&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【就想中点】<font color=\'#FF0000\'>（三头中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403339&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【胸不平何】<font color=\'#FF0000\'>（两波中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411256&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【胸不平何】<font color=\'#FF0000\'>（两波中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403351&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【时间飞快】<font color=\'#FF0000\'>（绝杀三肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411264&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【时间飞快】<font color=\'#FF0000\'>（绝杀三肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33403302&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【女人无才】<font color=\'#FF0000\'>（单双两肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403249&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【我心依旧】<font color=\'#FF0000\'>（绝杀半波）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403230&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【夏已季末】<font color=\'#FF0000\'>（绝杀一段）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403239&type=3\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【羙人呸@】<font color=\'#FF0000\'>（合数单双）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ");
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403258&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【时不我待】<font color=\'#FF0000\'>（禁二合数）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217001.com:8443/#/corpusdetail?id=33411233&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【天涯明月】<font color=\'#FF0000\'>（九肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403237&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【花泽烈@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411164&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【我心依旧】<font color=\'#FF0000\'>（绝杀半波）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403261&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【一往无前】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411106&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【夏已季末】<font color=\'#FF0000\'>（绝杀一段）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403309&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【亲哎的你】<font color=\'#FF0000\'>（特码三头）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411099&type=3\'>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【羙人呸@】<font color=\'#FF0000\'>（合数单双）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403252&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【酒三生@】<font color=\'#FF0000\'>（ 6肖必中）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411171&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【时不我待】<font color=\'#FF0000\'>（禁二合数）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ");
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411114&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【花泽烈@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403331&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【精彩人升】<font color=\'#FF0000\'>（七肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411177&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【一往无前】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
-document.writeln("        </li>  ")
-
+document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403295&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【我的专业】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411228&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【亲哎的你】<font color=\'#FF0000\'>（特码三头）</font>已公开</strong></div>");
 document.writeln("            </a>");
-document.writeln("        </li>  ")
+document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403283&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【空白键@】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'ttps://h5.49217002.com:8443/#/corpusdetail?id=33411113&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【酒三生@】<font color=\'#FF0000\'>（ 6肖必中）</font>已公开</strong></div>");
 document.writeln("            </a>");
-document.writeln("        </li>  ")
+document.writeln("        </li>  ");
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403541&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【纵横甲@】<font color=\'#FF0000\'>（五尾中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403546&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【挽歌半夏】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403344&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【银河系@】<font color=\'#FF0000\'>（9肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411261&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【精彩人升】<font color=\'#FF0000\'>（七肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403555&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【残雪冰心】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411205&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【我的专业】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403306&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【枉少年@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411169&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【空白键@】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403334&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【给我滚@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411633&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【纵横甲@】<font color=\'#FF0000\'>（五尾中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
+
+
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403375&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【安泽熙@】<font color=\'#FF0000\'>（平特⑴尾）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411265&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【银河系@】<font color=\'#FF0000\'>（9肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411654&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【残雪冰心】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411202&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【给我滚@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 	
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403321&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【赢飞纷纷】<font color=\'#FF0000\'>（四行中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411253&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【赢飞纷纷】<font color=\'#FF0000\'>（四行中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403365&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【仰望夕阳】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411273&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【仰望夕阳】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403567&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【幽沁儿@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411663&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【幽沁儿@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403570&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【欢乐男孩】<font color=\'#FF0000\'>（绝杀一肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\' https://h5.49217002.com:8443/#/corpusdetail?id=33403562&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【祖师爺@】<font color=\'#FF0000\'>（必中单双）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403536&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【哈妮克孜】<font color=\'#FF0000\'>（三行中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403760&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【风雨哈佛】<font color=\'#FF0000\'>（一波中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403542&type=3 \' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【东北彩王】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411673&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【欢乐男孩】<font color=\'#FF0000\'>（绝杀一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403557&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【玛丽莲梦】<font color=\'#FF0000\'>（必中波色）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411498&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【祖师爺@】<font color=\'#FF0000\'>（必中单双）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403372&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【天上人间】<font color=\'#FF0000\'>（绝杀三肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411443&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【哈妮克孜】<font color=\'#FF0000\'>（三行中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403796&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【全力以赴】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411478&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【风雨哈佛】<font color=\'#FF0000\'>（一波中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403389&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【月似玉@】<font color=\'#FF0000\'>（稳中五肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403225&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【雾都小黄】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411447&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【东北彩王】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403577&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【呆傻萌@】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411487&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【玛丽莲梦】<font color=\'#FF0000\'>（必中波色）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411186&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【天上人间】<font color=\'#FF0000\'>（绝杀三肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411736&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【全力以赴】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411266&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【月似玉@】<font color=\'#FF0000\'>（稳中五肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411098&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【雾都小黄】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411689&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【金色说@】<font color=\'#FF0000\'>（一头中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403585&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【寄遥梦@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403590&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【金色说@】<font color=\'#FF0000\'>（一头中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403594&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【意薄荷红】<font color=\'#FF0000\'>（7码中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403601&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【骚气蓬勃】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411341&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【骚气蓬勃】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403220&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【村主鈓@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【村主鈓@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403299&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【理想还是】<font color=\'#FF0000\'>（5肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411223&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【理想还是】<font color=\'#FF0000\'>（5肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403313&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【中奖期望】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411250&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【中奖期望】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403291&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【澳彩鼠@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411095&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【澳彩鼠@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403458&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【转职六合】<font color=\'#FF0000\'>（2波中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411215&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【转职六合】<font color=\'#FF0000\'>（2波中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403403&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【想个名字】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411287&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【想个名字】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'     https://rrrwww.www71697a.com:8443/#49qwt  \'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【澳任我发】<font color=\'#FF0000\'>（两期必开）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【澳任我发】<font color=\'#FF0000\'>（两期必开）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'        https://popopo.www39871a.com:888/#49qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【蓝月亮网】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（四肖中特）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【蓝月亮网】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（四肖中特）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'       https://asdqfdfb.www71685a.com:8443/#49qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>   331期【澳牛魔王】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（单双100%）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>   332期【澳牛魔王】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（单双100%）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'        https://xzcsaasc.www68729a.com:888/#qwt\'>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 331期【澳利澳@】<font color=\'#FF0000\'>（18码中特）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 332期【澳利澳@】<font color=\'#FF0000\'>（18码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'        https://j.jzxke120.com:888/#49qwt '>");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【49聊天室】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（一码中特）</font></span>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【49聊天室】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（一码中特）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
 
@@ -486,302 +450,342 @@ document.writeln("        </li>  ");
 
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403603&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【细语凝香】<font color=\'#FF0000\'>（15码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411710&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【细语凝香】<font color=\'#FF0000\'>（15码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403605&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【超萌杀手】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411715&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【超萌杀手】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403608&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【独单心事】<font color=\'#FF0000\'>（20码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411725&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【独单心事】<font color=\'#FF0000\'>（20码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403621&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【离城梦@】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411735&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【离城梦@】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403624&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【猫尾娘@】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411743&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【猫尾娘@】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403682&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【秋山雪月】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411482&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【秋山雪月】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403687&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【怎及此@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411489&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【怎及此@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403689&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【博学多闻】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411492&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【博学多闻】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411509&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【风尘君@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403699&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【秋叶绚丽】<font color=\'#FF0000\'>（一头中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411517&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【焦点人物】<font color=\'#FF0000\'>（5肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403704&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【来去皆江】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411522&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【花舞珊@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403708&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【风尘君@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411527&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【小七情@】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403713&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【焦点人物】<font color=\'#FF0000\'>（5肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411533&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【无恶不作】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403721&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【花舞珊@】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411540&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【烽烟过往】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403723&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【小七情@】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411547&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【淡淡稻花】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403725&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【无恶不作】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411424&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【连锁反应】<font color=\'#FF0000\'>（三尾中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403730&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【烽烟过往】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411338&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【雪飘漫天】<font color=\'#FF0000\'>（阴阳特肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403734&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【淡淡稻花】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411360&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【马上就赚】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403519&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【连锁反应】<font color=\'#FF0000\'>（三尾中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411156&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【一步壹脚】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403512&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【雪飘漫天】<font color=\'#FF0000\'>（阴阳特肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411101&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【老衲法号】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403730&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【马上就赚】<font color=\'#FF0000\'>（十码中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411117&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【一场春暖】<font color=\'#FF0000\'>（书画棋琴）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403532&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【烽烟过往】<font color=\'#FF0000\'>（稳料四肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411124&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【一向等待】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403730&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【一步壹脚】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411162&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【與我無關】<font color=\'#FF0000\'>（平特一尾）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403222&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【爱不释手】<font color=\'#FF0000\'>（左右中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411170&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【手心的海】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403227&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【老衲法号】<font color=\'#FF0000\'>（大小中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411175&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【半島舊夢】<font color=\'#FF0000\'>（一波中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411188&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【空山心雨】<font color=\'#FF0000\'>（双波中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403241&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【比你帅@】<font color=\'#FF0000\'>（一波中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411232&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【淡看云卷】<font color=\'#FF0000\'>（三国生肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411201&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【孤者傲凡】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403255&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【一场春暖】<font color=\'#FF0000\'>（书画棋琴）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411209&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【键盘书生】<font color=\'#FF0000\'>（三肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403259&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【一向等待】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411217&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【海很蓝@】<font color=\'#FF0000\'>（七肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403274&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【與我無關】<font color=\'#FF0000\'>（平特一尾）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411224&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【专属那妮】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403278&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【手心的海】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411254&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【野的像风】<font color=\'#FF0000\'>（阳肖阴肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403290&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【半島舊夢】<font color=\'#FF0000\'>（一波中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411263&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【寒塘冷月】<font color=\'#FF0000\'>（中特单双）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403298&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【眼泪也成】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411272&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【时当月色】<font color=\'#FF0000\'>（吃肉菜草）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403305&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【空山心雨】<font color=\'#FF0000\'>（双波中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411280&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【清风霁月】<font color=\'#FF0000\'>（吉美凶丑）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403356&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【淡看云卷】<font color=\'#FF0000\'>（三国生肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411286&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【转眼花落】<font color=\'#FF0000\'>（尾数大小）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403311&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【温柔风撩】<font color=\'#FF0000\'>（日夜中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411290&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【南同学@】<font color=\'#FF0000\'>（天地中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403318&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【孤者傲凡】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411296&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【逆天轩辕】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403329&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【键盘书生】<font color=\'#FF0000\'>（三肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411306&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【长虹饮涧】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403340&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【海很蓝@】<font color=\'#FF0000\'>（七肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411317&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【和尚爱尼】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403348&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【专属那妮】<font color=\'#FF0000\'>（平特①肖）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411322&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【伯人心贤】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403368&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【野的像风】<font color=\'#FF0000\'>（阳肖阴肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403374&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【寒塘冷月】<font color=\'#FF0000\'>（中特单双）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403381&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【时当月色】<font color=\'#FF0000\'>（吃肉菜草）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403384&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【清风霁月】<font color=\'#FF0000\'>（吉美凶丑）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403392&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【转眼花落】<font color=\'#FF0000\'>（尾数大小）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403396&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【南同学@】<font color=\'#FF0000\'>（天地中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403399&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【逆天轩辕】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403405&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【长虹饮涧】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403414&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【和尚爱尼】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403453&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【伯人心贤】<font color=\'#FF0000\'>（前后中特）</font>已公开</strong></div>");
-document.writeln("            </a>");
-document.writeln("        </li>  ")
-
-document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403479&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【海未深@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411329&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【海未深@】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
 document.writeln("        <li>");
 document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403482&type=3\' >");
-document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>331期【山高云阔】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【山高云阔】<font color=\'#FF0000\'>（六肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411351&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【明净日夜】<font color=\'#FF0000\'>（平特一尾）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411363&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【独钓一江】<font color=\'#FF0000\'>（平特一肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411381&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【淡水深流】<font color=\'#FF0000\'>（四肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411421&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【初雪未霁】<font color=\'#FF0000\'>（家野中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411556&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【兰花恋@】<font color=\'#FF0000\'>（五肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411595&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【苏小沫@】<font color=\'#FF0000\'>（4肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411458&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【冷辰雪@】<font color=\'#FF0000\'>（四尾中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411476&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【沉默控@】<font color=\'#FF0000\'>（精准六肖）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411390&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【亂彈情@】<font color=\'#FF0000\'>（单双中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411172&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【中国码王】<font color=\'#FF0000\'>（7肖中特）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411163&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【满腹经纶】<font color=\'#FF0000\'>（平特一尾）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411754&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【做个梦@】<font color=\'#FF0000\'>（平特一尾）</font>已公开</strong></div>");
+document.writeln("            </a>");
+document.writeln("        </li>  ")
+
+document.writeln("        <li>");
+document.writeln("            <a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33411765&type=3\' >");
+document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong>332期【零度萤火】<font color=\'#FF0000\'>（7肖中特）</font>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ")
 
@@ -930,49 +934,50 @@ document.writeln("	<ul>");
 
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402914&type=3\'>331期【二氧化甜】<font color=\'#0000ff\'>（精准杀五）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410740&type=3\'>332期【二氧化甜】<font color=\'#0000ff\'>（精准杀五）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402917&type=3\'>331期【粉色樱花】<font color=\'#0000ff\'>（八肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410744&type=3\'>332期【粉色樱花】<font color=\'#0000ff\'>（八肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402918&type=3\'>331期【风归影@】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
-
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402963&type=3\'>331期【猥琐欲为】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402990&type=3\'>331期【好人一生】<font color=\'#0000ff\'>（三半单双）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402973&type=3\'>331期【爱咋咋地】<font color=\'#0000ff\'>（绝杀十码）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402984&type=3\'>331期【海滨夏夜】<font color=\'#0000ff\'>（大小爆特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402948&type=3\'>331期【此用户下】<font color=\'#0000ff\'>（必中双波）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410753&type=3\'>332期【风归影@】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402953&type=3\'>331期【半朵雲半】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410749&type=3\'>332期【猥琐欲为】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402957&type=3\'>331期【喜欢杨幂】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410748&type=3\'>332期【好人一生】<font color=\'#0000ff\'>（三半单双）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402980&type=3\'>331期【黎夕旧梦】<font color=\'#0000ff\'>（精研大小）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410760&type=3\'>332期【爱咋咋地】<font color=\'#0000ff\'>（绝杀十码）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402907&type=3\'>331期【南葵思暖】<font color=\'#0000ff\'>（绝杀二肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410735&type=3\'>332期【海滨夏夜】<font color=\'#0000ff\'>（大小爆特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402910&type=3\'>331期【路尽隐香】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402983&type=3 \'>331期【半厦微澜】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402927&type=3\'>331期【狂乱飞舞】<font color=\'#0000ff\'>（金牌六尾）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410731&type=3\'>332期【此用户下】<font color=\'#0000ff\'>（必中双波）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402987&type=3\'>331期【沉寂于曾】<font color=\'#0000ff\'>（五肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410739&type=3\'>332期【半朵雲半】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402966&type=3\'>331期【野鸡贩大】<font color=\'#0000ff\'>（三行中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410746&type=3\'>332期【喜欢杨幂】<font color=\'#0000ff\'>（二波中特）</font>已公开</a></b></li>");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33402995&type=3\'>331期【无常小人】<font color=\'#0000ff\'>（金牌六肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410761&type=3\'>332期【南葵思暖】<font color=\'#0000ff\'>（绝杀二肖）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403001&type=3\'>331期【海尔兄弟】<font color=\'#0000ff\'>（四尾中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410766&type=3\'>332期【路尽隐香】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33403007&type=3\'>331期【国家重点】<font color=\'#0000ff\'>（天地中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410763&type=3\'>332期【半厦微澜】<font color=\'#0000ff\'>（七尾中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410757&type=3\'>332期【狂乱飞舞】<font color=\'#0000ff\'>（金牌六尾）</font>已公开</a></b></li>");
+
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410768&type=3\'>332期【沉寂于曾】<font color=\'#0000ff\'>（五肖中特）</font>已公开</a></b></li>");
+
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410773&type=3\'>332期【无常小人】<font color=\'#0000ff\'>（金牌六肖）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410779&type=3\'>332期【海尔兄弟】<font color=\'#0000ff\'>（四尾中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410784&type=3\'>332期【国家重点】<font color=\'#0000ff\'>（天地中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410857&type=3\'>332期【于你悸动】<font color=\'#0000ff\'>（九肖中特）</font>已公开</a></b></li>");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410803&type=3\'>332期【梦中风几】<font color=\'#0000ff\'>（3行中特）</font>已公开</a></b></li>");
 
 
 
@@ -989,77 +994,77 @@ document.writeln("	<ul>");
 
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376366&type=3\'>3925期【瑶瑶没人】<font color=\'#FF00FF\'>（双波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409902&type=3\'>3926期【山川志@】<font color=\'#FF00FF\'>（精选双波）</font>已公开</a></b></li>");
 document.writeln("");
 
 
 
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409906&type=3\'>3926期【七师弟@】<font color=\'#FF00FF\'>（吃草吃肉）</font>已公开</a></b></li>");
+document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376133&type=3\'>3925期【山川志@】<font color=\'#FF00FF\'>（精选双波）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409915&type=3\'>3926期【酒朋诗侣】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
 
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376135&type=3\'>3925期【七师弟@】<font color=\'#FF00FF\'>（吃草吃肉）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410192&type=3\'>3926期【倾城佳丽】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376155&type=3\'>3925期【酒朋诗侣】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409927&type=3\'>3926期【石家庄赵】<font color=\'#FF00FF\'>（四季中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376353&type=3\'>3925期【倾城佳丽】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409913&type=3\'>3926期【蚂蚁爱大】<font color=\'#FF00FF\'>（八尾中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376159&type=3\'>3925期【石家庄赵】<font color=\'#FF00FF\'>（四季中特）</font>已公开</a></b></li>");
-document.writeln("");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376149&type=3\'>3925期【蚂蚁爱大】<font color=\'#FF00FF\'>（八尾中特）</font>已公开</a></b></li>");
-document.writeln("");
-
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376344&type=3\'>3925期【波涛汹涌】<font color=\'#FF00FF\'>（稳中九肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410187&type=3\'>3926期【波涛汹涌】<font color=\'#FF00FF\'>（稳中九肖）</font>已公开</a></b></li>");
 document.writeln("");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376335&type=3\'>3925期【性敢之淫】<font color=\'#FF00FF\'>（双波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410154&type=3\'>3926期【性敢之淫】<font color=\'#FF00FF\'>（双波中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376147&type=3\'>3925期【扑倒李太】<font color=\'#FF00FF\'>（准杀五码）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409908&type=3\'>3926期【扑倒李太】<font color=\'#FF00FF\'>（准杀五码）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376341&type=3\'>3925期【爱是一道】<font color=\'#FF00FF\'>（单双四肖）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410180&type=3\'>3926期【爱是一道】<font color=\'#FF00FF\'>（单双四肖）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376349&type=3\'>3925期【悲伤广@】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410190&type=3\'>3926期【悲伤广@】<font color=\'#FF00FF\'>（九肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376357&type=3\'>3925期【沸羊羊@】<font color=\'#FF00FF\'>（琴棋书画）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410196&type=3\'>3926期【沸羊羊@】<font color=\'#FF00FF\'>（琴棋书画）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376168&type=3\'>3925期【南风几经】<font color=\'#FF00FF\'>（七肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409932&type=3\'>3926期【南风几经】<font color=\'#FF00FF\'>（七肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376174&type=3\'>3925期【蓝色之海】<font color=\'#FF00FF\'>（六肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409937&type=3\'>3926期【蓝色之海】<font color=\'#FF00FF\'>（六肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376373&type=3\'>3925期【爱的炮炮】<font color=\'#FF00FF\'>（单双中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410220&type=3\'>3926期【爱的炮炮】<font color=\'#FF00FF\'>（单双中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376376&type=3\'>3925期【天王盖地】<font color=\'#FF00FF\'>（六尾中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410224&type=3\'>3926期【天王盖地】<font color=\'#FF00FF\'>（六尾中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376184&type=3\'>3925期【吴疑凡@】<font color=\'#FF00FF\'>（六尾中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409939&type=3\'>3926期【吴疑凡@】<font color=\'#FF00FF\'>（六尾中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376186&type=3\'>3925期【知心又痴】<font color=\'#FF00FF\'>（三肖中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409941&type=3\'>3926期【知心又痴】<font color=\'#FF00FF\'>（三肖中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376188&type=3\'>3925期【七里香火】<font color=\'#FF00FF\'>（2波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409953&type=3\'>3926期【七里香火】<font color=\'#FF00FF\'>（2波中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376440&type=3\'>3925期【啊福看码】<font color=\'#FF00FF\'>（双波中特）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410226&type=3\'>3926期【啊福看码】<font color=\'#FF00FF\'>（双波中特）</font>已公开</a></b></li>");
 document.writeln("");
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33376286&type=3\'>3925期【暴走少女】<font color=\'#FF00FF\'>（平特１尾）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33409956&type=3\'>3926期【暴走少女】<font color=\'#FF00FF\'>（平特１尾）</font>已公开</a></b></li>");
+document.writeln("");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410373&type=3\'>3926期【美锅自由】<font color=\'#FF00FF\'>（经典大小）</font>已公开</a></b></li>");
+document.writeln("");
+
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217002.com:8443/#/corpusdetail?id=33410379&type=3\'>3926期【赌王之弟】<font color=\'#FF00FF\'>（六尾中特）</font>已公开</a></b></li>");
 document.writeln("");
 
 

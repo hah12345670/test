@@ -36,7 +36,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>330期</font><font color=\'#006600\'>【1957】【2608】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>331期</font><font color=\'#006600\'>【1935】【4680】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>330期</font><font color=\'#006600\'>【1957】【260<span style=\'background-color: #FFFF00\'>8</span>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

@@ -17,7 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 
-document.writeln("330期：平特【马猴拖羊鸡】开？00<br>");
+document.writeln("331期：平特【狗鸡拖猴鼠】开？00<br>");
 document.writeln("------<br>");
 
 

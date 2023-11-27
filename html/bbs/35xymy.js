@@ -34,11 +34,13 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>330期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>331期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -46,6 +48,21 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>330期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("西环路车水马龙,一位香女开路虎");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖马龙虎，西环路解西肖猴狗鸡，香女解女肖猪羊鸡兔蛇。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔蛇马猴<span style=\'background-color: #FFFF00\'>狗</span>猪羊<br>");
+document.writeln("			四肖：兔蛇马猴<br>");
+document.writeln("			特码：01.37.11.23.10.34.08.20.30.42.05.41.21.33</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

@@ -16,9 +16,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("330期：平码【36.05.13.06.16.43.47.04.35.17.42.28】<br>");
+document.writeln("331期：平码【02.37.46.20.33.14.42.43.16.04.22.01】<br>");
+
 
 
 

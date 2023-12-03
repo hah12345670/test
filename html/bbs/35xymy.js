@@ -34,23 +34,75 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>337期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("声东击西四海游,心有灵犀牛羊蛇");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：声东击西解东肖龙虎兔，西肖猴鸡狗，明肖牛羊蛇。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛羊蛇龙虎猴鸡<br>");
+document.writeln("			四肖：牛羊蛇龙<br>");
+document.writeln("			特码：15.39.21.33.11.47.12.36.02.38.08.20.19.43</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>336期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("春季红花齐争艳，花前月下绿作伴");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：春季红花解春肖龙兔虎，红肖鼠鸡兔马，花前月下解前肖龙鼠兔牛虎蛇，绿作伴解绿肖牛羊龙狗。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙兔虎鼠<span style=\'background-color: #FFFF00\'>鸡</span>兔马<br>");
+document.writeln("			四肖：龙兔虎鼠<br>");
+document.writeln("			特码：12.48.13.49.02.38.04.40.<span style=\'background-color: #FFFF00\'>31</span>.43.13.49.22.46</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>335期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("飞龙猛虎走一起,龙眼一只为君开");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙虎，为君开，君解男肖龙虎马狗牛猴鼠。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>龙</span>虎马狗牛猴鼠<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>龙</span>虎马狗<br>");
+document.writeln("			特码：12.48.02.38.10.34.06.30.15.39.08.20.16.40</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+
 
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>332期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("更新中");
+document.writeln("			<font style=\'font-size: 13pt\'>333期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("风轻云淡蓝天空，城边树林绿荫荫");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：风轻云淡解风肖兔虎龙，云肖狗鸡猴，蓝天空解天肖龙兔牛猪马猴，绿荫荫解绿肖牛羊龙狗。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
-document.writeln("			四肖：更新中<br>");
-document.writeln("			特码：更新中</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛羊龙狗<span style=\'background-color: #FFFF00\'>兔</span>虎龙<br>");
+document.writeln("			四肖：牛羊龙狗<br>");
+document.writeln("			特码：15.39.21.33.12.48.30.42.13.49.02.38.12.36</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+
+
 
 
 

@@ -19,7 +19,27 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("332期：<font color=\'#0000FF\'>（家禽+猴虎）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("337期：<font color=\'#0000FF\'>（家禽+龙虎）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("335期：<font color=\'#0000FF\'>（家禽+<span style=\'background-color: #FFFF00\'>龙</span>虎）</font>开<font color=\'#FF0000\'>(龙24)</font></font></b></font></table>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("333期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+狗鸡）</font>开<font color=\'#FF0000\'>(兔37)</font></font></b></font></table>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("332期：<font color=\'#0000FF\'>（家禽+<span style=\'background-color: #FFFF00\'>猴</span>虎）</font>开<font color=\'#FF0000\'>(猴08)</font></font></b></font></table>");
 document.writeln("");
 
 document.writeln("<!--开始-->");

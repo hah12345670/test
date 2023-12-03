@@ -34,6 +34,7 @@ document.writeln("");
 
 
 
+
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -41,7 +42,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>332期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>337期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 
@@ -54,117 +55,11 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>331期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>马46</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>335期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>龙24</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 
 
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>329期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>蛇35</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>328期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>兔01</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>327期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>羊21</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>326期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>蛇35</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>324期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>虎26</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>323期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>虎02</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>321期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>鸡19</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>319期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>狗42</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>318期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>兔49</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
 
 
 

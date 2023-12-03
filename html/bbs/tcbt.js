@@ -17,15 +17,45 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("337期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）喜临门</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("");
+
 
 
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("332期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("336期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡31</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）继有人</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）枪匹马</font><font color=\'#0000FF\' size=\'5\'>-解:单肖</font></b></font></table>");
+document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("333期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>兔37</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("332期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴08</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）继有人</font><font color=\'#0000FF\' size=\'5\'>-解:后肖</font></b></font></table>");
 document.writeln("");
 
 

@@ -13,7 +13,7 @@ document.writeln("");
 document.writeln(".bizhong567 img {width:100%;height:100%; border-collapse: collapse; font-weight: bold;}");
 document.writeln("</style>");
 document.writeln(" ");
-document.writeln("<div class=\'bizhong567 clearfix\'><img src=\'img/feicui/332.jpg\' id=\'123sjkjpicx567\'>");
+document.writeln("<div class=\'bizhong567 clearfix\'><img src=\'img/feicui/337.jpg\' id=\'123sjkjpicx567\'>");
 document.writeln("    <div class=\'bizhong567-box action-bz\'>");
 document.writeln("    </div>");
 document.writeln("    ");
@@ -25,6 +25,11 @@ document.writeln("    <span class=\'bizhong567-btn bizhong567-next\' onclick=\'n
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrx567=new Array(");
+document.writeln("\'img/feicui/337.jpg\',")
+document.writeln("\'img/feicui/336.jpg\',")
+document.writeln("\'img/feicui/335.jpg\',")
+document.writeln("\'img/feicui/334.jpg\',")
+document.writeln("\'img/feicui/333.jpg\',")
 document.writeln("\'img/feicui/332.jpg\',")
 document.writeln("\'img/feicui/331.jpg\',")
 document.writeln("\'img/feicui/330.jpg\',")

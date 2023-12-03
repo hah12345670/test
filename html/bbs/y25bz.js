@@ -20,14 +20,14 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("332期码神哥五不中[06.30.13.22.07] <br>");
+document.writeln("337期码神哥五不中[44.47.15.13.31] <br>");
 document.writeln("	开奖:00 00 00 00 00 00T00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -37,6 +37,55 @@ document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("335期码神哥五不中[29.13.31.05.20] <br>");
+document.writeln("	开奖:48-45-16-12-03-18 T24</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #008000\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("334期码神哥五不中[26.24.12.35.07] <br>");
+document.writeln("	开奖:34-29-09-28-07-03 T05</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #008000\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("333期码神哥五不中[17.46.25.30.29] <br>");
+document.writeln("	开奖:36-34-35-41-18-33 T37</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font>");
+document.writeln("	<span style=\'background-color: #008000\'>");
+document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62103b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+
 
 
 document.writeln("");

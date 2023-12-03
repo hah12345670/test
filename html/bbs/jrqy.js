@@ -14,7 +14,7 @@ document.writeln(".bizhong1234 img {width:100%; border-collapse: collapse; font-
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong1234 clearfix\'>");
 document.writeln("    <div class=\'bizhong1234-box action-bz\'>");
-document.writeln("<img src=\'/img/jrqy331.jpg\' id=\'jrqypicx\'>");
+document.writeln("<img src=\'/img/jrqy337.jpg\' id=\'jrqypicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,6 +25,12 @@ document.writeln(" <span class=\'bizhong1234-btn bizhong1234-next\' onclick=\'ne
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+document.writeln("\'/img/jrqy337.jpg\',");
+document.writeln("\'/img/jrqy336.jpg\',");
+document.writeln("\'/img/jrqy335.jpg\',");
+document.writeln("\'/img/jrqy334.jpg\',");
+document.writeln("\'/img/jrqy333.jpg\',");
+document.writeln("\'/img/jrqy332.jpg\',");
 document.writeln("\'/img/jrqy331.jpg\',");
 document.writeln("\'/img/jrqy330.jpg\',");
 document.writeln("\'/img/jrqy329.jpg\',");
@@ -32,23 +38,10 @@ document.writeln("\'/img/jrqy328.jpg\',");
 document.writeln("\'/img/jrqy327.jpg\',");
 document.writeln("\'/img/jrqy326.jpg\',");
 document.writeln("\'/img/jrqy325.jpg\',");
-document.writeln("\'/img/jrqy324.jpg\',");
-document.writeln("\'/img/jrqy323.jpg\',");
-document.writeln("\'/img/jrqy322.jpg\',");
-document.writeln("\'/img/jrqy321.jpg\',");
-document.writeln("\'/img/jrqy320.jpg\',");
-document.writeln("\'/img/jrqy319.jpg\',");
-document.writeln("\'/img/jrqy318.jpg\',");
-document.writeln("\'/img/jrqy317.jpg\',");
-document.writeln("\'/img/jrqy316.jpg\',");
-document.writeln("\'/img/jrqy315.jpg\',");
-document.writeln("\'/img/jrqy314.jpg\',");
-document.writeln("\'/img/jrqy313.jpg\',");
-document.writeln("\'/img/jrqy312.jpg\',");
 
 
 
-document.writeln("\'/img/jrqy311.jpg\'");
+document.writeln("\'/img/jrqy324.jpg\'");
 document.writeln(");");
 document.writeln("    var indexjrqy=0;");
 document.writeln("    function nextsbx(){");

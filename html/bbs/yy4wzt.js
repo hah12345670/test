@@ -21,7 +21,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("337期<font color=\'#FF00FF\'>（羊马牛+4210尾）</font>开？00</font></b></font></table>");
+document.writeln("338期<font color=\'#FF00FF\'>（鼠狗龙+6231尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

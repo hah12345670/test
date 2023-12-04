@@ -16,15 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("337期：平码【30.32.25.05.23.29.18.47.44.20.14.03】<br>");
+document.writeln("338期：平码【04.06.12.28.25.27.31.09.37.11.18.38】<br>");
 
-
-document.writeln("");
-document.writeln("335期：平码【32.<span style=\'background-color: #FFFF00\'>24</span>.30.34.49.26.22.39.<span style=\'background-color: #FFFF00\'>16</span>.01.29.43】<br>");
-
-
-document.writeln("");
-document.writeln("334期：平码【16.32.24.45.48.<span style=\'background-color: #FFFF00\'>06.15</span>.09.10.19.<span style=\'background-color: #FFFF00\'>47</span>.02】<br>");
 
 
 document.writeln("");

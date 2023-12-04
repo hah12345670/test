@@ -23,13 +23,23 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+
 document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>338期一语中特【拜相封侯】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：拜为宰相，封为列侯。形容成就功名，官至极品。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡马猪狗兔龙开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>337期一语中特【倾注全力】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：把所有力量集中在一个目标。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗兔蛇鼠马牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗兔蛇<span style=\'background-color: #FFFF00\'>鼠</span>马牛开鼠16准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -66,12 +76,21 @@ document.writeln("   <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>338期一语中特【十万火急】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容事情紧急到了极点。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎鸡牛蛇龙鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>337期一语中特【一气呵成】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容文章的气势首尾贯通。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马鸡鼠虎羊猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马鸡<span style=\'background-color: #FFFF00\'>鼠</span>虎羊猴开鼠16准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

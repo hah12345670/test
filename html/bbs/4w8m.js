@@ -16,12 +16,31 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>338期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【5尾:25.35】");
+document.writeln("【9尾:19.39】<br>");
+document.writeln("【4尾:24.34】");
+document.writeln("【1尾:01.11】</span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!--开始-->");
+
+
 document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("<span style=\'color: #00F;\'>337期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>鼠16</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
@@ -29,7 +48,7 @@ document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【3尾:23.43】");
 document.writeln("【2尾:12.22】<br>");
 document.writeln("【0尾:20.30】");
-document.writeln("【6尾:16.26】</span></p>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>6尾:16</span>.26】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
 

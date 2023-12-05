@@ -30,8 +30,8 @@ document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("						");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">338期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【06.36.08.18.24.34.17.47.23.33.02.32.10.30】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">339期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【09.29.08.18.26.36.15.45.11.31.24.34.23.43】</span></font></p>  	");
 document.writeln("																				");
 document.writeln("		
 document.writeln("						");

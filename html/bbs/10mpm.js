@@ -16,7 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("338期：平码【04.06.12.28.25.27.31.09.37.11.18.38】<br>");
+document.writeln("339期：平码【14.33.11.35.46.16.13.02.36.41.42.06】<br>");
+
 
 
 

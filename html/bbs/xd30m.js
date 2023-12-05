@@ -29,7 +29,7 @@ document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:49
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/337/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/339/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

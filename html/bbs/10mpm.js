@@ -16,9 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("339期：平码【14.33.11.35.46.16.13.02.36.41.42.06】<br>");
+document.writeln("342期：平码【15.44.32.38.39.42.43.13.25.05.04.47】<br>");
 
 
+document.writeln("");
+document.writeln("341期：平码【14.39.18.13.42.30.<span style=\'background-color: #FFFF00\'>32</span>.03.48.<span style=\'background-color: #FFFF00\'>15</span>.36.17】<br>");
 
 
 document.writeln("");

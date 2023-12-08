@@ -27,12 +27,20 @@ document.writeln("");
 document.writeln("");
 document.writeln("                  ");
 document.writeln(" 		<b>");
-document.writeln("");
+
+
+
+
+
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">341期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【02.12.27.37.10.30.28.48.13.23.11.31.04.14】</span></font></p>  	");
+						
 document.writeln("						");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">339期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【09.29.08.18.26.36.15.45.11.31.24.34.23.43】</span></font></p>  	");
-document.writeln("																				");
+document.writeln(" <span style=\"font-size: 13pt\">340期:==14码中特==开马46准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【05.15.29.49.08.38.16.<span style=\'background-color: #FFFF00\'>46</span>.24.34.17.47.10.30】</span></font></p>  	");
+																");
 document.writeln("		
 document.writeln("						");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");

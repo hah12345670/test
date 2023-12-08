@@ -29,7 +29,21 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>339期</font>【<font color=\'#FF0000\'>独肖:鼠马羊</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>342期</font>【<font color=\'#FF0000\'>独肖:羊兔虎</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>340期</font>【<font color=\'#FF0000\'>独肖:鼠牛羊</font>】开<font color=\'#FF00FF\'>(马46)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>339期</font>【<font color=\'#FF0000\'>独肖:鼠<span style=\'background-color: #FFFF00\'>马</span>羊</font>】开<font color=\'#FF00FF\'>(马10)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

@@ -39,26 +39,12 @@ document.writeln("");
 
 
 
-
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第339期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪17.猴20.羊21.鼠40】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第335期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>龙</span>36.猴08.马10.羊21】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第342期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔13.狗30.马10.羊21】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
@@ -68,26 +54,9 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第333期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗06.猴44.猪17.<span style=\'background-color: #FFFF00\'>兔</span>49】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第340期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇11.猪05.<span style=\'background-color: #FFFF00\'>马</span>34.虎02】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第332期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>猴</span>20.猪41.鼠40.狗30】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
 
 
 

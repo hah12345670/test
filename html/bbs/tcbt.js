@@ -20,9 +20,25 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("339期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("342期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）继有人</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("341期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马34</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）不胜收</font><font color=\'#0000FF\' size=\'5\'>-解:吉美</font></b></font></table>");
+document.writeln("");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("339期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>马10</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）继有人</font><font color=\'#0000FF\' size=\'5\'>-解:后肖</font></b></font></table>");
 document.writeln("");
 
 

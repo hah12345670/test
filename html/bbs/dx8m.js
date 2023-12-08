@@ -45,15 +45,44 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第339期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第342期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
+document.writeln("		主四肖：牛马狗猪<br>			");
+document.writeln("        博八码：15.39.10.46.06.30.05.41</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第341期八码中特开(马34)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：大肖（牛虎<span style=\'background-color: #FFFF00\'>马</span>羊狗猪）<br>	");
+document.writeln("		主四肖：虎<span style=\'background-color: #FFFF00\'>马</span>羊狗<br>			");
+document.writeln("        博八码：02.38.<span style=\'background-color: #FFFF00\'>34</span>.46.21.33.30.42</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第339期八码中特开(马10)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：大肖（牛虎<span style=\'background-color: #FFFF00\'>马</span>羊狗猪）<br>	");
 document.writeln("		主四肖：牛虎羊狗<br>			");
 document.writeln("        博八码：03.39.14.26.21.33.06.18</font></b></td>");
 document.writeln("    </tr>      ");
@@ -85,119 +114,6 @@ document.writeln("        博八码：04.40.13.25.12.48.11.23.08.20.31.43</font>
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第333期八码中特开(兔37)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠<span style=\'background-color: #FFFF00\'>兔</span>龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：兔<span style=\'background-color: #FFFF00\'>兔</span>蛇鸡<br>			");
-document.writeln("        博八码：13.25.34.46.23.47.07.19</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第332期八码中特开(猴08)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙蛇<span style=\'background-color: #FFFF00\'>猴</span>鸡）<br>	");
-document.writeln("		主四肖：兔龙蛇<span style=\'background-color: #FFFF00\'>猴</span><br>			");
-document.writeln("        博八码：13.25.34.46.23.47.<span style=\'background-color: #FFFF00\'>08</span>.20</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第331期八码中特开(马46)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎<span style=\'background-color: #FFFF00\'>马</span>羊狗猪）<br>	");
-document.writeln("		主四肖：牛<span style=\'background-color: #FFFF00\'>马</span>羊猪<br>			");
-document.writeln("        博八码：15.27.34.<span style=\'background-color: #FFFF00\'>46</span>.21.33.05.41</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第330期八码中特开(狗18)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马羊<span style=\'background-color: #FFFF00\'>狗</span>猪）<br>	");
-document.writeln("		主四肖：牛虎马羊<br>			");
-document.writeln("        博八码：03.39.14.26.10.34.21.33</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第329期八码中特开(蛇35)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡）<br>	");
-document.writeln("		主四肖：龙<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡<br>			");
-document.writeln("        博八码：12.36.23.47.08.20.31.43</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第327期八码中特开(羊21)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
-document.writeln("		主四肖：虎马<span style=\'background-color: #FFFF00\'>羊</span>狗<br>			");
-document.writeln("        博八码：02.38.10.34.<span style=\'background-color: #FFFF00\'>21</span>.33.06.18</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第326期八码中特开(蛇35)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡）<br>	");
-document.writeln("		主四肖：兔龙<span style=\'background-color: #FFFF00\'>蛇</span>猴<br>			");
-document.writeln("        博八码：13.25.12.36.23.47.08.20</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\'5\'>第325期八码中特开(鸡07)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙蛇猴<span style=\'background-color: #FFFF00\'>鸡</span>）<br>	");
-document.writeln("		主四肖：鼠龙蛇猴<br>			");
-document.writeln("        博八码：04.40.12.36.23.47.08.20</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
 
 
 

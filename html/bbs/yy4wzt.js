@@ -17,11 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://mnbvctrs.www58317a.com:
 document.writeln("");
 document.writeln("");
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("342期<font color=\'#FF00FF\'>（马蛇狗+8476尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("339期<font color=\'#FF00FF\'>（狗牛羊+7136尾）</font>开？00</font></b></font></table>");
+document.writeln("340期<font color=\'#FF00FF\'>（猪龙虎+20<span style=\'background-color: #FFFF00\'>6</span>1尾）</font>开马46</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");

@@ -85,8 +85,14 @@ document.writeln("<br>【猪鸡】【11.23.35.44】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("342期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
-document.writeln("<br>【牛鸡】【05.41.18.30】<br><br>");
+document.writeln("342期:【大亨送彩】二肖四码开:<span class=\"style2\">猪05</span>中		");
+document.writeln("<br>【牛鸡】【<span style=\'background-color: #FFFF00\'>05</span>.41.18.30】<br><br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("");
+document.writeln("343期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【鼠鸡】【35.09.21.45】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

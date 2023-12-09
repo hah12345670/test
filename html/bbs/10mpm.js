@@ -16,7 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("342期：平码【15.44.32.38.39.42.43.13.25.05.04.47】<br>");
+document.writeln("343期：平码【36.38.03.13.21.43.34.39.14.41.12.23】<br>");
+
+
+document.writeln("");
+document.writeln("342期：平码【15.<span style=\'background-color: #FFFF00\'>44</span>.32.38.39.42.43.13.25.<span style=\'background-color: #FFFF00\'>05</span>.04.47】<br>");
 
 
 document.writeln("");
@@ -26,5 +30,5 @@ document.writeln("341期：平码【14.39.18.13.42.30.<span style=\'background-c
 document.writeln("");
 document.writeln("			");
 document.writeln("			");
-document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.manolotron.com:49/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");

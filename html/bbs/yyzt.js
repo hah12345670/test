@@ -23,13 +23,22 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>343期一语中特【风派人物】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：指善于迅速改变自己立场或观点的人。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗羊鸡马蛇猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>342期一语中特【二八女郎】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：二八：指十六岁。十五六岁的美女。指年轻貌美的女子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙兔牛猪鼠鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙兔牛<span style=\'background-color: #FFFF00\'>猪</span>鼠鸡开猪05准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -97,9 +106,9 @@ document.writeln("    <td align=\'left\'>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>342期一语中特【人强马壮】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容军队的战斗力很强或军容很盛。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗羊鸡蛇鼠虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>343期一语中特【树大根深】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻势力大，根基牢固。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙蛇鸡猪猴牛开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

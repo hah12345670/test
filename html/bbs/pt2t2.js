@@ -17,8 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 
-document.writeln("342期：平特【龙狗拖牛鼠】开？00<br>");
+document.writeln("343期：平特【猴羊拖狗牛】开？00<br>");
 document.writeln("------<br>");
+
 document.writeln("341期：平特【猪<span style=\'background-color: #FFFF00\'>兔</span>拖<span style=\'background-color: #FFFF00\'>蛇</span>鸡】开37.49.23<br>");
 document.writeln("------<br>");
 document.writeln("340期：平特【<span style=\'background-color: #FFFF00\'>猴</span>羊拖鼠<span style=\'background-color: #FFFF00\'>蛇</span>】开20.35<br>");

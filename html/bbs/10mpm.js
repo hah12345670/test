@@ -16,7 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("343期：平码【36.38.03.13.21.43.34.39.14.41.12.23】<br>");
+document.writeln("345期：平码【40.02.28.06.27.45.43.23.46.03.11.19】<br>");
+
 
 
 document.writeln("");

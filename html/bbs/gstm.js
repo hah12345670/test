@@ -50,8 +50,8 @@ document.writeln("		<span style=\"font-size: 13pt\">		");
 document.writeln("");
 document.writeln("");
 document.writeln("		<br>		");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("	343期（平5*4+特-D2+平5+正3-2）=杀龙猴√<br>		");
 document.writeln("	344期（平5*4+特-D2+平5+正3-2）=杀龙狗√<br>		");
 document.writeln("	345期（平5*4+特-D2+平5+正3-2）=杀羊马√<br>		");
@@ -83,7 +83,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("		<br>		");
-
+document.writeln("");
 document.writeln("		337期（平5-2-D2+正4）=杀39尾√<br>		");
 document.writeln("		338期（平5-2-D2+正4）=杀94尾√<br>		");
 document.writeln("		339期（平5-2-D2+正4）=杀52尾√<br>		");
@@ -123,8 +123,8 @@ document.writeln("");
 document.writeln("        </span>		");
 document.writeln("");
 document.writeln("");
-
-document.writeln("        <font color=\'#0000FF\'>339期四头=04<span style=\'background-color: #FFFF00\'>1</span>2√</font><br>	");
+document.writeln("");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">339期四头=04<span style=\'background-color: #FFFF00\'>1</span>2√</span></font><span style=\"font-size: 16pt\"><br>	");
 document.writeln("        <font color=\'#0000FF\'>340期四头=<span style=\'background-color: #FFFF00\'>4</span>120√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>341期四头=12<span style=\'background-color: #FFFF00\'>3</span>4√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>342期四头=<span style=\'background-color: #FFFF00\'>0</span>214√</font><br>	");
@@ -135,7 +135,7 @@ document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("		<font color=\'#0000FF\'>344期七肖=虎牛<span style=\'background-color: #FFFF00\'>蛇</span>马鸡兔羊√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>345期七肖=鸡牛虎蛇羊猴狗√</font><br>		");
 document.writeln("		");
@@ -149,10 +149,10 @@ document.writeln("		<font color=\'#0000FF\'>340期三行=土木<span style=\'bac
 document.writeln("		<font color=\'#0000FF\'>341期三行=<span style=\'background-color: #FFFF00\'>土</span>火水√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>342期三行=火水<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>343期三行=水<span style=\'background-color: #FFFF00\'>金</span>土√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>344期三行=<span style=\'background-color: #FFFF00\'>土</span>金木√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>345期三行=火水土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>344期三行=<span style=\'background-color: #FFFF00\'>土</span>金木√</font><br>				");
+document.writeln("		<font color=\'#0000FF\'>345期三行=火水土√</span></font><br>			");
 document.writeln("		");
-document.writeln("<br>		");
+document.writeln("		</span>		<br>		");
 document.writeln("");
 document.writeln("        </span>		");
 document.writeln("");

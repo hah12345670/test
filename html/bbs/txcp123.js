@@ -152,7 +152,7 @@ document.writeln("								");
 document.writeln("				344期<span style=\'background-color: #FFFF00\'>蛇</span>猪马<br>");
 document.writeln("				08.20.02.30<br><br>");
 document.writeln("								");
-document.writeln("				343期猪狗虎<br>");
+document.writeln("				345期猪狗虎<br>");
 document.writeln("				03.15.27.39<br><br>");
 document.writeln("								");
 document.writeln("								");

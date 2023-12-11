@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 
-document.writeln("345期：平特【猴鼠拖龙虎】开？00<br>");
+document.writeln("346期：平特【马鸡拖猴兔】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("345期：平特【<span style=\'background-color: #FFFF00\'>猴鼠</span>拖龙虎】开20.04.40<br>");
 document.writeln("------<br>");
 
 document.writeln("344期：平特【羊<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>蛇</span>猴】开47.31<br>");

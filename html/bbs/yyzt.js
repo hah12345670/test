@@ -25,12 +25,20 @@ document.writeln("");
 
 
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>345期一语中特【柔中有刚】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容人的性格温柔中带有刚强。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔鼠羊猴猪牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>344期一语中特【闷声不响】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：不言不语，不言不语，一声不响。，一声不响。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇牛猪狗马兔开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>蛇</span>牛猪狗马兔开蛇47准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -106,9 +114,9 @@ document.writeln("    <td align=\'left\'>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>344期一语中特【青云直上】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻官职升得很快很高。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马猴猪狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>344期一语中特【胸有成竹】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：后用以比喻办事以前，已经有全面的设想和安排。成：现成。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊兔牛龙鸡猪开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

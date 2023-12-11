@@ -15,17 +15,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("345期：平码【40.02.28.06.27.45.43.23.46.03.11.19】<br>");
+document.writeln("346期：平码【34.15.08.46.23.37.38.43.14.11.19.20】<br>");
 
-
-
-document.writeln("");
-document.writeln("342期：平码【15.<span style=\'background-color: #FFFF00\'>44</span>.32.38.39.42.43.13.25.<span style=\'background-color: #FFFF00\'>05</span>.04.47】<br>");
-
-
-document.writeln("");
-document.writeln("341期：平码【14.39.18.13.42.30.<span style=\'background-color: #FFFF00\'>32</span>.03.48.<span style=\'background-color: #FFFF00\'>15</span>.36.17】<br>");
 
 
 document.writeln("");

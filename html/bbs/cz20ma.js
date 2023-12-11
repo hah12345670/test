@@ -19,15 +19,29 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<font color=\'#FF00FF\'>345期内幕传真20码开？00</font><br> ");
+document.writeln("特码玄254 379(蛇23)13+23=?   <br>特码：洞在清溪何处边，百花争艳春常在。<br>");
+document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
+document.writeln("23 26 40 32 33 39 20 24 49 36<br>   ");
+document.writeln("21 11 07 10 43 34 13 37 18 46</font> </p>         ");
+document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
+document.writeln("  <tbody><tr>");
+document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
+document.writeln("</td>");
+document.writeln("  <!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'>344期内幕传真20码开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>344期内幕传真20码开蛇47</font><br> ");
 document.writeln("特码玄168 329(龙36)25+13=?   <br>特码：顺风顺水六七开，山水如画醉人意。<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("49 09 46 08 19 42 10 20 39<br>   ");
-document.writeln("47 04 05 03 40 37 31 29 32 13 01</font> </p>         ");
+document.writeln("49 09 46 08 19 42 10 20 39 01<br>   ");
+document.writeln("<span style=\'background-color: #FFFF00\'>47</span> 04 05 03 40 37 31 29 32 13</font> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");
 document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://aaallleee.www29769a.com:888#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");

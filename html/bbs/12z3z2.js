@@ -9,6 +9,21 @@ document.writeln("<font color=\'#008000\' size=\'5\' style=\'font-weight: 700\' 
 document.writeln("<!--说明-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("   <!--开始-->");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\"font-size: 14pt\" color=\"#000080\">346期【华哥聊码】 → （12组3中2）</font><font size=\"5\"><br>");
+document.writeln("		<font color=\"#FF0000\">（23倍）</font></font></b><font size=\"5\"></span></font></b><br>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		【29.27.40】【24.08.13】【02.25.22】<br>");
+document.writeln("		【40.06.41】【35.05.01】【18.24.42】<br>		");
+document.writeln("		【21.05.10】【03.49.42】【13.46.15】<br>				");
+document.writeln("		【33.48.06】【37.46.22】【47.19.40】</b><br>");
+document.writeln(" <!--结束--> ");
+document.writeln("");
 
 
 document.writeln("");
@@ -23,7 +38,7 @@ document.writeln("");
 document.writeln("		【18.02.28】【17.39.27】【22.06.49】<br>");
 document.writeln("		【40.41.03】【16.27.36】【44.42.26】<br>		");
 document.writeln("		【38.30.13】【22.27.08】【16.17.43】<br>				");
-document.writeln("		【23.33.16】【31.22.18】【28.25.18】</b><br>");
+document.writeln("		【23.33.16】【31.<span style=\'background-color: #FFFF00\'>22.18</span>】【28.25.18】</b><br>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
 

@@ -33,8 +33,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">344期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【12.32.43.33.20.30.04.34.17.37.21.41.08.38】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">345期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【17.37.15.45.16.36.08.28.10.30.21.41.29.49】</span></font></p>  	");
 document.writeln("						");
 
 document.writeln("				");

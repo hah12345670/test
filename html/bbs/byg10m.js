@@ -63,7 +63,7 @@ document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" al
 document.writeln(" <b><span style=\"font-size: 14pt\">345期:【长期发表三肖四码】开？00准<br>");
 document.writeln("	</span>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（62519b.com 已更新，进入论坛查看）</span></font></b></p>  ");
+document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（龙鼠狗+10.34.14.26）</span></font></b></p>  ");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
@@ -142,7 +142,7 @@ document.writeln("");
 document.writeln("<!--开始-->	");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'36\'><tbody><tr>");
 document.writeln("	<td width=100% height=36><p align=center><b>");
-document.writeln("	<font size=\'4\'>345期<font color=\'#008000\'>【三肖中特】</font>&amp;<font color=\'#800000\'>【29790b.com 已更新，进入论坛查看】</font>&amp;开？00准</font></b></table>");
+document.writeln("	<font size=\'4\'>345期<font color=\'#008000\'>【三肖中特】</font>&amp;<font color=\'#800000\'>【龙兔狗】</font>&amp;开？00准</font></b></table>");
 document.writeln("        <!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->	");

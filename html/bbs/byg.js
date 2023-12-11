@@ -313,8 +313,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
 document.writeln("		344期杀4头双√<br>	");
+document.writeln("		345期杀1头单√<br>	");
 document.writeln("						");
 document.writeln("		</font><br>		");
 document.writeln("		");

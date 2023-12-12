@@ -10,7 +10,7 @@ document.writeln("    <td style=\'text-align:center\' height=\'60\'><table borde
 document.writeln("        <tbody>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-12月必出特码表』已中<span style=\'background-color: #FF0000\'>06</span>期</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2023-12月必出特码表』已中<span style=\'background-color: #FF0000\'>07</span>期</font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -51,7 +51,7 @@ document.writeln("			<span style=font-family:Arial;>");
 document.writeln("			08.32.44</span><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33> ");
 document.writeln("			<span style=font-family:Arial;><strong> ");
-document.writeln("			09.21.33</strong></tr>");
+document.writeln("			<span style=\'background-color: #FFFF00\'>09</span>.21.33</strong></tr>");
 document.writeln("        <tr>");
 document.writeln("          <td align=center bgcolor=#9966FF width=10% height=38><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>马</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38 bgcolor=\'#FFFFFF\'><strong> ");

@@ -25,16 +25,16 @@ document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>345期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>346期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【渊】</font></b><br>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【佣】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：渊，深水，解羊兔猴鼠马。<br>⑵：渊，五行水，解水肖鼠猪</font></span><br>");
+document.writeln("⑴：解：佣，雇用，解猴鸡。<br>⑵：佣，五行土，解土肖牛羊龙狗</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：羊兔猴鼠马猪<br>");
-document.writeln("主攻特肖：羊兔猴鼠<br>");
-document.writeln("主攻特码：09.45.13.25.20.44.16.40.10.46.29.41</font><br><font color=\'#FFFF00\'>");
+document.writeln("本期围特：猴鸡牛羊龙狗<br>");
+document.writeln("主攻特肖：猴鸡牛羊<br>");
+document.writeln("主攻特码：08.44.31.19.03.15.21.45.12.48.18.30</font><br><font color=\'#FFFF00\'>");
 document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
 document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
@@ -62,28 +62,6 @@ document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:cente
 document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://j.1999zx.com:1999/\'><img src=https://www.62753b.com/images/33567.gif width=20 height=19><span style=font-family:楷体;color:#00f><font size=\'4\'>点击投注六合彩</font></span><span style=font-family:楷体;><font size=\'5\'><font color=\'#FF0000\'>1999.cc</font></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("</tr></table></td>  ");
-document.writeln("         <!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>341期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>马34</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【蜕】</font></b><br>");
-document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：蜕，蛇、蝉等脱皮，解鸡马羊猴兔。<br>⑵：蜕，五行火，解火肖蛇马</font></span><br>");
-document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：鸡<span style=\'background-color: #FFFF00\'>马</span>羊猴兔蛇<br>");
-document.writeln("主攻特肖：鸡<span style=\'background-color: #FFFF00\'>马</span>羊猴<br>");
-document.writeln("主攻特码：31.43.10.<span style=\'background-color: #FFFF00\'>34</span>.09.21.20.44.13.25.11.47</font><br><font color=\'#FFFF00\'>");
-document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
-document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://j.1999zx.com:1999/\'><img src=https://www.62753b.com/images/33567.gif width=20 height=19><span style=font-family:楷体;color:#00f><font size=\'4\'>点击投注六合彩</font></span><span style=font-family:楷体;><font size=\'5\'><font color=\'#FF0000\'>1999.cc</font></font></a></strong></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>  ");
-
 
 
 

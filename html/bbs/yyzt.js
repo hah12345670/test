@@ -27,56 +27,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>346期一语中特【逢十进一】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：在十进制中,每一位有0～9共十个数码,所以计数的基数为10.超过9就必须用多位数来表示。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪马牛蛇猴鼠开0000准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>344期一语中特【闷声不响】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：不言不语，不言不语，一声不响。，一声不响。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>蛇</span>牛猪狗马兔开蛇47准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>342期一语中特【二八女郎】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：二八：指十六岁。十五六岁的美女。指年轻貌美的女子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙兔牛<span style=\'background-color: #FFFF00\'>猪</span>鼠鸡开猪05准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>340期一语中特【背水为阵】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：汉军前临大敌，后无退路，都拼死作战，结果大败赵军。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔狗<span style=\'background-color: #FFFF00\'>马</span>羊蛇虎开马46准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>338期一语中特【拜相封侯】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：拜为宰相，封为列侯。形容成就功名，官至极品。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡马<span style=\'background-color: #FFFF00\'>猪</span>狗兔龙开猪41准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>337期一语中特【倾注全力】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：把所有力量集中在一个目标。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗兔蛇<span style=\'background-color: #FFFF00\'>鼠</span>马牛开鼠16准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>347期一语中特【上蹿下跳】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：2.比喻人到处活动。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马鸡兔鼠猪开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -112,11 +65,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>346期一语中特【手无寸铁】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：手里什么武器也没有。铁：指武器</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴蛇鼠狗牛虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>347期一语中特【观者如山】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容观看人数众多</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊狗马鸡兔牛开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");

@@ -19,11 +19,11 @@ document.writeln("		<table style=border-collapse:collapse border=1 width=100% bg
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><a href=\'https://hgjgfgg.www552257b.com:8443/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
-document.writeln("	<span style=\"font-size: 13pt\">346期今期马鸡鼠出特，九九归一是何时<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
+document.writeln("	<span style=\"font-size: 13pt\">347期今期兔狗马出特，三心二意拢心神<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		");
 document.writeln("	</span>		");
-document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀羊牛虎(09.21.33.03.15.27.39.02.14.26.38)</span><font color=\'#008000\'><BR>");
-document.writeln("<span style=\'font-size: 14pt\'>②图解特肖马鸡鼠蛇猴</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
-document.writeln("	③绿波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 12pt\">①杀猪鼠蛇(05.17.29.41.04.16.28.40.11.23.35.47)</span><font color=\'#008000\'><BR>");
+document.writeln("<span style=\'font-size: 14pt\'>②图解特肖兔狗马蛇虎</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③红波+绿波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");
 document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'33\'><tbody><tr>");

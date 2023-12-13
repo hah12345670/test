@@ -45,7 +45,7 @@ document.writeln("		342期【蛇<span style=\'background-color: #FFFF00\'>猪</s
 document.writeln("		343期【鼠狗<span style=\'background-color: #FFFF00\'>兔</span>】<br>		");
 document.writeln("		344期【鼠<span style=\'background-color: #FFFF00\'>蛇</span>猪】<br>		");
 document.writeln("		345期【<span style=\'background-color: #FFFF00\'>鸡</span>猪虎】<br>		");
-document.writeln("		346期【虎牛猪】<br>		");
+document.writeln("		347期【牛猪兔】<br>		");
 document.writeln("");
 document.writeln("				");
 document.writeln("");

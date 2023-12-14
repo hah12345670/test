@@ -23,13 +23,22 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>348期一语中特【火冒三丈】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容怒气特别大。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴牛马羊鼠虎开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>347期一语中特【上蹿下跳】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：2.比喻人到处活动。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马鸡兔鼠猪开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>马</span>鸡兔鼠猪开马46准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -65,9 +74,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>348期一语中特【书香铜臭】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是指集书香和铜臭于一体的书商</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇鸡龙虎羊兔开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>347期一语中特【观者如山】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容观看人数众多</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊狗马鸡兔牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊狗<span style=\'background-color: #FFFF00\'>马</span>鸡兔牛开马46准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

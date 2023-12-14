@@ -22,7 +22,13 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	347期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>02.47.16.49.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	348期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>47.35.21.25.15</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	347期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>02</span>.47.16.49.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 document.writeln("");
 

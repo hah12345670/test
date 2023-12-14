@@ -42,8 +42,22 @@ document.writeln("      <td height=42 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>347期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>348期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>");
 document.writeln("		开</font><span style=\'background-color: #FFFFFF\'><font color=\'#0000FF\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【43.35.04.01.34.44.40.46.24.49】</font></span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
+
+document.writeln("     <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>347期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>");
+document.writeln("		开</font><span style=\'background-color: #FFFFFF\'><font color=\'#0000FF\'>马46</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
 document.writeln("		【25.43.28.18.38.42.35.03.48.29】</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");

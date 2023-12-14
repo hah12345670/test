@@ -32,12 +32,11 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>347期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>348期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -45,6 +44,22 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
 document.writeln("			四肖：更新中<br>");
 document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>347期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("披枷带锁走天涯，淡烟芳草马成群");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：走天涯解天肖牛猪兔马猴龙，芳草解草肖牛兔马羊。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛猪兔<span style=\'background-color: #FFFF00\'>马</span>猴龙羊<br>");
+document.writeln("			四肖：牛猪兔<span style=\'background-color: #FFFF00\'>马</span><br>");
+document.writeln("			特码：15.39.05.41.13.49.10.34.20.44.12.48.21.33</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

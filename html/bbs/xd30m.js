@@ -25,11 +25,11 @@ document.writeln("");
 
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/348/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/350/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/347/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/349/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

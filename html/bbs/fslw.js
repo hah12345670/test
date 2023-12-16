@@ -20,35 +20,20 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700/\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></strong></tr></table>");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("348期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>8-5-7-2-1-4</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("350期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>7-6-2-8-3-0</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("346期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>4-<span style=\'background-color: #FFFF00\'>3-7-9</span>-8-1</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
+document.writeln("349期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>2-4-<span style=\'background-color: #FFFF00\'>1-5-6</span>-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("344期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>9-1</span>-0-6-2-<span style=\'background-color: #FFFF00\'>7</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-
 
 
 

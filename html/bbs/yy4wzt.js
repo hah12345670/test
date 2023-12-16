@@ -20,7 +20,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("348期<font color=\'#FF00FF\'>（鸡龙虎+3805尾）</font>开？00</font></b></font></table>");
+document.writeln("350期<font color=\'#FF00FF\'>（猴龙马+7628尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("349期<font color=\'#FF00FF\'>（兔狗鸡+21<span style=\'background-color: #FFFF00\'>8</span>7尾）</font>开鼠28</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

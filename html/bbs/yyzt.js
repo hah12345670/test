@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>348期一语中特【火冒三丈】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容怒气特别大。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴牛马羊鼠虎开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>349期一语中特【危机四伏】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：到处都潜伏着危机。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：牛鸡羊猪兔龙开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -71,12 +71,20 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 
+
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>349期一语中特【立眉瞪眼】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 倒竖双眉,圆瞪二目,形容暴怒的样子</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛鼠龙猴狗开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>348期一语中特【书香铜臭】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是指集书香和铜臭于一体的书商</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇鸡龙虎羊兔开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇鸡龙虎羊<span style=\'background-color: #FFFF00\'>兔</span>开兔37准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<tr>");

@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 
-document.writeln("348期：平特【羊蛇拖鼠虎】开？00<br>");
+document.writeln("350期：平特【蛇虎拖狗鼠】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("348期：平特【羊<span style=\'background-color: #FFFF00\'>蛇</span>拖鼠<span style=\'background-color: #FFFF00\'>虎</span>】开47.02<br>");
 document.writeln("------<br>");
 document.writeln("347期：平特【<span style=\'background-color: #FFFF00\'>兔猪拖虎马</span>】开01.29.02.46<br>");
 document.writeln("------<br>");

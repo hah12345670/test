@@ -40,12 +40,23 @@ document.writeln("");
 
 
 
+
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第348期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔25.龙48.羊21.蛇47】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第350期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪17.马34.狗30.猴44】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第348期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>兔</span>25.龙48.羊21.蛇47】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

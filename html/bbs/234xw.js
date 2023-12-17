@@ -80,41 +80,11 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第349期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第351期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（日肖）<br>	");
-document.writeln("		主肖：蛇马羊</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第347期日夜中特开(马46)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（日肖）<br>	");
-document.writeln("		主肖：龙<span style=\'background-color: #FFFF00\'>马</span>猴</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第346期日夜中特开(羊09)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（日肖）<br>	");
-document.writeln("		主肖：兔蛇猴</font></b></td>");
+document.writeln("		（夜肖）<br>	");
+document.writeln("		主肖：鼠狗猪</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -124,17 +94,14 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第344期日夜中特开(蛇47)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第350期日夜中特开(虎14)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（日肖）<br>	");
-document.writeln("		主肖：龙<span style=\'background-color: #FFFF00\'>蛇</span>马</font></b></td>");
+document.writeln("		（夜肖）<br>	");
+document.writeln("		主肖：牛<span style=\'background-color: #FFFF00\'>虎</span>狗</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-
-
-
 
 
 
@@ -173,37 +140,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("                   <font color=\"#FF0000\">（349期）</font></b><Br>");
-document.writeln("		<b>六肖【马狗羊牛猴龙】<br>		");
-document.writeln("		四肖：狗羊牛猴<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（346期）</font></b><Br>");
-document.writeln("		<b>六肖【狗猪鸡猴<span style=\'background-color: #FFFF00\'>羊</span>龙】<br>		");
-document.writeln("		四肖：狗猪鸡猴<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（345期）</font></b><Br>");
-document.writeln("		<b>六肖【<span style=\'background-color: #FFFF00\'>鸡</span>虎兔龙马羊】<br>		");
-document.writeln("		四肖：<span style=\'background-color: #FFFF00\'>鸡</span>虎兔龙<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（343期）</font></b><Br>");
-document.writeln("		<b>六肖【牛<span style=\'background-color: #FFFF00\'>兔</span>鸡鼠蛇马】<br>		");
-document.writeln("		四肖：牛<span style=\'background-color: #FFFF00\'>兔</span>鸡鼠<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（342期）</font></b><Br>");
-document.writeln("		<b>六肖【马虎猴鼠<span style=\'background-color: #FFFF00\'>猪</span>羊】<br>		");
-document.writeln("		四肖：马虎猴鼠<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（341期）</font></b><Br>");
-document.writeln("		<b>六肖【猴<span style=\'background-color: #FFFF00\'>马</span>牛虎羊猪】<br>		");
-document.writeln("		四肖：猴<span style=\'background-color: #FFFF00\'>马</span>牛虎<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（340期）</font></b><Br>");
-document.writeln("		<b>六肖【龙虎猴猪兔<span style=\'background-color: #FFFF00\'>马</span>】<br>		");
-document.writeln("		四肖：龙虎猴猪<br><Br>			");
-
-document.writeln("                   <font color=\"#FF0000\">（339期）</font></b><Br>");
-document.writeln("		<b>六肖【蛇龙<span style=\'background-color: #FFFF00\'>马</span>猪鸡猴】<br>		");
-document.writeln("		四肖：龙<span style=\'background-color: #FFFF00\'>马</span>猪鸡<br><Br>			");
+document.writeln("                   <font color=\"#FF0000\">（351期）</font></b><Br>");
+document.writeln("		<b>六肖【兔龙鸡羊虎狗】<br>		");
+document.writeln("		四肖：龙鸡羊虎<br><Br>			");
 
 
 
@@ -234,12 +173,18 @@ document.writeln("    <div id=\'con_tabzzhlzmzm2x_3\' style=\'display:none\'>");
 document.writeln("<!--台湾开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
-
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("349期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【猪鼠+52尾】</font>√</font></b></font></table>");
+document.writeln("351期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【马牛+62尾】</font>√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("350期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【猪鼠+52尾】</font>√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
@@ -290,15 +235,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>348期：独平</font><font color=\'#FF0000\' size=\'5\'>【猴20】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>351期：独平</font><font color=\'#FF0000\' size=\'5\'>【龙24】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 
-
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>347期：独平</font><font color=\'#FF0000\' size=\'5\'>【鸡<span style=\'background-color: #FFFF00\'>43</span>】</font><font color=\'#000000\' size=\'4\'>开43准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
 
 
 document.writeln("");

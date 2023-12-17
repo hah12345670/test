@@ -15,7 +15,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("350期：平码【42.04.43.25.12.40.44.11.26.16.35.30】<br>");
+document.writeln("");
+document.writeln("352期：平码【44.25.02.03.26.29.24.49.04.21.11.34】<br>");
 
 
 

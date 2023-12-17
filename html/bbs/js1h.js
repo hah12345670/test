@@ -36,17 +36,6 @@ document.writeln("");
 document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
-document.writeln("  <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>350期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
 
 document.writeln("  <!--开始-->");
 document.writeln("    ");
@@ -55,10 +44,9 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>347期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【土行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>马46</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>352期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【火行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
 document.writeln("  <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -66,10 +54,9 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>346期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【木行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊09</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>351期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【水行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴44</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
 document.writeln("  <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -77,21 +64,9 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>345期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【木行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鸡07</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>350期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>虎14</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
-
-document.writeln("  <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>344期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>蛇47</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("   <!--开始-->");
-
 
 
 

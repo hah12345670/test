@@ -36,33 +36,33 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong6\'>");
-document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62519b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong6-tit\'>一行一码（62815b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong6-box\'>");
 document.writeln("    	<div class=\'bizhong6-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>350期必中一行：<font color=\'#FF00FF\' size=\'4\'>土</font></li>");
-document.writeln("            	<li>350期必中二行：<font color=\'#FF00FF\' size=\'4\'>土-水</font></li>");
-document.writeln("            	<li>350期必中三行：<font color=\'#FF00FF\' size=\'4\'>土-水-金</font></li>");
+document.writeln(" 	            <li>352期必中一行：<font color=\'#FF00FF\' size=\'4\'>火</font></li>");
+document.writeln("            	<li>352期必中二行：<font color=\'#FF00FF\' size=\'4\'>火-水</font></li>");
+document.writeln("            	<li>352期必中三行：<font color=\'#FF00FF\' size=\'4\'>火-水-木</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong6-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>04.18.25.33.47.48</font></li>");
-document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>11.12.27.28.41.42</font></li>");
-document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>02.09.23.24.32.39</font></li>");
+document.writeln("            	<li>①<font color=\'#FF00FF\' size=\'4\'>08.15.16.29.37.38</font></li>");
+document.writeln("            	<li>②<font color=\'#FF00FF\' size=\'4\'>12.19.27.28.42.49</font></li>");
+document.writeln("            	<li>③<font color=\'#FF00FF\' size=\'4\'>06.14.21.35.36.43</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong6-foot\'>350期一行一码：<font color=\'#FF00FF\' size=\'6\'>(土行)</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong6-foot\'>352期一行一码：<font color=\'#FF00FF\' size=\'6\'>(火行)</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
+
 
 
 

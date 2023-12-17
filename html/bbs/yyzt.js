@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>349期一语中特【危机四伏】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：到处都潜伏着危机。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛鸡羊猪兔龙开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>351期一语中特【神气十足】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：神气：自以为得意傲慢的神情。形容摆出一副自以为高人一等而了不起的样子。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠猪蛇开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -36,11 +36,12 @@ document.writeln("  </tr>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>347期一语中特【上蹿下跳】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：2.比喻人到处活动。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇<span style=\'background-color: #FFFF00\'>马</span>鸡兔鼠猪开马46准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>350期一语中特【六神无主】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容心慌意乱，没有主意。六神：道教指所谓主宰人体的心、肺、肝、肾、脾、胆等六脏的神灵。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪鼠<span style=\'background-color: #FFFF00\'>虎</span>鸡牛马开虎14准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+
 
 
 
@@ -75,9 +76,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>351期一语中特【心荡神驰】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 指心神飘荡，不能控制自己。成语用法作谓语、定语;指人心神不定</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马鼠羊猴牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>349期一语中特【立眉瞪眼】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 倒竖双眉,圆瞪二目,形容暴怒的样子</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛鼠龙猴狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛<span style=\'background-color: #FFFF00\'>鼠</span>龙猴狗开鼠28准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<tr>");

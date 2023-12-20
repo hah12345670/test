@@ -26,9 +26,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>351期一语中特【神气十足】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：神气：自以为得意傲慢的神情。形容摆出一副自以为高人一等而了不起的样子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊牛马鼠猪蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>353期一语中特【风扫落叶】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：秋天的大风把落叶一扫而光，比喻强大的力量迅速而轻易地把腐朽衰败的事物扫除光</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猪兔鸡鼠羊猴开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>352期一语中特【粗枝大叶】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻不认真，不细致，马虎大意。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马龙牛<span style=\'background-color: #FFFF00\'>猪</span>羊鼠开猪41准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -71,6 +81,14 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>353期一语中特【扬名后世】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是名声传扬到后世</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马猴牛虎猪鸡开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 
 
 document.writeln("");
@@ -78,7 +96,7 @@ document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>351期一语中特【心荡神驰】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释： 指心神飘荡，不能控制自己。成语用法作谓语、定语;指人心神不定</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马鼠羊猴牛开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔马鼠羊<span style=\'background-color: #FFFF00\'>猴</span>牛开猴44准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

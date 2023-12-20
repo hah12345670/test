@@ -18,8 +18,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("352期：平特【鸡羊拖猴狗】开？00<br>");
+document.writeln("354期：平特【猴羊拖马兔】开？00<br>");
 document.writeln("------<br>");
+
+
+document.writeln("353期：平特【虎兔拖<span style=\'background-color: #FFFF00\'>蛇龙</span>】开23.36<br>");
+document.writeln("------<br>");
+
+
 
 document.writeln("351期：平特【<span style=\'background-color: #FFFF00\'>猪鼠</span>拖龙兔】开05.40.16<br>");
 document.writeln("------<br>");

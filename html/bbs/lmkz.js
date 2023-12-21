@@ -32,7 +32,7 @@ document.writeln("");
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>354期：【职业玩家】破解龙门客栈</font><br>");
+document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>355期：【职业玩家】破解龙门客栈</font><br>");
 document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【卷土重来】<br>客官：【清蒸鱼，红烧土鸡】<br>");
 document.writeln("		小二：【客观，今天吃点什么】</font></font></font></span></td>");
 document.writeln("    </tr>");

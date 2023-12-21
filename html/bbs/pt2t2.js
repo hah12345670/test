@@ -18,7 +18,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("355期：平特【鼠猴拖兔牛】开？00<br>");
+document.writeln("356期：平特【蛇狗拖猪羊】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("355期：平特【鼠<span style=\'background-color: #FFFF00\'>猴</span>拖<span style=\'background-color: #FFFF00\'>兔</span>牛】开08.49<br>");
 document.writeln("------<br>");
 
 

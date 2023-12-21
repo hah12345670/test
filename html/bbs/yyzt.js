@@ -23,14 +23,14 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
-document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>354期一语中特【东山再起】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：东晋时，谢安退职后在东山做隐士，以后又出来做了大官</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙狗马猴羊鼠开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>355期一语中特【白日做梦】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：大白天做梦。比喻幻想根本不能实现。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠猪猴狗马鸡开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+
 
 
 
@@ -60,12 +60,19 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>355期一语中特【一息尚存】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：只要还有一口气。指还活着</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴鼠狗马兔虎开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>354期一语中特【四面楚歌】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：借以比喻陷入四面受敌，到达孤立无援的窘迫境地</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙兔猴牛蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙<span style=\'background-color: #FFFF00\'>兔</span>猴牛蛇开兔13准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

@@ -23,7 +23,7 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	354期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>32.43.11.20.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	355期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>25.16.13.47.14</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 

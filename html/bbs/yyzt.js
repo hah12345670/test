@@ -26,32 +26,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>353期一语中特【风扫落叶】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：秋天的大风把落叶一扫而光，比喻强大的力量迅速而轻易地把腐朽衰败的事物扫除光</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪兔鸡鼠羊猴开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>354期一语中特【东山再起】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：东晋时，谢安退职后在东山做隐士，以后又出来做了大官</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙狗马猴羊鼠开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>352期一语中特【粗枝大叶】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：比喻不认真，不细致，马虎大意。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马龙牛<span style=\'background-color: #FFFF00\'>猪</span>羊鼠开猪41准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>350期一语中特【六神无主】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容心慌意乱，没有主意。六神：道教指所谓主宰人体的心、肺、肝、肾、脾、胆等六脏的神灵。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猪鼠<span style=\'background-color: #FFFF00\'>虎</span>鸡牛马开虎14准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
 
 
 
@@ -84,9 +63,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>354期一语中特【四面楚歌】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：借以比喻陷入四面受敌，到达孤立无援的窘迫境地</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎龙兔猴牛蛇开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>353期一语中特【扬名后世】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是名声传扬到后世</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马猴牛虎猪鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>马</span>猴牛虎猪鸡开马10准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

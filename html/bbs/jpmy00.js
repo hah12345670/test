@@ -11,13 +11,23 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFFFF\'>『金牌谜语』</font></font></b></table>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("355期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("	<span style=\"font-size: 13pt\">一座军营百个兵，列好队伍等命令<br>");
+document.writeln("一旦需要就出去，牺牲自己换光明</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("354期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("354期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>兔13</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("	<span style=\"font-size: 13pt\">身上大环套小环，生来就爱吃子弹<br>");
 document.writeln("过硬本领它作证，你说这是哪一件</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
 document.writeln("");

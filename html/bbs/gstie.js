@@ -99,7 +99,8 @@ document.writeln("350期平<b><font color=\"#FF0000\" size=\"5\">【狗】</font
 document.writeln("351期平<b><font color=\"#FF0000\" size=\"5\">【马】</font></b>开马34准<br>");
 document.writeln("352期平<b><font color=\"#FF0000\" size=\"5\">【鸡】</font></b>开鸡19准<br>");
 document.writeln("353期平<b><font color=\"#FF0000\" size=\"5\">【马】</font></b>开马10准<br>");
-document.writeln("354期平<b><font color=\"#FF0000\" size=\"5\">【蛇】</font></b>开發00准<br>");
+document.writeln("354期平<b><font color=\"#FF0000\" size=\"5\">【蛇】</font></b>开蛇35准<br>");
+document.writeln("355期平<b><font color=\"#FF0000\" size=\"5\">【狗】</font></b>开發00准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("				");

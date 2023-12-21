@@ -15,7 +15,11 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("354期：平码【40.06.22.24.15.44.38.46.12.34.37.35】<br>");
+document.writeln("");
+document.writeln("355期：平码【07.30.15.12.17.06.25.18.24.41.31.38】<br>");
+
+
+document.writeln("354期：平码【40.<span style=\'background-color: #FFFF00\'>06</span>.22.24.<span style=\'background-color: #FFFF00\'>15</span>.44.38.<span style=\'background-color: #FFFF00\'>46</span>.12.34.37.35】<br>");
 
 
 document.writeln("");

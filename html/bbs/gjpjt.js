@@ -24,9 +24,19 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>353期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(四三争落三不移)(牛毛细雨)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>355期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(蓝绿有特绿选小)(牛鬼蛇神)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>354期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(九字当头四六好)(猪狗不如)</font><font style=\'font-size: 12pt; font-weight:700\'>开特兔平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");

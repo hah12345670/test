@@ -27,56 +27,40 @@ document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
 document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>356期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开？00准</span></font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>玉龙山下清风寨,四面楚歌鸡兔情</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析: 预先解明肖龙鸡兔.风解风肖虎兔龙.山解土肖牛龙羊狗.四解四位兔四岁狗肖.心水诗大意是不管在哪.只要是有作为的人有能耐的人,面对艰难险阻都会有所作为.综合得主龙鸡兔虎防牛羊狗猴鼠</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙鸡兔虎牛羊<br>");
-document.writeln("	特码：12.36.31.43.01.13.02.38.15.39.21.33</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>354期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开兔13准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>358期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>山川大地景色好，龙行风雨雨方来</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一去二三里之远，丛林深处有人家</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖龙,风解风肖虎兔龙.雨解雨肖鼠牛猪.地字偏看地肖,好字偏看吉肖,属地肖吉肖的是蛇羊鸡,大偏看大码.心水诗大意是,虽景色好,也须要龙(领导者)来管理.好的管理者很重要.综合得主龙虎<span style=\'background-color: #FFFF00\'>兔</span>鼠防牛猪蛇羊鸡</font></div>");
+document.writeln("			解析: 预先解明肖一位鼠一岁兔二位牛二岁虎三位虎三岁牛,林解木肖虎兔,家偏看家肖牛马羊鸡狗猪.综合得主鼠兔牛虎防马羊鸡狗猪。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙虎<span style=\'background-color: #FFFF00\'>兔</span>鼠牛猪<br>");
-document.writeln("	特码：12.36.02.38.25.49.04.40.15.39.05.41</font></b></div>");
+document.writeln("	解特肖：鼠兔牛虎马羊<br>");
+document.writeln("	特码：04.40.13.49.15.39.02.38.10.34.07.45</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
 
 
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>353期【独家玄机】解析</font><font color=\'#FFFFFF\'><span style=\'background-color: #000000\'>开马10准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>357期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>不沾十指衣冠好，声色犬马任自由</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>天姿孝忠佐金轮，天马来仪自海西</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("			解析:预先解明肖狗马,十解十岁马十位鸡,好偏看吉美肖兔龙蛇马羊鸡.综合得主狗<span style=\'background-color: #FFFF00\'>马</span>鸡兔防龙蛇羊鼠牛</font></div>");
+document.writeln("			解析: 预先解明肖马,金解金肖猴鸡,西解西肖猴鸡狗.天偏看天肖兔马猴猪牛龙.综合得主马猴鸡<span style=\'background-color: #FFFF00\'>狗</span>防兔猪牛龙蛇</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：狗<span style=\'background-color: #FFFF00\'>马</span>鸡兔龙蛇<br>");
-document.writeln("	特码：18.30.<span style=\'background-color: #FFFF00\'>10</span>.34.31.43.13.37.12.36.11.23</font></b></div>");
+document.writeln("	解特肖：马猴鸡<span style=\'background-color: #FFFF00\'>狗</span>兔猪<br>");
+document.writeln("	特码：22.46.08.20.07.43.30.<span style=\'background-color: #FFFF00\'>42</span>.01.49.05.41</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 
 
 

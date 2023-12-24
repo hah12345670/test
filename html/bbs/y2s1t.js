@@ -11,76 +11,6 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("335期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【4头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("龙24准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("336期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("鸡31准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("337期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("鼠16准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("338期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("肖猪41准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("339期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【3头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("马10准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("340期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【0头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("马46准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("341期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("马34准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("342期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【3头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("猪05准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("343期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【3头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("兔01准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("344期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【1头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("蛇47准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("345期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("鸡07准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("346期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【4头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("羊09准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("347期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("马46准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("349期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【4头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("鼠28准</font></span></strong></span></p></td></tr>");
 document.writeln("");
@@ -118,6 +48,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("355期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【4头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("狗18准</font></span></strong></span></p></td></tr>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("356期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【0头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("猪29准</font></span></strong></span></p></td></tr>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("358期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一头</span>【2头】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 document.writeln("</tbody></table> ");

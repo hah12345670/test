@@ -65,51 +65,11 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【稍后来料】<br>");
-document.writeln("		【稍后来料】</font></b></td>");
+document.writeln("		【02.46.31.27.05.09.20.29】<br>");
+document.writeln("		【03.23.45.28.32.33.21.38】</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
 document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("354期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("    		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【05.41.11.23.21.33.<span style=\'background-color: #FFFF00\'>13</span>.49】<br>");
-document.writeln("		【22.34.04.16.12.36.31.43】</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("   <!--结束--> ");
-
-
-document.writeln("             <!--开始--> ");
-document.writeln("		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("353期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("    		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【36.28.49.40.39.12.46.16】<br>");
-document.writeln("		【21.15.06.<span style=\'background-color: #FFFF00\'>10</span>.29.05.02.17】</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("   <!--结束--> ");
-
-
 
 
 

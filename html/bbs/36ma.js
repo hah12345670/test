@@ -16,19 +16,30 @@ document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388\' s
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>355期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		        34.15.32.44.47.04.12.23.33.13.14.31<br>");
-document.writeln("			    22.17.36.20.38.35.40.26.30.48.41.03<br>");
-document.writeln("			    46.42.43.27.29.39.07.01.09.28.16.11</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>358期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        06.03.34.38.41.40.14.27.25.05.19.45<br>");
+document.writeln("			    30.04.26.42.13.29.33.39.12.20.48.28<br>");
+document.writeln("			    18.15.09.21.35.44.16.36.43.46.24.37</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
-document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>356期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		        34.48.44.32.11.43.17.13.12.46.35.18<br>");
+document.writeln("			    10.09.05.27.30.41.14.37.04.33.16.08<br>");
+document.writeln("			    19.23.20.06.25.36.07.31.01.26.<span style=\'background-color: #FFFF00\'>29</span>.02</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");

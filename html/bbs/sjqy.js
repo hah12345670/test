@@ -29,7 +29,7 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/355/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/357/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
@@ -40,33 +40,15 @@ document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第355期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（豆瓜满架四邻春）<br></font>  ");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第357期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（风月场中多妖娆）<br></font>  ");
 document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：豆瓜满架四邻春，解兔鼠马牛猪虎。</font><br>");
+document.writeln("		解：风月场中多妖娆，解羊牛鼠兔马猴。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：兔鼠马牛猪虎</font></b></td>");
+document.writeln("		综合特码：猴虎兔鸡蛇羊</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
-
-
-document.writeln("");
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第354期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（风平浪静出尘埃）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：风平浪静出尘埃，解龙鼠马羊牛兔。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：龙鼠马羊牛<span style=\'background-color: #FFFF00\'>兔</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
-
-
 
 
 

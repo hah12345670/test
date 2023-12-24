@@ -31,6 +31,25 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388ttz.com:238
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
+
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第358期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    龙12.36猴08.20鸡31.43<br>");
+document.writeln("		蛇11.47猪05.41牛15.39<br>");
+document.writeln("		鼠04.40羊21.33虎02.38<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
+
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
@@ -40,7 +59,7 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第356期<font color=
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    鼠04.40猪17.41羊21.45<br>");
+document.writeln("	    鼠04.40<font face=\'隶书\' size=\'6\' color=\'#FF0000\'><span style=\"background-color: #FFFF00\">猪</span></font>17.41羊21.45<br>");
 document.writeln("		鸡07.43马22.46兔13.49<br>");
 document.writeln("		牛03.39猴20.44蛇23.47<br>");
 document.writeln("		  </font>  ");

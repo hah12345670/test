@@ -33,11 +33,12 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>356期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("			<font style=\'font-size: 13pt\'>358期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("更新中");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
@@ -48,6 +49,24 @@ document.writeln("			特码：更新中</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>357期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("西环路车水马龙，一位美女开路虎");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：西环解西肖猴狗鸡，明肖马龙虎，美女解女肖鸡蛇兔羊猪。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猴狗马龙虎鸡蛇<br>");
+document.writeln("			四肖：猴狗马龙<br>");
+document.writeln("			特码：20.44.30.42.10.34.12.36.02.38.31.43.11.23</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");

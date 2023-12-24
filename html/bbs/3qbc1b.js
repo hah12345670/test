@@ -33,75 +33,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>354-356期</font>【<font color=\'#FF0000\'>蓝波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>357-359期</font>【<font color=\'#FF0000\'>绿波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>349-351期</font>【<font color=\'#FF0000\'>蓝波</font>】350期开<font color=\'#FF00FF\'>(14)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>348-350期</font>【<font color=\'#FF0000\'>蓝波</font>】348期开<font color=\'#FF00FF\'>(37)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>347-349期</font>【<font color=\'#FF0000\'>红波</font>】347期开<font color=\'#FF00FF\'>(46)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>345-347期</font>【<font color=\'#FF0000\'>蓝波</font>】346期开<font color=\'#FF00FF\'>(09)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>342-344期</font>【<font color=\'#FF0000\'>蓝波</font>】344期开<font color=\'#FF00FF\'>(47)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>337-339期</font>【<font color=\'#FF0000\'>蓝波</font>】338期开<font color=\'#FF00FF\'>(41)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>334-336期</font>【<font color=\'#FF0000\'>蓝波</font>】336期开<font color=\'#FF00FF\'>(31)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>333-335期</font>【<font color=\'#FF0000\'>蓝波</font>】333期开<font color=\'#FF00FF\'>(37)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>329-331期</font>【<font color=\'#FF0000\'>红波</font>】329期开<font color=\'#FF00FF\'>(35)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>325-327期</font>【<font color=\'#FF0000\'>红波</font>】325期开<font color=\'#FF00FF\'>(07)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>323-325期</font>【<font color=\'#FF0000\'>蓝波</font>】324期开<font color=\'#FF00FF\'>(26)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>321-323期</font>【<font color=\'#FF0000\'>绿波</font>】322期开<font color=\'#FF00FF\'>(32)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
 
 
 

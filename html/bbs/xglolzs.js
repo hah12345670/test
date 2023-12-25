@@ -60,7 +60,15 @@ document.writeln("		<!--开始-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期稳杀(2)肖<font color=\'#FF00FF\' size=\'5\'>【蛇龙】</font>开？00√</font></b></font></table>");
+document.writeln("145期稳杀(2)肖<font color=\'#FF00FF\' size=\'5\'>【虎马】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("144期稳杀(2)肖<font color=\'#FF00FF\' size=\'5\'>【蛇龙】</font>开猴20√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 
@@ -114,9 +122,11 @@ document.writeln("		<!--开始二特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期稳杀(2)尾<font color=\'#008000\' size=\'5\'>【06尾】</font>开？00√</font></b></font></table>");
+document.writeln("145期稳杀(2)尾<font color=\'#008000\' size=\'5\'>【36尾】</font>开？00√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
+
+
 
 
 document.writeln("		<!--开始二特-->");
@@ -205,7 +215,7 @@ document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期双波<font color=\'#0000FF\' size=\'5\'>【绿波红波】</font>开？00√</font></b></font></table>");
+document.writeln("145期双波<font color=\'#0000FF\' size=\'5\'>【蓝波绿波】</font>开？00√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 
@@ -256,11 +266,19 @@ document.writeln("    <div id=\'con_tabzzhlxg_4\' style=\'display:none\'>");
 document.writeln("<!--新彩开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
+
 document.writeln("		<!--开始四特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期四头中特<font color=\'#FF0000\' size=\'5\'>【4321】</font>开？00√</font></b></font></table>");
+document.writeln("145期四头中特<font color=\'#FF0000\' size=\'5\'>【1034】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始四特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("144期四头中特<font color=\'#FF0000\' size=\'5\'>【4321】</font>开猴20√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始四特-->");
@@ -329,11 +347,19 @@ document.writeln("    <div id=\'con_tabzzhlxg_5\' style=\'display:none\'>");
 document.writeln("<!--正五特开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
+
 document.writeln("		<!--开始五特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期单双<font color=\'#ce0f67\' size=\'5\'>【双+大单】</font>开？00√</font></b></font></table>");
+document.writeln("145期单双<font color=\'#ce0f67\' size=\'5\'>【双+小单】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始五特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("144期单双<font color=\'#ce0f67\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>双</span>+大单】</font>开猴20√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始五特-->");
@@ -397,7 +423,15 @@ document.writeln("		<!--开始六特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("144期四行中特<font color=\'#99CC00\' size=\'5\'>【水火土木】</font>开？00√</font></b></font></table>");
+document.writeln("145期四行中特<font color=\'#99CC00\' size=\'5\'>【土火水金】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("144期四行中特<font color=\'#99CC00\' size=\'5\'>【水火土木】</font>开水20√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 

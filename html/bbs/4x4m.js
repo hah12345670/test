@@ -45,7 +45,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第358期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛03.狗42.蛇11.猪41】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第359期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.蛇23.龙12.猴20】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

@@ -30,14 +30,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>359期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>361期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>单身兔</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:明肖兔，单身解单肖牛猪羊兔鸡蛇</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>水蛇单游</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:明肖蛇，水解水肖鼠猪，单解单肖牛猪羊蛇兔鸡</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛猪羊兔鸡蛇</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：蛇鼠猪牛羊兔</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛猪羊兔</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：蛇鼠猪牛</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
@@ -45,17 +45,18 @@ document.writeln("<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>357期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开狗42准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>360期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开虎26准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>母狗满地抓鼠贼</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:明肖鼠狗，满地解地肖蛇羊鸡虎鼠狗</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>秋天叶落一地</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:秋天叶落一地，地解地肖蛇羊鸡虎狗鼠</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：鼠<span style=\'background-color: #FFFF00\'>狗</span>蛇羊鸡虎</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：蛇羊鸡<span style=\'background-color: #FFFF00\'>虎</span>狗鼠</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：鼠<span style=\'background-color: #FFFF00\'>狗</span>蛇羊</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：蛇羊鸡<span style=\'background-color: #FFFF00\'>虎</span></font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
+
 
 
 

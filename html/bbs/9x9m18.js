@@ -32,6 +32,7 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong5\'>");
@@ -39,11 +40,34 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62815a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>359期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔猴马鼠龙牛蛇狗</font></li>");
-document.writeln("            	<li><font size=\'3\'>359期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔猴马鼠龙牛</font></li>");
-document.writeln("            	<li><font size=\'3\'>359期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔猴马鼠</font></li>");
-document.writeln("            	<li><font size=\'2\'>359期必中18码：</font><font size=\'2\' color=\'#FF0000\'>14.26.37.49.08.20.10.34.16.40.24.36.03.39.11.35.30.42</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>359期必中九码：</font><font size=\'2\' color=\'#FF0000\'>14.37.08.10.16.24.39.11.30</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>360期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>狗猴龙马牛兔猪羊鼠</font></li>");
+document.writeln("            	<li><font size=\'3\'>360期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>狗猴龙马牛兔猪</font></li>");
+document.writeln("            	<li><font size=\'3\'>360期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>狗猴龙马牛</font></li>");
+document.writeln("            	<li><font size=\'2\'>360期必中18码：</font><font size=\'2\' color=\'#FF0000\'>06.30.20.44.12.36.10.34.03.15.25.37.05.41.21.33.28.40</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>360期必中九码：</font><font size=\'2\' color=\'#FF0000\'>06.20.12.34.15.25.41.21.28</span></font></li>");
+document.writeln("");
+document.writeln("            	");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("    </div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>360期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>狗06</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期结束-->");
+
+document.writeln("");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong5\'>");
+document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62815a.com）九肖九码</div>");
+document.writeln("	<div class=\'bizhong5-box\'>");
+document.writeln("    	<div class=\'bizhong5-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li><font size=\'3\'>359期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔<span style=\'background-color: #FFFF00\'>【猴】</span>马鼠龙牛蛇狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>359期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔<span style=\'background-color: #FFFF00\'>【猴】</span>马鼠龙牛</font></li>");
+document.writeln("            	<li><font size=\'3\'>359期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>虎兔<span style=\'background-color: #FFFF00\'>【猴】</span>马鼠</font></li>");
+document.writeln("            	<li><font size=\'2\'>359期必中18码：</font><font size=\'2\' color=\'#FF0000\'>14.26.37.49.<span style=\'background-color: #FFFF00\'>【08】</span>.20.10.34.16.40.24.36.03.39.11.35.30.42</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>359期必中九码：</font><font size=\'2\' color=\'#FF0000\'>14.37.<span style=\'background-color: #FFFF00\'>【08】</span>.10.16.24.39.11.30</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");

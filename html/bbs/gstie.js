@@ -58,8 +58,12 @@ document.writeln("359期:【大亨送彩】二肖四码开:<span class=\"style2\
 document.writeln("<br>【蛇<span style=\"background-color: #FFFF00\">猴</span>】【12.24.36.48】<br><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("360期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("360期:【大亨送彩】二肖四码开:<span class=\"style2\">马22</span>错		");
 document.writeln("<br>【鸡马】【05.17.29.41】<br><br>");
+document.writeln("				");
+document.writeln("");
+document.writeln("361期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【牛羊】【04.16.28.40】<br><br>");
 document.writeln("				");
 document.writeln("");
 document.writeln("  </td></tr>");

@@ -32,6 +32,17 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("         <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>361期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
+
 document.writeln("");
 document.writeln("         <!--开始-->");
 document.writeln("    ");
@@ -39,7 +50,7 @@ document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>360期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>360期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开虎26准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 

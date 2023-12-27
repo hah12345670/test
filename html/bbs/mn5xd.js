@@ -55,7 +55,8 @@ document.writeln("356期【兔羊虎猴马鸡狗牛蛇鼠】×<br>		");
 document.writeln("357期【马羊龙猴兔虎<span style=\'background-color: #FFFF00\'>狗</span>蛇猪鸡】√<br>		");
 document.writeln("358期【猴猪<span style=\'background-color: #FFFF00\'>兔</span>虎马蛇鼠鸡羊狗】√<br>		");
 document.writeln("359期【鼠猪马鸡羊牛虎<span style=\'background-color: #FFFF00\'>猴</span>蛇龙】√<br>		");
-document.writeln("360期【猴蛇牛马虎鸡羊龙兔狗】√<br>		");
+document.writeln("360期【猴蛇牛马<span style=\'background-color: #FFFF00\'>虎</span>鸡羊龙兔狗】√<br>		");
+document.writeln("361期【鼠兔龙猪虎狗猴鸡牛马】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -88,7 +89,10 @@ document.writeln("	356期【30<span style=\'background-color: #FFFF00\'>2</span>
 document.writeln("	357期【3102头】×<br>		");
 document.writeln("	358期【314<span style=\'background-color: #FFFF00\'>0</span>头】√<br>		");
 document.writeln("	359期【<span style=\'background-color: #FFFF00\'>0</span>143头】√<br>		");
-document.writeln("	360期【0412头】√<br>		");
+document.writeln("	360期【041<span style=\'background-color: #FFFF00\'>2</span>头】√<br>		");
+document.writeln("	360期【2043头】√<br>		");
+
+
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -101,8 +105,8 @@ document.writeln("<!--四行-->");
 document.writeln("	");
 document.writeln("<font size=\'4\' color=\'#0000FF\'>【老三主四行】√</font><font size=\'4\'><br>");
 
-
-document.writeln("360期【火水木土】√<br>			");
+document.writeln("360期【火水木<span style=\'background-color: #FFFF00\'>土</span>】√<br>			");
+document.writeln("361期【火土水木】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -126,7 +130,8 @@ document.writeln("	356期【02<span style=\'background-color: #FFFF00\'>9</span>
 document.writeln("	357期【17<span style=\'background-color: #FFFF00\'>2</span>94530】√<br>	");
 document.writeln("	358期【24538607】×<br>	");
 document.writeln("	359期【2<span style=\'background-color: #FFFF00\'>8</span>365941】√<br>	");
-document.writeln("	360期【90365127】√<br>	");
+document.writeln("	360期【903<span style=\'background-color: #FFFF00\'>6</span>5127】√<br>	");
+document.writeln("	361期【97104258】√<br>	");
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -139,8 +144,8 @@ document.writeln("<!--双波-->");
 document.writeln("	<font size=\'4\' color=\'#0000FF\'>【老五主双波】√</font><font size=\'4\'><br>     ");
 document.writeln("");
 document.writeln("");
-
-document.writeln("360期【蓝波绿波】√<br>  	");
+document.writeln("360期【<span style=\'background-color: #FFFF00\'>蓝波</span>绿波】√<br>  	");
+document.writeln("361期【蓝波绿波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

@@ -113,7 +113,8 @@ document.writeln("		    ");
 
 document.writeln("		359期【<span style=\'background-color: #FFFF00\'>猴</span>龙鼠】<br>		");
 document.writeln("		360期【鸡<span style=\'background-color: #FFFF00\'>虎</span>猪】<br>		");
-document.writeln("		361期【鸡狗猪<br>		");
+document.writeln("		361期【<span style=\'background-color: #FFFF00\'>鸡</span>狗猪】<br>		");
+document.writeln("		362期【狗牛猪】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -124,7 +125,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			361期【猴狗+鼠】<br><br>				");
+document.writeln("			362期【猴牛+猪】<br><br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -137,8 +138,8 @@ document.writeln("		");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神经】(3肖4码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 
-document.writeln("				361期鼠猴狗<br>");
-document.writeln("				09.21.33.45<br><br>");
+document.writeln("				362期龙鼠羊<br>");
+document.writeln("				02.14.26.38<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("								");
@@ -152,12 +153,9 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小情怀】(12码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("			  358期<br>");
-document.writeln("				22.39.19.29.20.18<br>");
-document.writeln("				32.16.<span style=\'background-color: #FFFF00\'>01</span>.33.08.40<br>	");
-document.writeln("			 361期<br>");
-document.writeln("				01.37.15.34.02.10<br>");
-document.writeln("				38.23.26.04.09.03<br>	");
+document.writeln("			 362期<br>");
+document.writeln("				48.36.28.04.44.06<br>");
+document.writeln("				23.42.17.16.29.03<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -188,7 +186,8 @@ document.writeln("				</font> 	");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("			359期【<span style=\'background-color: #FFFF00\'>猴</span>蛇牛狗】<br>				");
-document.writeln("			361期【狗马蛇猪】<br>				");
+
+document.writeln("			362期【猴羊牛鼠】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -205,9 +204,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				361期？<br>");
-document.writeln("				【28.46.07.26】<br>");
-document.writeln("				【18.02.41.01】<br>	<br>				");
+document.writeln("				362期？<br>");
+document.writeln("				【15.44.45.24】<br>");
+document.writeln("				【19.41.21.02】<br>	<br>				");
 
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -231,9 +230,9 @@ document.writeln("			（25.38.43.32.33）<br>");
 document.writeln("			（11.<span style=\'background-color: #FFFF00\'>26</span>.07.22.36）<br>	");
 
 
-document.writeln("				361期<br>");
-document.writeln("			（21.45.42.47.48）<br>");
-document.writeln("			（33.03.37.46.06）<br>	");
+document.writeln("				362期<br>");
+document.writeln("			（26.47.36.35.42）<br>");
+document.writeln("			（06.12.43.01.48）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -244,8 +243,8 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		    ");
 document.writeln("				359期羊<span style=\'background-color: #FFFF00\'>猴</span>马+猪<br>				");
-document.writeln("				361期鸡鼠马+蛇<br>				");
-
+document.writeln("				361期<span style=\'background-color: #FFFF00\'>鸡</span>鼠马+蛇<br>				");
+document.writeln("				362期蛇鼠兔+猪<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

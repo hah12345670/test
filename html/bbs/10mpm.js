@@ -15,7 +15,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("361期：平码【20.24.32.35.06.37.42.49.18.17.01.43】<br>");
+document.writeln("");
+document.writeln("362期：平码【22.26.12.17.18.34.41.23.04.10.09.11】<br>");
+
 
 document.writeln("");
 document.writeln("360期：平码【<span style=\'background-color: #FFFF00\'>38</span>.45.01.10.35.34.23.27.29.11.<span style=\'background-color: #FFFF00\'>25</span>.47】<br>");

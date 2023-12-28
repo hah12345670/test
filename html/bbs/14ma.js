@@ -31,15 +31,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">361期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【15.25.02.32.11.21.08.38.17.47.34.44.16.36】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">362期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【22.46.14.26.06.42.35.47.08.32.17.29.19.07】</span></font></p>  	");
 document.writeln("			");
 
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">359期:==14码中特==开猴08准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【39.45.41.03.46.44.48.34.26.09.24.27.07.<span style=\'background-color: #FFFF00\'>08</span>】</span></font></p>  	");
-document.writeln("			");
 
 document.writeln("");
 document.writeln("");

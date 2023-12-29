@@ -45,20 +45,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第362期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎02.兔13.狗30.猪05】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第363期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔25.虎02.猪17.羊45】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第359期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛15.蛇23.龙12.<span style=\'background-color: #FFFF00\'>猴</span>20】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
 
 
 

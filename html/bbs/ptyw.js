@@ -20,65 +20,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>362期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『0尾』</font><font color=\'#0000FF\'>开00</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>359期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『1尾』</font><font color=\'#0000FF\'>开08</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>357期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『6尾』</font><font color=\'#0000FF\'>开26</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>356期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『5尾』</font><font color=\'#0000FF\'>开05</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>354期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『4尾』</font><font color=\'#0000FF\'>开14</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>352期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『4尾』</font><font color=\'#0000FF\'>开34</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>351期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『6尾』</font><font color=\'#0000FF\'>开16</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>349期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『8尾』</font><font color=\'#0000FF\'>开48</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>348期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『5尾』</font><font color=\'#0000FF\'>开15</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>347期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『6尾』</font><font color=\'#0000FF\'>开46</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>345期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『4尾』</font><font color=\'#0000FF\'>开04</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>344期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『7尾』</font><font color=\'#0000FF\'>开47</font></font></b></font></table>");
-
-
+document.writeln("	<font color=\'#0000FF\'>363期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『9尾』</font><font color=\'#0000FF\'>开00</font></font></b></font></table>");
 
 
 document.writeln("");

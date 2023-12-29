@@ -16,7 +16,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 
-document.writeln("362期：平特【狗羊拖猴牛】开？00<br>");
+document.writeln("363期：平特【鼠羊拖马兔】开？00<br>");
+document.writeln("------<br>");
+document.writeln("362期：平特【<span style=\'background-color: #FFFF00\'>狗</span>羊拖<span style=\'background-color: #FFFF00\'>猴</span>牛】开18.44<br>");
 document.writeln("------<br>");
 document.writeln("361期：平特【<span style=\'background-color: #FFFF00\'>猪羊</span>拖龙虎】开05.21<br>");
 document.writeln("------<br>");

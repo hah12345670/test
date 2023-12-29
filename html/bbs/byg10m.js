@@ -39,7 +39,7 @@ document.writeln("			<tr>");
 document.writeln("				<td style=\'background-position: 0% 0%; text-align:center; background-image:none; background-repeat:repeat; background-attachment:scroll\' width=\'100%\'>");
 document.writeln("				<font face=\'微软雅黑\'>");
 document.writeln("				<b>");
-document.writeln("				<font size=\'4\'>362期</font><font color=\'#FF0000\' size=\'5\'>【<a target=\"_blank\" href=\"https://fdff4ff.www21561c.com:8443/#11\"><span style=\"text-decoration: none\"><font color=\"#FF0000\">21561c.com 已更新，进入论坛查看</font></span></a>】</font><font size=\'4\'>稳中爆富！</font></b></font></td>");
+document.writeln("				<font size=\'4\'>363期</font><font color=\'#FF0000\' size=\'5\'>【<a target=\"_blank\" href=\"https://fdff4ff.www21561c.com:8443/#11\"><span style=\"text-decoration: none\"><font color=\"#FF0000\">21561b.com已更新，进入论坛查看</font></span></a>】</font><font size=\'4\'>稳中爆富！</font></b></font></td>");
 document.writeln("			</tr>");
 document.writeln("");
 document.writeln("			");

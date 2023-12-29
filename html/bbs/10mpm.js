@@ -16,7 +16,8 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("362期：平码【22.26.12.17.18.34.41.23.04.10.09.11】<br>");
+document.writeln("363期：平码【43.08.45.15.48.12.09.18.17.10.16.40】<br>");
+
 
 
 document.writeln("");

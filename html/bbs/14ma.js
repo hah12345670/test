@@ -31,8 +31,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">364期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【19.02.09.03.33.30.11.04.37.47.29.26.27.10】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">365期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【24.48.36.12.32.42.05.28.13.47.49.44.03.15】</span></font></p>  	");
 document.writeln("			");
 
 

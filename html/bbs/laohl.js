@@ -42,7 +42,19 @@ document.writeln("<!--日历网址：https://www.8s8s.com/shop/list.php -->");
 document.writeln("");
 document.writeln("<table class=\'lhl\' width=\'100%\' border=\'1\'>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"31\"><strong>364期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>12月29号，十一月十八</font><font color=\'#000000\'>，吉日五行:大海水;狗日冲(丙辰)龙煞北 ");
+document.writeln("	,宿名：西方娄金狗</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font size=\'3\'>");
+document.writeln("	预测:大凶,五行:05 06 13 14 21 22 35 36 43 44冲煞:龙狗煞北:鼠猪牛,星宿杀肖:鼠,综合：龙蛇虎狗马猴牛猪兔 ");
+document.writeln("	本期主攻:龙蛇虎狗马，号码12.36.11.23.02.38.30.42.10.46</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\' height=\"31\"><strong>363期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>12月29号，十一月十七</font><font color=\'#000000\'>，吉日五行:石榴木;鸡日冲(乙卯)兔煞东 ");
@@ -50,7 +62,7 @@ document.writeln("	,宿名：西方娄金狗</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font size=\'3\'>");
-document.writeln("	预测:小吉,五行:木：05 06 13 14 21 22 35 36 43 44冲煞:鸡兔煞东:兔虎龙,星宿杀肖:马,综合：虎猪鼠牛兔鸡蛇龙狗 ");
+document.writeln("	预测:小吉,五行:木：05 06 13 14 21 22 35 36 43 44冲煞:鸡兔煞东:兔虎龙,星宿杀肖:马,综合：虎猪鼠牛兔鸡蛇</font><font color=\"#FFFF00\" size=\"5\"><span style=\"font-weight: 700; background-color: #008000\">龙</span></font><font size=\'3\'>狗 ");
 document.writeln("	本期主攻:虎猪鼠牛兔，号码14.26.05.41.04.40.15.39.13.49</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
@@ -176,7 +188,7 @@ document.writeln("	预测:小凶,五行:土：03 04 17 18 25 26 33 34 47 48冲�
 document.writeln("	本期主攻:猪羊<font color=\"#FFFF00\" size=\"5\"><span style=\"font-weight: 700; background-color: #008000\">猴</span></font>马虎，号码05.41.21.33.08.20.10.34.14.26</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -35,19 +35,50 @@ document.writeln("	<div class=\'bizhong10-tit\'>澳门资料网（62815b.com）�
 document.writeln("	<div class=\'bizhong10-box\'>");
 document.writeln("    	<div class=\'bizhong10-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>363期必中一尾：<font color=\'#FF0000\' size=\'4\'>9</font></li>");
-document.writeln("            	<li>363期必中二尾：<font color=\'#FF0000\' size=\'4\'>9-3</font></li>");
-document.writeln("            	<li>363期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-3-2</font></li>");
-document.writeln("            	<li>363期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4</font></li>");
-document.writeln("            	<li>363期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0</font></li>");
-document.writeln("            	<li>363期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0-6</font></li>");
-document.writeln("             	<li>363期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0-6-7</font></li>");
+document.writeln(" 	            <li>364期必中一尾：<font color=\'#FF0000\' size=\'4\'>9</font></li>");
+document.writeln("            	<li>364期必中二尾：<font color=\'#FF0000\' size=\'4\'>9-5</font></li>");
+document.writeln("            	<li>364期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-5-8</font></li>");
+document.writeln("            	<li>364期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6</font></li>");
+document.writeln("            	<li>364期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1</font></li>");
+document.writeln("            	<li>364期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1-2</font></li>");
+document.writeln("             	<li>364期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1-2-7</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong10-r\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>必中三码：<font color=\'#FF0000\' size=\'4\'>19.29.39</font></li>");
-document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.23.33</font></li>");
+document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>15.25.45</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>08.38.48</font></li>");
+document.writeln("            	<li>必中12码：<font color=\'#FF0000\' size=\'4\'>16.26.36</font></li>");
+document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>21.31.41</font></li>");
+document.writeln("            	<li>必中18码：<font color=\'#FF0000\' size=\'4\'>02.32.42</font></li>");
+document.writeln("            	<li>必中21码：<font color=\'#FF0000\' size=\'4\'>07.27.47</font></li>");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong10-foot\'><font color=\'#00FFFF\'>364期一尾中特：</font><font color=\'#FFFF00\' size=\'6\'>（<font color=\'#FFFF00\'>9尾</font>）</font><font color=\'#00FF00\'>单车变宝马~</font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong10\'>");
+document.writeln("	<div class=\'bizhong10-tit\'>澳门资料网（62815b.com）一尾一码</div>");
+document.writeln("	<div class=\'bizhong10-box\'>");
+document.writeln("    	<div class=\'bizhong10-l\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>363期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span></font></li>");
+document.writeln("            	<li>363期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4</font></li>");
+document.writeln("            	<li>363期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0</font></li>");
+document.writeln("            	<li>363期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0-6</font></li>");
+document.writeln("             	<li>363期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0-6-7</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong10-r\'>");
+document.writeln("        	<ul>");
+
 document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>02.32.42</font></li>");
 document.writeln("            	<li>必中12码：<font color=\'#FF0000\' size=\'4\'>04.24.44</font></li>");
 document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>10.30.40</font></li>");

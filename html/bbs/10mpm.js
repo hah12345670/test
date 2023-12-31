@@ -16,7 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("363期：平码【43.08.45.15.48.12.09.18.17.10.16.40】<br>");
+document.writeln("365期：平码【04.36.16.11.15.01.09.19.43.39.21.23】<br>");
+
+
+document.writeln("");
+document.writeln("363期：平码【43.08.45.15.<span style=\'background-color: #FFFF00\'>48.12</span>.09.<span style=\'background-color: #FFFF00\'>18</span>.17.10.16.40】<br>");
 
 
 

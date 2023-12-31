@@ -43,7 +43,8 @@ document.writeln("359期:<font color=\"#0000FF\">『绝杀四肖』</font><b><fo
 document.writeln("360期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【鼠猴猪狗】</font></b>开：虎26准<br>");
 document.writeln("361期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【猪马牛蛇】</font></b>开：鸡19准<br>");
 document.writeln("362期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【羊蛇狗猪】</font></b>开：龙36准<br>");
-document.writeln("363期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【狗虎猪鸡】</font></b>开：？00准<br>");
+document.writeln("363期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【狗虎猪鸡】</font></b>开：龙12准<br>");
+document.writeln("364期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【牛猪龙狗】</font></b>开：？00准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</td></tr>");
@@ -80,7 +81,8 @@ document.writeln("359期：杀三尾<font color=\"#FF0000\" size=\"4\">（901尾
 document.writeln("360期：杀三尾<font color=\"#FF0000\" size=\"4\">（175尾）</font>开虎26准<br>");
 document.writeln("361期：杀三尾<font color=\"#FF0000\" size=\"4\">（435尾）</font>开鸡19准<br>");
 document.writeln("362期：杀三尾<font color=\"#FF0000\" size=\"4\">（524尾）</font>开龙36准<br>");
-document.writeln("363期：杀三尾<font color=\"#FF0000\" size=\"4\">（765尾）</font>开0000准<br>");
+document.writeln("363期：杀三尾<font color=\"#FF0000\" size=\"4\">（765尾）</font>开龙12准<br>");
+document.writeln("364期：杀三尾<font color=\"#FF0000\" size=\"4\">（314尾）</font>开0000准<br>");
 document.writeln("");
 document.writeln("</td></tr>");
 document.writeln("  </tbody>");

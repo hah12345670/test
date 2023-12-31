@@ -31,6 +31,7 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
+
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("    ");
@@ -42,10 +43,10 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("362-364期<font style=\'font-size: 14pt\'>【11.23.47】</font>第?0期中</span></font></font></b></td>");
+document.writeln("365-002期<font style=\'font-size: 14pt\'>【17.29.41】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
-document.writeln("");
+
 document.writeln("      <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");

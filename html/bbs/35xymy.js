@@ -36,14 +36,31 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>365期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("更新中");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：更新中。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：更新中<br>");
+document.writeln("			四肖：更新中<br>");
+document.writeln("			特码：更新中</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
 document.writeln("			<font style=\'font-size: 13pt\'>363期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("风轻云淡蓝天空，城边树森绿荫荫");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：风轻云淡解风肖虎龙兔，云肖狗鸡猴，蓝天空解蓝肖虎猴蛇猪。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：虎龙兔狗鸡猴蛇<br>");
-document.writeln("			四肖：虎龙兔狗<br>");
-document.writeln("			特码：02.38.12.36.13.49.30.42.07.43.08.20.23.47</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎<span style=\'background-color: #FFFF00\'>龙</span>兔狗鸡猴蛇<br>");
+document.writeln("			四肖：虎<span style=\'background-color: #FFFF00\'>龙</span>兔狗<br>");
+document.writeln("			特码：02.38.<span style=\'background-color: #FFFF00\'>12</span>.36.13.49.30.42.07.43.08.20.23.47</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -226,21 +243,6 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>345期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("狗左龙右猪中奖,猪鸡同道马同乡");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：明肖狗龙猪鸡马。</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：狗龙猪<span style=\'background-color: #FFFF00\'>鸡</span>马鼠兔<br>");
-document.writeln("			四肖：狗龙猪<span style=\'background-color: #FFFF00\'>鸡</span><br>");
-document.writeln("			特码：18.30.12.48.05.41.31.43.10.34.04.40.25.49</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
 
 
 

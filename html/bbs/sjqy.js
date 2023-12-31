@@ -29,7 +29,7 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/363/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/364/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
@@ -40,30 +40,15 @@ document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第363期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（再揍一八作主场）<br></font>  ");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第364期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（心水清时定万财）<br></font>  ");
 document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：再揍一八作主场，解狗猪龙兔鸡猴。</font><br>");
+document.writeln("		解：心水清时定万财，解猴羊蛇虎马鼠。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：虎狗马鼠牛鸡</font></b></td>");
+document.writeln("		综合特码：猴羊蛇虎马鼠</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
-document.writeln("");
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第361期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（牢记机数三跟四）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：牢记机数三跟四，解鸡狗鼠蛇牛羊。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：<span style=\'background-color: #FFFF00\'>鸡</span>狗鼠蛇牛羊</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
-
 
 
 

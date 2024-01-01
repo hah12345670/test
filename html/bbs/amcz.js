@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/1/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/2/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -27,42 +27,12 @@ document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
 
-
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/1/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/365/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/364/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/363/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/362/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/361/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/360/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/359/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/358/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/357/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/356/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/355/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/354/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/353/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/352/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/351/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/350/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/349/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/348/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/347/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/346/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/345/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/344/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/343/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/342/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/341/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/340/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/339/ammh.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/338/ammh.jpg\',");
+document.writeln("\'https://tk2.zaojiao365.net:4949/col/2/ammh.jpg\',");
 
 
 
 
-
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/337/ammh.jpg\'");
+document.writeln("\'https://tk2.zaojiao365.net:4949/col/1/ammh.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexsbx=0;");

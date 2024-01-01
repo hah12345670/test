@@ -44,6 +44,21 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			002期<font color=\'#FF0000\'>【更新中】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：更新中</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：更新中<br>");
+document.writeln("			特码：更新中");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -55,8 +70,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			001期<font color=\'#FF0000\'>【本合今盒吉大祥，生雄死别别悠悠】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：吉大祥解吉肖龙鸡兔马羊蛇，大肖马狗牛虎猪羊</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：龙马羊虎猪狗兔<br>");
-document.writeln("			特码：12.24.10.22.09.21.02.14.05.17.06.18.01.13");
+document.writeln("			<br>七肖：龙马羊虎猪<span style=\'background-color: #FFFF00\'>狗</span>兔<br>");
+document.writeln("			特码：12.24.10.22.09.21.02.14.05.17.<span style=\'background-color: #FFFF00\'>06</span>.18.01.13");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 
@@ -92,22 +107,6 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
-
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			361期<font color=\'#FF0000\'>【今期权威放帖士，红波定会中特码】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：红波解红肖鸡兔马鼠</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：<span style=\'background-color: #FFFF00\'>鸡</span>兔马鼠龙羊牛<br>");
-document.writeln("			特码：31.43.25.37.34.46.28.40.36.48.33.45.27.39");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
 
 
 

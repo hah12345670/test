@@ -16,7 +16,7 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 
-document.writeln("365期：平特【马鼠拖狗鸡】开？00<br>");
+document.writeln("001期：平特【马狗拖龙鼠】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("364期：平特【<span style=\'background-color: #FFFF00\'>蛇龙</span>拖羊<span style=\'background-color: #FFFF00\'>牛</span>】开35.48.27<br>");

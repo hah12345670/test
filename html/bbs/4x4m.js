@@ -37,6 +37,15 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第001期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎02.鼠40.龙48.狗18】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
 
 
 
@@ -45,7 +54,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第365期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇11.鼠40.马10.鸡43】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第365期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇11.鼠40.马10.<span style=\'background-color: #FFFF00\'>鸡43</span>】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

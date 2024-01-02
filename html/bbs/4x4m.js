@@ -42,7 +42,17 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第001期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎02.鼠40.龙48.狗18】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第002期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪41.兔13.鸡37.虎02】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+
+
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第001期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎02.鼠40.龙48.<span style=\'background-color: #FFFF00\'>狗</span>18】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

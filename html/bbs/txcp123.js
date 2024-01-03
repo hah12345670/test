@@ -115,7 +115,8 @@ document.writeln("		359期【<span style=\'background-color: #FFFF00\'>猴</span
 document.writeln("		360期【鸡<span style=\'background-color: #FFFF00\'>虎</span>猪】<br>		");
 document.writeln("		361期【<span style=\'background-color: #FFFF00\'>鸡</span>狗猪】<br>		");
 document.writeln("		364期【狗<span style=\'background-color: #FFFF00\'>兔</span>猴】<br>		");
-document.writeln("		002期【虎猴羊】<br>		");
+document.writeln("		002期【<span style=\'background-color: #FFFF00\'>虎</span>猴羊】<br>		");
+document.writeln("		003期【兔猪蛇】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -126,7 +127,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			002期【猴龙+羊】<br><br>				");
+document.writeln("			003期【鸡狗+猴】<br><br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -141,8 +142,11 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 document.writeln("				001期兔羊<span style=\'background-color: #FFFF00\'>狗</span><br>");
 document.writeln("				12.24.36.48<br><br>");
-document.writeln("				002期虎蛇鼠<br>");
+document.writeln("				002期<span style=\'background-color: #FFFF00\'>虎</span>蛇鼠<br>");
 document.writeln("				07.19.31.43<br><br>");
+document.writeln("								");
+document.writeln("				003期蛇牛鼠<br>");
+document.writeln("				01.13.25.49<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("								");
@@ -155,9 +159,9 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小情怀】(12码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("			002期<br>");
-document.writeln("				49.18.09.46.34.04<br>");
-document.writeln("				27.30.35.48.33.45<br>	");
+document.writeln("			003期<br>");
+document.writeln("				41.14.13.09.06.35<br>");
+document.writeln("				05.43.03.46.12.04<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -191,7 +195,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 document.writeln("			363期【虎鸡<span style=\'background-color: #FFFF00\'>龙</span>牛】<br>				");
 document.writeln("			364期【鸡<span style=\'background-color: #FFFF00\'>兔</span>羊鼠】<br>				");
 document.writeln("			001期【<span style=\'background-color: #FFFF00\'>狗</span>鸡牛虎】<br>				");
-document.writeln("			002期【兔马虎鸡】<br>				");
+document.writeln("			002期【兔马<span style=\'background-color: #FFFF00\'>虎</span>鸡】<br>				");
+document.writeln("			003期【羊狗猴马】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -208,9 +213,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				002期？<br>");
-document.writeln("				【01.18.14.43】<br>");
-document.writeln("				【34.37.20.44】<br>	<br>				");
+document.writeln("				003期？<br>");
+document.writeln("				【01.44.39.22】<br>");
+document.writeln("				【20.21.49.05】<br>	<br>				");
 
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -228,13 +233,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				365期<br>");
-document.writeln("			（09.45.34.48.<span style=\'background-color: #FFFF00\'>43</span>）<br>");
-document.writeln("			（08.04.07.15.05）<br>	");
-
-document.writeln("				002期<br>");
-document.writeln("			（18.22.43.02.30）<br>");
-document.writeln("			（09.03.24.10.15）<br>	");
+document.writeln("				003期<br>");
+document.writeln("			（16.36.28.29.30）<br>");
+document.writeln("			（47.12.19.01.08）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -246,7 +247,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高�
 document.writeln("		    ");
 document.writeln("				364期马狗蛇+<span style=\'background-color: #FFFF00\'>兔</span><br>				");
 document.writeln("				001期龙牛兔+<span style=\'background-color: #FFFF00\'>狗</span><br>				");
-document.writeln("				002期虎猴马+蛇<br>				");
+document.writeln("				002期<span style=\'background-color: #FFFF00\'>虎</span>猴马+蛇<br>				");
+document.writeln("				003期鸡猴狗+马<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

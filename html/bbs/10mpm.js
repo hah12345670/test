@@ -15,8 +15,7 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("002期：平码【25.17.45.02.38.04.07.20.19.05.49.31】<br>");
-
+document.writeln("003期：平码【07.28.34.20.48.26.19.45.33.31.13.47】<br>");
 
 document.writeln("");
 document.writeln("001期：平码【48.24.08.23.14.37.26.02.43.<span style=\'background-color: #FFFF00\'>44</span>.11.<span style=\'background-color: #FFFF00\'>16</span>】<br>");

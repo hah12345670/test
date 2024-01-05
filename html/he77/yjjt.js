@@ -36,7 +36,7 @@ document.writeln("}");
 document.writeln("</style>");
 document.writeln("");
 document.writeln("");
-document.writeln("<div class=\'tit\'>九點半014990.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
+document.writeln("<div class=\'tit\'>九點半014993.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
 document.writeln("");
 document.writeln("<div class=\'ds4x\'>");
 document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpadding=\'0\' bgcolor=\'#FFFFFF\' height=\'80\' style=\'border-left-width: 0px; border-right-width: 0px; border-top-width: 0px\'><tbody>");

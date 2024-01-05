@@ -4,7 +4,7 @@ document.writeln(".style3t {");
 document.writeln("	background-color: #FFFF00;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("<div class=\'tit\'>九點半014990.com<font color=\'#FFFF00\'>【绝杀一头】</font></div>");
+document.writeln("<div class=\'tit\'>九點半014993.com<font color=\'#FFFF00\'>【绝杀一头】</font></div>");
 document.writeln("<div class=\'stzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");

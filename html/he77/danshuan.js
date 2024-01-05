@@ -157,7 +157,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'/#tz#876161\'><img src=/yjjy/tz/images/am.png width=35 height=23><span style=font-family:楷体;color:#00f><font size=\'4\'>好料记得截图分享</font></span><span style=font-family:楷体;><font size=\'5\' color=\'#FF0000\'>014990</font></span><font color=\'#FF0000\' size=\'5\'><span style=font-family:楷体;>.com</a></strong></table>");
+document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'/#tz#876161\'><img src=/yjjy/tz/images/am.png width=35 height=23><span style=font-family:楷体;color:#00f><font size=\'4\'>好料记得截图分享</font></span><span style=font-family:楷体;><font size=\'5\' color=\'#FF0000\'>014993</font></span><font color=\'#FF0000\' size=\'5\'><span style=font-family:楷体;>.com</a></strong></table>");
 document.writeln("</font>");
 document.writeln("</tr></td>     ");
 document.writeln("</table>");

@@ -34,60 +34,22 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（62815b.com）15码�
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>003期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-5-2</font></li>");
-document.writeln("            	<li>003期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-5-2-7-6</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>13.23.43.05.15.45.22.32.42.07.37.47.16.36.46</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>13.23.43.05.15.45.22.32.42</font></li>");
+document.writeln("            	<li>006期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-5-6</font></li>");
+document.writeln("            	<li>006期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-5-6-4-8</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>23.33.43.05.15.35.06.16.46.24.34.44.08.18.48</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>23.33.43.05.15.35.06.16.46</font></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong22-foot\'>003期一尾一码：<font color=\'#FF0000\' size=\'6\'>（13）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong22-foot\'>006期一尾一码：<font color=\'#FF0000\' size=\'6\'>（23）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+document.writeln("");
 
-document.writeln("  <!--必中每期开始-->");
-document.writeln("<div class=\'bizhong22\'>");
-document.writeln("	<div class=\'bizhong22-tit\'>弑神者（62815b.com）15码中特</div>");
-document.writeln("	<div class=\'bizhong22-box\'>");
-document.writeln("    	<div class=\'bizhong22-l\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li>002期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-7-3</font></li>");
-document.writeln("            	<li>002期必中五尾：<font color=\'#FF0000\' size=\'4\'>1-7-3-0-<span style=\'background-color: #FFFF00\'>【6】</span></font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>11.31.41.27.37.47.13.23.43.10.20.30.<span style=\'background-color: #FFFF00\'>【26】</span>.36.46</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>11.31.41.27.37.47.13.23.43</font></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong22-foot\'>002期一尾一码：<font color=\'#FF0000\' size=\'6\'>（11）</font>单车变宝马~</div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-
-document.writeln("  <!--必中每期开始-->");
-document.writeln("<div class=\'bizhong22\'>");
-document.writeln("	<div class=\'bizhong22-tit\'>弑神者（62815b.com）15码中特</div>");
-document.writeln("	<div class=\'bizhong22-box\'>");
-document.writeln("    	<div class=\'bizhong22-l\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li>365期必中三尾：<font color=\'#FF0000\' size=\'4\'>7-8-9</font></li>");
-document.writeln("            	<li>365期必中五尾：<font color=\'#FF0000\' size=\'4\'>7-8-9-<span style=\'background-color: #FFFF00\'>【3】</span>-4</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>07.17.37.08.28.48.19.39.49.13.23.33.04.14.44</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>07.17.37.08.28.48.19.39.49</font></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong22-foot\'>365期一尾一码：<font color=\'#FF0000\' size=\'6\'>（28）</font>单车变宝马~</div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
+ 
 
 
 

@@ -16,11 +16,18 @@ document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' 
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("008期<font color=\'#FF0000\'>平牛→牛蛇(2连)→15.39.11.23(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("006期<font color=\'#FF0000\'>平鸡→鸡龙(2连)→31.43.12.48(连)</font></font></b></font></table>");
+document.writeln("006期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>鸡</span>→<span style=\'background-color: #FFFF00\'>鸡</span>龙(2连)→<span style=\'background-color: #FFFF00\'>31</span>.43.12.48(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

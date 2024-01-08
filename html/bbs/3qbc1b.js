@@ -37,25 +37,6 @@ document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#008000\'>006-008期</font>【<font color=\'#FF0000\'>绿波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>365-002期</font>【<font color=\'#FF0000\'>红波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>361-363期</font>【<font color=\'#FF0000\'>红波</font>】361期开<font color=\'#FF00FF\'>(19)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>360-362期</font>【<font color=\'#FF0000\'>蓝波</font>】360期开<font color=\'#FF00FF\'>(26)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
 
 document.writeln("");
 document.writeln("");

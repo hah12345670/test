@@ -31,42 +31,15 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>006期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
 
-document.writeln("");
+
 document.writeln("         <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>003期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开鸡19准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>002期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开虎26准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>364期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开兔01准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>008期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶肖】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
@@ -76,19 +49,10 @@ document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>363期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开龙12准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>007期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开鸡19准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>362期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉肖】</font><span style=\'font-size: 14pt\'>开龙36准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
 
 
 document.writeln("");

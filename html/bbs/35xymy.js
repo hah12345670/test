@@ -33,19 +33,35 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>010期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("阑干风冷雪漫漫，惆怅无人把钓竿");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：风冷解风肖龙兔虎，雪漫漫解冬肖牛鼠猪，无人解无肖兔鼠牛虎马羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔鼠牛虎马羊龙<br>");
+document.writeln("			四肖：兔鼠牛虎<br>");
+document.writeln("			特码：13.49.04.40.15.39.02.38.10.34.21.33.12.48</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>008期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
+document.writeln("			<font style=\'font-size: 13pt\'>009期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("狗左龙右猪中奖，猪鸡同道马同乡");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙猴兔狗，天兵解天肖龙猴猪牛马兔，守家园解家肖牛鸡狗羊猪马</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖狗龙猪鸡马，同重复解对对肖蛇羊猴马</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：牛鸡狗羊猪马龙<br>");
-document.writeln("			四肖：牛鸡狗羊<br>");
-document.writeln("			特码：03.15.31.43.30.42.09.21</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>狗</span>龙猪鸡马蛇羊<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>狗</span>龙猪鸡<br>");
+document.writeln("			特码：18.42.12.36.05.41.31.43.10.22</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

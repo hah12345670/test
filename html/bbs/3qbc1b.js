@@ -30,11 +30,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.manolotron.com:49/\' 
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
+document.writeln("	<font color=\'#008000\'>010-012期</font>【<font color=\'#FF0000\'>蓝波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>006-008期</font>【<font color=\'#FF0000\'>绿波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>009-011期</font>【<font color=\'#FF0000\'>绿波</font>】009期开<font color=\'#FF00FF\'>(06)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

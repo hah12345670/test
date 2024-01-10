@@ -16,7 +16,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("008期：平码【39.23.02.19.49.09.01.05.31.44.10.08】<br>");
+document.writeln("010期：平码【17.20.48.13.32.11.15.08.33.25.31.44】<br>");
+
+
+document.writeln("");
+document.writeln("009期：平码【19.38.<span style=\'background-color: #FFFF00\'>17.06</span>.42.27.04.39.05.48.29.45】<br>");
+
 
 
 

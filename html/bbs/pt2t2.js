@@ -18,7 +18,15 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("008期：平特【兔猴拖马鼠】开？00<br>");
+document.writeln("010期：平特【猪龙拖牛猴】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("009期：平特【猴<span style=\'background-color: #FFFF00\'>牛</span>拖<span style=\'background-color: #FFFF00\'>猪</span>虎】开15.17<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("008期：平特【兔<span style=\'background-color: #FFFF00\'>猴</span>拖<span style=\'background-color: #FFFF00\'>马</span>鼠】开20.22<br>");
 document.writeln("------<br>");
 
 document.writeln("");

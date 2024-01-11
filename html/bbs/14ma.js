@@ -31,8 +31,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">010期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【11.10.23.41.22.27.02.47.36.33.35.08.43.39】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">011期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【04.18.30.29.23.15.46.28.22.44.45.48.05.35】</span></font></p>  	");
+document.writeln("			");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">010期:==14码中特==开龙36准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【11.10.23.41.22.27.02.47.<span style=\'background-color: #FFFF00\'>36</span>.33.35.08.43.39】</span></font></p>  	");
 document.writeln("			");
 
 

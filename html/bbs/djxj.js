@@ -27,22 +27,22 @@ document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>010期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>011期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>狗守家门猪增财虎猴采花四季兴</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>不沾十指衣冠好，声色犬马任自由</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖狗猪虎猴。财解金肖猴鸡。四解兔鸡。采花看女肖蛇羊鸡兔。心水诗大意思是一片祥和。想要财找招财的猪。综合得主猪狗虎猴防兔鸡蛇羊牛</font></div>");
+document.writeln("解析：预先解明肖狗马,十解十岁马十位鸡,好偏看吉美肖兔龙蛇马羊鸡.综合得主狗马鸡兔防龙蛇羊鼠牛</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：猪狗虎猴兔鸡<br>");
-document.writeln("	特码：05.41.18.30.02.14.32.44.13.49.07.19</font></b></div>");
+document.writeln("	解特肖：狗马鸡兔龙蛇<br>");
+document.writeln("	特码：06.18.10.34.07.43.13.25.12.48.23.47</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

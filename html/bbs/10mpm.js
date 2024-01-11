@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("010期：平码【17.20.48.13.32.11.15.08.33.25.31.44】<br>");
+document.writeln("011期：平码【40.11.21.18.14.41.12.42.13.47.43.04】<br>");
 
 
 document.writeln("");

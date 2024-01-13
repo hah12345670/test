@@ -42,18 +42,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第011期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴08.虎02.马34.牛39】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第008期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎02.<span style=\'background-color: #FFFF00\'>猴20</span>.龙36.马10】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第013期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇23.鸡43.马10.猴08】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
@@ -62,18 +51,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第007期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪41.鼠04.羊21.<span style=\'background-color: #FFFF00\'>鸡</span>43】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第012期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【虎14.狗06.<span style=\'background-color: #FFFF00\'>马</span>34.猪41】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第005期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪05.<span style=\'background-color: #FFFF00\'>鸡</span>31.狗30.鼠16】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
 
 
 

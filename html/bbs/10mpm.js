@@ -16,7 +16,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("011期：平码【40.11.21.18.14.41.12.42.13.47.43.04】<br>");
+document.writeln("013期：平码【41.35.30.27.33.29.25.46.07.42.02.31】<br>");
+
+
+document.writeln("");
+document.writeln("012期：平码【27.<span style=\'background-color: #FFFF00\'>24</span>.33.29.40.<span style=\'background-color: #FFFF00\'>15</span>.43.46.22.04.11.48】<br>");
+
 
 
 document.writeln("");

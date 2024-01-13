@@ -22,21 +22,24 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("<!--结束-->");
 
 
-
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'center\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>011期【四字玄机】</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>013期【四字玄机】</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>五九左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>一六左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:兔猴狗马蛇猪<br>");
+document.writeln("&#10146;&#10146;推荐特肖:牛马羊兔鼠蛇<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("13.49.08.20.06.18.10.22.11.47.05.41</font></b></font></div>");
+document.writeln("03.27.10.46.21.33.01.49.04.40.23.47</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
+
+
+
+
 
 document.writeln("<!--结束-->");
 document.writeln("");

@@ -112,7 +112,7 @@ document.writeln("		    ");
 
 
 
-document.writeln("		011期【猪猴蛇】<br>		");
+document.writeln("		013期【蛇兔鼠】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -123,7 +123,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			011期【鼠马+牛】<br><br>				");
+document.writeln("			013期【蛇猪+猴】<br><br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -136,17 +136,8 @@ document.writeln("		");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神经】(3肖4码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 
-
-document.writeln("				005期兔狗牛<br>");
-document.writeln("				07.<span style=\'background-color: #FFFF00\'>19</span>.31.43<br><br>");
-document.writeln("								");
-document.writeln("				006期龙羊虎<br>");
-document.writeln("				11.<span style=\'background-color: #FFFF00\'>23</span>.35.47<br><br>");
-document.writeln("				009期羊虎<span style=\'background-color: #FFFF00\'>狗</span><br>");
-document.writeln("				07.19.31.43<br><br>");
-document.writeln("								");
-document.writeln("				011期猴龙羊<br>");
-document.writeln("				04.16.28.40<br><br>");
+document.writeln("				013期猪狗羊<br>");
+document.writeln("				02.14.26.38<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("								");
@@ -159,9 +150,9 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小情怀】(12码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("			011期<br>");
-document.writeln("				32.02.46.06.30.17<br>");
-document.writeln("				01.47.05.07.24.31<br>	");
+document.writeln("			013期<br>");
+document.writeln("				02.36.40.26.21.43<br>");
+document.writeln("				09.48.32.01.22.39<br>	");
 document.writeln("						");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -193,7 +184,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			011期【虎兔猴蛇】<br>				");
+document.writeln("			013期【猪虎龙兔】<br>				");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -208,15 +199,9 @@ document.writeln("		    ");
 
 
 
-
-
-document.writeln("				009期？<br>");
-document.writeln("				【14.<span style=\'background-color: #FFFF00\'>06</span>.24.42】<br>");
-document.writeln("				【49.20.29.43】<br>	<br>				");
-
-document.writeln("				011期？<br>");
-document.writeln("				【22.33.48.31】<br>");
-document.writeln("				【49.04.23.38】<br>	<br>				");
+document.writeln("				013期？<br>");
+document.writeln("				【04.09.38.22】<br>");
+document.writeln("				【36.27.39.33】<br>	<br>				");
 
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -233,9 +218,13 @@ document.writeln("		    ");
 
 
 
-document.writeln("				011期<br>");
-document.writeln("			（44.38.47.41.39）<br>");
-document.writeln("			（37.05.29.11.40）<br>	");
+document.writeln("				012期<br>");
+document.writeln("			（28.18.<span style=\'background-color: #FFFF00\'>22</span>.29.20）<br>");
+document.writeln("			（42.16.17.44.41）<br>	");
+
+document.writeln("				013期<br>");
+document.writeln("			（10.14.12.26.29）<br>");
+document.writeln("			（06.49.08.17.16）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -245,7 +234,7 @@ document.writeln("			  <!--春肖兔虎龙 夏肖蛇马羊 秋肖猴鸡狗  冬�
 document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 
-document.writeln("				011期牛马猪+狗<br>				");
+document.writeln("				013期蛇猪牛+鸡<br>				");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

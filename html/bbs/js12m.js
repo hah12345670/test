@@ -35,6 +35,16 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 
 
+document.writeln("           <!--开始-->");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>014期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【37.46.33.04.23.02.42.30.41.07.10.29】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("    <!--结束-->");
+
 
 document.writeln("           <!--开始-->");
 document.writeln("    <tr>");
@@ -42,7 +52,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>013期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【49.28.25.08.36.48.40.38.37.15.05.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>013期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【49.28.25.08.36.48.40.38.37.15.05.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>18√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 

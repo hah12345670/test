@@ -26,10 +26,10 @@ document.writeln("");
 document.writeln("	<tr>"); 
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>013期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(木金有钱两头找)(鸡飞蛋打)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>014期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(六九四七合特码)(犬马之劳)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
-document.writeln("");
+
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>"); 

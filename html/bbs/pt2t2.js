@@ -18,7 +18,12 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("013期：平特【狗猪拖鸡鼠】开？00<br>");
+document.writeln("014期：平特【猪牛拖鸡龙】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("013期：平特【<span style=\'background-color: #FFFF00\'>狗猪</span>拖鸡鼠】开18.17<br>");
 document.writeln("------<br>");
 
 

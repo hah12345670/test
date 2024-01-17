@@ -29,12 +29,16 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>017期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书画琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>016期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画棋书】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>016期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>画</span>棋书】</font>开<font color=\'#ac6a00\'>猪17</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

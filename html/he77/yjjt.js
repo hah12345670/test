@@ -51,7 +51,14 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
+document.writeln("<font style=\'font-size: 13pt\'>");
+document.writeln("018期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：猴鸡牛龙马猪");
+document.writeln("</font></font></b></td></tr>");
+document.writeln("");
 
 
 document.writeln("");
@@ -59,7 +66,7 @@ document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; 
 document.writeln("<font style=\'font-size: 13pt\'>");
 document.writeln("017期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：虎兔龙蛇马羊");
+document.writeln("<br><font color=\'#008000\'>解特：虎兔龙<span style=\'background-color: #FFFF00\'>蛇</span>马羊");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
@@ -75,100 +82,7 @@ document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 
 
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("014期玄机诗句<font color=\'#FF0000\'>【他是若随凌云志，敢笑黄巢不丈夫】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：云解云肖，猴鸡狗；丈夫解男肖，龙虎鼠猴牛马狗。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙虎鼠<span style=\'background-color: #FFFF00\'>猴</span>牛狗");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("011期玄机诗句<font color=\'#FF0000\'>【连升三级还是小，一山飞峙大江边。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：连升三级还是小，说明地位卑微，狗马鸡猪；一山飞峙大江边，这里又指地位高，龙羊。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙羊狗马<span style=\'background-color: #FFFF00\'>鸡</span>猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("010期玄机诗句<font color=\'#FF0000\'>【四季勤耕下农田，如今借得东风力。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：勤耕下农田，牛，也只常年忙碌，马狗；东风力，东方肖，虎兔龙，风肖，龙虎兔。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>龙</span>虎兔牛马狗");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("009期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴鸡<span style=\'background-color: #FFFF00\'>狗</span>猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("008期玄机诗句<font color=\'#FF0000\'>【搅海翻江多摆布，劈邪除妖向前越。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：搅海翻江多摆布，搅海翻江，龙蛇猴马；劈邪除妖向前越，劈邪除妖，牛鬼蛇神，牛兔蛇。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙蛇<span style=\'background-color: #FFFF00\'>猴</span>马牛兔");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("007期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猴<span style=\'background-color: #FFFF00\'>鸡</span>牛龙马猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("006期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：虎兔龙<span style=\'background-color: #FFFF00\'>蛇</span>马羊");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("005期玄机诗句<font color=\'#FF0000\'>【左右逢源图财帛，意马心猿醉梦中。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：图财帛，图，画，画肖，羊猪猴。财=贝+才，贝，金，金肖猴鸡，才，蛇马；意马心猿直接点出马猴生肖。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：羊猪猴<span style=\'background-color: #FFFF00\'>鸡</span>马蛇");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
-
-
-
+ 
 
 
 

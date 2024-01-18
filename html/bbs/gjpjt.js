@@ -19,6 +19,15 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>018期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(三五十二要加四)(鼠窃狗盗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
 
 document.writeln("");
 document.writeln("          <!--开始-->");
@@ -26,7 +35,36 @@ document.writeln("");
 document.writeln("	<tr>"); 
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>014期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(六九四七合特码)(犬马之劳)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>017期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(今期生肖兴土木)(人中之龙)</font><font style=\'font-size: 12pt; font-weight:700\'>开特23平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>016期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(五云花浩日边红)(龙蛇混杂)</font><font style=\'font-size: 12pt; font-weight:700\'>开特猪平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>015期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(三五接五配一三)(猪狗不如)</font><font style=\'font-size: 12pt; font-weight:700\'>开特牛平18</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>014期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(六九四七合特码)(犬马之劳)</font><font style=\'font-size: 12pt; font-weight:700\'>开特猴平00</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

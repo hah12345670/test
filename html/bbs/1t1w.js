@@ -24,7 +24,34 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>014期杀【9尾】开00准 </span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>019期杀【3尾】开00准 </span> </font>");
+document.writeln("");
+document.writeln("");
+document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>018期杀【1尾】开47准 </span> </font>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>017期杀【9尾】开23准 </span> </font>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>016期杀【7尾】开17错 </span> </font>");
+document.writeln("");
+document.writeln("");
+document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>015期杀【2尾】开39准 </span> </font>");
+document.writeln("");
+document.writeln("");
+document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>014期杀【9尾】开20准 </span> </font>");
 document.writeln("");
 document.writeln("");
 document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
@@ -54,259 +81,6 @@ document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
 document.writeln("						<span style=\'font-size: 11pt\'>008期杀【8尾】开20准 </span> </font>");
 
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>007期杀【9尾】开19错 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>006期杀【2尾】开23准 </span> </font>");
-
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>005期杀【4尾】开19准 </span> </font>");
-
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>004期杀【8尾】开40准 </span> </font>");
-
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>003期杀【4尾】开19准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>002期杀【1尾】开26准 </span> </font>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>001期杀【5尾】开06准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>365期杀【9尾】开43准 </span> </font>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>364期杀【5尾】开01准 </span> </font>");
-
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>363期杀【5尾】开12准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>362期杀【8尾】开36准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>361期杀【5尾】开19准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>360期杀【4尾】开26准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>359期杀【7尾】开08准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>358期杀【8尾】开01准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>357期杀【7尾】开42准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>356期杀【8尾】开29准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>355期杀【4尾】开18准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>354期杀【9尾】开13准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>353期杀【1尾】开10准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>352期杀【3尾】开41准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>351期杀【2尾】开44准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>350期杀【9尾】开14准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>349期杀【0尾】开28准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>348期杀【8尾】开37准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>347期杀【3尾】开46准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>346期杀【5尾】开09准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>345期杀【2尾】开07准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>344期杀【9尾】开47准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>343期杀【3尾】开01准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>342期杀【1尾】开05准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>341期杀【9尾】开34准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>340期杀【3尾】开46准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>339期杀【2尾】开10准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>338期杀【9尾】开41准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>337期杀【8尾】开16准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>336期杀【2尾】开31准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>335期杀【6尾】开24准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>334期杀【5尾】开06准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>333期杀【6尾】开37准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>332期杀【7尾】开08准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>331期杀【0尾】开46准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>330期杀【6尾】开18准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>329期杀【3尾】开35准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>328期杀【4尾】开01准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>327期杀【5尾】开21准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>326期杀【3尾】开35准 </span> </font>");
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>325期杀【2尾】开07准 </span> </font>");
-
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>324期杀【9尾】开26准 </span> </font>");
-
-
-
-document.writeln("");
-document.writeln("  <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>323期杀【0尾】开02准 </span> </font>");
-
 
 
 document.writeln("");
@@ -321,10 +95,36 @@ document.writeln("  ");
 document.writeln("		        <td style=\'text-align:left;background:#FFF;\' width=\'45%\' rowspan=\'2\'><div style=\'height: normal;\'>");
 document.writeln("   ");
 document.writeln("   ");
-
+document.writeln("   ");
+document.writeln("   ");
 document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
 document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>014期杀【猴】开00准</span> </font>");
+document.writeln("						<span style=\'font-size: 11pt\'>019期杀【龙】开00准</span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("			");
+document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>018期杀【龙】开蛇准</span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("			");
+document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>017期杀【牛】开蛇准</span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("			");
+document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>016期杀【蛇】开猪准</span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("			");
+document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>015期杀【龙】开牛准</span> </font>");
+document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
+document.writeln("			");
+document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
+document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
+document.writeln("						<span style=\'font-size: 11pt\'>014期杀【猴】开猴错</span> </font>");
 document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
 document.writeln("			");
 document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
@@ -361,301 +161,6 @@ document.writeln("						<span style=\'font-size: 11pt\'>008期杀【虎】开猴
 document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
 document.writeln("			");
 
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>007期杀【马】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>006期杀【猪】开蛇准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>005期杀【猴】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>004期杀【猪】开鼠准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>003期杀【龙】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>002期杀【羊】开虎准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>001期杀【狗】开狗错</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>365期杀【狗】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>364期杀【鸡】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>363期杀【猴】开龙准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>362期杀【蛇】开龙准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>361期杀【鼠】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>360期杀【猴】开虎准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>359期杀【牛】开猴准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>358期杀【蛇】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>357期杀【马】开狗准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>356期杀【猴】开猪准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>355期杀【鼠】开狗准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>354期杀【牛】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>353期杀【狗】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>352期杀【虎】开猪准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>351期杀【鼠】开猴准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>350期杀【龙】开虎准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>349期杀【蛇】开鼠准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>348期杀【龙】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>347期杀【虎】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>346期杀【猪】开羊准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>345期杀【马】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>344期杀【鸡】开蛇准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>343期杀【蛇】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>342期杀【蛇】开猪准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>341期杀【猴】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>340期杀【鸡】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>339期杀【狗】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>338期杀【鸡】开猪准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>337期杀【猴】开鼠准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>336期杀【虎】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>335期杀【鼠】开龙准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>334期杀【羊】开狗准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>333期杀【猪】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>332期杀【羊】开猴准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln("   ");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>331期杀【蛇】开马准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>330期杀【猴】开狗准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>329期杀【鼠】开蛇准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>328期杀【猴】开兔准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>327期杀【鼠】开羊准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>326期杀【狗】开蛇准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>325期杀【猪】开鸡准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>324期杀【鼠】开虎准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
-document.writeln(" <li style=\'list-style-type: none;\' class=\'mli\'>  ");
-document.writeln("			<font style=\'color:#000\' class=\'font1\'> ");
-document.writeln("						<span style=\'font-size: 11pt\'>323期杀【羊】开虎准</span> </font>");
-document.writeln("			<span style=\'font-size: 11pt\'></a> </span> </li>");
-document.writeln("			");
 
 
 document.writeln("");

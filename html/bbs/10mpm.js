@@ -16,21 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("014期：平码【10.06.27.32.34.05.37.44.09.35.46.24】<br>");
-
-
+document.writeln("019期：平码【41.46.43.15.44.45.49.05.23.26.35.07】<br>");
 
 
 document.writeln("");
-document.writeln("012期：平码【27.<span style=\'background-color: #FFFF00\'>24</span>.33.29.40.<span style=\'background-color: #FFFF00\'>15</span>.43.46.22.04.11.48】<br>");
-
-
-
-document.writeln("");
-document.writeln("009期：平码【19.38.<span style=\'background-color: #FFFF00\'>17.06</span>.42.27.04.39.05.48.29.45】<br>");
-
-
+document.writeln("018期：平码【31.33.36.13.<span style=\'background-color: #FFFF00\'>04.03.35</span>.38.01.02.46.20】<br>");
 
 
 

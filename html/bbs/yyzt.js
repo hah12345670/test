@@ -26,20 +26,20 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>013期一语中特【起居无时】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：起居：作息，日常生活。形容日常生活没有规律。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：马蛇猴狗鼠鸡开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>018期一语中特【盈盈在目】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：盈盈:美好。指美好的形象犹在眼前。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴羊鸡鼠龙狗开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>012期一语中特【切齿痛心】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：切齿：咬紧牙齿；痛心：形容心中极恨。形容愤恨到极点。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：牛龙虎<span style=\'background-color: #FFFF00\'>马</span>猴鸡开马22准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>016期一语中特【威武雄壮】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：是威武有劲的意思。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马鼠羊<span style=\'background-color: #FFFF00\'>猪</span>鸡开猪17准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-document.writeln("");
+
 
 
 document.writeln("");
@@ -70,14 +70,38 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>018期一语中特【面不改色】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：脸色不变。形容从容镇静的样子。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴龙兔鸡蛇猪开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>016期一语中特【步履如飞】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容行进很快。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：兔蛇羊狗猴<span style=\'background-color: #FFFF00\'>猪</span>开猪17准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>014期一语中特【果如其言】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：果然象他说的那样。指事情的变化和预想的一样。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎<span style=\'background-color: #FFFF00\'>猴</span>龙蛇牛鸡开猴20准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>013期一语中特【顺风扯旗】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是顺着风向扯起旗子，比喻因势乘便行事。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗龙鸡马兔蛇开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-color: #FFFF00\'>狗</span>龙鸡马兔蛇开狗18准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

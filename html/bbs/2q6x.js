@@ -19,7 +19,7 @@ document.writeln("");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62815a.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>【稳赚六肖】</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62109a.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>【稳赚六肖】</font></b></table>");
 document.writeln("           ");
 document.writeln("");
 document.writeln("");
@@ -47,7 +47,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("018-019期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【鸡虎羊兔马鼠】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>？00</font></span>期√)  ");
+document.writeln("020-021期<font color=\'#FF0000\' style=\'font-size: 14pt\'>【牛羊蛇兔猴龙】</font>(<span style=\'background-color: #000000\'><font color=\'#FFFFFF\'>？00</font></span>期√)  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");

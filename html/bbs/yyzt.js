@@ -26,19 +26,30 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>018期一语中特【盈盈在目】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：盈盈:美好。指美好的形象犹在眼前。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴羊鸡鼠龙狗开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>021期一语中特【垂首贴耳】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：意思是低着头耷拉着耳朵，形容顺从听命的样子。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗蛇鸡兔虎牛开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>020期一语中特【囿于见闻】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：是拘泥于所见所闻。解释拘泥于所见所闻。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：虎猴<span style=\'background-color: #FFFF00\'>猪</span>兔鼠龙开猪29准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>016期一语中特【威武雄壮】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：是威武有劲的意思。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇马鼠羊<span style=\'background-color: #FFFF00\'>猪</span>鸡开猪17准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>019期一语中特【勇于自责】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：敢于承认错误并自我批评。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡狗鼠牛<span style=\'background-color: #FFFF00\'>猪</span>马开猪17准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
+document.writeln("");
+
 
 
 
@@ -71,12 +82,29 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>021期一语中特【热情奔放】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：充满热情的。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙牛兔狗蛇鼠开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>020期一语中特【无路可走】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：处于极限，到达不可能逾越之处。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：马<span style=\'background-color: #FFFF00\'>猪</span>兔狗蛇牛开猪29准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>018期一语中特【面不改色】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：脸色不变。形容从容镇静的样子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：猴龙兔鸡蛇猪开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：猴龙兔鸡<span style=\'background-color: #FFFF00\'>蛇</span>猪开蛇47准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -105,15 +133,6 @@ document.writeln("<div class=\'jyyzt-txt3\'>综合：<span style=\'background-co
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>011期一语中特【枯燥乏味】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容某件事或某个人非常的无聊，让人提不起兴趣来。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：羊猪<span style=\'background-color: #FFFF00\'>鸡</span>狗蛇马开鸡43准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 

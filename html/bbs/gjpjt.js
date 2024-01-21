@@ -19,13 +19,41 @@ document.writeln("		</td>");
 document.writeln("    </tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>021期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(火中有肖是六七)(九牛一毛)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
 document.writeln("");
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>"); 
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>018期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(三五十二要加四)(鼠窃狗盗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>020期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(看好合数一三五)(鼠肚鸡肠)</font><font style=\'font-size: 12pt; font-weight:700\'>开特猪平04</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>019期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(二三门数开灵码)(兔死狐悲)</font><font style=\'font-size: 12pt; font-weight:700\'>开特17平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
+
+document.writeln("");
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>018期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(三五十二要加四)(鼠窃狗盗)</font><font style=\'font-size: 12pt; font-weight:700\'>开特47平04</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 

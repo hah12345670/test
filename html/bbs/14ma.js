@@ -20,7 +20,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("             <!--跟踪本站出品高手榜七尾14码上料--> ");
-document.writeln("   <!--https://kayouyou.www62361a.com:8443/6dgsb/mj04.html--> ");
+document.writeln("   <!--https://yangyang.www62815c.com:8443/6dgsb/mj04.html--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><font face=\"微软雅黑\">");
 document.writeln("");
@@ -29,10 +29,20 @@ document.writeln("                  ");
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("");
+
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">018期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【49.41.04.11.09.06.48.02.03.17.24.13.47.10】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">021期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【42.27.13.44.19.35.28.06.02.16.15.26.21.20】</span></font></p>  	");
+document.writeln("			");
+
+
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">018期:==14码中特==开蛇47准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【49.41.04.11.09.06.48.02.03.17.24.13.<span style=\'background-color: #FFFF00\'>47</span>.10】</span></font></p>  	");
 document.writeln("			");
 
 
@@ -50,5 +60,5 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://kayouyou.www62361a.com:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62815.com<br>这里只推荐最好的资料</a></strong></tr></table>");
+document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://yangyang.www62815c.com:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62109.com<br>这里只推荐最好的资料</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");

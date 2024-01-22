@@ -75,11 +75,14 @@
 		function showdata_gz(arr1) {
 			var nl = calendar;
 			let d = new Date();
-			let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0);
-			let list = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
 			let str = '';
+			let nlxx1 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 昨天
+			let list1 = fuzzyQuery(arr1, nlxx1.gzDay);
+			let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0); // 今天
+			let list2 = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
+			let list = [...['昨天: '], ...list1, ...['今天: '], ...list2]; // 合并数组
 			for (var i = 0; i < list.length; i++) {
-				str += '<p>' + list[i] + '</p>';
+				str += '<p style="color: #ff0000dd;">' + list[i] + '</p>';
 			}
 			document.getElementById("showdata_gz").innerHTML = str;
 		}
@@ -143,6 +146,15 @@
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 			gtag('config', 'G-17W024N6QS');
+		</script>
+		
+		<!-- Microsoft clarity (gtag.js) -->
+		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+						c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+						t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+						y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "koo4icwpvz");
 		</script>
 		
 		

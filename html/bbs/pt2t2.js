@@ -18,7 +18,10 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("021期：平特【龙虎拖猪猴】开？00<br>");
+document.writeln("022期：平特【蛇鼠拖兔虎】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("021期：平特【<span style=\'background-color: #FFFF00\'>龙虎</span>拖猪<span style=\'background-color: #FFFF00\'>猴</span>】开38.12.08<br>");
 document.writeln("------<br>");
 
 document.writeln("");

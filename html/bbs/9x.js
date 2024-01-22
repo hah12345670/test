@@ -37,10 +37,11 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>021期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>022期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("虎猪鼠鸡马蛇猴牛羊</span></td><td>");
+document.writeln("羊猴鼠兔蛇牛龙猪狗</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+
 
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>020期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");

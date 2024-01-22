@@ -39,9 +39,10 @@ document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
 document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("021期：方向报码</span><font color=\'#FF0000\'>【南西北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("022期：方向报码</span><font color=\'#FF0000\'>【东南北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
 document.writeln("");
 document.writeln("<!-----&#24320;&#22987;----->");
+
 
 document.writeln("<!-----&#24320;&#22987;----->");
 document.writeln("<tr>");

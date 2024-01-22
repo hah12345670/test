@@ -29,25 +29,25 @@ document.writeln("                  ");
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("");
-
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">021期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【42.27.13.44.19.35.28.06.02.16.15.26.21.20】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">022期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【49.23.35.10.05.41.37.25.38.13.12.44.07.18】</span></font></p>  	");
 document.writeln("			");
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">018期:==14码中特==开蛇47准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【49.41.04.11.09.06.48.02.03.17.24.13.<span style=\'background-color: #FFFF00\'>47</span>.10】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">021期:==14码中特==开蛇35准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【42.27.13.44.19.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">35</font></span><span style=\"font-size: 13pt\">.28.06.02.16.15.26.21.20】</span></font></p>  	");
 document.writeln("			");
+document.writeln("");
 
-
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("				");

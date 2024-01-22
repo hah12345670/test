@@ -42,7 +42,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("018-021期<font style=\'font-size: 14pt\'>【06.18.42】</font>第?0期中</span></font></font></b></td>");
+document.writeln("022-024期<font style=\'font-size: 14pt\'>【01.37.49】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("      <!--开始-->");

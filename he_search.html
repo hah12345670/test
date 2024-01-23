@@ -76,7 +76,7 @@
 			var nl = calendar;
 			let d = new Date();
 			let str = '';
-			let nlxx1 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 前天
+			let nlxx1 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-2); // 前天
 			let list1 = fuzzyQuery(arr1, nlxx1.gzDay);
 			let nlxx2 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 昨天
 			let list2 = fuzzyQuery(arr1, nlxx2.gzDay);

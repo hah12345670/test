@@ -76,11 +76,13 @@
 			var nl = calendar;
 			let d = new Date();
 			let str = '';
-			let nlxx1 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 昨天
+			let nlxx1 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 前天
 			let list1 = fuzzyQuery(arr1, nlxx1.gzDay);
-			let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0); // 今天
-			let list2 = fuzzyQuery(arr1, nlxx.gzDay); // 一个关键词
-			let list = [...['昨天: '], ...list1, ...['今天: '], ...list2]; // 合并数组
+			let nlxx2 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-1); // 昨天
+			let list2 = fuzzyQuery(arr1, nlxx2.gzDay);
+			let nlxx3 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0); // 今天
+			let list3 = fuzzyQuery(arr1, nlxx3.gzDay);
+			let list = [...['前天: '], ...list1, ...['昨天: '], ...list2, ...['今天: '], ...list3]; // 合并数组
 			for (var i = 0; i < list.length; i++) {
 				str += '<p style="color: #ff0000dd;">' + list[i] + '</p>';
 			}

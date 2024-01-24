@@ -31,18 +31,36 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>022期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>024期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>十八罗汉立正堂，四乡五里来参拜</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>八来放马四后备，十里春风二有约</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解十八猴肖。十解龙鸡，八解马羊。四解兔狗，五解龙鸡。综合解出来的重复的是龙鸡。来参拜说明有一定的地位，十二生肖中能被参拜的只有龙，一般人们参拜龙王是为了祈求一年能够风调雨顺，事业以及家庭还有农村的农作物，如果延展开龙猴虎王肖也算是有地位也能解出。综合得主龙猴虎鸡防马羊兔狗蛇</font></div>");
+document.writeln("解析：预先解明肖马，八解八位羊八岁猴，四解四位兔四岁鼠，十解十位鸡十岁马，二解二位牛二岁虎。春解春肖虎兔龙。综合得主马羊猴兔防鼠鸡牛虎龙</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙猴虎鸡马羊<br>");
-document.writeln("	特码：12.36.08.20.02.14.31.43.22.46.21.45</font></b></div>");
+document.writeln("	解特肖：马羊猴兔鼠鸡<br>");
+document.writeln("	特码：10.34.21.33.08.20.13.49.04.40.19.43</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>023期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>牛头马面是忠臣，鲤鱼龙门识天时</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖牛马龙。识天，偏看天肖兔马猴猪牛龙。心水诗大意是好的千里马也需要伯乐去赏识。没有伯乐不被赏识，再好的千里马也只是马而以。主看伯乐龙。综合得主龙<span style=\'background-color: #FFFF00\'>猴</span>牛马防兔猪虎蛇羊</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：龙<span style=\'background-color: #FFFF00\'>猴</span>牛马兔猪<br>");
+document.writeln("	特码：12.36.08.<span style=\'background-color: #FFFF00\'>20</span>.15.39.22.34.13.49.05.17</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -184,23 +202,6 @@ document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
 
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>009期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>云年花里逢君别，笑迎山色有苍穹</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解君解王肖猴虎龙。云肖猴鸡狗。山解土肖牛龙羊狗。花偏看女肖蛇羊鸡兔 。生肖诗大意是在某年与君一别，剩下的是天天笑着等待君王再次出现在自己的世界里。苍穹是苍天，广阔的天空的意思，这里指君王。综合得主虎猴龙鸡防<span style=\'background-color: #FFFF00\'>狗</span>牛羊兔蛇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：虎猴龙鸡<span style=\'background-color: #FFFF00\'>狗</span>牛<br>");
-document.writeln("	特码：02.14.20.32.24.36.19.43.<span style=\'background-color: #FFFF00\'>06</span>.18.15.39</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
 
 
 

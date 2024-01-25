@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/24/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/25/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
@@ -59,11 +59,22 @@ document.writeln("");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第024期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第025期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【大地山河】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：大地山河，解地肖蛇羊鸡虎鼠狗。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊鸡虎鼠狗</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("</P>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第024期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔01中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【眼高手低】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：眼光高、要求的标准高，但自己的实际工作能力低。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鸡兔猪牛鼠羊</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鸡<span style=\'background-color: #FFFF00\'>兔</span>猪牛鼠羊</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("");
 
@@ -91,13 +102,21 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/24/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/25/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第024期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第025期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿水蓝天美如画】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第024期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红01中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿红还要选特码】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

@@ -18,7 +18,11 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("024期：平特【鸡狗拖马牛】开？00<br>");
+document.writeln("025期：平特【鸡蛇拖牛猴】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("024期：平特【<span style=\'background-color: #FFFF00\'>鸡狗</span>拖马<span style=\'background-color: #FFFF00\'>牛</span>】开31.30.03<br>");
 document.writeln("------<br>");
 
 

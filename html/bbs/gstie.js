@@ -41,7 +41,8 @@ document.writeln("020期:平特一肖<font color=\"#FF0000\" style=\"font-size: 
 document.writeln("021期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【龙龙龙】</font>开:36中<br>");
 document.writeln("022期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【猪猪猪】</font>开:41中<br>");
 document.writeln("023期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【龙龙龙】</font>开:36中<br>");
-document.writeln("024期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【牛牛牛】</font>开:00中<br>");
+document.writeln("024期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【牛牛牛】</font>开:03中<br>");
+document.writeln("025期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【蛇蛇蛇】</font>开:00中<br>");
 
 
 document.writeln("	</font></p</td>	</tr>	");

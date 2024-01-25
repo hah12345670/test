@@ -38,7 +38,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF0000\'>024-026期</font>【龙兔羊】000期中</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\'>025-027期</font>【羊虎鼠】000期中</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#FF0000\'>024-026期</font>【龙<span style=\'background-color: #FFFF00\'>兔</span>羊】024期中</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");

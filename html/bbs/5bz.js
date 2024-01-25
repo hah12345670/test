@@ -25,56 +25,10 @@ document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>024期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>16.31.17.36.48</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>025期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>14.48.26.41.22</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->");
 document.writeln("");
 
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>022期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>25.15.33.48.37</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>018期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>46.12.06.33.20</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>017期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>11.48.02.17.25</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>016期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>43.25.02.19.47</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>012期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>26.29.07.37.27</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>011期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>23.10.27.03.42</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
 
 
 

@@ -11,7 +11,7 @@ document.writeln("    <td style=\'text-align:center\' height=\'60\'><table borde
 document.writeln("        <tbody>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2024-01月必出特码表』已中<span style=\'background-color: #FF0000\'>16</span>期</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 16pt\'>『2024-01月必出特码表』已中<span style=\'background-color: #FF0000\'>18</span>期</font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -41,7 +41,7 @@ document.writeln("																					05.<span style=\'background-color: #FFFF0
 document.writeln("																		<td align=center width=10% height=38 bgcolor=\'#9966FF\'><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=38><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<span style=\'background-color: #FFFF00\'>06</span>.<span style=\'background-color: #FFFF00\'>18</span>.30</span></strong></tr>");
+document.writeln("			<span style=\'background-color: #FFFF00\'>06</span>.<span style=\'background-color: #FFFF00\'>18</span>.<span style=\'background-color: #FFFF00\'>30</span></span></strong></tr>");
 document.writeln("        <tr>");
 document.writeln("          <td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鸡</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33 bgcolor=\'#FFFFFF\'><strong> ");
@@ -49,7 +49,7 @@ document.writeln("			<font size=\'3\'> ");
 document.writeln("			<span style=\'font-family:Arial\'><span style=\'background-color: #FFFF00\'>19</span>.31.<span style=\'background-color: #FFFF00\'>43</span></span><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>猴</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33><strong> ");
 document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			08.32.44</span><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
+document.writeln("			08.<span style=\'background-color: #FFFF00\'>32</span>.44</span><td align=center bgcolor=#9966FF width=10% height=33><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
 document.writeln("          <td align=center width=20% height=33> ");
 document.writeln("			<span style=font-family:Arial;><strong> ");
 document.writeln("			09.21.45</strong></tr>");

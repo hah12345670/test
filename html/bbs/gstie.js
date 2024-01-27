@@ -42,9 +42,9 @@ document.writeln("021期:平特一肖<font color=\"#FF0000\" style=\"font-size: 
 document.writeln("022期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【猪猪猪】</font>开:41中<br>");
 document.writeln("023期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【龙龙龙】</font>开:36中<br>");
 document.writeln("024期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【牛牛牛】</font>开:03中<br>");
-document.writeln("025期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【蛇蛇蛇】</font>开:00中<br>");
-
-
+document.writeln("025期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【蛇蛇蛇】</font>开:23中<br>");
+document.writeln("026期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【狗狗狗】</font>开:06中<br>");
+document.writeln("027期:平特一肖<font color=\"#FF0000\" style=\"font-size: 16pt\">【猪猪猪】</font>开:00中<br>");
 document.writeln("	</font></p</td>	</tr>	");
 document.writeln("	");
 document.writeln("<!--头部start-->");
@@ -78,4 +78,3 @@ document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center>");
 document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://yangyang.www62815c.com:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62109.com<br>常回来看看有你想要的<br>这里只推荐最好的资料</a></tr></table>");
 document.writeln("<!--推广结束-->");
-document.writeln("<script src=\'/bbs/5x5m.js\' charset=\'utf-8\'></script>");

@@ -32,6 +32,40 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>027期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("羊前猪后混一谈，秋风不敢三四晚");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖羊猪，秋风解秋肖狗鸡猴，风肖龙虎兔，三四晚解34马</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡猴龙虎兔马羊<br>");
+document.writeln("			四肖：鸡猴龙虎<br>");
+document.writeln("			特码：19.31.08.20.12.36.02.14.13.49.22.34.21.33</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>026期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("飞龙猛虎走一起，龙眼一只为君开");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：飞龙猛虎解明肖龙虎，一起解合肖鸡狗龙蛇猴猪，一只解一鼠兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>狗</span>龙蛇猴猪鼠兔<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>狗</span>龙蛇猴<br>");
+document.writeln("			特码：06.18.12.36.23.47.32.20.05.29.04.40.13.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -41,7 +75,7 @@ document.writeln("天外红霞如仙境，月落玉绿霜两重");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：天外红霞解天肖龙兔牛猪马猴，红肖鼠兔马鸡，玉绿解绿肖牛狗羊龙</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔牛猪马猴鼠鸡<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔牛猪马<span style=\'background-color: #FFFF00\'>猴</span>鼠鸡<br>");
 document.writeln("			四肖：兔牛猪马<br>");
 document.writeln("			特码：13.49.03.15.17.41.22.34.08.20.04.40.19.43</font></b></td>");
 document.writeln("		</tr>	");

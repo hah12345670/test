@@ -18,7 +18,16 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("027期：平特【鼠蛇拖牛兔】开？00<br>");
+document.writeln("030期：平特【牛蛇拖猴虎】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("029期：平特【马猪拖<span style=\'background-color: #FFFF00\'>鸡蛇</span>】开19.35<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("028期：平特【<span style=\'background-color: #FFFF00\'>兔猪</span>拖鸡<span style=\'background-color: #FFFF00\'>狗</span>】开13.05.30<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("027期：平特【<span style=\'background-color: #FFFF00\'>鼠蛇</span>拖牛兔】开28.23<br>");
 document.writeln("------<br>");
 
 document.writeln("");

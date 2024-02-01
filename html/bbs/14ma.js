@@ -31,8 +31,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">030期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【02.21.10.06.19.46.30.22.40.49.38.17.01.20】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">033期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【34.33.14.03.13.02.10.05.43.26.24.27.04.35】</span></font></p>  	");
+document.writeln("			");
+
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">032期:==14码中特==开鼠40准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【29.45.35.01.11.<span style=\'background-color: #FFFF00\'>鼠</span>.21.39.25.33.20.28.31.10】</span></font></p>  	");
 document.writeln("			");
 
 

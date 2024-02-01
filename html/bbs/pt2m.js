@@ -9,7 +9,21 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>030期：独平</font><font color=\'#FF3300\' size=\'5\'>【蛇11.23】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>033期：独平</font><font color=\'#FF3300\' size=\'5\'>【鸡07.43】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>031期：独平</font><font color=\'#FF3300\' size=\'5\'>【虎02.14】</font><font color=\'#000000\' size=\'4\'>开虎26准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>030期：独平</font><font color=\'#FF3300\' size=\'5\'>【蛇11.<span style=\'background-color: #FFFF00\'>23</span>】</font><font color=\'#000000\' size=\'4\'>开蛇23准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 document.writeln("<!--开始-->");
@@ -74,54 +88,6 @@ document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>01
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>012期：独平</font><font color=\'#FF3300\' size=\'5\'>【龙<span style=\'background-color: #FFFF00\'>12</span>.36】</font><font color=\'#000000\' size=\'4\'>开龙12准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>009期：独平</font><font color=\'#FF3300\' size=\'5\'>【狗18.30】</font><font color=\'#000000\' size=\'4\'>开狗06准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>008期：独平</font><font color=\'#FF3300\' size=\'5\'>【猪05.17】</font><font color=\'#000000\' size=\'4\'>开猪41准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>007期：独平</font><font color=\'#FF3300\' size=\'5\'>【牛<span style=\'background-color: #FFFF00\'>03</span>.39】</font><font color=\'#000000\' size=\'4\'>开牛03准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>006期：独平</font><font color=\'#FF3300\' size=\'5\'>【狗18.30】</font><font color=\'#000000\' size=\'4\'>开狗06准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>004期：独平</font><font color=\'#FF3300\' size=\'5\'>【鼠16.<span style=\'background-color: #FFFF00\'>40</span>】</font><font color=\'#000000\' size=\'4\'>开鼠40准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>003期：独平</font><font color=\'#FF3300\' size=\'5\'>【猪<span style=\'background-color: #FFFF00\'>05</span>.41】</font><font color=\'#000000\' size=\'4\'>开猪05准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
 
 
 

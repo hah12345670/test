@@ -52,7 +52,8 @@ document.writeln("			031期:<font color=\"#008000\">3.肖中特</font><font colo
 document.writeln("");
 document.writeln("			032期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【羊<span style=\'background-color: #FFFF00\'>鼠</span>蛇】</font>开鼠40准<BR>");
 document.writeln("");
-document.writeln("			033期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【马兔牛】</font>开？00准<BR>");
+document.writeln("			033期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【马兔牛】</font>开狗30错<BR>");
+document.writeln("			034期:<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【牛虎鸡】</font>开？00准<BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

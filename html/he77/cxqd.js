@@ -25,12 +25,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>040期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬秋春】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>039期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋夏冬】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>039期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>秋</span>夏冬】</font>开<font color=\'#ac6a00\'>鸡19</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");

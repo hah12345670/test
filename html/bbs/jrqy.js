@@ -14,7 +14,7 @@ document.writeln(".bizhong1234 img {width:100%; border-collapse: collapse; font-
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong1234 clearfix\'>");
 document.writeln("    <div class=\'bizhong1234-box action-bz\'>");
-document.writeln("<img src=\'/img/jrqy034.jpg\' id=\'jrqypicx\'>");
+document.writeln("<img src=\'/img/jrqy046.jpg\' id=\'jrqypicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,31 +25,22 @@ document.writeln(" <span class=\'bizhong1234-btn bizhong1234-next\' onclick=\'ne
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
-document.writeln("\'/img/jrqy034.jpg\',");
-document.writeln("\'/img/jrqy033.jpg\',");
-document.writeln("\'/img/jrqy032.jpg\',");
-document.writeln("\'/img/jrqy031.jpg\',");
-document.writeln("\'/img/jrqy030.jpg\',");
-document.writeln("\'/img/jrqy029.jpg\',");
-document.writeln("\'/img/jrqy028.jpg\',");
-document.writeln("\'/img/jrqy027.jpg\',");
-document.writeln("\'/img/jrqy026.jpg\',");
-document.writeln("\'/img/jrqy025.jpg\',");
-document.writeln("\'/img/jrqy024.jpg\',");
-document.writeln("\'/img/jrqy023.jpg\',");
-document.writeln("\'/img/jrqy022.jpg\',");
-document.writeln("\'/img/jrqy021.jpg\',");
-document.writeln("\'/img/jrqy020.jpg\',");
-document.writeln("\'/img/jrqy019.jpg\',");
-document.writeln("\'/img/jrqy018.jpg\',");
-document.writeln("\'/img/jrqy017.jpg\',");
-document.writeln("\'/img/jrqy016.jpg\',");
-document.writeln("\'/img/jrqy015.jpg\',");
+
+
+document.writeln("\'/img/jrqy046.jpg\',");
+document.writeln("\'/img/jrqy045.jpg\',");
+document.writeln("\'/img/jrqy044.jpg\',");
+document.writeln("\'/img/jrqy043.jpg\',");
+document.writeln("\'/img/jrqy042.jpg\',");
+document.writeln("\'/img/jrqy041.jpg\',");
+document.writeln("\'/img/jrqy040.jpg\',");
+document.writeln("\'/img/jrqy039.jpg\',");
 
 
 
 
-document.writeln("\'/img/jrqy014.jpg\'");
+
+document.writeln("\'/img/jrqy038.jpg\'");
 document.writeln(");");
 document.writeln("    var indexjrqy=0;");
 document.writeln("    function nextsbx(){");

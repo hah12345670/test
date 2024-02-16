@@ -19,52 +19,36 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.manolotron.com:49/\' 
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	034期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>01.38.27.03.08</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	047期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>03.16.09.15.31</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+
 document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	033期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>06.<span style=\'background-color: #FFFF00\'>44</span>.11.38.27</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	032期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>27</span>.38.16.<span style=\'background-color: #FFFF00\'>22</span>.32</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	031期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>31</span>.04.23.21.07</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	030期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>23</span>.12.06.38.28</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	028期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>29.15.<span style=\'background-color: #FFFF00\'>09</span>.18.22</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	046期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.42.10.32.44</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 
 
+document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	026期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>30</span>.11.32.48.<span style=\'background-color: #FFFF00\'>36</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	043期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.14.28.49.46</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+document.writeln("");
 
-
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	042期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>47.46.<span style=\'background-color: #FFFF00\'>11</span>.18.03</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("");
 
 
 

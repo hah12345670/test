@@ -29,7 +29,6 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://tz.2388ttz.com:238
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
-
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -37,18 +36,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>034期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>032期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>鼠40</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' co lor=\'#0000FF\'>047期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("<!--开始-->");
@@ -58,7 +46,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>031期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>鸡07</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>046期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>兔02</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("<!--开始-->");
@@ -68,12 +56,9 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>030期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>牛03</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>045期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>牛28</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
-
-
-
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -81,9 +66,10 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>028期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>羊09</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>044期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>兔02</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
+
 
 
 
@@ -94,14 +80,9 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>027期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>鼠28</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' color=\'#0000FF\'>041期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>鼠41</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
-
-
-
-
-
 
 
 

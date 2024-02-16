@@ -29,34 +29,26 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>034期</font>【<font color=\'#FF0000\'>独肖:兔牛羊</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>047期</font>【<font color=\'#FF0000\'>独肖:虎牛鼠</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");;
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>046期</font>【<font color=\'#FF0000\'>独肖:羊鼠马</font>】开<font color=\'#FF00FF\'>(兔02)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");;
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>045期</font>【<font color=\'#FF0000\'>独肖:羊虎马</font>】开<font color=\'#FF00FF\'>(牛28)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");;
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>044期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>兔</span>虎马</font>】开<font color=\'#FF00FF\'>(兔02)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");;
 
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>031期</font>【<font color=\'#FF0000\'>合肖:蛇龙猴</font>】开<font color=\'#FF00FF\'>(鸡07)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>030期</font>【<font color=\'#FF0000\'>独肖:马<span style=\'background-color: #FFFF00\'>牛</span>羊</font>】开<font color=\'#FF00FF\'>(牛03)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>029期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>鼠</span>牛马</font>】开<font color=\'#FF00FF\'>(鼠16)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>028期</font>【<font color=\'#FF0000\'>独肖:鼠牛<span style=\'background-color: #FFFF00\'>羊</span></font>】开<font color=\'#FF00FF\'>(羊09)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 

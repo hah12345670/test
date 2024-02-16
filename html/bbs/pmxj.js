@@ -53,7 +53,7 @@ document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p ali
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>034期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#0000FF\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\'>047期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#0000FF\'>？00</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b>  ");
 document.writeln("		</td>");
@@ -62,71 +62,16 @@ document.writeln("	<tr>");
 document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>阴肖【龙马狗】</font></b></font></td>");
+document.writeln("		<font color=\'#FF0000\'>阴肖【马狗蛇】</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("12.36.10.34.06.30</b> </td>");
+document.writeln("23.47.07.19.24.36</b> </td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ")
-
-document.writeln("");
-document.writeln("   <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>033期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#0000FF\'>狗30</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>阴肖</span>【鼠马猪】</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\"4\"><b>");
-document.writeln("");
-document.writeln("04.16.34.46.17.29</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ")
-
-document.writeln("");
-document.writeln("   <!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td align=\'left\' height=39 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
-document.writeln("");
-document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>031期</font><font color=\'#008000\'>【阴阳博特】</font><font color=\'#000000\'>开</font><font color=\'#0000FF\'>鸡07</font><font color=\'#000000\'>中</font><font size=\'4\' face=\'微软雅黑\'>");
-document.writeln("		</font>  ");
-document.writeln("		</b>  ");
-document.writeln("		</td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>阳肖【虎猴<span style=\'background-color: #FFFF00\'>鸡</span>】</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\"4\"><b>");
-document.writeln("");
-document.writeln("02.14.20.32.19.43</b> </td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束--> ")
-
 
 
 

@@ -21,32 +21,50 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>034期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("<span style=\'color: #00F;\'>047期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
 document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【6尾:06.36】");
-document.writeln("【8尾:28.38】<br>");
-document.writeln("【9尾:19.39】");
-document.writeln("【0尾:20.30】</span></p>");
-document.writeln("</td></tr>");
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>032期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>鼠40</span></font>准</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【9尾:09.29】");
+document.writeln("【0尾:20.30】<br>");
 document.writeln("【1尾:11.21】");
-document.writeln("【2尾:02.32】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>0尾</span>:20.30】");
-document.writeln("【5尾:25.35】</span></p>");
+document.writeln("【7尾:27.37】</span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>046期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>兔02</span></font>准</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>2尾</span>:22.42】");
+document.writeln("【8尾:08.38】<br>");
+document.writeln("【4尾:34.44】");
+document.writeln("【6尾:06.26】</span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>044期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>兔02</span></font>准</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【0尾:30.40】");
+document.writeln("【7尾:07.27】<br>");
+document.writeln("【6尾:06.36】");
+document.writeln("【<span style=\'background-color: #FFFF00\'>2尾</span>:22.32】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
 
@@ -55,20 +73,18 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>030期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>牛03</span></font>准</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>042期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>虎15</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>3尾</span>:23.43】");
-document.writeln("【9尾:29.49】<br>");
-document.writeln("【6尾:06.16】");
-document.writeln("【4尾:24.34】</span></p>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>5尾</span>:35.45】");
+document.writeln("【9尾:19.49】<br>");
+document.writeln("【8尾:28.38】");
+document.writeln("【2尾:12.32】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
-
-
 
 
 

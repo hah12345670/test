@@ -43,7 +43,7 @@ document.writeln("			");
 document.writeln("			048期【<span style=\'background-color: #FFFF00\'>猪</span>马+龙】<br><br>				");
 document.writeln("			049期【猴<span style=\'background-color: #FFFF00\'>马</span>+鼠】<br><br>				");
 document.writeln("			050期【<span style=\'background-color: #FFFF00\'>虎</span>狗+兔】<br><br>				");
-document.writeln("			051期【狗马+猪】<br><br>					");
+document.writeln("			052期【龙羊+鸡】<br><br>					");
 document.writeln("			");
 document.writeln("			</span></b></font></td>");
 document.writeln("			</tr>");

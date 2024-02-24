@@ -20,7 +20,47 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("047期<font color=\'#FF0000\'>平猴→猴虎(2连)→21.33.15.39(连)</font></font></b></font></table>");
+document.writeln("056期<font color=\'#FF0000\'>平猴→猴马(2连)→09.45.23.47(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("054期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>兔</span>→兔蛇(2连)→02.38.12.48(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("053期<font color=\'#FF0000\'>平兔→兔<span style=\'background-color: #FFFF00\'>猴</span>(2连)→14.26.09.45(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("051期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>猪</span>→<span style=\'background-color: #FFFF00\'>猪蛇</span>(2连)→<span style=\'background-color: #FFFF00\'>06</span>.18.36.48(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("050期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>马</span>→马兔(2连)→11.23.14.38(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("049期<font color=\'#FF0000\'>平猪→猪<span style=\'background-color: #FFFF00\'>鼠</span>(2连)→18.30.17.41(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("047期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>猴</span>→<span style=\'background-color: #FFFF00\'>猴</span>虎(2连)→21.<span style=\'background-color: #FFFF00\'>33</span>.15.39(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");

@@ -82,7 +82,9 @@
 			let list2 = fuzzyQuery(arr1, nlxx2.gzDay);
 			let nlxx3 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0); // 今天
 			let list3 = fuzzyQuery(arr1, nlxx3.gzDay);
-			let list = [...['前天: '], ...list1, ...['昨天: '], ...list2, ...['今天: '], ...list3]; // 合并数组
+			let list = [...['前天：'+arr1[arr1.length-2].substring(5, 10)], ...list1, 
+									...['昨天：'+arr1[arr1.length-1].substring(5, 10)], ...list2, 
+									...['今天：？ 00'], ...list3]; // 合并数组
 			for (var i = 0; i < list.length; i++) {
 				str += '<p style="color: #ff0000dd;">' + list[i] + '</p>';
 			}

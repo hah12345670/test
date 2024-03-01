@@ -54,7 +54,15 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
+document.writeln("<font style=\'font-size: 13pt\'>");
+document.writeln("061期玄机诗句<font color=\'#FF0000\'>【猪前狗后结亲家，看看地支是哪家。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：猪前狗后结亲家，得猪狗，看看地支是哪家，是地肖蛇羊鸡狗鼠虎。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：猪狗蛇羊鸡鼠");
+document.writeln("</font></font></b></td></tr>");
+document.writeln("");
+document.writeln("");
 
 
 
@@ -63,7 +71,7 @@ document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; 
 document.writeln("<font style=\'font-size: 13pt\'>");
 document.writeln("060期玄机诗句<font color=\'#FF0000\'>【连升三级还是小，一山飞峙大江边。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：连升三级还是小，说明地位卑微，狗马鸡猪；一山飞峙大江边，这里又指地位高，龙羊。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙羊狗马鸡猪");
+document.writeln("<br><font color=\'#008000\'>解特：龙羊狗马<span style=\'background-color: #FFFF00\'>鸡</span>猪");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 

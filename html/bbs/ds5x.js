@@ -19,7 +19,42 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>056期</font><font color=\'#006600\'>【鼠马猴狗龙】【牛羊蛇鸡猪】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>061期</font><font color=\'#006600\'>【猴鼠狗马虎】【鸡牛猪羊蛇】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>060期</font><font color=\'#006600\'>【虎猴鼠狗龙】【羊<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇猪】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>059期</font><font color=\'#006600\'>【马虎狗猴龙】【<span style=\'background-color: #FFFF00\'>猪</span>羊蛇鸡兔】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>058期</font><font color=\'#006600\'>【狗虎<span style=\'background-color: #FFFF00\'>马</span>鼠猴】【兔蛇猪鸡羊】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>057期</font><font color=\'#006600\'>【龙狗猪马鼠】【猪鸡兔蛇<span style=\'background-color: #FFFF00\'>羊</span>】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>056期</font><font color=\'#006600\'>【鼠<span style=\'background-color: #FFFF00\'>马</span>猴狗龙】【牛羊蛇鸡猪】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

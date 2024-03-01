@@ -55,13 +55,50 @@ document.writeln("	<div id=\'con_tabzzhlzmzm_1\'>");
 document.writeln("<!--澳门开始-->");
 document.writeln("<div class=\'zzhlzm-list\'>");
 document.writeln("	<ul>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【狗狗狗】</font>开？00√</font></b></font></td></tr></tbody></table>");
+document.writeln("061期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【羊羊羊】</font>开？00√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("060期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【虎虎虎】</font>开鸡44√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("059期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【龙龙龙】</font>开猪30√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("058期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【鼠鼠鼠】</font>开马11√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("057期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【猴猴猴】</font>开羊46√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("056期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【狗狗狗】</font>开马23√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始-->");
@@ -169,8 +206,8 @@ document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\
 document.writeln("041期稳杀(1)肖<font color=\'#FF00FF\' size=\'5\'>【马马马】</font>开鼠41√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
-
-
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("	</ul>");
@@ -181,159 +218,193 @@ document.writeln("    <div id=\'con_tabzzhlzmzm_2\' style=\'display:none\'>");
 document.writeln("<!--台湾开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
-
-
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【666尾】</font>开？00√</font></b></font></td></tr></tbody></table>");
+document.writeln("061期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【666尾】</font>开？00√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("060期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【222尾】</font>开鸡44√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("059期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【444尾】</font>开猪30√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("058期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【888尾】</font>开马11√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("057期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【777尾】</font>开羊46√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("056期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【666尾】</font>开马23√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("055期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【222尾】</font>开狗31√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("054期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【666尾】</font>开猴09√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("053期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【777尾】</font>开龙25√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("052期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【111尾】</font>开猴09√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("051期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【444尾】</font>开蛇12√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("050期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【888尾】</font>开虎39√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("049期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【777尾】</font>开马35√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("048期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【444尾】</font>开猪30√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("047期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【555尾】</font>开猴09√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("046期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【999尾】</font>开兔02√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("045期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【777尾】</font>开牛28√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("044期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【111尾】</font>开兔02√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("043期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【666尾】</font>开猪42√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("042期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【888尾】</font>开虎15√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("041期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【333尾】</font>开鼠41√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("040期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【777尾】</font>开鼠40√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("039期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【333尾】</font>开鸡19√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("038期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【222尾】</font>开狗06√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("037期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【111尾】</font>开马10√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("036期稳杀(1)尾<font color=\'#0000FF\' size=\'5\'>【999尾】</font>开猪29√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
 
 
@@ -349,85 +420,112 @@ document.writeln("    <div id=\'con_tabzzhlzmzm_3\' style=\'display:none\'>");
 document.writeln("<!--台湾开始-->");
 document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
-
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝单】</font>开？00√</font></b></font></td></tr></tbody></table>");
+document.writeln("061期稳杀半波<font color=\'#0000FF\' size=\'5\'>【红双】</font>开？00√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
+document.writeln("		<!--结束-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("060期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝单】</font>开鸡44√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("059期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝双】</font>开猪30√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("058期稳杀半波<font color=\'#0000FF\' size=\'5\'>【红单】</font>开马11√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("056期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝单】</font>开马23√</font></b></font></td></tr></tbody></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("055期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿双】</font>开狗31√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("053期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿双】</font>开龙25√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("051期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝双】</font>开蛇12√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("050期稳杀半波<font color=\'#0000FF\' size=\'5\'>【红单】</font>开虎39√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("049期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿双】</font>开马35√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("048期稳杀半波<font color=\'#0000FF\' size=\'5\'>【红单】</font>开猪30√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("047期稳杀半波<font color=\'#0000FF\' size=\'5\'>【绿双】</font>开猴09√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("046期稳杀半波<font color=\'#0000FF\' size=\'5\'>【蓝单】</font>开兔02√</font></b></font></td></tr></tbody></table>");
 document.writeln("</li>");
-document.writeln("		<!--结束-->")
-
-
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
 
 
 
@@ -443,132 +541,11 @@ document.writeln("		<!--开始四特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开？00√</font></b></font></table>");
+document.writeln("061期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开？00√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("055期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【3头双】</font>开？00√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("054期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【1头单】</font>开猴09√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("053期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【3头双】</font>开龙25√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("052期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开猴09√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("051期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【3头双】</font>开蛇12√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("050期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【1头单】</font>开虎39√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("049期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头双】</font>开马35√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("047期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开猴09√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("046期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【1头双】</font>开兔02√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("045期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开牛28√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("044期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【4头双】</font>开兔02√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("043期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【0头单】</font>开猪42√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("042期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【4头双】</font>开虎15√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("041期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头双】</font>开鼠41√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("040期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【3头单】</font>开鼠40√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("039期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【4头双】</font>开鸡19√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-document.writeln("		<!--开始四特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("038期稳杀半头<font color=\'#FF0 000\' size=\'5\'>【2头单】</font>开狗06√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始四特-->");
-
-
-
+document.writeln("");
+document.writeln("");
 
 
 
@@ -586,7 +563,7 @@ document.writeln("		<!--开始五特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开？00√</font></b></font></table>");
+document.writeln("061期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开？00√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--开始五特-->");
 
@@ -594,98 +571,9 @@ document.writeln("		<!--开始五特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("055期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大双】</font>开狗31√</font></b></font></table>");
+document.writeln("060期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小单】</font>开鸡44√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--开始五特-->");
-
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("053期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开龙25√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("051期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大单】</font>开？00√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("050期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大双】</font>开虎39√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("049期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开马35√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("048期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大单】</font>开猪30√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("047期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开猴09√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("046期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大双】</font>开兔02√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("045期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大单】</font>开牛28√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("044期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小双】</font>开兔02√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("043期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大单】</font>开猪42√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("042期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【大双】</font>开虎15√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-
-document.writeln("		<!--开始五特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("041期稳杀单双<font color=\'#ce0f67\' size=\'5\'>【小单】</font>开鼠41√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--开始五特-->");
-
 
 
 document.writeln("	</ul>");
@@ -702,7 +590,43 @@ document.writeln("		<!--开始六特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("056期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【水水水】</font>开？00√</font></b></font></table>");
+document.writeln("061期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【水水水】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("060期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【金金金】</font>开鸡44√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("059期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【木木木】</font>开猪30√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("058期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【土土土】</font>开马11√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("057期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【木木木】</font>开羊46√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("056期稳杀(1)行<font color=\'#99CC00\' size=\'5\'>【水水水】</font>开马23√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 

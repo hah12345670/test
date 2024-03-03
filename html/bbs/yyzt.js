@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>063期一语中特【兵无斗志】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：队的一种状态。意为部队的士兵缺乏作战的决心和勇气。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：龙猪鼠蛇虎兔开0000准</div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>061期一语中特【英勇善战】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：勇敢出众，善于作战。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：狗龙猴兔马猪开0000准</div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：狗龙<span style=\'background-color: #FFFF00\'>猴</span>兔马猪开猴33准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -90,31 +99,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>061期一语中特【生机勃勃】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：形容自然界充满生命力，或社会生活活跃。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：鸡虎龙蛇鼠狗开0000准</div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>059期一语中特【日理万机】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：一天之内要处理成千上万件的事。形容政务繁忙（多用于高级领导人）</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：蛇龙猴鸡牛<span style=\'background-color: #FFFF00\'>猪</span>开猪30准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>063期一语中特【四平八稳】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：原指说话做事稳当。现指做事只求不出差错，缺乏进取精神</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠猪虎龙猴马开0000准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>057期一语中特【蛊惑人心】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：毒害，迷惑人心。蛊惑：使迷惑。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'>综合：龙猴<span style=\'background-color: #FFFF00\'>羊</span>牛猪鼠开羊46准</div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\'>062期一语中特【外柔中刚】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\'>解释：柔:柔顺。刚:刚强。外表柔顺,内心却很刚强。亦作“外柔中刚”。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'>综合：鼠马<span style=\'background-color: #FFFF00\'>龙</span>羊狗鸡开龙49准</div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
+
 
 
 

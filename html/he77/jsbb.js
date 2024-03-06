@@ -28,15 +28,14 @@ document.writeln("");
 
 
 
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>066期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【蓝波双】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>067期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
+
+
+
 
 
 document.writeln("");

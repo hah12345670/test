@@ -52,31 +52,17 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			063期<font color=\'#FF0000\'>【玄机特稠一二三，看好四数速三特】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：玄机特稠一二三，看好四数速三特解羊龙猴牛鼠鸡虎</font><br>");
+document.writeln("			071期<font color=\'#FF0000\'>【今期六合出牛马，穿金戴银戴兰】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛马，金解金肖猴鸡，兰解同音蓝肖虎猴蛇猪</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：羊龙猴牛鼠鸡虎<br>");
-document.writeln("			特码：10.22.01.13.09.21.04.16.05.17.08.20.03.15");
+document.writeln("			<br>七肖：虎猴蛇猪鸡牛马<br>");
+document.writeln("			特码：03.15.09.21.12.24.06.18.08.20.04.16.11.23");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			061期<font color=\'#FF0000\'>【六九之尾不可少，蓝绿有特绿假小】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：绿解绿肖牛狗羊龙，小解小肖龙鼠蛇兔鸡猴</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：牛狗羊龙鼠<span style=\'background-color: #FFFF00\'>猴</span>兔<br>");
-document.writeln("			特码：28.40.31.43.34.46.37.49.29.41.<span style=\'background-color: #FFFF00\'>33</span>.45.26.38");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
+
 
 
 

@@ -15,13 +15,22 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("063期：平码【33.43.26.28.20.07.31.48.32.04.45.06】<br>");
-
-
-
+document.writeln("071期：平码【42.27.17.06.05.43.08.13.16.47.32.40】<br>");
 
 document.writeln("");
-document.writeln("061期：平码【<span style=\'background-color: #FFFF00\'>44.13</span>.24.45.27.15.<span style=\'background-color: #FFFF00\'>05</span>.38.07.14.43.09】<br>");
+document.writeln("070期：平码【32.19.40.<span style=\'background-color: #FFFF00\'>33</span>.18.<span style=\'background-color: #FFFF00\'>09</span>.39.<span style=\'background-color: #FFFF00\'>12</span>.35.11.<span style=\'background-color: #FFFF00\'>06</span>.13】<br>");
+
+document.writeln("");
+document.writeln("069期：平码【39.48.34.16.<span style=\'background-color: #FFFF00\'>41</span>.36.<span style=\'background-color: #FFFF00\'>07</span>.44.42.29.30.31】<br>");
+
+document.writeln("");
+document.writeln("068期：平码【40.42.19.32.45.<span style=\'background-color: #FFFF00\'>18</span>.33.05.26.24.41.08】<br>");
+
+document.writeln("067期：平码【46.33.<span style=\'background-color: #FFFF00\'>34</span>.19.21.45.16.40.24.<span style=\'background-color: #FFFF00\'>01</span>.20.07】<br>");
+
+
+document.writeln("066期：平码【02.09.23.25.12.39.01.<span style=\'background-color: #FFFF00\'>37.05</span>.13.36.07】<br>");
+
 
 
 

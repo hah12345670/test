@@ -29,7 +29,7 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/63/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/71/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
@@ -40,45 +40,16 @@ document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第063期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（五一连合九来开）<br></font>  ");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第071期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（水储风絮夕阳天）<br></font>  ");
 document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：五一连合九来开，解鸡牛猪蛇兔鼠。</font><br>");
+document.writeln("		解：水储风絮夕阳天，解龙兔马鼠牛蛇。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：鸡牛猪蛇兔鼠</font></b></td>");
+document.writeln("		综合特码：龙兔马鼠牛蛇</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第060期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（南北东西万里程）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：南北东西万里程，解牛鸡猪龙蛇马。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：牛<span style=\'background-color: #FFFF00\'>鸡</span>猪龙蛇马</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
-
-
-document.writeln("");
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第058期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（春风十里扬州路）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：春风十里扬州路，解鼠猪鸡兔马猴。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：鼠猪鸡兔<span style=\'background-color: #FFFF00\'>马</span>猴</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
 
 
 document.writeln("");

@@ -49,52 +49,16 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 14pt\'>（投资�
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
 document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("063期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("    		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【31.44.20.18.26.29.08.12】<br>");
-document.writeln("		【14.23.34.16.43.48.33.37】</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("   <!--结束--> ");
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("061期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("    		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【36.39.41.06.<span style=\'background-color: #FFFF00\'>33</span>.19.26.40】<br>");
-document.writeln("		【05.37.47.11.31.08.38.32】</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("   <!--结束--> ");
-document.writeln("");
 
+
+document.writeln("");
 document.writeln("             <!--开始--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("060期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
+document.writeln("071期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("    		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
@@ -102,11 +66,12 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【34.27.21.20.01.49.35.13】<br>");
-document.writeln("		【12.28.06.22.04.47.19.<span style=\'background-color: #FFFF00\'>44</span>】</font></b></td>");
+document.writeln("		【16.40.32.43.36.44.30.26】<br>");
+document.writeln("		【13.29.46.31.24.01.08.38】</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
-document.writeln("");
+
+
 
 
 

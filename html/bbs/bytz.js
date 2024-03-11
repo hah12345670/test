@@ -11,84 +11,23 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.manolotron.com:4
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FFFFFF\'>");
-document.writeln("063期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
+document.writeln("071期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【29尾】【87尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【31尾】【84尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("70元一组共计140元</font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【029尾】【874尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【312尾】【849尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("30元一组共计60元</font></td></tr>");
 document.writeln("<!------结束------>");
-document.writeln("");
-document.writeln("<!------开始------>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FFFFFF\'>");
-document.writeln("062期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【57尾】【93尾】</span></font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("70元一组共计140元</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【572尾】【934尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("30元一组共计60元</font></td></tr>");
-document.writeln("<!------结束------>");
-
-document.writeln("");
-document.writeln("<!------开始------>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FFFFFF\'>");
-document.writeln("061期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【16尾】<span style=\'background-color: #FFFF00\'>【43尾】</span></font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("70元一组共计140元</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【167尾】【432尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("30元一组共计60元</font></td></tr>");
-document.writeln("<!------结束------>");
-
-
-document.writeln("");
-document.writeln("<!------开始------>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50 bgcolor=\'#000000\'>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FFFFFF\'>");
-document.writeln("059期娱乐连尾</font><font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>（本期合计赚）</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【45尾】<span style=\'background-color: #FFFF00\'>【96尾】</span></font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("70元一组共计140元</font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【450尾】【962尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
-document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
-document.writeln("30元一组共计60元</font></td></tr>");
-document.writeln("<!------结束------>");
-
 
 
 

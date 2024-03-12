@@ -16,56 +16,12 @@ document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' 
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("072期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("073期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("069期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡08</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:地肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("068期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鸡20</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:家禽</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("067期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>羊34</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:美肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("066期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猪42</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）继有人</font><font color=\'#0000FF\' size=\'5\'>-解:后肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("065期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛04</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）千世界</font><font color=\'#0000FF\' size=\'5\'>-解:大肖</font></b></font></table>");
-
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）功尽弃</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
 
 
 document.writeln("	");

@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("071期：平特【鼠羊拖虎龙】开？00<br>");
+document.writeln("072期：平特【虎蛇拖龙羊】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("071期：平特【<span style=\'background-color: #FFFF00\'>鼠</span>羊拖<span style=\'background-color: #FFFF00\'>虎</span>龙】开29.03<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
@@ -43,36 +47,6 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("064期：平特【<span style=\'background-color: #FFFF00\'>鼠</span>猴拖<span style=\'background-color: #FFFF00\'>蛇兔</span>】开05.36.02<br>");
 document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("062期：平特【<span style=\'background-color: #FFFF00\'>狗</span>鼠拖牛<span style=\'background-color: #FFFF00\'>虎</span>】开43.15.03<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("060期：平特【<span style=\'background-color: #FFFF00\'>虎</span>鼠拖羊<span style=\'background-color: #FFFF00\'>狗</span>】开27.43.31<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("059期：平特【<span style=\'background-color: #FFFF00\'>猪羊</span>拖蛇兔】开30.46<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("058期：平特【<span style=\'background-color: #FFFF00\'>牛龙</span>拖鼠羊】开28.40.13.25.49<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("057期：平特【虎<span style=\'background-color: #FFFF00\'>羊</span>拖<span style=\'background-color: #FFFF00\'>鸡</span>蛇】开46.332<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("056期：平特【狗<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>马</span>虎】开12.23<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("055期：平特【猴兔拖<span style=\'background-color: #FFFF00\'>蛇狗</span>】开48.31<br>");
-document.writeln("------<br>");
-
 
 
 

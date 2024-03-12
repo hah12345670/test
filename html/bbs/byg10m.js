@@ -1,6 +1,6 @@
 ﻿document.writeln("");
 document.writeln("<div style=\"display:none\">");
-document.writeln("</div>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -38,7 +38,7 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 15pt\'><b>");
-document.writeln("071期<font color=\'#008000\'>【猪龙马】</font>开<font color=\'#FF0000\'>？00</font>准</b></font></td></tr>");
+document.writeln("072期<font color=\'#008000\'>【猪龙马】</font>开<font color=\'#FF0000\'>？00</font>准</b></font></td></tr>");
 document.writeln("	</table>");
 document.writeln("		<!--结束-->");
 document.writeln("				<!--开始-->");
@@ -121,7 +121,7 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td height=\'44\'>");
-document.writeln("<p align=\"center\"><span style=\"font-size: 14pt\">071期<img src=\'https://gfftggh.www69857c.com:8443/images/58.gif\'>家野<font color=\'#FF0000\'>【羊鸡牛】</font>开<font color=\'#FF0000\'>？00</font>准</span></td>");
+document.writeln("<p align=\"center\"><span style=\"font-size: 14pt\">072期<img src=\'https://gfftggh.www69857c.com:8443/images/58.gif\'>家野<font color=\'#FF0000\'>【羊鸡牛】</font>开<font color=\'#FF0000\'>？00</font>准</span></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("<!--结束-->  ");
@@ -180,5 +180,5 @@ document.writeln("		<font color=\"#FF00FF\">这里从不推假料</font></span><
 document.writeln("    </tr>   </table>     ");
 document.writeln("    <!--结束-->  ");
 document.writeln("    ");
-document.writeln("    ");
+document.writeln("</div>");
 document.writeln("    ");

@@ -20,14 +20,21 @@ document.writeln("    </tr>");
 document.writeln("");
 
 document.writeln("");
-
+document.writeln("          <!--开始-->");
+document.writeln("");
+document.writeln("	<tr>"); 
+document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>073期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(识二五而不知十)(牛鬼蛇神)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("    </tr>    ");
+document.writeln("    <!--结束-->");
 document.writeln("");
 document.writeln("          <!--开始-->");
 document.writeln("");
 document.writeln("	<tr>"); 
 document.writeln("      <td align=\'left\' height=45 bgcolor=\'#FFFFFF\' ><p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>072期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(木土水中红中奖)(呆若木鸡)</font><font style=\'font-size: 12pt; font-weight:700\'>开特00平00</font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt; font-weight:700\'>072期</font><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>(木土水中红中奖)(呆若木鸡)</font><font style=\'font-size: 12pt; font-weight:700\'>开特19平44</font></font></td>");
 document.writeln("    </tr>    ");
 document.writeln("    <!--结束-->");
 document.writeln("          <!--开始-->");

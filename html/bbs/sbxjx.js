@@ -19,10 +19,10 @@ document.writeln("		<table style=border-collapse:collapse border=1 width=100% bg
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><a href=\'https://hgjgfgg.www552257b.com:8443/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
-document.writeln("	<span style=\"font-size: 13pt\">072期今期蛇猪猴出特，心水玄机六与七<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		</span>		");
-document.writeln("	<font face=\'楷体\'><span style=\"font-size: 14pt\">①杀牛鼠狗</span><font color=\'#008000\'><BR>");
-document.writeln("<span style=\'font-size: 14pt\'>②图解特肖蛇猪猴龙马</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
-document.writeln("	③绿波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	<span style=\"font-size: 13pt\">073期今期马鸡兔出特，知难而上好事来<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		</span>		");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 14pt\">①杀鼠猪虎</span><font color=\'#008000\'><BR>");
+document.writeln("<span style=\'font-size: 14pt\'>②图解特肖马鸡兔龙牛</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③绿波+红波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");
 document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'31\'><tbody><tr>");

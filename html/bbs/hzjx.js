@@ -16,6 +16,25 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>民间彩友</font><font color=\'#FFFFFF\'>『解红字肖』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>073期红字暗码【平心静气】【05 12 27 44】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：心情平和，态度冷静</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：虎马牛龙羊猴蛇<br>");
+document.writeln("主特14码：15.39.23.35.16.40.25.49.10.22.21.33.24.36");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
+
+
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
@@ -23,8 +42,8 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>072期红字暗码【好逸恶劳】【01 22 30 41】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：逸：安逸；恶：讨厌、憎恨。贪图安逸，厌恶劳动</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：狗兔蛇龙鼠马鸡<br>");
-document.writeln("主特14码：07.19.14.38.12.36.13.49.17.41.23.35.20.32");
+document.writeln("解取特肖：<span style=\'background-color: #FFFF00\'>狗</span>兔蛇龙鼠马鸡<br>");
+document.writeln("主特14码：07.<span style=\'background-color: #FFFF00\'>19</span>.14.38.12.36.13.49.17.41.23.35.20.32");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
 document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");

@@ -19,11 +19,11 @@ document.writeln("");
 
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/73/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");7
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/75/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");7
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/72/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.zaojiao365.net:4949/col/74/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

@@ -15,7 +15,12 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("073期：平码【01.42.20.29.13.26.16.36.02.49.08.34】<br>");
+document.writeln("075期：平码【31.46.48.12.07.06.18.35.49.41.30.32】<br>");
+
+document.writeln("");
+document.writeln("074期：平码【<span style=\'background-color: #FFFF00\'>31</span>.47.17.37.04.29.28.01.25.<span style=\'background-color: #FFFF00\'>19</span>.08.41】<br>");
+
+document.writeln("073期：平码【01.42.20.29.<span style=\'background-color: #FFFF00\'>13.26</span>.16.36.02.49.08.<span style=\'background-color: #FFFF00\'>34</span>】<br>");
 
 document.writeln("072期：平码【04.29.01.<span style=\'background-color: #FFFF00\'>45.49.27</span>.48.33.32.42.37.18】<br>");
 

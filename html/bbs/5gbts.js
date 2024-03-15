@@ -41,7 +41,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>073期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>075期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -49,7 +49,27 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font style=\'font-size: 16pt\'>");
-document.writeln("		（4头双4头单0头单1头双3头单）</font></b></td>");
+document.writeln("		（0头双3头双4头单1头双3头单）</font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
+
+
+
+document.writeln(" <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'隶书\'>");
+document.writeln("		<b>");
+document.writeln("		<font style=\'font-size: 14pt\'>074期</font><font color=\'#FF00FF\' face=\'微软雅黑\'>【五个半头数】</font><font face=\'隶书\'>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
+document.writeln("    </tr>  ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'隶书\'>");
+document.writeln("		<b>");
+document.writeln("		<font style=\'font-size: 16pt\'>");
+document.writeln("		（4头双3头双0头单<span style=\'background-color: #FFFF00\'>1头双</span>3头单）</font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 

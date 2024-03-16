@@ -186,7 +186,7 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
 document.writeln("		073期（绿肖）√<br>			"); 
-document.writeln("		074期（红肖）×br>			");  
+document.writeln("		074期（红肖）×<br>			");  
 document.writeln("		075期（蓝肖）×<br>			");   
 document.writeln("		076期（绿肖）√<br>			");       
 document.writeln("");

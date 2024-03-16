@@ -64,9 +64,9 @@ document.writeln("071期:双波中特<font color=\"#cc0000\">《绿<span style=\
 document.writeln("072期:双波中特<font color=\"#cc0000\">《<span style=\"background-color: #FFFF00\">红</span>蓝》</font><font color=\"#ff3399\">开:狗19准</font><br>");
 document.writeln("073期:双波中特<font color=\"#cc0000\">《<span style=\"background-color: #FFFF00\">红</span>绿》</font><font color=\"#ff3399\">开:羊34准</font><br>");
 document.writeln("074期:双波中特<font color=\"#cc0000\">《蓝<span style=\"background-color: #FFFF00\">绿</span>》</font><font color=\"#ff3399\">开:牛16准</font><br>");
-document.writeln("075期:双波中特<font color=\"#cc0000\">《红<span style=\'background-color: #FFFF00\'>绿</span>》</font><font color=\"#ff3399\">开:牛16准</font></td></tr>");
-document.writeln("076期:双波中特<font color=\"#cc0000\">《红蓝》</font><font color=\"#ff3399\">开:？00准</font></td></tr>");
-document.writeln("	</table>");
+document.writeln("075期:双波中特<font color=\"#cc0000\">《红<span style=\'background-color: #FFFF00\'>绿</span>》</font><font color=\"#ff3399\">开:牛16准</font><br>");
+document.writeln("076期:双波中特<font color=\"#cc0000\">《红蓝》</font><font color=\"#ff3399\">开:？00准</font><br>");
+document.writeln("	</td></tr></table>");
 document.writeln("		<!--结束-->");
 document.writeln("				");
 document.writeln("");

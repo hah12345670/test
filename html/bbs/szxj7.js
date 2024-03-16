@@ -25,31 +25,18 @@ document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'center\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>075期【四字玄机】</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>076期【四字玄机】</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>四八左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>三九前后</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:蛇猪羊虎龙狗<br>");
+document.writeln("&#10146;&#10146;推荐特肖:兔鸡羊虎龙马<br>");
 document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("24.36.06.30.10.22.15.39.13.49.07.19</font></b></font></div>");
+document.writeln("02.14.20.32.22.34.15.39.13.49.23.35</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'center\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>072期【四字玄机】</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>二八前后</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:猪<span style=\'background-color: #FFFF00\'>狗</span>兔鸡虎猴<br>");
-document.writeln("	</font><font color=\'#FF0000\' size=\"4\">");
-document.writeln("30.42.<span style=\'background-color: #FFFF00\'>19</span>.43.02.14.20.32.15.27.21.33</font></b></font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
+
 
 
 

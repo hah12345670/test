@@ -33,8 +33,7 @@ document.writeln("		<font color=\"#FF00FF\">今日推荐【宁远兄弟】(三�
 document.writeln("    </tr>  ");
 document.writeln("    ");
 document.writeln("   <!--结束--> ");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
@@ -43,9 +42,20 @@ document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<p align=\"center\"><b>");
 document.writeln("			<font style=\'font-size: 15pt\'>");
 document.writeln("");
+
+
+document.writeln("");
+document.writeln("");
 document.writeln("<!--[IMPORT]-->																																		");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <b><span style=\"font-size: 14pt\">074期:【长期发表三肖四码】开？00准<br>");
+document.writeln(" <b><span style=\"font-size: 14pt\">075期:【长期发表三肖四码】开？00准<br>");
+document.writeln("	</span>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（兔狗牛+05.17.20.44）</span></font></b></p>  ");
+document.writeln("");
+document.writeln("<!--[IMPORT]-->																																		");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
+document.writeln(" <b><span style=\"font-size: 14pt\">074期:【长期发表三肖四码】开牛16错<br>");
 document.writeln("	</span>");
 document.writeln("<font color=\"#FF0000\">");
 document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（马狗兔+10.22.34.46）</span></font></b></p>  ");

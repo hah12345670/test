@@ -23,6 +23,20 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>075期另版挂牌</font><font size=\'4\' color=\'#008000\'>【人中豪杰】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	</font><font color=\'#000000\'>");
+document.writeln("◎生肖属性：戊寅日；五行属性：土；地支六冲：虎日冲猴，克蛇，破蛇，无羊；六合：猪；三合：马狗。空亡肖：虎马。</p>");
+document.writeln("	</font>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠兔牛蛇猪猴狗龙马<br>");
+document.writeln("	</p>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：17.29.14.38.28.40.12.36.30.42.21.33.19.43.13.49.11.23</font></font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   <!--结束-->");
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -33,9 +47,9 @@ document.writeln("	<p><font color=\'#0033CC\'>074期另版挂牌</font><font siz
 document.writeln("	</font><font color=\'#000000\'>");
 document.writeln("◎生肖属性：丁丑日；五行属性：木；地支六冲：牛日冲羊，克狗，破马，无龙；六合：鼠；三合：蛇鸡。空亡肖：牛羊</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：狗兔虎羊鼠猴鸡牛蛇<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：狗兔虎羊鼠猴鸡<span style=\'background-color: #FFFF00\'>牛</span>蛇<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：07.19.14.38.15.39.10.22.29.41.21.33.08.20.16.40.12.36</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：07.19.14.38.15.39.10.22.29.41.21.33.08.20.<span style=\'background-color: #FFFF00\'>16</span>.40.12.36</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 

@@ -35,18 +35,17 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>074期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("西环路车水马龙，一位香女开路虎");
+document.writeln("			<font style=\'font-size: 13pt\'>075期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("龙争虎斗争地头，马到成功家业大");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：明肖马龙虎，西环路解西肖猴鸡狗，车水解水肖鼠猪，香女解女肖蛇鸡猪兔羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙虎马，争地头解地肖鼠蛇鸡狗羊虎，家业大解家肖牛马狗鸡猪羊。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡狗马龙虎鼠猪<br>");
-document.writeln("			四肖：鸡狗马龙<br>");
-document.writeln("			特码：08.20.19.31.11.23.13.49</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎马鼠蛇鸡狗羊<br>");
+document.writeln("			四肖：虎马鼠蛇<br>");
+document.writeln("			特码：15.27.11.23.05.41.12.36.08.20.31.43.22.34</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-
 
 
 document.writeln("");

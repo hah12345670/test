@@ -19,13 +19,12 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.manolotron.com:49/\' 
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	075期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>27-36-28-32-38</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	076期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>34.11.23.18.13</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+
 
 
 

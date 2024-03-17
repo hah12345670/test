@@ -19,56 +19,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("076期<font color=\'#FF00FF\'>（蛇马羊+5498尾）</font>开？00</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("074期<font color=\'#FF00FF\'>（羊马虎+0<span style=\'background-color: #FFFF00\'>6</span>54尾）</font>开牛16</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("072期<font color=\'#FF00FF\'>（马鸡<span style=\'background-color: #FFFF00\'>狗</span>+7621尾）</font>开狗19</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("071期<font color=\'#FF00FF\'>（龙狗兔+924<span style=\'background-color: #FFFF00\'>3</span>尾）</font>开虎03</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("068期<font color=\'#FF00FF\'>（龙<span style=\'background-color: #FFFF00\'>鸡</span>狗+9587尾）</font>开鸡20</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("066期<font color=\'#FF00FF\'>（蛇狗羊+765<span style=\'background-color: #FFFF00\'>2</span>尾）</font>开猪42</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("065期<font color=\'#FF00FF\'>（马<span style=\'background-color: #FFFF00\'>牛</span>兔+5472尾）</font>开牛04</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("063期<font color=\'#FF00FF\'>（蛇兔鼠+739<span style=\'background-color: #FFFF00\'>1</span>尾）</font>开狗31</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("062期<font color=\'#FF00FF\'>（<span style=\'background-color: #FFFF00\'>龙</span>蛇鸡+73<span style=\'background-color: #FFFF00\'>9</span>1尾）</font>开龙49</font></b></font></table>");
+document.writeln("077期<font color=\'#FF00FF\'>（兔蛇牛+5193尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

@@ -20,10 +20,11 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700/\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1700.CC</font></span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("076期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>0-3-8-9-6-1</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("077期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>9-5-4-2-7-0</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");
@@ -32,77 +33,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("075期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>5-4-1-<span style=\'background-color: #FFFF00\'>9-3-8</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("072期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>0-4-3</span>-1-<span style=\'background-color: #FFFF00\'>9-5</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>5</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("071期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>2-4</span>-0-1-<span style=\'background-color: #FFFF00\'>3-9</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("069期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>2-<span style=\'background-color: #FFFF00\'>3-7</span>-6-4-<span style=\'background-color: #FFFF00\'>9</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("066期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>0-<span style=\'background-color: #FFFF00\'>6-4</span>-2-9-<span style=\'background-color: #FFFF00\'>7</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("064期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>6-7-2</span>-9-3-<span style=\'background-color: #FFFF00\'>5</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("063期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>8-2-1-5-6</span>-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>5</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("062期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>7-5</span>-2-1-<span style=\'background-color: #FFFF00\'>3</span>-8</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>3</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("061期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>4</span>-8-0-<span style=\'background-color: #FFFF00\'>5-3-6-7</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>5</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("060期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>1-7</span>-2-9-<span style=\'background-color: #FFFF00\'>8-3</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("058期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>9-8-5-3-1</span>-2</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>5</span>个</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 

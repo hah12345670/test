@@ -15,7 +15,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("076期：平码【23.28.35.49.44.26.42.46.38.45.24.47】<br>");
+document.writeln("");
+document.writeln("077期：平码【21.46.31.35.20.13.34.33.22.32.23.17】<br>");
+
+document.writeln("076期：平码【<span style=\'background-color: #FFFF00\'>23</span>.28.35.49.<span style=\'background-color: #FFFF00\'>44</span>.26.42.46.38.45.24.47】<br>");
 
 document.writeln("");
 document.writeln("074期：平码【<span style=\'background-color: #FFFF00\'>31</span>.47.17.37.04.29.28.01.25.<span style=\'background-color: #FFFF00\'>19</span>.08.41】<br>");

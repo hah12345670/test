@@ -45,28 +45,12 @@ document.writeln("");
 
 
 
-document.writeln("055期【蛇兔猪羊<span style=\'background-color: #FFFF00\'>狗</span>鸡虎牛马龙】√<br>		");
-document.writeln("056期【龙蛇猪虎牛鼠羊兔猴<span style=\'background-color: #FFFF00\'>马</span>】√<br>		");
-document.writeln("057期【蛇猴牛狗猪兔鸡龙<span style=\'background-color: #FFFF00\'>羊</span>鼠】√<br>		");
-document.writeln("058期【<span style=\'background-color: #FFFF00\'>马</span>兔狗牛羊猪龙鸡鼠猴】√<br>		");
-document.writeln("059期【兔马<span style=\'background-color: #FFFF00\'>猪</span>羊虎蛇牛狗鼠龙】√<br>		");
-document.writeln("060期【蛇猪<span style=\'background-color: #FFFF00\'>鸡</span>兔猴狗鼠牛龙羊】√<br>		");
-document.writeln("061期【虎马兔龙<span style=\'background-color: #FFFF00\'>猴</span>羊鸡猪牛鼠】√<br>		");
-document.writeln("062期【牛虎<span style=\'background-color: #FFFF00\'>龙</span>猪兔狗羊鼠蛇鸡】√<br>		");
-document.writeln("063期【鼠猴羊龙<span style=\'background-color: #FFFF00\'>狗</span>蛇牛马兔鸡】√<br>		");
-document.writeln("064期【狗鸡<span style=\'background-color: #FFFF00\'>羊</span>猪龙兔牛蛇虎马】√<br>		");
-document.writeln("065期【鼠鸡马羊蛇虎狗猴<span style=\'background-color: #FFFF00\'>牛</span>兔】√<br>		");
-document.writeln("066期【<span style=\'background-color: #FFFF00\'>猪</span>鸡龙鼠蛇狗兔马羊猴】√<br>		");
-document.writeln("067期【兔猴狗牛猪马<span style=\'background-color: #FFFF00\'>羊</span>鸡虎龙】√<br>		");
-document.writeln("068期【鼠虎牛羊马龙蛇狗<span style=\'background-color: #FFFF00\'>鸡</span>猴】√<br>		");
-document.writeln("069期【猪狗鼠羊<span style=\'background-color: #FFFF00\'>鸡</span>牛马蛇虎兔】√<br>		");
-document.writeln("070期【羊<span style=\'background-color: #FFFF00\'>猪</span>鼠牛虎兔鸡蛇马猴】√<br>		");
-document.writeln("071期【鸡猪蛇猴狗马鼠龙羊兔】×<br>		");
 document.writeln("072期【猴蛇兔鼠羊虎<span style=\'background-color: #FFFF00\'>狗</span>马猪牛】√<br>		");
 document.writeln("073期【蛇龙鼠兔牛马狗鸡猴<span style=\'background-color: #FFFF00\'>羊</span>】√<br>		");
 document.writeln("074期【龙羊猪马兔蛇<span style=\'background-color: #FFFF00\'>牛</span>鸡鼠猴】√<br>		");
 document.writeln("075期【狗鸡兔马猪羊蛇<span style=\'background-color: #FFFF00\'>牛</span>鼠虎】√<br>		");
-document.writeln("076期【猪鸡兔牛狗猴马羊虎蛇】√<br>		");
+document.writeln("076期【猪鸡兔牛狗猴马羊虎蛇】×<br>		");
+document.writeln("077期【猪狗猴牛龙虎马蛇鼠兔】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -91,8 +75,8 @@ document.writeln("");
 document.writeln("	073期【10<span style=\'background-color: #FFFF00\'>3</span>4头】√<br>		");
 document.writeln("	074期【32<span style=\'background-color: #FFFF00\'>1</span>4头】√<br>		");
 document.writeln("	075期【<span style=\'background-color: #FFFF00\'>1</span>204头】√<br>		");
-document.writeln("	076期【1320头】√<br>		");
-
+document.writeln("	076期【<span style=\'background-color: #FFFF00\'>1</span>320头】√<br>		");
+document.writeln("	077期【4201头】√<br>		");
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -120,8 +104,8 @@ document.writeln("072期【<span style=\'background-color: #FFFF00\'>土</span>�
 document.writeln("073期【金<span style=\'background-color: #FFFF00\'>土</span>木水】√<br>			");
 document.writeln("074期【水<span style=\'background-color: #FFFF00\'>火</span>木金】√<br>			");
 document.writeln("075期【土水金<span style=\'background-color: #FFFF00\'>火</span>】√<br>			");
-document.writeln("076期【水金土火】√<br>			");
-
+document.writeln("076期【水金土<span style=\'background-color: #FFFF00\'>火</span>】√<br>			");
+document.writeln("077期【金木火水】√<br>			");
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -141,8 +125,8 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("  076期【09813472】√<br>	");
-
+document.writeln("  076期【098134<span style=\'background-color: #FFFF00\'>7</span>2】√<br>	");
+document.writeln("  077期【28931476】√<br>	");
 
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
@@ -165,7 +149,8 @@ document.writeln("072期【蓝波<span style=\'background-color: #FFFF00\'>红�
 document.writeln("073期【蓝波绿波】×<br>  	");
 document.writeln("074期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
 document.writeln("075期【蓝波红波】×<br>  	");
-document.writeln("076期【绿波蓝波】√<br>  	");
+document.writeln("076期【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】√<br>  	");
+document.writeln("077期【蓝波红波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

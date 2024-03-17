@@ -27,7 +27,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>076期：</font>【<font color=\'#008000\'>双笔+马蛇</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>077期：</font>【<font color=\'#008000\'>单笔+狗牛</font>】开？00√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -72,29 +72,6 @@ document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#0000FF\'>069期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+虎猴</font>】开鸡08√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>066期：</font>【<font color=\'#008000\'>双笔+鼠<span style=\'background-color: #FFFF00\'>猪</span></font>】开猪42√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>065期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+蛇鸡</font>】开牛04√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>064期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+鸡猪</font>】开羊46√</font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 

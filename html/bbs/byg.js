@@ -65,7 +65,10 @@ document.writeln("                   <font color=\'#0000FF\'>（074期）</font>
 document.writeln("		特肖【羊猴猪鼠<span style=\'background-color: #FFFF00\'>牛</span>龙】<br> 	<br>	");
 
 document.writeln("                   <font color=\'#0000FF\'>（076期）</font><Br>");
-document.writeln("		特肖【狗鸡虎鼠猴马】<br> 	<br>	");
+document.writeln("		特肖【狗鸡虎<span style=\'background-color: #FFFF00\'>鼠</span>猴马】<br> 	<br>	");
+
+document.writeln("                   <font color=\'#0000FF\'>（077期）</font><Br>");
+document.writeln("		特肖【马鼠猴猪牛鸡】<br> 	<br>	");
 
 document.writeln("		</font>	");
 document.writeln("");
@@ -116,9 +119,8 @@ document.writeln("		072期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		073期必中平特【<span style=\'background-color: #FFFF00\'>狗+羊</span>】√<br>	");
 document.writeln("		074期必中平特【虎+<span style=\'background-color: #FFFF00\'>狗</span>】√<br>	");
 
-document.writeln("		076期必中平特【龙+猪】√<br>	");
-
-
+document.writeln("		076期必中平特【龙+<span style=\'background-color: #FFFF00\'>猪</span>】√<br>	");
+document.writeln("		077期必中平特【马+羊】√<br>	");
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
 document.writeln("			<br>");
@@ -140,7 +142,7 @@ document.writeln("");
 
 
 
-document.writeln("		076期杀【07.23.17.12.44.33.38】√<br>");
+document.writeln("		076期杀【06.07.35.41.08.31.34】√<br>");
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -184,11 +186,8 @@ document.writeln("            ");
 document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
-
-document.writeln("		073期（绿肖）√<br>			"); 
-document.writeln("		074期（红肖）×<br>			");  
-document.writeln("		075期（蓝肖）×<br>			");   
-document.writeln("		076期（绿肖）√<br>			");       
+    
+document.writeln("		077期（红肖）√<br>			");  
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -205,7 +204,8 @@ document.writeln("		072期【<span style=\'background-color: #FFFF00\'>9</span>5
 document.writeln("		073期【91<span style=\'background-color: #FFFF00\'>4</span>7尾】√<br>				");
 document.writeln("		074期【574<span style=\'background-color: #FFFF00\'>6</span>尾】√<br>				");
 document.writeln("		075期【0912尾】×<br>				");
-document.writeln("		076期【4961尾】√<br>				");
+document.writeln("		076期【4961尾】×<br>				");
+document.writeln("		077期【0615尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -230,7 +230,8 @@ document.writeln("		072期（4.<span style=\'background-color: #FFFF00\'>1</span
 document.writeln("		073期（<span style=\'background-color: #FFFF00\'>3</span>.2头）√<br>	");
 document.writeln("		074期（0.3头）×<br>	");
 document.writeln("		075期（0.<span style=\'background-color: #FFFF00\'>1</span>头）√<br>	");
-document.writeln("		076期（1.4头）√<br>	");
+document.writeln("		076期（<span style=\'background-color: #FFFF00\'>1</span>.4头）√<br>	");
+document.writeln("		077期（1.3头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -251,6 +252,7 @@ document.writeln("		073期绿波+<span style=\'background-color: #FFFF00\'>红�
 document.writeln("		074期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>	");
 document.writeln("		075期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝单<br>	");
 document.writeln("		076期红波+蓝双<br>	");
+document.writeln("		077期蓝波+绿单<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b>	");
@@ -290,6 +292,7 @@ document.writeln("		073期杀猴狗√<br>");
 document.writeln("		074期杀虎马√<br>");
 document.writeln("		075期杀猴鼠√<br>");
 document.writeln("		076期杀马狗√<br>");
+document.writeln("		077期杀兔虎√<br>");
 document.writeln("		");
 document.writeln("			 ");
 document.writeln(" <span style=\'font-size: 14pt\'>");
@@ -302,6 +305,7 @@ document.writeln("		073期杀绿双√<br>");
 document.writeln("		074期杀蓝单√<br>");
 document.writeln("		075期杀红双√<br>");
 document.writeln("		076期杀红单√<br>");
+document.writeln("		077期杀红双√<br>");
 
 
 document.writeln("						");
@@ -333,7 +337,7 @@ document.writeln("		073期杀4头单√<br>	");
 document.writeln("		074期杀0头单√<br>	");
 document.writeln("		075期杀4头双√<br>	");
 document.writeln("		076期杀0头单√<br>	");
-
+document.writeln("		077期杀3头双√<br>	");
 
 document.writeln("						");
 document.writeln("		</font><br>		");
@@ -342,33 +346,7 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左耳】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("");
 
-document.writeln("		049期杀4.7尾√<br>");
-document.writeln("		050期杀5.8尾√<br>");
-document.writeln("		051期杀9.5尾√<br>");
-document.writeln("		052期杀6.4尾√<br>");
-document.writeln("		053期杀4.9尾√<br>");
-document.writeln("		054期杀5.7尾√<br>");
-document.writeln("		055期杀6.5尾√<br>");
-document.writeln("		057期杀7.9尾√<br>");
-document.writeln("		058期杀6.5尾√<br>");
-document.writeln("		059期杀7.4尾√<br>");
-document.writeln("		060期杀3.5尾√<br>");
-document.writeln("		061期杀2.6尾√<br>");
-document.writeln("		062期杀3.2尾√<br>");
-document.writeln("		063期杀9.2尾√<br>");
-document.writeln("		064期杀2.1尾√<br>");
-document.writeln("		065期杀6.5尾√<br>");
-document.writeln("		066期杀4.7尾√<br>");
-document.writeln("		067期杀8.7尾√<br>");
-document.writeln("		068期杀9.6尾√<br>");
-document.writeln("		069期杀3.2尾√<br>");
-document.writeln("		070期杀4.9尾√<br>");
-document.writeln("		071期杀7.9尾√<br>");
-document.writeln("		072期杀5.0尾√<br>");
-document.writeln("		073期杀7.0尾√<br>");
-document.writeln("		074期杀5.1尾√<br>");
-document.writeln("		075期杀3.5尾√<br>");
-document.writeln("		076期杀7.5尾√<br>");
+document.writeln("		077期杀5.9尾√<br>");
 document.writeln("		");
 document.writeln("");
 document.writeln("			    ");

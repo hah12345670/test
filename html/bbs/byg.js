@@ -142,7 +142,7 @@ document.writeln("");
 
 
 
-document.writeln("		076期杀【06.07.35.41.08.31.34】√<br>");
+document.writeln("		077期杀【06.07.35.41.08.31.34】√<br>");
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");

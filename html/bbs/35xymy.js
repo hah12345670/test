@@ -31,6 +31,26 @@ document.writeln("			特码：更新中</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>077期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("出二入八迎零七，两支曲刀头上拼");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八解二虎兔，八鸡猴，零七解七狗马，曲刀解带刀肖龙虎蛇兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：狗马鸡龙虎蛇兔<br>");
+document.writeln("			四肖：狗马鸡龙<br>");
+document.writeln("			特码：19.31.23.35.08.20.13.25.15.27.12.36.13.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -40,9 +60,9 @@ document.writeln("秋菊花开胜蓝天，夜色嫉妒红花香");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：胜蓝天解天肖龙猪兔牛猴马，夜色解夜肖鼠牛虎鸡狗猪</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：猪兔牛猴马鼠虎<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猪兔牛猴马<span style=\'background-color: #FFFF00\'>鼠</span>虎<br>");
 document.writeln("			四肖：猪兔牛猴<br>");
-document.writeln("			特码：17.41.02.14.28.40.21.33.23.47.17.41.03.39</font></b></td>");
+document.writeln("			特码：17.41.02.14.28.40.21.33.23.47.<span style=\'background-color: #FFFF00\'>17</span>.41.03.39</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

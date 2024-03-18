@@ -42,7 +42,7 @@ document.writeln("      <td height=39 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
 document.writeln("		<font face=\'隶书\' size=\'4\'>");
-document.writeln("		077期</font><font color=\'#008000\' size=\'5\' face=\'隶书\'>【蛇猴羊龙】</font><font face=\'隶书\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("		077期</font><font color=\'#008000\' size=\'5\' face=\'隶书\'>【猪鸡狗兔】</font><font face=\'隶书\' size=\'4\'>开？00准</font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("");
 document.writeln("    <!--开始-->");

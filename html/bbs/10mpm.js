@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("077期：平码【21.46.31.35.20.13.34.33.22.32.23.17】<br>");
+document.writeln("078期：平码【17.32.22.45.47.25.44.43.31.33.48.41】<br>");
 
 document.writeln("076期：平码【<span style=\'background-color: #FFFF00\'>23</span>.28.35.49.<span style=\'background-color: #FFFF00\'>44</span>.26.42.46.38.45.24.47】<br>");
 

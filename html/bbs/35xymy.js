@@ -34,6 +34,23 @@ document.writeln("<!--头部start-->");
 
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>078期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天外红霞如仙境，月落玉绿霜两重");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天外红霞解天肖兔龙猴牛猪马，红霞解红肖鼠兔马鸡，玉绿解绿肖牛狗龙羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙猴牛猪马鼠鸡<br>");
+document.writeln("			四肖：龙猴牛猪<br>");
+document.writeln("			特码：13.49.09.21.28.40.30.42.11.23.17.41.20.32</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -43,8 +60,8 @@ document.writeln("出二入八迎零七，两支曲刀头上拼");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八解二虎兔，八鸡猴，零七解七狗马，曲刀解带刀肖龙虎蛇兔</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：狗马鸡龙虎蛇兔<br>");
-document.writeln("			四肖：狗马鸡龙<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：狗马<span style=\'background-color: #FFFF00\'>鸡</span>龙虎蛇兔<br>");
+document.writeln("			四肖：狗马<span style=\'background-color: #FFFF00\'>鸡</span>龙<br>");
 document.writeln("			特码：19.31.23.35.08.20.13.25.15.27.12.36.13.49</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

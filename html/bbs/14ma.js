@@ -24,17 +24,27 @@ document.writeln("   <!--https://diyidiyi.www62109b.com:8443/6dgsb/mj04.html   h
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><font face=\"微软雅黑\">");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("                  ");
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">077期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【41.32.36.24.35.10.01.46.17.40.02.27.34.18】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">078期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【07.16.17.30.39.24.28.01.48.43.25.38.13.32】</span></font></p>  	");
 document.writeln("			");
 document.writeln("");
-
+document.writeln("");
+document.writeln("");
+document.writeln("                  ");
+document.writeln(" 		<b>");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">077期:==14码中特==开鸡32准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【41.</span><span style=\"background-color: #FFFF00\"><font size=\"5\">32</font></span><span style=\"font-size: 13pt\">.36.24.35.10.01.46.17.40.02.27.34.18】</span></font></p>  	");
+document.writeln("			");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

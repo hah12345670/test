@@ -34,6 +34,22 @@ document.writeln("<!--头部start-->");
 
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>079期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("却有八戒来相助，二三两数反复来");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：八戒解取经肖龙马猴猪虎，二三解二兔虎，三牛虎，23解马</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猪虎牛龙马猴兔<br>");
+document.writeln("			四肖：猪虎牛龙<br>");
+document.writeln("			特码：18.30.15.39.28.40.01.13.23.35.09.21.14.38</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -44,7 +60,7 @@ document.writeln("天外红霞如仙境，月落玉绿霜两重");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：天外红霞解天肖兔龙猴牛猪马，红霞解红肖鼠兔马鸡，玉绿解绿肖牛狗龙羊</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙猴牛猪马鼠鸡<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙猴牛猪马<span style=\'background-color: #FFFF00\'>鼠</span>鸡<br>");
 document.writeln("			四肖：龙猴牛猪<br>");
 document.writeln("			特码：13.49.09.21.28.40.30.42.11.23.17.41.20.32</font></b></td>");
 document.writeln("		</tr>	");

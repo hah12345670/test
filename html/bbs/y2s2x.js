@@ -9,9 +9,15 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
+document.writeln("079期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【猴猪】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("肖00准</font></span></strong></span></p></td></tr>");
+
+document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("078期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【羊龙】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("肖00准</font></span></strong></span></p></td></tr>");
+document.writeln("鼠05准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:15pt\'><span style=\'color:#00f\'>");
 document.writeln("077期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二肖</span>【虎牛】<span style=\'color:#960\'>开</span></span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");

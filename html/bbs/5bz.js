@@ -22,6 +22,12 @@ document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>080期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>33.04.15.13.32</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<!--结束-->");
+
+document.writeln("				<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>079期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>18.26.11.08.13</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->");
 

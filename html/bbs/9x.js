@@ -36,9 +36,9 @@ document.writeln("<colgroup span=\'1\' width=\'22%\' />");
 document.writeln(" <!--开始start-->");
 document.writeln("");
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>079期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>080期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("虎牛羊蛇猪狗龙马兔</span></td><td>");
+document.writeln("虎鼠马蛇猴兔龙猪羊</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 
 document.writeln("");

@@ -17,7 +17,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("079期：平码【47.24.41.32.12.36.16.10.39.23.14.44】<br>");
+document.writeln("080期：平码【44.28.21.26.39.41.17.03.02.34.45.37】<br>");
+
+document.writeln("");
+document.writeln("079期：平码【47.24.41.32.12.36.16.10.39.23.14.<span style=\'background-color: #FFFF00\'>44</span>】<br>");
 
 document.writeln("");
 document.writeln("078期：平码【17.32.22.45.47.25.<span style=\'background-color: #FFFF00\'>44</span>.43.31.33.48.41】<br>");

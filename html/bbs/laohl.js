@@ -51,6 +51,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>080期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>03月20号，二月十一</font><font color=\'#000000\'>，吉日五行:杨柳木; ");
+document.writeln("	羊日冲(丁丑)牛煞西 ,宿名：北方壁水貐</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:小吉,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:牛羊 煞西:猴鸡狗,星宿杀肖：鼠,综合：蛇龙马狗羊鸡虎牛猴 ");
+document.writeln("	本期主攻:蛇龙马狗羊，号码24.36.13.49.11.47.19.43.22.34</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>079期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>03月19号，二月初十</font><font color=\'#000000\'>，吉日五行:杨柳木; ");
@@ -58,7 +71,7 @@ document.writeln("	马日冲(丙子)鼠煞北 ,宿名：北方室火猪</font></
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:大吉,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:鼠马 煞北:鼠猪牛,星宿杀肖：羊,综合：牛马蛇虎猴鸡狗猪鼠 ");
+document.writeln("	预测:大吉,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:鼠马 煞北:鼠猪牛,星宿杀肖：羊,综合：牛马蛇虎猴</font><font color=\"#FFFF00\" size=\"5\"><span style=\"font-weight: 700; background-color: #008000\">鸡</span></font><font style=\"font-size: 13pt\">狗猪鼠 ");
 document.writeln("	本期主攻:牛马蛇虎猴，号码16.40.23.35.12.36.03.39.21.33</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
@@ -85,7 +98,7 @@ document.writeln("	预测:大凶,五行:土行：04.05.18.19.26.27.34.35.48.49�
 document.writeln("	本期主攻:狗虎羊鸡</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">鼠</span></font><font style=\"font-size: 13pt\">，号码19.31.03.15.22.34.08.20.</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">17</span></font><font style=\"font-size: 13pt\">.41</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

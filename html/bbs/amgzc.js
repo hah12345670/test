@@ -51,26 +51,36 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/80/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/81/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第080期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【丧家之狗】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解： 喻指失去了主子，无处投奔的人</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第081期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【顺手牵羊】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解： 指顺手把羊牵走.比喻顺便利用可乘之机施展手法或手腕</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊兔牛狗龙</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猪羊鸡鼠牛蛇</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第079期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第080期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔38中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【丧家之狗】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解： 喻指失去了主子，无处投奔的人</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊<span style=\'background-color: #FFFF00\'>兔</span>牛狗龙</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("</P>");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第079期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鸡44中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【黑白分明】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：黑色与白色对比鲜明。比喻事非界限很清楚。也形容字迹、画面清楚。</font><br>");
 document.writeln("<b>");
@@ -104,14 +114,19 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/80/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
-document.writeln("");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/81/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第080期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第081期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红头绿尾藏特码】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第080期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿38中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【双数特波看蓝绿】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
@@ -154,71 +169,6 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红绿两波出持码】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第070期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿06中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿红生肖牛马壮】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第069期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红08中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【买定红绿有发财】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第067期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红46中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红绿两波出特码】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第064期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红46中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿红生肖牛马壮】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第063期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝31中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红蓝特码有钱拿】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第062期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿49中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【今期红绿得留心】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第061期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿33中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【不是兰绿就是红】</span></font><br>");
-document.writeln("	==========================<br>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第060期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿44中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【今天期红绿得留心】</span></font><br>");
-document.writeln("	==========================<br>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第059期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红30中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【特码红绿最理想】</span></font><br>");
-document.writeln("	==========================<br>");
-
-
 
 
 document.writeln("");

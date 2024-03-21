@@ -17,7 +17,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("080期：平码【44.28.21.26.39.41.17.03.02.34.45.37】<br>");
+document.writeln("");
+document.writeln("081期：平码【44.28.41.01.07.27.08.18.04.48.09.13】<br>");
+
 
 document.writeln("");
 document.writeln("079期：平码【47.24.41.32.12.36.16.10.39.23.14.<span style=\'background-color: #FFFF00\'>44</span>】<br>");

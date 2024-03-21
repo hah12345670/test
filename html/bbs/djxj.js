@@ -26,6 +26,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>081期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一亥一卯长红毛，出尽洋相叫成牛</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖亥猪卯兔洋通羊,牛.一解一位鼠一岁龙肖11解羊狗,红偏看红肖兔鼠马鸡.综合得主猪兔羊牛防鼠蛇狗马鸡</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：猪兔羊牛鼠蛇<br>");
+document.writeln("	特码：18.30.14.26.10.22.04.40.17.29.12.36</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
@@ -33,10 +51,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>走马观花寻佳人，多情绿衫天下计</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：解明肖马。佳人解羊蛇鸡兔。绿解绿肖牛龙羊狗。天偏看解出的天肖马兔牛龙。玄机诗表达的是帝王微服私访觅得佳人，虽然觅得佳人但还是心系天下。综合得主马牛龙兔防羊蛇鸡狗鼠</font></div>");
+document.writeln("解析：解明肖马。佳人解羊蛇鸡兔。绿解绿肖牛龙羊狗。天偏看解出的天肖马兔牛龙。玄机诗表达的是帝王微服私访觅得佳人，虽然觅得佳人但还是心系天下。综合得主马牛龙<span style=\'background-color: #FFFF00\'>兔</span>防羊蛇鸡狗鼠</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：马牛龙兔羊蛇<br>");
+document.writeln("	解特肖：马牛龙<span style=\'background-color: #FFFF00\'>兔</span>羊蛇<br>");
 document.writeln("	特码：11.47.16.40.25.37.14.26.22.46.36.48</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

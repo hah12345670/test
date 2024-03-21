@@ -17,8 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("080期：平特【牛猪拖鼠蛇】开？00<br>");
+document.writeln("081期：平特【虎蛇拖牛鼠】开？00<br>");
 document.writeln("------<br>");
 document.writeln("");
 

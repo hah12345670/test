@@ -34,6 +34,24 @@ document.writeln("<!--头部start-->");
 
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>082期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天下和平家家好，山绿水秀处处春");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天下和平解天肖龙猴牛猪兔马，山绿水秀解山肖羊猴鼠虎兔鸡猪</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猴鼠虎兔鸡猪龙<br>");
+document.writeln("			四肖：猴鼠虎兔<br>");
+document.writeln("			特码：09.21.17.29.15.39.14.38.20.32.18.30.25.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -43,9 +61,9 @@ document.writeln("不妨一试吼四七，雄霸兽坛自称王");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：一试解1鼠兔，四七解四兔牛，七马狗，兽坛解兽肖龙虎蛇兔猴鼠</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎蛇兔猴鼠马<br>");
-document.writeln("			四肖：龙虎蛇兔<br>");
-document.writeln("			特码：01.13.15.39.12.48.02.38.21.33.05.17.23.47</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔猴鼠马<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔<br>");
+document.writeln("			特码：01.<span style=\'background-color: #FFFF00\'>13</span>.15.39.12.48.02.38.21.33.05.17.23.47</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

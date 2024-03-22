@@ -245,7 +245,7 @@ document.writeln("		");
 document.writeln("");
 
 
-document.writeln("		081期（0.2头）√<br>	");
+document.writeln("		082期（3.2头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");

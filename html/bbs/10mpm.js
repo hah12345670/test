@@ -16,9 +16,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("082期：平码【40.21.48.15.36.28.44.49.10.12.11.38】<br>");
+
+
 document.writeln("");
-document.writeln("");
-document.writeln("081期：平码【44.28.41.01.07.27.08.18.04.48.09.13】<br>");
+document.writeln("081期：平码【44.28.41.01.<span style=\'background-color: #FFFF00\'>07</span>.27.08.18.04.48.09.<span style=\'background-color: #FFFF00\'>13</span>】<br>");
 
 
 document.writeln("");

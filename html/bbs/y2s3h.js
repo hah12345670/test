@@ -83,7 +83,13 @@ document.writeln("");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("081期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【03.07.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("龙13准</font></span></strong></span></p></td></tr>");
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("082期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【08.12.05】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
+
+
 document.writeln("</tbody></table>");
 document.writeln("");

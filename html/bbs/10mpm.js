@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("082期：平码【40.21.48.15.36.28.44.49.10.12.11.38】<br>");
+document.writeln("083期：平码【13.24.17.33.05.48.25.27.46.18.09.16】<br>");
 
 
 document.writeln("");

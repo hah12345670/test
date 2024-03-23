@@ -24,12 +24,12 @@ document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>082期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>083期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【扬】</font></b><br>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【付】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：扬，高举，解鸡龙蛇牛猴。<br>⑵解，扬，五行火，解火肖蛇马</font></span><br>");
+document.writeln("⑴：解：付，交给 ，龙猴牛鼠兔狗。<br>⑵解，付，五行水，解水肖鼠猪</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
 document.writeln("本期围特：鸡龙蛇牛猴马<br>");
 document.writeln("主攻特肖：鸡龙蛇牛<br>");

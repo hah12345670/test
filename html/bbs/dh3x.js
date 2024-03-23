@@ -27,36 +27,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>082期</font>【<font color=\'#FF0000\'>合肖:猪蛇狗</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>083期</font>【<font color=\'#FF0000\'>独肖:虎牛兔</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");;
 document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>079期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>合肖</span>:龙蛇猪</font>】开<font color=\'#FF00FF\'>(鸡44)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");;
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>076期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>鼠</span>虎羊</font>】开<font color=\'#FF00FF\'>(鼠17)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");;
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>075期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:鼠虎马</font>】开<font color=\'#FF00FF\'>(牛16)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");;
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>074期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:鼠兔马</font>】开<font color=\'#FF00FF\'>(牛16)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");;
-document.writeln("");
-
 
 
 

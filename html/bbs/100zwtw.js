@@ -12,10 +12,23 @@ document.writeln("<!--说明结束-->");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("086期（二尾拖二尾）<br>");
+document.writeln("【68拖12】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">06.28.31.22】</span>√<br>");
+
+document.writeln("085期（二尾拖二尾）<br>");
+document.writeln("【70拖62】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开17.47.12（中2组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">07.20.26.32】</span>√<br>");
+
+document.writeln("");
+document.writeln("084期（二尾拖二尾）<br>");
+document.writeln("【52拖83】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开15.32.05.25.23.13（中6组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">25.32.08.43】</span>×<br>");
+
 document.writeln("");
 document.writeln("083期（二尾拖二尾）<br>");
-document.writeln("【81拖54】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
-document.writeln("【杀平码<span style=\"background-color: #FFFF00\">08.21.25.34】</span>√<br>");
+document.writeln("【81拖54】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开48.38.35.25（中4组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">08.21.25.34】</span>×<br>");
 
 document.writeln("");
 document.writeln("");
@@ -124,7 +137,7 @@ document.writeln("");
 document.writeln("　</font>");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("  ");

@@ -14,7 +14,7 @@ document.writeln(".bizhong1234 img {width:100%; border-collapse: collapse; font-
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong1234 clearfix\'>");
 document.writeln("    <div class=\'bizhong1234-box action-bz\'>");
-document.writeln("<img src=\'/img/jrqy082.jpg\' id=\'jrqypicx\'>");
+document.writeln("<img src=\'/img/jrqy086.jpg\' id=\'jrqypicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,6 +25,10 @@ document.writeln(" <span class=\'bizhong1234-btn bizhong1234-next\' onclick=\'ne
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+document.writeln("\'/img/jrqy086.jpg\',");
+document.writeln("\'/img/jrqy085.jpg\',");
+document.writeln("\'/img/jrqy084.jpg\',");
+document.writeln("\'/img/jrqy083.jpg\',");
 document.writeln("\'/img/jrqy082.jpg\',");
 document.writeln("\'/img/jrqy081.jpg\',");
 document.writeln("\'/img/jrqy080.jpg\',");

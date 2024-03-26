@@ -17,7 +17,17 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("083期：平特【狗猪拖蛇鼠】开？00<br>");
+document.writeln("");
+document.writeln("086期：平特【狗虎拖马羊】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("084期：平特【狗<span style=\'background-color: #FFFF00\'>虎</span>拖<span style=\'background-color: #FFFF00\'>鸡马</span>】开15.32.23<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("083期：平特【<span style=\'background-color: #FFFF00\'>狗</span>猪拖<span style=\'background-color: #FFFF00\'>蛇</span>鼠】开19.48<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
@@ -99,7 +109,7 @@ document.writeln("");
 document.writeln("<!-----开始----->");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://tz.2388ttz.com:2388/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>2388.CC</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln(" ");

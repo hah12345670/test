@@ -17,8 +17,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("087期：平特【牛猪拖龙鸡】开？00<br>");
+document.writeln("------<br>");
 document.writeln("");
-document.writeln("086期：平特【狗虎拖马羊】开？00<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("086期：平特【<span style=\'background-color: #FFFF00\'>狗</span>虎拖<span style=\'background-color: #FFFF00\'>马羊</span>】开31.11.10<br>");
 document.writeln("------<br>");
 document.writeln("");
 

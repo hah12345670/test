@@ -28,7 +28,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("085-086期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗龙猪羊猴】</font>(000期√)<br>");
+document.writeln("087-088期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马猪牛猴狗龙】</font>(000期√)<br>");
 document.writeln("");
 document.writeln("084-085期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马虎鸡<span style=\'background-color: #FFFF00\'>鼠</span>猴龙】</font>(084期√)<br>");
 document.writeln("");
@@ -59,7 +59,7 @@ document.writeln(" （稳赚特尾3期版）</font><br>");
 document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
-document.writeln("084-086期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【6439尾】</font>(000期√)<br>");
+document.writeln("084-087期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【6439尾】</font>(000期√)<br>");
 
 document.writeln("");
 document.writeln("");

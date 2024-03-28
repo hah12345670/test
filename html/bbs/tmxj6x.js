@@ -23,36 +23,19 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#FF00FF\'>087期特码玄机开？00</font><br> ");
-document.writeln("<span style=\'color: #000\'>特码玄机:人欢聚散一杯酒，南北东西万里程</span><font color=\'#008000\' size=\'3\'><br>");
+document.writeln("<font color=\'#FF00FF\'>088期特码玄机开？00</font><br> ");
+document.writeln("<span style=\'color: #000\'>特码玄机:两岸青山秀色新，人協回春添色彩</span><font color=\'#008000\' size=\'3\'><br>");
 document.writeln("</font><font color=\'#800000\' size=\'4\'> ");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
 document.writeln("");
-document.writeln("玄机解肖：鼠牛龙猴虎蛇<br>玄机解肖：鼠牛龙猴</font></span></p>");
+document.writeln("玄机解肖：猴狗鸡马猪虎<br>玄机解肖：猴狗鸡马</font></span></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'38\'><tbody><tr>");
 document.writeln("			<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggdnd.www29215c.com:8443#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>雷锋规律九肖");
 document.writeln("			【连中134期】点击查看</a></strong></tr></table>");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
 
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#FF00FF\'>085期特码玄机开马35</font><br> ");
-document.writeln("<span style=\'color: #000\'>特码玄机:龙欢天喜地二七合，龙腾虎跃三不奇</span><font color=\'#008000\' size=\'3\'><br>");
-document.writeln("</font><font color=\'#800000\' size=\'4\'> ");
-document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("");
-document.writeln("");
-document.writeln("玄机解肖：狗<span style=\'background-color: #FFFF00\'>马</span>龙牛虎蛇<br>玄机解肖：狗<span style=\'background-color: #FFFF00\'>马</span>龙牛</font></span></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'38\'><tbody><tr>");
-document.writeln("			<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggdnd.www29215c.com:8443#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>雷锋规律九肖");
-document.writeln("			【连中134期】点击查看</a></strong></tr></table>");
-document.writeln("</a></tr></table></td>");
-document.writeln("<!--开始-->");
-document.writeln("");
 
 
 

@@ -17,7 +17,14 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("087期：平特【牛猪拖龙鸡】开？00<br>");
+document.writeln("089期：平特【兔羊拖马鸡】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("088期：平特【牛<span style=\'background-color: #FFFF00\'>羊</span>拖鼠<span style=\'background-color: #FFFF00\'>狗</span>】开46.19<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("087期：平特【牛<span style=\'background-color: #FFFF00\'>猪</span>拖<span style=\'background-color: #FFFF00\'>龙</span>鸡】开06.13<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("");

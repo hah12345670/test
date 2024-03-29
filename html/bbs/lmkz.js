@@ -33,19 +33,19 @@ document.writeln("");
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>088期：【职业玩家】破解龙门客栈</font><br>");
-document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【洋洋自得】<br>小二：【客官，吃饭还是住店】<br>");
-document.writeln("		客官：【来吃点便饭】</font></font></font></span></td>");
+document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>089期：【职业玩家】破解龙门客栈</font><br>");
+document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【好事成双】<br>小二：【客官，今天周年庆哦】<br>");
+document.writeln("		客官：【有什么活动】</font></font></font></span></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=34 bgcolor=\'#FFFFFF\' ><p><b>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：洋洋自得，解马虎蛇鸡牛鼠。</font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：好事成双，解牛猴鸡兔羊龙。</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\'  bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'华文楷体\' style=\'font-size: 14pt; font-weight:700\' color=\'#008000\'>");
-document.writeln("				综合特肖：马虎蛇鸡牛鼠。</font></td>");
+document.writeln("				综合特肖：牛猴鸡兔羊龙。</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
@@ -55,7 +55,10 @@ document.writeln("		<font color=\'#FFFFFF\'>关注资料网</font></font><font c
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
-document.writeln("                                        <!--开始-->");
+document.writeln("<!--开始-->");
+
+
+document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>087期：【职业玩家】破解龙门客栈</font><br>");

@@ -16,14 +16,21 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' st
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("090期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）祥如意</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("089期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("089期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>龙13</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）功尽弃</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）功尽弃</font><font color=\'#0000FF\' size=\'5\'>-解:前肖</font></b></font></table>");
 
 document.writeln("");
 document.writeln("");

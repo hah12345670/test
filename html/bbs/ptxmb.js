@@ -62,7 +62,8 @@ document.writeln(" 085期<span style=\'background-color: #FFFF00\'>【蛇】</sp
 document.writeln(" 086期【虎】×<br>")
 document.writeln(" 087期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>")
 document.writeln(" 088期<span style=\'background-color: #FFFF00\'>【蛇】</span>√<br>")
-document.writeln(" 089期【羊】√<br>")
+document.writeln(" 089期【羊】×<br>")
+document.writeln(" 090期【猪】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -103,6 +104,7 @@ document.writeln("085-086期平码【44.28.<span style=\'background-color: #FFFF
 document.writeln("086-087期平码【<span style=\'background-color: #FFFF00\'>31</span>.42.46.18】086期中<br>");
 document.writeln("087-088期平码【31.04.19.<span style=\'background-color: #FFFF00\'>21</span>】087期中<br>");
 document.writeln("088-089期平码【49.05.17.41】000期中<br>");
+document.writeln("090-091期平码【01.32.02.24】000期中<br>");
 document.writeln("");
 document.writeln("	");
 document.writeln("");
@@ -124,7 +126,8 @@ document.writeln("085期<span style=\'background-color: #FFFF00\'>【8尾】</sp
 document.writeln("086期【4尾】×<br>");
 document.writeln("087期【7尾】×<br>");
 document.writeln("088期【3尾】×<br>");
-document.writeln("089期【1尾】√<br>");
+document.writeln("089期<span style=\'background-color: #FFFF00\'>【1尾】</span>√<br>");
+document.writeln("090期【5尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -145,7 +148,8 @@ document.writeln("083-084期平尾<span style=\'background-color: #FFFF00\'>【8
 document.writeln("084-085期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>085期中<br>");
 document.writeln("086-087期平尾<span style=\'background-color: #FFFF00\'>【9尾】</span>086期中<br>");
 document.writeln("087-088期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>088期中<br>");
-document.writeln("089-090期平尾【8尾】000期中<br>");
+document.writeln("089-090期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>089期中<br>");
+document.writeln("090-091期平尾【1尾】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("									");
@@ -163,6 +167,7 @@ document.writeln("086期（48.14.36.39.23）√<br>");
 document.writeln("087期（49.16.43.02.15）√<br>");
 document.writeln("088期（18.48.23.10.49）√<br>");
 document.writeln("089期（40.25.37.44.03）√<br>");
+document.writeln("090期（48.47.46.15.27）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

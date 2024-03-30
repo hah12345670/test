@@ -16,10 +16,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("089期：平特【兔羊拖马鸡】开？00<br>");
+document.writeln("090期：平特【鸡羊拖兔虎】开？00<br>");
 document.writeln("------<br>");
 document.writeln("");
+
 document.writeln("088期：平特【牛<span style=\'background-color: #FFFF00\'>羊</span>拖鼠<span style=\'background-color: #FFFF00\'>狗</span>】开46.19<br>");
 document.writeln("------<br>");
 document.writeln("");

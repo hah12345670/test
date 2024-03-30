@@ -65,8 +65,9 @@ document.writeln(" （稳赚特尾3期版）</font><br>");
 document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
+document.writeln("090-092期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【1809尾】</font>(000期√)<br>");
 
-document.writeln("088-090期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【6983尾】</font>(000期√)<br>");
+document.writeln("088-090期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【698<span style=\'background-color: #FFFF00\'>3</span>尾】</font>(089期√)<br>");
 
 document.writeln("");
 document.writeln("");

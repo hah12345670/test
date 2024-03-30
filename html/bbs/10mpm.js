@@ -15,7 +15,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("089期：平码【16.19.12.15.30.20.11.08.18.13.49.45】<br>");
+document.writeln("");
+document.writeln("090期：平码【28.41.15.02.01.44.25.03.24.19.13.23】<br>");
+
+document.writeln("089期：平码【<span style=\'background-color: #FFFF00\'>16</span>.19.<span style=\'background-color: #FFFF00\'>12</span>.15.30.20.11.08.<span style=\'background-color: #FFFF00\'>18.13</span>.49.45】<br>");
 
 document.writeln("");
 document.writeln("088期：平码【30.<span style=\'background-color: #FFFF00\'>18</span>.12.38.<span style=\'background-color: #FFFF00\'>48</span>.07.09.21.43.27.10.42】<br>");

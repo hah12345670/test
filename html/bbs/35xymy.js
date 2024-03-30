@@ -39,14 +39,33 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>090期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：龙王天兵解天肖龙兔猴牛狗猪，守家园解家肖牛狗猪鸡马羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔猴牛狗猪鸡羊<br>");
+document.writeln("			四肖：兔猴牛狗<br>");
+document.writeln("			特码：02.14.21.45.04.40.31.43.30.42.08.20.22.46</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
 document.writeln("			<font style=\'font-size: 13pt\'>089期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("羊前猪后混一淡，秋风不敢三四晚");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：明肖羊猪，秋风解秋肖猴鸡狗，风肖龙虎兔</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎兔猴鸡狗羊<br>");
-document.writeln("			四肖：龙虎兔猴<br>");
-document.writeln("			特码：01.13.15.39.14.38.21.33.08.20.31.43.10.22</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>龙</span>虎兔猴鸡狗羊<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>龙</span>虎兔猴<br>");
+document.writeln("			特码：01.<span style=\'background-color: #FFFF00\'>13</span>.15.39.14.38.21.33.08.20.31.43.10.22</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

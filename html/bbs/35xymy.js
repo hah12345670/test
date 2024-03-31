@@ -34,6 +34,23 @@ document.writeln("<!--头部start-->");
 
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>091期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("携猪八戒保唐僧，花果山上一大怪");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：猪八戒保唐僧解取经肖虎龙猴马猪，花果山上解解山肖羊猴鼠虎兔鸡猪</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鼠虎兔鸡猪龙马<br>");
+document.writeln("			四肖：鼠虎兔鸡<br>");
+document.writeln("			特码：17.41.03.15.14.38.20.32.18.30.13.25.23.47</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -44,9 +61,9 @@ document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：龙王天兵解天肖龙兔猴牛狗猪，守家园解家肖牛狗猪鸡马羊</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔猴牛狗猪鸡羊<br>");
-document.writeln("			四肖：兔猴牛狗<br>");
-document.writeln("			特码：02.14.21.45.04.40.31.43.30.42.08.20.22.46</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔<span style=\'background-color: #FFFF00\'>猴</span>牛狗猪鸡羊<br>");
+document.writeln("			四肖：兔<span style=\'background-color: #FFFF00\'>猴</span>牛狗<br>");
+document.writeln("			特码：02.14.21.<span style=\'background-color: #FFFF00\'>45</span>.04.40.31.43.30.42.08.20.22.46</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

@@ -1,48 +1,29 @@
-﻿document.writeln("<style>");
-document.writeln(".heiheidi { padding: 5px; color: #F0F!important; text-align: center; font-size: 18px; font-weight: bold; background: #006600;}");
-document.writeln(".heiheidi a { color: inherit!important; text-decoration: none!important;}");
-document.writeln(".heiheidi table { margin: 5px 0;  padding: 0!important;border: 0!important;}");
-document.writeln(".heiheidi table td { padding: 2px 0!important; border: 0!important;}");
-document.writeln("@media screen and (max-width:640px){ ");
-document.writeln(".heiheidi { font-size: 12px;}");
-document.writeln("}");
-document.writeln("</style>");
-document.writeln("");
-document.writeln("<div class=\'heiheidi\'>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<table width=\'100%\' border=\'0\'>");
-document.writeln("  <tr>");
-document.writeln("    <td align=\"center\"><b>");
-document.writeln("	<a target=\"_blank\" href=\"https://hyjuyuu.www57217b.com:8443/#189393\">");
-document.writeln("	<font color=\"#FFFFFF\"><img src=\'https://asdqfdfb.www71685a.com:8443/images/zu.gif\'> 089期:台湾跑狗站【灭庄②肖】最准【平特一肖】</font></a></b></td>");
-document.writeln("  </tr>");
-document.writeln("  <tr>");
-document.writeln("    <td align=\"center\"><b>");
-document.writeln("	<a target=\"_blank\" href=\"https://fggfgrr.www25157a.com:8443/#11\">");
-document.writeln("	<font color=\"#FFFFFF\"><img src=\'https://asdqfdfb.www71685a.com:8443/images/zu.gif\'> 089期:台湾雷锋论坛→码神推荐【一码中特】好准</font></a></b></td>");
-document.writeln("  </tr>");
-document.writeln("  <tr>");
-document.writeln("    <td align=\"center\"><b>");
-document.writeln("	<a target=\"_blank\" href=\"https://rfgffrrr.www27317b.com:8443/#tt\">");
-document.writeln("	<font color=\"#FFFFFF\"><img src=\'https://asdqfdfb.www71685a.com:8443/images/zu.gif\'> 089期:台湾马会传真4肖4码【平特一肖】免费公开</font></a></b></td>");
-document.writeln("  </tr>");
-document.writeln(" ");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\"center\"><b>");
-document.writeln("	<a target=\"_blank\" href=\"https://ggtrgtt.www36756b.com:8443/#t\">");
-document.writeln("	<font color=\"#FFFFFF\"><img src=\'https://asdqfdfb.www71685a.com:8443/images/zu.gif\'> 089期:台湾118开奖【爆庄②肖】最准【十码爆特】</font></a></b></td>");
-document.writeln("  </tr>");
-document.writeln("  <tr>");
-document.writeln("    <td align=\"center\"><b>");
-document.writeln("	<a target=\"_blank\" href=\"https://rgrgrrw.www339961c.com:8443/#tt\">");
-document.writeln("	<font color=\"#FFFFFF\"><img src=\'https://asdqfdfb.www71685a.com:8443/images/zu.gif\'> 089期:台湾资料网→大公开【单双②肖】横扫黑庄</font></a></b></td>");
-document.writeln("  </tr>");
-document.writeln("   ");
-document.writeln("</table>");
-document.writeln("");
-document.writeln("");
-document.writeln("</div>");
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+<title>404 - �Ҳ����ļ���Ŀ¼��</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>����������</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>404 - �Ҳ����ļ���Ŀ¼��</h2>
+  <h3>��Ҫ���ҵ���Դ�����ѱ�ɾ�����Ѹ������ƻ�����ʱ�����á�</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>

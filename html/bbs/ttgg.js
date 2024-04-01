@@ -3,6 +3,11 @@ document.writeln("	<div class=\'abox-tita\'><font size=\"5\" color=\"#008000\">�
 document.writeln("	<ul class=\'list1\'>");
 document.writeln("       ");
 document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'https://ttrrrccc.www82187c.com:8443/#62gsb\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>092期码友集合</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖三码】</font><font color=\"#000000\" style=\"font-size: 12pt\">连中稳赚！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
 document.writeln("       ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj01.html\'>");

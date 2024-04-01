@@ -111,7 +111,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半�
 document.writeln("		    ");
 
 
-document.writeln("		091期【马虎鼠】<br>		");
+document.writeln("		092期【鸡蛇猴】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -122,10 +122,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			087期【猴<span style=\'background-color: #FFFF00\'>猪</span>+牛】<br><br>");
-document.writeln("			089期【虎牛+<span style=\'background-color: #FFFF00\'>龙</span>】<br><br>");
-
-document.writeln("			091期【鸡狗+兔】<br><br>");
+document.writeln("			092期【猪虎+鼠】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -140,13 +137,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 
 document.writeln("								");
-document.writeln("				088期<span style=\'background-color: #FFFF00\'>龙</span>马牛<br>");
-document.writeln("				08.20.32.44<br><br>");
-document.writeln("								");
-
-document.writeln("								");
-document.writeln("				091期猪虎马<br>");
-document.writeln("				07.19.31.43<br><br>");
+document.writeln("				092期蛇马牛<br>");
+document.writeln("				03.15.27.39<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -182,10 +174,9 @@ document.writeln("089期<br>");
 document.writeln("35.10.34.09.32.<span style=\'background-color: #FFFF00\'>13</span><br>");
 document.writeln("25.47.24.08.16.12<br>	");
 
-
-document.writeln("091期<br>");
-document.writeln("01.47.02.46.30.20<br>");
-document.writeln("49.21.29.07.40.39<br>	");
+document.writeln("092期<br>");
+document.writeln("28.39.07.40.44.19<br>");
+document.writeln("24.31.17.12.29.47<br>	");
 
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -221,7 +212,7 @@ document.writeln("087期【牛兔羊<span style=\'background-color: #FFFF00\'>�
 document.writeln("088期【虎羊狗<span style=\'background-color: #FFFF00\'>龙</span>】<br><br>");
 document.writeln("089期【羊马<span style=\'background-color: #FFFF00\'>龙</span>虎】<br><br>");
 document.writeln("090期【兔<span style=\'background-color: #FFFF00\'>猴</span>鸡羊】<br><br>");
-document.writeln("091期【蛇虎狗龙】<br><br>");
+document.writeln("092期【猪马猴鸡】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -237,9 +228,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				091期？<br>");
-document.writeln("				【11.04.22.19】<br>");
-document.writeln("				【27.24.29.16】<br>	<br>				");
+document.writeln("				092期？<br>");
+document.writeln("				【39.20.34.36】<br>");
+document.writeln("				【29.15.17.07】<br>	<br>				");
 document.writeln("				");
 
 document.writeln("				</b></font></span><p>");
@@ -261,9 +252,9 @@ document.writeln("			（49.04.33.25.4<span style=\'background-color: #FFFF00\'>4
 document.writeln("				");
 
 document.writeln("				");
-document.writeln("				091期<br>");
-document.writeln("			（19.25.24.14.01）<br>");
-document.writeln("			（02.04.16.11.39）<br>	");
+document.writeln("				092期<br>");
+document.writeln("			（46.12.43.16.48）<br>");
+document.writeln("			（39.08.13.38.42）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -275,7 +266,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高�
 document.writeln("				087期羊鼠<span style=\'background-color: #FFFF00\'>猪</span>+牛<br><br>");
 document.writeln("				088期<span style=\'background-color: #FFFF00\'>龙</span>狗猴+猪<br><br>");
 document.writeln("				089期<span style=\'background-color: #FFFF00\'>龙</span>马猴+鼠<br><br>");
-document.writeln("				091期羊蛇虎+狗<br><br>");
+document.writeln("				091期<span style=\'background-color: #FFFF00\'>羊</span>蛇虎+狗<br><br>");
+document.writeln("				092期兔狗鼠+蛇<br><br>");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

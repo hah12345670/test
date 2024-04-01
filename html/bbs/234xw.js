@@ -313,11 +313,12 @@ document.writeln("<table style=\'border-collapse:collapse;color:#800000;font-wei
 document.writeln("");
 
 document.writeln("");
-document.writeln("");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>091期：独平</font><font color=\'#FF0000\' size=\'5\'>【蛇24】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>092期：独平</font><font color=\'#FF0000\' size=\'5\'>【马23】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("			<tr>");

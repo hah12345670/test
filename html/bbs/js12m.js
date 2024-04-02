@@ -40,7 +40,16 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>092期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【30.34.39.12.31.33.29.47.38.49.23.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>093期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【11.06.28.14.17.19.04.08.03.43.45.05】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("    <!--结束-->");
+document.writeln("           <!--开始-->");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>092期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【30.34.39.12.31.33.29.47.38.49.23.13】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>24√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 
@@ -65,47 +74,6 @@ document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 
 
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>087期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【30.43.22.38.03.44.14.19.39.09.28.05】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>06√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>085期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【03.42.38.48.23.14.18.11.31.06.22.37】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>35√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>083期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【11.45.49.46.35.26.05.36.24.20.21.33】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>22√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
-
-document.writeln("           <!--开始-->");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>082期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【02.35.49.44.26.18.19.39.28.07.30.14】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>22√</span></font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("    <!--结束-->");
 
 
 

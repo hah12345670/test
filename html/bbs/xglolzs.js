@@ -436,38 +436,6 @@ document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\
 document.writeln("035期双波<font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>绿波</span>红波】</font>开绿43√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
-document.writeln("		<!--开始三特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("032期双波<font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】</font>开绿44√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始三特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("031期双波<font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>绿波</span>红波】</font>开绿28√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--结束-->");
-
-document.writeln("		<!--开始三特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("030期双波<font color=\'#0000FF\' size=\'5\'>【绿波<span style=\'background-color: #FFFF00\'>蓝波</span>】</font>开蓝15√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("		<!--开始三特-->");
-document.writeln("           <li>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("028期双波<font color=\'#0000FF\' size=\'5\'>【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】</font>开绿44√</font></b></font></table>");
-document.writeln("</li>");
-document.writeln("		<!--结束-->");
-
 
 
 
@@ -601,7 +569,14 @@ document.writeln("		<!--开始五特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("036期单双<font color=\'#ce0f67\' size=\'5\'>【单+小双】</font>开？00√</font></b></font></table>");
+document.writeln("036期单双<font color=\'#ce0f67\' size=\'5\'>【单+大双】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
+document.writeln("		<!--开始五特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("036期单双<font color=\'#ce0f67\' size=\'5\'>【单+小双】</font>开猴21√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始五特-->");
@@ -671,12 +646,19 @@ document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
 document.writeln("");
 document.writeln("");
+document.writeln("		<!--开始六特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("037期四行中特<font color=\'#99CC00\' size=\'5\'>【土火金水】</font>开？00√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("		<!--开始六特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("036期四行中特<font color=\'#99CC00\' size=\'5\'>【水土火金】</font>开？00√</font></b></font></table>");
+document.writeln("036期四行中特<font color=\'#99CC00\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>水</span>土火金】</font>开蛇24√</font></b></font></table>");
 document.writeln("</li>");
 document.writeln("		<!--结束-->");
 document.writeln("		<!--开始六特-->");

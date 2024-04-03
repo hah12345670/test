@@ -18,8 +18,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("093期：平特【猴牛拖狗虎】开？00<br>");
+document.writeln("094期：平特【龙猴拖虎牛开？00<br>");
 document.writeln("------<br>");
+
 
 
 document.writeln("");

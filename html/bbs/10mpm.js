@@ -15,7 +15,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("093期：平码【17.09.26.49.03.46.33.25.21.35.38.02】<br>");
+document.writeln("");
+document.writeln("094期：平码【45.32.10.39.08.21.33.41.47.38.29.46】<br>");
 
 
 

@@ -196,6 +196,10 @@
 <div class="">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
+<div class="qid" data-i="095" data-name="wcsslm1.jpg">
+第095期
+</div>
+</div><div class="swiper-slide">
 <div class="qid" data-i="094" data-name="wcsslm1.jpg">
 第094期
 </div>
@@ -578,7 +582,7 @@
 		    var name = $('.qid').eq(0).attr('data-name');
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
-		    var url = 'https://am.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
+		    var url = 'https://amtk.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -600,7 +604,7 @@
                 var type = $(this).attr('data-type');
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
-                var url = 'https://am.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
+                var url = 'https://amtk.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

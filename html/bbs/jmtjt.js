@@ -5,7 +5,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<style>");
 document.writeln("");
-document.writeln("<style>");
+document.writeln("");
 document.writeln("bjbj {");
 document.writeln("background-color:#ffffff;");
 document.writeln("}");
@@ -36,17 +36,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>094期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【2.3.1.8】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>095期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【4.0.2.9】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字2318尾或者解特鸡马兔羊牛猪猴蛇虎</font></b></td>");
+document.writeln("		解：数字4029尾或者解特牛鼠虎蛇兔马鸡羊猴</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
@@ -56,20 +57,19 @@ document.writeln("		<font color=\'#FFFFFF\'>关注资料网</font></font><font c
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
-document.writeln("  <!--开始-->"););
+document.writeln("  <!--开始-->);");
 document.writeln("");
-
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>091期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【8.6.5.1】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开羊34】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>094期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【2.3.1.8】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开猴33】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字8651尾或者解特鸡马蛇鼠虎牛<span style=\'background-color: #FFFF00\'>羊</span>龙狗</font></b></td>");
+document.writeln("		解：数字2<span style=\'background-color: #FFFF00\'>3</span>18尾或者解特鸡马兔羊牛猪<span style=\'background-color: #FFFF00\'>猴</span>蛇虎</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
@@ -79,10 +79,10 @@ document.writeln("		<font color=\'#FFFFFF\'>关注资料网</font></font><font c
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
-document.writeln("  <!--开始-->"););
+document.writeln("  <!--开始-->);");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");

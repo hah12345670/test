@@ -16,7 +16,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'3\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("094期：平码【45.32.10.39.08.21.33.41.47.38.29.46】<br>");
+document.writeln("095期：平码【10.41.23.26.30.04.32.45.49.48.33.35】<br>");
 
 
 

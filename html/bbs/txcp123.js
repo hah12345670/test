@@ -113,7 +113,8 @@ document.writeln("		    ");
 
 document.writeln("		092期【鸡<span style=\'background-color: #FFFF00\'>蛇</span>猴】<br>		");
 document.writeln("		093期【狗兔<span style=\'background-color: #FFFF00\'>鼠</span>】<br>		");
-document.writeln("		094期【猴蛇兔】<br>		");
+document.writeln("		094期【<span style=\'background-color: #FFFF00\'>猴</span>蛇兔】<br>		");
+document.writeln("		095期【猴鼠鸡】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -142,8 +143,8 @@ document.writeln("				03.15.27.39<br><br>");
 
 
 document.writeln("								");
-document.writeln("				094期龙羊兔<br>");
-document.writeln("				03.15.27.39<br><br>");
+document.writeln("				095期羊马鼠<br>");
+document.writeln("				06.18.30.42<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -157,9 +158,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("094期<br>");
-document.writeln("43.27.13.47.15.29<br>");
-document.writeln("26.01.41.39.04.24<br>	");
+document.writeln("095期<br>");
+document.writeln("37.40.49.31.05.24<br>");
+document.writeln("23.45.18.14.30.09<br>	");
 
 
 document.writeln("				</span><br>");
@@ -197,7 +198,8 @@ document.writeln("088期【虎羊狗<span style=\'background-color: #FFFF00\'>�
 document.writeln("089期【羊马<span style=\'background-color: #FFFF00\'>龙</span>虎】<br><br>");
 document.writeln("090期【兔<span style=\'background-color: #FFFF00\'>猴</span>鸡羊】<br><br>");
 document.writeln("093期【羊龙猪<span style=\'background-color: #FFFF00\'>鼠</span>】<br><br>");
-document.writeln("094期【羊马猴猪】<br><br>");
+document.writeln("094期【羊马<span style=\'background-color: #FFFF00\'>猴</span>猪】<br><br>");
+document.writeln("095期【马牛鼠蛇】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -213,9 +215,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				094期？<br>");
-document.writeln("				【25.43.36.28】<br>");
-document.writeln("				【16.39.19.37】<br>	<br>				");
+document.writeln("				095期？<br>");
+document.writeln("				【13.46.39.19】<br>");
+document.writeln("				【25.26.38.12】<br>	<br>				");
 document.writeln("				");
 
 document.writeln("				</b></font></span><p>");
@@ -242,9 +244,9 @@ document.writeln("			（21.47.18.<span style=\'background-color: #FFFF00\'>41</s
 document.writeln("			（35.02.46.33.27）<br>	");
 document.writeln("				");
 document.writeln("				");
-document.writeln("				094期<br>");
-document.writeln("			（34.08.25.36.04）<br>");
-document.writeln("			（07.24.26.01.30）<br>	");
+document.writeln("				095期<br>");
+document.writeln("			（25.31.09.46.18）<br>");
+document.writeln("			（27.34.02.49.35）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -258,7 +260,7 @@ document.writeln("				088期<span style=\'background-color: #FFFF00\'>龙</span>
 document.writeln("				089期<span style=\'background-color: #FFFF00\'>龙</span>马猴+鼠<br><br>");
 document.writeln("				091期<span style=\'background-color: #FFFF00\'>羊</span>蛇虎+狗<br><br>");
 document.writeln("				092期兔狗鼠+<span style=\'background-color: #FFFF00\'>蛇</span><br><br>");
-document.writeln("				094期狗龙牛+虎<br><br>");
+document.writeln("				095期牛鸡蛇+鼠<br><br>");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

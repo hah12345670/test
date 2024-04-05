@@ -74,7 +74,8 @@ document.writeln("091期平特2码<font color=\"#FF00FF\" style=\"font-size: 16p
 document.writeln("092期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【羊10.22】</font>开猫00错<br><br>");
 document.writeln("093期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【<span style=\"background-color: #FFFF00\">猪</span>18.30】</font>开猪42准<br><br>");
 document.writeln("094期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【<span style=\"background-color: #FFFF00\">鸡</span>08.32】</font>开鸡44准<br><br>");
-document.writeln("095期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【猴21.45】</font>开猫00准<br><br>");
+document.writeln("095期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【猴21.45】</font>开猫00错<br><br>");
+document.writeln("096期平特2码<font color=\"#FF00FF\" style=\"font-size: 16pt\">【虎03.15】</font>开猫00准<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -117,7 +118,7 @@ document.writeln("			<font style=\'font-size: 15pt\'>");
 document.writeln("		092期【鸡<span style=\'background-color: #FFFF00\'>蛇</span>猴】<br>		");
 document.writeln("		093期【狗兔<span style=\'background-color: #FFFF00\'>鼠</span>】<br>		");
 document.writeln("		094期【<span style=\'background-color: #FFFF00\'>猴</span>蛇兔】<br>		");
-document.writeln("		095期【猴鼠鸡】<br>		");
+document.writeln("		096期【虎鸡狗】<br>		");
 document.writeln("");
 document.writeln("");
 document.writeln("			</p>");

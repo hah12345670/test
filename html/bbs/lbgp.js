@@ -27,19 +27,35 @@ document.writeln("");
 
 
 
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>094期另版挂牌</font><font size=\'4\' color=\'#008000\'>【龙争虎斗】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>096期另版挂牌</font><font size=\'4\' color=\'#008000\'>【杨威耀武】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：丙申日；五行属性：木；地支六冲：鸡日冲兔，克鸡，破狗，无鼠；六合：龙；三合：蛇牛。空亡肖：鼠龙。</p>");
+document.writeln("◎生肖属性：己亥日；五行属性：火；地支六冲：猪日冲蛇，克牛，破猪，无猴；六合：虎；三合：兔羊。空亡肖：猪猴</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：马羊鸡鼠牛兔猪蛇狗<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：马猴蛇龙猪牛虎狗鼠<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：11.23.22.34.08.20.17.41.16.40.02.14.30.42.12.36.19.43</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：11.23.09.21.12.36.13.49.06.30.16.40.03.15.31.43.17.41</font></font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   <!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>095期另版挂牌</font><font size=\'4\' color=\'#008000\'>【蛇归田里】</font><font color=\'#0033CC\'>开蛇48<br>");
+document.writeln("	</font><font color=\'#000000\'>");
+document.writeln("◎生肖属性：戊戌日；五行属性：木；地支六冲：狗日冲龙，克羊，破鸡，无羊；六合：兔；三合：虎马。空亡肖：狗羊。</p>");
+document.writeln("	</font>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：<span style=\'background-color: #FFFF00\'>蛇</span>狗猪龙鼠牛马鸡羊<br>");
+document.writeln("	</p>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：24.36.07.19.30.42.13.49.05.17.16.40.23.35.08.20.10.22</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 document.writeln("");

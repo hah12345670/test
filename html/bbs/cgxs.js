@@ -37,7 +37,20 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>095期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【鸡虎兔狗牛】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>096期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【鸡猴牛龙羊】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("<!--开始-->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font color=\'#000000\'>095期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【鸡虎兔狗牛】</font><font color=\'#000000\'>开蛇48准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("<!--开始-->");

@@ -18,7 +18,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("095期：平特【羊兔拖猪马】开？00<br>");
+document.writeln("096期：平特【龙兔拖牛蛇】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("095期：平特【<span style=\'background-color: #FFFF00\'>羊兔</span>拖<span style=\'background-color: #FFFF00\'>猪</span>马】开38.30.46<br>");
 document.writeln("------<br>");
 
 

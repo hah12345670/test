@@ -20,13 +20,13 @@ document.writeln("096期娱乐连尾</font><font style=\'font-weight:700\' face=
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【24尾】【61尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【19尾】【62尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("70元一组共计140元</font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'5\' face=\'微软雅黑// \' color=\'#0000FF\'>");
-document.writeln("【249尾】【613尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
+document.writeln("【194尾】【602尾】</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><br></font>");
 document.writeln("<font style=\'font-weight:700\' face=\'微软雅黑// \' color=\'#FF0000\'>");
 document.writeln("30元一组共计60元</font></td></tr>");
 document.writeln("<!------结束------>");

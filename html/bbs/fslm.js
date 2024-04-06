@@ -23,7 +23,15 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	096期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.27.31.06.16</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	097期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>13.48.14.43.20</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	096期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>21.<span style=\'background-color: #FFFF00\'>27</span>.31.06.16</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 document.writeln("");
 

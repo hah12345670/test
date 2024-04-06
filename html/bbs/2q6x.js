@@ -29,7 +29,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("095-096期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【狗兔猪羊猴牛】</font>(000期√)<br>");
+document.writeln("097-098期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔猪羊蛇狗猴】</font>(000期√)<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("093-094期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇鸡虎<span style=\'background-color: #FFFF00\'>猴</span>牛马】</font>(094期√)<br>");
@@ -45,7 +45,7 @@ document.writeln("");
 document.writeln("084-085期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马虎鸡<span style=\'background-color: #FFFF00\'>鼠</span>猴龙】</font>(084期√)<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("081-082期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【狗<span style=\'background-color: #FFFF00\'>龙</span>鸡猪猴马】</font>(081√)<br>");
+document.writeln("081-082期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【狗<span style=\'background-color: #FFFF00\'>龙</span>鸡猪猴马】</font>(081期√)<br>");
 document.writeln("");
 document.writeln("080-081期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猴鸡猪龙<span style=\'background-color: #FFFF00\'>兔</span>鼠】</font>(080期√)<br>");
 document.writeln("");

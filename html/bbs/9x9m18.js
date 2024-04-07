@@ -36,64 +36,21 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62109a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>097期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>马猪猴狗牛蛇鸡虎鼠</font></li>");
-document.writeln("            	<li><font size=\'3\'>097期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>马猪猴狗牛蛇鸡</font></li>");
-document.writeln("            	<li><font size=\'3\'>097期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>马猪猴狗牛</font></li>");
-document.writeln("            	<li><font size=\'2\'>097期必中18码：</font><font size=\'2\' color=\'#FF0000\'>11.23.06.18.21.33.19.43.16.40.12.36.08.20.03.39.17.41</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>097期必中九码：</font><font size=\'2\' color=\'#FF0000\'>11.06.21.43.16.12.08.03.17</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>098期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪牛龙马羊猴鸡蛇</font></li>");
+document.writeln("            	<li><font size=\'3\'>098期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪牛龙马羊猴</font></li>");
+document.writeln("            	<li><font size=\'3\'>098期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鼠猪牛龙马</font></li>");
+document.writeln("            	<li><font size=\'2\'>098期必中18码：</font><font size=\'2\' color=\'#FF0000\'>05.41.18.30.16.28.13.25.23.35.22.46.09.21.20.32.12.48</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>098期必中九码：</font><font size=\'2\' color=\'#FF0000\'>05.41.18.30.16.28.13.25.23</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>097期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>马11</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>098期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>鼠05</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong5\'>");
-document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62109a.com）九肖九码</div>");
-document.writeln("	<div class=\'bizhong5-box\'>");
-document.writeln("    	<div class=\'bizhong5-l\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>095期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛狗羊猪<span style=\'background-color: #FFFF00\'>【蛇】</span>马兔猴鸡</font></li>");
-document.writeln("            	<li><font size=\'3\'>095期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛狗羊猪<span style=\'background-color: #FFFF00\'>【蛇】</span>马兔</font></li>");
-document.writeln("            	<li><font size=\'3\'>095期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>牛狗羊猪<span style=\'background-color: #FFFF00\'>【蛇】</span></font></li>");
-
-document.writeln("");
-document.writeln("            	");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>095期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>牛16</font>）</font><font color=\'#00FF00\'></font></div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期结束-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong5\'>");
-document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62109a.com）九肖九码</div>");
-document.writeln("	<div class=\'bizhong5-box\'>");
-document.writeln("    	<div class=\'bizhong5-l\'>");
-document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>094期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>猪兔<span style=\'background-color: #FFFF00\'>【猴】</span>鸡马虎龙羊牛</font></li>");
-document.writeln("            	<li><font size=\'3\'>094期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>猪兔<span style=\'background-color: #FFFF00\'>【猴】</span>鸡马虎龙</font></li>");
-document.writeln("            	<li><font size=\'3\'>094期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>猪兔<span style=\'background-color: #FFFF00\'>【猴】</span>鸡马</font></li>");
-
-document.writeln("");
-document.writeln("            	");
-document.writeln("            </ul>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>094期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>猪06</font>）</font><font color=\'#00FF00\'></font></div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期结束-->");
-
 
 
 

@@ -55,7 +55,7 @@ document.writeln("	<p align=center>");
 document.writeln("		<font size=\'4\'>");
 document.writeln("	<strong><span style=font-family:微软雅黑>");
 document.writeln("		<a target=\"_blank\" href=\"https://ttrrrccc.www82187c.com:8443/#223\">");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\">097期</font>④肖④码<font color=\"#000000\">[82187b.com 已更新，进入查看]</font></span></a></span></strong></tr><td>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\">098期</font>④肖④码<font color=\"#000000\">[牛16蛇12兔26虎39]</font></span></a></span></strong></tr><td>");
 document.writeln("	</table>");
 document.writeln("");
 document.writeln("<!--每期结束-->");

@@ -114,8 +114,8 @@ document.writeln("		    ");
 document.writeln("		092期【鸡<span style=\'background-color: #FFFF00\'>蛇</span>猴】<br>		");
 document.writeln("		093期【狗兔<span style=\'background-color: #FFFF00\'>鼠</span>】<br>		");
 document.writeln("		094期【<span style=\'background-color: #FFFF00\'>猴</span>蛇兔】<br>		");
-
-document.writeln("		097期【马牛羊】<br>		");
+document.writeln("		097期【马牛<span style=\'background-color: #FFFF00\'>羊</span>】<br>		");
+document.writeln("		098期【猪蛇狗】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -126,7 +126,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			097期【猪龙+兔】<br><br>");
+document.writeln("			098期【牛狗+兔】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -142,8 +142,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 
 document.writeln("								");
-document.writeln("				097期猴狗蛇<br>");
-document.writeln("				04.16.28.40<br><br>");
+document.writeln("				098期狗虎猪<br>");
+document.writeln("				13.25.37.49<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -159,9 +159,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("097期<br>");
-document.writeln("41.08.20.46.16.05<br>");
-document.writeln("35.49.36.21.28.11<br>	");
+document.writeln("098期<br>");
+document.writeln("33.31.29.34.40.04<br>");
+document.writeln("44.15.32.37.35.05<br>	");
 
 
 document.writeln("				</span><br>");
@@ -194,15 +194,8 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("087期【牛兔羊<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
-document.writeln("088期【虎羊狗<span style=\'background-color: #FFFF00\'>龙</span>】<br><br>");
-document.writeln("089期【羊马<span style=\'background-color: #FFFF00\'>龙</span>虎】<br><br>");
-document.writeln("090期【兔<span style=\'background-color: #FFFF00\'>猴</span>鸡羊】<br><br>");
-document.writeln("093期【羊龙猪<span style=\'background-color: #FFFF00\'>鼠</span>】<br><br>");
-document.writeln("094期【羊马<span style=\'background-color: #FFFF00\'>猴</span>猪】<br><br>");
-document.writeln("095期【马牛鼠<span style=\'background-color: #FFFF00\'>蛇</span>】<br><br>");
 
-document.writeln("097期【牛猪龙猴】<br><br>");
+document.writeln("098期【狗龙鸡羊】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -226,7 +219,13 @@ document.writeln("				");
 
 document.writeln("				097期？<br>");
 document.writeln("				【07.28.06.33】<br>");
-document.writeln("				【10.20.41.11】<br>	<br>				");
+document.writeln("				【<span style=\'background-color: #FFFF00\'>10</span>.20.41.11】<br>	<br>				");
+document.writeln("				");
+
+
+document.writeln("				098期？<br>");
+document.writeln("				【16.27.13.49】<br>");
+document.writeln("				【10.45.47.32】<br>	<br>				");
 document.writeln("				");
 
 document.writeln("				</b></font></span><p>");
@@ -243,7 +242,7 @@ document.writeln("		    ");
 
 
 document.writeln("				");
-document.writeln("				097期<br>");
+document.writeln("				098期<br>");
 document.writeln("			（28.02.45.15.25）<br>");
 document.writeln("			（44.03.24.39.06）<br>	");
 document.writeln("				");
@@ -261,7 +260,8 @@ document.writeln("				091期<span style=\'background-color: #FFFF00\'>羊</span>
 document.writeln("				092期兔狗鼠+<span style=\'background-color: #FFFF00\'>蛇</span><br><br>");
 document.writeln("				095期牛鸡<span style=\'background-color: #FFFF00\'>蛇</span>+鼠<br><br>");
 
-document.writeln("				097期鼠鸡羊+猪<br><br>");
+document.writeln("				098期鼠鸡<span style=\'background-color: #FFFF00\'>羊</span>+猪<br><br>");
+document.writeln("				098期龙牛鼠+虎<br><br>");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

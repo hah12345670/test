@@ -27,37 +27,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">097期一语中特【潦潦草草】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：字不工整或态度不认真</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：马龙猪鸡狗兔开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">098期一语中特【遮遮掩掩】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：躲藏，隐藏</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪兔蛇猴羊鼠开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">095期一语中特【踢断门槛】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：由于跑得太勤，跑得太快，把人家的门槛都踢断了。有讽刺意</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠牛<span style=\'background-color: #FFFF00\'>蛇</span>虎羊猴开蛇48准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">094期一语中特【横尸遍野】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：杀得到处都是尸体</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔马狗<span style=\'background-color: #FFFF00\'>猴</span>鸡蛇开猴33准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">093期一语中特【懒懒散散】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：意思是指人散漫</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪牛兔鸡<span style=\'background-color: #FFFF00\'>鼠</span>虎开鼠41准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
+
 
 
 document.writeln("");
@@ -92,21 +68,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">097期一语中特【屹然挺立】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为屹然:高耸的样子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗鸡猪虎蛇牛开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">098期一语中特【工于心计】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：擅长用心谋划</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猴鸡羊蛇鼠开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">095期一语中特【愤发有为】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：精神振作，有所作为。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗兔龙<span style=\'background-color: #FFFF00\'>蛇</span>牛羊开蛇48准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
+
 
 
 document.writeln("");

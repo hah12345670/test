@@ -40,7 +40,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第098期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【龙13.兔02.猪30.狗43】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第099期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊10.虎15.鼠41.牛40】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("            <!--开始--> ");

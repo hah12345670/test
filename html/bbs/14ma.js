@@ -30,8 +30,8 @@ document.writeln("                  ");
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">098期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【09.14.32.10.34.04.48.03.17.01.12.47.21.11】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">099期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【22.17.23.04.02.44.16.35.01.31.45.08.19.36】</span></font></p>  	");
 document.writeln("			");
 document.writeln("  ");
 

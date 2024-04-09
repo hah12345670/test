@@ -33,6 +33,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>100期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("出二入八迎零七，两支曲刀头中拼");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八迎零七解二牛兔，八羊鸡，七马狗，曲刀解带刀肖虎兔蛇龙</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔蛇龙牛羊鸡马<br>");
+document.writeln("			四肖：兔蛇龙牛<br>");
+document.writeln("			特码：02.14.12.36.13.49.16.40.22.34.08.20.11.23</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -43,8 +59,8 @@ document.writeln("金牛出门迎才神，猴蛇共午看今期");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：金牛出门解金肖猴鸡，明肖猴蛇牛，才神解神肖狗鸡</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：猴蛇牛狗猪马羊<br>");
-document.writeln("			四肖：猴蛇牛狗<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猴蛇<span style=\'background-color: #FFFF00\'>牛</span>狗猪马羊<br>");
+document.writeln("			四肖：猴蛇<span style=\'background-color: #FFFF00\'>牛</span>狗<br>");
 document.writeln("			特码：09.21.12.36.16.40.31.43.18.30.11.23.22.34</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

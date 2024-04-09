@@ -55,7 +55,8 @@ document.writeln("094期 26-31-35-36-10-44 T33 095期<font color=\'#FF0000\'>【
 document.writeln("095期 30-19-38-01-17-46 T48 096期<font color=\'#FF0000\'>【3<span style=\'background-color: #FFFF00\'>5</span>16尾】</font>√<br>");
 document.writeln("096期 41-27-28-07-30-31 T05 097期<font color=\'#FF0000\'>【64<span style=\'background-color: #FFFF00\'>0</span>1尾】</font>√<br>");
 document.writeln("097期 25-39-13-11-46-30 T10 098期<font color=\'#FF0000\'>【7<span style=\'background-color: #FFFF00\'>6</span>32尾】</font>√<br>");
-document.writeln("098期 25-15-43-21-06-31 T46 099期<font color=\'#FF0000\'>【1236尾】</font>√</span><br>");
+document.writeln("098期 25-15-43-21-06-31 T46 099期<font color=\'#FF0000\'>【1236尾】</font>×</span><br>");
+document.writeln("099期 02-18-11-26-23-44 T28 100期<font color=\'#FF0000\'>【82187b.com 已更新】</font>√</span><br>");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</tr><td>");

@@ -147,8 +147,12 @@ document.writeln("			<font color=\"#FF0000\">【虎15-狗31-兔02-龙13-<span st
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("099期:<span class=\"style2\">【六肖六码】开:？00对<br>");
-document.writeln("			<font color=\"#FF0000\">【兔02-猴21-鼠41-鸡20-狗31-牛16】</font><br><br>");
+document.writeln("099期:<span class=\"style2\">【六肖六码】开:牛28对<br>");
+document.writeln("			<font color=\"#FF0000\">【兔02-猴21-鼠41-鸡20-狗31-<span style=\'background-color: #FFFF00\'>牛</span>16】</font><br><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("100期:<span class=\"style2\">【六肖六码】开:？00对<br>");
+document.writeln("			<font color=\"#FF0000\">【蛇12-兔38-鸡20-猴21-虎15-鼠41】</font><br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

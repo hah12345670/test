@@ -33,6 +33,16 @@ document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></b></p></a></td></tr>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
+document.writeln("");
+document.writeln("           <!--开始-->");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>100期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【24.01.40.14.21.29.41.22.09.17.19.48】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("    <!--结束-->");
 
 
 document.writeln("");
@@ -42,7 +52,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>099期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【26.03.37.46.12.45.11.07.28.38.44.02】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>099期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【26.03.37.46.12.45.11.07.28.38.44.02】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>28√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->");
 

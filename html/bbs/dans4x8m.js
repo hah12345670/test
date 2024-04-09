@@ -25,9 +25,9 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>");
-document.writeln("099期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
-document.writeln("【单数】【马】【虎】【鼠】【猴】<br>");
-document.writeln("11.23.03.15.17.41.21.45】<br>");
+document.writeln("100期资料网[单双四肖八码]开:</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>肖00</span></font><font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>准<br>");
+document.writeln("【双数】【猪】【蛇】【兔】【牛】<br>");
+document.writeln("【06.30.12.36.02.38.16.40】<br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #333300\'>");
 document.writeln("	<font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
@@ -35,6 +35,7 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");

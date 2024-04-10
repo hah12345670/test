@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("100期：平特【猴虎拖鸡龙】开？00<br>");
+document.writeln("101期：平特【龙羊拖猪牛】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

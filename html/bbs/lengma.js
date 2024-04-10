@@ -300,14 +300,14 @@ document.writeln("		");
 document.writeln("		<!--结束-->	");
 document.writeln("		");
 document.writeln("							<!--开始-->");
-document.writeln("
+document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
 document.writeln("	<font color=\'#008000\' size=\'4\'>猴(已连开00期,最高10期。最冷07期未开)<br></font>");
 document.writeln("	<font color=\'#FF00FF\' size=\'4\'>(已01期未开）</font></b></font></table>");
 document.writeln("			<!--结束-->	");
 document.writeln("							<!--开始-->");
-document.writeln("
+document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
 document.writeln("	<font color=\'#008000\' size=\'4\'>鸡(已连开01期,最高09期。最冷18期未开)<br></font>");

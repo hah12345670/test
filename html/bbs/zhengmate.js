@@ -27,7 +27,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀(1)肖【马马马】开？00√<BR>");
+
+document.writeln("101期稳杀(1)肖【狗狗狗】开？00√<BR>");
+document.writeln("100期稳杀(1)肖【马马马】开鼠17√<BR>");
 document.writeln("099期稳杀(1)肖【猪猪猪】开牛28√<BR>");
 document.writeln("098期稳杀(1)肖【虎虎虎】开羊46√<BR>");
 document.writeln("097期稳杀(1)肖【马马马】开羊10√<BR>");
@@ -60,7 +62,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀(1)尾【111尾】开？00√<BR>");
+
+document.writeln("101期稳杀(1)尾【444尾】开？00√<BR>");
+document.writeln("100期稳杀(1)尾【111尾】开鼠17√<BR>");
 document.writeln("099期稳杀(1)尾【555尾】开牛28√<BR>");
 document.writeln("098期稳杀(1)尾【444尾】开羊46√<BR>");
 document.writeln("097期稳杀(1)尾【666尾】开羊10√<BR>");
@@ -88,7 +92,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀半波【绿双】开？00√<BR>	");
+document.writeln("101期稳杀半波【绿双】开？00√<BR>	");
+document.writeln("100期稳杀半波【绿双】开鼠17√<BR>	");
 document.writeln("099期稳杀半波【红单】开牛28√<BR>	");
 document.writeln("098期稳杀半波【绿单】开羊46√<BR>	");
 document.writeln("097期稳杀半波【红单】开羊10√<BR>	");
@@ -108,14 +113,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀半头【3头单】开？00√<BR>");
-document.writeln("099期稳杀半头【2头双】开牛28×<BR>");
-document.writeln("098期稳杀半头【3头单】开羊46√<BR>");
-document.writeln("097期稳杀半头【1头双】开羊10×<BR>");
-document.writeln("096期稳杀半头【4头双】开鼠05√<BR>");
-document.writeln("095期稳杀半头【2头单】开蛇48√<BR>");
-document.writeln("094期稳杀半头【1头单】开猴33√<BR>");
-document.writeln("093期稳杀半头【3头单】开鼠41√<BR>");
+document.writeln("101期稳杀半头【0头双】开？00√<BR>");
+document.writeln("100期稳杀半头【3头单】开鼠17√<BR>");
+
 document.writeln("	");
 document.writeln("");
 document.writeln("<br></span>		");
@@ -125,7 +125,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀单双）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀单双【小双】开？00√<BR>");
+document.writeln("101期稳杀单双【大单】开？00√<BR>");
+document.writeln("100期稳杀单双【小双】开鼠17√<BR>");
 document.writeln("099期稳杀单双【大单】开牛28√<BR>");
 document.writeln("098期稳杀单双【小单】开羊46√<BR>");
 document.writeln("097期稳杀单双【大单】开羊10√<BR>");
@@ -156,7 +157,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一行）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("100期稳杀(1)行【金金金】开？00√<BR>");
+
+document.writeln("101期稳杀(1)行【火火火】开？00√<BR>");
+document.writeln("100期稳杀(1)行【金金金】开鼠17√<BR>");
 document.writeln("099期稳杀(1)行【火火火】开牛28√<BR>");
 document.writeln("098期稳杀(1)行【水水水】开羊46√<BR>");
 document.writeln("097期稳杀(1)行【木木木】开羊10√<BR>");

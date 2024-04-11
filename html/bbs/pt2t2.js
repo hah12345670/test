@@ -17,23 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("101期：平特【龙羊拖猪牛】开？00<br>");
+document.writeln("102期：平特【蛇龙拖兔猴】开？00<br>");
 document.writeln("------<br>");
 
-document.writeln("");
-document.writeln("099期：平特【<span style=\'background-color: #FFFF00\'>兔马</span>拖龙狗】开26.02.11.23<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("097期：平特【兔狗拖<span style=\'background-color: #FFFF00\'>虎龙</span>】开13.25.39<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("095期：平特【<span style=\'background-color: #FFFF00\'>羊兔</span>拖<span style=\'background-color: #FFFF00\'>猪</span>马】开38.30.46<br>");
-document.writeln("------<br>");
 
 
 

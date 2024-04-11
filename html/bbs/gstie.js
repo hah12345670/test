@@ -156,8 +156,14 @@ document.writeln("			<font color=\"#FF0000\">【蛇12-兔38-鸡20-猴21-虎15-<s
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("101期:<span class=\"style2\">【六肖六码】开:？00对<br>");
-document.writeln("			<font color=\"#FF0000\">【兔14-鸡20-猴09-狗19-羊22-虎15】</font><br><br>");
+document.writeln("101期:<span class=\"style2\">【六肖六码】开:猴21对<br>");
+document.writeln("			<font color=\"#FF0000\">【兔14-鸡20-<span style=\'background-color: #FFFF00\'>猴</span>09-狗19-羊22-虎15】</font><br><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("102期:<span class=\"style2\">【六肖六码】开:？00对<br>");
+document.writeln("			<font color=\"#FF0000\">【鼠41-猪30-马11-龙23-蛇12-狗31】</font><br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -18,9 +18,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("103期：平特【蛇马拖虎牛】开？00<br>");
+document.writeln("103期：平特【<span style=\'background-color: #FFFF00\'>蛇</span>马拖<span style=\'background-color: #FFFF00\'>虎</span>牛】开36.03<br>");
 document.writeln("------<br>");
 
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("104期：平特【鼠龙拖猪蛇】开？00<br>");
+document.writeln("------<br>");
 
 
 

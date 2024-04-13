@@ -21,31 +21,17 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
-document.writeln("<font color=\'#FF00FF\'><span style=\"font-size: 14pt\">103期内幕传真20码开？00</span></font><span style=\"font-size: 14pt\"><br> ");
-document.writeln("特码玄机376 406 (虎27)13+23=?   <br>特码：品茗赏月全家欢，游子盼望大团圆<br>");
+document.writeln("<font color=\'#FF00FF\'><span style=\"font-size: 14pt\">104期内幕传真20码开？00</span></font><span style=\"font-size: 14pt\"><br> ");
+document.writeln("特码玄机416 273 (猴33)17+21=?   <br>特码：三五炮仗耳边响，撩起归心更是盼<br>");
 document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("43 19 46 38 34 20 32 29 30 39<br>   ");
-document.writeln("25 15 17 41 12 05 16 10 48 24</font> </span> </p>         ");
+document.writeln("10 22 06 48 17 12 01 25 04 49<br>   ");
+document.writeln("02 09 15 45 26 14 29 13 38 36</font> </span> </p>         ");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
 document.writeln("  <tbody><tr>");
 document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggdnd.www29215c.com:8443#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
 document.writeln("</td>");
 document.writeln("  <!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<font color=\'#FF00FF\'><span style=\"font-size: 14pt\">101期内幕传真20码开猴21</span></font><span style=\"font-size: 14pt\"><br> ");
-document.writeln("特码玄机395 471 (狗31)11+23=?   <br>特码：我佛造经传极乐，画龙点睛我自如<br>");
-document.writeln("</span><font color=\'#800000\'>提供20码：<br>");
-document.writeln("06 11 19 15 36 07 40 02 05 41<br>   ");
-document.writeln("26 01 25 48 14 23 <span style=\'background-color: #FFFF00\'>21</span> 32 33 37</font> </span> </p>         ");
-document.writeln("<table style=border-collapse:collapse border=0 width=100% height=\'38\'>");
-document.writeln("  <tbody><tr>");
-document.writeln("	<td height=38><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggdnd.www29215c.com:8443#62102c\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>心心相印【18码中特11中09】点击查看</a></strong></tr></table>");
-document.writeln("</td>");
-document.writeln("  <!--结束-->");
-document.writeln("");
+
 
 
 document.writeln("");

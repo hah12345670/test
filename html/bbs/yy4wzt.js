@@ -21,7 +21,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("103期<font color=\'#FF00FF\'>（鼠龙鸡+5237尾）</font>开？00</font></b></font></table>");
+document.writeln("104期<font color=\'#FF00FF\'>（猪猴牛+3481尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("103期<font color=\'#FF00FF\'>（<span style=\'background-color: #FFFF00\'>鼠</span>龙鸡+<span style=\'background-color: #FFFF00\'>5</span>237尾）</font>开鼠05</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

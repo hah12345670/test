@@ -29,12 +29,26 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/103/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/104/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 
+document.writeln("");
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第104期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（过三转七下田中）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：过三转七下田中，解猪兔狗马龙猴。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：猪兔狗马龙猴</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
 
 document.writeln("");
 document.writeln("              <!--开始--> ");
@@ -47,7 +61,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：四五相合准有利，解狗牛鸡虎鼠蛇。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：狗牛鸡虎鼠蛇</font></b></td>");
+document.writeln("		综合特码：狗牛鸡虎<span style=\'background-color: #FFFF00\'>鼠</span>蛇</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");
@@ -65,35 +79,6 @@ document.writeln("		综合特码：鼠猪鸡<span style=\'background-color: #FFF
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第099期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（有情才有好风光）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：有情才有好风光，解猪鸡猴马狗鼠。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：羊<span style=\'background-color: #FFFF00\'>牛</span>狗龙蛇鼠</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
-
-
-document.writeln("");
-document.writeln("              <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第098期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（十子之上四中金）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
-document.writeln("		解：十子之上四中金，解羊牛狗龙蛇鼠。</font><br>");
-document.writeln("		 ");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：<span style=\'background-color: #FFFF00\'>羊</span>牛狗龙蛇鼠</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("               <!--开始--> ");
 
 
 document.writeln("");

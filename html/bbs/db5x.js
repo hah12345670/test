@@ -73,7 +73,7 @@ document.writeln("  </tr>");
 document.writeln("  </thead>");
 document.writeln("  <tr>");
 document.writeln("    <td style=\'text-align: left\' bgcolor=\'#FFFFFF\'><font face=\'微软雅黑\'>");
-document.writeln("	<font color=\'#000000\'>104期推荐⑥肖:</font><font color=\'#FF0000\'>蛇龙马猪狗鸡/font><font color=\'#0000FF\'>-平均压</font></font></td>");
+document.writeln("	<font color=\'#000000\'>104期推荐⑥肖:</font><font color=\'#FF0000\'>蛇龙马猪狗鸡</font><font color=\'#0000FF\'>-平均压</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("	<td style=\'text-align: left; height: 37px;\' bgcolor=\'#FFFFFF\'><font face=\'微软雅黑\'>");

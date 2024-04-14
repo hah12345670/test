@@ -45,7 +45,26 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 
+
 document.writeln("");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			105期<font color=\'#FF0000\'>【今期红波行大连，牛郎织女喜相会】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：牛郎织女解牛兔，大连解大肖牛狗羊猪虎马</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：兔牛狗羊猪虎马<br>");
+document.writeln("			特码：26.38.28.40.31.43.34.46.30.42.27.39.35.47");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("	");
@@ -56,8 +75,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			104期<font color=\'#FF0000\'>【包公出巡打贵妃，一三四五相加数】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：包公包青天解天肖兔猴牛猪龙马，贵妃解鸡</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：兔猴牛猪龙马鸡<br>");
-document.writeln("			特码：26.38.33.45.28.40.30.42.37.49.35.47.32.44");
+document.writeln("			<br>七肖：兔猴牛猪龙<span style=\'background-color: #FFFF00\'>马</span>鸡<br>");
+document.writeln("			特码：26.38.33.45.28.40.30.42.37.49.<span style=\'background-color: #FFFF00\'>35</span>.47.32.44");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

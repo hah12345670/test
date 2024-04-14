@@ -24,7 +24,14 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("104期：平特【鼠龙拖猪蛇】开？00<br>");
+document.writeln("104期：平特【<span style=\'background-color: #FFFF00\'>鼠</span>龙拖<span style=\'background-color: #FFFF00\'>猪蛇</span>】开17.24.42<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("105期：平特【龙猴拖猪蛇】开？00<br>");
 document.writeln("------<br>");
 
 

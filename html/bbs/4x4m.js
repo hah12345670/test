@@ -39,7 +39,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第104期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗19.羊22.虎15.猪18】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第105期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡20.羊34.牛04.虎15】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
@@ -94,37 +94,6 @@ document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第095期</fon
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第092期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鸡20.猴33.龙49.<span style=\'background-color: #FFFF00\'>蛇</span>12】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第091期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴09.猪30.<span style=\'background-color: #FFFF00\'>羊</span>22.蛇48】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第090期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【鼠29.<span style=\'background-color: #FFFF00\'>猴</span>20.蛇12.羊34】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
 
 
 document.writeln("");

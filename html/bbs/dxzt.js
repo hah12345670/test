@@ -18,11 +18,21 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	104期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("	105期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	104期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>马35</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -75,58 +85,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("	094期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>猴33</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	092期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小小小</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>蛇24</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	091期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>羊34</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	088期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>龙37</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	087期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小小小</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>猪06</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	086期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小小小</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>马11</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	085期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>马35</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	084期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大大大</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>鼠05</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	083期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小小小</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>羊22</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	082期<font color=\'#9933FF\'>大小中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小小小</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #800000\'>羊22</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
 
 
 

@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/105/amsbx.jpg\' id=\'lfktzm\'>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/1056/amsbx.jpg\' id=\'lfktzm\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,6 +25,8 @@ document.writeln("    <span class=\'bizhong123-btn bizhong123-next\' onclick=\'s
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
+
+document.writeln("\'https://tk2.zaojiao365.net:4949/col/106/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/105/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/104/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/103/amsbx.jpg\',");
@@ -33,22 +35,11 @@ document.writeln("\'https://tk2.zaojiao365.net:4949/col/101/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/100/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/99/amsbx.jpg\',");
 document.writeln("\'https://tk2.zaojiao365.net:4949/col/98/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/97/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/96/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/95/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/94/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/93/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/92/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/91/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/90/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/89/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/88/amsbx.jpg\',");
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/87/amsbx.jpg\',");
 
 
 
 
-document.writeln("\'https://tk2.zaojiao365.net:4949/col/86/amsbx.jpg\'");
+document.writeln("\'https://tk2.zaojiao365.net:4949/col/97/amsbx.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexx=0;");

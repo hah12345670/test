@@ -31,7 +31,14 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("105期：平特【龙猴拖猪蛇】开？00<br>");
+document.writeln("105期：平特【<span style=\'background-color: #FFFF00\'>龙</span>猴拖猪<span style=\'background-color: #FFFF00\'>蛇</span>】开49.30<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("106期：平特【猴鸡拖虎牛】开？00<br>");
 document.writeln("------<br>");
 
 

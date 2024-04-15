@@ -26,9 +26,20 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">106期一语中特【迈四方步】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一句半口头语的成语词，在不同环境下其意义也可截然相反，可以是褒义的形容人不慌乱心中有定，也可以是贬义形容人慢吞吞。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗兔蛇牛龙鼠开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">105期一语中特【光恶不善】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：只做恶事，不做善事。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：马虎鼠狗龙蛇开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：马虎鼠狗<span style=\'background-color: #FFFF00\'>龙</span>蛇开龙49准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -69,9 +80,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">105期一语中特【踏步不前】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：在原地踏步，没有前进。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡猴鼠蛇虎羊开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">105期一语中特【蓬荜生光】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：蓬荜:蓬门荜户。形容穷人的陋屋。使贫贱之家增加光彩</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇羊虎龙猪牛开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

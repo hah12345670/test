@@ -24,16 +24,18 @@ document.writeln("   <!--https://dierdier.www62109a.com:8443/6dgsb/mj04.html   h
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><font face=\"微软雅黑\">");
 document.writeln("");
-document.writeln("");
-document.writeln("                  ");
 document.writeln(" 		<b>");
 document.writeln("");
+
+
+
+
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">105期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【18.21.17.46.13.30.29.16.08.01.31.24.19.41】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">106期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【37.32.16.47.19.31.45.29.40.38.02.26.39.21】</span></font></p>  	");
 document.writeln("			");
 document.writeln("  ");
-document.writeln("                  ");
+
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");

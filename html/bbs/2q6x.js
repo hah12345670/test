@@ -30,7 +30,10 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("106-107期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛鸡虎狗猪兔】</font>(000期√)<br>");
+document.writeln("107-108期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马猪牛虎蛇鸡】</font>(000期√)<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("106-107期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>牛</span>鸡虎狗猪兔】</font>(106期√)<br>");
 document.writeln("");
 document.writeln("104-105期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡狗猪蛇羊牛】</font>(000期√)<br>");
 document.writeln("");

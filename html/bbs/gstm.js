@@ -57,6 +57,9 @@ document.writeln("");
 document.writeln("  104期（平5*4+特-D2+平5+正3-2）=杀蛇猴√<br>		");
 document.writeln("  105期（平5*4+特-D2+平5+正3-2）=杀虎猪√<br>		");
 document.writeln("  106期（平5*4+特-D2+平5+正3-2）=杀虎牛√<br>		");
+document.writeln("  107期（平5*4+特-D2+平5+正3-2）=杀鼠猪√<br>		");
+
+
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -79,6 +82,8 @@ document.writeln("      103期（平4*2+正1-D3+正6+正3-特）=杀木√<br>		
 document.writeln("      104期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("      105期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
 document.writeln("      106期（平4*2+正1-D3+正6+正3-特）=杀土√<br>			");
+document.writeln("      107期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+
 
 document.writeln("		");
 document.writeln("<br>	");
@@ -97,8 +102,8 @@ document.writeln("		102期（平5-2-D2+正4）=杀34尾√<br>		");
 document.writeln("		103期（平5-2-D2+正4）=杀41尾√<br>		");
 document.writeln("		104期（平5-2-D2+正4）=杀07尾√<br>		");
 document.writeln("		105期（平5-2-D2+正4）=杀45尾√<br>		");
-document.writeln("		106期（平5-2-D2+正4）=杀61尾√<br>		");
-
+document.writeln("		106期（平5-2-D2+正4）=杀61尾×<br>		");
+document.writeln("		107期（平5-2-D2+正4）=杀41尾√<br>		");
 
 document.writeln("		");
 document.writeln("<br>");
@@ -113,7 +118,7 @@ document.writeln("		103期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		104期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		105期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		106期（平4+3-D1+正2-平3）=杀1头√<br>		");
-
+document.writeln("		107期（平4+3-D1+正2-平3）=杀0头√<br>		");
 
 document.writeln("<br>");
 document.writeln("		");
@@ -131,8 +136,8 @@ document.writeln("");
 
 
 document.writeln("        <font color=\'#0000FF\'>105期四头=<span style=\'background-color: #FFFF00\'>4</span>231√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>106期四头=1042√</font><br>	");
-
+document.writeln("        <font color=\'#0000FF\'>106期四头=<span style=\'background-color: #FFFF00\'>1</span>042√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>107期四头=4130√</font><br>	");
 
 
 document.writeln("		");
@@ -143,8 +148,8 @@ document.writeln("		<font color=\'#0000FF\'>102期七肖=<span style=\'backgroun
 document.writeln("		<font color=\'#0000FF\'>103期七肖=龙<span style=\'background-color: #FFFF00\'>鼠</span>猴羊鸡牛兔√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>104期七肖=狗羊虎鼠鸡兔猪×</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>105期七肖=鸡<span style=\'background-color: #FFFF00\'>龙</span>蛇狗虎猴鼠√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>106期七肖=蛇虎鼠马猪羊龙√</font><br>		");
-
+document.writeln("		<font color=\'#0000FF\'>106期七肖=蛇虎鼠马猪羊龙×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>107期七肖=牛蛇虎猪马兔猴√</font><br>		");
 
 document.writeln("		");
 document.writeln("		");
@@ -154,8 +159,8 @@ document.writeln("		");
 
 document.writeln("		<font color=\'#0000FF\'>104期三行=<span style=\'background-color: #FFFF00\'>土</span>火木√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>105期三行=木火<span style=\'background-color: #FFFF00\'>土</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>106期三行=金土水√</font><br>			");
-
+document.writeln("		<font color=\'#0000FF\'>106期三行=金土水×</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>107期三行=水土火√</font><br>			");
 
 document.writeln("		");
 document.writeln("		");
@@ -169,7 +174,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">104期六尾=2<span style=\'background-color: #FFFF00\'>5</span>6987√</span></font><br>");
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">105期六尾=4687<span style=\'background-color: #FFFF00\'>9</span>2√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">106期六尾=736928√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">106期六尾=73<span style=\'background-color: #FFFF00\'>6</span>928√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">107期六尾=956278√</span></font><br>");
+
+
 document.writeln("		");
 document.writeln("");
 document.writeln("	");

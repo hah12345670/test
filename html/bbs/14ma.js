@@ -26,24 +26,30 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><fon
 document.writeln("");
 document.writeln(" 		<b>");
 document.writeln("");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">106期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【37.32.16.47.19.31.45.29.40.38.02.26.39.21】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">107期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【08.06.07.28.48.21.43.38.13.41.39.23.14.42】</span></font></p>  	");
 document.writeln("			");
 document.writeln("  ");
-
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">106期:==14码中特==开牛16准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【37.32.</span><span style=\"background-color: #FFFF00\"><font size=\"5\">16</font></span><span style=\"font-size: 13pt\">.47.19.31.45.29.40.38.02.26.39.21】</span></font></p>  	");
+document.writeln("			");
+document.writeln("  ");
+document.writeln("");
 document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">104期:==14码中特==开马35准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【36.16.17.45.33.27.02.24.19.01.12.06.<span style=\'background-color: #FFFF00\'>35</span>.25】</span></font></p>  	");
+document.writeln("	【36.16.17.45.33.27.02.24.19.01.12.06.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">35</font></span><span style=\"font-size: 13pt\">.25】</span></font></p>  	");
 document.writeln("			");
 document.writeln("  ");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

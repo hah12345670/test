@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">107期一语中特【红口白牙】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一般人正常的容貌,如果如此正常的容貌却说出一些不正常的话就会遭人唾骂。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠猴龙羊狗马开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">106期一语中特【迈四方步】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一句半口头语的成语词，在不同环境下其意义也可截然相反，可以是褒义的形容人不慌乱心中有定，也可以是贬义形容人慢吞吞。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗兔蛇牛龙鼠开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗兔蛇<span style=\'background-color: #FFFF00\'>牛</span>龙鼠开牛16准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -75,14 +84,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">105期一语中特【蓬荜生光】</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">107期一语中特【夷然不屑】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：夷然:泰然;不屑:轻视.心中泰然，毫不在意</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙蛇狗猪鸡兔开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">106期一语中特【蓬荜生光】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：蓬荜:蓬门荜户。形容穷人的陋屋。使贫贱之家增加光彩</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇羊虎龙猪牛开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇羊虎龙猪<span style=\'background-color: #FFFF00\'>牛</span>开牛16准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

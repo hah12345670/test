@@ -53,7 +53,8 @@ document.writeln(" 102期<span style=\'background-color: #FFFF00\'>【猪】</sp
 document.writeln(" 103期<span style=\'background-color: #FFFF00\'>【狗】</span>√<br>")
 document.writeln(" 104期【龙】×<br>")
 document.writeln(" 105期<span style=\'background-color: #FFFF00\'>【猪】</span>√<br>")
-document.writeln(" 106期【羊】√<br>")
+document.writeln(" 106期<span style=\'background-color: #FFFF00\'>【羊】</span>√<br>")
+document.writeln(" 107期【兔】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -79,6 +80,8 @@ document.writeln("102-103期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("103-104期出平【牛】000期中<br>");
 document.writeln("105-106期出平<span style=\'background-color: #FFFF00\'>【狗】</span>105期中<br>");
 document.writeln("106-107期出平【猪】000期中<br>");
+
+
 
 document.writeln("");
 document.writeln("");
@@ -115,7 +118,8 @@ document.writeln("102期【4尾】×<br>");
 document.writeln("103期<span style=\'background-color: #FFFF00\'>【3尾】</span>√<br>");
 document.writeln("104期【8尾】×<br>");
 document.writeln("105期<span style=\'background-color: #FFFF00\'>【7尾】</span>√<br>");
-document.writeln("106期【1尾】√<br>");
+document.writeln("106期<span style=\'background-color: #FFFF00\'>【1尾】</span>√<br>");
+document.writeln("107期【3尾】√<br>");
 
 
 document.writeln("");
@@ -151,7 +155,10 @@ document.writeln("100-101期平尾<span style=\'background-color: #FFFF00\'>【6
 document.writeln("101-102期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>102期中<br>");
 document.writeln("103-104期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>103期中<br>");
 document.writeln("104-105期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>104期中<br>");
-document.writeln("105-106期平尾【1尾】000期中<br>");
+document.writeln("105-106期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>106期中<br>");
+document.writeln("107-108期平尾【8尾】000期中<br>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("									");
@@ -164,7 +171,7 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 
 document.writeln("106期（41.17.10.13.11）√<br>");
-
+document.writeln("107期（41.16.04.47.19）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

@@ -35,12 +35,12 @@ document.writeln("105期：平特【<span style=\'background-color: #FFFF00\'>�
 document.writeln("------<br>");
 
 
-
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("107期：平特【猴马拖虎狗】开？00<br>");
+document.writeln("108期：平特【马猴拖鼠兔】开？00<br>");
 document.writeln("------<br>");
+
 
 
 document.writeln("");

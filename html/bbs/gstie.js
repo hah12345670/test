@@ -97,7 +97,8 @@ document.writeln("103期:【绝杀一波】<font style=\"font-size: 16pt\" color
 document.writeln("104期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【蓝波】</font>开:<font color=\"#FF00FF\">马35</font>准<br>");
 document.writeln("105期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【蓝波】</font>开:<font color=\"#FF00FF\">龙49</font>准<br>");
 document.writeln("106期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【红波】</font>开:<font color=\"#FF00FF\">牛16</font>准<br>");
-document.writeln("107期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【绿波】</font>开:<font color=\"#FF00FF\">？00</font>准<br>");
+document.writeln("107期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【绿波】</font>开:<font color=\"#FF00FF\">羊46</font>准<br>");
+document.writeln("108期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【红波】</font>开:<font color=\"#FF00FF\">？00</font>准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

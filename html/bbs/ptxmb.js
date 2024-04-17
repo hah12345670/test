@@ -54,7 +54,8 @@ document.writeln(" 103期<span style=\'background-color: #FFFF00\'>【狗】</sp
 document.writeln(" 104期【龙】×<br>")
 document.writeln(" 105期<span style=\'background-color: #FFFF00\'>【猪】</span>√<br>")
 document.writeln(" 106期<span style=\'background-color: #FFFF00\'>【羊】</span>√<br>")
-document.writeln(" 107期【兔】√<br>")
+document.writeln(" 107期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>")
+document.writeln(" 108期【鼠】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -80,6 +81,7 @@ document.writeln("102-103期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("103-104期出平【牛】000期中<br>");
 document.writeln("105-106期出平<span style=\'background-color: #FFFF00\'>【狗】</span>105期中<br>");
 document.writeln("106-107期出平【猪】000期中<br>");
+document.writeln("108-109期出平【蛇】000期中<br>");
 
 
 
@@ -98,7 +100,7 @@ document.writeln("103-104期平码【43.10.<span style=\'background-color: #FFFF
 document.writeln("104-105期平码【22.49.<span style=\'background-color: #FFFF00\'>15</span>.18】104期中<br>");
 document.writeln("105-106期平码【24.46.37.<span style=\'background-color: #FFFF00\'>14</span>】105期中<br>");
 document.writeln("106-107期平码【35.07.41.20】000期中<br>");
-
+document.writeln("108-110期平码【45.18.28.35】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -119,8 +121,8 @@ document.writeln("103期<span style=\'background-color: #FFFF00\'>【3尾】</sp
 document.writeln("104期【8尾】×<br>");
 document.writeln("105期<span style=\'background-color: #FFFF00\'>【7尾】</span>√<br>");
 document.writeln("106期<span style=\'background-color: #FFFF00\'>【1尾】</span>√<br>");
-document.writeln("107期【3尾】√<br>");
-
+document.writeln("107期【3尾】×<br>");
+document.writeln("108期【1尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -171,7 +173,9 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 
 document.writeln("106期（41.17.10.13.11）√<br>");
-document.writeln("107期（41.16.04.47.19）√<br>");
+document.writeln("107期（41.16.04.47.19）×<br>");
+document.writeln("108期（48.29.45.32.40）√<br>");
+
 
 document.writeln("");
 document.writeln("</font></b></td>");

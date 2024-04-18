@@ -38,7 +38,12 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("108期：平特【马猴拖鼠兔】开？00<br>");
+document.writeln("108期：平特【马<span style=\'background-color: #FFFF00\'>猴</span>拖<span style=\'background-color: #FFFF00\'>鼠</span>兔】开21.05.17.41<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("109期：平特【狗牛拖龙猪】开？00<br>");
 document.writeln("------<br>");
 
 

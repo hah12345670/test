@@ -14,7 +14,7 @@ document.writeln(" ");
 document.writeln(" ");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	108期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
+document.writeln("	109期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【蓝波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 
 document.writeln(" ");
@@ -27,40 +27,6 @@ document.writeln(" ");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
 document.writeln("	106期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>牛16准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	103期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>鼠05准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	102期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【蓝波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>狗19准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	101期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>猴21准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	099期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【蓝波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>牛28准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	098期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>羊46准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 
 

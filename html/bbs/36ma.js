@@ -24,13 +24,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>108期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
-document.writeln("		       23.09.49.42.24.33.38.47.37.35.05.41<br>");
-document.writeln("			   01.44.27.11.31.45.48.22.29.21.02.26<br>");
-document.writeln("			   40.14.15.10.36.25.16.08.06.07.19.18</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>109期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		       05.30.06.10.44.48.38.16.20.24.03.23<br>");
+document.writeln("			   26.32.14.21.37.07.09.11.34.15.39.42<br>");
+document.writeln("			   01.02.47.43.35.17.22.33.28.13.18.08</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
+
+
 
 
 

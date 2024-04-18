@@ -34,6 +34,16 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1700tz.com:1700\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>109期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【5.1.4】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("<!--开始-->");
 
 document.writeln("<!--开始-->");
 document.writeln("    ");
@@ -42,7 +52,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>107期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【3.9.2】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>108期<font color=\'#0000FF\'>绝杀3尾</font><font color=\'#FF00FF\'>【3.9.2】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊46</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始-->");
 

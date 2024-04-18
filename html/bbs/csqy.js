@@ -28,18 +28,32 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln(" ");
 
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>109期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>八戒调戏天仙女</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:吉明肖猪，天仙解天肖牛猪猴龙马兔。</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：牛猪猴龙马兔</font></b></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：牛猪猴龙</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>108期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开？00准</span></font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#000000\'>108期【财神奇缘】解析</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>开羊46准</span></font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' style=\'font-size: 14pt\'>『</font><font color=\'#FF00FF\' style=\'font-size: 14pt\'>三爷吉祥</font><font color=\'#000000\' style=\'font-size: 14pt\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\'>&#10146;&#10146;</font><font color=\'#008000\'>解:吉祥解吉肖蛇羊鸡龙马兔。</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：蛇羊鸡龙马兔</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;综合生肖：蛇<span style=\'background-color: #FFFF00\'>羊</span>鸡龙马兔</font></b></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：蛇羊鸡龙</font></b></div>");
+document.writeln("	<font color=\'#993399\' style=\'font-size: 11pt\' face=\'微软雅黑\'>&raquo;四肖中特：蛇<span style=\'background-color: #FFFF00\'>羊</span>鸡龙</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

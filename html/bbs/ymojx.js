@@ -24,6 +24,19 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"116\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第109期幽默猜测</font><font color=\'#FF0000\'>（学狗叫)</font><font color=\'#000000\'>：学狗叫母老鼠带孩子在外散步，遭到猫的攻击，母老鼠学了几声狗叫将猫叶跑。事后，母老鼠语重心长地说：“学好一门外语是多么重要啊！“.......本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：学狗叫解马羊牛兔鼠狗</font></b></div>");
+document.writeln("   <br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：马羊牛兔鼠狗</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -34,7 +47,7 @@ document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\
 document.writeln("   <br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：羊猪鸡牛虎猴</font></b></div>");
+document.writeln("	综合特肖：</font><font size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font><font size=\'4\' color=\'#009900\'>猪鸡牛虎猴</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

@@ -43,7 +43,12 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("109期：平特【狗牛拖龙猪】开？00<br>");
+document.writeln("109期：平特【<span style=\'background-color: #FFFF00\'>狗牛</span>拖<span style=\'background-color: #FFFF00\'>龙</span>猪】开43.40.25<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("110期：平特【虎蛇拖羊牛】开？00<br>");
 document.writeln("------<br>");
 
 

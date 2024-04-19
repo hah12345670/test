@@ -29,9 +29,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>109期：</font>【<font color=\'#008000\'>双笔+马鸡</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>110期：</font>【<font color=\'#008000\'>单笔+猴羊</font>】开？00√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

@@ -51,33 +51,17 @@ document.writeln("	");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			110期<font color=\'#FF0000\'>【二五六尾有钱拿，马会今期送特来】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：明不马，二五六解二兔牛，五龙鼠，六蛇狗</font><br>");
+document.writeln("			111期<font color=\'#FF0000\'>【满山花果红似锦,小姐宫女左右】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：满山花果解山肖虎兔猪鸡羊猴鼠</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：龙蛇狗兔牛马鼠<br>");
-document.writeln("			特码：25.49.36.48.31.43.26.38.28.40.35.47.29.41");
+document.writeln("			<br>七肖：虎兔猪鸡羊猴鼠<br>");
+document.writeln("			特码：03.15.02.14.06.18.08.20.10.22.09.21.05.17");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			108期<font color=\'#FF0000\'>【星辰北半粒粒送，鼠目溜聘有怪招】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：星辰北半解北肖鼠猪牛，粒粒解对对肖马羊猴鸡</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：马<span style=\'background-color: #FFFF00\'>羊</span>猴鸡鼠猪牛<br>");
-document.writeln("			特码：35.47.34.<span style=\'background-color: #FFFF00\'>46</span>.33.45.32.44.29.41.30.42.28.40");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-document.writeln("");
 
 
 

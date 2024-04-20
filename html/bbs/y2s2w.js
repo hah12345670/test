@@ -16,7 +16,12 @@ document.writeln(" ");
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("110期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
+document.writeln("111期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【1.9】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></font></span></span></strong></p></td></tr>");
+
+
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("110期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇48准</font></font></span></span></strong></p></td></tr>");
 
 document.writeln(" ");
 document.writeln("");
@@ -37,64 +42,6 @@ document.writeln(" ");
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
 document.writeln("105期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【6.1】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>龙49准</font></font></span></span></strong></p></td></tr>");
-
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("102期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.2】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗19准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("101期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.3】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴21准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln(" ");
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("100期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【9.5】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鼠17准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("099期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.2】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛28准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("098期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【0.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>羊46准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("097期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【9.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>羊10准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("096期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【3.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鼠05准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("095期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【9.5】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇48准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("094期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【4.7】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴33准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("093期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【7.2】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>鼠41准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("092期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.9】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇24准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("091期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.4】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>羊34准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("090期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【4.0】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴45准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("089期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【6.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>龙13准</font></font></span></span></strong></p></td></tr>");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("088期</span><span style=\'font-size:16pt\'><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>二尾</span>【5.8】<span style=\'color:#960\'>开</span><span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>龙37准</font></font></span></span></strong></p></td></tr>");
-
 
 
 

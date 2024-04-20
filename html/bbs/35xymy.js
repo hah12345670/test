@@ -37,33 +37,17 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>110期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("风轻云淡蓝天空，城边树林绿萌萌");
+document.writeln("			<font style=\'font-size: 13pt\'>111期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("飞龙猛虎走一起，龙眼一只为君开");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：风轻云淡解风肖龙虎兔，云肖猴鸡狗，蓝天空解天肖龙兔猪牛马猴，绿萌萌解绿肖牛羊龙狗</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：走一起解合肖龙蛇猴鸡狗猪，为君解男肖龙虎狗牛马猴鼠</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔猪牛马猴虎鸡<br>");
-document.writeln("			四肖：兔猪牛马<br>");
-document.writeln("			特码：02.14.30.42.04.16.23.35.09.21.15.39.20.32</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎狗牛马猴鼠蛇<br>");
+document.writeln("			四肖：虎狗牛马<br>");
+document.writeln("			特码：03.39.31.43.04.40.11.23.09.21.17.41.24.36</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>108期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("天外红霞如仙境，月落玉绿霜两重");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：天外红霞解解天肖龙兔牛猪马猴，红肖鼠兔马鸡，玉绿解绿肖牛狗羊龙</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔马鸡牛狗<span style=\'background-color: #FFFF00\'>羊</span>龙<br>");
-document.writeln("			四肖：兔马鸡牛<br>");
-document.writeln("			特码：02.14.23.35.20.32.16.40.19.31.10.22.13.49</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
 
 
 

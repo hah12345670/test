@@ -57,7 +57,8 @@ document.writeln(" 106期<span style=\'background-color: #FFFF00\'>【羊】</sp
 document.writeln(" 107期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>")
 document.writeln(" 108期<span style=\'background-color: #FFFF00\'>【鼠】</span>√<br>")
 document.writeln(" 109期<span style=\'background-color: #FFFF00\'>【龙】</span>√<br>")
-document.writeln(" 110期【猪】√<br>")
+document.writeln(" 110期<span style=\'background-color: #FFFF00\'>【猪】</span>√<br>")
+document.writeln(" 111期【鼠】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -72,8 +73,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-document.writeln("110-111期出平【马】000期中<br>");
-
+document.writeln("110-111期出平<span style=\'background-color: #FFFF00\'>【马】</span>110期中<br>");
+document.writeln("111-112期出平【虎】000期中<br>");
 
 document.writeln("");
 document.writeln("");
@@ -90,8 +91,8 @@ document.writeln("103-104期平码【43.10.<span style=\'background-color: #FFFF
 document.writeln("104-105期平码【22.49.<span style=\'background-color: #FFFF00\'>15</span>.18】104期中<br>");
 document.writeln("105-106期平码【24.46.37.<span style=\'background-color: #FFFF00\'>14</span>】105期中<br>");
 document.writeln("106-107期平码【35.07.41.20】000期中<br>");
-document.writeln("108-110期平码【45.18.28.35】000期中<br>");
-
+document.writeln("108-110期平码【45.18.28.<span style=\'background-color: #FFFF00\'>35</span>】110期中<br>");
+document.writeln("111-113期平码【20.46.38.12】000期中<br>");
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -114,7 +115,8 @@ document.writeln("106期<span style=\'background-color: #FFFF00\'>【1尾】</sp
 document.writeln("107期【3尾】×<br>");
 document.writeln("108期<span style=\'background-color: #FFFF00\'>【1尾】</span>√<br>");
 document.writeln("109期【6尾】×<br>");
-document.writeln("110期【2尾】√<br>");
+document.writeln("110期【2尾】×<br>");
+document.writeln("111期【3尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -167,8 +169,8 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 document.writeln("108期（48.29.45.32.40）√<br>");
 document.writeln("109期（05.45.47.22.13）√<br>");
-document.writeln("110期（29.47.28.34.07）√<br>");
-
+document.writeln("110期（29.47.28.34.07）×<br>");
+document.writeln("111期（28.45.37.14.11）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

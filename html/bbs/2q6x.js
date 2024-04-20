@@ -30,22 +30,9 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("109-110期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猴羊鸡兔虎牛】</font>(000期√)<br>");
+document.writeln("111-112期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡牛猴猪狗虎】</font>(000期√)<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("107-108期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马猪牛虎蛇鸡】</font>(000期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("106-107期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>牛</span>鸡虎狗猪兔】</font>(106期√)<br>");
-document.writeln("");
-document.writeln("104-105期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡狗猪蛇羊牛】</font>(000期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("102-103期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马猴龙<span style=\'background-color: #FFFF00\'>鼠</span>虎蛇】</font>(103期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("101-102期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马狗虎龙<span style=\'background-color: #FFFF00\'>猴</span>兔】</font>(101期√)<br>");
-document.writeln("");
+
 
 document.writeln("");
 document.writeln("</font><br>											");
@@ -60,21 +47,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("108-110期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【9617尾】</font>(000期√)<br>");
-
-document.writeln("");
-document.writeln("103-105期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>5</span>431尾】</font>(103期√)<br>");
-
-document.writeln("");
-document.writeln("101-103期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【36<span style=\'background-color: #FFFF00\'>9</span>4尾】</font>(102期√)<br>");
-
-document.writeln("");
-document.writeln("098-100期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【80<span style=\'background-color: #FFFF00\'>7</span>4尾】</font>(100期√)<br>");
-
-document.writeln("");
-document.writeln("095-097期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【476<span style=\'background-color: #FFFF00\'>0</span>尾】</font>(097期√)<br>");
-
-document.writeln("093-095期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>3</span>758尾】</font>(094期√)<br>");
+document.writeln("111-113期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【5026尾】</font>(000期√)<br>");
 
 document.writeln("");
 document.writeln("");

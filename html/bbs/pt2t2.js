@@ -48,9 +48,13 @@ document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("110期：平特【虎蛇拖羊牛】开？00<br>");
+document.writeln("110期：平特【虎<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>羊</span>牛】开24.48.34.10<br>");
 document.writeln("------<br>");
 
+document.writeln("");
+document.writeln("");
+document.writeln("111期：平特【羊蛇拖猪龙】开？00<br>");
+document.writeln("------<br>");
 
 
 document.writeln("");

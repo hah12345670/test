@@ -33,6 +33,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>112期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天下和平家家好，山绿水秀处处春");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天下和平解天肖龙兔牛猪马猴，山绿水秀解山肖鸡羊虎兔猪猴鼠</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：羊虎兔猪猴鼠龙<br>");
+document.writeln("			四肖：羊虎兔猪<br>");
+document.writeln("			特码：22.34.03.15.14.26.30.42.09.21.17.41.13.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -42,9 +58,9 @@ document.writeln("飞龙猛虎走一起，龙眼一只为君开");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：走一起解合肖龙蛇猴鸡狗猪，为君解男肖龙虎狗牛马猴鼠</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：虎狗牛马猴鼠蛇<br>");
-document.writeln("			四肖：虎狗牛马<br>");
-document.writeln("			特码：03.39.31.43.04.40.11.23.09.21.17.41.24.36</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎<span style=\'background-color: #FFFF00\'>狗</span>牛马猴鼠蛇<br>");
+document.writeln("			四肖：虎<span style=\'background-color: #FFFF00\'>狗</span>牛马<br>");
+document.writeln("			特码：03.39.31.<span style=\'background-color: #FFFF00\'>43</span>.04.40.11.23.09.21.17.41.24.36</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

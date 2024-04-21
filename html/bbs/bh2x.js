@@ -24,11 +24,17 @@ document.writeln("双笔：虎、猴、狗、兔、羊、牛</span></font></b></
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>112期：</font>【<font color=\'#008000\'>单笔+鸡猪</font>】开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>111期：</font>【<font color=\'#008000\'>单笔+狗兔</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>111期：</font>【<font color=\'#008000\'>单笔+<span style=\'background-color: #FFFF00\'>狗</span>兔</font>】开狗43√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -39,40 +45,6 @@ document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#0000FF\'>110期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+猴羊</font>】开蛇48√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>108期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+蛇鸡</font>】开羊46√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>107期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙蛇</font>】开羊46√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>105期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+兔羊</font>】开龙490√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>104期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+猴狗</font>】开马35√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>102期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+马蛇</font>】开狗19√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>101期：</font>【<font color=\'#008000\'>单笔+<span style=\'background-color: #FFFF00\'>猴</span>狗</font>】开猴21√</font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 

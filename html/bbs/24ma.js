@@ -14,20 +14,38 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("111期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("112期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
-document.writeln("（37.43.40.26.39.15.30.27.01.05.10.03）<br>");
+document.writeln("（10.23.09.18.15.43.19.47.17.04.02.05）<br>");
+document.writeln("（36.45.44.33.03.26.20.16.49.22.46.30）</span></font></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
+
+
+
+document.writeln("");
+document.writeln("<!-----开始----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("111期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>狗43</span></font></font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<font color=\'#0000FF\'>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("");
+document.writeln("（37.<span style=\'background-color: #FFFF00\'>43</span>.40.26.39.15.30.27.01.05.10.03）<br>");
 document.writeln("（11.49.14.48.12.21.25.04.41.22.47.18）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");

@@ -16,24 +16,6 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("103期：平特【<span style=\'background-color: #FFFF00\'>蛇</span>马拖<span style=\'background-color: #FFFF00\'>虎</span>牛】开36.03<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("104期：平特【<span style=\'background-color: #FFFF00\'>鼠</span>龙拖<span style=\'background-color: #FFFF00\'>猪蛇</span>】开17.24.42<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("105期：平特【<span style=\'background-color: #FFFF00\'>龙</span>猴拖猪<span style=\'background-color: #FFFF00\'>蛇</span>】开49.30<br>");
-document.writeln("------<br>");
-
 
 document.writeln("");
 document.writeln("");
@@ -53,7 +35,11 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("111期：平特【羊蛇拖猪龙】开？00<br>");
+document.writeln("111期：平特【<span style=\'background-color: #FFFF00\'>羊</span>蛇拖<span style=\'background-color: #FFFF00\'>猪龙</span>】开34.01.37.18<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("112期：平特【鸡马拖牛狗】开？00<br>");
 document.writeln("------<br>");
 
 

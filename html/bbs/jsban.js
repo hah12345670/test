@@ -37,27 +37,6 @@ document.writeln("");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-
-document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第111期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【绿单】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第109期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【蓝单】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>狗43</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
 
 
 document.writeln("");
@@ -66,64 +45,11 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=35 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第107期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【绿单】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>羊46</span></font></b></td>");
+document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第112期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【红双】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>？00</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("            <!--开始-->");
 document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第106期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【红双】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>牛16</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第105期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【绿双】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>龙49</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
-document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第104期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【红双】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>马35</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
-document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第103期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【红单】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>鼠05</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
 
-document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第102期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【红双】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>狗19</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
-
-document.writeln("");
-document.writeln("      <!--开始-->");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=35 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font size=\'4\' color=\'#000000\' face=\'微软雅黑\'>第101期</font><font size=\'4\' face=\'微软雅黑\' color=\'#0000FF\'>绝杀半波</font><font color=\'#FF00FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>【蓝单】</font><font color=\'#000000\' face=\'微软雅黑\' size=\'4\'>开<span style=\'background-color: #FFFF00\'>猴21</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("            <!--开始-->");
 
 
 

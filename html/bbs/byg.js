@@ -78,7 +78,10 @@ document.writeln("		特肖【鼠鸡猪<span style=\'background-color: #FFFF00\'>
 
 
 document.writeln("                   <font color=\'#0000FF\'>（111期）</font><Br>");
-document.writeln("		特肖【狗鸡猴龙兔马】<br> 	<br>	");
+document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>狗</span>鸡猴龙兔马】<br> 	<br>	");
+
+document.writeln("                   <font color=\'#0000FF\'>（112期）</font><Br>");
+document.writeln("		特肖【龙兔虎蛇狗羊】<br> 	<br>	");
 
 
 document.writeln("		</font>	");
@@ -118,14 +121,15 @@ document.writeln("");
 document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 
 
-document.writeln("		103期必中平特【<span style=\'background-color: #FFFF00\'>猴+狗</span>】√<br>	");
+
 document.writeln("		105期必中平特【虎+<span style=\'background-color: #FFFF00\'>兔</span>】√<br>	");
 document.writeln("		106期必中平特【<span style=\'background-color: #FFFF00\'>牛</span>+猪】√<br>	");
 document.writeln("		107期必中平特【狗+<span style=\'background-color: #FFFF00\'>猴</span>】√<br>	");
 document.writeln("		108期必中平特【<span style=\'background-color: #FFFF00\'>猴</span>+猪】√<br>	");
 document.writeln("		109期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+虎】√<br>	");
 
-document.writeln("		111期必中平特【虎+鸡】√<br>	");
+document.writeln("		112期必中平特【羊+牛】√<br>	");
+
 
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
@@ -149,6 +153,8 @@ document.writeln("");
 
 document.writeln("		110期杀【44.01.14.07.39.38.20】√<br>");
 document.writeln("		111期杀【38.42.48.28.31.37.08】√<br>");
+document.writeln("		112期杀【12.20.49.26.42.10.06】√<br>");
+
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -193,12 +199,10 @@ document.writeln("            ");
 document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
-document.writeln("		106期（绿肖）√<br>			"); 
-document.writeln("		107期（红肖）×<br>			"); 
-document.writeln("		108期（绿肖）√<br>			"); 
-document.writeln("		109期（红肖）×<br>			"); 
-document.writeln("		110期（绿肖）×<br>			"); 
-document.writeln("		111期（蓝肖）√<br>			"); 
+
+document.writeln("		112期（红肖）√<br>			"); 
+
+
 document.writeln("");
 document.writeln("   ");
 document.writeln("");
@@ -213,7 +217,9 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 
 document.writeln("		109期【74<span style=\'background-color: #FFFF00\'>3</span>6尾】√<br>				");
 document.writeln("		110期【<span style=\'background-color: #FFFF00\'>8</span>704尾】√<br>				");
-document.writeln("		111期【9480尾】√<br>				");
+document.writeln("		111期【9480尾】×<br>				");
+document.writeln("		112期【6431尾】√<br>				");
+
 
 document.writeln("");
 document.writeln("				");
@@ -233,7 +239,8 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 document.writeln("		");
 document.writeln("");
 document.writeln("		110期（1.<span style=\'background-color: #FFFF00\'>4</span>头）√<br>	");
-document.writeln("		111期（2.1头）√<br>	");
+document.writeln("		111期（2.1头）×<br>	");
+document.writeln("		112期（0.2头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -255,6 +262,8 @@ document.writeln("		108期<span style=\'background-color: #FFFF00\'>红波</span
 document.writeln("		109期蓝波+<span style=\'background-color: #FFFF00\'>绿单</span><br>	");
 document.writeln("		110期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿双<br>	");
 document.writeln("		111期蓝波+红双<br>	");
+document.writeln("		112期红波+蓝双<br>	");
+
 
 document.writeln("		");
 document.writeln("		    ");
@@ -292,7 +301,7 @@ document.writeln("		108期杀鸡狗√<br>");
 document.writeln("		109期杀猴兔√<br>");
 document.writeln("		110期杀虎猪√<br>");
 document.writeln("		111期杀猪牛√<br>");
-
+document.writeln("		112期杀牛兔√<br>");
 
 document.writeln("		");
 document.writeln("			 ");
@@ -304,10 +313,9 @@ document.writeln("");
 
 
 
-document.writeln("		108期杀绿单√<br>");
-document.writeln("		109期杀蓝双√<br>");
-document.writeln("		110期杀蓝双×<br>");
 document.writeln("		111期杀红单√<br>");
+document.writeln("		112期杀蓝双√<br>");
+
 
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -329,6 +337,8 @@ document.writeln("		108期杀2头单√<br>	");
 document.writeln("		109期杀0头双√<br>	");
 document.writeln("		110期杀1头双√<br>	");
 document.writeln("		111期杀3头双√<br>	");
+document.writeln("		112期杀2头单√<br>	");
+
 
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -347,7 +357,7 @@ document.writeln("		108期杀9.5尾√<br>");
 document.writeln("		109期杀0.6尾√<br>");
 document.writeln("		110期杀6.7尾√<br>");
 document.writeln("		111期杀6.2尾√<br>");
-
+document.writeln("		112期杀1.2尾√<br>");
 
 document.writeln("		");
 document.writeln("");

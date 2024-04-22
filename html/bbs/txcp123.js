@@ -112,7 +112,7 @@ document.writeln("		    ");
 
 document.writeln("		109期【鼠龙<span style=\'background-color: #FFFF00\'>狗</span>】<br>		");
 
-document.writeln("		112期【马羊猴】<br>		");
+document.writeln("		113期【猴鸡羊】<br>		");
 
 
 document.writeln("		");
@@ -129,7 +129,7 @@ document.writeln("			104期【羊<span style=\'background-color: #FFFF00\'>马</
 document.writeln("			107期【兔<span style=\'background-color: #FFFF00\'>羊</span>+猪】<br><br>");
 document.writeln("			109期【虎<span style=\'background-color: #FFFF00\'>狗</span>+牛】<br><br>");
 document.writeln("			111期【龙猪+<span style=\'background-color: #FFFF00\'>狗</span>】<br><br>");
-document.writeln("			112期【猴猪+鸡】<br><br>");
+document.writeln("			113期【马兔+猪】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -144,17 +144,6 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 
 
-document.writeln("								");
-document.writeln("				103期<span style=\'background-color: #FFFF00\'>鼠</span>羊龙<br>");
-document.writeln("				08.20.32.44<br><br>");
-document.writeln("								");
-document.writeln("								");
-document.writeln("				104期兔狗虎<br>");
-document.writeln("				11.23.<span style=\'background-color: #FFFF00\'>35</span>.47<br><br>");
-document.writeln("								");
-document.writeln("				106期<span style=\'background-color: #FFFF00\'>牛</span>虎兔<br>");
-document.writeln("				11.23.35.47<br><br>");
-document.writeln("								");
 document.writeln("				109期羊鸡<span style=\'background-color: #FFFF00\'>狗</span><br>");
 document.writeln("				17.29.13.49<br><br>");
 document.writeln("								");
@@ -162,8 +151,8 @@ document.writeln("								");
 document.writeln("				110期<span style=\'background-color: #FFFF00\'>蛇</span>虎猴<br>");
 document.writeln("				08.20.17.29<br><br>");
 document.writeln("								");
-document.writeln("				112期牛龙马<br>");
-document.writeln("				17.29.08.20<br><br>");
+document.writeln("				113期兔猪猴<br>");
+document.writeln("				10.22.36.48<br><br>");
 document.writeln("								");
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -183,9 +172,9 @@ document.writeln("111期<br>");
 document.writeln("21.11.36.34.31.20<br>");
 document.writeln("15.26.<span style=\'background-color: #FFFF00\'>43</span>.19.48.06<br>	");
 
-document.writeln("112期<br>");
-document.writeln("25.16.05.02.33.35<br>");
-document.writeln("48.47.39.26.29.30<br>	");
+document.writeln("113期<br>");
+document.writeln("27.14.05.02.44.42<br>");
+document.writeln("19.41.30.31.25.47<br>	");
 
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -218,7 +207,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 
 
 
-document.writeln("112期【兔猴牛鼠】<br><br>");
+document.writeln("113期【蛇兔猪鼠】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
@@ -245,9 +234,9 @@ document.writeln("				【36.29.13.07】<br>	<br>				");
 document.writeln("				");
 
 
-document.writeln("				112期？<br>");
-document.writeln("				【37.31.15.20】<br>");
-document.writeln("				【08.41.24.36】<br>	<br>				");
+document.writeln("				113期？<br>");
+document.writeln("				【35.21.39.37】<br>");
+document.writeln("				【19.45.30.09】<br>	<br>				");
 document.writeln("				");
 
 document.writeln("				</b></font></span><p>");
@@ -264,9 +253,9 @@ document.writeln("		    ");
 
 
 document.writeln("				");
-document.writeln("				112期<br>");
-document.writeln("			（07.44.26.25.39）<br>");
-document.writeln("			（03.09.35.17.36）<br>	");
+document.writeln("				113期<br>");
+document.writeln("			（33.03.16.25.34）<br>");
+document.writeln("			（44.27.37.09.14）<br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</span></b></font><b><br>");
@@ -280,7 +269,7 @@ document.writeln("				106期<span style=\'background-color: #FFFF00\'>牛</span>
 document.writeln("				107期鼠狗猴+<span style=\'background-color: #FFFF00\'>羊</span><br><br>");
 document.writeln("				110期<span style=\'background-color: #FFFF00\'>蛇</span>猴兔+虎<br><br>");
 document.writeln("				111期<span style=\'background-color: #FFFF00\'>狗</span>蛇马+龙<br><br>");
-document.writeln("				112期牛猪鸡+虎<br><br>");
+document.writeln("				113期蛇龙马+猪<br><br>");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

@@ -38,32 +38,18 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>113期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("羊前猪后混一淡，秋风不敢三四晚");
+document.writeln("			<font style=\'font-size: 13pt\'>114期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("声东击西四海游，心有灵犀牛羊蛇");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：明肖羊猪，秋风解秋肖猴鸡狗，风肖兔虎龙，34解羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：明肖牛羊蛇，声东击西解东肖兔虎龙，西肖猴鸡狗</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：猴鸡狗兔虎龙羊<br>");
-document.writeln("			四肖：猴鸡狗兔<br>");
-document.writeln("			特码：09.21.08.20.31.43.02.14.15.39.13.49.22.34</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡狗兔虎龙牛羊<br>");
+document.writeln("			四肖：鸡狗兔虎<br>");
+document.writeln("			特码：08.20.31.43.02.14.15.39.13.49.16.40.22.34</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>111期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("飞龙猛虎走一起，龙眼一只为君开");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：走一起解合肖龙蛇猴鸡狗猪，为君解男肖龙虎狗牛马猴鼠</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：虎<span style=\'background-color: #FFFF00\'>狗</span>牛马猴鼠蛇<br>");
-document.writeln("			四肖：虎<span style=\'background-color: #FFFF00\'>狗</span>牛马<br>");
-document.writeln("			特码：03.39.31.<span style=\'background-color: #FFFF00\'>43</span>.04.40.11.23.09.21.17.41.24.36</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
+
 
 
 

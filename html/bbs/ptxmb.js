@@ -50,7 +50,7 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 
-document.writeln(" 114期【蛇】√<br>")
+document.writeln(" 115期【牛】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -65,8 +65,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-
-document.writeln("113-114期出平【猪】000期中<br>");
+document.writeln("113-114期出平<span style=\'background-color: #FFFF00\'>【猪】</span>114期中<br>");
+document.writeln("115-116期出平【兔】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -89,7 +89,8 @@ document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 document.writeln("113期<span style=\'background-color: #FFFF00\'>【9尾】</span>√<br>");
-document.writeln("114期【7尾】√<br>");
+document.writeln("114期<span style=\'background-color: #FFFF00\'>【7尾】</span>√<br>");
+document.writeln("115期【4尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -109,9 +110,10 @@ document.writeln("113-114期平尾<span style=\'background-color: #FFFF00\'>【7
 document.writeln("114-115期平尾【5尾】000期中<br>");
 
 
+
 document.writeln("");
 document.writeln("");
-document.writeln("									");
+document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
 document.writeln("<br><font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位六5不中<font color=\'#008000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>（2.1倍）</font><br>");
@@ -120,13 +122,7 @@ document.writeln("");
 document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("108期（48.29.45.32.40）√<br>");
-document.writeln("109期（05.45.47.22.13）√<br>");
-document.writeln("110期（29.47.28.34.07）×<br>");
-document.writeln("111期（28.45.37.14.11）√<br>");
-document.writeln("112期（43.39.05.10.48）×<br>");
-document.writeln("113期（48.30.44.09.19）×<br>");
-document.writeln("114期（46.41.43.03.38）√<br>");
+document.writeln("115期（29.20.44.12.32）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

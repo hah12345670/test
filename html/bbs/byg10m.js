@@ -59,8 +59,8 @@ document.writeln("109期：&三肖中特&<font color=\"#FF0000\" style=\"font-si
 document.writeln("110期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【牛.虎.马】</font></b>开蛇48错<br>");
 document.writeln("111期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【猪.鸡.猴】</font></b>开狗43错<br>");
 document.writeln("112期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【马.<span style=\'background-color: #FFFF00\'>狗</span>.鸡】</font></b>开狗43准<br>");
-document.writeln("113期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【鸡.虎.猴】</font></b>开發00准<br>");
-
+document.writeln("113期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【鸡.虎.猴】</font></b>开蛇24错<br>");
+document.writeln("114期：&三肖中特&<font color=\"#FF0000\" style=\"font-size: 14pt\">【虎.猴.马】</font></b>开發00准<br>");
 document.writeln("	</span></p></tr><td></table>");
 document.writeln("");
 document.writeln("<!--每期结束-->");

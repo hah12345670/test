@@ -44,8 +44,13 @@ document.writeln("------<br>");
 
 
 document.writeln("");
-document.writeln("114期：平特【马鼠拖狗羊】开？00<br>");
+document.writeln("114期：平特【马鼠拖<span style=\'background-color: #FFFF00\'>狗羊</span>】开19.43.07.34<br>");
 document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("115期：平特【牛狗拖龙羊】开？00<br>");
+document.writeln("------<br>");
+
 
 document.writeln("");
 document.writeln("");

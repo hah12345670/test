@@ -42,8 +42,9 @@ document.writeln("");
 document.writeln("112期：平特【<span style=\'background-color: #FFFF00\'>鸡马</span>拖牛<span style=\'background-color: #FFFF00\'>狗</span>】开35.44.43<br>");
 document.writeln("------<br>");
 
+
 document.writeln("");
-document.writeln("113期：平特【狗龙拖羊鸡】开？00<br>");
+document.writeln("114期：平特【马鼠拖狗羊】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

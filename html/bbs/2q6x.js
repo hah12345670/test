@@ -30,7 +30,11 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("112-113期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇龙牛猴猪鼠】</font>(000期√)<br>");
+document.writeln("114-115期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙猪狗鸡马虎】</font>(000期√)<br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("112-113期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>蛇</span>龙牛猴猪鼠】</font>(113期√)<br>");
 document.writeln("");
 
 document.writeln("");
@@ -51,7 +55,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("111-113期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【5026尾】</font>(000期√)<br>");
+document.writeln("114-116期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【7635尾】</font>(000期√)<br>");
 
 document.writeln("");
 document.writeln("");

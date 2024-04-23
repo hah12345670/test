@@ -33,16 +33,16 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第113期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗07.虎39.猴21.兔02】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第114期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【蛇36.虎15.鸡20.鼠41】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
+
 
 document.writeln("");
 document.writeln("            <!--开始--> ");

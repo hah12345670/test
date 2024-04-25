@@ -296,7 +296,7 @@ document.writeln("        </li>  ");
 document.writeln("");
 document.writeln("");
 document.writeln("        <li>");
-document.writeln("            <a target=\'_blank\' href=\'     https://edccde.www73125c.com:888/#49qwtbd \'>");
+document.writeln("            <a target=\'_blank\' href=\'     https://njghfd.www73125c.com:888/#49qwtbd \'>");
 document.writeln("                <div class=\'zzhl-txt1\' style=\'font-size: large\'><strong> 116期【港澳宝典】<span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>（家禽野兽）</font></span>已公开</strong></div>");
 document.writeln("            </a>");
 document.writeln("        </li>  ");
@@ -1070,7 +1070,7 @@ document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217005.com:8
 document.writeln("");
 
 
-document.writeln("		<li><b><a target=\'_blank\' href=\'https://wsxxsw.www73125b.com:888/xg/index.html#49qwt\'>047期【港澳宝典】<font color=\'#FF0000\'>（单双100%）</font>已公开</a></b></li>");
+document.writeln("		<li><b><a target=\'_blank\' href=\'https://njghfd.www73125c.com:888/xg/index.html#49qwt\'>047期【港澳宝典】<font color=\'#FF0000\'>（单双100%）</font>已公开</a></b></li>");
 document.writeln("");
 
 document.writeln("		<li><b><a target=\'_blank\' href=\'https://h5.49217005.com:8443/#/corpusdetail?id=35040685&type=3\'>047期【东方神起】<font color=\'#FF0000\'>（平特一肖）</font>已公开</a></b></li>");

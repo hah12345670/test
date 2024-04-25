@@ -159,7 +159,7 @@ document.writeln("		");
 document.writeln("<br>	");
 
 
-document.writeln("		<font color=\'#0000FF\'>115期七肖=羊猪龙蛇虎牛猴√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>116期七肖=龙狗兔虎猪羊蛇√</font><br>		");
 
 document.writeln("		");
 document.writeln("		");

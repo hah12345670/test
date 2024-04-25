@@ -51,17 +51,39 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/114/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/116/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第114期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第116期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【车水马龙】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：后用来形容车马来往不断，非常热闹。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：羊猴马牛鼠龙</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("</P>");
+document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第115期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鼠29中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【汗牛充栋】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：藏书极多，存放时能充满整个屋宇，外运时能累得牛流汗。后以“汗牛充栋”形容书籍极多。充：装满。栋：房屋。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猴<span style=\'background-color: #FFFF00\'>鼠</span>蛇牛羊狗</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("</P>");
+document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第114期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猪18中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【鸡毛蒜皮】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：比喻无关紧要的琐碎事情。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠蛇兔龙鸡猪</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鼠蛇兔龙鸡<span style=\'background-color: #FFFF00\'>猪</span></font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 document.writeln("");
@@ -79,13 +101,27 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/114/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/116/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第116期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【沾亲带故取蓝红】</span></font><br>");
+document.writeln("	==========================<br>");
 document.writeln("");
 
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第114期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第115期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红29中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红绿两波出特码】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第114期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红18中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【沾亲带故取蓝红】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

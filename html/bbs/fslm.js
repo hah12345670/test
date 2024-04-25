@@ -23,7 +23,15 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	115期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>48.46.08.26.37</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	116期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>31.39.27.09.43</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+
+
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	115期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>48.<span style=\'background-color: #FFFF00\'>46</span>.08.26.37</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 

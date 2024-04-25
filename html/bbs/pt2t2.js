@@ -48,7 +48,11 @@ document.writeln("114期：平特【马鼠拖<span style=\'background-color: #FF
 document.writeln("------<br>");
 
 document.writeln("");
-document.writeln("115期：平特【牛狗拖龙羊】开？00<br>");
+document.writeln("115期：平特【牛狗拖龙<span style=\'background-color: #FFFF00\'>羊</span>】开10.46<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("116期：平特【蛇马拖猪牛】开？00<br>");
 document.writeln("------<br>");
 
 

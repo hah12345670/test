@@ -29,12 +29,29 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/116/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/117/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 
+
+
+document.writeln("");
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第117期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（豆蔻梢头二月初）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：豆蔻梢头二月初，解猪鼠狗牛猴鸡。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：猪鼠狗牛猴鸡</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
+document.writeln("");
 
 
 document.writeln("");
@@ -48,7 +65,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：相扶持逢凶化吉，解牛鸡兔羊狗蛇。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：牛鸡兔羊狗蛇</font></b></td>");
+document.writeln("		综合特码：牛鸡兔<span style=\'background-color: #FFFF00\'>羊</span>狗蛇</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");

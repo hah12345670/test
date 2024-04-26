@@ -29,8 +29,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">116期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【36.22.04.07.27.18.29.49.44.10.17.26.20.46】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">117期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【22.15.10.33.19.46.38.01.29.05.32.30.11.31】</span></font></p>  	");
+document.writeln("			");
+document.writeln("  ");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">116期:==14码中特==开羊10准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【36.22.04.07.27.18.29.49.44.<span style=\'background-color: #FFFF00\'>10</span>.17.26.20.46】</span></font></p>  	");
 document.writeln("			");
 document.writeln("  ");
 

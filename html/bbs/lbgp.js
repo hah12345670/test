@@ -30,11 +30,28 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>116期另版挂牌</font><font size=\'4\' color=\'#008000\'>【形影不离】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>117期另版挂牌</font><font size=\'4\' color=\'#008000\'>【形影不离】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("解：意思是水和火是两种性质相反的东西，根本不相容。</p>");
+document.writeln("◎生肖属性：辛酉日；五行属性：木；地支六冲：鸡日冲兔，克鸡，破狗，无鼠；六合：龙；三合：蛇牛。空亡肖：龙蛇。。</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：兔羊牛鸡猪龙蛇猴鼠<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠羊虎蛇龙鸡猪马兔<br>");
+document.writeln("	</p>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：05.41.10.22.03.15.12.36.13.49.08.20.18.30.23.35.14.26</font></font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   <!--结束-->");
+
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>116期另版挂牌</font><font size=\'4\' color=\'#008000\'>【形影不离】</font><font color=\'#0033CC\'>开羊10<br>");
+document.writeln("	</font><font color=\'#000000\'>");
+document.writeln("◎生肖属性：己未日；五行属性：土；地支六冲：羊日冲牛，克牛，破鼠，无狗；六合：马；三合：猪兔。空亡肖：龙蛇。</p>");
+document.writeln("	</font>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：兔<span style=\'background-color: #FFFF00\'>羊</span>牛鸡猪龙蛇猴鼠<br>");
 document.writeln("	</p>");
 document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：14.26.22.34.16.40.08.20.30.42.13.25.12.36.21.33.05.41</font></font></div>");
 document.writeln("    </td></tr>");

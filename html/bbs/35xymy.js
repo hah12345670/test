@@ -34,6 +34,25 @@ document.writeln("<!--头部start-->");
 
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>117期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天下和平家家好，山绿水秀处处春");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天下和平解天肖龙兔猪牛马猴，家家好解家肖马狗鸡羊猪牛</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：马狗鸡羊猪牛龙<br>");
+document.writeln("			四肖：马狗鸡羊<br>");
+document.writeln("			特码：11.23.07.19.20.32.10.22.18.30.16.40.13.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");

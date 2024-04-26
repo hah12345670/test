@@ -23,47 +23,26 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">117期一语中特【白发婆娑】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：形容满头白发的老年人的样子</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗蛇龙马鼠鸡开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">116期一语中特【自报公议】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：自己报名,或报出自认的等级、数字等情况,由群众讨论、评议</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊虎蛇鸡马鼠开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>羊</span>虎蛇鸡马鼠开羊10准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">113期一语中特【异香异气】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：特异的香味和气息。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴狗<span style=\'background-color: #FFFF00\'>蛇</span>猪鸡开蛇24准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">112期一语中特【行走如飞】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：行走的步伐轻盈快速如飞。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇牛<span style=\'background-color: #FFFF00\'>狗</span>马猴鼠开狗43准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">111期一语中特【戎事倥偬】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：戎马：本指战马，借指军事；倥偬：繁忙。形容军务繁忙。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴蛇鼠牛兔<span style=\'background-color: #FFFF00\'>狗</span>开狗43准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
 
 
 
@@ -100,9 +79,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">116期一语中特【嫉恶好善】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：嫉：憎恨；好：喜欢。憎恨坏人坏事，鼓励好人好事</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴兔鸡牛蛇猪开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">116期一语中特【顷刻之间】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：极其短暂的时间</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇龙马羊猴牛开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

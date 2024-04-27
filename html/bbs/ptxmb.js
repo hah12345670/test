@@ -50,7 +50,7 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 
-document.writeln(" 117期【鸡】√<br>")
+document.writeln(" 118期【虎】√<br>")
 
 
 document.writeln("");
@@ -69,8 +69,8 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
 document.writeln("113-114期出平<span style=\'background-color: #FFFF00\'>【猪】</span>114期中<br>");
 document.writeln("115-116期出平<span style=\'background-color: #FFFF00\'>【兔】</span>116期中<br>");
-document.writeln("117-118期出平【狗】000期中<br>");
-
+document.writeln("117-118期出平<span style=\'background-color: #FFFF00\'>【狗】</span>117期中<br>");
+document.writeln("118-119期出平【猴】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -81,7 +81,7 @@ document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
 document.writeln("114-115期平码【<span style=\'background-color: #FFFF00\'>29</span>.17.09.27】114期中<br>");
 document.writeln("116-117期平码【06.35.37.05】000期中<br>");
-
+document.writeln("118-119期平码【15.25.01.06】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -97,7 +97,8 @@ document.writeln("113期<span style=\'background-color: #FFFF00\'>【9尾】</sp
 document.writeln("114期<span style=\'background-color: #FFFF00\'>【7尾】</span>√<br>");
 document.writeln("115期<span style=\'background-color: #FFFF00\'>【4尾】</span>√<br>");
 document.writeln("116期<span style=\'background-color: #FFFF00\'>【2尾】</span>√<br>");
-document.writeln("117期【2尾】√<br>");
+document.writeln("117期【2尾】×<br>");
+document.writeln("118期【7尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -116,7 +117,7 @@ document.writeln("112-113期平尾<span style=\'background-color: #FFFF00\'>【3
 document.writeln("113-114期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>113期中<br>");
 document.writeln("114-115期平尾【5尾】000期中<br>");
 document.writeln("116-117期平尾【7尾】000期中<br>");
-
+document.writeln("118-119期平尾【0尾】000期中<br>");
 
 
 document.writeln("");
@@ -130,7 +131,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("117期（28.39.15.34.25）√<br>");
+document.writeln("118期（08.28.03.19.20）√<br>");
+
 
 document.writeln("");
 document.writeln("</font></b></td>");

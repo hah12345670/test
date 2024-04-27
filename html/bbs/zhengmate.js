@@ -29,7 +29,8 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("");
-document.writeln("117期稳杀(1)肖【马马马】开？00√<BR>");
+document.writeln("118期稳杀(1)肖【兔兔兔】开？00√<BR>");
+document.writeln("117期稳杀(1)肖【马马马】开龙25√<BR>");
 document.writeln("116期稳杀(1)肖【狗狗狗】开羊10√<BR>");
 document.writeln("115期稳杀(1)肖【猴猴猴】开鼠29√<BR>");
 document.writeln("114期稳杀(1)肖【兔兔兔】开猪18√<BR>");
@@ -52,8 +53,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-
-document.writeln("117期稳杀(1)尾【888尾】开？00√<BR>");
+document.writeln("118期稳杀(1)尾【333尾】开？00√<BR>");
+document.writeln("117期稳杀(1)尾【888尾】开龙25√<BR>");
 document.writeln("116期稳杀(1)尾【777尾】开羊10√<BR>");
 document.writeln("115期稳杀(1)尾【000尾】开鼠29√<BR>");
 document.writeln("114期稳杀(1)尾【333尾】开猪18√<BR>");
@@ -98,7 +99,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("117期稳杀半波【红单】开？00√<BR>	");
+document.writeln("118期稳杀半波【绿双】开？00√<BR>	");
+document.writeln("117期稳杀半波【红单】开龙25√<BR>	");
 document.writeln("116期稳杀半波【蓝单】开羊10√<BR>	");
 document.writeln("115期稳杀半波【绿双】开鼠29√<BR>	");
 document.writeln("114期稳杀半波【红单】开猪18√<BR>	");
@@ -119,7 +121,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("117期稳杀半头【3头单】开？00√<BR>");
+document.writeln("118期稳杀半头【2头双】开？00√<BR>");
+document.writeln("117期稳杀半头【3头单】开龙25√<BR>");
 document.writeln("116期稳杀半头【4头双】开羊10√<BR>");
 document.writeln("115期稳杀半头【2头双】开鼠29√<BR>");
 document.writeln("114期稳杀半头【0头单】开猪18√<BR>");
@@ -148,7 +151,9 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("117期稳杀单双【小双】开？00√<BR>");
+
+document.writeln("118期稳杀单双【大单】开？00√<BR>");
+document.writeln("117期稳杀单双【小双】开龙25<BR>");
 document.writeln("116期稳杀单双【大双】开羊10√<BR>");
 document.writeln("115期稳杀单双【小单】开鼠29√<BR>");
 document.writeln("114期稳杀单双【大双】开猪18√<BR>");
@@ -196,7 +201,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一行）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("117期稳杀(1)行【土土土】开？00√<BR>");
+document.writeln("118期稳杀(1)行【火火火】开？00√<BR>");
+document.writeln("117期稳杀(1)行【土土土】开龙25√<BR>");
 
 document.writeln("");
 document.writeln("");

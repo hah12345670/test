@@ -56,9 +56,12 @@ document.writeln("116期：平特【<span style=\'background-color: #FFFF00\'>�
 document.writeln("------<br>");
 
 document.writeln("");
-document.writeln("117期：平特【虎龙拖羊鼠】开？00<br>");
+document.writeln("117期：平特【虎<span style=\'background-color: #FFFF00\'>龙</span>拖羊<span style=\'background-color: #FFFF00\'>鼠</span>】开25.29<br>");
 document.writeln("------<br>");
 
+document.writeln("");
+document.writeln("118期：平特【猴牛拖虎羊】开？00<br>");
+document.writeln("------<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -23,7 +23,14 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	118期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.12.41.16.31</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	119期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>36.18.38.35.45</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	118期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>38.12.<span style=\'background-color: #FFFF00\'>41</span>.16.31</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 document.writeln("	<!--开始-->");

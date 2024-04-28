@@ -50,7 +50,7 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 
-document.writeln(" 118期【虎】√<br>")
+document.writeln(" 119期【猴】√<br>")
 
 
 document.writeln("");
@@ -70,7 +70,8 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 document.writeln("113-114期出平<span style=\'background-color: #FFFF00\'>【猪】</span>114期中<br>");
 document.writeln("115-116期出平<span style=\'background-color: #FFFF00\'>【兔】</span>116期中<br>");
 document.writeln("117-118期出平<span style=\'background-color: #FFFF00\'>【狗】</span>117期中<br>");
-document.writeln("118-119期出平【猴】000期中<br>");
+document.writeln("118-119期出平<span style=\'background-color: #FFFF00\'>【猴】</span>118期中<br>");
+document.writeln("119-120期出平【蛇】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -98,7 +99,8 @@ document.writeln("114期<span style=\'background-color: #FFFF00\'>【7尾】</sp
 document.writeln("115期<span style=\'background-color: #FFFF00\'>【4尾】</span>√<br>");
 document.writeln("116期<span style=\'background-color: #FFFF00\'>【2尾】</span>√<br>");
 document.writeln("117期【2尾】×<br>");
-document.writeln("118期【7尾】√<br>");
+document.writeln("118期【7尾】×<br>");
+document.writeln("119期【8尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -112,13 +114,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-
-document.writeln("112-113期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>112期中<br>");
-document.writeln("113-114期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>113期中<br>");
-document.writeln("114-115期平尾【5尾】000期中<br>");
-document.writeln("116-117期平尾【7尾】000期中<br>");
-document.writeln("118-119期平尾【0尾】000期中<br>");
-
+document.writeln("118-119期平尾<span style=\'background-color: #FFFF00\'>【0尾】</span>118期中<br>");
+document.writeln("119-120期平尾【3尾】000期中<br>");
 
 document.writeln("");
 document.writeln("");
@@ -132,6 +129,8 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 
 document.writeln("118期（08.28.03.19.20）√<br>");
+
+document.writeln("119期（41.10.02.45.20）√<br>");
 
 
 document.writeln("");

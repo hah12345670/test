@@ -18,31 +18,15 @@ document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' style=\'text-decoration: none\'><img src=images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最具权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");
 document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>118期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>23-34-21-02-09</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-document.writeln("");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>116期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>42-09-48-18-49</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>115期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>42-16-24-21-19</font><font color=\'#0000FF\'>】准</font></b></font></table>");
-document.writeln("	<!--结束-->");
 
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>113期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>22-12-33-38-21</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>119期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>05-02-41-20-14</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->");
+
+
 
 
 

@@ -53,7 +53,7 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第118期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第119期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 document.writeln("");
@@ -86,126 +86,6 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第114期特码王<fo
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 document.writeln("");
-
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第111期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>43</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第109期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>43</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第108期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>46</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第107期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>46</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第106期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>16</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第104期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>35</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第103期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>05</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第102期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>19</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第101期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>21</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第100期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>17</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第099期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>28</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-
-document.writeln("");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第098期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>46</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-
-
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第097期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>10</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-
-
-
-
 
 
 

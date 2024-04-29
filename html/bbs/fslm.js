@@ -23,8 +23,10 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	119期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>36.18.38.35.45</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	120期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>45.06.07.12.49</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+
+
 
 document.writeln("");
 document.writeln("	<!--开始-->");
@@ -40,13 +42,6 @@ document.writeln("	117期<font color=\'#0000FF\'>【</font><font color=\'#FF0000
 document.writeln("		<!--开始-->");
 
 
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	115期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>48.<span style=\'background-color: #FFFF00\'>46</span>.08.26.37</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
 
 
 

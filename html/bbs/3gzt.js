@@ -24,10 +24,17 @@ document.writeln("		");
 document.writeln("		<!--开始-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>119期三国中特</font><font color=\'#FF0000\' size=\'5\'>【魏蜀】</font><font size=\'4\'>开？00准</font></b></font></table>");
+document.writeln("	<font size=\'4\'>120期三国中特</font><font color=\'#FF0000\' size=\'5\'>【吴蜀】</font><font size=\'4\'>开？00准</font></b></font></table>");
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
+document.writeln("	<font size=\'4\'>119期三国中特</font><font color=\'#FF0000\' size=\'5\'>【魏<span style=\'background-color: #FFFF00\'>蜀</span>】</font><font size=\'4\'>开鸡32准</font></b></font></table>");
 
 
 

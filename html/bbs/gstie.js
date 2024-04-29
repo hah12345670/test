@@ -62,7 +62,8 @@ document.writeln("				114期<span style=\'background-color: #FFFF00\'>猪</span>
 document.writeln("				115期<span style=\'background-color: #FFFF00\'>鼠</span>虎牛+马<br><br>");
 document.writeln("				116期<span style=\'background-color: #FFFF00\'>羊</span>狗猪+兔<br><br>");
 document.writeln("				117期鸡狗<span style=\'background-color: #FFFF00\'>龙</span>+鼠<br><br>");
-document.writeln("				118期兔蛇羊+猪<br><br>");
+document.writeln("				120期鸡马兔+羊<br><br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

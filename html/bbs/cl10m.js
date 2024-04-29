@@ -56,7 +56,7 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>"
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("119期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
+document.writeln("120期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("    		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
@@ -64,32 +64,12 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【02.34.42.11.01.48.15.03】<br>");
-document.writeln("		【46.31.04.24.18.07.10.05】</font></b></td>");
+document.writeln("		【05.02.43.37.03.21.14.11】<br>");
+document.writeln("		【48.49.29.44.01.13.30.31】</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
 document.writeln("");
 
-document.writeln("");
-document.writeln("             <!--开始--> ");
-document.writeln("		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("117期<font color=\"#0000FF\">（我是菜鸟）</font><font color=\'#0000FF\' style=\'font-size: 14pt\'>（16.码左右）</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("    		<tr>");
-document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><p>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【07.33.23.26.18.22.<span style=\'background-color: #FFFF00\'>25</span>.49】<br>");
-document.writeln("		【46.27.28.08.32.42.38.44】</font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("   <!--结束--> ");
-document.writeln("");
 
 
 

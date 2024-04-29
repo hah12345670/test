@@ -33,6 +33,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>120期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：龙王天兵解天肖龙猴猪牛马兔，家园解家肖狗牛鸡羊猪马</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：狗牛鸡羊猪马龙<br>");
+document.writeln("			四肖：狗牛鸡羊<br>");
+document.writeln("			特码：07.19.16.40.08.20.10.22.06.30.11.23.13.49</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -43,9 +59,9 @@ document.writeln("携猪八戒保唐僧，花果山上一大圣");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：携猪八戒保唐僧解取经肖龙虎猴猪马，花果山上解山肖鸡羊虎兔猪猴鼠</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：猴虎马狗牛鸡龙<br>");
-document.writeln("			四肖：猴虎马狗<br>");
-document.writeln("			特码：09.21.15.39.11.23.07.19.16.40.20.32.13.49</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>猴</span>虎马狗牛鸡龙<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>猴</span>虎马狗<br>");
+document.writeln("			特码：09.<span style=\'background-color: #FFFF00\'>21</span>.15.39.11.23.07.19.16.40.20.32.13.49</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

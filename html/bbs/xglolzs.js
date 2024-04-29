@@ -96,7 +96,7 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（单双中特）</font><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("119期单双【单+小双】开？00√<br>");
+document.writeln("049期单双【单+小双】开？00√<br>");
 
 document.writeln("	");
 document.writeln("");

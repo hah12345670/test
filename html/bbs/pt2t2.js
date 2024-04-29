@@ -39,9 +39,9 @@ document.writeln("------<br>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("119期：平特【虎蛇拖鼠兔】开？00<br>");
-document.writeln("------<br>");
 document.writeln("");
+document.writeln("120期：平特【鼠龙拖猴猪】开？00<br>");
+document.writeln("------<br>");
 document.writeln("");
 document.writeln("</font></font></td></tr>");
 document.writeln("");

@@ -1,6 +1,6 @@
 ﻿document.writeln("");
 document.writeln("<div style=\"display:none\">");
-document.writeln("</div>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -90,4 +90,4 @@ document.writeln("    <!--结束-->  ");
 document.writeln("    ");
 document.writeln("");
 document.writeln("");
-document.writeln("    ");
+document.writeln("</div>");

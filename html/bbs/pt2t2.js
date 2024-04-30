@@ -40,7 +40,12 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("120期：平特【鼠龙拖猴猪】开？00<br>");
+document.writeln("120期：平特【<span style=\'background-color: #FFFF00\'>鼠龙</span>拖<span style=\'background-color: #FFFF00\'>猴</span>猪】开05.25.29.21<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("121期：平特【羊牛拖狗兔】开？00<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("</font></font></td></tr>");

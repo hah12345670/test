@@ -5,6 +5,21 @@ document.writeln("<td style=\'font-weight:700;border:1px solid #000; height: 60p
 document.writeln("<table border=1 width=100% bgcolor=#ffffff>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『单双四肖』</font></font></b></table></td></tr>");
+
+document.writeln("<!--------->");
+document.writeln("<tr>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font color=\'#00F\' size=\'3\'>122期</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>狗虎龙猴</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>兔蛇羊牛</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("");
+document.writeln("<!--------->");
+
+
 document.writeln("<!--------->");
 document.writeln("<tr>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
@@ -12,9 +27,9 @@ document.writeln("<font color=\'#00F\' size=\'3\'>121期</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
 document.writeln("<font size=\'3\'>龙马狗虎</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>兔牛猪蛇</font></td>");
+document.writeln("<font size=\'3\'><span style=\'background-color: #FFFF00\'>兔</span>牛猪蛇</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>兔02</font></td></tr>");
 document.writeln("");
 document.writeln("<!--------->");
 

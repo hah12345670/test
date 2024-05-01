@@ -42,21 +42,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("119-121期<font style=\'font-size: 14pt\'>【06.18.30】</font>第?0期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("116-118期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>21</span>.33.45】</font>第118期中</span></font></font></b></td>");
+document.writeln("122-124期<font style=\'font-size: 14pt\'>【12.24.36】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 

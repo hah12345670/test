@@ -45,8 +45,16 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("121期：平特【羊牛拖狗兔】开？00<br>");
+document.writeln("121期：平特【羊牛拖<span style=\'background-color: #FFFF00\'>狗兔</span>】开43.02<br>");
 document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("122期：平特【猪猴拖虎兔】开？00<br>");
+document.writeln("------<br>");
+
+
 document.writeln("");
 document.writeln("</font></font></td></tr>");
 document.writeln("");

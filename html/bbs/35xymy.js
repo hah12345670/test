@@ -37,70 +37,17 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>121期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("狗左龙右猪中奖，猪鸡同道马同乡");
+document.writeln("			<font style=\'font-size: 13pt\'>122期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("阑干风冷雪漫漫，惆怅无人把钓竿");
 document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：明肖狗龙猪鸡马</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：风冷解风肖龙虎兔，雪漫漫解冬肖鼠猪牛，无人解无肖鼠牛虎兔马羊</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：狗龙猪鸡马鼠牛<br>");
-document.writeln("			四肖：狗龙猪鸡<br>");
-document.writeln("			特码：31.43.13.49.06.30.20.32.11.23.17.41.16.40</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎兔鼠猪牛马<br>");
+document.writeln("			四肖：龙虎兔鼠<br>");
+document.writeln("			特码：13.49.03.15.14.26.17.41.30.42.04.16.23.35</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
-
-
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>118期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("携猪八戒保唐僧，花果山上一大圣");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：携猪八戒保唐僧解取经肖龙虎猴猪马，花果山上解山肖鸡羊虎兔猪猴鼠</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>猴</span>虎马狗牛鸡龙<br>");
-document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>猴</span>虎马狗<br>");
-document.writeln("			特码：09.<span style=\'background-color: #FFFF00\'>21</span>.15.39.11.23.07.19.16.40.20.32.13.49</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
-
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>117期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("天下和平家家好，山绿水秀处处春");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：天下和平解天肖龙兔猪牛马猴，家家好解家肖马狗鸡羊猪牛</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：马狗鸡羊猪牛<span style=\'background-color: #FFFF00\'>龙</span><br>");
-document.writeln("			四肖：马狗鸡羊<br>");
-document.writeln("			特码：11.23.07.19.20.32.10.22.18.30.16.40.13.49</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
-
-
-document.writeln("<!--头部start-->");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<b>");
-document.writeln("			<font style=\'font-size: 13pt\'>116期西游谜语<br><font color=\'#FF0000\'>");
-document.writeln("蛇前羊后来美女，一见钟情春心荡");
-document.writeln("</font>");
-document.writeln("			<br></font><font face=\'隶书\'>解析：来美女解女肖蛇羊鸡猪兔，一见钟情解一鼠龙，春心解春肖龙虎兔</font><font style=\'font-size: 13pt\'><br>");
-document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：蛇羊鸡猪兔龙虎<br>");
-document.writeln("			四肖：蛇羊鸡猪<br>");
-document.writeln("			特码：12.36.10.22.08.20.18.30.02.14.13.49.03.5</font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
-
 
 
 

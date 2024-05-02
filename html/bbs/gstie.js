@@ -66,8 +66,8 @@ document.writeln("117期3.头中特【3.<span style=\'background-color: #FFFF00\
 document.writeln("118期3.头中特【4.1.<span style=\'background-color: #FFFF00\'>2</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("119期3.头中特【2.<span style=\'background-color: #FFFF00\'>3</span>.4】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("120期3.头中特【0.<span style=\'background-color: #FFFF00\'>2</span>.3】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("121期3.头中特【3.1.4】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("121期3.头中特【3.1.4】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("122期3.头中特【2.1.4】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -93,7 +93,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("119期3.行中特【土.<span style=\'background-color: #FFFF00\'>金</span>.水】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("120期3.行中特【土.金.火】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("121期3.行中特【金.火.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("121期3.行中特【<span style=\'background-color: #FFFF00\'>金</span>.火.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("122期3.行中特【金.水.土】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

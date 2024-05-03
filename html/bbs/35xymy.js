@@ -33,6 +33,23 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>124期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("披珈带锁走天涯，淡烟芳草马成群");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：走天涯解天肖龙马猪牛猴兔，芳草解草肖牛羊马兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猴兔龙马猪牛羊<br>");
+document.writeln("			四肖：猴兔龙马<br>");
+document.writeln("			特码：09.21.02.14.13.49.23.35.30.42.04.16.22.34</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -42,9 +59,9 @@ document.writeln("九九八十一照算，贵人指点笔颜开");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：九九八十一解取经肖龙虎马猴猪，贵人指点解吉肖龙鸡羊兔蛇马</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎马猴猪鸡羊<br>");
-document.writeln("			四肖：龙虎马猴<br>");
-document.writeln("			特码：01.49.15.39.23.35.09.21.30.42.08.20.22.34</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎马<span style=\'background-color: #FFFF00\'>猴</span>猪鸡羊<br>");
+document.writeln("			四肖：龙虎马<span style=\'background-color: #FFFF00\'>猴</span><br>");
+document.writeln("			特码：01.49.15.39.23.35.09.<span style=\'background-color: #FFFF00\'>21</span>.30.42.08.20.22.34</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

@@ -55,7 +55,8 @@ document.writeln(" 120期<span style=\'background-color: #FFFF00\'>【鼠】</sp
 document.writeln(" 121期<span style=\'background-color: #FFFF00\'>【蛇】</span>√<br>")
 document.writeln(" 122期<span style=\'background-color: #FFFF00\'>【龙】</span>√<br>")
 document.writeln(" 123期【鼠】×<br>")
-document.writeln(" 124期【狗】√<br>")
+document.writeln(" 124期【狗】×<br>")
+document.writeln(" 125期【兔】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -75,7 +76,8 @@ document.writeln("115-116期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("117-118期出平<span style=\'background-color: #FFFF00\'>【狗】</span>117期中<br>");
 document.writeln("118-119期出平<span style=\'background-color: #FFFF00\'>【猴】</span>118期中<br>");
 document.writeln("121-122期出平<span style=\'background-color: #FFFF00\'>【羊】</span>122期中<br>");
-document.writeln("123-124期出平【兔】000期中<br>");
+document.writeln("123-124期出平<span style=\'background-color: #FFFF00\'>【兔】</span>124期中<br>");
+document.writeln("125-126期出平【鸡】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -89,7 +91,8 @@ document.writeln("120-121期平码【<span style=\'background-color: #FFFF00\'>3
 
 document.writeln("122-123期平码【33.06.45.01】000期中<br>");
 
-document.writeln("124-125期平码【43.28.49.34】000期中<br>");
+document.writeln("124-125期平码【43.28.49.<span style=\'background-color: #FFFF00\'>34</span>】124期中<br>");
+document.writeln("125-126期平码【27.33.17.39】000期中<br>");
 
 
 document.writeln("");
@@ -106,6 +109,7 @@ document.writeln("121期【6尾】×<br>");
 document.writeln("122期<span style=\'background-color: #FFFF00\'>【0尾】</span>√<br>");
 document.writeln("123期【8尾】×<br>");
 document.writeln("124期【2尾】√<br>");
+document.writeln("125期【3尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -143,6 +147,7 @@ document.writeln("121期（08.23.22.27.40）√<br>");
 document.writeln("122期（22.45.06.19.10）×<br>");
 document.writeln("123期（30.45.05.08.25）√<br>");
 document.writeln("124期（13.23.44.33.01）√<br>");
+document.writeln("125期（30.13.01.20.24）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

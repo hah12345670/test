@@ -57,8 +57,8 @@ document.writeln("                   <font color=\'#0000FF\'>（123期）</font>
 document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>猴</span>虎狗羊蛇马】<br> 	<br>	");
 
 
-document.writeln("                   <font color=\'#0000FF\'>（124期）</font><Br>");
-document.writeln("		特肖【鸡马兔龙猴猪】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（125期）</font><Br>");
+document.writeln("		特肖【蛇猴猪兔鸡羊】<br> 	<br>	");
 
 
 
@@ -100,7 +100,8 @@ document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 
 
 
-document.writeln("		124期必中平特【鸡+兔】√<br>	");
+document.writeln("		124期必中平特【<span style=\'background-color: #FFFF00\'>鸡+兔</span>】√<br>	");
+document.writeln("		125期必中平特【兔+龙】√<br>	");
 
 
 document.writeln("			</font>	");
@@ -135,6 +136,8 @@ document.writeln("		121期杀【16.31.32.28.03.11.30】√<br>");
 document.writeln("		122期杀【14.46.05.26.31.33.47】√<br>");
 document.writeln("		123期杀【31.08.13.09.19.44.12】√<br>");
 document.writeln("		124期杀【06.49.24.26.31.18.46】√<br>");
+document.writeln("		125期杀【06.29.36.02.46.33.01】√<br>");
+
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -190,8 +193,8 @@ document.writeln("		120期（红肖）√<br>			");
 document.writeln("		121期（绿肖）×<br>			");
 document.writeln("		122期（红肖）√<br>			");
 document.writeln("		123期（蓝肖）√<br>			");
-document.writeln("		124期（红肖）√<br>			");
-
+document.writeln("		124期（红肖）×<br>			");
+document.writeln("		125期（绿肖）√<br>			");
 
 document.writeln("");
 document.writeln("   ");
@@ -208,7 +211,8 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 
 document.writeln("		122期【78<span style=\'background-color: #FFFF00\'>6</span>2尾】√<br>				");
 document.writeln("		123期【9430尾】×<br>				");
-document.writeln("		124期【8279尾】√<br>				");
+document.writeln("		124期【8<span style=\'background-color: #FFFF00\'>2</span>79尾】√<br>				");
+document.writeln("		125期【5869尾】√<br>				");
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -227,7 +231,8 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 document.writeln("		");
 
 document.writeln("		123期（<span style=\'background-color: #FFFF00\'>2</span>.1头）√<br>	");
-document.writeln("		124期（2.0头）√<br>	");
+document.writeln("		124期（<span style=\'background-color: #FFFF00\'>2</span>.0头）√<br>	");
+document.writeln("		125期（3.4头）√<br>	");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
@@ -236,7 +241,8 @@ document.writeln("");
 document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友财迷】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 document.writeln("		123期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>	");
-document.writeln("		124期绿波+蓝单<br>	");
+document.writeln("		124期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝单<br>	");
+document.writeln("		125期红波+绿双<br>	");
 document.writeln("		");
 document.writeln("		    ");
 document.writeln("	    </b>	");
@@ -267,8 +273,8 @@ document.writeln("");
 
 
 
-document.writeln("		123期杀鸡羊√<br>");
-document.writeln("		124期杀羊龙√<br>");
+
+document.writeln("		125期杀蛇兔√<br>");
 
 document.writeln("		");
 document.writeln("			 ");
@@ -286,7 +292,7 @@ document.writeln("		121期杀蓝单√<br>");
 document.writeln("		122期杀绿单√<br>");
 document.writeln("		123期杀红双√<br>");
 document.writeln("		124期杀红双√<br>");
-
+document.writeln("		125期杀绿单√<br>");
 
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -310,7 +316,7 @@ document.writeln("		121期杀4头双√<br>	");
 document.writeln("		122期杀0头单√<br>	");
 document.writeln("		123期杀2头双√<br>	");
 document.writeln("		124期杀2头单√<br>	");
-
+document.writeln("		125期杀0头双√<br>	");
 
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -327,6 +333,8 @@ document.writeln("		121期杀0.4尾√<br>");
 document.writeln("		122期杀4.7尾√<br>");
 document.writeln("		123期杀0.3尾√<br>");
 document.writeln("		124期杀3.5尾√<br>");
+document.writeln("		125期杀9.3尾√<br>");
+
 
 document.writeln("		");
 document.writeln("");

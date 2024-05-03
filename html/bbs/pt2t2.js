@@ -61,7 +61,7 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("124期：平特【猪虎拖牛狗】开？00<br>");
+document.writeln("125期：平特【蛇猪拖鸡狗】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

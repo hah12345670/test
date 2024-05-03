@@ -7,12 +7,26 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『四肖八码』</font></font></b></table></td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");
+
+document.writeln("<!-----结束----->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>124期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
+document.writeln("</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【猴09.45】");
+document.writeln("【蛇12.36】<br>");
+document.writeln("【猪30.42】");
+document.writeln("【虎15.39】<br>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!-----结束----->");
 document.writeln("");
-document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.manolotron.com:49\' style=\'text-decoration: none\'>");
-document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
-document.writeln("<!--推广结束-->");
+
 
 document.writeln("<!-----结束----->");
 document.writeln("<tr>");
@@ -24,11 +38,11 @@ document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【猴09.45】");
+document.writeln("【<span style=\'background-color: #FFFF00\'>猴</span>09.45】");
 document.writeln("【马11.47】<br>");
 document.writeln("【猪30.42】");
 document.writeln("【龙13.25】<br>");
-document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
+document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>猴21准</span></span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 document.writeln("");

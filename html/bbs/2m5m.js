@@ -38,7 +38,14 @@ document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
 document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("123期：方向报码</span><font color=\'#FF0000\'>【东南西】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("124期：方向报码</span><font color=\'#FF0000\'>【南西北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+
+
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
+document.writeln("<span style=\'color: #6600CC;\'>");
+document.writeln("123期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>南</span>西】</font><span style=\'color: #6600CC;\'>开猴21</font></td></tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
@@ -130,15 +137,5 @@ document.writeln("107期：方向报码</span><font color=\'#FF0000\'>【东西<
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--&#25512;&#24191;&#24320;&#22987;-->");
-document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://j.manolotron.com:49/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:&#26999;&#20307;;color:#00f><font style=\'font-size: 16pt\'>49&#22270;&#24211;<font color=\'#FF0000\'>49.com</font>&#22270;&#32440;&#26368;&#20840;-&#26368;&#24555;</a></strong></tr></table>");
-document.writeln("<!--&#25512;&#24191;&#32467;&#26463;-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");

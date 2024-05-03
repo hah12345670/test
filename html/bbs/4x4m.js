@@ -24,13 +24,6 @@ document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>贪狼天尊</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『四肖四码』</font></b></table>");
-document.writeln("");
-document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.manolotron.com:49\' style=\'text-decoration: none\'>");
-document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>49图库<font color=\'#FF0000\'>49.com</font>图纸最全-最快</b></p></a></td></tr>");
-document.writeln("<!--推广结束-->");
-document.writeln("");
 
 
 
@@ -40,7 +33,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第123期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴09.鸡20.牛16.猪30】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第124期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗31.马11.鼠29.羊22】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
@@ -51,9 +44,10 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第121期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猪30.<span style=\'background-color: #FFFF00\'>兔02</span>.猴21.蛇36】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第123期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>猴</span>09.鸡20.牛16.猪30】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
+
 
 
 

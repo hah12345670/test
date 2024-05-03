@@ -56,7 +56,12 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("123期：平特【狗猪拖马牛】开？00<br>");
+document.writeln("123期：平特【<span style=\'background-color: #FFFF00\'>狗</span>猪拖<span style=\'background-color: #FFFF00\'>马</span>牛】开31.07.19.11<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("124期：平特【猪虎拖牛狗】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

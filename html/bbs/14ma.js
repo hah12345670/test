@@ -29,8 +29,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">122期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【27.47.04.42.26.05.36.29.13.09.20.37.06.25】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">123期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【10.36.02.28.07.37.49.16.05.34.09.29.19.31】</span></font></p>  	");
+
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">122期:==14码中特==开蛇36准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【27.47.04.42.26.05.<span style=\'background-color: #FFFF00\'>36</span>.29.13.09.20.37.06.25】</span></font></p>  	");
 
 
 

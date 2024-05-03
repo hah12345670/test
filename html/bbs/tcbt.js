@@ -21,9 +21,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("123期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("124期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
@@ -40,23 +40,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("121期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>兔02</font></span>准<br>");
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:野兽</font></b></font></table>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("118期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴21</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("117期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>龙25</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:吉美</font></b></font></table>");
 
 document.writeln("	");
 document.writeln("");

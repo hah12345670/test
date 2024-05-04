@@ -72,9 +72,9 @@ document.writeln("				【12.40.30.36】<br>");
 document.writeln("				【<span style=\'background-color: #FFFF00\'>21</span>.38.39.26】<br>	<br>				");
 document.writeln("				");
 document.writeln("				");
-document.writeln("				124期？<br>");
-document.writeln("				【41.19.44.12】<br>");
-document.writeln("				【33.45.08.38】<br>	<br>				");
+document.writeln("				125期？<br>");
+document.writeln("				【38.18.24.42】<br>");
+document.writeln("				【28.35.47.13】<br>	<br>				");
 
 document.writeln("	</span></p></tr><td></table>");
 document.writeln("");

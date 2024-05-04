@@ -80,7 +80,8 @@ document.writeln("<p align=\"center\">121期:<font color=\"#F36\">男女中特</
 document.writeln("");
 document.writeln("<p align=\"center\">122期:<font color=\"#F36\">男女中特</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">女肖</span>〗开:蛇36中</p>");
 document.writeln("<p align=\"center\">123期:<font color=\"#F36\">男女中特</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">男肖</span>〗开:猴21中</p>");
-document.writeln("<p align=\"center\">124期:<font color=\"#F36\">男女中特</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">男肖</span>〗开:？00中</p>");
+document.writeln("<p align=\"center\">124期:<font color=\"#F36\">男女中特</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">男肖</span>〗开:羊22错</p>");
+document.writeln("<p align=\"center\">125期:<font color=\"#F36\">男女中特</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">女肖</span>〗开:？00中</p>");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

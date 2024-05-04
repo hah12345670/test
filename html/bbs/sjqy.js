@@ -29,12 +29,28 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/124/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.zaojiao365.net:4949/col/125/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 
+
+document.writeln("");
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第125期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（梁上君子真功夫）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：梁上君子真功夫，解虎龙鸡鼠牛蛇。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：虎龙鸡鼠牛蛇</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
+document.writeln("");
 
 document.writeln("");
 document.writeln("              <!--开始--> ");
@@ -47,7 +63,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：众望所归出一四，解蛇兔猴羊龙牛。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：蛇兔猴羊龙牛</font></b></td>");
+document.writeln("		综合特码：蛇兔猴<span style=\'background-color: #FFFF00\'>羊</span>龙牛</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 document.writeln("");

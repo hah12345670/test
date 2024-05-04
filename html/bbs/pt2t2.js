@@ -61,7 +61,12 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("125期：平特【蛇猪拖鸡狗】开？00<br>");
+document.writeln("125期：平特【<span style=\'background-color: #FFFF00\'>蛇</span>猪拖鸡<span style=\'background-color: #FFFF00\'>狗</span>】开12.19<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("126期：平特【牛马拖猪龙】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

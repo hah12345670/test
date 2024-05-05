@@ -52,7 +52,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("124-125期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【34196尾】</font>(000期√)<br>");
+document.writeln("126-127期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【18475尾】</font>(000期√)<br>");
 
 document.writeln("");
 document.writeln("");

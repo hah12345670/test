@@ -27,7 +27,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("125期稳杀(1)肖【虎虎虎】开？00√<BR>");
+document.writeln("126期稳杀(1)肖【猪猪猪】开？00√<BR>");
+document.writeln("125期稳杀(1)肖【虎虎虎】开蛇12√<BR>");
 document.writeln("124期稳杀(1)肖【鼠鼠鼠】开羊22√<BR>");
 document.writeln("123期稳杀(1)肖【鸡鸡鸡】开猴21√<BR>");
 document.writeln("122期稳杀(1)肖【猪猪猪】开蛇36√<BR>");
@@ -58,8 +59,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-
-document.writeln("125期稳杀(1)尾【111尾】开？00√<BR>");
+document.writeln("126期稳杀(1)尾【444尾】开？00√<BR>");
+document.writeln("125期稳杀(1)尾【111尾】开蛇12√<BR>");
 document.writeln("124期稳杀(1)尾【666尾】开羊22√<BR>");
 document.writeln("123期稳杀(1)尾【777尾】开猴21√<BR>");
 document.writeln("122期稳杀(1)尾【333尾】开蛇36√<BR>");
@@ -112,7 +113,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("125期稳杀半波【蓝单】开？00√<BR>	");
+document.writeln("126期稳杀半波【红双】开？00√<BR>	");
+document.writeln("125期稳杀半波【蓝单】开蛇12√<BR>	");
 document.writeln("124期稳杀半波【绿单】开羊22√<BR>	");
 document.writeln("123期稳杀半波【绿双】开猴21√<BR>	");
 document.writeln("122期稳杀半波【红单】开蛇36√<BR>	");
@@ -140,7 +142,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("125期稳杀半头【4头双】开？00√<BR>");
+document.writeln("126期稳杀半头【3头单】开？00√<BR>");
+document.writeln("125期稳杀半头【4头双】开蛇12√<BR>");
 document.writeln("124期稳杀半头【2头单】开羊22√<BR>");
 document.writeln("123期稳杀半头【0头双】开猴21√<BR>");
 document.writeln("122期稳杀半头【4头单】开蛇36√<BR>");
@@ -156,7 +159,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("125期稳杀单双【小双】开？00√<BR>");
+document.writeln("126期稳杀单双【大单】开？00√<BR>");
+document.writeln("125期稳杀单双【小双】开蛇12×<BR>");
 document.writeln("124期稳杀单双【大单】开羊22√<BR>");
 document.writeln("123期稳杀单双【小双】开猴21√<BR>");
 document.writeln("122期稳杀单双【小单】开蛇36√<BR>");
@@ -212,8 +216,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一行）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-
-document.writeln("125期稳杀(1)行【火火火】开？00√<BR>");
+document.writeln("126期稳杀(1)行【土土土】开？00√<BR>");
+document.writeln("125期稳杀(1)行【火火火】开蛇12√<BR>");
 document.writeln("124期稳杀(1)行【金金金】开羊22√<BR>");
 
 

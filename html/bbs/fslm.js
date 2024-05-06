@@ -14,8 +14,9 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	127期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>45.22.17.10.23</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	128期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>03.24.34.16.42</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
+
 
 
 

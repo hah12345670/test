@@ -66,7 +66,12 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("127期：平特【龙羊拖鸡猪】开？00<br>");
+document.writeln("127期：平特【龙<span style=\'background-color: #FFFF00\'>羊</span>拖鸡<span style=\'background-color: #FFFF00\'>猪</span>】开34.30<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("128期：平特【兔猪拖猴鼠】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

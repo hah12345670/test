@@ -26,23 +26,25 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 
+
+
 document.writeln("");
 document.writeln("                                        <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<span style=\'font-weight: 700\'><font face=\'微软雅黑\'>125期：【职业玩家】破解龙门客栈</font><br>");
-document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【水天一线】<br>小二：【客官，今天有点晚吖】<br>");
-document.writeln("		客官：【有点事，耽误了】</font></font></font></span></td>");
+document.writeln("		<font face=\'华文楷体\'><font color=\'#FF0000\' style=\'font-size: 12pt; font-weight:700\'>掌柜：【故地重游】<br>小二：【客官，今天有野味哦】<br>");
+document.writeln("		客官：【真的假的，你安排一下】</font></font></font></span></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=34 bgcolor=\'#FFFFFF\' ><p><b>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：水天一线，解天肖牛猪猴龙马兔。</font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>解：故地重游，解地肖蛇羊鸡虎鼠狗。</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\'  bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'华文楷体\' style=\'font-size: 14pt; font-weight:700\' color=\'#008000\'>");
-document.writeln("				综合特肖：牛猪猴龙马兔。</font></td>");
+document.writeln("				综合特肖：蛇羊鸡虎鼠狗。</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

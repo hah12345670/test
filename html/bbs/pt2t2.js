@@ -66,7 +66,7 @@ document.writeln("------<br>");
 
 document.writeln("");
 document.writeln("");
-document.writeln("126期：平特【牛马拖猪龙】开？00<br>");
+document.writeln("127期：平特【龙羊拖鸡猪】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

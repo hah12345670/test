@@ -29,11 +29,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">126期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【07.19.13.49.22.34.09.21.16.28.11.23.20.32】</span></font></p>  	");
-
-
-
+document.writeln(" <span style=\"font-size: 13pt\">127期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【09.21.15.39.16.40.06.30.11.23.22.34.02.14.20.32】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">126期:==14码中特==开狗07准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【</span><span style=\"background-color: #FFFF00\"><font size=\"5\">07</font></span><span style=\"font-size: 13pt\">.19.13.49.22.34.09.21.16.28.11.23.20.32】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("				");

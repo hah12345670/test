@@ -20,7 +20,23 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("129期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
+document.writeln("[虎03.15蛇12.36猪30.42]<br>");
+document.writeln("[兔14.38狗31.43牛04.16]<br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62109b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -30,7 +46,7 @@ document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000
 document.writeln("127期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
 document.writeln("[猴21.33鼠05.17虎27.39]<br>");
-document.writeln("[狗19.31蛇12.36兔02.14]<br>");
+document.writeln("[狗19.31<span style=\'background-color: #FFFF00\'>蛇</span>12.36兔02.14]<br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
 document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62109b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
 document.writeln("    </td>");

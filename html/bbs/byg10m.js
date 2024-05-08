@@ -47,21 +47,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("				116期？<br>");
-document.writeln("				【48.32.24.35】<br>");
-document.writeln("				【<span style=\'background-color: #FFFF00\'>10</span>.14.45.01】<br>	<br>				");
-document.writeln("				");
-
-document.writeln("				118期？<br>");
-document.writeln("				【47.48.49.20】<br>");
-document.writeln("				【27.<span style=\'background-color: #FFFF00\'>21</span>.23.02】<br>	<br>				");
-document.writeln("				");
-document.writeln("				119期？<br>");
-document.writeln("				【21.39.15.12】<br>");
-document.writeln("				【01.<span style=\'background-color: #FFFF00\'>32</span>.09.48】<br>	<br>				");
-document.writeln("				");
-document.writeln("				");
 document.writeln("				122期？<br>");
 document.writeln("				【45.34.22.43】<br>");
 document.writeln("				【42.39.19.<span style=\'background-color: #FFFF00\'>36</span>】<br>	<br>				");
@@ -76,9 +61,9 @@ document.writeln("				126期？<br>");
 document.writeln("				【47.06.11.36】<br>");
 document.writeln("				【33.27.<span style=\'background-color: #FFFF00\'>07</span>.15】<br>	<br>				");
 document.writeln("				");
-document.writeln("				127期？<br>");
-document.writeln("				【23.20.04.30】<br>");
-document.writeln("				【43.46.06.24】<br>	<br>				");
+document.writeln("				129期？<br>");
+document.writeln("				【20.42.10.37】<br>");
+document.writeln("				【07.12.15.43】<br>	<br>				");
 
 
 document.writeln("	</span></p></tr><td></table>");

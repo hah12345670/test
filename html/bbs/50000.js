@@ -121,7 +121,10 @@ document.writeln("比放在银行利息高几十倍！也比炒股票更赚钱�
 document.writeln("");
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("127-129期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【兔肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("129-131期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("127-129期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【兔肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>128期中中中！</font>");
 document.writeln("");
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");

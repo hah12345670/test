@@ -32,6 +32,38 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>129期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("出二入八迎零七，两支曲刀头中拼");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八迎零七解二兔牛，八解羊鸡，七解狗马，曲刀解带刀肖虎蛇龙兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛鸡羊马狗虎蛇<br>");
+document.writeln("			四肖：牛鸡羊马<br>");
+document.writeln("			特码：04.40.08.20.10.22.23.35.19.31.15.39.12.36</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>128期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("八龙嬉戏蓝天下，东四西六开出十");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：蓝天下解蓝肖虎猴蛇猪，天下龙猪牛马猴兔。</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙猪牛马猴<span style=\'background-color: #FFFF00\'>兔</span>虎<br>");
+document.writeln("			四肖：龙猪牛马<br>");
+document.writeln("			特码：13.49.06.30.16.28.11.23.09.21.14.26.03.15</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 
 
 document.writeln("<!--头部start-->");
@@ -43,7 +75,7 @@ document.writeln("蛇蝎心肠妇人心，猪头为贡谢天恩");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：妇人心解女肖蛇鸡猪羊兔，天恩解天肖兔龙马猴牛猪。</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：兔龙马猴牛猪蛇<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：兔龙马猴牛猪<span style=\'background-color: #FFFF00\'>蛇</span><br>");
 document.writeln("			四肖：兔龙马猴<br>");
 document.writeln("			特码：02.14.13.49.11.23.09.21.16.40.06.30.12.36</font></b></td>");
 document.writeln("		</tr>	");

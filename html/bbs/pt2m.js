@@ -43,10 +43,18 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>129期：独平</font><font color=\'#FF3300\' size=\'5\'>【鸡08.20】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>129期：独平</font><font color=\'#FF3300\' size=\'5\'>【鸡<span style=\'background-color: #FFFF00\'>08</span>.20】</font><font color=\'#000000\' size=\'4\'>开鸡08准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>130期：独平</font><font color=\'#FF3300\' size=\'5\'>【兔14.38】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
 
 
 document.writeln("	");

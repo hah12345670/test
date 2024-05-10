@@ -16,9 +16,10 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("130期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("131期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单小双小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
+
 document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
@@ -102,53 +103,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("117期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙25</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("115期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠29</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("113期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单<span style=\'background-color: #FFFF00\'>小双</span>大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇24</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("112期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小单大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗43</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("111期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小单小双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗43</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("110期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单小单<span style=\'background-color: #FFFF00\'>大双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇48</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("109期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗43</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("108期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双小单<span style=\'background-color: #FFFF00\'>大双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>羊46</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
 
 
 document.writeln("");

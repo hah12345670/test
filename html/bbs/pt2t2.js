@@ -18,7 +18,7 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("130期：平特【猪虎拖猴兔】开？00<br>");
+document.writeln("131期：平特【猴龙拖猪马】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

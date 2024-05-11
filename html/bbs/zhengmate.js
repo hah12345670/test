@@ -27,8 +27,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-
-document.writeln("131期稳杀(1)肖【虎虎虎】开？00√<BR>");
+document.writeln("132期稳杀(1)肖【羊羊羊】开？00√<BR>");
+document.writeln("131期稳杀(1)肖【虎虎虎】开牛04√<BR>");
 document.writeln("130期稳杀(1)肖【羊羊羊】开鼠17√<BR>");
 
 
@@ -42,7 +42,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 
-document.writeln("131期稳杀(1)尾【666尾】开？00√<BR>");
+document.writeln("132期稳杀(1)尾【777尾】开？00√<BR>");
+document.writeln("131期稳杀(1)尾【666尾】开牛04√<BR>");
 document.writeln("130期稳杀(1)尾【111尾】开鼠17√<BR>");
 document.writeln("129期稳杀(1)尾【777尾】开龙49√<BR>");
 document.writeln("128期稳杀(1)尾【999尾】开兔02√<BR>");
@@ -101,7 +102,9 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("131期稳杀半波【红单】开？00√<BR>	");
+
+document.writeln("132期稳杀半波【蓝单】开？00√<BR>	");
+document.writeln("131期稳杀半波【红单】开牛04√<BR>	");
 document.writeln("130期稳杀半波【绿双】开鼠17√<BR>	");
 document.writeln("129期稳杀半波【蓝双】开龙49√<BR>	");
 document.writeln("128期稳杀半波【蓝单】开兔02√<BR>	");
@@ -121,7 +124,9 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("131期稳杀半头【0头单】开？00√<BR>");
+
+document.writeln("132期稳杀半头【3头双】开？00√<BR>");
+document.writeln("131期稳杀半头【0头单】开牛04√<BR>");
 document.writeln("130期稳杀半头【2头双】开鼠17√<BR>");
 document.writeln("129期稳杀半头【0头单】开龙49√<BR>");
 document.writeln("128期稳杀半头【1头双】开兔02√<BR>");
@@ -143,8 +148,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-document.writeln("131期稳杀单双【大双】开？00√<BR>");
+document.writeln("132期稳杀单双【大单】开？00√<BR>");
+document.writeln("131期稳杀单双【大双】开牛04√<BR>");
 
 document.writeln("	");
 document.writeln("");
@@ -157,7 +162,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 
-document.writeln("131期稳杀(1)行【木木木】开？00√<BR>");
+document.writeln("132期稳杀(1)行【木木木】开？00√<BR>");
+document.writeln("131期稳杀(1)行【木木木】开牛04√<BR>");
 
 
 

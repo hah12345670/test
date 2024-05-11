@@ -51,40 +51,30 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/130/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/132/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第130期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【嫁鸡随鸡】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：比喻妇女嫁给什么样的丈夫就要终身伴随着他，不应有悔改之意。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第132期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【猪朋狗友】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻好吃懒做、不务正业的坏朋友。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：龙猴兔猪虎马</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鼠虎兔羊牛狗</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第129期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙49中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【鸡飞蛋打】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：鸡飞走了，蛋也打破了。比喻两头落空，毫无所得。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第131期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛04中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【洋洋得意】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容得意时神气十足的神态。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>龙</span>兔猴牛虎羊</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>牛</span>虎兔蛇猪鼠</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第127期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蛇48中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蛇蝎心肠】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：蝎：一种蜘蛛类的毒虫。形容心肠狠毒。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>蛇</span>羊马虎牛猪</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
-
 
 
 
@@ -99,12 +89,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/130/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/132/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第130期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第132期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿树红果丰收期】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第130期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红13中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【秋风吹红一地花】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

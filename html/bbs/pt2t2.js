@@ -18,20 +18,8 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("131期：平特【猴龙拖猪马】开？00<br>");
+document.writeln("132期：平特【龙蛇拖鸡兔】开？00<br>");
 document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("128期：平特【<span style=\'background-color: #FFFF00\'>兔</span>猪拖<span style=\'background-color: #FFFF00\'>猴</span>鼠】开14.45<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("127期：平特【龙<span style=\'background-color: #FFFF00\'>羊</span>拖鸡<span style=\'background-color: #FFFF00\'>猪</span>】开34.30<br>");
-document.writeln("------<br>");
-
 
 
 document.writeln("");

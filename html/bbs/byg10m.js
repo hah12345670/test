@@ -46,7 +46,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	132期<font color=\'#FF0000\' size=\'4\'>【澳门雷锋论坛29215b.com 已更新】</font>开");
+document.writeln("	132期<font color=\'#FF0000\' size=\'4\'>【鼠41.狗43.鸡32.羊34】</font>开");
 document.writeln("	？00准</b></font></table>");
 document.writeln("");
 document.writeln("");

@@ -21,7 +21,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("132期<font color=\'#FF0000\'>平蛇→蛇猪(2连)→12.36.06.42(连)</font></font></b></font></table>");
+document.writeln("133期<font color=\'#FF0000\'>平狗→狗羊(2连)→31.43.10.22(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("132期<font color=\'#FF0000\'>平蛇→蛇<span style=\'background-color: #FFFF00\'>猪</span>(2连)→12.36.<span style=\'background-color: #FFFF00\'>06</span>.42(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

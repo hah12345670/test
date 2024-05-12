@@ -14,6 +14,11 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	133期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>05.40.22.37.30</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	132期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>28.01.47.02.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
@@ -31,13 +36,6 @@ document.writeln("	130期<font color=\'#0000FF\'>【</font><font color=\'#FF0000
 document.writeln("		<!--开始-->");
 
 
-
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	128期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>03.<span style=\'background-color: #FFFF00\'>24</span>.34.16.42</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
 
 
 

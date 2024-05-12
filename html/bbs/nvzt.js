@@ -32,6 +32,7 @@ document.writeln("<!--推广结束-->");
 
 
 
+
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -39,7 +40,17 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' co lor=\'#0000FF\'>132期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' co lor=\'#0000FF\'>133期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【女肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>？00</font><font color=\'#660066\'>准</font></span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\' co lor=\'#0000FF\'>132期</font><font color=\'#660066\' style=\'font-size: 14pt\'>男女中特</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>【男肖】</font><span style=\'font-size: 14pt\'><font color=\'#660066\'>开</font><font color=\'#008000\'>龙37</font><font color=\'#660066\'>准</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 

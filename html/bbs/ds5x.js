@@ -11,12 +11,20 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『单双五肖』</font></font></b></table>");
 
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>133期</font><font color=\'#006600\'>【狗虎龙鼠马】【猪兔羊牛蛇】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>132期</font><font color=\'#006600\'>【马鼠虎猴龙】【猪蛇牛羊兔】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>132期</font><font color=\'#006600\'>【马鼠虎猴<span style=\'background-color: #FFFF00\'>龙</span>】【猪蛇牛羊兔】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -141,31 +149,7 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#0000FF\'>115期</font><font color=\'#006600\'>【猴龙虎<span style=\'background-color: #FFFF00\'>鼠</span>狗】【牛蛇兔鸡羊】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>113期</font><font color=\'#006600\'>【马虎鼠龙猴】【鸡羊<span style=\'background-color: #FFFF00\'>蛇</span>猪兔】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>112期</font><font color=\'#006600\'>【<span style=\'background-color: #FFFF00\'>狗</span>马虎猴鼠】【鸡猪兔羊牛】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>111期</font><font color=\'#006600\'>【<span style=\'background-color: #FFFF00\'>狗</span>龙猴鼠虎】【猪羊蛇牛兔】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>110期</font><font color=\'#006600\'>【狗虎猴鼠龙】【羊<span style=\'background-color: #FFFF00\'>蛇</span>牛猪鸡】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
+
 
 document.writeln("");
 document.writeln("");

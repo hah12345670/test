@@ -63,7 +63,9 @@ document.writeln(" 128期【猪】×<br>")
 document.writeln(" 129期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>")
 document.writeln(" 130期<span style=\'background-color: #FFFF00\'>【龙】</span>√<br>")
 document.writeln(" 131期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>")
-document.writeln(" 132期【马】√<br>")
+document.writeln(" 132期【马】×<br>")
+document.writeln(" 133期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>")
+document.writeln(" 134期【蛇】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -88,8 +90,8 @@ document.writeln("125-126期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("127-128期出平<span style=\'background-color: #FFFF00\'>【兔】</span>128期中<br>");
 document.writeln("129-130期出平<span style=\'background-color: #FFFF00\'>【马】</span>129期中<br>");
 document.writeln("130-131期出平<span style=\'background-color: #FFFF00\'>【牛】</span>131期中<br>");
-document.writeln("132-133期出平【狗】000期中<br>");
-
+document.writeln("132-133期出平<span style=\'background-color: #FFFF00\'>【狗】</span>133期中<br>");
+document.writeln("134-135期出平【虎】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -98,7 +100,10 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微�
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
 document.writeln("130-131期平码【35.07.<span style=\'background-color: #FFFF00\'>47</span>.14】130期中<br>");
-document.writeln("131-132期平码【45.20.32.33】000期中<br>");
+document.writeln("133-134期平码【47.25.38.44】000期中<br>");
+
+
+
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -109,8 +114,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
-document.writeln("132期【2尾】√<br>");
 
+document.writeln("134期【0尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -130,7 +135,8 @@ document.writeln("127-128期平尾<span style=\'background-color: #FFFF00\'>【1
 document.writeln("128-129期平尾<span style=\'background-color: #FFFF00\'>【4尾】</span>128期中<br>");
 document.writeln("129-130期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>130期中<br>");
 document.writeln("131-132期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>131期中<br>");
-document.writeln("132-133期平尾【6尾】000期中<br>");
+document.writeln("132-133期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>132期中<br>");
+document.writeln("133-134期平尾【7尾】000期中<br>");
 
 document.writeln("");
 document.writeln("");
@@ -144,6 +150,10 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 document.writeln("131期（43.26.21.30.32）√<br>");
 document.writeln("132期（32.24.20.16.13）√<br>");
+document.writeln("133期（28.22.34.37.20）√<br>");
+document.writeln("134期（45.41.26.06.03）√<br>");
+
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

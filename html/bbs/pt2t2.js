@@ -17,8 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("133期：平特【羊鼠拖龙兔】开？00<br>");
+document.writeln("134期：平特【鸡猪拖蛇牛】开？00<br>");
 document.writeln("------<br>");
+
+
 
 document.writeln("");
 document.writeln("132期：平特【<span style=\'background-color: #FFFF00\'>龙</span>蛇拖<span style=\'background-color: #FFFF00\'>鸡</span>兔】开25.37.44<br>");

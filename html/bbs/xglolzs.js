@@ -29,7 +29,9 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（绝杀二肖）</font><br>		");
 document.writeln("");
 
-document.writeln("054期稳杀(2)肖【羊鼠】开？00√<br>");
+
+document.writeln("055期稳杀(2)肖【虎狗】开？00√<br>");
+document.writeln("054期稳杀(2)肖【羊鼠】开狗19√<br>");
 document.writeln("053期稳杀(2)肖【虎兔】开龙13√<br>");
 document.writeln("052期稳杀(2)肖【鼠狗】开兔02√<br>");
 document.writeln("051期稳杀(2)肖【虎牛】开猴45√<br>");
@@ -45,7 +47,9 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（绝杀二尾）</font><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("054期稳杀(2)尾【72尾】开？00√<br>");
+
+document.writeln("055期稳杀(2)尾【96尾】开？00√<br>");
+document.writeln("054期稳杀(2)尾【72尾】开狗19√<br>");
 document.writeln("053期稳杀(2)尾【91尾】开龙13√<br>");
 
 
@@ -62,7 +66,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（双波中特）</font><br>		");
 document.writeln("");
 
-document.writeln("054期双波【蓝波绿波】开？00√<br>	");
+document.writeln("055期双波【红波蓝波】开？00√<br>	");
+document.writeln("054期双波【蓝波绿波】开狗19×<br>	");
 document.writeln("053期双波【<span style=\'background-color: #FFFF00\'>红波</span>蓝波】开红13√<br>	");
 document.writeln("052期双波【<span style=\'background-color: #FFFF00\'>红波</span>蓝波】开红02√<br>	");
 
@@ -76,8 +81,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四头中特）</font><br>");
 document.writeln("");
-
-document.writeln("054期四头中特【1243】开？00√<br>");
+document.writeln("055期四头中特【2130】开？00√<br>");
+document.writeln("054期四头中特【<span style=\'background-color: #FFFF00\'>1</span>243】开狗19√<br>");
 document.writeln("053期四头中特【<span style=\'background-color: #FFFF00\'>1</span>403】开龙13√<br>");
 document.writeln("052期四头中特【2341】开兔02×<br>");
 document.writeln("051期四头中特【<span style=\'background-color: #FFFF00\'>4</span>103】开猴45√<br>");
@@ -93,8 +98,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（单双中特）</font><br>");
 document.writeln("");
 document.writeln("");
-
-document.writeln("054期单双【双+大单】开？00√<br>");
+document.writeln("055期单双【单+小双】开？00√<br>");
+document.writeln("054期单双【双+大单】开狗19×<br>");
 document.writeln("053期单双【双+<span style=\'background-color: #FFFF00\'>小单</span>】开龙13√<br>");
 document.writeln("052期单双【单+大双】开兔02×<br>");
 document.writeln("051期单双【<span style=\'background-color: #FFFF00\'>单</span>+小双】开猴45√<br>");
@@ -108,8 +113,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四行中特）</font><br>");
 document.writeln("");
-
-document.writeln("054期四行中特【水土木金】开？00√<br>");
+document.writeln("055期四行中特【木土水火】开？00√<br>");
+document.writeln("054期四行中特【水<span style=\'background-color: #FFFF00\'>土</span>木金】开狗19√<br>");
 document.writeln("053期四行中特【火木<span style=\'background-color: #FFFF00\'>水</span>金】开水13√<br>");
 document.writeln("052期四行中特【<span style=\'background-color: #FFFF00\'>金</span>土水木】开金02√<br>");
 document.writeln("051期四行中特【火金<span style=\'background-color: #FFFF00\'>木</span>水】开木45√<br>");

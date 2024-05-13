@@ -21,14 +21,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("133期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>鸡兔猪鼠蛇龙</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("131期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>猴<span style=\'background-color: #FFFF00\'>牛</span>鼠蛇兔龙</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
+document.writeln("134期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>鼠蛇虎猪狗猴</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

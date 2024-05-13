@@ -17,14 +17,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>133期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（鼠猴马虎）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（猪羊蛇牛）</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>134期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（龙马虎猴）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（牛兔羊猪）</font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");

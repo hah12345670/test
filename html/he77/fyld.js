@@ -30,11 +30,16 @@ document.writeln(" ");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>134期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【风雨电】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>133期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨风】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>133期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>雷</span>雨风】</font>开<font color=\'#ac6a00\'>狗19</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -84,22 +89,6 @@ document.writeln("    <td>126期<font color=\'#ac6a00\'>风雨雷电</font><font
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>125期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【风<span style=\'background-color: #FFFF00\'>雨</span>电】</font>开<font color=\'#ac6a00\'>蛇12</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>124期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>雨</span>电风】</font>开<font color=\'#ac6a00\'>羊22</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
 
 
 

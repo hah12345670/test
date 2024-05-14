@@ -24,12 +24,30 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">135期一语中特【初来乍到】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：常被当做表示自己经验不足的谦词来使用。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇猪鼠龙马鸡开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">134期一语中特【沉不住气】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：易激动,遇事保持不了冷静镇定。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔鸡猪龙<span style=\'background-color: #FFFF00\'>狗</span>虎开狗07准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">133期一语中特【层层加码】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：常指在贯彻某项政令或执行某一规章时，逐级增加新的内容或提出新的要求。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙鼠兔羊狗猪开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙鼠兔羊<span style=\'background-color: #FFFF00\'>狗</span>猪开狗19准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -66,25 +84,29 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">133期一语中特【疏忽大意】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指粗心大意。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠虎兔牛猴羊开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">135期一语中特【玉宇琼楼】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：神话中仙人居住的宫殿。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙猴虎牛马狗开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 
 
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">130期一语中特【模棱两可】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：对问题或事物正反两方面，持既不肯定、也不否定的态度</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇马<span style=\'background-color: #FFFF00\'>鼠</span>牛狗猪开鼠17准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">134期一语中特【转弱为强】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：从弱懦转变为强大。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪羊牛虎<span style=\'background-color: #FFFF00\'>狗</span>猴开狗07准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
+
 
 
 

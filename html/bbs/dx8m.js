@@ -49,50 +49,16 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第134期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第135期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：龙蛇猴鸡<br>			");
-document.writeln("13.49.12.36.09.21.20.32</font></b></td>");
+document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
+document.writeln("		主四肖：牛虎马羊<br>			");
+document.writeln("04.40.15.39.23.47.10.46</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
 document.writeln("");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第131期八码中特开(牛04)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（<span style=\'background-color: #FFFF00\'>牛</span>虎马羊狗猪）<br>	");
-document.writeln("		主四肖：<span style=\'background-color: #FFFF00\'>牛</span>马羊猪<br>			");
-document.writeln("16.40.11.23.22.46.30.42</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第130期八码中特开(鼠17)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（<span style=\'background-color: #FFFF00\'>鼠</span>兔龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：<span style=\'background-color: #FFFF00\'>鼠</span>龙蛇猴<br>			");
-document.writeln("05.29.13.49.12.36.21.33</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("");
-
-
 
 
 document.writeln("");

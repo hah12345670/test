@@ -31,7 +31,7 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>135期另版挂牌</font><font size=\'4\' color=\'#008000\'>【开天壁地】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>135期另版挂牌</font><font size=\'4\' color=\'#008000\'>【风月场中】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
 document.writeln("◎生肖属性：戊寅日；五行属性：火；地支六冲：虎日冲猴，克蛇，破鸡，无蛇；六合：猪；三合：马狗。空亡肖：鸡猴</p>");
 document.writeln("	</font>");

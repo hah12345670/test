@@ -14,7 +14,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>135期</font><font color=\'#006600\'>【龙狗鼠马虎】【羊兔鸡猪蛇】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>136期</font><font color=\'#006600\'>【龙鼠马猴虎】【羊猪蛇牛兔】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>135期</font><font color=\'#006600\'>【龙狗鼠马虎】【<span style=\'background-color: #FFFF00\'>羊</span>兔鸡猪蛇】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

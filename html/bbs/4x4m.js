@@ -31,7 +31,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第135期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊22.鸡20.牛16.猪30】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第136期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊22.马11.鼠05.蛇36】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
@@ -41,7 +41,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第132期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔14.鼠05.<span style=\'background-color: #FFFF00\'>龙</span>49.马23】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第135期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>羊</span>22.鸡20.牛16.猪30】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

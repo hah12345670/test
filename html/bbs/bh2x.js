@@ -23,10 +23,16 @@ document.writeln("	<font color=\'#FFFF00\' size=\'4\'><span style=\'background-c
 document.writeln("双笔：虎、猴、狗、兔、羊、牛</span></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>135期：</font>【<font color=\'#008000\'>双笔+龙猪</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>136期：</font>【<font color=\'#008000\'>单笔+猴狗</font>】开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>135期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙猪</font>】开羊46√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

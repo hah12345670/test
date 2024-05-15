@@ -51,7 +51,7 @@ document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第135期:五肖10码开(？00)中</font><font face=\'隶书\' style=\'font-size: 18pt\'><br>	");
 document.writeln("		<font color=\'#FF0000\'>");
-document.writeln("65981b.com 已更新</font></font><font face=\'隶书\' style=\'font-size: 16pt\'><br>");
+document.writeln("15.39.23.35.14.38.05.29.16.40</font></font><font face=\'隶书\' style=\'font-size: 16pt\'><br>");
 document.writeln("        <font color=\'#0000FF\'>小鱼儿论坛65981.com</font></font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("    <!--结束-->  ");

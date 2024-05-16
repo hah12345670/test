@@ -68,7 +68,10 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("135-136期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【40782尾】</font>(000期√)<br>");
+document.writeln("");
+document.writeln("137-138期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【01456尾】</font>(000期√)<br>");
+
+document.writeln("135-136期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>4</span>0782尾】</font>(136期√)<br>");
 
 document.writeln("");
 document.writeln("134-135期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【4960<span style=\'background-color: #FFFF00\'>7</span>尾】</font>(134期√)<br>");

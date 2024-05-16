@@ -31,7 +31,7 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第136期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【羊22.马11.鼠05.蛇36】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第137期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【牛28.鸡20.羊04.龙37】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 

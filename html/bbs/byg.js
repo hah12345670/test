@@ -48,8 +48,12 @@ document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（134期）</font><Br>");
 document.writeln("		特肖【龙鼠<span style=\'background-color: #FFFF00\'>狗</span>羊马虎】<br> 	<br>	");
 
-document.writeln("                   <font color=\'#0000FF\'>（135期）</font><Br>");
-document.writeln("		特肖【猪蛇鼠龙兔狗】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（136期）</font><Br>");
+document.writeln("		特肖【虎猪蛇<span style=\'background-color: #FFFF00\'>鸡</span>羊马】<br> 	<br>	");
+
+document.writeln("                   <font color=\'#0000FF\'>（137期）</font><Br>");
+document.writeln("		特肖【羊猴蛇鼠猪兔】<br> 	<br>	");
+
 
 
 
@@ -94,7 +98,10 @@ document.writeln("		131期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		132期必中平特【马+<span style=\'background-color: #FFFF00\'>龙</span>】√<br>	");
 document.writeln("		133期必中平特【龙+<span style=\'background-color: #FFFF00\'>猴</span>】√<br>	");
 document.writeln("		134期必中平特【<span style=\'background-color: #FFFF00\'>龙</span>+牛】√<br>	");
-document.writeln("		135期必中平特【牛+鸡】√<br>	");
+document.writeln("		135期必中平特【<span style=\'background-color: #FFFF00\'>牛+鸡</span>】√<br>	");
+document.writeln("		136期必中平特【龙+<span style=\'background-color: #FFFF00\'>羊</span>】√<br>	");
+document.writeln("		137期必中平特【狗+鸡】√<br>	");
+
 
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
@@ -116,23 +123,10 @@ document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 document.writeln("");
 
 
-
-document.writeln("		120期杀【35.48.42.28.40.38.16】√<br>");
-document.writeln("		121期杀【16.31.32.28.03.11.30】√<br>");
-document.writeln("		122期杀【14.46.05.26.31.33.47】√<br>");
-document.writeln("		123期杀【31.08.13.09.19.44.12】√<br>");
-document.writeln("		124期杀【06.49.24.26.31.18.46】√<br>");
-document.writeln("		125期杀【06.29.36.02.46.33.01】√<br>");
-document.writeln("		126期杀【25.17.14.11.48.13.26】√<br>");
-document.writeln("		127期杀【01.37.21.15.24.29.02】√<br>");
-document.writeln("		128期杀【09.26.04.11.42.05.16】√<br>");
-document.writeln("		129期杀【13.06.12.29.37.27.42】√<br>");
-document.writeln("		130期杀【15.08.19.44.16.38.05】√<br>");
-document.writeln("		131期杀【39.48.28.41.35.03.27】√<br>");
-document.writeln("		132期杀【35.07.32.13.25.03.49】√<br>");
-document.writeln("		133期杀【41.28.15.46.06.25.48】√<br>");
-document.writeln("		134期杀【32.36.16.21.07.03.13】×<br>");
 document.writeln("		135期杀【17.26.24.48.49.42.06】√<br>");
+document.writeln("		136期杀【35.13.29.14.31.46.26】√<br>");
+document.writeln("		137期杀【49.29.02.09.24.04.27】√<br>");
+
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -181,6 +175,9 @@ document.writeln("		132期（绿肖）√<br>			");
 document.writeln("		133期（绿肖）√<br>			");
 document.writeln("		134期（红肖）×<br>			");
 document.writeln("		135期（绿肖）√<br>			");
+document.writeln("		136期（绿肖）×<br>			");
+document.writeln("		137期（红肖）√<br>			");
+
 
 document.writeln("");
 document.writeln("   ");
@@ -196,8 +193,9 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 
 
 document.writeln("		134期【64<span style=\'background-color: #FFFF00\'>7</span>8尾】√<br>				");
-
-document.writeln("		135期【8321尾】√<br>				");
+document.writeln("		135期【8321尾】×<br>				");
+document.writeln("		136期【1<span style=\'background-color: #FFFF00\'>4</span>73尾】√<br>				");
+document.writeln("		137期【4670尾】√<br>				");
 
 document.writeln("");
 document.writeln("				");
@@ -216,19 +214,16 @@ document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 document.writeln("		");
 
-document.writeln("		123期（<span style=\'background-color: #FFFF00\'>2</span>.1头）√<br>	");
-document.writeln("		124期（<span style=\'background-color: #FFFF00\'>2</span>.0头）√<br>	");
-document.writeln("		125期（3.4头）×<br>	");
-document.writeln("		126期（<span style=\'background-color: #FFFF00\'>0</span>.1头）√<br>	");
-document.writeln("		127期（3.2头）×<br>	");
-document.writeln("		128期（<span style=\'background-color: #FFFF00\'>0</span>.3头）√<br>	");
-document.writeln("		129期（0.3头）×<br>	");
+
 document.writeln("		130期（4.<span style=\'background-color: #FFFF00\'>1</span>头）√<br>	");
 document.writeln("		131期（2.<span style=\'background-color: #FFFF00\'>0</span>头）√<br>	");
 document.writeln("		132期（0.<span style=\'background-color: #FFFF00\'>3</span>头）√<br>	");
 document.writeln("		133期（<span style=\'background-color: #FFFF00\'>1</span>.3头）√<br>	");
 document.writeln("		134期（4.2头）×<br>	");
-document.writeln("		135期（4.0头）√<br>	");
+document.writeln("		135期（<span style=\'background-color: #FFFF00\'>4</span>.0头）√<br>	");
+document.writeln("		136期（2.3头）×<br>	");
+document.writeln("		137期（3.1头）√<br>	");
+
 
 document.writeln("		");
 document.writeln("		");
@@ -236,20 +231,12 @@ document.writeln("		</font><span style=\'font-size: 14pt\'><br>		");
 document.writeln("		");
 document.writeln("");
 document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友财迷】</font></b><font style=\'font-size: 14pt\'><b><br>");
-document.writeln("		    ");
-document.writeln("		123期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>	");
-document.writeln("		124期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝单<br>	");
-document.writeln("		125期<span style=\'background-color: #FFFF00\'>红波</span>+绿双<br>	");
-document.writeln("		126期蓝波+绿单<br>	");
-document.writeln("		127期绿波+红双<br>	");
-document.writeln("		128期<span style=\'background-color: #FFFF00\'>红波</span>+蓝双<br>	");
-document.writeln("		129期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>	");
-document.writeln("		130期蓝波+红单<br>	");
-document.writeln("		131期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿双<br>	");
-document.writeln("		132期红波+绿单<br>	");
+
 document.writeln("		133期<span style=\'background-color: #FFFF00\'>红波</span>+蓝双<br>	");
 document.writeln("		134期<span style=\'background-color: #FFFF00\'>红波</span>+绿单<br>	");
 document.writeln("		135期绿波+蓝双<br>	");
+document.writeln("		136期红波+绿单<br>	");
+document.writeln("		137期绿波+蓝双<br>	");
 
 document.writeln("		");
 document.writeln("		    ");
@@ -291,6 +278,8 @@ document.writeln("		132期杀马猴√<br>");
 document.writeln("		133期杀猴羊√<br>");
 document.writeln("		134期杀牛龙√<br>");
 document.writeln("		135期杀兔鸡√<br>");
+document.writeln("		136期杀羊猪√<br>");
+document.writeln("		137期杀鼠蛇√<br>");
 
 
 document.writeln("		");
@@ -305,6 +294,8 @@ document.writeln("		132期杀绿单√<br>");
 document.writeln("		133期杀红双√<br>");
 document.writeln("		134期杀蓝双√<br>");
 document.writeln("		135期杀蓝单√<br>");
+document.writeln("		136期杀绿双×<br>");
+document.writeln("		137期杀绿单√<br>");
 
 
 document.writeln("						");
@@ -320,26 +311,10 @@ document.writeln("");
 
 
 
-document.writeln("		116期杀4头双√<br>	");
-document.writeln("		117期杀4头单√<br>	");
-document.writeln("		118期杀3头双√<br>	");
-document.writeln("		119期杀2头单√<br>	");
-document.writeln("		120期杀3头单√<br>	");
-document.writeln("		121期杀4头双√<br>	");
-document.writeln("		122期杀0头单√<br>	");
-document.writeln("		123期杀2头双√<br>	");
-document.writeln("		124期杀2头单√<br>	");
-document.writeln("		125期杀0头双√<br>	");
-document.writeln("		126期杀3头双√<br>	");
-document.writeln("		127期杀1头单√<br>	");
-document.writeln("		128期杀2头双√<br>	");
-document.writeln("		129期杀4头单√<br>	");
-document.writeln("		130期杀0头单√<br>	");
-document.writeln("		131期杀1头双√<br>	");
-document.writeln("		132期杀4头双√<br>	");
-document.writeln("		133期杀2头双√<br>	");
-document.writeln("		134期杀0头单×<br>	");
-document.writeln("		135期杀4头双√<br>	");
+document.writeln("		136期杀2头单√<br>	");
+document.writeln("		137期杀0头单√<br>	");
+
+
 
 document.writeln("		</font><br>		");
 document.writeln("		");
@@ -352,10 +327,11 @@ document.writeln("		132期杀6.2尾√<br>");
 document.writeln("		133期杀3.2尾√<br>");
 document.writeln("		134期杀9.8尾√<br>");
 document.writeln("		135期杀5.2尾√<br>");
+document.writeln("		136期杀6.4尾√<br>");
+document.writeln("		137期杀2.7尾√<br>");
 
-document.writeln("		");
-document.writeln("");
-document.writeln("			    ");
+
+
 document.writeln("	    </b><br>	");
 document.writeln("		");
 document.writeln("				</font><br>		");

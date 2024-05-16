@@ -27,7 +27,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("135期稳杀(1)肖【猴猴猴】开？00√<BR>");
+document.writeln("137期稳杀(1)肖【猪猪猪】开？00√<BR>");
+document.writeln("136期稳杀(1)肖【羊羊羊】开鸡44√<BR>");
+document.writeln("135期稳杀(1)肖【猴猴猴】开羊46√<BR>");
 document.writeln("134期稳杀(1)肖【虎虎虎】开狗07√<BR>");
 document.writeln("133期稳杀(1)肖【蛇蛇蛇】开狗19√<BR>");
 document.writeln("132期稳杀(1)肖【羊羊羊】开龙37√<BR>");
@@ -44,8 +46,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
+document.writeln("137期稳杀(1)尾【999尾】开？00√<BR>");
 
-document.writeln("135期稳杀(1)尾【333尾】开？00√<BR>");
 
 
 document.writeln("");
@@ -63,7 +65,10 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("135期稳杀半波【蓝双】开？00√<BR>	");
+
+document.writeln("137期稳杀半波【红单】开？00√<BR>	");
+document.writeln("136期稳杀半波【绿双】开鸡44×<BR>	");
+document.writeln("135期稳杀半波【蓝双】开羊46√<BR>	");
 document.writeln("134期稳杀半波【绿单】开狗07√<BR>	");
 document.writeln("133期稳杀半波【绿双】开狗19√<BR>	");
 
@@ -83,7 +88,9 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("135期稳杀半头【4头单】开？00√<BR>");
+document.writeln("137期稳杀半头【4头单】开？00√<BR>");
+document.writeln("136期稳杀半头【0头单】开鸡44√<BR>");
+document.writeln("135期稳杀半头【4头单】开羊46√<BR>");
 document.writeln("134期稳杀半头【2头双】开狗07√<BR>");
 document.writeln("133期稳杀半头【3头单】开狗19√<BR>");
 document.writeln("132期稳杀半头【3头双】开龙37√<BR>");
@@ -110,9 +117,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("135期稳杀单双【大双】开？00√<BR>");
-document.writeln("134期稳杀单双【大单】开狗07√<BR>");
-document.writeln("133期稳杀单双【小双】开狗19√<BR>");
+document.writeln("137期稳杀单双【大双】开？00√<BR>");
+document.writeln("136期稳杀单双【小双】开鸡44√<BR>");
+
 
 
 document.writeln("	");
@@ -126,8 +133,9 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("135期稳杀(1)行【土土土】开？00√<BR>");
+document.writeln("137期稳杀(1)行【金金金】开？00√<BR>");
+document.writeln("136期稳杀(1)行【火火火】开鸡44√<BR>");
+document.writeln("135期稳杀(1)行【土土土】开羊46√<BR>");
 
 
 

@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("138期：平特【鸡虎拖羊狗】开？00<br>");
+document.writeln("139期：平特【虎猴拖牛羊】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("138期：平特【<span style=\'background-color: #FFFF00\'>鸡</span>虎拖羊<span style=\'background-color: #FFFF00\'>狗</span>】开20.19<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("137期：平特【狗<span style=\'background-color: #FFFF00\'>牛</span>拖<span style=\'background-color: #FFFF00\'>虎</span>猴】开16.15<br>");

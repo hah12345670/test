@@ -54,8 +54,10 @@ document.writeln("		特肖【虎猪蛇<span style=\'background-color: #FFFF00\'>
 document.writeln("                   <font color=\'#0000FF\'>（138期）</font><Br>");
 document.writeln("		特肖【鼠鸡马蛇<span style=\'background-color: #FFFF00\'>兔</span>羊】<br> 	<br>	");
 
-document.writeln("                   <font color=\'#0000FF\'>（139期）</font><Br>");
-document.writeln("		特肖【狗虎猴牛龙鸡】<br> 	<br>	");
+
+document.writeln("                   <font color=\'#0000FF\'>（140期）</font><Br>");
+document.writeln("		特肖【猴鼠牛兔狗龙】<br> 	<br>	");
+
 
 
 
@@ -106,8 +108,8 @@ document.writeln("		135期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		136期必中平特【龙+<span style=\'background-color: #FFFF00\'>羊</span>】√<br>	");
 document.writeln("		137期必中平特【狗+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
 document.writeln("		138期必中平特【<span style=\'background-color: #FFFF00\'>兔</span>+蛇】√<br>	");
-document.writeln("		139期必中平特【蛇+虎】√<br>	");
-
+document.writeln("		139期必中平特【<span style=\'background-color: #FFFF00\'>蛇</span>+虎】√<br>	");
+document.writeln("		140期必中平特【猪+牛】√<br>	");
 
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
@@ -134,6 +136,7 @@ document.writeln("		136期杀【35.13.29.14.31.46.26】√<br>");
 document.writeln("		137期杀【49.29.02.09.24.04.27】√<br>");
 document.writeln("		138期杀【21.08.25.41.13.03.28】√<br>");
 document.writeln("		139期杀【06.18.19.48.45.37.44】√<br>");
+document.writeln("		140期杀【25.36.35.15.22.40.16】√<br>");
 
 
 document.writeln("");
@@ -181,7 +184,7 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
 document.writeln("		139期（红肖）√<br>			");
-
+document.writeln("		140期（绿肖）√<br>			");
 
 document.writeln("");
 document.writeln("   ");
@@ -201,8 +204,8 @@ document.writeln("		135期【8321尾】×<br>				");
 document.writeln("		136期【1<span style=\'background-color: #FFFF00\'>4</span>73尾】√<br>				");
 document.writeln("		137期【4<span style=\'background-color: #FFFF00\'>6</span>70尾】√<br>				");
 document.writeln("		138期【5938尾】×<br>				");
-document.writeln("		139期【5107尾】√<br>				");
-
+document.writeln("		139期【5107尾】×<br>				");
+document.writeln("		140期【2187尾】√<br>				");
 
 document.writeln("");
 document.writeln("				");
@@ -231,8 +234,8 @@ document.writeln("		135期（<span style=\'background-color: #FFFF00\'>4</span>.
 document.writeln("		136期（2.3头）×<br>	");
 document.writeln("		137期（3.<span style=\'background-color: #FFFF00\'>1</span>头）√<br>	");
 document.writeln("		138期（2.4头）×<br>	");
-document.writeln("		139期（1.2头）√<br>	");
-
+document.writeln("		139期（<span style=\'background-color: #FFFF00\'>1</span>.2头）√<br>	");
+document.writeln("		140期（4.2头）√<br>	");
 
 document.writeln("		");
 document.writeln("		");
@@ -248,7 +251,7 @@ document.writeln("		136期红波+绿单<br>	");
 document.writeln("		137期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>	");
 document.writeln("		138期红波+蓝单<br>	");
 document.writeln("		139期红波+绿双<br>	");
-
+document.writeln("		140期红波+绿单<br>	");
 
 document.writeln("		");
 document.writeln("		    ");
@@ -294,7 +297,7 @@ document.writeln("		136期杀羊猪√<br>");
 document.writeln("		137期杀鼠蛇√<br>");
 document.writeln("		138期杀龙羊√<br>");
 document.writeln("		139期杀猪蛇√<br>");
-
+document.writeln("		140期杀虎鸡√<br>");
 
 document.writeln("		");
 document.writeln("			 ");
@@ -307,7 +310,7 @@ document.writeln("");
 document.writeln("		137期杀绿单√<br>");
 document.writeln("		138期杀红双√<br>");
 document.writeln("		139期杀绿双√<br>");
-
+document.writeln("		140期杀蓝双√<br>");
 
 
 document.writeln("						");
@@ -327,7 +330,7 @@ document.writeln("		136期杀2头单√<br>	");
 document.writeln("		137期杀0头单√<br>	");
 document.writeln("		138期杀1头单√<br>	");
 document.writeln("		139期杀3头单√<br>	");
-
+document.writeln("		140期杀4头双√<br>	");
 
 
 document.writeln("		</font><br>		");
@@ -336,15 +339,10 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左耳】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("");
 
-document.writeln("		131期杀6.5尾√<br>");
-document.writeln("		132期杀6.2尾√<br>");
-document.writeln("		133期杀3.2尾√<br>");
-document.writeln("		134期杀9.8尾√<br>");
-document.writeln("		135期杀5.2尾√<br>");
-document.writeln("		136期杀6.4尾√<br>");
-document.writeln("		137期杀2.7尾√<br>");
-document.writeln("		138期杀7.4尾×<br>");
+
 document.writeln("		139期杀6.7尾√<br>");
+document.writeln("		140期杀8.0尾√<br>");
+
 
 document.writeln("	    </b><br>	");
 document.writeln("		");
@@ -366,9 +364,9 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td>");
 document.writeln("	<p align=\'center\'><b><font size=\'4\' color=\'#FF0000\'>");
-document.writeln("	<a target=\'_blank\' href=\'https://popopo.www21689a.com:888/#112\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://diyidiyi.www21561c.com:8443/#112\'>");
 document.writeln("	<span style=\'text-decoration: none\'>");
-document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://popopo.www21689a.com:888/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://popopo.www21689a.com:888/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
+document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://diyidiyi.www21561c.com:8443/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://diyidiyi.www21561c.com:8443/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("  </table>");

@@ -4,7 +4,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62109b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『笔画两肖』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62635b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『笔画两肖』</font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -25,11 +25,18 @@ document.writeln("		<!--结束-->");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>139期：</font>【<font color=\'#008000\'>双笔+龙马</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>140期：</font>【<font color=\'#008000\'>双笔+蛇龙</font>】开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>139期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙马</font>】开兔14√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

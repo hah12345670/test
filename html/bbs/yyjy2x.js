@@ -20,7 +20,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("139期：<font color=\'#0000FF\'>（野兽+狗牛）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("140期：<font color=\'#0000FF\'>（野兽+马狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("139期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+狗牛）</font>开<font color=\'#FF0000\'>(兔14)</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -73,7 +79,7 @@ document.writeln("128期：<font color=\'#0000FF\'>（<span style=\'background-c
 
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://ggdnd.www29215c.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://disanduisan.www29769c.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://www.496688a.com/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>雷锋论坛<font color=\'#FF0000\'>29215.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

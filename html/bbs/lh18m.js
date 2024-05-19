@@ -55,10 +55,10 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>138期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>140期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【42.35.31.30.41.04.32.45.13】<br>");
-document.writeln("		【28.14.43.16.03.18.17.06.01】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【45.42.20.05.26.27.17.28.15】<br>");
+document.writeln("		【41.39.35.21.40.49.19.09.33】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
@@ -70,14 +70,15 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>136期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>鸡44</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>139期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【02.19.48.25.49.43.04.37.11】<br>");
-document.writeln("		【38.29.45.32.14.41.40.10.<span style=\'background-color: #FFFF00\'>44</span>】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【42.35.31.30.41.04.32.45.13】<br>");
+document.writeln("		【28.<span style=\'background-color: #FFFF00\'>14</span>.43.16.03.18.17.06.01】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
+
 
 
 document.writeln("");

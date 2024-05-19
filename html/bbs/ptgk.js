@@ -16,10 +16,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' st
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("139期<font color=\'#FF0000\'>平兔→兔鸡(2连)→26.38.08.20(连)</font></font></b></font></table>");
+document.writeln("140期<font color=\'#FF0000\'>平马→马猴(2连)→11.23.21.45(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("139期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>兔</span>→兔鸡(2连)→<span style=\'background-color: #FFFF00\'>26</span>.38.08.20(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");

@@ -28,6 +28,18 @@ document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">144期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">143期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">142期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
 document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
 document.writeln("");
@@ -35,20 +47,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">141期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
+document.writeln("	【18.30.04.16.20.32.12.36.02.38.10.22.21.33】</span></font></p>  	");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">140期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">139期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【04.34.44.05.35.45.17.37.47.19.39.49.13.03】</span></font></p>  	");
-document.writeln("");
+
+
 
 
 document.writeln("");

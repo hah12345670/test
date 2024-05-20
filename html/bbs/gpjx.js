@@ -6,21 +6,41 @@ document.writeln("<tr><td style=\'border:10px double #00f; height: 49px;\' bgcol
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62635b.com</font><font color=\'#FFFFFF\'>『挂牌解析』</font></font></b></p></td></tr></tbody></table>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<font color=\'#0000FF\'><b>141期挂牌《心有余悸》<br>");
+document.writeln("解释：指危险的事情虽然过去了,回想起来还感到害怕。。<br>");
+document.writeln("解：狗虎马猴鸡蛇，挂:38 爆:龙<br>");
+document.writeln("</b></font>");
+document.writeln("");
+document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("");
+document.writeln("");
+document.writeln("<font size=\'3\'>七肖：狗虎马猴鸡蛇牛</font></span></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
+document.writeln("");
+document.writeln("</tr></table></td>");
+document.writeln("<!--结束-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>139期挂牌《香火传承》<br>");
-document.writeln("解释：通常是指家族或宗教信仰的传承。<br>");
-document.writeln("解：虎鼠猴羊龙蛇，挂:25 爆:猴<br>");
+document.writeln("<font color=\'#0000FF\'><b>140期挂牌《文武双全》<br>");
+document.writeln("解释：意思是能文能武，文才和武艺都很出众。也作文武全才。<br>");
+document.writeln("解：蛇龙猴狗牛鼠，挂:15 爆:羊<br>");
 document.writeln("</b></font>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
 document.writeln("");
-document.writeln("<font size=\'3\'>七肖：虎鼠猴羊龙蛇马</font></span></p>");
+document.writeln("<font size=\'3\'>七肖：蛇龙猴狗牛鼠<span style=\'background-color: #FFFF00\'>马</span></font></span></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
 document.writeln("");

@@ -10,26 +10,26 @@ document.writeln('<div class="unsites"><ul>');
 
 
 
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://asdasd.www773389a.com:8443/pt/329.html     ">057期：冰霜寒夜【平特一肖】15中15&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://adfsdsa.www552228a.com:8443/gsb/017.html     ">057期：海阔天空 【包公杀头】27中25&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://sfsdf.www226695a.com:8443/gsb/0045.htm   ">057期：无边无际【大小中特】23中20&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://kjkmss.www997726a.com:8443/gsb/067.htm   ">057期：家住长安【琴棋书画】11中09&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://gtffgthgf.www221127a.com:8443/gsb3/791.html   ">057期：山里有狼【绝杀半头】77中73&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="    https://ffrrrsfsf.www661161a.com:8443/shagsb/s06.html    ">057期：温暖如初【必杀一季】21中20&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://rrgg.www992285a.com:8443/bbs1/255.htm    ">057期：红楼梦话【大小中特】17中16&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gnfddg.www331159a.com:8443/gsbb3/13.html   ">057期：发家致富【平特一尾】10中08&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://bfffgbds.www773371a.com:8443/gsb/162.html   ">057期：无人安慰 【精准五肖】09中07&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://fggfgfg.www552257a.com:8443/xsq/234011.html    ">057期：雷锋论坛【绝杀二肖】91中83&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://gnfddg.www771187a.com:8443/gsb/076.html    ">057期：悔恨交加【大小中特】11中11&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://uyyyr.www886682a.com:8443/top/5000.html  ">057期：无为而治【五肖中特】12中111&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://bnfgfg.www772279a.com:8443/gsb1/198.html  ">057期：林风一刀【绝杀7码】62中59&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://ghgfhfg.www771172a.com:8443/gsb/026.htm    ">057期：老奇人工【稳禁一肖】32中32&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://gfgrgg.www551171a.com:8443/bbs/0153.html    ">057期：蟾宫折桂【家禽野兽 】23中20&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://fghfg.www557798a.com:8443/pitegsb/022.html   ">057期：梧鼠学技【平特一肖】11中11&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gfbbggb.www776627a.com:8443/gsb/058.html  ">057期：且听且行【 ⑶行爆特】14中14&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://frrrfgg.www883317a.com:8443/gsb/dxzt.html      ">057期：美丽邂逅【大小中特】25中22&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gfbgfgg.www776673a.com:8443/bbs/37.html    ">057期：电动马达【绝杀一肖】35中32&#10004;</a></b></li>');
-document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://frrrfgg.www883317a.com:8443/gsb/014.html     ">057期：在水伊芳【男女中特】25中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://asdasd.www773389a.com:8443/pt/329.html     ">058期：冰霜寒夜【平特一肖】15中15&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://adfsdsa.www552228a.com:8443/gsb/017.html     ">058期：海阔天空 【包公杀头】27中25&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://sfsdf.www226695a.com:8443/gsb/0045.htm   ">058期：无边无际【大小中特】23中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://kjkmss.www997726a.com:8443/gsb/067.htm   ">058期：家住长安【琴棋书画】11中09&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://gtffgthgf.www221127a.com:8443/gsb3/791.html   ">058期：山里有狼【绝杀半头】77中73&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="    https://ffrrrsfsf.www661161a.com:8443/shagsb/s06.html    ">058期：温暖如初【必杀一季】21中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://rrgg.www992285a.com:8443/bbs1/255.htm    ">058期：红楼梦话【大小中特】17中16&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gnfddg.www331159a.com:8443/gsbb3/13.html   ">058期：发家致富【平特一尾】10中08&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://bfffgbds.www773371a.com:8443/gsb/162.html   ">058期：无人安慰 【精准五肖】09中07&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://fggfgfg.www552257a.com:8443/xsq/234011.html    ">058期：雷锋论坛【绝杀二肖】91中83&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href=" https://gnfddg.www771187a.com:8443/gsb/076.html    ">058期：悔恨交加【大小中特】11中11&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://uyyyr.www886682a.com:8443/top/5000.html  ">058期：无为而治【五肖中特】12中111&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://bnfgfg.www772279a.com:8443/gsb1/198.html  ">058期：林风一刀【绝杀7码】62中59&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://ghgfhfg.www771172a.com:8443/gsb/026.htm    ">058期：老奇人工【稳禁一肖】32中32&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="  https://gfgrgg.www551171a.com:8443/bbs/0153.html    ">058期：蟾宫折桂【家禽野兽 】23中20&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://fghfg.www557798a.com:8443/pitegsb/022.html   ">058期：梧鼠学技【平特一肖】11中11&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gfbbggb.www776627a.com:8443/gsb/058.html  ">058期：且听且行【 ⑶行爆特】14中14&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://frrrfgg.www883317a.com:8443/gsb/dxzt.html      ">058期：美丽邂逅【大小中特】25中22&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://gfbgfgg.www776673a.com:8443/bbs/37.html    ">058期：电动马达【绝杀一肖】35中32&#10004;</a></b></li>');
+document.writeln('<li style="background-color:#ffffff"><b><a target="_blank" href="   https://frrrfgg.www883317a.com:8443/gsb/014.html     ">058期：在水伊芳【男女中特】25中20&#10004;</a></b></li>');
 
 
 document.writeln('</ul></div>');

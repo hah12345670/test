@@ -14,7 +14,12 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	141期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>11.46.38.19.05</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	142期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>04.03.48.17.35</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	141期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>11.<span style=\'background-color: #FFFF00\'>39</span>.38.19.05</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
 document.writeln("	<!--开始-->");

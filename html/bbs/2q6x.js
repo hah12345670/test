@@ -28,13 +28,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("140-141期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛猴鼠虎羊猪】</font>(000期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("136-137期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠猪<span style=\'background-color: #FFFF00\'>牛</span>蛇马龙】</font>(137期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("134-135期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙<span style=\'background-color: #FFFF00\'>羊</span>马猪牛鸡】</font>(135期√)<br>");
+document.writeln("142-143期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猪马猴蛇虎鼠】</font>(000期√)<br>");
 document.writeln("");
 
 
@@ -53,7 +47,7 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("140-141期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【64298尾】</font>(000期√)<br>");
+document.writeln("142-143期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【45086尾】</font>(000期√)<br>");
 
 document.writeln("139-140期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【938<span style=\'background-color: #FFFF00\'>4</span>1尾】</font>(139期√)<br>");
 
@@ -90,16 +84,7 @@ document.writeln("    ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.manolotron.com:49\' style=\'text-decoration: none\'>");
-document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>查看最全图纸进入<font color=\'#FF0000\'>49图库</font></font></b></p></a></td></tr>");
-document.writeln(" ");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

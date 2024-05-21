@@ -20,7 +20,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>141期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『8尾』</font><font color=\'#0000FF\'>开00</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>142期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『9尾』</font><font color=\'#0000FF\'>开00</font></font></b></font></table>");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>141期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『8尾』</font><font color=\'#0000FF\'>开28</font></font></b></font></table>");
 
 
 document.writeln("");
@@ -49,14 +56,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#0000FF\'>136期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『7尾』</font><font color=\'#0000FF\'>开47</font></font></b></font></table>");
 
 
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>134期</font><font color=\'#FF00FF\'>平特一尾</font><font color=\'#FF0000\'>『5尾』</font><font color=\'#0000FF\'>开05</font></font></b></font></table>");
 
 
 

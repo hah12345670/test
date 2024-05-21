@@ -58,7 +58,7 @@ document.writeln("			（16.27.49.08.02）<br><br>	");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				");
-document.writeln("				141期<br>");
+document.writeln("				142期<br>");
 document.writeln("			<a target=\"_blank\" href=\"https://diyidiyi.www62635a.com:8443/#22\">");
 document.writeln("<span style=\"text-decoration: none\"><font color=\"#000000\">（62635b.com 已更新）<br>");
 document.writeln("			（好料推不停）</font></span></a></font><br><br>	");
@@ -66,10 +66,32 @@ document.writeln("				");
 document.writeln("</b>");
 document.writeln("</td></tr>");
 document.writeln("<!--结束-->");
+
+
+
+document.writeln("<!--（始--");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center>");
+document.writeln("<b>");
 document.writeln("");
-document.writeln("");
-document.writeln("");
+document.writeln("				");
+document.writeln("				");
+document.writeln("				<font style=\"font-size: 20pt\">140期<br>");
+document.writeln("			（<span style=\'background-color: #FFFF00\'>35</span>.06.45.25.42）<br>");
+document.writeln("			（16.27.49.08.02）<br><br>	");
+document.writeln("				");
+document.writeln("				");
+document.writeln("				");
+document.writeln("				141期<br>");
+document.writeln("			<a target=\"_blank\" href=\"https://diyidiyi.www62635a.com:8443/#22\">");
+document.writeln("<span style=\"text-decoration: none\"><font color=\"#000000\">（62635b.com 已更新）<br>");
+document.writeln("			（好料推不停）</font></span></a></font><br><br>	");
+document.writeln("				");
+
+document.writeln("</b>");
+document.writeln("</td></tr>");
+document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");

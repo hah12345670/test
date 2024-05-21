@@ -17,8 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("141期：平特【龙兔拖蛇狗】开？00<br>");
+document.writeln("142期：平特【鸡蛇拖虎牛】开？00<br>");
 document.writeln("------<br>");
+
 
 
 

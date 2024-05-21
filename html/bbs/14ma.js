@@ -41,13 +41,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">142期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【00.00.00.00.00.00.00.00.00.00.00.00.00.00】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">141期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【18.30.04.16.20.32.12.36.02.38.10.22.21.33】</span></font></p>  	");
+document.writeln("	【25.43.31.49.11.13.03.07.45.40.18.27.01.35】</span></font></p>  	");
 document.writeln("");
 
 

@@ -68,7 +68,7 @@ document.writeln("<!--澳门结束-->");
 document.writeln("	</div>");
 document.writeln("	<div id=\'con_tabzzhl49_2\' style=\'display:none\'>");
 document.writeln("<!--香港开始-->");
-document.writeln("<div class=\'zzhla-list\' style=\'font-size: large\'>");
+document.writeln("<div class=\'zzhl-list\' style=\'font-size: large\'>");
 document.writeln("");
 document.writeln("	<ul>");
 document.writeln("");
@@ -82,7 +82,7 @@ document.writeln("<!--香港结束-->");
 document.writeln("    </div>");
 document.writeln("    <div id=\'con_tabzzhl49_3\' style=\'display:none\'>");
 document.writeln("<!--台湾开始-->");
-document.writeln("<div class=\'zzhla-list\' style=\'font-size: large\'>");
+document.writeln("<div class=\'zzhl-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
 
 
@@ -96,7 +96,7 @@ document.writeln("<!--台湾结束-->");
 document.writeln("	</div>");
 document.writeln("	<div id=\'con_tabzzhl49_4\' style=\'display:none\'>");
 document.writeln("<!--新彩开始-->");
-document.writeln("<div class=\'zzhla-list\' style=\'font-size: large\'>");
+document.writeln("<div class=\'zzhl-list\' style=\'font-size: large\'>");
 document.writeln("");
 document.writeln("	<ul>");
 document.writeln("");

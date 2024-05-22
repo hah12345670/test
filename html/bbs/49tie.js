@@ -35,7 +35,7 @@ document.writeln(".zzhl-list a {");
 document.writeln("    font-size: large;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("<div class=\'zzhl-tit\'><img src=\'https://diyidiyi.www62635a.com:8443/images/djhl.jpg\' src=\'\'></div>");
+document.writeln("<div class=\'zzhl-tit\'><img src=\'https://dierdier.www62635a.com:8443/images/djhl.jpg\' src=\'\'></div>");
 document.writeln("<div id=\"tabzzhl49\">");
 document.writeln("<div class=\'zzhl49menu\'>");
 document.writeln("    <ul>");
@@ -73,7 +73,7 @@ document.writeln("");
 document.writeln("	<ul>");
 document.writeln("");
 
-document.writeln("<script type=\'text/javascript\' src=\'https://diyidiyi.www62635a.com:8443/49xg.js\' charset=\'utf-8\'></script>");
+document.writeln("<script type=\'text/javascript\' src=\'https://dierdier.www62635a.com:8443/49xg.js\' charset=\'utf-8\'></script>");
 
 document.writeln("");
 document.writeln("	</ul>");
@@ -87,7 +87,7 @@ document.writeln("	<ul>");
 
 
 
-document.writeln("<script type=\'text/javascript\' src=\'https://diyidiyi.www62635a.com:8443/49tw.js\' charset=\'utf-8\'></script>");
+document.writeln("<script type=\'text/javascript\' src=\'https://dierdier.www62635a.com:8443/49tw.js\' charset=\'utf-8\'></script>");
 
 
 document.writeln("	</ul>");
@@ -101,7 +101,7 @@ document.writeln("");
 document.writeln("	<ul>");
 document.writeln("");
 
-document.writeln("<script type=\'text/javascript\' src=\'https://diyidiyi.www62635a.com:8443/49xc.js\' charset=\'utf-8\'></script>");
+document.writeln("<script type=\'text/javascript\' src=\'https://dierdier.www62635a.com:8443/49xc.js\' charset=\'utf-8\'></script>");
 
 document.writeln("");
 document.writeln("	</ul>");

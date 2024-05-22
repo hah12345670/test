@@ -29,7 +29,8 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("142期稳杀(1)肖【鸡鸡鸡】开？00√<BR>");
+document.writeln("143期稳杀(1)肖【马马马】开？00√<BR>");
+document.writeln("142期稳杀(1)肖【鸡鸡鸡】开虎27√<BR>");
 document.writeln("141期稳杀(1)肖【羊羊羊】开狗43√<BR>");
 document.writeln("140期稳杀(1)肖【猪猪猪】开马35√<BR>");
 document.writeln("139期稳杀(1)肖【鼠鼠鼠】开兔14√<BR>");
@@ -53,7 +54,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("142期稳杀(1)尾【777尾】开？00√<BR>");
+
+document.writeln("143期稳杀(1)尾【444尾】开？00√<BR>");
+document.writeln("142期稳杀(1)尾【777尾】开虎27×<BR>");
 document.writeln("141期稳杀(1)尾【222尾】开狗43√<BR>");
 document.writeln("140期稳杀(1)尾【111尾】开马35√<BR>");
 document.writeln("139期稳杀(1)尾【999尾】开兔14√<BR>");
@@ -77,7 +80,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("141期稳杀半波【绿双】开？00√<BR>	");
+document.writeln("143期稳杀半波【绿单】开？00√<BR>	");
+document.writeln("142期稳杀半波【绿双】开虎27√<BR>	");
 document.writeln("141期稳杀半波【蓝双】开狗43√<BR>	");
 document.writeln("140期稳杀半波【绿双】开马35√<BR>	");
 document.writeln("139期稳杀半波【蓝单】开兔14√<BR>	");
@@ -101,8 +105,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-document.writeln("142期稳杀半头【0头单】开？00√<BR>");
+document.writeln("143期稳杀半头【3头双】开？00√<BR>");
+document.writeln("142期稳杀半头【0头单】开虎27√<BR>");
 document.writeln("141期稳杀半头【1头双】开狗43√<BR>");
 
 
@@ -116,8 +120,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-document.writeln("142期稳杀单双【小单】开？00√<BR>");
+document.writeln("143期稳杀单双【大双】开？00√<BR>");
+document.writeln("142期稳杀单双【小单】开虎27√<BR>");
 document.writeln("141期稳杀单双【大单】开狗43×<BR>");
 document.writeln("140期稳杀单双【大双】开马35√<BR>");
 document.writeln("139期稳杀单双【小单】开兔14√<BR>");
@@ -138,8 +142,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("142期稳杀(1)行【火火火】开？00√<BR>");
+document.writeln("143期稳杀(1)行【金金金】开？00√<BR>");
+document.writeln("142期稳杀(1)行【火火火】开虎27√<BR>");
 document.writeln("141期稳杀(1)行【金金金】开狗43√<BR>");
 document.writeln("140期稳杀(1)行【水水水】开马35√<BR>");
 document.writeln("139期稳杀(1)行【金金金】开兔14√<BR>");

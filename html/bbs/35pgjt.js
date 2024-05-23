@@ -49,11 +49,11 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			142期<font color=\'#FF0000\'>【今期生肖定管家，不是牛来就是马】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：定管家解家肖牛马猪羊鸡狗</font><br>");
+document.writeln("			143期<font color=\'#FF0000\'>【绿波今期有特码，精彩民放心下注】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：绿波解绿肖牛羊狗龙</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：牛马猪羊鸡狗鼠<br>");
-document.writeln("			特码：04.16.11.23.06.18.10.22.08.20.07.19.05.17");
+document.writeln("			<br>七肖：牛羊狗龙猴猪蛇<br>");
+document.writeln("			特码：28.40.34.46.31.43.25.37.33.45.30.42.36.48");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
@@ -89,21 +89,6 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
-document.writeln("<!--头部start-->");
-document.writeln("	");
-document.writeln("	");
-document.writeln("			<tr>");
-document.writeln("			<td align=\'left\' height=90>");
-document.writeln("			<font style=\'font-size: 13pt\'><b>");
-document.writeln("			137期<font color=\'#FF0000\'>【三代英豪杨家奖，保家卫国求边关】</font>");
-document.writeln("			<br><font color=\'#0000FF\'>解析：三代英豪杨家奖解三虎牛，家肖牛狗马猪鸡羊</font><br>");
-document.writeln("			");
-document.writeln("			<br>七肖：虎<span style=\'background-color: #FFFF00\'>牛</span>狗马猪鸡羊<br>");
-document.writeln("			特码：27.39.28.40.31.43.35.47.30.42.32.44.34.46");
-document.writeln("			</b></td>");
-document.writeln("		</tr>	");
-document.writeln("");
-document.writeln("<!--头部start-->");
 
 
 

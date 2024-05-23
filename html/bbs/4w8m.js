@@ -23,95 +23,36 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>143期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("<span style=\'color: #00F;\'>144期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
 document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("【2尾:02.32】");
+document.writeln("【1尾:21.31】<br>");
+document.writeln("【4尾:04.14】");
+document.writeln("【7尾:17.37】</span></p>");
+document.writeln("</td></tr>");
+document.writeln("<!--开始-->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
+document.writeln("<span style=\'color: #00F;\'>143期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>蛇12</span></font>准</font></td></tr>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<p style=line-height:200%>");
+document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>2尾</span>:02.32】");
 document.writeln("【3尾:23.33】<br>");
 document.writeln("【4尾:04.14】");
 document.writeln("【9尾:19.39】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>141期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>狗43</span></font>准</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【1尾:11.21】");
-document.writeln("【<span style=\'background-color: #FFFF00\'>3尾</span>:23.33】<br>");
-document.writeln("【7尾:27.37】");
-document.writeln("【0尾:20.30】</span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>139期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>兔14</span></font>准</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【6尾:36.46】");
-document.writeln("【0尾:20.30】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>4尾</span>:04.34】");
-document.writeln("【7尾:17.37】</span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!--开始-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>137期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>牛16</span></font>准</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【5尾:05.15】");
-document.writeln("【<span style=\'background-color: #FFFF00\'>6尾</span>:26.36】<br>");
-document.writeln("【4尾:34.44】");
-document.writeln("【3尾:13.43】</span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!--开始-->");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>136期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
-document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>鸡44</span></font>准</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【9尾:09.49】");
-document.writeln("【2尾:12.32】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>4尾</span>:34.<span style=\'background-color: #FFFF00\'>44</span>】");
-document.writeln("【7尾:17.37】</span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!--开始-->");
-
 
 
 

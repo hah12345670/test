@@ -14,7 +14,12 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	143期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>31.06.04.30.43</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	144期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>44.20.04.14.10</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("		<!--开始-->");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	143期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>31</span>.06.04.30.43</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
@@ -26,54 +31,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	141期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>11.<span style=\'background-color: #FFFF00\'>39</span>.38.19.05</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	139期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>14</span>.33.44.27.48</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	137期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>01</span>.37.20.41.<span style=\'background-color: #FFFF00\'>15</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	136期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>32.<span style=\'background-color: #FFFF00\'>47</span>.04.14.30</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	134期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>01.33.42.43.<span style=\'background-color: #FFFF00\'>05</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	133期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>05.40.22.37.30</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	132期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>28.01.47.02.19</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	131期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>06.11.25.<span style=\'background-color: #FFFF00\'>31</span>.48</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	130期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>05.49.<span style=\'background-color: #FFFF00\'>01</span>.11.20</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
 
 
 

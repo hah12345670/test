@@ -58,6 +58,8 @@ document.writeln("  140期（平5*4+特-D2+平5+正3-2）=杀蛇虎√<br>		");
 document.writeln("  141期（平5*4+特-D2+平5+正3-2）=杀蛇马√<br>		");
 document.writeln("  142期（平5*4+特-D2+平5+正3-2）=杀蛇牛√<br>		");
 document.writeln("  143期（平5*4+特-D2+平5+正3-2）=杀兔狗√<br>		");
+document.writeln("  144期（平5*4+特-D2+平5+正3-2）=杀鸡鼠√<br>		");
+
 
 document.writeln("		");
 document.writeln("<br>		");
@@ -68,7 +70,10 @@ document.writeln("");
 
 document.writeln("      141期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
 document.writeln("      142期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
-document.writeln("      143期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+document.writeln("      143期（平4*2+正1-D3+正6+正3-特）=杀水×<br>			");
+document.writeln("      144期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
+
+
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -95,7 +100,9 @@ document.writeln("		139期（平5-2-D2+正4）=杀79尾√<br>		");
 document.writeln("		140期（平5-2-D2+正4）=杀80尾√<br>		");
 document.writeln("		141期（平5-2-D2+正4）=杀17尾√<br>		");
 document.writeln("		142期（平5-2-D2+正4）=杀43尾√<br>		");
-document.writeln("		143期（平5-2-D2+正4）=杀26尾√<br>		");
+document.writeln("		143期（平5-2-D2+正4）=杀26尾×<br>		");
+document.writeln("		144期（平5-2-D2+正4）=杀14尾√<br>		");
+
 
 document.writeln("		");
 document.writeln("<br>");
@@ -110,6 +117,8 @@ document.writeln("		140期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("		141期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		142期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		143期（平4+3-D1+正2-平3）=杀4头√<br>		");
+document.writeln("		144期（平4+3-D1+正2-平3）=杀3头√<br>		");
+
 
 document.writeln("<br>");
 document.writeln("		");
@@ -150,7 +159,9 @@ document.writeln("        <font color=\'#0000FF\'>139期四头=102<span style=\'
 document.writeln("        <font color=\'#0000FF\'>140期四头=<span style=\'background-color: #FFFF00\'>3</span>140√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>141期四头=2031×</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>142期四头=043<span style=\'background-color: #FFFF00\'>2</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>143期四头=4312√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>143期四头=43<span style=\'background-color: #FFFF00\'>1</span>2√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>144期四头=0124√</font><br>	");
+
 
 document.writeln("		");
 document.writeln("<br>	");
@@ -162,17 +173,15 @@ document.writeln("		<font color=\'#0000FF\'>139期七肖=虎鼠狗鸡猪猴<span
 document.writeln("		<font color=\'#0000FF\'>140期七肖=狗<span style=\'background-color: #FFFF00\'>马</span>猴猪羊虎鸡√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>141期七肖=猪羊兔马牛龙蛇×</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>142期七肖=鸡兔牛马蛇猪<span style=\'background-color: #FFFF00\'>虎</span>√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>143期七肖=狗马羊猪鸡猴龙√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>143期七肖=狗马羊猪鸡猴龙×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>144期七肖=兔鼠龙羊猴蛇马√</font><br>		");
+
 
 document.writeln("		");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("		");
 
-document.writeln("		<font color=\'#0000FF\'>134期三行=土<span style=\'background-color: #FFFF00\'>木</span>水√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>135期三行=金水<span style=\'background-color: #FFFF00\'>火</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>136期三行=<span style=\'background-color: #FFFF00\'>木</span>水火√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>137期三行=金木土×</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>138期三行=火水<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>139期三行=土<span style=\'background-color: #FFFF00\'>木</span>水√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>140期三行=金<span style=\'background-color: #FFFF00\'>土</span>水√</font><br>			");
@@ -189,14 +198,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">136期六尾=2087<span style=\'background-color: #FFFF00\'>4</span>1√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">137期六尾=25<span style=\'background-color: #FFFF00\'>6</span>180√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">138期六尾=023987×</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">139期六尾=39<span style=\'background-color: #FFFF00\'>4</span>260√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">140期六尾=17<span style=\'background-color: #FFFF00\'>5</span>029√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">141期六尾=574680×</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">142期六尾=582309×</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">143期六尾=930765√</span></font><br>");
+
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">144期六尾=027351√</span></font><br>");
 
 document.writeln("		");
 document.writeln("");

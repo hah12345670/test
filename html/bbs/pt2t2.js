@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("143期：平特【兔虎拖马牛】开？00<br>");
+document.writeln("144期：平特【牛兔拖龙猴】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("143期：平特【<span style=\'background-color: #FFFF00\'>兔</span>虎拖<span style=\'background-color: #FFFF00\'>马牛</span>】开38.28.35<br>");
 document.writeln("------<br>");
 
 

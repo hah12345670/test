@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 
 document.writeln("");
-document.writeln("145期：平特【狗虎拖兔蛇】开？00<br>");
+document.writeln("146期：平特【蛇虎拖猴鼠】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("145期：平特【狗<span style=\'background-color: #FFFF00\'>虎</span>拖<span style=\'background-color: #FFFF00\'>兔</span>蛇】开27.38<br>");
 document.writeln("------<br>");
 document.writeln("");
 document.writeln("144期：平特【<span style=\'background-color: #FFFF00\'>牛兔</span>拖龙<span style=\'background-color: #FFFF00\'>猴</span>】开16.02.09<br>");

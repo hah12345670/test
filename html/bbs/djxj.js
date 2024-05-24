@@ -26,40 +26,22 @@ document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>145期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>146期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>老来得子总是喜，眠牛虎口相扶持</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>生得虎头又蛇尾,老鼠成窝七彩开</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖牛虎,子偏看男肖鼠牛虎龙马猴狗.老偏看大肖大码.综合得主牛虎猴狗防鼠龙马鸡蛇。</font></div>");
+document.writeln("解析：预先解明肖虎蛇鼠.七解七位马七岁狗.玄机说七彩开,会不会前面都是铺垫,最后在七中开出,也可能是七尾.七合.要注意.综合得主马狗虎蛇防鼠牛兔龙鸡。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：牛虎猴狗鼠龙<br>");
-document.writeln("	特码：04.28.15.39.21.33.07.19.17.29.13.49</font></b></div>");
+document.writeln("	解特肖：马狗虎蛇鼠牛<br>");
+document.writeln("	特码：11.23.07.31.15.39.12.36.05.17.28.40</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
-
 document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>144期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>春天播种秋天收，天降马羊猴鸡狗</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖马羊猴鸡狗。春天和秋天偏看春（虎兔龙）秋（猴鸡狗）肖。这期我就信了会给明肖。秋肖中有猴鸡狗肖，说明猴鸡狗是重复重点指出的。综合得主猴鸡狗虎防马羊兔鼠<span style=\'background-color: #FFFF00\'>牛</span></font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：猴鸡狗虎马羊<br>");
-document.writeln("	特码：09.21.08.20.31.43.03.15.23.35.22.46</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
 
 
 

@@ -51,17 +51,28 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/144/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/145/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第144期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第145期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【车水马龙】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：后用来形容车马来往不断，非常热闹。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：龙鸡虎猪鼠牛</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("</P>");
+
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第144期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛16中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【金鸡独立】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：金鸡独立，明肖鸡，金肖猴鸡，独肖鼠牛马羊虎兔</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猴鸡牛马羊虎</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猴鸡<span style=\'background-color: #FFFF00\'>牛</span>马羊虎</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 
@@ -89,12 +100,17 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/144/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/145/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
-
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第144期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【鼠马猪虎来红蓝】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第144期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿16中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【灯红酒绿午夜欢】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

@@ -31,7 +31,16 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第144期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马35.猪30.牛04.猴33】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第145期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗31.羊10.马23.鸡20】</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("    <!--结束--> ");
+document.writeln("");
+document.writeln("            <!--开始--> ");
+document.writeln("");
+document.writeln("    	<tr>");
+document.writeln("      <td height=32 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第144期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【马35.猪30.<span style=\'background-color: #FFFF00\'>牛</span>04.猴33】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
@@ -52,41 +61,6 @@ document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第142期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗31.马43.<span style=\'background-color: #FFFF00\'>虎</span>03.鼠41】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第139期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【猴09.猪30.虎15.<span style=\'background-color: #FFFF00\'>兔14</span>】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第137期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>牛</span>28.鸡20.羊04.龙37】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第135期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>羊</span>22.鸡20.牛16.猪30】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-
-
-
-
-
 
 
 

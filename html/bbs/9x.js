@@ -35,9 +35,9 @@ document.writeln("<colgroup span=\'1\' width=\'52%\' />");
 document.writeln("<colgroup span=\'1\' width=\'22%\' />");
 document.writeln(" <!--开始start-->");
 document.writeln("");
-document.writeln("<tr><td><span style=\'font-size: 10pt; \'>144期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>145期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("狗鸡兔蛇鼠猴龙虎羊</span></td><td>");
+document.writeln("马猴羊狗牛龙鼠兔猪</span></td><td>");
 document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 
 document.writeln("");

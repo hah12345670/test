@@ -110,10 +110,8 @@ document.writeln("				<b> ");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半面妆容】(3肖)</font></b></span><b><font color=\"#0000FF\"></b></font></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("		138期【蛇<span style=\'background-color: #FFFF00\'>兔</span>虎】<br>		");
-document.writeln("		140期【<span style=\'background-color: #FFFF00\'>马</span>猴鸡】<br>		");
-document.writeln("		141期【<span style=\'background-color: #FFFF00\'>狗</span>牛龙】<br>		");
-document.writeln("		144期【虎鸡猴】<br>		");
+
+document.writeln("		145期【蛇兔猪】<br>		");
 
 
 document.writeln("		");
@@ -125,8 +123,8 @@ document.writeln("	      <!--左肖鼠牛龙蛇猴鸡  右肖虎兔马羊狗猪-
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
-document.writeln("			142期【龙<span style=\'background-color: #FFFF00\'>虎</span>+猪】<br><br>");
-document.writeln("			144期【鼠鸡+狗】<br><br>");
+
+document.writeln("			145期【鸡牛+鼠】<br><br>");
 
 document.writeln("				");
 document.writeln("				");
@@ -143,13 +141,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 
 
-document.writeln("				142期<span style=\'background-color: #FFFF00\'>虎</span>猪龙<br>");
-document.writeln("				11.23.35.47<br><br>");
-document.writeln("								");
-
-
-document.writeln("				144期兔猴龙<br>");
-document.writeln("				10.22.31.43<br><br>");
+document.writeln("				145期猴羊龙<br>");
+document.writeln("				04.17.41.44<br><br>");
 document.writeln("								");
 
 document.writeln("								");
@@ -164,18 +157,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("140期<br>");
-document.writeln("21.48.04.<span style=\'background-color: #FFFF00\'>35</span>.45.13<br>");
-document.writeln("03.40.49.29.46.25<br>	");
-
-
-document.writeln("143期<br>");
-document.writeln("08.42.16.28.13.<span style=\'background-color: #FFFF00\'>12</span><br>");
-document.writeln("02.27.48.18.24.04<br>	");
-
-document.writeln("144期<br>");
-document.writeln("09.21.49.34.28.26<br>");
-document.writeln("03.36.13.04.07.38<br>	");
+document.writeln("145期<br>");
+document.writeln("30.29.04.41.36.24<br>");
+document.writeln("26.35.06.45.12.28<br>	");
 
 
 
@@ -208,14 +192,9 @@ document.writeln("");
 document.writeln("				</font> 	");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
-document.writeln("136期【<span style=\'background-color: #FFFF00\'>鸡</span>龙羊虎】<br><br>");
-document.writeln("138期【虎<span style=\'background-color: #FFFF00\'>兔</span>猪龙】<br><br>");
-document.writeln("139期【狗<span style=\'background-color: #FFFF00\'>兔</span>猴鼠】<br><br>");
-document.writeln("140期【<span style=\'background-color: #FFFF00\'>马</span>龙猪鸡】<br><br>");
 
-document.writeln("142期【羊猪猴<span style=\'background-color: #FFFF00\'>虎</span>】<br><br>");
-
-document.writeln("144期【马牛狗鸡】<br><br>");
+document.writeln("144期【马<span style=\'background-color: #FFFF00\'>牛</span>狗鸡】<br><br>");
+document.writeln("145期【兔鼠猪牛】<br><br>");
 
 document.writeln("				");
 document.writeln("				");
@@ -231,9 +210,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				144期？<br>");
-document.writeln("				【33.32.22.08】<br>");
-document.writeln("				【42.15.07.48】<br>	<br>				");
+document.writeln("				145期？<br>");
+document.writeln("				【32.02.36.28】<br>");
+document.writeln("				【10.37.49.35】<br>	<br>				");
 
 
 
@@ -251,9 +230,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				144期<br>");
-document.writeln("			（35.46.31.42.12）<br>");
-document.writeln("			（11.01.30.38.04）<br>	");
+document.writeln("				145期<br>");
+document.writeln("			（26.24.39.19.02）<br>");
+document.writeln("			（05.04.34.10.15）<br>	");
 
 
 
@@ -265,7 +244,7 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("				144期狗马龙+虎<br><br>");
+document.writeln("				145期猴鼠猪+狗<br><br>");
 
 
 document.writeln("				");

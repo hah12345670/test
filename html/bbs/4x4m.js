@@ -31,12 +31,11 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第145期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【狗31.羊10.马23.鸡20】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第146期</font><font size=\'4\' color=\'#FF0000\' face=\'微软雅黑\'>【兔02.狗31.羊22.马47】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
+
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");

@@ -29,11 +29,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' sty
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#FF00FF\'>146-148期</font>【平一尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#FF00FF\'>145-147期</font>【平七尾】<font color=\'#FF0000\'>000</font>期开<font color=\'#008000\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>145-147期</font>【平七尾】<font color=\'#FF0000\'>145</font>期开<font color=\'#008000\'>(27)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

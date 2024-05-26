@@ -29,28 +29,15 @@ document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'center\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>146期（什么是特码）</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>147期（什么是特码）</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>神仙是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>四川有特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:鼠马龙猪蛇虎羊猴</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:鼠蛇兔猪龙马牛狗</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'center\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>145期（什么是特码）</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'>命根子是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:虎<span style=\'background-color: #FFFF00\'>兔</span>猪狗蛇羊鼠马</font></b></font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
+
 
 
 

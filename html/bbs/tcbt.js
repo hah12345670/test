@@ -21,9 +21,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("146期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("147期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
 
 
 document.writeln("		<!--开始-->");
@@ -33,22 +33,6 @@ document.writeln("145期填词爆特:开<span style=\'background-color: #FF0000\
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
 
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("142期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎27</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:地肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("141期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗43</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:家禽</font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--推广开始-->");

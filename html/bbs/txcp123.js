@@ -114,6 +114,7 @@ document.writeln("		    ");
 document.writeln("		145期【蛇<span style=\'background-color: #FFFF00\'>兔</span>猪】<br>		");
 document.writeln("		146期【蛇龙牛】<br>		");
 document.writeln("		147期【鸡龙猪】<br>		");
+document.writeln("		148期【鼠虎马】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -127,7 +128,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小�
 document.writeln("			145期【鸡牛+鼠】<br><br>");
 document.writeln("			146期【蛇牛+猪】<br><br>");
 document.writeln("			147期【蛇牛+猴】<br><br>");
-
+document.writeln("			148期【猪鼠+狗】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -159,6 +160,11 @@ document.writeln("				09.21.22.34<br><br>");
 document.writeln("								");
 
 
+document.writeln("				148期虎鼠猪<br>");
+document.writeln("				11.23.08.20<br><br>");
+document.writeln("								");
+
+
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
 document.writeln("				<p><b><br>");
@@ -186,7 +192,13 @@ document.writeln("05.25.11.04.44.29<br>	");
 
 document.writeln("147期<br>");
 document.writeln("40.31.39.43.11.15<br>");
-document.writeln("34.29.33.02.22.18<br>	");
+document.writeln("34.29.33.<span style=\'background-color: #FFFF00\'>02</span>.22.18<br>	");
+
+
+
+document.writeln("148期<br>");
+document.writeln("35.28.24.10.11.15<br>");
+document.writeln("20.30.05.36.13.03<br>	");
 
 
 
@@ -223,10 +235,8 @@ document.writeln("144期【马<span style=\'background-color: #FFFF00\'>牛</spa
 document.writeln("145期【<span style=\'background-color: #FFFF00\'>兔</span>鼠猪牛】<br><br>");
 document.writeln("146期【鼠蛇鸡猪】<br><br>");
 document.writeln("147期【蛇虎鼠鸡】<br><br>");
+document.writeln("148期【猴鼠鸡牛】<br><br>");
 
-document.writeln("				");
-document.writeln("				");
-document.writeln("				");
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
 document.writeln("		");
@@ -252,6 +262,10 @@ document.writeln("				147期？<br>");
 document.writeln("				【04.05.26.23】<br>");
 document.writeln("				【36.20.10.42】<br>	<br>				");
 
+
+document.writeln("				148期？<br>");
+document.writeln("				【01.07.19.09】<br>");
+document.writeln("				【03.45.32.15】<br>	<br>				");
 
 
 document.writeln("				</b></font></span><p>");
@@ -283,6 +297,12 @@ document.writeln("			（41.47.26.24.27）<br>");
 document.writeln("			（13.29.42.05.18.）<br>	");
 
 
+document.writeln("				148期<br>");
+document.writeln("			（14.01.42.06.30）<br>");
+document.writeln("			（34.43.36.26.35）<br>	");
+
+
+
 document.writeln("				</span></b></font><b><br>");
 document.writeln("		");
 document.writeln("");
@@ -297,6 +317,7 @@ document.writeln("				146期虎羊龙+蛇<br><br>");
 
 document.writeln("				147期虎马鼠+牛<br><br>");
 
+document.writeln("				148期猪狗猴+虎<br><br>");
 
 document.writeln("				");
 document.writeln("				</span><br>");

@@ -31,6 +31,28 @@ document.writeln("<div class=\'box\'>");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong5\'>");
+document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62635a.com）九肖九码</div>");
+document.writeln("	<div class=\'bizhong5-box\'>");
+document.writeln("    	<div class=\'bizhong5-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li><font size=\'3\'>148期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>马鼠兔牛狗蛇龙羊鸡</font></li>");
+document.writeln("            	<li><font size=\'3\'>148期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>马鼠兔牛狗蛇龙</font></li>");
+document.writeln("            	<li><font size=\'3\'>148期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>马鼠兔牛狗</font></li>");
+document.writeln("            	<li><font size=\'2\'>148期必中18码：</font><font size=\'2\' color=\'#FF0000\'>23.47.05.41.02.14.04.40.31.43.12.36.25.37.22.46.08.20</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>148期必中九码：</font><font size=\'2\' color=\'#FF0000\'>23.41.14.04.43.12.37.22.20</span></font></li>");
+document.writeln("");
+document.writeln("            	");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("    </div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>148期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>马23</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期结束-->");
 
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
@@ -39,10 +61,10 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62635a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>147期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊兔马虎牛猴狗</font></li>");
-document.writeln("            	<li><font size=\'3\'>147期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊兔马虎牛</font></li>");
-document.writeln("            	<li><font size=\'3\'>147期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊兔马</font></li>");
-document.writeln("            	<li><font size=\'2\'>147期必中18码：</font><font size=\'2\' color=\'#FF0000\'>05.17.24.36.22.34.02.14.11.23.15.27.16.28.21.33.19.43</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>147期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊<span style=\'background-color: #FFFF00\'>【兔】</span>马虎牛猴狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>147期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊<span style=\'background-color: #FFFF00\'>【兔】</span>马虎牛</font></li>");
+document.writeln("            	<li><font size=\'3\'>147期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>鼠蛇羊<span style=\'background-color: #FFFF00\'>【兔】</span>马</font></li>");
+document.writeln("            	<li><font size=\'2\'>147期必中18码：</font><font size=\'2\' color=\'#FF0000\'>05.17.24.36.22.34.<span style=\'background-color: #FFFF00\'>【02】</span>.14.11.23.15.27.16.28.21.33.19.43</span></font></li>");
 document.writeln("             	<li><font size=\'2\'>147期必中九码：</font><font size=\'2\' color=\'#FF0000\'>05.24.34.14.23.27.28.33.19</span></font></li>");
 document.writeln("");
 document.writeln("            	");

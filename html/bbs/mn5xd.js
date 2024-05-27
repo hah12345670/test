@@ -56,7 +56,8 @@ document.writeln("143期【羊<span style=\'background-color: #FFFF00\'>蛇</spa
 document.writeln("144期【羊猪马狗龙鼠鸡虎兔蛇】×<br>		");
 document.writeln("145期【牛马猪猴羊鼠狗<span style=\'background-color: #FFFF00\'>兔</span>蛇虎】√<br>		");
 document.writeln("146期【鼠兔虎猴牛猪鸡<span style=\'background-color: #FFFF00\'>狗</span>龙羊】√<br>		");
-document.writeln("147期【羊牛龙狗猪马猴兔鸡鼠】√<br>		");
+document.writeln("147期【羊牛龙狗猪马猴<span style=\'background-color: #FFFF00\'>兔</span>鸡鼠】√<br>		");
+document.writeln("148期【虎猪猴蛇鸡牛鼠狗羊龙】√<br>		");
 
 document.writeln("	");
 document.writeln("	");
@@ -89,7 +90,9 @@ document.writeln("	143期【2<span style=\'background-color: #FFFF00\'>1</span>0
 document.writeln("	144期【0<span style=\'background-color: #FFFF00\'>1</span>24头】√<br>		");
 document.writeln("	145期【2<span style=\'background-color: #FFFF00\'>0</span>43头】√<br>		");
 document.writeln("	146期【30<span style=\'background-color: #FFFF00\'>4</span>1头】√<br>		");
-document.writeln("	147期【3402头】√<br>		");
+document.writeln("	147期【34<span style=\'background-color: #FFFF00\'>0</span>2头】√<br>		");
+document.writeln("	148期【0423头】√<br>		");
+
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -115,7 +118,9 @@ document.writeln("143期【金<span style=\'background-color: #FFFF00\'>水</spa
 document.writeln("144期【水金<span style=\'background-color: #FFFF00\'>火</span>土】√<br>			");
 document.writeln("145期【土<span style=\'background-color: #FFFF00\'>金</span>火木】√<br>			");
 document.writeln("146期【火木<span style=\'background-color: #FFFF00\'>水</span>金】√<br>			");
-document.writeln("147期【金水火木】√<br>			");
+document.writeln("147期【<span style=\'background-color: #FFFF00\'>金</span>水火木】√<br>			");
+document.writeln("148期【火水木金】√<br>			");
+
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -135,24 +140,9 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("  130期【3196402<span style=\'background-color: #FFFF00\'>7</span>】√<br>	");
-document.writeln("  131期【1792368<span style=\'background-color: #FFFF00\'>4</span>】√<br>	");
-document.writeln("  132期【269<span style=\'background-color: #FFFF00\'>7</span>4531】√<br>	");
-document.writeln("  133期【752<span style=\'background-color: #FFFF00\'>9</span>3016】√<br>	");
-document.writeln("  134期【659<span style=\'background-color: #FFFF00\'>7</span>8102】√<br>	");
-document.writeln("  135期【8<span style=\'background-color: #FFFF00\'>6</span>037951】√<br>	");
-document.writeln("  136期【<span style=\'background-color: #FFFF00\'>4</span>0739561】√<br>	");
-document.writeln("  137期【491<span style=\'background-color: #FFFF00\'>6</span>8270】√<br>	");
-document.writeln("  138期【3179026<span style=\'background-color: #FFFF00\'>4</span>】√<br>	");
-document.writeln("  139期【057<span style=\'background-color: #FFFF00\'>4</span>9316】√<br>	");
-document.writeln("  140期【<span style=\'background-color: #FFFF00\'>5</span>4792016】√<br>	");
-document.writeln("  141期【017<span style=\'background-color: #FFFF00\'>3</span>2459】√<br>	");
-document.writeln("  142期【410<span style=\'background-color: #FFFF00\'>7</span>9352】√<br>	");
-document.writeln("  143期【<span style=\'background-color: #FFFF00\'>2</span>6719058】√<br>	");
-document.writeln("  144期【49<span style=\'background-color: #FFFF00\'>6</span>25731】√<br>	");
-document.writeln("  145期【59764130】×<br>	");
-document.writeln("  146期【18<span style=\'background-color: #FFFF00\'>3</span>24759】√<br>	");
-document.writeln("  147期【57061834】√<br>	");
+document.writeln("  148期【68520391】√<br>	");
+
+
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -177,7 +167,9 @@ document.writeln("143期【绿波蓝波】×<br>  	");
 document.writeln("144期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
 document.writeln("145期【蓝波<span style=\'background-color: #FFFF00\'>红波</span>】√<br>  	");
 document.writeln("146期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
-document.writeln("147期【红波绿波】√<br>  	");
+document.writeln("147期【<span style=\'background-color: #FFFF00\'>红波</span>绿波】√<br>  	");
+document.writeln("148期【红波蓝波】√<br>  	");
+
 
 document.writeln("");
 document.writeln("           ");

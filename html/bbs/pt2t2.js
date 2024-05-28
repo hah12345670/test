@@ -16,10 +16,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-
 document.writeln("");
-document.writeln("149期：平特【虎牛拖羊鼠】开？00<br>");
+document.writeln("150期：平特【猴狗拖蛇羊】开？00<br>");
 document.writeln("------<br>");
+
 
 document.writeln("");
 document.writeln("148期：平特【<span style=\'background-color: #FFFF00\'>羊</span>兔拖鸡<span style=\'background-color: #FFFF00\'>马</span>】开10.23<br>");

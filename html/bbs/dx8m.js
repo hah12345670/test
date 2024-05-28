@@ -43,18 +43,33 @@ document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--结束-->  ");
 
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第150期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
+document.writeln("		主四肖：兔龙蛇猴<br>			");
+document.writeln("02.14.13.25.24.36.09.21</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
 
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第149期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第149期八码中特开(羊22)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
-document.writeln("		主四肖：牛羊狗猪<br>			");
-document.writeln("04.40.10.22.30.42</font></b></td>");
+document.writeln("		特肖：大肖（牛虎马<span style=\'background-color: #FFFF00\'>羊</span>狗猪）<br>	");
+document.writeln("		主四肖：牛<span style=\'background-color: #FFFF00\'>羊</span>狗猪<br>			");
+document.writeln("04.40.10.<span style=\'background-color: #FFFF00\'>22</span>.30.42</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");

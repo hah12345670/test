@@ -56,7 +56,8 @@ document.writeln("144期家【猪马鸡<span style=\'background-color: #FFFF00\'
 document.writeln("145期家【羊狗牛鸡】野【虎<span style=\'background-color: #FFFF00\'>兔</span>龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("146期家【羊牛猪<span style=\'background-color: #FFFF00\'>狗</span>】野【虎蛇猴兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("147期家【牛猪鸡羊】野【猴<span style=\'background-color: #FFFF00\'>兔</span>龙蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("148期家【牛猪马羊】野【龙猴鼠兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("148期家【牛猪马羊】野【龙猴鼠兔】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("149期家【猪牛马狗】野【龙鼠兔蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -98,8 +99,8 @@ document.writeln("144期单【狗虎猴鼠】双【鸡蛇<span style=\'backgroun
 document.writeln("145期单【龙虎狗马】双【羊蛇<span style=\'background-color: #FFFF00\'>兔</span>猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("146期单【鼠虎龙马】双【羊兔牛猪】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("147期单【狗猴虎龙】双【蛇猪<span style=\'background-color: #FFFF00\'>兔</span>牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("148期单【鼠马虎龙】双【蛇兔猪羊】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("148期单【鼠马<span style=\'background-color: #FFFF00\'>虎</span>龙】双【蛇兔猪羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("149期单【龙马虎狗】双【蛇猪鸡羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -121,8 +122,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-
-document.writeln("148期吉【龙鸡马蛇】凶【猴鼠狗虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("148期吉【龙鸡马蛇】凶【猴鼠狗<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("149期吉【龙鸡羊兔】凶【猴猪虎鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("		");
 document.writeln("");
@@ -142,16 +143,7 @@ document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【天地四
 document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
-document.writeln("139期天【马龙猴<span style=\'background-color: #FFFF00\'>兔</span>】地【羊虎鸡鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("140期天【兔猴<span style=\'background-color: #FFFF00\'>马</span>猪】地【狗蛇鸡鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("141期天【兔猪马牛】地【蛇虎<span style=\'background-color: #FFFF00\'>狗</span>鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("142期天【猪兔猴马】地【<span style=\'background-color: #FFFF00\'>虎</span>羊鼠狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("143期天【猪龙兔牛】地【<span style=\'background-color: #FFFF00\'>蛇</span>鼠虎羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("144期天【<span style=\'background-color: #FFFF00\'>牛</span>兔龙猪】地【虎狗鸡羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("145期天【龙马牛猪】地【狗虎蛇鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("146期天【猴龙马猪】地【羊蛇鼠<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("147期天【马猴龙猪】地【羊蛇虎鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("148期天【马龙兔猪】地【蛇羊狗鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("149期天【牛猴兔猪】地【鼠羊虎狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -181,8 +173,8 @@ document.writeln("144期【猴兔<span style=\'background-color: #FFFF00\'>牛</
 document.writeln("145期【猪龙<span style=\'background-color: #FFFF00\'>兔</span>蛇鸡狗牛马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("146期【兔猪鸡虎<span style=\'background-color: #FFFF00\'>狗</span>蛇牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("147期【虎鸡狗猴<span style=\'background-color: #FFFF00\'>兔</span>龙羊蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("148期【鸡牛马虎龙羊狗兔】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("148期【鸡牛马<span style=\'background-color: #FFFF00\'>虎</span>龙羊狗兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("149期【蛇兔猪羊猴龙狗虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

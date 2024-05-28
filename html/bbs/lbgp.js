@@ -30,13 +30,28 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>147期另版挂牌</font><font size=\'4\' color=\'#008000\'>【赶尽杀绝】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>149期另版挂牌</font><font size=\'4\' color=\'#008000\'>【神柏沙头】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：庚寅日；五行属性：金；地支六冲：虎日冲猴，克猴，破蛇，无羊；六合：猪；三合：马狗。空亡肖：猪猴。</p>");
+document.writeln("◎生肖属性：壬辰日；五行属性：土；地支六冲：龙日冲狗，克龙，破兔，无牛；六合：鸡；三合：猴鼠。空亡肖：马羊</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：虎狗鸡马羊蛇猴猪龙<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠龙牛羊狗马猴猪虎<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：15.39.07.31.20.32.11.23.22.34.12.36.09.21.30.42.13.49</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：05.41.13.49.04.16.22.34.31.43.11.23.09.21.30.42.15.39</font></font></div>");
+document.writeln("    </td></tr>");
+document.writeln("   <!--结束-->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p><font color=\'#0033CC\'>148期另版挂牌</font><font size=\'4\' color=\'#008000\'>【变化无穷】</font><font color=\'#0033CC\'>开虎27<br>");
+document.writeln("	</font><font color=\'#000000\'>");
+document.writeln("◎生肖属性：辛卯日；五行属性：火；地支六冲：兔日冲鸡，克鼠，破龙，无马；六合：狗；三合：羊猪。空亡肖：马羊</p>");
+document.writeln("	</font>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：猪牛<span style=\'background-color: #FFFF00\'>虎</span>狗猴兔鸡蛇龙<br>");
+document.writeln("	</p>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：06.30.16.28.03.15.31.43.09.21.14.26.08.20.12.36.13.49</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 

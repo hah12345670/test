@@ -56,7 +56,8 @@ document.writeln(" 144期<span style=\'background-color: #FFFF00\'>【猴】</sp
 document.writeln(" 145期<span style=\'background-color: #FFFF00\'>【马】</span>√<br>")
 document.writeln(" 146期【龙】×<br>")
 document.writeln(" 147期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>")
-document.writeln(" 148期【蛇】√<br>")
+document.writeln(" 148期【蛇】×<br>")
+document.writeln(" 149期【鼠】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -86,8 +87,8 @@ document.writeln("141-142期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("142-143期出平<span style=\'background-color: #FFFF00\'>【兔】</span>142期中<br>");
 document.writeln("143-144期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>144期中<br>");
 document.writeln("145-146期出平【龙】000期中<br>");
-document.writeln("147-148期出平【虎】000期中<br>");
-
+document.writeln("147-148期出平<span style=\'background-color: #FFFF00\'>【虎】</span>148期中<br>");
+document.writeln("149-150期出平【牛】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -131,8 +132,8 @@ document.writeln("144期<span style=\'background-color: #FFFF00\'>【0尾】</sp
 document.writeln("145期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
 document.writeln("146期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
 document.writeln("147期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
-document.writeln("148期【5尾】√<br>");
-
+document.writeln("148期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
+document.writeln("149期【4尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -180,6 +181,9 @@ document.writeln("145期（34.48.17.05.08）√<br>");
 document.writeln("146期（33.05.44.43.09）×<br>");
 document.writeln("147期（20.47.25.30.42）√<br>");
 document.writeln("148期（04.07.44.05.46）√<br>");
+document.writeln("149期（26.24.35.10.19）√<br>");
+
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

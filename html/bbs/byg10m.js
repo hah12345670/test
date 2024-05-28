@@ -43,6 +43,14 @@ document.writeln("<table style=border-collapse:collapse border=0 width=100% cell
 document.writeln("	</table>");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--（始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center>");
+document.writeln("<b>");
+document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>149期</font><font face=\'楷体\' size=\"5\">【鼠兔虎+40.29.43】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
+document.writeln("</td></tr></table>");
+document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--（始-->");
@@ -50,7 +58,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center>");
 document.writeln("<b>");
-document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>148期</font><font face=\'楷体\' size=\"5\">【猪牛虎+35.34.22】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
+document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>148期</font><font face=\'楷体\' size=\"5\">【猪牛<span style=\'background-color: #FFFF00\'>虎</span>+35.34.22】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（虎27准）</font></b>");
 document.writeln("</td></tr></table>");
 document.writeln("<!--结束-->");
 document.writeln("");

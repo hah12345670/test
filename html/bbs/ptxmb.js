@@ -57,7 +57,8 @@ document.writeln(" 145期<span style=\'background-color: #FFFF00\'>【马】</sp
 document.writeln(" 146期【龙】×<br>")
 document.writeln(" 147期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>")
 document.writeln(" 148期【蛇】×<br>")
-document.writeln(" 149期【鼠】√<br>")
+document.writeln(" 149期【鼠】×<br>")
+document.writeln(" 150期【牛】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -107,7 +108,7 @@ document.writeln("144-145期平码【40.14.31.19】000期中<br>");
 document.writeln("146-147期平码【<span style=\'background-color: #FFFF00\'>40</span>.22.05.25】146期中<br>");
 document.writeln("147-148期平码【29.42.08.<span style=\'background-color: #FFFF00\'>06</span>】147期中<br>");
 document.writeln("148-149期平码【05.04.11.16】000期中<br>");
-
+document.writeln("150-151期平码【33.25.06.07】000期中<br>");
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -133,8 +134,8 @@ document.writeln("145期<span style=\'background-color: #FFFF00\'>【8尾】</sp
 document.writeln("146期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
 document.writeln("147期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
 document.writeln("148期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
-document.writeln("149期【4尾】√<br>");
-
+document.writeln("149期【4尾】×<br>");
+document.writeln("150期【3尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -166,7 +167,7 @@ document.writeln("144-145期平尾<span style=\'background-color: #FFFF00\'>【7
 document.writeln("145-146期平尾【4尾】000期中<br>");
 document.writeln("147-148期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>147期中<br>");
 document.writeln("148-149期平尾【4尾】000期中<br>");
-document.writeln("");
+document.writeln("150-151期平尾【2尾】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("	</font>");
@@ -182,7 +183,7 @@ document.writeln("146期（33.05.44.43.09）×<br>");
 document.writeln("147期（20.47.25.30.42）√<br>");
 document.writeln("148期（04.07.44.05.46）√<br>");
 document.writeln("149期（26.24.35.10.19）√<br>");
-
+document.writeln("150期（16.48.28.36.32）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

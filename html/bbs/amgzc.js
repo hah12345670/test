@@ -51,50 +51,20 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/149/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/151/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第149期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【水来土挡】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：大水来了，用土堵住。比喻敌人来犯，就引兵抵抗。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第151期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【鼠目寸光】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻目光短浅，没有远见</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛兔虎猪蛇鸡</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：龙兔猪蛇鼠虎</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第147期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔02中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【万家灯火】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：家家点上了灯。指天黑上灯的时候。也形容城市夜晚的景象。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>兔</span>虎猪猴龙鸡</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
-
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第144期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛16中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【金鸡独立】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：金鸡独立，明肖鸡，金肖猴鸡，独肖鼠牛马羊虎兔</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猴鸡<span style=\'background-color: #FFFF00\'>牛</span>马羊虎</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第143期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蛇12中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：比喻不主动地努力，而存万一的侥幸心理，希望得到意外的收获。也比喻死守狭隘的经验，不知变通。。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>蛇</span>虎鼠兔鸡狗</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("</P>");
 
 
 
@@ -110,13 +80,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/149/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/151/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第149期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红火太阳挂蓝天】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第151期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红绿情人引凶案】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第150期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿33中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝天绿树前世伴】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");

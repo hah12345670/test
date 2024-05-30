@@ -17,11 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://gfftggh.www57235c.com:8
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("151期</font><font color=\'#FF0000\' size=\"5\">（羊猴鸡+9826尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("150期</font><font color=\'#FF0000\' size=\"5\">（猴牛龙+5964尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("150期</font><font color=\'#FF0000\' size=\"5\">（<span style=\'background-color: #FFFF00\'>猴</span>牛龙+5964尾）</font><font size=\'4\'>开猴33</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

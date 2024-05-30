@@ -28,7 +28,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	150期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("	151期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>？00</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -38,8 +38,9 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	148期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合单合单</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>虎27</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
+document.writeln("	150期<font color=\'#9933FF\'>合数</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>合双合双</font><font color=\'#0000FF\'>】开</font><font color=\'#FFFF00\'><span style=\'background-color: #FF00FF\'>猴33</span></font><font color=\'#0000FF\'>中</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
+
 
 
 

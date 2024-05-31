@@ -17,7 +17,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("151期：平特【猴牛拖羊鸡】开？00<br>");
+document.writeln("");
+document.writeln("152期：平特【猴猪拖狗虎】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("151期：平特【<span style=\'background-color: #FFFF00\'>猴</span>牛拖羊<span style=\'background-color: #FFFF00\'>鸡</span>】开09.44<br>");
 document.writeln("------<br>");
 
 

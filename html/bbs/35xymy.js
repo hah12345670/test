@@ -36,6 +36,7 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<b>");
+<<<<<<< HEAD
 document.writeln("			<font style=\'font-size: 13pt\'>153期西游谜语<br><font color=\'#FF0000\'>");
 document.writeln("披珈带锁走天涯，淡烟芳草马成群");
 document.writeln("</font>");
@@ -44,6 +45,16 @@ document.writeln("			");
 document.writeln("			<br><font color=\'#0000FF\'>七肖：龙兔马猪牛猴羊<br>");
 document.writeln("			四肖：龙兔马猪<br>");
 document.writeln("			特码：13.25.02.14.11.23.06.30.04.16.21.33.22.34</font></b></td>");
+=======
+document.writeln("			<font style=\'font-size: 13pt\'>152期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("阑干风冷雪漫漫，惆怅无人把钓竿");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：阑干风冷雪漫漫解风肖龙虎兔，冬肖猪牛鼠，无人解无肖鼠牛虎兔马羊</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鼠牛虎兔马羊龙<br>");
+document.writeln("			四肖：鼠牛虎兔<br>");
+document.writeln("			特码：17.41.28.40.03.15.14.38.11.23.22.34.10.22.13.49</font></b></td>");
+>>>>>>> 37ff0b877d665c917307a1a51d2c31c25ff03789
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

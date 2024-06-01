@@ -48,11 +48,19 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
+<<<<<<< HEAD
 document.writeln("			153期<font color=\'#FF0000\'>【今期特稠在蛇身，部其意不泥其迹】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：部其意不泥其迹解蛇龙兔鸡虎羊猪</font><br>");
 document.writeln("			");
 document.writeln("			<br>七肖：蛇龙兔鸡虎羊猪<br>");
 document.writeln("			特码：12.24.01.13.02.14.08.20.03.15.10.22.06.18");
+=======
+document.writeln("			152期<font color=\'#FF0000\'>【今期生肖北方找，一五尾数有玄机】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：北方找解北肖猪牛鼠</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：猪牛鼠龙马兔虎<br>");
+document.writeln("			特码：06.18.04.16.05.17.01.13.11.23.02.14.03.15");
+>>>>>>> 37ff0b877d665c917307a1a51d2c31c25ff03789
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

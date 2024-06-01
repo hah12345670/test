@@ -20,12 +20,17 @@ document.writeln("		<!--开始-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
+document.writeln("	<font size=\'4\'>153期三国中特</font><font color=\'#FF0000\' size=\'5\'>【吴魏】</font><font size=\'4\'>开？00准</font></b></font></table>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font size=\'4\'>152期三国中特</font><font color=\'#FF0000\' size=\'5\'>【蜀吴】</font><font size=\'4\'>开？00准</font></b></font></table>");
+document.writeln("	<font size=\'4\'>152期三国中特</font><font color=\'#FF0000\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>蜀</span>吴】</font><font size=\'4\'>开猴21准</font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--开始-->");

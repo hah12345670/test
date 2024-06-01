@@ -60,8 +60,8 @@ document.writeln(" 148期【蛇】×<br>")
 document.writeln(" 149期【鼠】×<br>")
 document.writeln(" 150期<span style=\'background-color: #FFFF00\'>【牛】</span>√<br>")
 document.writeln(" 151期【猪】×<br>")
-document.writeln(" 152期【猴】√<br>")
-
+document.writeln(" 152期<span style=\'background-color: #FFFF00\'>【猴】</span>√<br>")
+document.writeln(" 153期【马】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -104,17 +104,6 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微�
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("137-138期平码【<span style=\'background-color: #FFFF00\'>42</span>.27.13.37】137期中<br>");
-document.writeln("138-139期平码【37.25.<span style=\'background-color: #FFFF00\'>14</span>.45】138期中<br>");
-document.writeln("139-140期平码【<span style=\'background-color: #FFFF00\'>12.25</span>.48.38】139期中<br>");
-document.writeln("140-141期平码【34.<span style=\'background-color: #FFFF00\'>05</span>.17.49】140期中<br>");
-document.writeln("141-142期平码【44.<span style=\'background-color: #FFFF00\'>31</span>.04.29】142期中<br>");
-document.writeln("143-144期平码【<span style=\'background-color: #FFFF00\'>35</span>.27.05.07】143期中<br>");
-document.writeln("144-145期平码【40.14.31.19】000期中<br>");
-document.writeln("146-147期平码【<span style=\'background-color: #FFFF00\'>40</span>.22.05.25】146期中<br>");
-document.writeln("147-148期平码【29.42.08.<span style=\'background-color: #FFFF00\'>06</span>】147期中<br>");
-document.writeln("148-149期平码【05.04.11.16】000期中<br>");
-document.writeln("150-151期平码【33.25.06.07】000期中<br>");
 document.writeln("152-153期平码【05.06.08.48】000期中<br>");
 
 
@@ -146,7 +135,8 @@ document.writeln("148期<span style=\'background-color: #FFFF00\'>【5尾】</sp
 document.writeln("149期【4尾】×<br>");
 document.writeln("150期<span style=\'background-color: #FFFF00\'>【3尾】</span>√<br>");
 document.writeln("151期<span style=\'background-color: #FFFF00\'>【9尾】</span>√<br>");
-document.writeln("152期【6尾】√<br>");
+document.writeln("152期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
+document.writeln("153期【8尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -198,7 +188,7 @@ document.writeln("149期（26.24.35.10.19）√<br>");
 document.writeln("150期（16.48.28.36.32）√<br>");
 document.writeln("151期（13.23.06.05.20）×<br>");
 document.writeln("152期（38.25.27.39.04）√<br>");
-
+document.writeln("153期（29.20.04.33.44）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

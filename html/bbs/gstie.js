@@ -53,10 +53,17 @@ document.writeln("			<p align=\"center\">");
 document.writeln("			<b>");
 document.writeln("			<font style=\'font-size: 15pt\'>");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<span style=\"font-size: 16pt\">153期");
+document.writeln("杨家七尾<font color=\"#FF0000\">【1-6-4-5-8-2-0】</font><BR>");
+document.writeln("杨家四尾<font color=\"#FF0000\">【1-6-4-5】</font>开？00<BR>");
+document.writeln("<font color=\"#0000FF\">（稳中才能稳赢）</font></span><BR><BR>");
+document.writeln("");
 document.writeln("");
 document.writeln("<span style=\"font-size: 16pt\">152期");
 document.writeln("杨家七尾<font color=\"#FF0000\">【6-3-5-9-8-7-0】</font><BR>");
-document.writeln("杨家四尾<font color=\"#FF0000\">【6-3-5-9】</font>开？00<BR>");
+document.writeln("杨家四尾<font color=\"#FF0000\">【6-3-5-9】</font>开猴21<BR>");
 document.writeln("<font color=\"#0000FF\">（稳中才能稳赢）</font></span><BR><BR>");
 document.writeln("");
 document.writeln("");

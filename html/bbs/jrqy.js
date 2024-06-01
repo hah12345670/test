@@ -14,7 +14,7 @@ document.writeln(".bizhong1234 img {width:100%; border-collapse: collapse; font-
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong1234 clearfix\'>");
 document.writeln("    <div class=\'bizhong1234-box action-bz\'>");
-document.writeln("<img src=\'/img/jrqy151.jpg\' id=\'jrqypicx\'>");
+document.writeln("<img src=\'/img/jrqy152.jpg\' id=\'jrqypicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -25,6 +25,8 @@ document.writeln(" <span class=\'bizhong1234-btn bizhong1234-next\' onclick=\'ne
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
+
+document.writeln("\'/img/jrqy152.jpg\',");
 document.writeln("\'/img/jrqy151.jpg\',");
 document.writeln("\'/img/jrqy150.jpg\',");
 document.writeln("\'/img/jrqy149.jpg\',");
@@ -35,30 +37,12 @@ document.writeln("\'/img/jrqy145.jpg\',");
 document.writeln("\'/img/jrqy144.jpg\',");
 document.writeln("\'/img/jrqy143.jpg\',");
 document.writeln("\'/img/jrqy142.jpg\',");
-document.writeln("\'/img/jrqy141.jpg\',");
-document.writeln("\'/img/jrqy140.jpg\',");
-document.writeln("\'/img/jrqy139.jpg\',");
-document.writeln("\'/img/jrqy138.jpg\',");
-document.writeln("\'/img/jrqy137.jpg\',");
-document.writeln("\'/img/jrqy136.jpg\',");
-document.writeln("\'/img/jrqy135.jpg\',");
-document.writeln("\'/img/jrqy134.jpg\',");
-document.writeln("\'/img/jrqy133.jpg\',");
-document.writeln("\'/img/jrqy132.jpg\',");
-document.writeln("\'/img/jrqy131.jpg\',");
-document.writeln("\'/img/jrqy130.jpg\',");
-document.writeln("\'/img/jrqy129.jpg\',");
-document.writeln("\'/img/jrqy128.jpg\',");
-document.writeln("\'/img/jrqy127.jpg\',");
-document.writeln("\'/img/jrqy126.jpg\',");
-document.writeln("\'/img/jrqy125.jpg\',");
-document.writeln("\'/img/jrqy124.jpg\',");
-document.writeln("\'/img/jrqy123.jpg\',");
 
 
 
 
-document.writeln("\'/img/jrqy122.jpg\'");
+
+document.writeln("\'/img/jrqy141.jpg\'");
 document.writeln(");");
 document.writeln("    var indexjrqy=0;");
 document.writeln("    function nextsbx(){");

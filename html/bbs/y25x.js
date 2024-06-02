@@ -13,12 +13,18 @@ document.writeln("【火】07 08 15 16 29 30 37 38 45 46<br></span></span><span 
 document.writeln("【土】03 04 17 18 25 26 33 34 47 48</span></span></p></td></tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong>");
+document.writeln("	<span style=\'font-size:14pt\'><span style=\'color:#00f\'>");
+document.writeln("154期</span><span style=\'color:#c30\'>资料网");
+document.writeln("</span><span style=\'color:#060\'>澳门</span>【火金木水】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("肖00准</font></span></strong></span></p></td></tr>");
+
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong>");
 document.writeln("	<span style=\'font-size:14pt\'><span style=\'color:#00f\'>");
 document.writeln("153期</span><span style=\'color:#c30\'>资料网");
-document.writeln("</span><span style=\'color:#060\'>澳门</span>【土水金木】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("肖00准</font></span></strong></span></p></td></tr>");
+document.writeln("</span><span style=\'color:#060\'>澳门</span>【土水<span style=\'background-color: #FFFF00\'>金</span>木】<span style=\'color:#960\'>开</span></span><span style=\'font-size:14pt;color:#666\'>:</span><span style=\'font-size: 14pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("鸡32准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong>");
 document.writeln("	<span style=\'font-size:14pt\'><span style=\'color:#00f\'>");

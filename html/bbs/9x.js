@@ -36,12 +36,19 @@ document.writeln("<colgroup span=\'1\' width=\'22%\' />");
 document.writeln(" <!--开始start-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>154期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("	<span style=\'font-size: 10pt; \'>");
+document.writeln("羊兔蛇猴马牛猪鸡鼠</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
 
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>153期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("虎牛鸡鼠猪猴兔羊蛇</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("虎牛<span style=\'background-color: #FFFF00\'>鸡</span>鼠猪猴兔羊蛇</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>鸡32</font>中</span></td></tr>");
 
 document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>151期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");

@@ -20,7 +20,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("154期</font><font color=\'#FF0000\' size=\"5\">（蛇虎鸡+9345尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("155期</font><font color=\'#FF0000\' size=\"5\">（马牛蛇+4902尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

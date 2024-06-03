@@ -44,6 +44,40 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			155期<font color=\'#FF0000\'>【今期六合出牛马，穿金戴银戴兰】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛马，金解金肖猴鸡，兰解蓝肖虎猪猴蛇</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：虎猪猴蛇鸡牛马<br>");
+document.writeln("			特码：27.39.30.42.33.45.36.48.32.44.28.40.35.47");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			154期<font color=\'#FF0000\'>【蓝波中特发大家，二上九下得零码】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：发大家解家肖牛羊狗马猪鸡</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：牛<span style=\'background-color: #FFFF00\'>羊</span>狗马猪鸡鼠<br>");
+document.writeln("			特码：04.16.10.22.07.19.11.23.06.18.08.20.05.17");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -51,7 +85,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			153期<font color=\'#FF0000\'>【今期特稠在蛇身，部其意不泥其迹】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：部其意不泥其迹解蛇龙兔鸡虎羊猪</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：蛇龙兔鸡虎羊猪<br>");
+document.writeln("			<br>七肖：蛇龙兔<span style=\'background-color: #FFFF00\'>鸡</span>虎羊猪<br>");
 document.writeln("			特码：12.24.01.13.02.14.08.20.03.15.10.22.06.18");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

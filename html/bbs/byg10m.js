@@ -48,7 +48,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center>");
 document.writeln("<b>");
-document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>153期</font><font face=\'楷体\' size=\"5\">【<a target=\"_blank\" href=\"https://ttrrrccc.www82187c.com:8443/#82187\"><span style=\"text-decoration: none\"><font color=\"#000000\">82187b.com 已更新，进入查看</font></span></a>】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
+document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>155期</font><font face=\'楷体\' size=\"5\">【<a target=\"_blank\" href=\"https://ttrrrccc.www82187c.com:8443/#82187\"><span style=\"text-decoration: none\"><font color=\"#000000\">82187b.com 已更新，进入查看</font></span></a>】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
 document.writeln("</td></tr></table>");
 document.writeln("<!--结束-->");
 
@@ -57,7 +57,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center>");
 document.writeln("<b>");
-document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>153期</font><font face=\'楷体\' size=\"5\">【<a target=\"_blank\" href=\"https://ttrrrccc.www82187c.com:8443/#82187\"><span style=\"text-decoration: none\"><font color=\"#000000\">羊猪马+18.26.02</font></span></a>】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
+document.writeln("<font face=\'楷体\' style=\'font-size: 14pt\'>155期</font><font face=\'楷体\' size=\"5\">【<a target=\"_blank\" href=\"https://ttrrrccc.www82187c.com:8443/#82187\"><span style=\"text-decoration: none\"><font color=\"#000000\">82187b.com 已更新，进入查看</font></span></a>】</font><font face=\'楷体\' style=\'font-size: 14pt\' color=\"#0000FF\">（？00准）</font></b>");
 document.writeln("</td></tr></table>");
 document.writeln("<!--结束-->");
 

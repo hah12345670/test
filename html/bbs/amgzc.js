@@ -51,9 +51,20 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/155/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.zaojiao365.net:4949/col/156/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第156期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【偷鸡摸狗】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：指偷盗（多指小偷小摸）。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：猴虎鸡兔猪狗</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("</P>");
+
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -61,7 +72,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【郎才女貌】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：指男的有才气，女的有美貌，形容男女双方很相配</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：虎猴鸡鼠羊马</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：虎猴<span style=\'background-color: #FFFF00\'>鸡</span>鼠羊马</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("</P>");
 document.writeln("<p style=\'text-align:left\'>");
@@ -99,12 +110,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/155/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.zaojiao365.net:4949/col/156/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第155期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第156期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【家红家绿搞出特】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第155期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿22中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【嫣红姹绿群芳图】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

@@ -46,6 +46,21 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			156期<font color=\'#FF0000\'>【零五加三最理想，三六今期出头来】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：零五加三最理想解狗兔龙蛇鼠牛虎</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：狗兔龙蛇鼠牛虎<br>");
+document.writeln("			特码：07.19.02.14.01.13.12.24.05.17.04.16.03.15");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -55,8 +70,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			155期<font color=\'#FF0000\'>【今期六合出牛马，穿金戴银戴兰】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛马，金解金肖猴鸡，兰解蓝肖虎猪猴蛇</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：虎猪猴蛇鸡牛马<br>");
-document.writeln("			特码：27.39.30.42.33.45.36.48.32.44.28.40.35.47");
+document.writeln("			<br>七肖：虎猪猴蛇<span style=\'background-color: #FFFF00\'>鸡</span>牛马<br>");
+document.writeln("			特码：27.39.30.42.33.45.36.48.32.<span style=\'background-color: #FFFF00\'>44</span>.28.40.35.47");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

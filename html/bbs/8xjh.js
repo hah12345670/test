@@ -44,8 +44,8 @@ document.writeln("");
 document.writeln("152期家【狗羊鸡猪】野【鼠虎蛇<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("153期家【羊牛<span style=\'background-color: #FFFF00\'>鸡</span>狗】野【兔鼠猴虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("154期家【猪鸡马狗】野【龙虎蛇鼠】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("155期家【鼠龙虎马】野【蛇兔鸡牛】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("155期家【鼠龙虎马】野【蛇兔<span style=\'background-color: #FFFF00\'>鸡</span>牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("156期家【羊鸡狗马】野【龙兔蛇虎】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -95,8 +95,8 @@ document.writeln("151期单【龙马猴鼠】双【兔牛<span style=\'backgroun
 document.writeln("152期单【狗鼠<span style=\'background-color: #FFFF00\'>猴</span>虎】双【牛羊兔猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("153期单【猴龙鼠狗】双【羊蛇牛猪】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("154期单【鼠猴马虎】双【<span style=\'background-color: #FFFF00\'>羊</span>鸡牛兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("155期单【鼠马虎龙】双【鸡猪牛蛇】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("155期单【鼠马虎龙】双【<span style=\'background-color: #FFFF00\'>鸡</span>猪牛蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("156期单【龙狗马虎】双【兔鸡羊猪】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -118,16 +118,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-
-document.writeln("148期吉【龙鸡马蛇】凶【猴鼠狗<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("149期吉【龙鸡<span style=\'background-color: #FFFF00\'>羊</span>兔】凶【猴猪虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("150期吉【兔蛇马龙】凶【猪牛狗虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("151期吉【<span style=\'background-color: #FFFF00\'>蛇</span>龙马鸡】凶【狗鼠虎牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("152期吉【羊蛇鸡龙】凶【<span style=\'background-color: #FFFF00\'>猴</span>鼠狗虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("153期吉【马龙蛇羊】凶【猴猪牛狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("154期吉【<span style=\'background-color: #FFFF00\'>羊</span>蛇兔龙】凶【虎牛狗猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("155期吉【羊马兔蛇】凶【虎狗鼠猴】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("156期吉【马兔蛇鸡】凶【鼠狗猴虎】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("	");
 document.writeln("		");
@@ -154,8 +145,8 @@ document.writeln("151期天【马猪牛猴】地【羊<span style=\'background-c
 document.writeln("152期天【兔牛龙马】地【鸡狗鼠虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("153期天【龙马兔猴】地【蛇虎羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("154期天【牛龙猪兔】地【蛇鸡<span style=\'background-color: #FFFF00\'>羊</span>虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("155期天【牛猪马兔】地【鸡虎蛇鼠】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("155期天【牛猪马兔】地【<span style=\'background-color: #FFFF00\'>鸡</span>虎蛇鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("156期天【龙猪猴兔】地【狗虎鸡羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -190,7 +181,10 @@ document.writeln("151期【猴马牛狗羊猪兔龙】<font color=\"#FF0000\">×
 document.writeln("152期【狗兔鼠<span style=\'background-color: #FFFF00\'>猴</span>鸡羊猪马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("153期【<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇兔猴羊猪马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("154期【龙牛鸡虎兔<span style=\'background-color: #FFFF00\'>羊</span>猴马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("155期【猴牛虎猪鸡羊马鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("155期【猴牛虎猪<span style=\'background-color: #FFFF00\'>鸡</span>羊马鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("156期【兔鼠狗猴虎蛇龙马】<font color=\"#FF0000\">√</font><br>	");
+
+
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

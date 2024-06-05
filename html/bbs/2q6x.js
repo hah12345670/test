@@ -26,8 +26,14 @@ document.writeln(" （稳赚特肖2期版）</font><br>");
 document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
+
 document.writeln("");
-document.writeln("156-157期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猪鼠鸡蛇马龙】</font>(000期√)<br>");
+document.writeln("");
+document.writeln("157-158期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙羊猴牛虎鼠】</font>(000期√)<br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("156-157期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>猪</span>鼠鸡蛇马龙】</font>(156期√)<br>");
 document.writeln("");
 
 document.writeln("");

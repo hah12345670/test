@@ -30,19 +30,19 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>156期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>157期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>羊兄猴弟走中间，花前月下昙花现</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>日落西山鸡进窝，兔猴上山早早起</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖羊猴，花解花肖蛇羊兔鸡。前解前肖鼠牛虎兔龙蛇，综合得主羊猴蛇兔防鸡鼠牛虎龙</font></div>");
+document.writeln("解析：预先解明肖鸡兔猴,西解西肖猴鸡狗,日偏看日肖鸡兔牛羊虎猴,山解土肖牛龙羊狗,综合得主鸡兔猴狗防牛羊虎龙马</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：羊猴蛇兔鸡鼠<br>");
-document.writeln("	特码：10.22.09.45.12.36.02.38.20.32.17.41</font></b></div>");
+document.writeln("	解特肖：鸡兔猴狗牛羊<br>");
+document.writeln("	特码：20.32.02.14.21.33.07.19.04.40.22.34</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
-document.writeln("");
+
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");

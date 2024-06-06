@@ -16,30 +16,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("157期：平特【龙猪拖羊虎】开？00<br>");
-document.writeln("------<br>");
-
 document.writeln("");
-document.writeln("153期：平特【<span style=\'background-color: #FFFF00\'>鸡</span>马拖<span style=\'background-color: #FFFF00\'>牛</span>猴】开08.32.28<br>");
+document.writeln("158期：平特【狗牛拖鸡鼠】开？00<br>");
 document.writeln("------<br>");
-document.writeln("");
-document.writeln("152期：平特【<span style=\'background-color: #FFFF00\'>猴猪</span>拖狗<span style=\'background-color: #FFFF00\'>虎</span>】开21.18.3015<br>");
-document.writeln("------<br>");
-
-document.writeln("");
-document.writeln("151期：平特【<span style=\'background-color: #FFFF00\'>猴</span>牛拖羊<span style=\'background-color: #FFFF00\'>鸡</span>】开09.44<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("150期：平特【<span style=\'background-color: #FFFF00\'>猴</span>狗拖<span style=\'background-color: #FFFF00\'>蛇</span>羊】开33.24<br>");
-document.writeln("------<br>");
-
-
-document.writeln("");
-document.writeln("148期：平特【<span style=\'background-color: #FFFF00\'>羊</span>兔拖鸡<span style=\'background-color: #FFFF00\'>马</span>】开10.23<br>");
-document.writeln("------<br>");
-
 
 
 

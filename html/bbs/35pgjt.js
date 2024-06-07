@@ -45,6 +45,21 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			159期<font color=\'#FF0000\'>【牛羊猪兔中大奖，保家卫国求边开】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛羊猪兔，保家卫国解家肖马狗牛鸡羊猪</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：马狗牛鸡羊猪兔<br>");
+document.writeln("			特码：11.23.07.19.04.16.08.20.10.22.06.18.02.14");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -54,8 +69,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			158期<font color=\'#FF0000\'>【二字带头尾数七，红波有望出旺码】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：二字带头尾数七解二牛兔，七解马狗，红波解红肖鼠兔马鸡</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鼠兔马鸡牛狗龙<br>");
-document.writeln("			特码：05.17.02.14.11.23.08.20.04.16.07.19.01.13");
+document.writeln("			<br>七肖：鼠兔马<span style=\'background-color: #FFFF00\'>鸡</span>牛狗龙<br>");
+document.writeln("			特码：05.17.02.14.11.23.08.<span style=\'background-color: #FFFF00\'>20</span>.04.16.07.19.01.13");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

@@ -29,45 +29,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>158期</font>【<font color=\'#FF0000\'>独肖:鼠兔羊</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>159期</font>【<font color=\'#FF0000\'>合肖:猴狗蛇</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>156期</font>【<font color=\'#FF0000\'>合肖:龙猴蛇</font>】开<font color=\'#FF00FF\'>(猪42)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>152期</font>【<font color=\'#FF0000\'>合肖:鸡狗<span style=\'background-color: #FFFF00\'>猴</span></font>】开<font color=\'#FF00FF\'>(猴21)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>151期</font>【<font color=\'#FF0000\'>合肖:鸡狗<span style=\'background-color: #FFFF00\'>蛇</span></font>】开<font color=\'#FF00FF\'>(蛇48)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>149期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:鼠兔虎</font>】开<font color=\'#FF00FF\'>(羊22)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>148期</font>【<font color=\'#FF0000\'>独肖:牛羊<span style=\'background-color: #FFFF00\'>虎</span></font>】开<font color=\'#FF00FF\'>(虎27)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
 
 document.writeln("");
 document.writeln("");

@@ -16,12 +16,20 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' st
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("159期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("160期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("159期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗43</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:地肖</font></b></font></table>");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
@@ -38,14 +46,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("154期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>羊46/font></span>准<br>");
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> 无（？）为大</font><font color=\'#0000FF\' size=\'5\'>-解:后肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("151期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇48</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:野兽</font></b></font></table>");
 
 
 document.writeln("");

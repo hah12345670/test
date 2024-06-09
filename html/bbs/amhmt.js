@@ -13,7 +13,7 @@ document.writeln("");
 document.writeln(".bizhong128 img {width:100%; border-collapse: collapse; font-weight: bold;}");
 document.writeln("</style>");
 document.writeln(" ");
-document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt160.jpg\' id=\'123sjkjpicx8\'>");
+document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt161.jpg\' id=\'123sjkjpicx8\'>");
 document.writeln("    <div class=\'bizhong128-box action-bz\'>");
 document.writeln("    </div>");
 document.writeln("    ");
@@ -27,6 +27,7 @@ document.writeln("<script>");
 document.writeln("    var picArrx8=new Array(");
 
 
+document.writeln("\'/img/amhmt161.jpg\',");
 document.writeln("\'/img/amhmt160.jpg\',");
 document.writeln("\'/img/amhmt159.jpg\',");
 document.writeln("\'/img/amhmt158.jpg\',");

@@ -68,9 +68,12 @@ document.writeln("<br>【牛鸡】【<span style=\"background-color: #FFFF00\">3
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("162期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
+document.writeln("162期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">龙01</font>错		");
 document.writeln("<br>【猴虎】【05.41.18.30】<br><br>");
 document.writeln("");
+document.writeln("");
+document.writeln("163期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
+document.writeln("<br>【鸡狗】【05.29.41.06】<br><br>");
 document.writeln("");
 document.writeln("			</p>");
 document.writeln("");

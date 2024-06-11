@@ -29,12 +29,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>164期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬夏秋】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>163期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬秋春】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>163期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>冬</span>秋春】</font>开<font color=\'#ac6a00\'>牛40</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
@@ -84,81 +89,6 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>154期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>秋</span>夏冬】</font>开<font color=\'#ac6a00\'>羊46</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>153期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬夏<span style=\'background-color: #FFFF00\'>秋</span>】</font>开<font color=\'#ac6a00\'>鸡32</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>152期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬<span style=\'background-color: #FFFF00\'>秋</span>春】</font>开<font color=\'#ac6a00\'>猴21</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>151期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春<span style=\'background-color: #FFFF00\'>夏</span>】</font>开<font color=\'#ac6a00\'>蛇48</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>148期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬秋<span style=\'background-color: #FFFF00\'>春</span>】</font>开<font color=\'#ac6a00\'>虎27</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>147期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>夏】</font>开<font color=\'#ac6a00\'>兔02</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
-
-
-
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>145期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>夏】</font>开<font color=\'#ac6a00\'>兔02</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>144期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>冬</span>秋春】</font>开<font color=\'#ac6a00\'>牛16</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>143期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋夏<span style=\'background-color: #FFFF00\'>冬</span>】</font>开<font color=\'#ac6a00\'>蛇12</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
 
 
 

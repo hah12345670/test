@@ -27,7 +27,7 @@ document.writeln("解取特肖：狗羊龙牛猴马猪<br>");
 document.writeln("主特14码：07.31.22.34.13.49.04.16.21.33.11.23.06.18");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://fggfbf25.www37197a.com:8443/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
@@ -42,7 +42,7 @@ document.writeln("解取特肖：虎猪蛇<span style=\'background-color: #FFFF0
 document.writeln("主特14码：15.39.06.30.12.36.11.23.13.49.05.17.02.14");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
-document.writeln("			。<a target=\'_blank\' href=\'https://jjjcccc.tryththtthghgfhgfh.com:888/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("			。<a target=\'_blank\' href=\'https://fggfbf25.www37197a.com:8443/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");

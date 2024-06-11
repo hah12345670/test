@@ -37,7 +37,7 @@ document.writeln("</span>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>本期主特(20码)<br>");
 document.writeln("13.10.39.42.46.26.04.14.18.28<br>");
 document.writeln("03.08.34.05.29.30.48.36.12.32<table style=border-collapse:collapse border=0 width=100% height=\'46\'><tbody><tr>");
-document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggrrr.www76891c.com:8443#62102c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
+document.writeln("			<td height=46 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://ggrrr.www76891c.com:8443#62827c\' style=\'text-decoration: none\'><img src=https://qahghh.www62361b.com:888/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:12pt;color:#00f>相识一场【吉凶六肖连中14期】点击查看</a></strong></tr></table>");
 document.writeln("</a></tr></table></tdd>");
 document.writeln("<!--开始-->");
 document.writeln("");

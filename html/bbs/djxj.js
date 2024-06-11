@@ -25,7 +25,25 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
+
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>163期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>九曲清流映荷花，淮南鸡犬也得势</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖鸡狗,荷花解牛,九解九位猴九岁马,南解南肖蛇马羊,花偏看女肖羊蛇兔鸡,心水诗主要讲的是花肖女肖,综合得主鸡兔羊蛇防牛狗猴马龙</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：鸡兔羊蛇牛狗<br>");
+document.writeln("	特码：20.32.02.14.22.34.12.48.04.16.31.43</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -34,7 +52,7 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一言惊动月宫兔,天生八字是福命</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖兔.一解一位鼠一岁龙.八解八位羊八岁鸡.福解五福肖鼠虎兔蛇猴.天偏看天肖.心水诗大意是什么命格有什么样的经历,比如月兔从出生就注定在天上月宫中.综合得主兔牛鼠羊防马虎蛇猴龙</font></div>");
+document.writeln("解析：预先解明肖兔.一解一位鼠一岁龙.八解八位羊八岁鸡.福解五福肖鼠虎兔蛇猴.天偏看天肖.心水诗大意是什么命格有什么样的经历,比如月兔从出生就注定在天上月宫中.综合得主兔牛鼠羊防马虎蛇猴<span style=\'background-color: #FFFF00\'>龙</span></font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("	解特肖：兔牛鼠羊马虎<br>");

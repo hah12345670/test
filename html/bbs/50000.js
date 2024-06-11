@@ -40,7 +40,7 @@ document.writeln("<tr>");
 document.writeln("<td style=\'text-align:center\' height=\'60\' >");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62635c</font><font color=\'#FFFFFF\'>『理财计划』</font></font></b></table></td></tr>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62827c</font><font color=\'#FFFFFF\'>『理财计划』</font></font></b></table></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<div id=\'jihua-danshuang50000\'>");
@@ -64,7 +64,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("160-162期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("163-165期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");

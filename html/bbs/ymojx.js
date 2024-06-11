@@ -17,7 +17,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'57\'><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 51px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62635a.com『原创幽默猜测解特』</font></b></table>");
+document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' size=\'4\'>62827a.com『原创幽默猜测解特』</font></b></table>");
 document.writeln("<div class=\'jyyzt\'><table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");

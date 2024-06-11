@@ -23,7 +23,7 @@ document.writeln("  <tbody>");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62635b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『吉凶六肖』</font></b></table>");
+document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62827b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『吉凶六肖』</font></b></table>");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.1777tz.com:1777\' style=\'text-decoration: none\'>");
@@ -33,6 +33,7 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("         <!--开始-->");
 document.writeln("    ");
@@ -40,7 +41,18 @@ document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>162期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>163期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
+
+document.writeln("");
+document.writeln("         <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>162期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开龙01准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
@@ -55,9 +67,9 @@ document.writeln(" <!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://dddeep.www37289c.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://fggfbf25.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37289b.com</font></font></b></p></a></td></tr>");
+document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197b.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");
 document.writeln("");
 document.writeln("");

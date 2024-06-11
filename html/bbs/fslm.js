@@ -14,26 +14,9 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	162期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>09.17.43.47.45</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	158期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>49.11.23.40.30</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	163期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>39.41.40.47.04</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	157期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>28.44<span style=\'background-color: #FFFF00\'>29</span>.04.12</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
-
-
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	156期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>09.05.24.18.<span style=\'background-color: #FFFF00\'>44</span></font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
-document.writeln("		<!--开始-->");
 
 
 

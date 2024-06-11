@@ -617,7 +617,7 @@ document.writeln("		");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>收藏澳彩资料网</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62635a.com</span></font></strong></tr></table>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>收藏澳彩资料网</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827a.com</span></font></strong></tr></table>");
 document.writeln("</body>");
 document.writeln("</html>");
 document.writeln("");

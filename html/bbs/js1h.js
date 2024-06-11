@@ -38,6 +38,16 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 
 
+document.writeln("  <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>163期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【木行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("   <!--开始-->");
 
 document.writeln("  <!--开始-->");
 document.writeln("    ");
@@ -46,7 +56,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>162期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>162期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙01</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("   <!--开始-->");
 
@@ -283,9 +293,9 @@ document.writeln("   <!--开始-->");
 document.writeln("");
 document.writeln(" ");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td colspan=\'3\'><a target=\'_blank\' href=\'https://dddeep.www37289c.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td colspan=\'3\'><a target=\'_blank\' href=\'https://fggfbf25.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37289c.com</font></font></b></p></a></td></tr>");
+document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197c.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");
 document.writeln("");
 document.writeln("");

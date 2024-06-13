@@ -27,10 +27,15 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("");
+document.writeln("165-166期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇猪鼠羊龙马】</font>(000期√)<br>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("164-165期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡猪猴蛇虎狗】</font>(000期√)<br>");
+document.writeln("164-165期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>鸡</span>猪猴蛇虎狗】</font>(164期√)<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

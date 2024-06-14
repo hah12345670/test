@@ -21,30 +21,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("165期：<font color=\'#0000FF\'>（家禽+龙猴）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("166期：<font color=\'#0000FF\'>（野兽+狗马）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("161期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+龙蛇）</font>开<font color=\'#FF0000\'>(马35)</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("160期：<font color=\'#0000FF\'>（家禽+龙<span style=\'background-color: #FFFF00\'>虎</span>）</font>开<font color=\'#FF0000\'>(虎27)</font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("159期：<font color=\'#0000FF\'>（野兽+<span style=\'background-color: #FFFF00\'>狗</span>猪）</font>开<font color=\'#FF0000\'>(狗43)</font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("158期：<font color=\'#0000FF\'>（野兽+狗<span style=\'background-color: #FFFF00\'>鸡</span>）</font>开<font color=\'#FF0000\'>(鸡20)</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--推广开始-->");

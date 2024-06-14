@@ -46,8 +46,8 @@ document.writeln("161期家【猪羊<span style=\'background-color: #FFFF00\'>�
 document.writeln("162期家【马猪牛鸡】野【鼠猴蛇兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("163期家【猪鸡<span style=\'background-color: #FFFF00\'>牛</span>马】野【兔猴龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期家【<span style=\'background-color: #FFFF00\'>鸡</span>狗羊牛】野【兔龙猴蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("165期家【羊马猪鸡】野【鼠龙蛇兔】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("165期家【羊马猪鸡】野【鼠龙蛇兔】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("166期家【马鸡猪狗】野【猴蛇龙鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -76,8 +76,8 @@ document.writeln("");
 
 document.writeln("163期单【狗马龙鼠】双【<span style=\'background-color: #FFFF00\'>牛</span>猪鸡蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期单【马鼠狗猴】双【羊猪兔蛇】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("165期单【虎鼠狗马】双【羊猪兔鸡】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("165期单【<span style=\'background-color: #FFFF00\'>虎</span>鼠狗马】双【羊猪兔鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期单【龙猴马狗】双【牛羊蛇猪】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -104,7 +104,8 @@ document.writeln("161期吉【鸡兔<span style=\'background-color: #FFFF00\'>�
 document.writeln("162期吉【羊<span style=\'background-color: #FFFF00\'>龙</span>蛇马】凶【猴鼠狗猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("163期吉【兔羊龙马】凶【猴鼠猪<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期吉【<span style=\'background-color: #FFFF00\'>鸡</span>兔羊龙】凶【猪牛虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("165期吉【兔羊蛇马】凶【狗猴虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("165期吉【兔羊蛇马】凶【狗猴<span style=\'background-color: #FFFF00\'>虎</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期吉【蛇鸡兔马】凶【牛猪鼠狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -129,8 +130,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
 document.writeln("164期天【兔牛猪龙】地【狗虎<span style=\'background-color: #FFFF00\'>鸡</span>蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("165期天【牛兔马猪】地【虎狗羊鼠】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("165期天【牛兔马猪】地【<span style=\'background-color: #FFFF00\'>虎</span>狗羊鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期天【猴兔猪马】地【虎蛇狗羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -157,8 +158,8 @@ document.writeln("161期【龙牛虎<span style=\'background-color: #FFFF00\'>�
 document.writeln("162期【狗鸡猴蛇虎马牛兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("163期【马蛇鼠鸡<span style=\'background-color: #FFFF00\'>牛</span>羊猪兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期【猪虎鼠兔蛇龙牛<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("165期【牛狗猪猴马蛇龙鸡】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("165期【牛狗猪猴马蛇龙鸡】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("166期【狗鼠龙鸡虎猴兔猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

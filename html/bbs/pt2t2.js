@@ -17,9 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("165期：平特【马狗拖鸡龙】开？00<br>");
+document.writeln("166期：平特【猴羊拖马龙】开？00<br>");
 document.writeln("------<br>");
+
 
 document.writeln("");
 document.writeln("164期：平特【<span style=\'background-color: #FFFF00\'>猪蛇</span>拖兔虎】开42.24<br>");

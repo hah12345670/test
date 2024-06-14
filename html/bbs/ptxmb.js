@@ -58,8 +58,8 @@ document.writeln(" 161期<span style=\'background-color: #FFFF00\'>【狗】</sp
 document.writeln(" 162期【猴】×<br>")
 document.writeln(" 163期【兔】×<br>")
 document.writeln(" 164期<span style=\'background-color: #FFFF00\'>【猪】</span>√<br>")
-document.writeln(" 165期【虎】√<br>")
-
+document.writeln(" 165期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>")
+document.writeln(" 166期【鸡】√<br>")
 
 document.writeln("");
 document.writeln("");
@@ -97,8 +97,8 @@ document.writeln("158-159期平码【25.13.09.<span style=\'background-color: #F
 document.writeln("160-161期平码【03.14.<span style=\'background-color: #FFFF00\'>23</span>.28】161期中<br>");
 document.writeln("162-163期平码【<span style=\'background-color: #FFFF00\'>31</span>.20.32.43】163期中<br>");
 document.writeln("164-165期平码【40.31.03.<span style=\'background-color: #FFFF00\'>20</span>】164期中<br>");
-document.writeln("165-166期平码【46.40.37.47】000期中<br>");
-
+document.writeln("165-166期平码【46.40.<span style=\'background-color: #FFFF00\'>37</span>.47】165期中<br>");
+document.writeln("166-167期平码【48.44.39.24】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -121,7 +121,8 @@ document.writeln("161期【4尾】×<br>");
 document.writeln("162期【2尾】×<br>");
 document.writeln("163期<span style=\'background-color: #FFFF00\'>【1尾】</span>√<br>");
 document.writeln("164期<span style=\'background-color: #FFFF00\'>【9尾】</span>√<br>");
-document.writeln("165期【8尾】√<br>");
+document.writeln("165期【8尾】×<br>");
+document.writeln("166期【6尾】√<br>");
 
 
 document.writeln("");
@@ -137,7 +138,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-document.writeln("164-165期平尾【1尾】000期中<br>");
+document.writeln("164-165期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>165期中<br>");
+
+document.writeln("166-167期平尾【2尾】000期中<br>");
+
 
 document.writeln("");
 document.writeln("	</font>");
@@ -156,6 +160,7 @@ document.writeln("162期（07.24.01.48.39）×<br>");
 document.writeln("163期（13.43.04.20.09）√<br>");
 document.writeln("164期（15.11.35.37.34）√<br>");
 document.writeln("165期（15.21.12.43.36）√<br>");
+document.writeln("166期（11.23.16.30.05）√<br>");
 
 
 document.writeln("");

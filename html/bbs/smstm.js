@@ -23,6 +23,19 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'center\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>166期（什么是特码）</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'> 八路军是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:马兔鸡猴羊牛虎狗</font></b></font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
 
 document.writeln("");
 document.writeln("<!--结束-->");
@@ -33,7 +46,7 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#FF00FF\' size=\'5\'> 四川是特码</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:虎猴猪龙鸡羊狗蛇</font></b></font></div>");
+document.writeln("	<font color=\'#000000\' style=\"font-size: 13pt\">&#10146;&#10146;推荐特肖:<span style=\'background-color: #FFFF00\'>虎</span>猴猪龙鸡羊狗蛇</font></b></font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");

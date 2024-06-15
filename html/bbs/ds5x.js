@@ -12,11 +12,19 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>166期</font><font color=\'#006600\'>【鼠虎狗猴龙】【鸡牛蛇兔羊】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>167期</font><font color=\'#006600\'>【狗虎鼠猴龙】【羊牛猪鸡蛇】</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>166期</font><font color=\'#006600\'>【鼠虎狗猴龙】【<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇兔羊】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

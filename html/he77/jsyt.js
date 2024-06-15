@@ -15,63 +15,33 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>166期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【3333头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("   ");
 
 
 
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>163期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>牛40</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("   ");
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>162期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>龙01</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
+
+
+
+
+
+
+
+
+
 
 
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>161期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>马35</font>准</td>");
+document.writeln("    <td>167期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>160期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>虎27</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>159期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>狗43</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>158期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【3333头】</font>开<font color=\'#ac6a00\'>鸡20</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 

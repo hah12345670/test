@@ -29,7 +29,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("165-166期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇猪鼠羊龙马】</font>(000期√)<br>");
+document.writeln("167-168期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎蛇鼠羊狗马】</font>(000期√)<br>");
 document.writeln("");
 document.writeln("");
 

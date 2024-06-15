@@ -47,7 +47,8 @@ document.writeln("162期家【马猪牛鸡】野【鼠猴蛇兔】<font color=\"
 document.writeln("163期家【猪鸡<span style=\'background-color: #FFFF00\'>牛</span>马】野【兔猴龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期家【<span style=\'background-color: #FFFF00\'>鸡</span>狗羊牛】野【兔龙猴蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("165期家【羊马猪鸡】野【鼠龙蛇兔】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("166期家【马鸡猪狗】野【猴蛇龙鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期家【马<span style=\'background-color: #FFFF00\'>鸡</span>猪狗】野【猴蛇龙鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期家【猪马羊牛】野【虎猴兔蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -74,10 +75,7 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("163期单【狗马龙鼠】双【<span style=\'background-color: #FFFF00\'>牛</span>猪鸡蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("164期单【马鼠狗猴】双【羊猪兔蛇】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("165期单【<span style=\'background-color: #FFFF00\'>虎</span>鼠狗马】双【羊猪兔鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期单【龙猴马狗】双【牛羊蛇猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期单【鼠龙狗虎】双【猪蛇羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -105,8 +103,8 @@ document.writeln("162期吉【羊<span style=\'background-color: #FFFF00\'>龙</
 document.writeln("163期吉【兔羊龙马】凶【猴鼠猪<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期吉【<span style=\'background-color: #FFFF00\'>鸡</span>兔羊龙】凶【猪牛虎鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("165期吉【兔羊蛇马】凶【狗猴<span style=\'background-color: #FFFF00\'>虎</span>鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期吉【蛇鸡兔马】凶【牛猪鼠狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("166期吉【蛇<span style=\'background-color: #FFFF00\'>鸡</span>兔马】凶【牛猪鼠狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期吉【兔蛇鸡羊】凶【牛猪鼠狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("	");
@@ -131,7 +129,9 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("164期天【兔牛猪龙】地【狗虎<span style=\'background-color: #FFFF00\'>鸡</span>蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("165期天【牛兔马猪】地【<span style=\'background-color: #FFFF00\'>虎</span>狗羊鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期天【猴兔猪马】地【虎蛇狗羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期天【猴兔猪马】地【虎蛇狗羊】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("167期天【猪兔龙牛】地【鸡蛇羊狗】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -159,7 +159,8 @@ document.writeln("162期【狗鸡猴蛇虎马牛兔】<font color=\"#FF0000\">×
 document.writeln("163期【马蛇鼠鸡<span style=\'background-color: #FFFF00\'>牛</span>羊猪兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期【猪虎鼠兔蛇龙牛<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("165期【牛狗猪猴马蛇龙鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("166期【狗鼠龙鸡虎猴兔猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期【狗鼠龙<span style=\'background-color: #FFFF00\'>鸡</span>虎猴兔猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期【猪羊猴狗虎蛇鼠兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -175,7 +176,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://fgffg253.www62827b.com:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://disandisan.www62635b.com:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

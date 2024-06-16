@@ -30,25 +30,26 @@ document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62827b.com）18码
 document.writeln("	<div class=\'bizhong7-box\'>");
 document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>167期必中一头：<font color=\'#FF0000\' size=\'4\'>2</font></li>");
-document.writeln("            	<li>167期必中二头：<font color=\'#FF0000\' size=\'4\'>2-4</font></li>");
-document.writeln("            	<li>167期必中三头：<font color=\'#FF0000\' size=\'4\'>2-4-3</font></li>");
+document.writeln(" 	            <li>168期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
+document.writeln("            	<li>168期必中二头：<font color=\'#FF0000\' size=\'4\'>1-3</font></li>");
+document.writeln("            	<li>168期必中三头：<font color=\'#FF0000\' size=\'4\'>1-3-2</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong7-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>20.22.23.25.27.28</font></li>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>40.41.42.43.45.46</font></li>");
-document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>30.31.33.35.37.38</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>12.13.15.16.18.19</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>30.32.33.35.37.38</font></li>");
+document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>21.22.23.25.27.28</font></li>");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong7-foot\'>167期一头中特：<font color=\'#FF0000\' size=\'6\'>（2头）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong7-foot\'>168期一头中特：<font color=\'#FF0000\' size=\'6\'>（1头）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 
 
 

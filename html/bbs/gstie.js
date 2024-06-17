@@ -76,7 +76,8 @@ document.writeln("165期:<font color=\"#0000FF\">『绝杀四肖』</font><b><fo
 document.writeln("166期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【猪蛇马猴】</font></b>开：鸡32准<br>");
 document.writeln("");
 document.writeln("167期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【鼠马牛虎】</font></b>开：兔14准<br>");
-document.writeln("168期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【蛇猴鼠羊】</font></b>开：？00准<br>");
+document.writeln("168期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【蛇猴鼠羊】</font></b>开：兔14准<br>");
+document.writeln("169期:<font color=\"#0000FF\">『绝杀四肖』</font><b><font color=\"#FF0000\" size=\"4\">【蛇牛龙兔】</font></b>开：？00准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</td></tr>");

@@ -57,7 +57,9 @@ document.writeln("");
 
 document.writeln("  166期（平5*4+特-D2+平5+正3-2）=杀龙马√<br>		");
 document.writeln("  167期（平5*4+特-D2+平5+正3-2）=杀猴鸡√<br>		");
-document.writeln("  168期（平5*4+特-D2+平5+正3-2）=杀猪兔√<br>		");
+document.writeln("  168期（平5*4+特-D2+平5+正3-2）=杀猪兔×<br>		");
+document.writeln("  169期（平5*4+特-D2+平5+正3-2）=杀猴鼠√<br>		");
+
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -71,8 +73,8 @@ document.writeln("      164期（平4*2+正1-D3+正6+正3-特）=杀水√<br>		
 document.writeln("      165期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("      166期（平4*2+正1-D3+正6+正3-特）=杀土√<br>			");
 document.writeln("      167期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
-document.writeln("      168期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
-
+document.writeln("      168期（平4*2+正1-D3+正6+正3-特）=杀木×<br>			");
+document.writeln("      169期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
 
 document.writeln("		");
 document.writeln("<br>	");
@@ -94,7 +96,7 @@ document.writeln("		164期（平5-2-D2+正4）=杀95尾√<br>		");
 document.writeln("		165期（平5-2-D2+正4）=杀80尾√<br>		");
 document.writeln("		167期（平5-2-D2+正4）=杀78尾√<br>		");
 document.writeln("		168期（平5-2-D2+正4）=杀32尾√<br>		");
-
+document.writeln("		169期（平5-2-D2+正4）=杀46尾√<br>		");
 
 document.writeln("		");
 document.writeln("<br>");
@@ -109,7 +111,7 @@ document.writeln("		165期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		166期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("		167期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		168期（平4+3-D1+正2-平3）=杀4头√<br>		");
-
+document.writeln("		169期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("<br>");
 document.writeln("		");
 document.writeln("");
@@ -131,15 +133,13 @@ document.writeln("        <font color=\'#0000FF\'>164期四头=<span style=\'bac
 document.writeln("        <font color=\'#0000FF\'>165期四头=<span style=\'background-color: #FFFF00\'>0</span>432√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>166期四头=24<span style=\'background-color: #FFFF00\'>3</span>1√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>167期四头=204<span style=\'background-color: #FFFF00\'>1</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>168期四头=2340√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>168期四头=2340×</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>169期四头=2134√</font><br>	");
 
 document.writeln("		");
 document.writeln("<br>	");
 
-
-document.writeln("		<font color=\'#0000FF\'>166期七肖=龙牛兔鼠猴猪<span style=\'background-color: #FFFF00\'>鸡</span>√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>167期七肖=羊马猴龙鸡牛猪×</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>168期七肖=马虎狗蛇龙鼠猴√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>169期七肖=猪虎马鼠羊鸡兔√</font><br>		");
 
 
 document.writeln("		");
@@ -149,7 +149,9 @@ document.writeln("		");
 
 document.writeln("		<font color=\'#0000FF\'>166期三行=木<span style=\'background-color: #FFFF00\'>金</span>水√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>167期三行=<span style=\'background-color: #FFFF00\'>木</span>金土√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>168期三行=水火木√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>168期三行=水火<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>169期三行=水土木√</font><br>			");
+
 document.writeln("		");
 document.writeln("		</span>		<br>		");
 document.writeln("");
@@ -159,10 +161,7 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">166期六尾=<span style=\'background-color: #FFFF00\'>2</span>57019√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">167期六尾=623871×</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">168期六尾=120867√</span></font><br>");
-
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">169期六尾=403195√</span></font><br>");
 
 document.writeln("		");
 document.writeln("");

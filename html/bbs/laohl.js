@@ -51,13 +51,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>168期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月16号，五月十一</font><font color=\'#000000\'>，吉日五行:钗钏金;猪日冲(乙巳)蛇 ");
-document.writeln("	煞西,宿名：西方昴日鸡</font></td>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>169期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月17号，五月十二</font><font color=\'#000000\'>，吉日五行:桑柘木;鼠日冲(丙午)马 ");
+document.writeln("	煞南,宿名：西方毕月乌</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:金行：02.03.10.11.24.25.32.33.40.41冲煞:猪蛇 煞西:猴鸡狗,星宿杀肖：鸡,综合：蛇狗龙猴羊马牛虎鼠 ");
-document.writeln("	本期主攻:蛇狗龙猴羊，号码12.36.07.31.13.25.09.21.10.22</font></td>");
+document.writeln("	预测:吉,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:马鼠 煞南:蛇马羊,星宿杀肖：鸡,综合：兔猪鸡牛鼠蛇虎羊马 ");
+document.writeln("	本期主攻:兔猪鸡牛鼠，号码02.14.30.42.20.32.16.28.05.17</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 

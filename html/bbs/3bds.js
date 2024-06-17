@@ -15,7 +15,14 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("168期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单大双小双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("169期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单小单小双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->	");
+document.writeln("");
+document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("168期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单大双<span style=\'background-color: #FFFF00\'>小双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔14</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("	<!--开始-->");
@@ -53,20 +60,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("162期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单<span style=\'background-color: #FFFF00\'>小单</span>大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙01</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("160期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小单大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎27</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("159期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗43</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
 
 
 

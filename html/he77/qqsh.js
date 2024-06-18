@@ -34,11 +34,15 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>171期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书画琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>170期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画琴棋】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>170期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>画</span>琴棋】</font>开<font color=\'#ac6a00\'>羊10</font>准</td>");
 document.writeln("  </tr>");
 
 
@@ -80,31 +84,6 @@ document.writeln("    <td>163期<font color=\'#ac6a00\'>琴棋书画</font><font
 document.writeln("  </tr>");
 document.writeln("");
 
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>162期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>书</span>棋琴】</font>开<font color=\'#ac6a00\'>龙01</font>准</td>");
-document.writeln("  </tr>");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>160期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>书</span>画琴】</font>开<font color=\'#ac6a00\'>虎27</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>159期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画琴<span style=\'background-color: #FFFF00\'>棋</span>】</font>开<font color=\'#ac6a00\'>狗43</font>准</td>");
-document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>158期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋<span style=\'background-color: #FFFF00\'>琴</span>】</font>开<font color=\'#ac6a00\'>鸡20</font>准</td>");
-document.writeln("  </tr>");
 
 
 

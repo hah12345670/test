@@ -18,7 +18,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("169期：平特【猴鼠拖龙鸡】开？00<br>");
+document.writeln("170期：平特【猴虎拖狗鼠】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("169期：平特【猴鼠拖龙鸡】开45.09<br>");
 document.writeln("------<br>");
 
 

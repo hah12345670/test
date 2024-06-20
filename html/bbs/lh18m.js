@@ -41,49 +41,14 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>171期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>172期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>？00</font>准<font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【42.23.33.39.29.32.08.44.13】<br>");
-document.writeln("		【46.27.06.02.35.04.21.24.36】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【08.24.47.06.30.31.44.41.11】<br>");
+document.writeln("		【48.04.13.45.03.29.20.37.40】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
-
-
-
-document.writeln("   <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>168期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>兔14</font>准<font color=\'#000000\'><br>");
-document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【02.39.18.47.<span style=\'background-color: #FFFF00\'>14</span>.42.33.36.17】<br>");
-document.writeln("		【31.38.23.03.13.20.40.08.45】</font><font color=\'#0000FF\'> </font> </span>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-
-document.writeln("   <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>165期<font color=\'#800000\'>【隔壁老胡18码】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#FF0000\'>虎03</font>准<font color=\'#000000\'><br>");
-document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【08.46.<span style=\'background-color: #FFFF00\'>03</span>.42.05.24.32.47.43】<br>");
-document.writeln("		【33.04.28.48.41.01.13.38.27】</font><font color=\'#0000FF\'> </font> </span>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
 
 
 

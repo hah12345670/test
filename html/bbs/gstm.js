@@ -55,11 +55,8 @@ document.writeln("");
 
 
 
-document.writeln("  166期（平5*4+特-D2+平5+正3-2）=杀龙马√<br>		");
-document.writeln("  167期（平5*4+特-D2+平5+正3-2）=杀猴鸡√<br>		");
-document.writeln("  168期（平5*4+特-D2+平5+正3-2）=杀猪兔×<br>		");
-document.writeln("  169期（平5*4+特-D2+平5+正3-2）=杀猴鼠×<br>		");
-document.writeln("  170期（平5*4+特-D2+平5+正3-2）=杀鸡猪√<br>		");
+
+document.writeln("  171期（平5*4+特-D2+平5+正3-2）=杀牛鸡√<br>		");
 
 document.writeln("		");
 document.writeln("<br>		");
@@ -77,7 +74,7 @@ document.writeln("      167期（平4*2+正1-D3+正6+正3-特）=杀火√<br>		
 document.writeln("      168期（平4*2+正1-D3+正6+正3-特）=杀木×<br>			");
 document.writeln("      169期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
 document.writeln("      170期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
-
+document.writeln("      171期（平4*2+正1-D3+正6+正3-特）=杀金√<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -99,8 +96,8 @@ document.writeln("		165期（平5-2-D2+正4）=杀80尾√<br>		");
 document.writeln("		167期（平5-2-D2+正4）=杀78尾√<br>		");
 document.writeln("		168期（平5-2-D2+正4）=杀32尾√<br>		");
 document.writeln("		169期（平5-2-D2+正4）=杀46尾√<br>		");
-document.writeln("		170期（平5-2-D2+正4）=杀01尾√<br>		");
-
+document.writeln("		170期（平5-2-D2+正4）=杀01尾×<br>		");
+document.writeln("		171期（平5-2-D2+正4）=杀59尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -116,7 +113,7 @@ document.writeln("		167期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		168期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("		169期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		170期（平4+3-D1+正2-平3）=杀3头√<br>		");
-
+document.writeln("		171期（平4+3-D1+正2-平3）=杀0头√<br>		");
 
 document.writeln("<br>");
 document.writeln("		");
@@ -141,12 +138,13 @@ document.writeln("        <font color=\'#0000FF\'>166期四头=24<span style=\'b
 document.writeln("        <font color=\'#0000FF\'>167期四头=204<span style=\'background-color: #FFFF00\'>1</span>√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>168期四头=2340×</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>169期四头=213<span style=\'background-color: #FFFF00\'>4</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>170期四头=4231√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>170期四头=423<span style=\'background-color: #FFFF00\'>1</span>√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>171期四头=4213√</font><br>	");
 document.writeln("		");
 document.writeln("<br>	");
 
-document.writeln("		<font color=\'#0000FF\'>170期七肖=虎猴牛蛇马兔鼠√</font><br>		");
 
+document.writeln("		<font color=\'#0000FF\'>171期七肖=虎蛇猪狗羊鼠猴√</font><br>		");
 
 document.writeln("		");
 document.writeln("		");
@@ -157,8 +155,8 @@ document.writeln("		<font color=\'#0000FF\'>166期三行=木<span style=\'backgr
 document.writeln("		<font color=\'#0000FF\'>167期三行=<span style=\'background-color: #FFFF00\'>木</span>金土√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>168期三行=水火<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>169期三行=水土<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>170期三行=金火土√</font><br>			");
-
+document.writeln("		<font color=\'#0000FF\'>170期三行=<span style=\'background-color: #FFFF00\'>金</span>火土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>171期三行=木水土√</font><br>			");
 document.writeln("		");
 document.writeln("		</span>		<br>		");
 document.writeln("");
@@ -168,7 +166,8 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">169期六尾=40319<span style=\'background-color: #FFFF00\'>5</span>√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">170期六尾=925174√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">170期六尾=925174×</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">171期六尾=413890√</span></font><br>");
 
 document.writeln("		");
 document.writeln("");

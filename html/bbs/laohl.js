@@ -51,16 +51,27 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>171期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月19号，五月十四</font><font color=\'#000000\'>，吉日五行:大溪水;虎日冲(戊申)猴 ");
+document.writeln("	煞北,宿名：西方参水猿</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:凶,五行:水行：12.13.20.21.28.29.42.43冲煞:虎猴 煞南:蛇马羊,星宿杀肖：鼠,综合：龙羊猪兔蛇牛狗猴马 ");
+document.writeln("	本期主攻:龙羊猪兔蛇，号码13.25.10.22.06.30.02.14.12.36</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>170期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月18号，五月十三</font><font color=\'#000000\'>，吉日五行:桑柘木;牛日冲(丁未)羊 ");
 document.writeln("	煞东,宿名：西方觜火猴</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:马鼠 煞南:蛇马羊,星宿杀肖：鼠,综合：马羊鸡猴兔狗龙虎牛 ");
-document.writeln("	本期主攻:马羊鸡猴兔，号码11.23.10.22.08.20.31.43.02.14</font></td>");
+document.writeln("	预测:凶,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:马鼠 煞南:蛇马羊,星宿杀肖：鼠,综合：马</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">羊</span></font><font style=\"font-size: 13pt\">鸡猴兔狗龙虎牛 ");
+document.writeln("	本期主攻:马</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">羊</span></font><font style=\"font-size: 13pt\">鸡猴兔，号码11.23.</font><font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">10</span></font><font style=\"font-size: 13pt\">.22.08.20.31.43.02.14</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
-
+document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>167期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月15号，五月初十</font><font color=\'#000000\'>，吉日五行:钗钏金;狗日冲(甲辰)龙 ");
@@ -72,7 +83,7 @@ document.writeln("	预测:吉,五行:金行：02.03.10.11.24.25.32.33.40.41冲�
 document.writeln("	本期主攻:龙猴鼠牛<font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">兔</span></font>，号码13.37.09.21.05.17.16.40.02.<font color=\"#FFFF00\" size=\"5\"><span style=\"background-color: #008000\">14</span></font></font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
-
+document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>165期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月13号，五月初八</font><font color=\'#000000\'>，吉日五行:大驿土;猴日冲(壬寅)虎 ");
@@ -147,7 +158,7 @@ document.writeln("	牛马猴，号码15.39.31.<font color=\"#FFFF00\" size=\"5\"
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

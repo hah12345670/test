@@ -6,31 +6,12 @@ document.writeln("           ");
 document.writeln("	<table border=\"1\" width=\"100%\" id=\"table400923411\">");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>171期：独平</font><font color=\'#FF3300\' size=\'5\'>【马23.47】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>172期：独平</font><font color=\'#FF3300\' size=\'5\'>【蛇12.48】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>169期：独平</font><font color=\'#FF3300\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>牛</span>28.<span style=\'background-color: #FFFF00\'>40</span>】</font><font color=\'#000000\' size=\'4\'>开牛40准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>168期：独平</font><font color=\'#FF3300\' size=\'5\'>【马11.47】</font><font color=\'#000000\' size=\'4\'>开马11准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
 
 
 

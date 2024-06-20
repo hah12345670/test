@@ -27,22 +27,24 @@ document.writeln("<!---->");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>171期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>172期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>水花翦翦坠同云，琴台落日私语时</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>三鸡五兔见得到，老牛食草哺幼儿</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解水肖鼠猪，落日解日肖兔龙蛇马羊猴。综合得主鼠猪兔龙防蛇马羊猴虎</font></div>");
+document.writeln("解析：预先解明肖鸡兔牛.儿解男肖鼠牛虎龙马猴狗.三解三位虎三岁虎,五解五位龙五岁鼠.综合得主鸡兔牛鼠防虎龙马猴狗</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鼠猪兔龙蛇马<br>");
-document.writeln("	特码：05.41.18.30.02.14.13.49.12.36.23.47</font></b></div>");
+document.writeln("	解特肖：鸡兔牛鼠虎龙<br>");
+document.writeln("	特码：08.20.02.14.28.40.05.17.15.39.13.49</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");

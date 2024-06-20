@@ -13,40 +13,19 @@ document.writeln("<!-----结束----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>171期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
+document.writeln("<span style=\'color: #00F;\'>172期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
 document.writeln("</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【猴09.21】");
-document.writeln("【猪06.30】<br>");
+document.writeln("【鼠17.41】");
+document.writeln("【牛06.30】<br>");
 document.writeln("【狗31.43】");
-document.writeln("【虎03.15】<br>");
+document.writeln("【蛇24.36】<br>");
 document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
-
-
-document.writeln("<!-----结束----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>168期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
-document.writeln("</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【龙25.49】");
-document.writeln("【羊34.46】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>兔</span>02.<span style=\'background-color: #FFFF00\'>14</span>】");
-document.writeln("【鼠17.41】<br>");
-document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>兔14准</span></span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
-
-
 
 
 

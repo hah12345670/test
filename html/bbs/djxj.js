@@ -27,6 +27,23 @@ document.writeln("<!---->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>173期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>秋风吹过牛龙殿，扬眉吐气一马归</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖马牛龙.一解一位鼠一岁龙肖.秋解秋肖猴鸡狗.心水诗大意是不管什么事最后扬眉吐气才是真理.综合得主马牛龙鼠防虎猴鸡狗兔</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：马牛龙鼠虎猴<br>");
+document.writeln("	特码：11.23.04.16.13.49.05.41.15.39.21.33</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -36,10 +53,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>三鸡五兔见得到，老牛食草哺幼儿</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖鸡兔牛.儿解男肖鼠牛虎龙马猴狗.三解三位虎三岁虎,五解五位龙五岁鼠.综合得主鸡兔牛鼠防虎龙马猴狗</font></div>");
+document.writeln("解析：预先解明肖鸡兔牛.儿解男肖鼠牛虎龙马猴狗.三解三位虎三岁虎,五解五位龙五岁鼠.综合得主<span style=\'background-color: #FFFF00\'>鸡</span>兔牛鼠防虎龙马猴狗</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鸡兔牛鼠虎龙<br>");
+document.writeln("	解特肖：<span style=\'background-color: #FFFF00\'>鸡</span>兔牛鼠虎龙<br>");
 document.writeln("	特码：08.20.02.14.28.40.05.17.15.39.13.49</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

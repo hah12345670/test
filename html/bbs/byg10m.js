@@ -48,7 +48,7 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #0000FF;\'>171期3.肖中特</span><font color=\'#FF0000\' size=\'5\'>【虎龙猪】</font>开:？00准</font></td></tr>");
+document.writeln("<span style=\'color: #0000FF;\'>172期3.肖中特</span><font color=\'#FF0000\' size=\'5\'>【蛇猪兔】</font>开:？00准</font></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 

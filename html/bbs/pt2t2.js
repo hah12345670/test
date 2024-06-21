@@ -17,8 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("172期：平特【虎蛇拖猴兔】开？00<br>");
+document.writeln("");
+document.writeln("173期：平特【蛇虎拖马牛】开？00<br>");
 document.writeln("------<br>");
+
 
 
 

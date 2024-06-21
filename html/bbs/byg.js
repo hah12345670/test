@@ -83,8 +83,8 @@ document.writeln("                   <font color=\'#0000FF\'>（170期）</font>
 document.writeln("		特肖【鼠龙<span style=\'background-color: #FFFF00\'>羊</span>兔蛇鸡】<br> 	<br>	");
 document.writeln("");
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（171期）</font><Br>");
-document.writeln("		特肖【马鸡虎蛇狗兔】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（173期）</font><Br>");
+document.writeln("		特肖【蛇马羊狗鸡猪】<br> 	<br>	");
 document.writeln("");
 
 document.writeln("		</font>	");
@@ -123,15 +123,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 document.writeln("");
-document.writeln("");
 
-
-document.writeln("		166期必中平特【<span style=\'background-color: #FFFF00\'>猴+狗</span>】√<br>	");
-document.writeln("		167期必中平特【<span style=\'background-color: #FFFF00\'>兔+羊</span>】√<br>	");
-document.writeln("		168期必中平特【蛇+<span style=\'background-color: #FFFF00\'>马</span>】√<br>	");
-
-document.writeln("		171期必中平特【鸡+马】√<br>	");
-
+document.writeln("		173期必中平特【龙+鼠】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -168,6 +161,9 @@ document.writeln("		168期杀【19.46.07.24.43.37.12】√<br>");
 document.writeln("		169期杀【01.25.36.46.30.38.29】√<br>");
 document.writeln("		170期杀【14.47.20.16.41.35.09】√<br>");
 document.writeln("		171期杀【37.34.48.22.28.47.14】√<br>");
+document.writeln("		172期杀【36.30.47.38.37.46.32】×<br>");
+document.writeln("		173期杀【31.39.28.22.21.15.33】√<br>");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -212,8 +208,10 @@ document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
+document.writeln("		171期<span style=\'background-color: #FFFF00\'>（绿肖）</span>√<br>			");
+document.writeln("		172期<span style=\'background-color: #FFFF00\'>（红肖）</span>√<br>			");
+document.writeln("		173期（绿肖）√<br>			");
 
-document.writeln("		171期（绿肖）√<br>			");
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
@@ -226,7 +224,9 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("");
 
 document.writeln("		170期【856<span style=\'background-color: #FFFF00\'>0</span>尾】√<br>				");
-document.writeln("		171期【6793尾】√<br>				");
+document.writeln("		171期【<span style=\'background-color: #FFFF00\'>6</span>793尾】√<br>				");
+document.writeln("		172期【3719尾】×<br>				");
+document.writeln("		173期【6304尾】√<br>				");
 
 document.writeln("");
 document.writeln("");
@@ -252,7 +252,9 @@ document.writeln("		167期（4.<span style=\'background-color: #FFFF00\'>1</span
 document.writeln("		168期（4.2头）×<br>	");
 document.writeln("		169期（3.1头）×<br>	");
 document.writeln("		170期（<span style=\'background-color: #FFFF00\'>1</span>.3头）√<br>	");
-document.writeln("		171期（3.1头）√<br>	");
+document.writeln("		171期（3.<span style=\'background-color: #FFFF00\'>1</span>头）√<br>	");
+document.writeln("		172期（<span style=\'background-color: #FFFF00\'>3</span>.4头）√<br>	");
+document.writeln("		173期（1.0头）√<br>	");
 
 document.writeln("");
 document.writeln("		");
@@ -271,6 +273,9 @@ document.writeln("		168期<span style=\'background-color: #FFFF00\'>蓝波</span
 document.writeln("		169期绿波+<span style=\'background-color: #FFFF00\'>红单</span><br>");
 document.writeln("		170期红波+绿双<br>");
 document.writeln("		171期蓝波+红单<br>");
+document.writeln("		172期红波+<span style=\'background-color: #FFFF00\'>绿双</span><br>");
+document.writeln("		173期绿波+红单<br>");
+
 document.writeln("		");
 document.writeln("		");
 document.writeln("		");
@@ -305,6 +310,10 @@ document.writeln("		168期杀马牛√<br>");
 document.writeln("		169期杀牛虎√<br>");
 document.writeln("		170期杀龙马√<br>");
 document.writeln("		171期杀猴马√<br>");
+document.writeln("		172期杀狗猴√<br>");
+document.writeln("		173期杀鼠龙√<br>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -319,6 +328,8 @@ document.writeln("");
 
 document.writeln("		170期杀绿双√<br>");
 document.writeln("		171期杀蓝单√<br>");
+document.writeln("		172期杀绿双×<br>");
+document.writeln("		173期杀红单√<br>");
 
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -340,6 +351,9 @@ document.writeln("		168期杀3头双√<br>	");
 document.writeln("		169期杀2头双√<br>	");
 document.writeln("		170期杀0头单√<br>	");
 document.writeln("		171期杀4头双√<br>	");
+document.writeln("		172期杀1头双√<br>	");
+document.writeln("		173期杀4头单√<br>	");
+
 
 document.writeln("");
 document.writeln("");
@@ -349,8 +363,10 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左耳】</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("");
 document.writeln("");
-
 document.writeln("		171期杀2.0尾√<br>");
+document.writeln("		172期杀9.0尾√<br>");
+document.writeln("		173期杀0.6尾√<br>");
+
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");

@@ -48,12 +48,26 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第173期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第174期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
 document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
-document.writeln("		主四肖：鼠兔龙蛇<br>			");
-document.writeln("05.41.14.26.13.49.12.36</font></b></td>");
+document.writeln("		主四肖：鼠兔猴鸡<br>			");
+document.writeln("17.29.02.38.09.45.20.44</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第173期八码中特开(龙49中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：小肖（鼠兔<span style=\'background-color: #FFFF00\'>龙</span>蛇猴鸡）<br>	");
+document.writeln("		主四肖：鼠兔<span style=\'background-color: #FFFF00\'>龙</span>蛇<br>			");
+document.writeln("05.41.14.26.13.<span style=\'background-color: #FFFF00\'>49</span>.12.36</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -102,22 +116,6 @@ document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
 
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第166期八码中特开(鸡32)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：小肖（鼠兔龙蛇猴<span style=\'background-color: #FFFF00\'>鸡</span>）<br>	");
-document.writeln("		主四肖：兔蛇猴<span style=\'background-color: #FFFF00\'>鸡</span><br>			");
-document.writeln("02.14.12.36.21.33.08.44</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
 
 
 

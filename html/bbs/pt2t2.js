@@ -18,15 +18,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("173期：平特【蛇虎拖马牛】开？00<br>");
+document.writeln("174期：平特【蛇羊拖鼠虎】开？00<br>");
 document.writeln("------<br>");
-
-
-
-
-
-
-
 
 
 document.writeln("");

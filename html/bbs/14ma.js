@@ -28,26 +28,36 @@ document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">175期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【42.44.28.10.20.24.41.08.36.07.03.05.37.22】</span></font></p>  	");
+document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">173期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【36.42.14.18.02.24.32.01.49.20.30.33.23.19】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">174期:==14码中特==开蛇48准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【46.47.34.02.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">48</font></span><span style=\"font-size: 13pt\">.26.06.23.09.04.14.24.38.21】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">173期:==14码中特==开龙49准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【36.42.14.18.02.24.32.01.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">49</font><span style=\"font-size: 13pt\">.</span></span><span style=\"font-size: 13pt\">20.30.33.23.19】</span></font></p>  	");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">170期:==14码中特==开羊10准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【12.19.<span style=\'background-color: #FFFF00\'>10</span>.18.24.26.06.28.01.03.04.34.32.29】</span></font></p>  	");
+document.writeln("	【12.19.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">10</font></span><span style=\"font-size: 13pt\">.18.24.26.06.28.01.03.04.34.32.29】</span></font></p>  	");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">169期:==14码中特==开猴45准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【48.09.17.<span style=\'background-color: #FFFF00\'>45</span>.34.16.33.06.08.25.05.10.12.02】</span></font></p>  	");
+document.writeln("	【48.09.17.</span><span style=\'background-color: #FFFF00\'><font size=\"5\">45</font></span><span style=\"font-size: 13pt\">.34.16.33.06.08.25.05.10.12.02】</span></font></p>  	");
 document.writeln("");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

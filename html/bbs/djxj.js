@@ -26,6 +26,23 @@ document.writeln("");
 document.writeln("<!---->");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>175期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>山虎老鼠结成双，金猴天宫当马官</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖虎鼠猴马。金解猴鸡肖。天肖看天肖。双解为二解兔牛肖。从心水诗的字面意思来看，像是说的西游记的事故，西游记中妖怪众多成群结派。也有孙悟空大闹天宫。这期会是西游记中出现的生肖吗。综合得主猴鼠兔马防虎牛龙猪狗</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：猴鼠兔马虎牛<br>");
+document.writeln("	特码：09.33.17.41.02.14.23.35.03.15.16.40</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -35,7 +52,7 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一日三秋二相思，相濡以沫口相呼</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：一解一位鼠一迷雾虎,三解三位虎三岁虎,二解二位二岁兔肖,这里可以看夫妻肖马羊.综合得主马羊虎鼠防牛龙兔蛇猪</font></div>");
+document.writeln("解析：一解一位鼠一迷雾虎,三解三位虎三岁虎,二解二位二岁兔肖,这里可以看夫妻肖马羊.综合得主马羊虎鼠防牛龙兔<span style=\'background-color: #FFFF00\'>蛇</span>猪</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("	解特肖：马羊虎鼠牛龙<br>");

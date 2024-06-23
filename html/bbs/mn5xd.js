@@ -49,7 +49,9 @@ document.writeln("169期【兔牛虎羊马<span style=\'background-color: #FFFF0
 document.writeln("170期【兔蛇<span style=\'background-color: #FFFF00\'>羊</span>猴猪狗鼠鸡虎龙】√<br>		");
 document.writeln("171期【兔鸡羊马狗蛇猪<span style=\'background-color: #FFFF00\'>牛</span>虎猴】√<br>		");
 document.writeln("172期【虎狗猪猴羊龙<span style=\'background-color: #FFFF00\'>鸡</span>兔蛇鼠】√<br>		");
-document.writeln("173期【鸡兔鼠龙狗牛马猪猴蛇】√<br>		");
+document.writeln("173期【鸡兔鼠<span style=\'background-color: #FFFF00\'>龙</span>狗牛马猪猴蛇】√<br>		");
+document.writeln("174期【蛇鸡牛猪马羊狗猴兔龙】√<br>		");
+
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -78,7 +80,10 @@ document.writeln("	169期【12<span style=\'background-color: #FFFF00\'>4</span>
 document.writeln("	170期【320<span style=\'background-color: #FFFF00\'>1</span>头】√<br>		");
 document.writeln("	171期【<span style=\'background-color: #FFFF00\'>1</span>304头】√<br>		");
 document.writeln("	172期【1<span style=\'background-color: #FFFF00\'>3</span>04头】√<br>		");
-document.writeln("	173期【4213头】√<br>		");
+document.writeln("	173期【<span style=\'background-color: #FFFF00\'>4</span>213头】√<br>		");
+document.writeln("	174期【1340头】√<br>		");
+
+
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -104,8 +109,8 @@ document.writeln("169期【火土<span style=\'background-color: #FFFF00\'>木</
 document.writeln("170期【火水土木】×<br>			");
 document.writeln("171期【<span style=\'background-color: #FFFF00\'>火</span>木金水】√<br>			");
 document.writeln("172期【<span style=\'background-color: #FFFF00\'>金</span>火土】√<br>			");
-document.writeln("173期【金土木水】√<br>			");
-
+document.writeln("173期【金<span style=\'background-color: #FFFF00\'>土</span>木水】√<br>			");
+document.writeln("174期【金火木土】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -128,7 +133,8 @@ document.writeln(" 169期【461<span style=\'background-color: #FFFF00\'>5</span
 document.writeln(" 170期【8<span style=\'background-color: #FFFF00\'>0</span>146279】√<br>	");
 document.writeln(" 171期【79<span style=\'background-color: #FFFF00\'>6</span>20541】√<br>	");
 document.writeln(" 172期【730<span style=\'background-color: #FFFF00\'>2</span>6584】√<br>	");
-document.writeln(" 173期【17860459】√<br>	");
+document.writeln(" 173期【1786045<span style=\'background-color: #FFFF00\'>9</span>】√<br>	");
+document.writeln(" 174期【86015372】√<br>	");
 
 
 document.writeln("	</font>");
@@ -146,8 +152,8 @@ document.writeln("");
 
 document.writeln("171期【<span style=\'background-color: #FFFF00\'>绿波</span>红波】√<br>  	");
 document.writeln("172期【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】√<br>  	");
-document.writeln("173期【蓝波红波】√<br>  	");
-
+document.writeln("173期【蓝波红波】×<br>  	");
+document.writeln("174期【蓝波绿波】√<br>  	");
 
 document.writeln("");
 document.writeln("           ");

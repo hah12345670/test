@@ -66,7 +66,8 @@ document.writeln("171期:【幸运星】<font color=\"#008000\">3.肖中特</fon
 document.writeln("");
 document.writeln("");
 document.writeln("172期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【龙狗虎】</font>开鸡32错<BR>");
-document.writeln("173期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【虎龙蛇】</font>开？00准<BR>");
+document.writeln("173期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【虎<span style=\'background-color: #FFFF00\'>龙</span>蛇】</font>开龙49准<BR>");
+document.writeln("174期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【羊鼠马】</font>开？00准<BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

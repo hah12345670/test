@@ -16,10 +16,9 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("174期：平特【蛇羊拖鼠虎】开？00<br>");
+document.writeln("175期：平特【马猴拖虎牛】开？00<br>");
 document.writeln("------<br>");
+
 
 
 document.writeln("");

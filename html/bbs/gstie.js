@@ -84,7 +84,8 @@ document.writeln("171期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</f
 document.writeln("172期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【龙马】</font>_开:鸡32准<br>");
 document.writeln("173期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【猪牛】</font>_开:龙49准<br>");
 document.writeln("174期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【牛龙】</font>_开:蛇48准<br>");
-document.writeln("175期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【猴蛇】</font>_开:？00准</span></td></tr>");
+document.writeln("175期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【猴蛇】</font>_开:牛40准<br>");
+document.writeln("176期:<font color=\"#6600CC\">&#10169;绝杀二肖&#10169;</font>_<font color=\"#FF00FF\">【鸡龙】</font>_开:？00准</span></td></tr>");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("");

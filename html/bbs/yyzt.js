@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">175期一语中特【拓落不羁】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：潦倒失意，行为放纵.也指豪迈不受拘束。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠猪兔牛鸡马开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">174期一语中特【抖抖瑟瑟】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：颤抖貌。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪蛇虎羊鼠马开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪<span style=\'background-color: #FFFF00\'>蛇</span>虎羊鼠马开蛇48准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -80,14 +89,23 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 
-
 document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">175期一语中特【想前顾后】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：想着前面,又顾虑后面。形容犹豫不决、矛盾重重的状态</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴虎羊蛇牛鸡开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">174期一语中特【见骥一毛】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：只看见良马身上的一根毛。比喻只了解事物的局部</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇羊马虎鼠狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>蛇</span>羊马虎鼠狗开蛇48准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");

@@ -11,43 +11,23 @@ document.writeln(" ");
 
 
 
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	163期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>牛40准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	164期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>鸡44准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	165期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>虎03准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	166期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【蓝波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>鸡32准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	167期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>兔14准</font></span></strong></span></p></td></tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	168期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【红波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>兔14准</font></span></strong></span></p></td></tr>");
+document.writeln("	176期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	170期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>羊10准</font></span></strong></span></p></td></tr>");
+document.writeln("	175期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>牛40准</font></span></strong></span></p></td></tr>");
 document.writeln("");
 
+
+document.writeln("");
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
+document.writeln("	174期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>蛇48准</font></span></strong></span></p></td></tr>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
@@ -56,8 +36,6 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'font-size:16pt\'><span style=\'color:#00f\'>");
-document.writeln("	174期</span><span style=\'color:red\'>绝杀</span><span style=\'color:#393\'>一波</span>【绿波】<span style=\'color:#960\'>开</span></span><span style=\'font-size:16pt;color:#666\'>:</span><span style=\'font-size: 16pt; background-color: #FF0000\'><font color=\'#FFFF00\'>肖00准</font></span></strong></span></p></td></tr>");
-document.writeln("");
+
+
 document.writeln("</tbody></table>");

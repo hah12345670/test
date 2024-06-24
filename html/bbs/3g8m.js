@@ -46,76 +46,14 @@ document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>175期</font><font color=\'#0000FF\' size=\'5\'>【天肖+人肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>176期</font><font color=\'#0000FF\' size=\'5\'>【天肖+地肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
-
-
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>173期</font><font color=\'#0000FF\' size=\'5\'>【天肖+<span style=\'background-color: #FFFF00\'>地肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>龙49</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>172期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>天肖</span>+人肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鸡32</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>171期</font><font color=\'#0000FF\' size=\'5\'>【天肖+<span style=\'background-color: #FFFF00\'>地肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛16</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>170期</font><font color=\'#0000FF\' size=\'5\'>【人肖+<span style=\'background-color: #FFFF00\'>地肖</span>】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊10</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>169期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>人肖</span>+天肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴45</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>167期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>天肖</span>+地肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>兔14</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>166期</font><font color=\'#0000FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>天肖</span>+人肖】</font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>鸡32</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-document.writeln("");
-
-
 
 
 
@@ -123,7 +61,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://buyao77.www37197b.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://sww7.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://www.496688a.com/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197c.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

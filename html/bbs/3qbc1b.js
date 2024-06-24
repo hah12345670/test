@@ -26,11 +26,29 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>171-173期</font>【<font color=\'#FF0000\'>蓝波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>176-178期</font>【<font color=\'#FF0000\'>蓝波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
+document.writeln("	<font color=\'#008000\'>175-177期</font>【<font color=\'#FF0000\'>红波</font>】175期开<font color=\'#FF00FF\'>(40)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
+document.writeln("	<font color=\'#008000\'>171-173期</font>【<font color=\'#FF0000\'>蓝波</font>】173期开<font color=\'#FF00FF\'>(48)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -79,7 +97,7 @@ document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://buyao77.www37197b.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://sww7.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197b.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

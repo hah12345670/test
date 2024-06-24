@@ -20,10 +20,26 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>175期红字暗码【干劲十足】【01 26 34 47】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：干劲十足的意思是:暂无解释!我要编辑词条。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：羊龙虎牛马兔猴<br>");
+document.writeln("主特14码：10.22.13.49.15.39.04.16.11.23.02.14.21.45");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://buyao77.www37197b.com:8443/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>174期红字暗码【后继有人】【08 21 39 42】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：有人接续前头的人所从事的事业。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：猪鼠鸡猴羊蛇狗<br>");
+document.writeln("解取特肖：猪鼠鸡猴羊<span style=\"background-color: #FFFF00\">蛇</span>狗<br>");
 document.writeln("主特14码：06.30.17.41.20.32.21.45.10.22.24.36.31.43");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
@@ -174,8 +190,8 @@ document.writeln("			。<a target=\'_blank\' href=\'https://buyao77.www37197b.co
 document.writeln("");
 document.writeln("</a></tr></table></td>");
 document.writeln("<!--开始-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

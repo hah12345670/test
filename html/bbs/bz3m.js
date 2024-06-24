@@ -26,6 +26,7 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62827a.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『必中三码』</font></b></table>");
 document.writeln("");
 
+
 document.writeln("");
 document.writeln("      <!--开始-->");
 document.writeln("    ");
@@ -37,7 +38,20 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("174-176期<font style=\'font-size: 14pt\'>【06.30.42】</font>第?0期中</span></font></font></b></td>");
+document.writeln("176-178期<font style=\'font-size: 14pt\'>【04.28.40】</font>第?0期中</span></font></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+document.writeln("      <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
+document.writeln("174-176期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>06</span>.30.42】</font>第174期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 document.writeln("      <!--开始-->");
@@ -210,7 +224,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://buyao77.www37197b.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://sww7.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197b.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

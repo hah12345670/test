@@ -28,7 +28,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>175期</font><font color=\'#006600\'>【9571】【2846】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>176期</font><font color=\'#006600\'>【9537】【6802】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -91,7 +91,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://buyao77.www37197b.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://sww7.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197b.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

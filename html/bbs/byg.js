@@ -84,7 +84,11 @@ document.writeln("		特肖【鼠龙<span style=\'background-color: #FFFF00\'>羊
 document.writeln("");
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（174期）</font><Br>");
-document.writeln("		特肖【羊兔蛇虎马龙】<br> 	<br>	");
+document.writeln("		特肖【羊兔<span style=\'background-color: #FFFF00\'>蛇</span>虎马龙】<br> 	<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("                   <font color=\'#0000FF\'>（175期）</font><Br>");
+document.writeln("		特肖【蛇羊鼠龙虎猪】<br> 	<br>	");
 document.writeln("");
 
 document.writeln("		</font>	");
@@ -125,7 +129,9 @@ document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 document.writeln("");
 
 document.writeln("		173期必中平特【<span style=\'background-color: #FFFF00\'>龙+鼠</span>】√<br>	");
-document.writeln("		174期必中平特【蛇+猪】√<br>	");
+document.writeln("		174期必中平特【<span style=\'background-color: #FFFF00\'>蛇</span>+猪】√<br>	");
+document.writeln("		175期必中平特【龙+兔】√<br>	");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
@@ -164,6 +170,8 @@ document.writeln("		171期杀【37.34.48.22.28.47.14】√<br>");
 document.writeln("		172期杀【36.30.47.38.37.46.32】×<br>");
 document.writeln("		173期杀【31.39.28.22.21.15.33】√<br>");
 document.writeln("		174期杀【17.18.30.38.25.07.14】√<br>");
+document.writeln("		175期杀【39.22.19.43.07.41.38】√<br>");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -211,7 +219,9 @@ document.writeln("");
 document.writeln("		171期<span style=\'background-color: #FFFF00\'>（绿肖）</span>√<br>			");
 document.writeln("		172期<span style=\'background-color: #FFFF00\'>（红肖）</span>√<br>			");
 document.writeln("		173期<span style=\'background-color: #FFFF00\'>（绿肖</span>）√<br>			");
-document.writeln("		174期（绿肖）√<br>			");
+document.writeln("		174期（绿肖）×<br>			");
+document.writeln("		175期（红肖）√<br>			");
+
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
@@ -227,7 +237,8 @@ document.writeln("		170期【856<span style=\'background-color: #FFFF00\'>0</spa
 document.writeln("		171期【<span style=\'background-color: #FFFF00\'>6</span>793尾】√<br>				");
 document.writeln("		172期【3719尾】×<br>				");
 document.writeln("		173期【6304尾】×<br>				");
-document.writeln("		174期【9865尾】√<br>				");
+document.writeln("		174期【9<span style=\'background-color: #FFFF00\'>8</span>65尾】√<br>				");
+document.writeln("		175期【9820尾】√<br>				");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -255,7 +266,10 @@ document.writeln("		170期（<span style=\'background-color: #FFFF00\'>1</span>.
 document.writeln("		171期（3.<span style=\'background-color: #FFFF00\'>1</span>头）√<br>	");
 document.writeln("		172期（<span style=\'background-color: #FFFF00\'>3</span>.4头）√<br>	");
 document.writeln("		173期（1.0头）×<br>	");
-document.writeln("		174期（3.4头）√<br>	");
+document.writeln("		174期（3.<span style=\'background-color: #FFFF00\'>4</span>头）√<br>	");
+document.writeln("		175期（0.3头）√<br>	");
+
+
 document.writeln("");
 document.writeln("		");
 document.writeln("		");
@@ -275,7 +289,10 @@ document.writeln("		170期红波+绿双<br>");
 document.writeln("		171期蓝波+红单<br>");
 document.writeln("		172期红波+<span style=\'background-color: #FFFF00\'>绿双</span><br>");
 document.writeln("		173期<span style=\'background-color: #FFFF00\'>绿波</span>+红单<br>");
-document.writeln("		174期蓝波+绿双<br>");
+document.writeln("		174期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿双<br>");
+document.writeln("		175期蓝波+红单<br>");
+
+
 document.writeln("		");
 document.writeln("		");
 document.writeln("		");
@@ -313,7 +330,7 @@ document.writeln("		171期杀猴马√<br>");
 document.writeln("		172期杀狗猴√<br>");
 document.writeln("		173期杀鼠龙×<br>");
 document.writeln("		174期杀龙猪√<br>");
-
+document.writeln("		175期杀鸡虎√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -331,6 +348,8 @@ document.writeln("		171期杀蓝单√<br>");
 document.writeln("		172期杀绿双×<br>");
 document.writeln("		173期杀红单√<br>");
 document.writeln("		174期杀蓝单√<br>");
+document.writeln("		175期杀绿双√<br>");
+
 document.writeln("						");
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -354,7 +373,7 @@ document.writeln("		171期杀4头双√<br>	");
 document.writeln("		172期杀1头双√<br>	");
 document.writeln("		173期杀4头单×<br>	");
 document.writeln("		174期杀0头双√<br>	");
-
+document.writeln("		175期杀1头双√<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	</font><br>		");
@@ -367,6 +386,9 @@ document.writeln("		171期杀2.0尾√<br>");
 document.writeln("		172期杀9.0尾√<br>");
 document.writeln("		173期杀0.6尾√<br>");
 document.writeln("		174期杀4.7尾√<br>");
+document.writeln("		175期杀4.0尾√<br>");
+
+
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");
@@ -388,9 +410,9 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td>");
 document.writeln("	<p align=\'center\'><b><font size=\'4\' color=\'#FF0000\'>");
-document.writeln("	<a target=\'_blank\' href=\'https://fbgg2.www73289b.com:8443/#112\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://dss77.www73289b.com:8443/#112\'>");
 document.writeln("	<span style=\'text-decoration: none\'>");
-document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://fbgg2.www73289b.com:8443/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://fbgg2.www73289b.com:8443/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
+document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://dss77.www73289b.com:8443/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://dss77.www73289b.com:8443/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("  </table>");

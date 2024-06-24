@@ -31,9 +31,14 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("");
-document.writeln("175-176期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊兔猴蛇虎牛】</font>(000期√)<br>");
+document.writeln("176-177期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔蛇龙虎马羊】</font>(000期√)<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("175-176期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊兔猴蛇虎<span style=\'background-color: #FFFF00\'>牛</span>】</font>(175期√)<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("174-175期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙牛猪虎鼠<span style=\'background-color: #FFFF00\'>蛇</span>】</font>(174期√)<br>");

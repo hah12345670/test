@@ -12,11 +12,16 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("	");
 document.writeln("");
 document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("177期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单小双大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("176期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单大双大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("176期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小单</span>大双大单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎03</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("");

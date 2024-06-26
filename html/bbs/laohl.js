@@ -52,13 +52,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>176期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月24号，五月十八</font><font color=\'#000000\'>，吉日五行:石榴木; ");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>177期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>06月25号，五月十九</font><font color=\'#000000\'>，吉日五行:石榴木; ");
 document.writeln("	猴日冲(甲寅)虎 煞南,宿名：南方翼火蛇</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:猴虎 煞南:蛇马羊,星宿杀肖：牛,综合：猴蛇鼠龙马鸡牛兔狗 ");
-document.writeln("	本期主攻:猴蛇鼠龙马，号码09.21.12.36.05.41.13.49.11.23</font></td>");
+document.writeln("	预测:凶,五行:木行：06.07.14.15.22.23.36.37.44.45冲煞:猴虎 煞南:蛇马羊,星宿杀肖：牛,综合：猪蛇狗兔虎龙马羊鼠 ");
+document.writeln("	本期主攻:猪蛇狗兔虎，号码06.30.12.48.31.43.02.14.15.39</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 

@@ -55,8 +55,8 @@ document.writeln("		<span><b><font size=\'4\'>176期:</font><font style=\'font-s
 document.writeln("		八码】</font></b><font size=\'4\'><b>开<font color=\'#FF0000\'>？00</font>准</b><font color=\'#008700\'><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 16pt\'>来料<font color=\'#FF0000\'>【75827.com 已更新】</font><br>");
-document.writeln("		<font color=\'#008700\'>进入论坛查看</font></font></b></span></tr>	");
+document.writeln("		<font style=\'font-size: 16pt\'>家禽<font color=\'#FF0000\'>【牛鸡羊马】</font><br>");
+document.writeln("		<font color=\'#008700\'>16.28.20.32.22.34.23.35</font></font></b></span></tr>	");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");

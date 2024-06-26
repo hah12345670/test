@@ -17,7 +17,13 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("177期：平特【羊蛇拖龙牛】开？00<br>");
+document.writeln("");
+document.writeln("178期：平特【狗牛拖猴龙】开？00<br>");
+document.writeln("------<br>");
+
+
+document.writeln("");
+document.writeln("177期：平特【羊<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>龙</span>牛】开12.48.49<br>");
 document.writeln("------<br>");
 
 

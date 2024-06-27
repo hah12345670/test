@@ -56,7 +56,7 @@ document.writeln(" 175期【马】√<br>")
 document.writeln(" 176期【狗】×<br>")
 document.writeln(" 177期【鸡】×<br>")
 document.writeln(" 178期【猴】√<br>")
-
+document.writeln(" 179期【狗】√<br>")
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -109,7 +109,7 @@ document.writeln("175期【0尾】√<br>");
 document.writeln("176期【8尾】√<br>");
 document.writeln("177期【9尾】√<br>");
 document.writeln("178期【1尾】√<br>");
-
+document.writeln("179期【3尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -149,6 +149,8 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 document.writeln("176期（33.44.02.27.35）√<br>");
 document.writeln("177期（45.44.34.46.22）√<br>");
 document.writeln("178期（40.05.42.16.36）√<br>");
+document.writeln("179期（42.28.31.25.48）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

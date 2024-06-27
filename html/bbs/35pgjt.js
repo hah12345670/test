@@ -46,6 +46,24 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			179期<font color=\'#FF0000\'>【今期帖士个吹牛，一言必中在掌中】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：一言必中在掌中解虎羊马狗鼠鸡牛</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：虎羊马狗鼠鸡牛<br>");
+document.writeln("			特码：27.39.34.46.35.47.31.43.29.41.32.44.28.40");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -54,7 +72,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			178期<font color=\'#FF0000\'>【今期生肖三三开，初生牛儿不怕虎】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：三三开解对对肖马猴羊鸡。明肖牛虎</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：牛虎马猴羊鸡狗<br>");
+document.writeln("			<br>七肖：牛虎马猴羊<span style=\'background-color: #FFFF00\'>鸡</span>狗<br>");
 document.writeln("			特码：28.40.27.39.35.47.33.45.34.46.32.44.31.43");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

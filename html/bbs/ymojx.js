@@ -24,6 +24,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第179期幽默猜测</font><font color=\'#FF0000\'>（祖师爷）</font><font color=\'#000000\'>：每个行业都有自己的祖师爷：木匠拜鲁班；豆腐铺拜刘安；蚕丝业拜螺祖。快递公司的祖师爷，应该是圣诞老人。.本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：祖师爷解兔龙牛狗鼠蛇<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：兔龙牛狗鼠蛇</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -33,7 +45,7 @@ document.writeln("	2024年第178期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：孤苦伶仃解鸡兔鼠猪羊马<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鸡兔鼠猪羊马</font></b></div>");
+document.writeln("	综合特肖：</font><font size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font><font size=\'4\' color=\'#009900\'>兔鼠猪羊马</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

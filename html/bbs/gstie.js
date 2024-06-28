@@ -75,8 +75,12 @@ document.writeln("177期:【绝杀一波】<font style=\"font-size: 16pt\" color
 document.writeln("");
 document.writeln("178期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【红波】</font>开:<font color=\"#FF00FF\">鸡20</font>准<br>");
 document.writeln("");
-document.writeln("179期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【绿波】</font>开:<font color=\"#FF00FF\">？00</font>准<br>");
+document.writeln("179期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【绿波】</font>开:<font color=\"#FF00FF\">龙01</font>准<br>");
 document.writeln("");
+document.writeln("180期:【绝杀一波】<font style=\"font-size: 16pt\" color=\"#FF0000\">【红波】</font>开:<font color=\"#FF00FF\">？00</font>准<br>");
+document.writeln("");
+
+
 document.writeln("</span></td></tr>");
 document.writeln("");
 document.writeln("");

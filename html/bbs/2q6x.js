@@ -35,7 +35,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("179-180期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇马羊猴牛狗】</font>(000期√)<br>");
+document.writeln("181-182期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇鼠牛马虎羊】</font>(000期√)<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

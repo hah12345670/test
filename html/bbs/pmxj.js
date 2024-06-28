@@ -63,14 +63,14 @@ document.writeln("	<tr>");
 document.writeln("      <td height=44 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\'>阴肖【蛇马狗】</font></b></font></td>");
+document.writeln("		<font color=\'#FF0000\'>阳肖【牛羊猴】</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=34 bgcolor=\'#FFFFFF\' align=\'center\' >");
 document.writeln("");
 document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("12.36.23.47.07.43</b> </td>");
+document.writeln("04.40.22.34.09.21</b> </td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束--> ");
 

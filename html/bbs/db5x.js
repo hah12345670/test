@@ -18,7 +18,7 @@ document.writeln("           ");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.100tzz.com:100\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击最权威实力平台</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>100.CC</font></span></a></strong></tr></table>");
 document.writeln("");
-document.writeln("<!--https://jhh8559.www62827b.com:8443/6dgsb/0008.html-->     ");
+document.writeln("<!--https://584558.www62827b.com:8443/6dgsb/0008.html-->     ");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--资料开始-->     ");

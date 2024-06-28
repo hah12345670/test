@@ -10,14 +10,25 @@ document.writeln("</style>");
 document.writeln("<div class=\'ipi\'>九點半<font color=\'#FFFF00\'>【解特码诗】</font></div>");
 document.writeln("<body>");
 document.writeln("");
-
+document.writeln("<!--特码诗开始 -->");
+document.writeln("<body>");
+document.writeln("");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>181期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>暮雨不来春不去，花满地月朦胧胧。</font></b></font><br>");
+document.writeln("<font face=\'楷体\'><b>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--特码诗开始 -->");
 document.writeln("<!--特码诗开始 -->");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>180期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>马不停蹄何前奔，喜气洋洋一家亲。</font></b></font><br>");
 document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开兔02</font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
@@ -189,18 +200,7 @@ document.writeln("");
 document.writeln("<!--特码诗开始 -->");
 document.writeln("");
 
-document.writeln("<!--特码诗开始 -->");
-document.writeln("<body>");
-document.writeln("");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<tr>");
-document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>166期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>暮雨不来春不去，花满地月朦胧胧。</font></b></font><br>");
-document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开鸡32</font></b></font></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--特码诗开始 -->");
+
 
 
 

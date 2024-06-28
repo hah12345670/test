@@ -65,8 +65,8 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#FF0000\' style=\'font-size: 18pt\'>");
-document.writeln("		【40.43.44.18.10.39.46.31】<br>");
-document.writeln("		【28.33.42.47.03.23.24.01】</font></b></td>");
+document.writeln("		【37.26.31.46.18.17.44.30】<br>");
+document.writeln("		【42.27.15.16.49.34.25.04】</font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("   <!--结束--> ");
 

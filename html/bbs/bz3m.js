@@ -269,7 +269,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://sww7.www37197a.com:8443/#49029\' style=\'text-decoration: none\'>");
+document.writeln("<tr><td><a target=\'_blank\' href=\'https://587593.www37197b.com:8443/#49029\' style=\'text-decoration: none\'>");
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=https://hjyjthjy.www661161c.com:8443/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' size=\'5\'>跑狗论坛<font color=\'#FF0000\'>37197b.com</font></font></b></p></a></td></tr>");
 document.writeln(" ");

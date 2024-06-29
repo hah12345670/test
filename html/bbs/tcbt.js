@@ -17,63 +17,22 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("181期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）右为难</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("180期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）途无量</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
-
-
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("176期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎03</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）陋无比</font><font color=\'#0000FF\' size=\'5\'>-解:丑肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("175期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛40</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）千世界</font><font color=\'#0000FF\' size=\'5\'>-解:大肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("174期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇48</font></span>准<br>");
+document.writeln("180期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>兔02</font></span>准<br>");
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）途无量</font><font color=\'#0000FF\' size=\'5\'>-解:前肖</font></b></font></table>");
 
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("171期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>牛16</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:家禽</font></b></font></table>");
 
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("169期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猴45</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）上人间</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("167期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>兔14</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中不足</font><font color=\'#0000FF\' size=\'5\'>-解:吉美</font></b></font></table>");
 
 
 document.writeln("");

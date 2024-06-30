@@ -2,7 +2,7 @@
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<!--https://tk2.zaojiao365.net:4949/col/340/yjzy.jpg-->");
+document.writeln("<!--https://tk2.ku33a.net:4949/col/340/yjzy.jpg-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<td style=\'text-align:center\' height=\'60\'>");

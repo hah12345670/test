@@ -27,6 +27,24 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 document.writeln("");
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">183期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.17.41.18.30.42.08.20.32.07.19.43.02.14.26.04.16.28</font></li>");
+document.writeln("            	<li>183期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">05.17.41.18.30.42.08.20.32</font></li>");
+document.writeln("            	<li>183期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-05.17.41）</font></li>");
+document.writeln("            	<li>183期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠猪鸡</font></li>");
+document.writeln("            	<li>183期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠猪鸡狗兔牛</font></li>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,11 +53,10 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">182期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.28.10.34.46.08.32.44.03.15.39.01.37.49.02.14.38</font></li>");
-document.writeln("            	<li>182期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.28.10.34.46.08.32.44</font></li>");
+
 document.writeln("            	<li>182期必中①肖：<font color=\'#FF0000\' size=\'5\'>（牛-04.16.28）</font></li>");
 document.writeln("            	<li>182期必中③肖：<font color=\'#FF0000\' size=\'4\'>牛羊鸡</font></li>");
-document.writeln("            	<li>182期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛羊鸡虎龙兔</font></li>");
+document.writeln("            	<li>182期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛羊鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>龙兔</font></li>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");

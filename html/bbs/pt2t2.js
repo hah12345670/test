@@ -17,7 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("182期：平特【蛇猴拖狗羊】开？00<br>");
+document.writeln("183期：平特【虎牛拖龙马】开？00<br>");
+document.writeln("------<br>");
+
+document.writeln("");
+document.writeln("182期：平特【蛇<span style=\'background-color: #FFFF00\'>猴</span>拖狗<span style=\'background-color: #FFFF00\'>羊</span>】开49.10<br>");
 document.writeln("------<br>");
 
 

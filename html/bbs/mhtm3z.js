@@ -305,7 +305,7 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<font style=\'font-size: 11pt\'> ");
 document.writeln("182期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>零六四</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
 document.writeln("");
-document.writeln("<!--https://tk2.zaojiao365.net:4949/col/341/174.jpg-->");
+document.writeln("<!--https://tk2.ku33a.net:4949/col/341/174.jpg-->");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");

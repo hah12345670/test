@@ -26,9 +26,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">181期一语中特【步态蹒跚】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：走路摇摆、缓慢的姿态。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙羊兔鼠虎牛开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">180期一语中特【打破陈规】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为打破了一般的规矩或一向实行的规章制度的一个词语。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔马猴猪狗牛开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>兔</span>马猴猪狗牛开兔02准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -118,22 +127,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">180期一语中特【打破陈规】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为打破了一般的规矩或一向实行的规章制度的一个词语。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴牛鼠鸡狗猪开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">181期一语中特【磨破口舌】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：比喻说了很多的话。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠蛇马兔龙虎开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">178期一语中特【纤毫不爽】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一点儿也不差。形容非常精确。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴猪狗马<span style=\'background-color: #FFFF00\'>鸡</span>开鸡20准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
+
 
 
 

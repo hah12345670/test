@@ -38,20 +38,41 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("  <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>182期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【8.3.1.6】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("    </tr>");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		解：数字8316尾或者解特马猴牛鼠兔羊蛇猪龙</font></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
+document.writeln("		<font face=\'微软雅黑\' size=\'2\'>");
+document.writeln("		<a target=\'_blank\' href=\'https://qahghh.www62361b.com:888\' style=\'text-decoration: none\'>");
+document.writeln("		<font color=\'#FFFFFF\'>关注资料网</font></font><font color=\'#FFFF00\' size=\'4\' face=\'微软雅黑\'>62827a.com</font><font color=\'#FFFFFF\' face=\'微软雅黑\' size=\'2\'>最早看料</font></a><font face=\'微软雅黑\' size=\'2\'><font color=\'#FFFFFF\'> </font>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln("  <!--开始-->");
 
 document.writeln("");
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>181期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【9.4.5.6】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>181期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【9.4.5.6】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开虎27】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字9456尾或者解特鼠虎狗羊马龙猪猴兔</font></b></td>");
+document.writeln("		解：数字9456尾或者解特鼠<span style=\'background-color: #FFFF00\'>虎</span>狗羊马龙猪猴兔</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

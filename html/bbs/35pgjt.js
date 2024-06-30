@@ -47,6 +47,23 @@ document.writeln("");
 
 
 
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			181期<font color=\'#FF0000\'>【今期特稠在蛇身，部其意不泥其迹】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖蛇，部其意不泥其迹解猴猪牛马兔龙</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：猴猪牛马兔龙蛇<br>");
+document.writeln("			特码：33.45.30.42.28.40.35.47.26.38.25.37.36.48");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -55,7 +72,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			180期<font color=\'#FF0000\'>【狗急先锋牛马到，白姐指美在七九】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：明肖狗牛马，白姐解女肖鸡羊猪兔蛇</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：狗牛马羊猪兔蛇<br>");
+document.writeln("			<br>七肖：狗牛马羊猪<span style=\'background-color: #FFFF00\'>兔</span>蛇<br>");
 document.writeln("			特码：31.43.28.40.35.47.34.46.30.42.26.38.36.48");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

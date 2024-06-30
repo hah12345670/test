@@ -63,8 +63,14 @@ document.writeln("				03.15.14.26<br><br>");
 document.writeln("				179期蛇鸡<span style=\'background-color: #FFFF00\'>龙</span><br>");
 document.writeln("				11.47.05.41<br><br>");
 document.writeln("				180期猪羊鼠<br>");
-document.writeln("				31.43.02.14</font><br><br>");
-document.writeln("				");
+document.writeln("				31.43.<span style=\'background-color: #FFFF00\'>02</span>.14<br><br>");
+document.writeln("				181期鸡猪狗<br>");
+document.writeln("				26.38.15.03<br><br>");
+document.writeln("				182期虎龙马<br>");
+document.writeln("				08.20.22.46<br><br>");
+
+
+document.writeln("				</font>");
 document.writeln("				</tr>	");
 document.writeln("<!--结束-->");
 document.writeln("");

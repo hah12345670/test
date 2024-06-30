@@ -199,7 +199,7 @@ document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开兔14</font></
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
-、
+
 
 
 

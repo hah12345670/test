@@ -58,7 +58,8 @@ document.writeln("178期【羊兔蛇猪鼠猴狗马<span style=\'background-colo
 document.writeln("179期【羊猴狗猪蛇鸡马牛兔虎】×<br>		");
 document.writeln("180期【猴鸡<span style=\'background-color: #FFFF00\'>兔</span>虎牛羊狗龙马蛇】√<br>		");
 document.writeln("181期【猪龙牛羊猴鼠兔<span style=\'background-color: #FFFF00\'>虎</span>蛇狗】√<br>		");
-document.writeln("182期【鼠虎鸡猴羊马牛龙兔蛇】√<br>		");
+document.writeln("182期【鼠<span style=\'background-color: #FFFF00\'>虎</span>鸡猴羊马牛龙兔蛇】√<br>		");
+document.writeln("183期【兔猪龙马蛇鼠鸡狗牛虎】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");

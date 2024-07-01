@@ -48,6 +48,25 @@ document.writeln("");
 
 
 
+
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			183期<font color=\'#FF0000\'>【三五相加一七开，红双防蓝水火土】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：水火土解水肖鼠猪，火肖蛇马，土肖牛羊龙狗。</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：鼠猪牛羊狗蛇马<br>");
+document.writeln("			特码：29.41.30.42.28.40.34.46.31.43.36.48.35.47");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -56,7 +75,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			182期<font color=\'#FF0000\'>【今期六合出牛马，穿金戴银戴兰】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛马，穿金解金肖猴鸡，兰解蓝肖虎猪蛇猴</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：虎猪蛇猴鸡牛马<br>");
+document.writeln("			<br>七肖：<span style=\'background-color: #FFFF00\'>虎</span>猪蛇猴鸡牛马<br>");
 document.writeln("			特码：03.15.06.18.12.24.09.21.08.20.04.16.11.23");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

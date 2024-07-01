@@ -29,12 +29,18 @@ document.writeln("	琴：鸡兔蛇 棋：鼠牛狗<br> 书：马龙虎 画：羊
 document.writeln("	");
 document.writeln("	<!--结束-->");
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	183期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>画书棋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("<!--开始-->");
+
 
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	182期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>画书琴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("	182期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>画<span style=\'background-color: #FFFF00\'>书</span>琴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎27</span>准</font></font></b></font></table>");
 document.writeln("<!--开始-->");
 
 

@@ -60,7 +60,8 @@ document.writeln(" 179期【狗】√<br>");
 document.writeln(" 180期【龙】√<br>");
 document.writeln(" 181期【狗】×<br>");
 document.writeln(" 182期【猴】√<br>");
-document.writeln(" 183期【鸡】√<br>");
+document.writeln(" 183期【鸡】×<br>");
+document.writeln(" 184期【蛇】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -77,6 +78,7 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 document.writeln("180-181期出平<span style=\'background-color: #FFFF00\'>【马】</span>180期中<br>");
 document.writeln("181-182期出平<span style=\'background-color: #FFFF00\'>【猴】</span>181期中<br>");
 document.writeln("182-183期出平【蛇】000期中<br>");
+document.writeln("184-185期出平【鸡】000期中<br>");
 
 document.writeln("");
 document.writeln("");
@@ -118,7 +120,7 @@ document.writeln("180期【9尾】√<br>");
 document.writeln("181期【8尾】×<br>");
 document.writeln("182期【2尾】×<br>");
 document.writeln("183期【6尾】√<br>");
-
+document.writeln("184期【3尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -166,6 +168,7 @@ document.writeln("180期（13.47.17.14.34）√<br>");
 document.writeln("181期（38.18.40.34.27）×<br>");
 document.writeln("182期（12.29.02.20.17）×<br>");
 document.writeln("183期（43.11.01.21.38）√<br>");
+document.writeln("184期（43.09.02.12.11）√<br>");
 
 
 document.writeln("");

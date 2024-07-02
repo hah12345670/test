@@ -168,7 +168,7 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<p style=text-align:left><strong>");
 document.writeln("");
 document.writeln("		<a target=\'_blank\' href=\'https://j.1999zx.com:1999/\' style=\'text-decoration: none\'>");
-document.writeln("			<font color=\'#FF00FF\'><img src=https://584558.www62827b.com:8443/images/33567.gif width=20 height=19></font><span style=font-family:楷体;font-size:17pt;color:#FF00FF>点击投注六合彩注册1999彩票</span></a></strong></tr></table>");
+document.writeln("			<font color=\'#FF00FF\'><img src=https://8785aa.www62827a.com:8443/images/33567.gif width=20 height=19></font><span style=font-family:楷体;font-size:17pt;color:#FF00FF>点击投注六合彩注册1999彩票</span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("<!--推广结束-->	");
 document.writeln("");
@@ -274,7 +274,7 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<td height=40 align=\'left\'><p><strong>");
 document.writeln("");
 document.writeln("		<a target=\'_blank\' href=\'https://j.1999zx.com:1999/\' style=\'text-decoration: none\'>");
-document.writeln("			<font color=\'#FF00FF\'><img src=https://584558.www62827b.com:8443/images/33567.gif width=20 height=19></font><span style=font-family:楷体;font-size:17pt;color:#FF00FF>点击投注六合彩注册1999彩票</span></a></strong></tr></table>");
+document.writeln("			<font color=\'#FF00FF\'><img src=https://8785aa.www62827a.com:8443/images/33567.gif width=20 height=19></font><span style=font-family:楷体;font-size:17pt;color:#FF00FF>点击投注六合彩注册1999彩票</span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("<!--推广结束-->	");
 document.writeln("");

@@ -110,7 +110,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center>");
-document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://584558.www62827b.com:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62827c.com<br>常回来看看有你想要的<br>这里只推荐最好的资料</a></tr></table>");
+document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://8785aa.www62827a.com:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62827c.com<br>常回来看看有你想要的<br>这里只推荐最好的资料</a></tr></table>");
 document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");

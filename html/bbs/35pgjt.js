@@ -49,6 +49,23 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			185期<font color=\'#FF0000\'>【蓝波中特发大家，二上九下得零码】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：发大家解家肖鸡狗牛猪马羊。</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：鸡狗牛猪马羊猴<br>");
+document.writeln("			特码：08.20.07.19.04.16.06.18.11.23.10.22.09.21");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -58,8 +75,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			184期<font color=\'#FF0000\'>【今期生肖北方找，一五尾数有玄机】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：生肖北方找解北肖鼠牛猪。</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鼠牛猪狗马兔羊<br>");
-document.writeln("			特码：29.41.28.40.30.42.31.43.35.47.26.38.34.46");
+document.writeln("			<br>七肖：鼠牛<span style=\'background-color: #FFFF00\'>猪</span>狗马兔羊<br>");
+document.writeln("			特码：29.41.28.40.30.<span style=\'background-color: #FFFF00\'>42</span>.31.43.35.47.26.38.34.46");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

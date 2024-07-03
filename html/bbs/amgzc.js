@@ -51,7 +51,7 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.ku33a.net:4949/col/185/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.cgpoweredu.net:4949/col/185/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
@@ -106,7 +106,7 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.ku33a.net:4949/col/185/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.cgpoweredu.net:4949/col/185/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 

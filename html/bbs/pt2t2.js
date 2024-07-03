@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("185期：平特【蛇猪拖虎羊】开？00<br>");
+document.writeln("186期：平特【鼠兔拖鸡牛】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("185期：平特【<span style=\'background-color: #FFFF00\'>蛇猪</span>拖虎羊】开12.42.06<br>");
 document.writeln("------<br>");
 
 document.writeln("184期：平特【<span style=\'background-color: #FFFF00\'>猪</span>狗拖<span style=\'background-color: #FFFF00\'>猴</span>牛】开18.42.21<br>");

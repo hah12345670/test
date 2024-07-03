@@ -26,59 +26,17 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>贪狼天尊</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『四肖四码』</font></b></table>");
 document.writeln("");
 document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第184期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【马11.鸡20.狗31.鼠41】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-
-
 document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第181期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【牛40.<span style=\'background-color: #FFFF00\'>虎</span>15.猴21.羊34】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第185期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【龙13.鸡08.蛇12.猪30】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("            <!--开始--> ");
 
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第180期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【牛04.蛇12.虎39.<span style=\'background-color: #FFFF00\'>兔</span>14】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第179期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【蛇24.羊34.<span style=\'background-color: #FFFF00\'>龙</span>13.马23】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第176期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【<span style=\'background-color: #FFFF00\'>虎</span>15.马23.蛇12.猪30】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
 
 
 document.writeln("");

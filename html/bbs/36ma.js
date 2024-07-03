@@ -16,12 +16,25 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
+
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>184期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>185期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>00</font>准<br>");
+document.writeln("		       40.28.24.38.48.07.20.31.36.10.21.01<br>");
+document.writeln("			   26.43.37.18.15.06.29.05.42.46.14.35<br>");
+document.writeln("			   19.27.09.30.11.17.32.33.23.41.47.49</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>184期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】开<font color=\'#FF0000\'>42</font>准<br>");
 document.writeln("		       15.16.03.38.46.25.37.08.14.27.11.18<br>");
-document.writeln("			   22.41.19.17.21.26.39.32.07.13.42.30<br>");
+document.writeln("			   22.41.19.17.21.26.39.32.07.13.<span style=\'background-color: #FFFF00\'>42</span>.30<br>");
 document.writeln("			   10.49.36.44.12.45.23.35.02.09.48.20</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");

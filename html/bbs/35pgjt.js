@@ -54,10 +54,27 @@ document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
 document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			186期<font color=\'#FF0000\'>【牛羊猪兔中大奖，保家卫国求边开】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛羊猪兔，保家卫国解家肖猪牛鸡羊马狗。</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：猪牛鸡羊马狗兔<br>");
+document.writeln("			特码：06.18.04.16.08.20.10.22.11.23.07.19.02.14");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			185期<font color=\'#FF0000\'>【蓝波中特发大家，二上九下得零码】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：发大家解家肖鸡狗牛猪马羊。</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鸡狗牛猪马羊猴<br>");
+document.writeln("			<br>七肖：鸡狗牛<span style=\'background-color: #FFFF00\'>猪</span>马羊猴<br>");
 document.writeln("			特码：08.20.07.19.04.16.06.18.11.23.10.22.09.21");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

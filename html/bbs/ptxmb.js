@@ -63,6 +63,7 @@ document.writeln(" 182期【猴】√<br>");
 document.writeln(" 183期【鸡】×<br>");
 document.writeln(" 184期【蛇】√<br>");
 document.writeln(" 185期【鼠】√<br>");
+document.writeln(" 186期【牛】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -79,8 +80,8 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 document.writeln("180-181期出平<span style=\'background-color: #FFFF00\'>【马】</span>180期中<br>");
 document.writeln("181-182期出平<span style=\'background-color: #FFFF00\'>【猴】</span>181期中<br>");
 document.writeln("182-183期出平【蛇】000期中<br>");
-document.writeln("184-185期出平【鸡】000期中<br>");
-
+document.writeln("184-185期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>185期中<br>");
+document.writeln("186-187期出平【龙】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -88,8 +89,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐二期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-
 document.writeln("185-186期平码【05.23.30.11】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -121,6 +122,8 @@ document.writeln("182期【2尾】×<br>");
 document.writeln("183期【6尾】√<br>");
 document.writeln("184期【3尾】×<br>");
 document.writeln("185期【8尾】√<br>");
+document.writeln("186期【9尾】√<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -151,8 +154,8 @@ document.writeln("180-181期平尾<span style=\'background-color: #FFFF00\'>【2
 document.writeln("181-182期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>181期中<br>");
 document.writeln("182-183期平尾<span style=\'background-color: #FFFF00\'>【5尾】</span>182期中<br>");
 document.writeln("183-184期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>184期中<br>");
-document.writeln("185-186期平尾【2尾】000期中<br>");
-
+document.writeln("185-186期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>185期中<br>");
+document.writeln("186-188期平尾【8尾】000期中<br>");
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -171,6 +174,7 @@ document.writeln("182期（12.29.02.20.17）×<br>");
 document.writeln("183期（43.11.01.21.38）√<br>");
 document.writeln("184期（43.09.02.12.11）√<br>");
 document.writeln("185期（25.39.35.48.10）√<br>");
+document.writeln("186期（38.35.04.43.20）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

@@ -25,9 +25,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">186期一语中特【大出风头】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：成为舆论注意的中心，出头露面，显示个人的表现。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴猪羊龙狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">187期一语中特【错过时机】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：意思是丧失机会</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴狗兔虎鼠牛开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -63,49 +63,24 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">187期一语中特【拂袖而起】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：表示生气。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛马虎羊鼠狗开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">186期一语中特【低眉倒运】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：倒霉,失意。你记住吧!人总有个低眉倒运的时候</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠猪狗马猴鸡开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>鼠</span>猪狗马猴鸡开鼠29准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">183期一语中特【有功之臣】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：形指有功劳的人。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猪狗猴<span style=\'background-color: #FFFF00\'>龙</span>马开龙25准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">182期一语中特【春光如海】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：形容大地充满了明媚的春光。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠鸡牛蛇<span style=\'background-color: #FFFF00\'>虎</span>猴开虎27准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">181期一语中特【磨破口舌】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：比喻说了很多的话。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠蛇马兔龙<span style=\'background-color: #FFFF00\'>虎</span>开虎27准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
 
 
 

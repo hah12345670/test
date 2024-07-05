@@ -52,7 +52,7 @@ document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>07月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【27.29.04.15.26.16.28.49.44.<span style=\'background-color: #FFFF00\'>25</span>】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>1</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>07月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【27.<span style=\'background-color: #FFFF00\'>29</span>.04.15.26.16.28.49.44.<span style=\'background-color: #FFFF00\'>25</span>】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>2</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
 document.writeln("    </tr> ");
 document.writeln("        </table>  ");
 document.writeln("    <!--结束--> ");

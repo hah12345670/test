@@ -23,7 +23,7 @@ document.writeln("<img style=\'height:auto\' src=\'https://tk2.cgpoweredu.net:49
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.cgpoweredu.net:4949/col/186/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.cgpoweredu.net:4949/col/188/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

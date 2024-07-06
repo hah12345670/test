@@ -48,6 +48,21 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			188期<font color=\'#FF0000\'>【二字带头尾数七，红波有望出旺码】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：二字带头尾数七解羊马龙鸡牛猴兔</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：羊马龙鸡牛猴兔<br>");
+document.writeln("			特码：10.22.11.23.01.13.08.20.04.16.09.21.02.14");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -57,7 +72,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			187期<font color=\'#FF0000\'>【零五加三最理想，三六今期出头来】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：零五加三最理想解鼠虎牛狗兔猪鸡。</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鼠虎牛狗兔猪鸡<br>");
+document.writeln("			<br>七肖：鼠<span style=\'background-color: #FFFF00\'>虎</span>牛狗兔猪鸡<br>");
 document.writeln("			特码：05.17.03.15.04.16.07.19.02.14.06.18.08.20");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

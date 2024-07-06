@@ -111,7 +111,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半�
 document.writeln("		    ");
 
 
-document.writeln("		187期【猴狗羊】<br>		");
+document.writeln("		188期【鸡猪虎】<br>		");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -122,7 +122,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("			187期【龙狗+牛】<br><br>");
+document.writeln("			188期【虎龙+蛇】<br><br>");
 
 document.writeln("				");
 document.writeln("				");
@@ -138,8 +138,9 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 
 
 
-document.writeln("				187期鸡狗鼠<br>");
-document.writeln("				04.16.02.38<br><br>");
+
+document.writeln("				188期蛇龙猴<br>");
+document.writeln("				31.43.11.23<br><br>");
 
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -155,9 +156,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("187期<br>");
-document.writeln("30.01.07.35.25.27<br>");
-document.writeln("23.06.29.13.28.22<br>	");
+document.writeln("188期<br>");
+document.writeln("06.25.37.33.43.28<br>");
+document.writeln("17.07.39.11.03.45<br>	");
 
 
 
@@ -192,7 +193,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 
 
 
-document.writeln("187期【狗猪鸡蛇】<br><br>");
+document.writeln("188期【鸡马兔蛇】<br><br>");
 
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -203,18 +204,11 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【归彩】(8码)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("		    ");
 
-document.writeln("				185期？<br>");
-document.writeln("				【24.02.01.34】<br>");
-document.writeln("				【39.05.03.<span style=\'background-color: #FFFF00\'>42</span>】<br>	<br>				");
 
+document.writeln("				188期？<br>");
+document.writeln("				【02.45.08.39】<br>");
+document.writeln("				【44.29.24.43】<br>	<br>				");
 
-document.writeln("				186期？<br>");
-document.writeln("				【09.47.04.30】<br>");
-document.writeln("				【05.21.42.24】<br>	<br>				");
-
-document.writeln("				187期？<br>");
-document.writeln("				【25.32.22.26】<br>");
-document.writeln("				【46.23.42.16】<br>	<br>				");
 
 
 
@@ -237,9 +231,10 @@ document.writeln("		    ");
 
 
 
-document.writeln("				187期<br>");
-document.writeln("			（14.34.28.38.10）<br>");
-document.writeln("			（18.21.36.09.03）<br>	");
+document.writeln("				188期<br>");
+document.writeln("			（44.24.33.16.21）<br>");
+document.writeln("			（10.03.42.38.40）<br>	");
+
 
 
 
@@ -262,7 +257,7 @@ document.writeln("				184期鼠牛鸡+龙<br><br>");
 document.writeln("				185期马鼠<span style=\'background-color: #FFFF00\'>猪</span>+虎<br><br>");
 document.writeln("				186期<span style=\'background-color: #FFFF00\'>鼠</span>龙马+羊<br><br>");
 document.writeln("				187期马狗猴+牛<br><br>");
-
+document.writeln("				188期牛马蛇+鼠<br><br>");
 document.writeln("				");
 document.writeln("				</span><br>");
 document.writeln("		");

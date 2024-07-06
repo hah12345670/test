@@ -13,7 +13,7 @@ document.writeln("");
 document.writeln(".bizhong128 img {width:100%; border-collapse: collapse; font-weight: bold;}");
 document.writeln("</style>");
 document.writeln(" ");
-document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt188.jpg\' id=\'123sjkjpicx8\'>");
+document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt189.jpg\' id=\'123sjkjpicx8\'>");
 document.writeln("    <div class=\'bizhong128-box action-bz\'>");
 document.writeln("    </div>");
 document.writeln("    ");
@@ -25,7 +25,7 @@ document.writeln("    <span class=\'bizhong128-btn bizhong128-next\' onclick=\'n
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrx8=new Array(");
-
+document.writeln("\'/img/amhmt189.jpg\',");
 document.writeln("\'/img/amhmt188.jpg\',");
 document.writeln("\'/img/amhmt187.jpg\',");
 document.writeln("\'/img/amhmt186.jpg\',");
@@ -35,24 +35,11 @@ document.writeln("\'/img/amhmt183.jpg\',");
 document.writeln("\'/img/amhmt182.jpg\',");
 document.writeln("\'/img/amhmt181.jpg\',");
 document.writeln("\'/img/amhmt180.jpg\',");
-document.writeln("\'/img/amhmt179.jpg\',");
-document.writeln("\'/img/amhmt178.jpg\',");
-document.writeln("\'/img/amhmt177.jpg\',");
-document.writeln("\'/img/amhmt176.jpg\',");
-document.writeln("\'/img/amhmt175.jpg\',");
-document.writeln("\'/img/amhmt174.jpg\',");
-document.writeln("\'/img/amhmt173.jpg\',");
-document.writeln("\'/img/amhmt172.jpg\',");
-document.writeln("\'/img/amhmt171.jpg\',");
-document.writeln("\'/img/amhmt170.jpg\',");
-document.writeln("\'/img/amhmt169.jpg\',");
-document.writeln("\'/img/amhmt168.jpg\',");
-document.writeln("\'/img/amhmt167.jpg\',");
-document.writeln("\'/img/amhmt166.jpg\',");
 
 
 
-document.writeln("\'/img/amhmt165.jpg\'");
+
+document.writeln("\'/img/amhmt179.jpg\'");
 
 
 document.writeln(");");

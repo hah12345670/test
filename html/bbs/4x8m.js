@@ -13,16 +13,16 @@ document.writeln("<!-----结束----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>187期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
+document.writeln("<span style=\'color: #00F;\'>188期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
 document.writeln("</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【猪06.30】");
-document.writeln("【鸡20.44】<br>");
-document.writeln("【马11.23】");
-document.writeln("【羊22.34】<br>");
+document.writeln("【虎15.39】");
+document.writeln("【鸡32.44】<br>");
+document.writeln("【鼠17.41】");
+document.writeln("【狗07.31】<br>");
 document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>？00准</span></span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
@@ -44,23 +44,6 @@ document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>�
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 
-document.writeln("<!-----结束----->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>183期：</span><span style=\'color: #800000;\'>赌神</span><span style=\'color: #808000;\'>四肖八码</span>");
-document.writeln("</font></td></tr>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【鸡20.44】");
-document.writeln("【蛇12.36】<br>");
-document.writeln("【<span style=\'background-color: #FFFF00\'>龙</span>13.49】");
-document.writeln("【鼠05.17】<br>");
-document.writeln("开:<span style=\'color: #F00; background-color: #FFFF00;\'>龙25准</span></span></p>");
-document.writeln("</td></tr>");
-document.writeln("<!-----结束----->");
 
 
 

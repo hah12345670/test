@@ -47,6 +47,21 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			189期<font color=\'#FF0000\'>【年年有余透三一，秦楼楚馆处处通】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：秦楼楚馆处处通解猪猴马蛇兔狗龙</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：猪猴马蛇兔狗龙<br>");
+document.writeln("			特码：30.42.33.45.35.47.36.48.26.38.31.43.25.37");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -56,7 +71,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			188期<font color=\'#FF0000\'>【二字带头尾数七，红波有望出旺码】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：二字带头尾数七解羊马龙鸡牛猴兔</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：羊马龙鸡牛猴兔<br>");
+document.writeln("			<br>七肖：<span style=\'background-color: #FFFF00\'>羊</span>马龙鸡牛猴兔<br>");
 document.writeln("			特码：10.22.11.23.01.13.08.20.04.16.09.21.02.14");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

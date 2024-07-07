@@ -37,21 +37,22 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>188期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛猴猪马兔龙鼠虎狗</font></li>");
-document.writeln("            	<li><font size=\'3\'>188期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛猴猪马兔龙鼠</font></li>");
-document.writeln("            	<li><font size=\'3\'>188期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>牛猴猪马兔</font></li>");
-document.writeln("            	<li><font size=\'2\'>188期必中18码：</font><font size=\'2\' color=\'#FF0000\'>04.16.09.21.18.30.11.23.02.14.13.49.05.17.15.39.31.43</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>188期必中九码：</font><font size=\'2\' color=\'#FF0000\'>04.21.18.23.14.49.05.39.31</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>189期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>马羊鼠蛇鸡猪牛龙兔</font></li>");
+document.writeln("            	<li><font size=\'3\'>189期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>马羊鼠蛇鸡猪牛</font></li>");
+document.writeln("            	<li><font size=\'3\'>189期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>马羊鼠蛇鸡</font></li>");
+document.writeln("            	<li><font size=\'2\'>189期必中18码：</font><font size=\'2\' color=\'#FF0000\'>11.23.10.22.05.17.12.36.20.32.18.30.04.16.13.49.02.14</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>189期必中九码：</font><font size=\'2\' color=\'#FF0000\'>11.22.05.12.20.18.16.13.14</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>188期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>牛04</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>189期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>马11</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong5\'>");
 document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）九肖九码</div>");

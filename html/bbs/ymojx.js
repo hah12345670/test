@@ -24,6 +24,19 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第189期幽默猜测</font><font color=\'#FF0000\'>（足球)</font><font color=\'#000000\'>:足球老公是个超级球迷.有次去吃饭，菜单上有道菜名叫”中国足球”，老公点了.上菜后，—看是“臭豆腐炖猪蹄”.味道还好，就是老公脸色不怎么好..本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：足球解羊鸡牛猴虎狗<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：羊鸡牛猴虎狗</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\' height=\"115\">");
@@ -32,7 +45,7 @@ document.writeln("	2024年第188期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：龙凤呈祥解鸡羊鼠猴马龙<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：鸡羊鼠猴马龙</font></b></div>");
+document.writeln("	综合特肖：鸡</font><font size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font><font size=\'4\' color=\'#009900\'>鼠猴马龙</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

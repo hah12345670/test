@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("189期：平特【马猪拖兔狗】开？00<br>");
+document.writeln("190期：平特【猴鼠拖蛇狗】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("189期：平特【马<span style=\'background-color: #FFFF00\'>猪</span>拖<span style=\'background-color: #FFFF00\'>兔狗</span>】开42.26.43<br>");
 document.writeln("------<br>");
 document.writeln("188期：平特【<span style=\'background-color: #FFFF00\'>羊</span>马拖<span style=\'background-color: #FFFF00\'>猴</span>兔】开46.33<br>");
 document.writeln("------<br>");

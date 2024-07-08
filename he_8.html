@@ -960,6 +960,11 @@
 		    var qi = $('.qid').eq(0).attr('data-i');
 		    i=parseInt(qi);
 		    var url = 'https://amtk.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
+		    
+		    if(1874==4 && i==190){
+		        var url = "https://api1.49tkapi8.com/upload/images/20240708/ampgt2.jpg";
+		    }
+		    
 		    $('.img').attr("src", url);
 		    
 		    let u = '/Kj/kj?q=' + year+qi;
@@ -982,6 +987,10 @@
                 var i = $(this).attr('data-i');
                 i=parseInt(i);
                 var url = 'https://amtk.tuku.fit/galleryfiles/system/big-pic/col/2024'+'/'+i+'/'+name;
+                
+                if(1874==4 && i==190){
+    		        var url = "https://api1.49tkapi8.com/upload/images/20240708/ampgt2.jpg";
+    		    }
                 
                 $('.img').remove();
                 $('#content').append("<img class='img' alt='加载中……' src='"+url+"'>");

@@ -46,6 +46,20 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			190期<font color=\'#FF0000\'>【风调雨顺报吉昌，横行霸道不好人】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：风调雨顺报吉昌解风肖龙虎兔，雨肖鼠猪牛</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：龙虎兔鼠猪牛马<br>");
+document.writeln("			特码：01.13.03.15.02.14.05.17.06.18.04.16.11.23");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -55,8 +69,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			189期<font color=\'#FF0000\'>【年年有余透三一，秦楼楚馆处处通】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：秦楼楚馆处处通解猪猴马蛇兔狗龙</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：猪猴马蛇兔狗龙<br>");
-document.writeln("			特码：30.42.33.45.35.47.36.48.26.38.31.43.25.37");
+document.writeln("			<br>七肖：猪猴马蛇兔<span style=\'background-color: #FFFF00\'>狗</span>龙<br>");
+document.writeln("			特码：30.42.33.45.35.47.36.48.26.38.31.<span style=\'background-color: #FFFF00\'>43</span>.25.37");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

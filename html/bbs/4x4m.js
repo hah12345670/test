@@ -25,15 +25,18 @@ document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>贪狼天尊</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『四肖四码』</font></b></table>");
 document.writeln("");
+
+document.writeln("");
 document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第189期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【猪06.蛇36.猴21.马47】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第190期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【牛04.蛇36.马23.猴21】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
+document.writeln("");
 
 document.writeln("");
 document.writeln("            <!--开始--> ");

@@ -29,15 +29,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">189期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【18.42.02.14.39.28.26.37.04.29.11.34.35.32】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">190期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【16.49.03.47.12.18.27.20.22.09.13.10.45.04】</span></font></p>  	");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">186期:==14码中特==开鼠29准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【16.20.44.15.04.26.28.09.<span style=\'background-color: #FFFF00\'>29</span>.48.12.36.33.39】</span></font></p>  	");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

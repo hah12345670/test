@@ -54,11 +54,18 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("");
 document.writeln("<span style=\"font-size: 14pt\">");
 document.writeln("");
+
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <b><font size=\"5\">");
-document.writeln("189期:【前后特肖】开？00准<br></font><font size=\"5\" color=\"#FF0000\">");
-document.writeln("特肖：（前肖+马狗）</font></b></p>");
+document.writeln("190期:【前后特肖】开？00准<br></font><font size=\"5\" color=\"#FF0000\">");
+document.writeln("特肖：（前肖+猴猪）</font></b></p>");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <b><font size=\"5\">");
+document.writeln("189期:【前后特肖】开狗43准<br></font><font size=\"5\" color=\"#FF0000\">");
+document.writeln("特肖：（前肖+马<span style=\'background-color: #FFFF00\'>狗</span>）</font></b></p>");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");

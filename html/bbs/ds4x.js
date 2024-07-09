@@ -9,13 +9,25 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("<!--------->");
 document.writeln("<tr>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font color=\'#00F\' size=\'3\'>191期</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>马鼠虎猴</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
+document.writeln("<font size=\'3\'>牛蛇鸡猪</font></td>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("");
+document.writeln("<!--------->");
+document.writeln("<!--------->");
+document.writeln("<tr>");
+document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
 document.writeln("<font color=\'#00F\' size=\'3\'>190期</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>马龙虎鼠</font></td>");
+document.writeln("<font size=\'3\'>马龙虎<span style=\'background-color: #FFFF00\'>鼠</span></font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
 document.writeln("<font size=\'3\'>猪羊鸡蛇</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
+document.writeln("<font size=\'3\' color=\'#FF0000\'>鼠41</font></td></tr>");
 document.writeln("");
 document.writeln("<!--------->");
 

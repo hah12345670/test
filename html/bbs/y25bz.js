@@ -22,14 +22,13 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("190期码神哥五不中[32.40.08.41.14] <br>");
+document.writeln("191期码神哥五不中[01.11.37.33.15] <br>");
 document.writeln("	开奖:00-00-00-00-00-00 T00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -38,6 +37,9 @@ document.writeln("	资料网</font><font face=\'微软雅黑\' color=\'#FFFF00\'
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
+
+
 
 
 

@@ -51,17 +51,27 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.cgpoweredu.net:4949/col/190/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.cgpoweredu.net:4949/col/191/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第190期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第191期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【火眼金睛】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：《西游记》第七回写孙悟空被放在八卦炉里锻炼，他那一双被炉烟熏红的眼叫做火眼金睛，能识别各种妖魔鬼怪。借指能洞察一切的眼力。。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：鼠龙牛兔狗羊</font></b><br>");
+document.writeln("==========================<br>");
+
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第190期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鼠41中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【狗拿耗子】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：（歇后语）多管闲事。狗的职责是看守门户，猫是专捉老鼠的，所以狗替猫捉老鼠，就是多管闲事。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：马鼠鸡龙羊蛇</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：马<span style=\'background-color: #FFFF00\'>鼠</span>鸡龙羊蛇</font></b><br>");
 document.writeln("==========================<br>");
 
 
@@ -88,14 +98,14 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.cgpoweredu.net:4949/col/190/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.cgpoweredu.net:4949/col/191/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第190期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【春风红火烧绿树】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第191期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【西天取经绿红波】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");

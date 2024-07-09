@@ -1,6 +1,6 @@
 ﻿document.writeln("");
 document.writeln("");
-document.writeln("                <!--https://tk2.cgpoweredu.net:4949/col/72/ammh.jpg-->");
+document.writeln("                <!--https://tk2.moshoushijie.net:4949/col/72/ammh.jpg-->");
 document.writeln("");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");

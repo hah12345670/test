@@ -46,6 +46,19 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			191期<font color=\'#FF0000\'>【十年寒窗将逼去，苦迟甘来想荣华】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：十年寒窗将逼去解鸡牛猴猪羊兔龙</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：鸡牛猴猪羊兔龙<br>");
+document.writeln("			特码：08.20.04.16.09.21.06.18.10.22.02.14.01.13");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -54,7 +67,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			190期<font color=\'#FF0000\'>【风调雨顺报吉昌，横行霸道不好人】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：风调雨顺报吉昌解风肖龙虎兔，雨肖鼠猪牛</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：龙虎兔鼠猪牛马<br>");
+document.writeln("			<br>七肖：龙虎兔<span style=\'background-color: #FFFF00\'>鼠</span>猪牛马<br>");
 document.writeln("			特码：01.13.03.15.02.14.05.17.06.18.04.16.11.23");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

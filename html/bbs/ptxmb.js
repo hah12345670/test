@@ -68,7 +68,7 @@ document.writeln(" 187期【兔】√<br>");
 document.writeln(" 188期【狗】√<br>");
 document.writeln(" 189期【马】×<br>");
 document.writeln(" 190期【虎】√<br>");
-
+document.writeln(" 191期【鸡】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -88,8 +88,8 @@ document.writeln("182-183期出平【蛇】000期中<br>");
 document.writeln("184-185期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>185期中<br>");
 document.writeln("186-187期出平【龙】000期中<br>");
 document.writeln("188-189期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>188期中<br>");
-document.writeln("189-190期出平【羊】000期中<br>");
-
+document.writeln("189-190期出平<span style=\'background-color: #FFFF00\'>【羊】</span>190期中<br>");
+document.writeln("191-192期出平【蛇】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -114,10 +114,7 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 
 
-document.writeln("188期<span style=\'background-color: #FFFF00\'>【2尾】</span>√<br>");
-document.writeln("189期【4尾】×<br>");
-document.writeln("190期【7尾】√<br>");
-
+document.writeln("191期【4尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -152,7 +149,10 @@ document.writeln("185-186期平尾<span style=\'background-color: #FFFF00\'>【2
 document.writeln("186-187期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>186期中<br>");
 document.writeln("187-188期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>187期中<br>");
 document.writeln("188-189期平尾<span style=\'background-color: #FFFF00\'>【9尾】</span>188期中<br>");
-document.writeln("189-190期平尾【4尾】000期中<br>");
+document.writeln("189-190期平尾<span style=\'background-color: #FFFF00\'>【4尾】</span>190期中<br>");
+document.writeln("191-192期平尾【6尾】000期中<br>");
+
+
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -163,6 +163,9 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 document.writeln("189期（19.13.24.36.01）√<br>");
 document.writeln("190期（42.07.35.24.29）√<br>");
+document.writeln("191期（03.32.45.19.14）√<br>");
+
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

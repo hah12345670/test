@@ -59,79 +59,15 @@ document.writeln("");
 
 
 
-
-
-
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("190期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴鸡狗猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("187期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>虎</span>兔龙蛇马羊");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("185期玄机诗句<font color=\'#FF0000\'>【金屋藏娇定富贵，不是蛇头哭衰衰。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：金屋藏娇定富贵，金屋是猴鸡。藏娇，是女肖兔、蛇、羊、鸡、猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猴兔蛇羊鸡<span style=\'background-color: #FFFF00\'>猪</span>");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("183期玄机诗句<font color=\'#FF0000\'>【冲天香阵透长安，满城尽带黄金甲】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：兔马猴猪牛<span style=\'background-color: #FFFF00\'>龙</span>");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("180期玄机诗句<font color=\'#FF0000\'>【四季勤耕下农田，如今借得东风力。】</font>");
+document.writeln("191期玄机诗句<font color=\'#FF0000\'>【四季勤耕下农田，如今借得东风力。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：勤耕下农田，牛，也只常年忙碌，马狗；东风力，东方肖，虎兔龙，风肖，龙虎兔。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙虎<span style=\'background-color: #FFFF00\'>兔</span>牛马狗");
+document.writeln("<br><font color=\'#008000\'>解特：龙虎兔牛马狗");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("179期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>龙</span>蛇猴鸡狗猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
 
 
 

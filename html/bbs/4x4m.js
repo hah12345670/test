@@ -33,39 +33,11 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第191期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【龙01.羊22.狗31.蛇36】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第192期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【狗31.鸡08.蛇12.兔14】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第187期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【蛇12.<span style=\'background-color: #FFFF00\'>虎</span>15.猪30.马23】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第186期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【牛16.<span style=\'background-color: #FFFF00\'>鼠</span>05.羊22.猪18】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第185期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【龙13.鸡08.蛇12.<span style=\'background-color: #FFFF00\'>猪</span>30】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("            <!--开始--> ");
 
 
 

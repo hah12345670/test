@@ -41,10 +41,7 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("191期家【牛狗羊猪】野【鼠猴<span style=\'background-color: #FFFF00\'>虎</span>蛇】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("192期家【猪鸡牛马】野【虎猴兔蛇】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("193期家【狗猪马牛】野【龙鼠兔虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -69,8 +66,8 @@ document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【单双四
 document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
-
-document.writeln("192期单【马鼠龙狗】双【猪鸡羊兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期单【马鼠龙<span style=\'background-color: #FFFF00\'>狗</span>】双【猪鸡羊兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("193期单【马狗猴龙】双【鸡羊牛蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -92,16 +89,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("183期吉【兔羊<span style=\'background-color: #FFFF00\'>龙</span>蛇】凶【鼠狗猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("184期吉【兔蛇鸡马】凶【鼠虎狗<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("185期吉【蛇鸡兔龙】凶【鼠<span style=\'background-color: #FFFF00\'>猪</span>猴虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("186期吉【龙鸡马蛇】凶【<span style=\'background-color: #FFFF00\'>鼠</span>猪牛猴】<font color=\"#FF0000\">√</font><br>	");、
-document.writeln("187期吉【龙鸡兔马】凶【鼠猴牛狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("188期吉【马龙鸡<span style=\'background-color: #FFFF00\'>羊</span>】凶【虎狗猴鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("189期吉【马蛇羊兔】凶【鼠<span style=\'background-color: #FFFF00\'>狗</span>虎猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("190期吉【鸡蛇羊马】凶【<span style=\'background-color: #FFFF00\'>鼠</span>牛虎猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("191期吉【蛇马龙兔】凶【猴牛猪狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("192期吉【羊鸡龙马】凶【猴鼠猪虎】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("193期吉【羊马蛇龙】凶【猪虎鼠猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("		");
 document.writeln("");
@@ -130,7 +119,9 @@ document.writeln("188期天【龙猴马牛】地【虎鸡<span style=\'backgroun
 document.writeln("189期天【猪兔牛猴】地【鸡<span style=\'background-color: #FFFF00\'>狗</span>蛇羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("190期天【牛猪兔马】地【鸡虎<span style=\'background-color: #FFFF00\'>鼠</span>蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("191期天【兔龙猪牛】地【<span style=\'background-color: #FFFF00\'>虎</span>鼠狗蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("192期天【龙猪牛兔】地【蛇虎羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期天【龙猪牛兔】地【蛇虎羊<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("193期天【猪牛兔猴】地【蛇狗羊虎】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -159,7 +150,8 @@ document.writeln("188期【鸡猪兔虎龙牛蛇猴】<font color=\"#FF0000\">×
 document.writeln("189期【鸡猪兔猴<span style=\'background-color: #FFFF00\'>狗</span>鼠牛马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("190期【<span style=\'background-color: #FFFF00\'>鼠</span>牛马虎羊蛇龙猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("191期【<span style=\'background-color: #FFFF00\'>虎</span>猴牛鼠马羊鸡龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("192期【猪虎龙兔鼠狗羊牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期【猪虎龙兔鼠<span style=\'background-color: #FFFF00\'>狗</span>羊牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("193期【狗猪马兔羊龙鸡鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");
@@ -175,7 +167,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://8785aa.www62827a.com:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://xn--mdcx6gra7cc.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

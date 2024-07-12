@@ -36,7 +36,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>194期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【龙兔鼠羊牛】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>195期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【羊狗猴马牛】</font><font color=\'#000000\'>开？00准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("<!--开始-->");

@@ -12,8 +12,13 @@ document.writeln("<!--说明结束-->");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("195期（二尾拖二尾）<br>");
+document.writeln("【67拖58】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">16.07.35.48】</span>√<br>");
+
 document.writeln("194期（二尾拖二尾）<br>");
-document.writeln("【05拖69】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【05拖69】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开05.15.06.46（中2组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
 document.writeln("【杀平码<span style=\"background-color: #FFFF00\">20.25.36.49】</span>√<br>");
 
 document.writeln("193期（二尾拖二尾）<br>");

@@ -43,7 +43,9 @@ document.writeln("	<span style=\'font-size: 14pt\'>");
 document.writeln("");
 
 
-document.writeln("194期【蛇猪狗鸡马龙猴虎羊鼠】√<br>		");
+document.writeln("194期【蛇猪狗鸡马龙猴虎羊<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>		");
+document.writeln("195期【鼠龙鸡猴虎牛羊马兔狗】√<br>		");
+
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -67,7 +69,8 @@ document.writeln("");
 
 document.writeln("	192期【12<span style=\'background-color: #FFFF00\'>3</span>4头】√<br>		");
 document.writeln("	193期【32<span style=\'background-color: #FFFF00\'>0</span>4头】√<br>		");
-document.writeln("	194期【1320头】√<br>		");
+document.writeln("	194期【132<span style=\'background-color: #FFFF00\'>0</span>头】√<br>		");
+document.writeln("	195期【4321头】√<br>		");
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -82,8 +85,8 @@ document.writeln("	");
 document.writeln("<font size=\'4\' color=\'#0000FF\'>【老三主四行】√</font><font size=\'4\'><br>");
 
 document.writeln("193期【水<span style=\'background-color: #FFFF00\'>土</span>金火】√<br>			");
-document.writeln("194期【水金土火】√<br>			");
-
+document.writeln("194期【水金<span style=\'background-color: #FFFF00\'>土</span>火】√<br>			");
+document.writeln("195期【金火水木】√<br>			");
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -101,7 +104,10 @@ document.writeln("");
 document.writeln("	<br>");
 document.writeln("");
 document.writeln(" 193期【<span style=\'background-color: #FFFF00\'>4</span>6578390】√<br>	");
-document.writeln(" 194期【65490723】√<br>	");
+document.writeln(" 194期【6<span style=\'background-color: #FFFF00\'>5</span>490723】√<br>	");
+document.writeln(" 195期【28165047】√<br>	");
+
+
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");
@@ -118,8 +124,8 @@ document.writeln("");
 document.writeln("191期【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】√<br>  	");
 document.writeln("192期【红波<span style=\'background-color: #FFFF00\'>蓝波</span>】√<br>  	");
 document.writeln("193期【绿波<span style=\'background-color: #FFFF00\'>蓝波</span>】√<br>  	");
-document.writeln("194期【蓝波红波】√<br>  	");
-
+document.writeln("194期【蓝波红波】×<br>  	");
+document.writeln("195期【蓝波绿波】√<br>  	");
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

@@ -18,6 +18,16 @@ document.writeln("    <!--结束-->  ");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>195期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
+document.writeln("		       25.23.14.07.38.24.28.44.22.05.09.12<br>");
+document.writeln("			   46.06.13.40.19.39.26.42.36.33.11.20<br>");
+document.writeln("			   04.43.32.34.48.37.02.18.01.17.16.15</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
@@ -25,7 +35,7 @@ document.writeln("			<td align=\'center\' height=40>");
 document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>194期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
 document.writeln("		       40.36.09.28.01.45.46.15.16.47.23.35<br>");
 document.writeln("			   06.39.24.31.44.38.42.34.25.33.20.17<br>");
-document.writeln("			   13.27.32.19.07.37.22.48.05.29.26.03</font>");
+document.writeln("			   13.27.32.19.07.37.22.48.<span style=\'background-color: #FFFF00\'>05</span>.29.26.03</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
@@ -43,29 +53,6 @@ document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");
 
-
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>191期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
-document.writeln("		       27.26.33.31.20.34.40.04.09.12.13.29<br>");
-document.writeln("			   28.24.08.11.03.01.48.35.47.42.18.38<br>");
-document.writeln("			   45.16.23.<span style=\'background-color: #FFFF00\'>39</span>.32.46.15.10.49.22.07.30</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>189期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
-document.writeln("		       04.15.42.44.36.19.06.21.29.10.38.48<br>");
-document.writeln("			   03.05.14.18.25.13.27.01.16.32.41.45<br>");
-document.writeln("			   39.34.09.<span style=\'background-color: #FFFF00\'>43</span>.30.47.08.26.07.20.35.40</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
 
 
 

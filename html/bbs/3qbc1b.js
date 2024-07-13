@@ -29,7 +29,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>193-195期</font>【<font color=\'#FF0000\'>绿波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>195-197期</font>【<font color=\'#FF0000\'>绿波</font>】000期开<font color=\'#FF00FF\'>(00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
+document.writeln("	<font color=\'#008000\'>193-195期</font>【<font color=\'#FF0000\'>绿波</font>】194期开<font color=\'#FF00FF\'>(05)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -41,23 +48,6 @@ document.writeln("	<font color=\'#008000\'>192-194期</font>【<font color=\'#FF
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>188-190期</font>【<font color=\'#FF0000\'>红波</font>】188期开<font color=\'#FF00FF\'>(46)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>185-187期</font>【<font color=\'#FF0000\'>绿波</font>】187期开<font color=\'#FF00FF\'>(39)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

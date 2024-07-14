@@ -13,6 +13,27 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<font color=\'#0000FF\'><b>196期挂牌《八面玲珑》<br>");
+document.writeln("解释：形容为人处事圆滑，善于很周到地应付各个方面。<br>");
+document.writeln("解：龙羊鸡马猴鼠，挂:09 爆:马<br>");
+document.writeln("</b></font>");
+document.writeln("");
+document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
+document.writeln("");
+document.writeln("");
+document.writeln("<font size=\'3\'>七肖：龙羊鸡马猴鼠狗</font></span></p>");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
+document.writeln("");
+document.writeln("</tr></table></td>");
+document.writeln("<!--结束-->");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<font color=\'#0000FF\'><b>195期挂牌《天下英豪》<br>");
 document.writeln("解释：指的是英雄豪杰，即那些在社会上具有显著地位和影响力的人物。<br>");
 document.writeln("解：蛇猴狗猪马虎，挂:18 爆:马<br>");

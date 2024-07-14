@@ -50,7 +50,7 @@ document.writeln("<tr>");
 document.writeln("<td>");
 document.writeln("<p align=\"center\"><b><font color=\'#008000\'><span style=\"font-size: 16pt\">196期</span></font><span style=\"font-size: 16pt\"><img src=\'https://ghgh25.www57386a.com:8443/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'https://ghgh25.www57386a.com:8443/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
 document.writeln("<a target=\"_blank\" href=\"https://ghgh25.www57386a.com:8443/#22\">");
-document.writeln("<span style=\"text-decoration: none\"><font color=\"#000000\">57386b.com 已更新，进入查看</font></span></a></span></b></tr>");
+document.writeln("<span style=\"text-decoration: none\"><font color=\"#000000\">31 22 42 36 08 49 35 01 30 06 10 25 38</font></span></a></span></b></tr>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("");

@@ -17,9 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("196期：平特【牛猴拖龙蛇】开？00<br>");
+document.writeln("197期：平特【鼠牛拖虎猪】开？00<br>");
 document.writeln("------<br>");
-document.writeln("");
+
 document.writeln("195期：平特【<span style=\'background-color: #FFFF00\'>牛</span>狗拖<span style=\'background-color: #FFFF00\'>猴</span>龙】开40.21<br>");
 document.writeln("------<br>");
 document.writeln("");

@@ -47,16 +47,10 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（193期）</font><Br>");
-document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>牛</span>狗猴鸡虎鼠】<br> 	<br>	");
-document.writeln("");
-
-
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（195期）</font><Br>");
-document.writeln("		特肖【蛇龙兔鼠虎猪】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（196期）</font><Br>");
+document.writeln("		特肖【龙马虎兔猴牛】<br> 	<br>	");
 document.writeln("");
 
 
@@ -98,7 +92,8 @@ document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 document.writeln("");
 document.writeln("		193期必中平特【<span style=\'background-color: #FFFF00\'>虎+马</span>】√<br>	");
 document.writeln("		194期必中平特【<span style=\'background-color: #FFFF00\'>猪</span>+牛】√<br>	");
-document.writeln("		195期必中平特【猪+鼠】√<br>	");
+document.writeln("		195期必中平特【猪+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
+document.writeln("		196期必中平特【羊+猴】√<br>	");
 
 
 document.writeln("");
@@ -123,18 +118,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("		186期杀【31.43.30.47.48.24.15】√<br>");
-document.writeln("		187期杀【04.24.40.23.47.22.46】√<br>");
-document.writeln("		188期杀【49.30.42.39.15.25.34】√<br>");
-document.writeln("		189期杀【47.36.11.28.34.48.44】√<br>");
-document.writeln("		190期杀【10.01.19.07.36.27.03】√<br>");
-document.writeln("		191期杀【25.01.20.07.16.44.04】√<br>");
-document.writeln("		192期杀【14.23.20.34.26.18.10】√<br>");
-document.writeln("		193期杀【18.26.11.33.06.13.28】√<br>");
-document.writeln("		194期杀【21.43.10.05.22.11.07】×<br>");
 document.writeln("		195期杀【17.18.40.20.34.03.11】√<br>");
-
+document.writeln("		196期杀【08.29.48.32.05.06.04】√<br>");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -181,15 +166,8 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 
-document.writeln("		189期（绿肖）√<br>			");
 
-document.writeln("		190期（红肖）√<br>			");
-document.writeln("		191期（蓝肖）√<br>			");
-document.writeln("		192期（绿肖）√<br>			");
-document.writeln("		193期（蓝肖）×<br>			");
-document.writeln("		194期（绿肖）×<br>			");
-document.writeln("		195期（红肖）√<br>			");
-
+document.writeln("		196期（绿肖）√<br>			");
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
@@ -206,7 +184,10 @@ document.writeln("		191期【7<span style=\'background-color: #FFFF00\'>9</span>
 document.writeln("		192期【2569尾】×<br>				");
 document.writeln("		193期【1520尾】×<br>				");
 document.writeln("		194期【16<span style=\'background-color: #FFFF00\'>5</span>4尾】√<br>				");
-document.writeln("		195期【0591尾】√<br>				");
+document.writeln("		195期【059<span style=\'background-color: #FFFF00\'>1</span>尾】√<br>				");
+document.writeln("		196期【1486尾】√<br>				");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -228,7 +209,8 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 document.writeln("		192期（<span style=\'background-color: #FFFF00\'>3</span>.4头）√<br>	");
 document.writeln("		193期（4.3头）×<br>	");
 document.writeln("		194期（<span style=\'background-color: #FFFF00\'>0</span>.1头）√<br>	");
-document.writeln("		195期（0.3头）√<br>	");
+document.writeln("		195期（0.3头）×<br>	");
+document.writeln("		196期（4.0头）√<br>	");
 
 document.writeln("");
 document.writeln("		");
@@ -246,8 +228,8 @@ document.writeln("		191期红波+<span style=\'background-color: #FFFF00\'>绿�
 document.writeln("		192期红波+绿双<br>");
 document.writeln("		193期<span style=\'background-color: #FFFF00\'>蓝波</span>+红双<br>");
 document.writeln("		194期红波+<span style=\'background-color: #FFFF00\'>绿单</span><br>");
-document.writeln("		195期绿波+蓝双<br>");
-
+document.writeln("		195期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>");
+document.writeln("		196期蓝波+绿单<br>");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		");
@@ -277,7 +259,7 @@ document.writeln("		192期杀羊猴√<br>");
 document.writeln("		193期杀马羊√<br>");
 document.writeln("		194期杀龙马√<br>");
 document.writeln("		195期杀猪兔√<br>");
-
+document.writeln("		196期杀鼠猪√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -304,6 +286,9 @@ document.writeln("		192期杀蓝双√<br>");
 document.writeln("		193期杀蓝单√<br>");
 document.writeln("		194期杀红双√<br>");
 document.writeln("		195期杀红单√<br>");
+document.writeln("		196期杀蓝单√<br>");
+
+
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
 document.writeln(" </ul></td> </tr>");
@@ -331,7 +316,7 @@ document.writeln("		192期杀2头单√<br>	");
 document.writeln("		193期杀3头双√<br>	");
 document.writeln("		194期杀1头单√<br>	");
 document.writeln("		195期杀0头单√<br>	");
-
+document.writeln("		196期杀3头双√<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	</font><br>		");
@@ -342,8 +327,8 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 document.writeln("		192期杀1.4尾√<br>");
 document.writeln("		193期杀2.7尾√<br>");
 document.writeln("		194期杀6.8尾√<br>");
-document.writeln("		195期杀3.1尾√<br>");
-
+document.writeln("		195期杀3.1尾×<br>");
+document.writeln("		196期杀9.8尾√<br>");
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");

@@ -52,8 +52,8 @@ document.writeln("");
 document.writeln(" 192期【兔】√<br>");
 document.writeln(" 193期【蛇】√<br>");
 document.writeln(" 194期【狗】×<br>");
-document.writeln(" 195期【龙】√<br>");
-
+document.writeln(" 195期【龙】×<br>");
+document.writeln(" 196期【猴】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -73,7 +73,8 @@ document.writeln("189-190期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("191-192期出平<span style=\'background-color: #FFFF00\'>【蛇】</span>191期中<br>");
 document.writeln("192-193期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>192期中<br>");
 document.writeln("193-194期出平<span style=\'background-color: #FFFF00\'>【羊】</span>193期中<br>");
-document.writeln("195-196期出平【鼠】000期中<br>");
+document.writeln("195-196期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>195期中<br>");
+document.writeln("196-197期出平【虎】000期中<br>");
 
 
 document.writeln("");
@@ -83,8 +84,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐二期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-document.writeln("195-196期平码【26.18.36.21】000期中<br>");
-
+document.writeln("195-196期平码【<span style=\'background-color: #FFFF00\'>26</span>.18.36.<span style=\'background-color: #FFFF00\'>21</span>】195期中<br>");
+document.writeln("196-197期平码【13.31.47.33】000期中<br>");
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -98,7 +99,8 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 document.writeln("193期【9尾】√<br>");
 document.writeln("194期【3尾】×<br>");
-document.writeln("195期【6尾】√<br>");
+document.writeln("195期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
+document.writeln("196期【4尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -137,7 +139,9 @@ document.writeln("188-189期平尾<span style=\'background-color: #FFFF00\'>【9
 document.writeln("189-190期平尾<span style=\'background-color: #FFFF00\'>【4尾】</span>190期中<br>");
 document.writeln("191-192期平尾【6尾】000期中<br>");
 document.writeln("193-194期平尾<span style=\'background-color: #FFFF00\'>【5尾】</span>193期中<br>");
-document.writeln("194-195期平尾【7尾】000期中<br>");
+document.writeln("194-195期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>195期中<br>");
+document.writeln("196-197期平尾【0尾】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -153,7 +157,7 @@ document.writeln("192期（41.02.39.45.18）×<br>");
 document.writeln("193期（28.03.49.36.18）√<br>");
 document.writeln("194期（37.49.45.27.21）√<br>");
 document.writeln("195期（22.44.30.16.23）√<br>");
-
+document.writeln("196期（07.48.08.46.38）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

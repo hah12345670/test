@@ -24,7 +24,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第196期幽默猜测</font><font color=\'#FF0000\'>（电大)</font><font color=\'#000000\'>:电大一大学生被敌人抓了，敌人把他绑在了电线杆上，然后问他：说，你是哪里的？不说就电死你！大学生回了敌人一句话，结果被电死了，他说：我是电大的。..本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：电大解鼠鸡蛇羊猴牛<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：鼠鸡蛇羊猴牛</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("     ");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -34,7 +45,7 @@ document.writeln("	2024年第195期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：冬天解兔龙蛇鸡猴虎<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：兔龙蛇鸡猴虎</font></b></div>");
+document.writeln("	综合特肖：兔龙蛇鸡</font><font size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font><font size=\'4\' color=\'#009900\'>虎</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("     ");

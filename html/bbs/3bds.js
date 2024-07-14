@@ -12,11 +12,18 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("197期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单小双大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->	");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("196期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单大单大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("196期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单<span style=\'background-color: #FFFF00\'>大单</span>大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎39</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("");
@@ -48,40 +55,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("192期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单小双<span style=\'background-color: #FFFF00\'>大单</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗31</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("190期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单<span style=\'background-color: #FFFF00\'>大单</span>大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠41</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单大单<span style=\'background-color: #FFFF00\'>大双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>羊46</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("187期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双<span style=\'background-color: #FFFF00\'>大单</span>大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎39</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("186期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单<span style=\'background-color: #FFFF00\'>大单</span>小双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠29</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("185期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小单大单<span style=\'background-color: #FFFF00\'>大双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪42</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
 
 
 

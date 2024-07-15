@@ -49,11 +49,7 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
-document.writeln(" 192期【兔】√<br>");
-document.writeln(" 193期【蛇】√<br>");
-document.writeln(" 194期【狗】×<br>");
-document.writeln(" 195期【龙】×<br>");
-document.writeln(" 196期【猴】√<br>");
+document.writeln(" 197期【虎】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -74,7 +70,8 @@ document.writeln("191-192期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("192-193期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>192期中<br>");
 document.writeln("193-194期出平<span style=\'background-color: #FFFF00\'>【羊】</span>193期中<br>");
 document.writeln("195-196期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>195期中<br>");
-document.writeln("196-197期出平【虎】000期中<br>");
+document.writeln("196-197期出平<span style=\'background-color: #FFFF00\'>【虎】</span>196期中<br>");
+document.writeln("197-198期出平【兔】000期中<br>");
 
 
 document.writeln("");
@@ -99,9 +96,9 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 document.writeln("193期【9尾】√<br>");
 document.writeln("194期【3尾】×<br>");
-document.writeln("195期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
-document.writeln("196期【4尾】√<br>");
-
+document.writeln("195期【6尾】√<br>");
+document.writeln("196期【4尾】×<br>");
+document.writeln("197期【9尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -140,7 +137,8 @@ document.writeln("189-190期平尾<span style=\'background-color: #FFFF00\'>【4
 document.writeln("191-192期平尾【6尾】000期中<br>");
 document.writeln("193-194期平尾<span style=\'background-color: #FFFF00\'>【5尾】</span>193期中<br>");
 document.writeln("194-195期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>195期中<br>");
-document.writeln("196-197期平尾【0尾】000期中<br>");
+document.writeln("196-197期平尾<span style=\'background-color: #FFFF00\'>【0尾】</span>196期中<br>");
+document.writeln("197-198期平尾【3尾】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font>");
@@ -158,6 +156,9 @@ document.writeln("193期（28.03.49.36.18）√<br>");
 document.writeln("194期（37.49.45.27.21）√<br>");
 document.writeln("195期（22.44.30.16.23）√<br>");
 document.writeln("196期（07.48.08.46.38）√<br>");
+document.writeln("197期（01.11.14.02.08）√<br>");
+
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

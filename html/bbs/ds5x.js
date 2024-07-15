@@ -15,7 +15,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>196期</font><font color=\'#006600\'>【马狗猴龙鼠】【蛇猪兔羊牛】</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>197期</font><font color=\'#006600\'>【猴虎马鼠龙】【牛猪羊兔蛇】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

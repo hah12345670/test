@@ -30,6 +30,27 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong5\'>");
+document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）九肖九码</div>");
+document.writeln("	<div class=\'bizhong5-box\'>");
+document.writeln("    	<div class=\'bizhong5-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li><font size=\'3\'>197期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>马猪羊猴牛兔虎鸡鼠</font></li>");
+document.writeln("            	<li><font size=\'3\'>197期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>马猪羊猴牛兔虎</font></li>");
+document.writeln("            	<li><font size=\'3\'>197期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>马猪羊猴牛</font></li>");
+document.writeln("            	<li><font size=\'2\'>197期必中18码：</font><font size=\'2\' color=\'#FF0000\'>11.23.06.30.22.34.09.21.16.40.02.14.03.15.20.32.17.41</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>197期必中九码：</font><font size=\'2\' color=\'#FF0000\'>11.30.22.21.16.14.15.20.17</span></font></li>");
+document.writeln("");
+document.writeln("            	");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("    </div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>197期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>马11</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期结束-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong5\'>");
@@ -37,8 +58,8 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>196期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛兔狗猪鸡虎鼠羊马</font></li>");
-document.writeln("            	<li><font size=\'3\'>196期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛兔狗猪鸡虎鼠</font></li>");
+document.writeln("            	<li><font size=\'3\'>196期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>牛兔狗猪鸡<span style=\'background-color: #FFFF00\'>【虎】</span>鼠羊马</font></li>");
+document.writeln("            	<li><font size=\'3\'>196期必中七肖：</font><font size=\'3\' color=\'#FF0000\'>牛兔狗猪鸡<span style=\'background-color: #FFFF00\'>【虎】</span>鼠</font></li>");
 document.writeln("            	<li><font size=\'3\'>196期必中五肖：</font><font size=\'3\' color=\'#FF0000\'>牛兔狗猪鸡</font></li>");
 document.writeln("            	<li><font size=\'2\'>196期必中18码：</font><font size=\'2\' color=\'#FF0000\'>16.40.02.14.31.43.18.30.08.20.03.15.17.41.10.22.23.47</span></font></li>");
 document.writeln("             	<li><font size=\'2\'>196期必中九码：</font><font size=\'2\' color=\'#FF0000\'>16.14.31.18.20.03.17.22.23</span></font></li>");

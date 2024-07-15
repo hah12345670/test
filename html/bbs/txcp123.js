@@ -118,7 +118,7 @@ document.writeln("		193期【猪<span style=\'background-color: #FFFF00\'>牛</s
 document.writeln("		194期【马兔龙】<br>		");
 document.writeln("		195期【猪兔鸡】<br>		");
 document.writeln("		196期【鼠牛兔】<br>		");
-
+document.writeln("		197期【虎狗羊】<br>		");
 
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
@@ -130,6 +130,8 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小妖女】(2+1肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("			195期【<span style=\'background-color: #FFFF00\'>猴</span>龙+蛇】<br><br>");
 document.writeln("			196期【马羊+兔】<br><br>");
+document.writeln("			197期【狗牛+猪】<br><br>");
+
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -148,9 +150,11 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神�
 document.writeln("				195期<span style=\'background-color: #FFFF00\'>猴</span>龙虎<br>");
 document.writeln("				08.20.22.34<br><br>");
 
-
 document.writeln("				196期龙狗羊<br>");
 document.writeln("				03.15.23.47<br><br>");
+
+document.writeln("				197期鼠猴狗<br>");
+document.writeln("				15.27.24.36<br><br>");
 
 document.writeln("								");
 document.writeln("				</span></b></font></p>");
@@ -189,10 +193,14 @@ document.writeln("24.45.32.13.22.42<br>");
 document.writeln("46.23.<span style=\'background-color: #FFFF00\'>21</span>.44.27.33<br>	");
 
 
-
 document.writeln("196期<br>");
 document.writeln("15.14.38.31.36.44<br>");
 document.writeln("48.49.02.20.17.30<br>	");
+
+
+document.writeln("197期<br>");
+document.writeln("09.03.07.15.33.30<br>");
+document.writeln("13.11.22.31.48.08<br>	");
 
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -232,6 +240,8 @@ document.writeln("193期【猪猴羊马】<br><br>");
 document.writeln("194期【<span style=\'background-color: #FFFF00\'>鼠</span>兔猪龙】<br><br>");
 document.writeln("195期【龙狗羊牛】<br><br>");
 document.writeln("196期【牛猴猪马】<br><br>");
+document.writeln("197期【虎马蛇龙】<br><br>");
+
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
 document.writeln("		");
@@ -249,7 +259,12 @@ document.writeln("				【43.12.19.48】<br>	<br>				");
 
 document.writeln("				196期？<br>");
 document.writeln("				【35.49.47.24】<br>");
-document.writeln("				【39.07.11.22】<br>	<br>				");
+document.writeln("				【<span style=\'background-color: #FFFF00\'>39</span>.07.11.22】<br>	<br>				");
+
+document.writeln("				197期？<br>");
+document.writeln("				【41.48.05.28】<br>");
+document.writeln("				【45.49.23.04】<br>	<br>				");
+
 
 
 
@@ -275,9 +290,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				196期<br>");
-document.writeln("			（24.18.08.05.09）<br>");
-document.writeln("			（29.46.37.17.33）<br>	");
+document.writeln("				197期<br>");
+document.writeln("			（22.01.27.48.37）<br>");
+document.writeln("			（05.07.46.02.40）<br>	");
 
 
 
@@ -296,7 +311,7 @@ document.writeln("	");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高冷王子】(3+1肖)</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("	196期狗猴龙+羊<br><br>");
+document.writeln("	197期牛蛇狗+兔<br><br>");
 
 
 

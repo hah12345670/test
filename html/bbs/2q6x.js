@@ -36,8 +36,12 @@ document.writeln("");
 
 
 
+document.writeln("198-199期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙狗马鼠猪猴】</font>(000期√)<br>");
 
-document.writeln("197-198期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛猴龙猪鸡羊】</font>(000期√)<br>");
+
+
+
+document.writeln("197-198期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛猴龙猪鸡<span style=\'background-color: #FFFF00\'>羊</span>】</font>(197期√)<br>");
 
 
 

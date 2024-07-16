@@ -22,11 +22,21 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">198期一语中特【大费周折】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指事情复杂，办起来非常困难。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗龙兔虎猪鸡开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">197期一语中特【心劳计绌】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：绞尽脑汁，都想不出好的办法。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠羊鸡猴牛龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠<span style=\'background-color: #FFFF00\'>羊</span>鸡猴牛龙开羊10准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -75,9 +85,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">197期一语中特【强不凌弱】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：力量强大的不欺侮弱小的。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗猴鼠虎牛蛇开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">198期一语中特【溜干二净】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：非常干净把院子扫得溜干二净。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊猪蛇龙猴虎开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

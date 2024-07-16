@@ -28,10 +28,12 @@ document.writeln(" 		<b>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">198期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【13.45.40.18.32.20.11.17.34.37.43.39.48.49】</span></font></p>  	");
 document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">199期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【02.37.40.24.14.32.03.20.26.30.07.22.36.31】</span></font></p>  	");
+document.writeln("");
+
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <span style=\"font-size: 13pt\">197期:==14码中特==开羊10准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");

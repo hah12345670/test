@@ -83,7 +83,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://disanduisan.www29769c.com:8443/#62827c12\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;font-size:17pt;color:#00f>进入雷锋论坛</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>29827.com</font></span></a></strong></tr></table>");
+document.writeln("			<a target=\'_blank\' href=\'https://xn--0dc8co0bb0g.xn--odcx5aa9b5aro3bs5d2a7g4b8a.xn--gecrj9c:8443/#62827c12\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;font-size:17pt;color:#00f>进入雷锋论坛</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>29827.com</font></span></a></strong></tr></table>");
 document.writeln("");
 document.writeln("<!--推广结束-->	");
 document.writeln("</body>");

@@ -92,7 +92,7 @@ document.writeln("							");
 document.writeln("	");
 document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
-document.writeln("<a target=\'_blank\' href=\'https://asdfrgtqd.www68729c.com:888/#jrtj \'>");
+document.writeln("<a target=\'_blank\' href=\'https://xn--mdc8b0bq9ee8c.xn--ydcy1ampdgdo1d9dserctb.xn--gecrj9c:8443/#jrtj \'>");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");
 document.writeln("		<img border=\'0\' src=\'https://xn--mdcx6gra7cc.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/images/dingjian.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>澳利澳【稳赚18码】<br>【100中89！稳赚】<font color=\'#FF00FF\'>点击查看</font></b></span></a></font><br><br />");
 document.writeln("<!--结束-->	");

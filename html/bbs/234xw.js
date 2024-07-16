@@ -81,11 +81,11 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第197期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#008000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第198期日夜中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		（夜肖）<br>	");
-document.writeln("		主肖：鼠牛狗</font></b></td>");
+document.writeln("		（日肖）<br>	");
+document.writeln("		主肖：蛇马猴</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -118,6 +118,20 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("  <tbody>");
 document.writeln("");
 document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（198期）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\'>");
+document.writeln("		六肖【狗羊鸡虎兔猪】<br>	");
+document.writeln("		四肖：狗羊鸡虎</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
@@ -127,8 +141,8 @@ document.writeln("");
 document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（197期）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		六肖【猴羊鸡马鼠兔】<br>	");
-document.writeln("		四肖：猴羊鸡马</font></b></td>");
+document.writeln("		六肖【猴<span style=\'background-color: #FFFF00\'>羊</span>鸡马鼠兔】<br>	");
+document.writeln("		四肖：猴<span style=\'background-color: #FFFF00\'>羊</span>鸡马</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
@@ -200,6 +214,14 @@ document.writeln("<div class=\'zzhlzm-list\' style=\'font-size: large\'>");
 document.writeln("	<ul>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始三特-->");
+document.writeln("           <li>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("198期杀2肖2尾<font color=\'#0000FF\' size=\'5\'>【牛蛇+47尾】</font>√</font></b></font></table>");
+document.writeln("</li>");
+document.writeln("		<!--结束-->");
 document.writeln("		<!--开始三特-->");
 document.writeln("           <li>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
@@ -251,53 +273,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>197期：独平</font><font color=\'#FF0000\' size=\'5\'>【猪06】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>198期：独平</font><font color=\'#FF0000\' size=\'5\'>【兔02】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>194期：独平</font><font color=\'#FF0000\' size=\'5\'>【虎15】</font><font color=\'#000000\' size=\'4\'>开15准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>193期：独平</font><font color=\'#FF0000\' size=\'5\'>【牛16】</font><font color=\'#000000\' size=\'4\'>开04准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>192期：独平</font><font color=\'#FF0000\' size=\'5\'>【虎03】</font><font color=\'#000000\' size=\'4\'>开03准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>191期：独平</font><font color=\'#FF0000\' size=\'5\'>【狗31】</font><font color=\'#000000\' size=\'4\'>开19准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>188期：独平</font><font color=\'#FF0000\' size=\'5\'>【猴09】</font><font color=\'#000000\' size=\'4\'>开33准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>187期：独平</font><font color=\'#FF0000\' size=\'5\'>【马23】</font><font color=\'#000000\' size=\'4\'>开11准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-
-
 
 
 

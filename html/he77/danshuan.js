@@ -61,13 +61,13 @@ document.writeln("");
 document.writeln("")
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>198期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【？？？】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>198期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>197期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>197期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：羊10</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")

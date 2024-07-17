@@ -45,6 +45,19 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 document.writeln("");
 
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			199期<font color=\'#FF0000\'>【排行生肖有机寻，北方歌谣南方调】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：北方歌谣南方调解北方肖鼠猪牛，南方肖蛇羊马</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：鼠猪牛蛇羊马龙<br>");
+document.writeln("			特码：29.41.30.42.28.40.36.48.34.46.35.47.37.49");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
 
 document.writeln("<!--头部start-->");
 document.writeln("	");
@@ -54,7 +67,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			198期<font color=\'#FF0000\'>【二五六尾有钱拿，马会今期送特来】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：二五六解二兔牛，五龙鼠，六蛇猪，明肖马</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：马龙鼠蛇猪兔牛<br>");
+document.writeln("			<br>七肖：马龙鼠蛇猪兔<span style=\'background-color: #FFFF00\'>牛</span><br>");
 document.writeln("			特码：35.47.25.37.29.41.36.48.30.42.26.38.28.40");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

@@ -29,12 +29,28 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/198/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/199/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
+document.writeln("");
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第199期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（三言二语有意思）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：三言二语有意思，解狗虎兔蛇龙羊。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：狗虎兔蛇龙羊</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
 
 document.writeln("");
 document.writeln("              <!--开始--> ");
@@ -47,7 +63,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：七尽男儿壮四方，解兔狗牛马羊虎。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：兔狗牛马羊虎</font></b></td>");
+document.writeln("		综合特码：兔狗<span style=\'background-color: #FFFF00\'>牛</span>马羊虎</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 

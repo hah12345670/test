@@ -47,14 +47,14 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【龙蛇】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">194-199期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【兔猪】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">200-205期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
 document.writeln("		</span>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("             <!--开始-->");
 document.writeln("");
-document.writeln("");
+
 document.writeln("             <!--开始-->");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");

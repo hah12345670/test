@@ -31,6 +31,26 @@ document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.1777tz.com:1777\
 document.writeln("<p align=\'center\'>");
 document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\"font-size: 16pt\">点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></b></p></a></td></tr>");
 document.writeln("");
+
+
+document.writeln("");
+document.writeln(" <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第200期<font color=\'#FF00FF\'>【雷锋站长独家心水】</font></font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
+document.writeln("		【参考18码】<br>");
+document.writeln("	    牛04.40猪18.30龙13.49<br>");
+document.writeln("		鼠29.41蛇12.36鸡20.32<br>");
+document.writeln("		猴21.45马11.23虎03.15<br>");
+document.writeln("		  </font>  ");
+document.writeln("	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->  ");
 document.writeln("");
 document.writeln(" <!--开始-->  ");
 document.writeln("    	<tr>");
@@ -41,7 +61,7 @@ document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第199期<font color=
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
-document.writeln("	    虎15.27马23.47鼠05.41<br>");
+document.writeln("	    <span style=\'background-color: #FFFF00\'>虎15</span>.27马23.47鼠05.41<br>");
 document.writeln("		狗31.43猪06.42鸡20.32<br>");
 document.writeln("		龙13.49牛04.16兔02.14<br>");
 document.writeln("		  </font>  ");

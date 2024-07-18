@@ -234,7 +234,7 @@ document.writeln("<span class=\'title\'><b>200期<font color=\'#FF00FF\' style=\
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
-document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://ghgh25.www57386a.com:8443/gsb/300.html\' target=\'_self\'><div class=\'author\'>大雪纷飞</div><span class=\'badge\'>杀料贴</span>");
+document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://xn--secaq5b.xn--0dcaaz1ff5bzcvdxdtb1af.xn--gecrj9c:8443/gsb/300.html\' target=\'_self\'><div class=\'author\'>大雪纷飞</div><span class=\'badge\'>杀料贴</span>");
 document.writeln("<span class=\'title\'><b>200期<font color=\'#FF00FF\' style=\'font-size: 13pt\'>【绝杀一肖】</font>准准准</b><img src=/images/ao1.gif width=32 height=20></a></li></ul>");
 document.writeln("<!--结束-->");
 document.writeln("<!--开始-->");
@@ -254,7 +254,7 @@ document.writeln("<span class=\'title\'><b>200期<font color=\'#FF00FF\' style=\
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
-document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://dierdier.www87379b.com:8443/shagsb/003.html\' target=\'_self\'><div class=\'author\'>映梦采枫</div><span class=\'badge\'>");
+document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://xn--0dc7bm3dc.xn--ldc4cac6b6bm9aq3fzdyb4a.xn--gecrj9c:8443/shagsb/003.html\' target=\'_self\'><div class=\'author\'>映梦采枫</div><span class=\'badge\'>");
 document.writeln("		杀料贴</span>");
 document.writeln("<span class=\'title\'><b>200期<font color=\'#FF00FF\' style=\'font-size: 13pt\'>【绝杀三肖】</font>准准准</b><img src=/images/ao1.gif width=32 height=20></a></li></ul>");
 document.writeln("<!--结束-->");

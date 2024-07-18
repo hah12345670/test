@@ -61,7 +61,11 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（199期）</font><Br>");
-document.writeln("		特肖【虎鼠猪马鸡狗】<br> 	<br>	");
+document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>虎</span>鼠猪马鸡狗】<br> 	<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("                   <font color=\'#0000FF\'>（200期）</font><Br>");
+document.writeln("		特肖【牛蛇兔虎鼠羊】<br> 	<br>	");
 document.writeln("");
 
 
@@ -105,8 +109,8 @@ document.writeln("		193期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		194期必中平特【<span style=\'background-color: #FFFF00\'>猪</span>+牛】√<br>	");
 document.writeln("		195期必中平特【猪+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
 document.writeln("		197期必中平特【鸡+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
-document.writeln("		199期必中平特【猪+羊】√<br>	");
 
+document.writeln("		200期必中平特【马+猴】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -135,7 +139,7 @@ document.writeln("		196期杀【08.29.48.32.05.06.04】√<br>");
 document.writeln("		197期杀【35.16.18.31.14.34.40】√<br>");
 document.writeln("		198期杀【44.22.04.28.29.16.30】×<br>");
 document.writeln("		199期杀【31.04.22.36.27.30.40】√<br>");
-
+document.writeln("		200期杀【24.35.43.08.14.15.22】√<br>");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -183,7 +187,8 @@ document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 
 document.writeln("		198期（绿肖）√<br>			");
-document.writeln("		199期（红肖）√<br>			");
+document.writeln("		199期（红肖）×<br>			");
+document.writeln("		200期（蓝肖）√<br>			");
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
@@ -204,7 +209,10 @@ document.writeln("		195期【059<span style=\'background-color: #FFFF00\'>1</spa
 document.writeln("		196期【1486尾】×<br>				");
 document.writeln("		197期【8473尾】×<br>				");
 document.writeln("		198期【942<span style=\'background-color: #FFFF00\'>6</span>尾】√<br>				");
-document.writeln("		199期【3708尾】√<br>				");
+document.writeln("		199期【3708尾】×<br>				");
+document.writeln("		200期【4172尾】√<br>				");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -224,7 +232,7 @@ document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("		199期（4.3头）√<br>	");
+document.writeln("		200期（2.0头）√<br>	");
 document.writeln("");
 document.writeln("		");
 document.writeln("		");
@@ -245,8 +253,8 @@ document.writeln("		195期<span style=\'background-color: #FFFF00\'>绿波</span
 document.writeln("		196期蓝波+<span style=\'background-color: #FFFF00\'>绿单</span><br>");
 document.writeln("		197期红波+绿双<br>");
 document.writeln("		198期<span style=\'background-color: #FFFF00\'>绿波</span>+红波<br>");
-document.writeln("		199期蓝波+绿单<br>");
-
+document.writeln("		199期<span style=\'background-color: #FFFF00\'>蓝波</span>+绿单<br>");
+document.writeln("		200期绿波+蓝双<br>");
 
 document.writeln("		");
 document.writeln("		");
@@ -281,6 +289,8 @@ document.writeln("		196期杀鼠猪√<br>");
 document.writeln("		197期杀蛇狗√<br>");
 document.writeln("		198期杀猴马√<br>");
 document.writeln("		199期杀马兔√<br>");
+document.writeln("		200期杀羊牛√<br>");
+
 
 document.writeln("");
 document.writeln("");
@@ -312,6 +322,7 @@ document.writeln("		196期杀蓝单√<br>");
 document.writeln("		197期杀红双√<br>");
 document.writeln("		198期杀红单√<br>");
 document.writeln("		199期杀蓝双√<br>");
+document.writeln("		200期杀红单√<br>");
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -344,7 +355,7 @@ document.writeln("		196期杀3头双√<br>	");
 document.writeln("		197期杀1头单√<br>	");
 document.writeln("		198期杀2头双√<br>	");
 document.writeln("		199期杀0头单√<br>	");
-
+document.writeln("		200期杀3头双√<br>	");
 
 document.writeln("");
 document.writeln("");
@@ -356,6 +367,8 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 
 document.writeln("		198期杀3.2尾√<br>");
 document.writeln("		199期杀7.9尾√<br>");
+document.writeln("		200期杀6.2尾√<br>");
+
 
 document.writeln("");
 document.writeln("	    </b><br>	");
@@ -378,9 +391,9 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td>");
 document.writeln("	<p align=\'center\'><b><font size=\'4\' color=\'#FF0000\'>");
-document.writeln("	<a target=\'_blank\' href=\'https://785588.www73289b.com:8443/#112\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://xn--ldc4a8f5a.xn--0dcd4aab9ejtd2snbhcs.xn--gecrj9c:8443/#112\'>");
 document.writeln("	<span style=\'text-decoration: none\'>");
-document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://785588.www73289b.com:8443/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://785588.www73289b.com:8443/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
+document.writeln("	<img style=\'height: 34px; width:32px\' src=\'https://xn--ldc4a8f5a.xn--0dcd4aab9ejtd2snbhcs.xn--gecrj9c:8443/images/t01acb3648e0bce6d10.gif\'></span></a></font><a target=\'_blank\' href=\'https://xn--ldc4a8f5a.xn--0dcd4aab9ejtd2snbhcs.xn--gecrj9c:8443/#112\'><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>金牌</span></font><span style=\'text-decoration: none\'><font color=\'#FF0000\' style=\'font-size: 20pt\'>谜</font><font color=\'#008000\' style=\'font-size: 20pt\'>语</font><font size=\'4\' color=\'#0000FF\'>网：</font><font size=\'6\' color=\'#FF0000\'>2</font><font color=\'#FF0000\' style=\'font-size: 23pt\'>1</font><font color=\'#FF0000\' style=\'font-size: 22pt\'>6</font><font color=\'#008000\' style=\'font-size: 20pt\'>8</font><font color=\'#008000\' style=\'font-size: 19pt\'>9</font></span><font size=\'4\' color=\'#0000FF\'><span style=\'text-decoration: none\'>.com</span></font></a></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("  </table>");

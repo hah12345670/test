@@ -33,7 +33,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<div class=\'gsdh\' style=\'background-color: #FF0000\'>");
 document.writeln("");
-document.writeln("	<a target=\'_blank\' href=\'https://845aa.www82157b.com:8443/#626969\' style=\'text-decoration: none; font-weight: 700\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://xn--iecpa7b6b.xn--hdcakck9fcb2gqp1d.xn--gecrj9c:8443/#626969\' style=\'text-decoration: none; font-weight: 700\'>");
 document.writeln("	<font color=\'#FFFF00\' size=\'4\' face=\'黑体\'>广东兄弟组团创建广东八二站点击查看</font></a></div>");
 document.writeln("");
 document.writeln("");
@@ -100,7 +100,7 @@ document.writeln("<!--结束-->");
 
 document.writeln("");
 document.writeln("<!--开始-->");
-document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://785588.www73289b.com:8443/#49719\' target=\'_self\'><div class=\'author\'>金牌谜语");
+document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://xn--ldc4a8f5a.xn--0dcd4aab9ejtd2snbhcs.xn--gecrj9c:8443/#49719\' target=\'_self\'><div class=\'author\'>金牌谜语");
 document.writeln("</div><span class=\'badge\'>高手帖</span>");
 document.writeln("<span class=\'title\'><b>200期<font color=\'#FF0000\' style=\'font-size: 13pt\'>【平3.中3.】</font>36中32</b><img ");
 document.writeln("");

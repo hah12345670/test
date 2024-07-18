@@ -17,7 +17,7 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("200期：平特【马鼠拖鸡牛】开？00<br>");
+document.writeln("201期：平特【狗牛拖虎鼠】开？00<br>");
 document.writeln("------<br>");
 
 document.writeln("");

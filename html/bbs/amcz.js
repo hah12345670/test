@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/200/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/201/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,6 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
+document.writeln("\'https://tk2.moshoushijie.net:4949/col/201/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/200/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/199/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/198/ammh.jpg\',");
@@ -36,21 +37,10 @@ document.writeln("\'https://tk2.moshoushijie.net:4949/col/194/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/193/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/192/ammh.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/191/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/190/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/189/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/188/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/187/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/186/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/185/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/184/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/183/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/182/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/181/ammh.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/180/ammh.jpg\',");
 
 
 
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/179/ammh.jpg\'");
+document.writeln("\'https://tk2.moshoushijie.net:4949/col/190/ammh.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexsbx=0;");

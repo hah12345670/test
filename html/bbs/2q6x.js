@@ -35,9 +35,11 @@ document.writeln("");
 
 
 
+document.writeln("201-202期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛马鸡狗猪羊】</font>(000期√)<br>");
 
 
-document.writeln("200-201期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇兔马羊狗猴】</font>(000期√)<br>");
+
+document.writeln("200-201期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇兔马羊<span style=\'background-color: #FFFF00\'>狗</span>猴】</font>(200期√)<br>");
 
 
 

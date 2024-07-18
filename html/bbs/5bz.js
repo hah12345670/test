@@ -23,9 +23,10 @@ document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>199期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>11.41.37.02.15</font><font color=\'#0000FF\'>】准</font></b></font></table>");
+document.writeln("	<font face=\'楷体\' style=\'font-size: 17pt\'><b>200期5不中<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>19.12.10.21.31</font><font color=\'#0000FF\'>】准</font></b></font></table>");
 document.writeln("	<!--结束-->");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("				<!--开始-->");

@@ -14,9 +14,10 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	199期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>18.17.37.42.39</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
+document.writeln("	200期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>25.47.37.23.18</font><font color=\'#0000FF\'>】√</font></font></b></font></table>");
 document.writeln("		<!--开始-->");
 document.writeln("");
+
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");

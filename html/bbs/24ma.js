@@ -7,20 +7,21 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62827b.com</font><font color=\'#FFFFFF\'>『24码中特』</font></font></b></table></td></tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 
 document.writeln("<!-----开始----->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("199期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
+document.writeln("200期：<font color=\'#FF0000\'>【精准24码爆特】</font>开<font color=\'#FFFF00\'><span style=\'background-color: #000000\'>？00</span></font></font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<font color=\'#0000FF\'>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
 document.writeln("");
-document.writeln("（30.36.44.10.09.07.21.42.13.39.31.19）<br>");
-document.writeln("（18.23.12.20.04.40.28.17.02.05.16.27）</span></font></p>");
+document.writeln("（27.29.38.37.32.18.26.46.10.24.35.14）<br>");
+document.writeln("（31.30.39.02.05.21.49.33.03.13.06.28）</span></font></p>");
 document.writeln("</td></tr>");
 document.writeln("<!-----结束----->");
 

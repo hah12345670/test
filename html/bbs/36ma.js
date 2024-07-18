@@ -22,13 +22,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>199期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
-document.writeln("		       41.03.20.30.43.33.34.28.10.08.37.13<br>");
-document.writeln("			   16.44.32.21.31.36.12.38.11.18.24.49<br>");
-document.writeln("			   46.02.23.19.40.25.26.14.35.01.09.07</font>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>200期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
+document.writeln("		       43.40.15.03.27.37.39.17.38.49.47.32<br>");
+document.writeln("			   06.16.09.13.14.34.33.30.20.46.11.01<br>");
+document.writeln("			   07.41.08.45.28.35.24.10.21.22.26.25</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

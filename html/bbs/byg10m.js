@@ -34,7 +34,7 @@ document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<!--每期开始--家禽+猴鼠-->");
+document.writeln("<!--每期开始---->");
 document.writeln("		");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody>");
 document.writeln("");
@@ -46,7 +46,7 @@ document.writeln("<td style=\'border-color: #D0FFFF\' bgColor=\'#ffffff\' height
 document.writeln("<font color=\'#009900\'><span style=\'font-weight: 700; font-size: 13pt\'>201期家野中特</font></td>");
 document.writeln("<td style=\'border-color: #D0FFFF\'  bgColor=\'#ffffff\' height=\'36px\' width=\'35%\' align=\'center\' >");
 document.writeln("<b><font color=\'#FF0000\' style=\'font-size: 13pt\'>");
-document.writeln("【75827b.com 已更新连中17期】</font></b></td>");
+document.writeln("【家禽+猴鼠】</font></b></td>");
 document.writeln("<td style=\'border-color: #D0FFFF\'  bgColor=\'#ffffff\' height=\'36px\' width=\'30%\' align=\'center\' >");
 document.writeln("<span style=\'font-size: 13pt; font-weight: 700\'>开：<font color=\'#FF0000\'>？00</font>准</span></td>");
 document.writeln("</tr>");

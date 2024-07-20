@@ -52,13 +52,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>201期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>07月19号，六月十三</font><font color=\'#000000\'>，吉日五行:泉中水;猴日冲(戊寅)虎 ");
-document.writeln("	煞南,宿名：南方鬼金羊</font></td>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>202期:<font color=\'#000000\'>开奖日</font><font color=\'#FF0000\'>07月20号，六月十四</font><font color=\'#000000\'>，吉日五行:泉中水;鸡日冲(己卯)兔 ");
+document.writeln("	煞东,宿名：南方柳土獐</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:水行：12.13.20.21.28.29.42.43冲煞:猴虎 煞南：蛇马羊 ,星宿杀肖：牛,综合：蛇羊猪鼠虎猴狗马鸡 ");
-document.writeln("	本期主攻:蛇羊猪鼠虎，号码12.36.22.34.06.30.05.17.15.39</font></td>");
+document.writeln("	预测:凶,五行:水行：12.13.20.21.28.29.42.43冲煞:鸡兔 煞东：兔虎龙,星宿杀肖：马,综合：龙羊猪牛猴狗虎鼠鸡 ");
+document.writeln("	本期主攻:龙羊猪牛猴，号码13.25.10.22.06.30.04.16.21.33</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 

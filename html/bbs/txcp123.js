@@ -191,10 +191,7 @@ document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
 
-document.writeln("198期【狗<span style=\'background-color: #FFFF00\'>牛</span>蛇兔】<br><br>");
-document.writeln("199期【猴牛鸡猪】<br><br>");
-document.writeln("200期【马羊猪虎】<br><br>");
-document.writeln("201期【羊猴牛狗】<br><br>");
+document.writeln("202期【牛狗蛇虎】<br><br>");
 
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -244,6 +241,12 @@ document.writeln("				【37.02.41.23】<br>	<br>				");
 
 
 
+document.writeln("				202期？<br>");
+document.writeln("				【19.32.44.18】<br>");
+document.writeln("				【42.24.39.37】<br>	<br>				");
+
+
+
 
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -265,9 +268,9 @@ document.writeln("		    ");
 
 
 
-document.writeln("				201期<br>");
-document.writeln("			（05.26.36.38.20）<br>");
-document.writeln("			（33.03.37.21.28）<br>	");
+document.writeln("				202期<br>");
+document.writeln("			（22.14.45.36.07）<br>");
+document.writeln("			（44.34.40.03.13）<br>	");
 
 
 
@@ -289,7 +292,8 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高�
 document.writeln("	198期羊<span style=\'background-color: #FFFF00\'>牛</span>猴+兔<br><br>");
 document.writeln("	199期鼠蛇马+兔<br><br>");
 document.writeln("	200期牛鼠鸡+<span style=\'background-color: #FFFF00\'>狗</span><br><br>");
-document.writeln("	201期蛇龙虎+兔<br><br>");
+document.writeln("	201期蛇<span style=\'background-color: #FFFF00\'>龙</span>虎+兔<br><br>");
+document.writeln("	202期虎狗鸡+牛<br><br>");
 
 
 document.writeln("				");

@@ -36,58 +36,10 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>203期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【马兔猴虎牛】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>204期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【龙兔虎猴鸡】</font><font color=\'#000000\'>开？00准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("<!--开始-->");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font color=\'#000000\'>200期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【虎龙鼠兔马】</font><font color=\'#000000\'>开狗43准</font>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("<!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font color=\'#000000\'>199期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【羊猪鼠龙兔】</font><font color=\'#000000\'>开虎15准</font>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("<!--开始-->");
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font color=\'#000000\'>198期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【鸡狗马兔蛇】</font><font color=\'#000000\'>开牛16准</font>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font color=\'#000000\'>197期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【猴猪兔虎鼠】</font><font color=\'#000000\'>开羊10准</font>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("<!--开始-->");
-
 
 
 

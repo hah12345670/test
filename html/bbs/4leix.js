@@ -56,7 +56,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>203期四类<font color=\'#008000\'>【君王美女】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>204期四类<font color=\'#008000\'>【恶人美女】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 

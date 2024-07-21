@@ -26,11 +26,14 @@ document.writeln("");
 
 
 
-
+document.writeln("  <tr>");
+document.writeln("    <td>204期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>203期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>203期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>猴45</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -63,39 +66,6 @@ document.writeln("");
 document.writeln("");
 
 
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>193期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>牛04</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>192期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>狗31</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>189期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>狗43</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>188期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>羊46</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
 
 
 

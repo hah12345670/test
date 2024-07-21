@@ -1,7 +1,4 @@
-﻿document.writeln("");
-document.writeln("");
-document.writeln("<style>");
-document.writeln("");
+﻿
 document.writeln("<style>");
 document.writeln("bjbj {");
 document.writeln("background-color:#ffffff;");
@@ -10,7 +7,7 @@ document.writeln(".a1 td {");
 document.writeln("	border-bottom: solid 1px #c0c0c0;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("</style>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

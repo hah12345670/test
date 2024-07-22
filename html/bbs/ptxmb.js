@@ -81,7 +81,7 @@ document.writeln("196-197期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("197-198期出平【兔】000期中<br>");
 document.writeln("199-200期出平<span style=\'background-color: #FFFF00\'>【狗】</span>200期中<br>");
 document.writeln("201-202期出平<span style=\'background-color: #FFFF00\'>【牛】</span>201期中<br>");
-document.writeln("202-203期出平【龙】000期中<br>");
+document.writeln("204-205期出平【蛇】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -127,7 +127,7 @@ document.writeln("197-198期平尾<span style=\'background-color: #FFFF00\'>【3
 document.writeln("198-199期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>198期中<br>");
 document.writeln("199-200期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>199期中<br>");
 document.writeln("202-203期平尾【5尾】000期中<br>");
-
+document.writeln("204-205期平尾【1尾】000期中<br>");
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");

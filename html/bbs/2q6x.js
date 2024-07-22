@@ -34,7 +34,7 @@ document.writeln("");
 
 
 
-document.writeln("203-204期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔牛羊猪龙蛇】</font>(000期√)<br>");
+document.writeln("205-206期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛羊蛇兔马鸡】</font>(000期√)<br>");
 
 
 

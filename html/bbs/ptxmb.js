@@ -55,8 +55,8 @@ document.writeln(" 199期【鸡】√<br>");
 document.writeln(" 200期【鼠】×<br>");
 document.writeln(" 201期【龙】√<br>");
 document.writeln(" 202期【鼠】√<br>");
-document.writeln(" 203期【兔】√<br>");
-
+document.writeln(" 203期【兔】×<br>");
+document.writeln(" 204期【鼠】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -89,7 +89,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐二期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-document.writeln("202-203期平码【09.32.15.44】000期中<br>");
+document.writeln("202-203期平码【<span style=\'background-color: #FFFF00\'>09</span>.32.15.44】202期中<br>");
+document.writeln("204-205期平码【35.20.11.48】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -104,6 +105,8 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("201期【4尾】√<br>");
 document.writeln("202期【5尾】×<br>");
 document.writeln("203期【9尾】√<br>");
+document.writeln("204期【8尾】√<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -145,6 +148,9 @@ document.writeln("200期（29.35.31.27.32）√<br>");
 document.writeln("201期（24.05.11.46.12）×<br>");
 document.writeln("202期（42.07.48.11.26）×<br>");
 document.writeln("203期（19.24.22.38.40）√<br>");
+document.writeln("204期（26.12.47.29.09）√<br>");
+
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

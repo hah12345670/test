@@ -57,6 +57,7 @@ document.writeln(" 201期【龙】√<br>");
 document.writeln(" 202期【鼠】√<br>");
 document.writeln(" 203期【兔】×<br>");
 document.writeln(" 204期【鼠】√<br>");
+document.writeln(" 205期【虎】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -105,8 +106,8 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("201期【4尾】√<br>");
 document.writeln("202期【5尾】×<br>");
 document.writeln("203期【9尾】√<br>");
-document.writeln("204期【8尾】√<br>");
-
+document.writeln("204期【8尾】×<br>");
+document.writeln("205期【9尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -127,7 +128,10 @@ document.writeln("197-198期平尾<span style=\'background-color: #FFFF00\'>【3
 document.writeln("198-199期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>198期中<br>");
 document.writeln("199-200期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>199期中<br>");
 document.writeln("202-203期平尾【5尾】000期中<br>");
-document.writeln("204-205期平尾【1尾】000期中<br>");
+document.writeln("204-205期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>204期中<br>");
+document.writeln("205-206期平尾【6尾】000期中<br>");
+
+
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -149,7 +153,7 @@ document.writeln("201期（24.05.11.46.12）×<br>");
 document.writeln("202期（42.07.48.11.26）×<br>");
 document.writeln("203期（19.24.22.38.40）√<br>");
 document.writeln("204期（26.12.47.29.09）√<br>");
-
+document.writeln("205期（41.48.07.38.36）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

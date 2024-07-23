@@ -37,19 +37,40 @@ document.writeln("  <tbody>");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("  <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>205期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【6.4.9.0】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>206期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【9.6.0.5】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开？00】</span></font></font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("		解：数字6490尾或者解特鸡龙牛蛇猪虎兔马狗</font></b></td>");
+document.writeln("		解：数字9605尾或者解特鸡蛇牛马狗虎猪鼠龙</font></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
+document.writeln("		<font face=\'微软雅黑\' size=\'2\'>");
+document.writeln("		<a target=\'_blank\' href=\'https://xn--mdcx6gra7cc.xn--hdcl2bk2m1bc.xn--gecrj9c:8443\' style=\'text-decoration: none\'>");
+document.writeln("		<font color=\'#FFFFFF\'>关注资料网</font></font><font color=\'#FFFF00\' size=\'4\' face=\'微软雅黑\'>62827a.com</font><font color=\'#FFFFFF\' face=\'微软雅黑\' size=\'2\'>最早看料</font></a><font face=\'微软雅黑\' size=\'2\'><font color=\'#FFFFFF\'> </font>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln("  <!--开始-->");
+
+document.writeln("  <!--开始-->");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>205期：数字</font><font color=\'#FF0000\' style=\'font-size: 16pt; font-weight:700\'>【6.4.9.0】<font color=\'#FFFFFF\' size=\'3\'><span style=\'background-color: #000000\'>【开牛40】</span></font></font></font></td>");
+document.writeln("    </tr>");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		解：数字649<span style=\'background-color: #FFFF00\'>0</span>尾或者解特鸡龙<span style=\'background-color: #FFFF00\'>牛</span>蛇猪虎兔马狗</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");

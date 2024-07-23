@@ -23,7 +23,7 @@ document.writeln("<img style=\'height:auto\' src=\'https://tk2.moshoushijie.net:
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://tk2.moshoushijie.net:4949/col/204/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
+document.writeln("<img style=\'height:auto\' src=\'https://tk2.moshoushijie.net:4949/col/206/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");
 document.writeln("");
 
 

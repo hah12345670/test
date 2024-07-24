@@ -29,24 +29,26 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/205/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/206/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
-document.writeln("");
+
 document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第205期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
-document.writeln("		（花开富贵猴贺岁）<br></font>  ");
-document.writeln("		<font face=\'微软雅黑\' color=\'#0蛇猴龙马虎兔虎马兔猪狗蛇。</font><br>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第206期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（吼了四八四带一）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：吼了四八四带一，解兔猴虎鼠马蛇。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：蛇猴龙马虎兔</font></b></td>");
+document.writeln("		综合特码：兔猴虎鼠马蛇</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
+
 
 document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");

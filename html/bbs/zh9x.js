@@ -49,7 +49,8 @@ document.writeln("202期四季中特【夏<span style=\'background-color: #FFFF0
 document.writeln("203期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("204期四季中特【春秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("205期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("206期四季中特【春夏冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("207期四季中特【春秋冬】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -97,7 +98,10 @@ document.writeln("202期才艺中特【<span style=\'background-color: #FFFF00\'
 document.writeln("203期才艺中特【琴棋<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("204期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("205期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("206期才艺中特【棋琴书】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期才艺中特【棋<span style=\'background-color: #FFFF00\'>琴</span>书】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("207期才艺中特【琴书画】<font color=\"#FF0000\">√</font><br>	");
+
+
 document.writeln("");
 document.writeln("	");
 document.writeln("	<br>");
@@ -126,7 +130,8 @@ document.writeln("202期⑨肖【兔猪<span style=\'background-color: #FFFF00\'
 document.writeln("203期⑨肖【羊虎兔鸡蛇猪牛马狗】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("204期⑨肖【龙牛猴羊马蛇猪<span style=\'background-color: #FFFF00\'>鼠</span>虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("205期⑨肖【蛇虎鼠兔<span style=\'background-color: #FFFF00\'>牛</span>羊鸡狗猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("206期⑨肖【蛇猪虎狗牛鼠龙兔羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期⑨肖【蛇猪虎狗牛鼠龙<span style=\'background-color: #FFFF00\'>兔</span>羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("207期⑨肖【牛虎猴马羊猪狗鸡兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

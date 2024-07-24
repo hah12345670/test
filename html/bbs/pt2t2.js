@@ -18,8 +18,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("205期：平特【马猴拖蛇鼠】开？00<br>");
+document.writeln("206期：平特【猪牛拖羊蛇】开？00<br>");
 document.writeln("------<br>");
+
 
 
 

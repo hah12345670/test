@@ -22,17 +22,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("206期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>羊龙虎狗猴马</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("203期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>兔牛猪<span style=\'background-color: #FFFF00\'>猴</span>虎狗</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("202期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>蛇马<span style=\'background-color: #FFFF00\'>狗</span>龙兔虎</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
+document.writeln("207期<font color=\'#9933FF\'>六肖中特</font><font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>牛虎羊鼠兔鸡</font><font color=\'#0000FF\'>】</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

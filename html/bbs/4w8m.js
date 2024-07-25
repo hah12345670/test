@@ -23,14 +23,14 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'微软雅黑\'>");
-document.writeln("<span style=\'color: #00F;\'>206期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
+document.writeln("<span style=\'color: #00F;\'>207期：</span><span style=\'color: #FF0000;\'>逼哥</span><span style=\'color: #008080;\'>四尾八码</span>");
 document.writeln("开<font color=\'#FFFF00\'><span style=\'background-color: #FF0000\'>?00</span></font>准</font></td></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<p style=line-height:200%>");
 document.writeln("<span style=font-size:13pt;font-family:微软雅黑>");
-document.writeln("【6尾.7尾.1尾.5尾】<br>");
-document.writeln("【06.26.27.37.11.21.25.35】</span></p>");
+document.writeln("【8尾.7尾.2尾.4尾】<br>");
+document.writeln("【08.28.37.47.12.32.24.34】</span></p>");
 document.writeln("</td></tr>");
 document.writeln("<!--开始-->");
 

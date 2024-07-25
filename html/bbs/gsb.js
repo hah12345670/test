@@ -63,7 +63,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("<!--开始-->");
-document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://amwz.98986lhc.com/#69760' target=\'_self\'><div class=\'author\'>大神在线");
+document.writeln("<ul class=\'topic-list gs\'><li><a target=\'_blank\' href=\'https://tgaom.8736lhcw.com/#69760' target=\'_self\'><div class=\'author\'>大神在线");
 document.writeln("</div><span class=\'badge\'>高手帖</span>");
 document.writeln("<span class=\'title\'><b>207期<font color=\'#FF0000\' style=\'font-size: 13pt\'>【一肖一码】</font>连中中</b><img ");
 document.writeln("");

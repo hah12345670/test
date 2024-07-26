@@ -24,6 +24,24 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>208期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙行虎步夸英才，心想事成一八顺</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖龙虎,一解一位鼠一岁龙,八解八位羊八岁鸡.英才指才能超群的人,那太子和王肖都是最杰出的,解太子蛇马,王肖虎龙猴.综合得主兔蛇龙虎防猴鼠猴马狗</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：兔蛇龙虎猴鼠<br>");
+document.writeln("	特码：02.14.36.48.13.49.03.15.21.33.05.41</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
@@ -31,10 +49,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>山川大地景色好，龙行风雨雨方来</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖龙,风解风肖虎兔龙.雨解雨肖鼠牛猪.地字偏看地肖,好字偏看吉肖,属地肖吉肖的是蛇羊鸡,大偏看大码.心水诗大意是,虽景色好,也须要龙(领导者)来管理.好的管理者很重要.综合得主龙虎兔鼠防牛猪蛇羊鸡</font></div>");
+document.writeln("解析：预先解明肖龙,风解风肖虎兔龙.雨解雨肖鼠牛猪.地字偏看地肖,好字偏看吉肖,属地肖吉肖的是蛇羊鸡,大偏看大码.心水诗大意是,虽景色好,也须要龙(领导者)来管理.好的管理者很重要.综合得主龙虎兔鼠防牛<span style=\'background-color: #FFFF00\'>猪</span>蛇羊鸡</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙虎兔鼠牛猪<br>");
+document.writeln("	解特肖：龙虎兔鼠牛<span style=\'background-color: #FFFF00\'>猪</span><br>");
 document.writeln("	特码：25.49.03.15.02.14.17.41.04.40.30.42</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

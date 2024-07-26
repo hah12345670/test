@@ -74,6 +74,7 @@ document.writeln("  204期（平5*4+特-D2+平5+正3-2）=杀虎蛇√<br>		");
 document.writeln("  205期（平5*4+特-D2+平5+正3-2）=杀牛兔×<br>		");
 document.writeln("  206期（平5*4+特-D2+平5+正3-2）=杀狗马√<br>		");
 document.writeln("  207期（平5*4+特-D2+平5+正3-2）=杀兔蛇√<br>		");
+document.writeln("  208期（平5*4+特-D2+平5+正3-2）=杀龙鸡√<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -87,6 +88,7 @@ document.writeln("      204期（平4*2+正1-D3+正6+正3-特）=杀金√<br>		
 document.writeln("      205期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
 document.writeln("      206期（平4*2+正1-D3+正6+正3-特）=杀土√<br>			");
 document.writeln("      207期（平4*2+正1-D3+正6+正3-特）=杀木√<br>			");
+document.writeln("      208期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -103,7 +105,9 @@ document.writeln("		203期（平5-2-D2+正4）=杀14尾√<br>		");
 document.writeln("		204期（平5-2-D2+正4）=杀16尾√<br>		");
 document.writeln("		205期（平5-2-D2+正4）=杀26尾√<br>		");
 document.writeln("		206期（平5-2-D2+正4）=杀69尾√<br>		");
-document.writeln("		207期（平5-2-D2+正4）=杀82尾√<br>		");
+document.writeln("		207期（平5-2-D2+正4）=杀82尾×<br>		");
+document.writeln("		208期（平5-2-D2+正4）=杀92尾√<br>		");
+
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -132,7 +136,7 @@ document.writeln("		204期（平4+3-D1+正2-平3）=杀0头×<br>		");
 document.writeln("		205期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		206期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		207期（平4+3-D1+正2-平3）=杀4头√<br>		");
-
+document.writeln("		208期（平4+3-D1+正2-平3）=杀2头√<br>		");
 
 document.writeln("<br>");
 document.writeln("		");
@@ -160,8 +164,8 @@ document.writeln("        <font color=\'#0000FF\'>203期四头=201<span style=\'
 document.writeln("        <font color=\'#0000FF\'>204期四头=32<span style=\'background-color: #FFFF00\'>0</span>1√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>205期四头=012<span style=\'background-color: #FFFF00\'>4</span>√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>206期四头=4<span style=\'background-color: #FFFF00\'>1</span>03√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>207期四头=4012√</font><br>	");
-
+document.writeln("        <font color=\'#0000FF\'>207期四头=40<span style=\'background-color: #FFFF00\'>1</span>2√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>208期四头=3410√</font><br>	");
 document.writeln("		");
 document.writeln("<br>	");
 
@@ -173,22 +177,16 @@ document.writeln("		<font color=\'#0000FF\'>203期七肖=猪<span style=\'backgr
 document.writeln("		<font color=\'#0000FF\'>204期七肖=猪羊虎猴马牛<span style=\'background-color: #FFFF00\'>鼠</span>√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>205期七肖=鼠羊马猴<span style=\'background-color: #FFFF00\'>牛</span>虎猪√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>206期七肖=狗牛马鸡虎猪猴×</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>207期七肖=鸡鼠兔羊蛇马虎√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>207期七肖=鸡鼠兔羊蛇马虎×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>208期七肖=蛇鸡鼠狗猴猪龙√</font><br>		");
 
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("		");
 
-document.writeln("		<font color=\'#0000FF\'>198期三行=<span style=\'background-color: #FFFF00\'>火</span>水金√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>199期三行=金水<span style=\'background-color: #FFFF00\'>木</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>200期三行=<span style=\'background-color: #FFFF00\'>水</span>火木√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>201期三行=水木火×</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>202期三行=土火<span style=\'background-color: #FFFF00\'>水</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>203期三行=<span style=\'background-color: #FFFF00\'>木</span>金火√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>204期三行=<span style=\'background-color: #FFFF00\'>土</span>水木√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>205期三行=土水火×</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>206期三行=金土水×</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>207期三行=土木火√</font><br>			");
+
+document.writeln("		<font color=\'#0000FF\'>207期三行=<span style=\'background-color: #FFFF00\'>土</span>木火√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>208期三行=木金火√</font><br>			");
 
 document.writeln("		");
 document.writeln("		</span>		<br>		");
@@ -199,7 +197,8 @@ document.writeln("");
 
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">205期六尾=<span style=\'background-color: #FFFF00\'>0</span>67419√</span></font><br>");
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">206期六尾=651<span style=\'background-color: #FFFF00\'>4</span>93√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">207期六尾=357046√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">207期六尾=357046×</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">208期六尾=182304√</span></font><br>");
 
 document.writeln("");
 document.writeln("	");

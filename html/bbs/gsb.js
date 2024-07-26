@@ -47,7 +47,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<div class=\'gsdh\' style=\'background-color: #FF0000\'>");
-document.writeln("	<a target=\'_blank\' href=\'https://xn--0dc8co0bb0g.xn--odcx5aa9b5aro3bs5d2a7g4b8a.xn--gecrj9c:8443/#626969\' style=\'text-decoration: none; font-weight: 700\'>");
+document.writeln("	<a target=\'_blank\' href=\'https://xn--ldc4a5b1cm0dm3d.xn--hdcj3c4d7a4ic.xn--gecrj9c:8443/#626969\' style=\'text-decoration: none; font-weight: 700\'>");
 document.writeln("	<font color=\'#FFFF00\' size=\'4\' face=\'黑体\'>雷锋老牌论坛《独家18码》连中18期！</font></a></div>");
 document.writeln("");
 document.writeln("");

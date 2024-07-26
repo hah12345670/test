@@ -60,6 +60,7 @@ document.writeln(" 204期【鼠】√<br>");
 document.writeln(" 205期【虎】×<br>");
 document.writeln(" 206期【兔】√<br>");
 document.writeln(" 207期【虎】√<br>");
+document.writeln(" 208期【猴】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -74,8 +75,8 @@ document.writeln("摊位二推荐三期平特：</font><br>");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
-
-document.writeln("206-208期出平【猪】000期中<br>");
+document.writeln("206-208期出平<span style=\'background-color: #FFFF00\'>【猪】</span>207期中<br>");
+document.writeln("208-210期出平【马】000期中<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -83,8 +84,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐三期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-
-document.writeln("206-208期平码【03.45.48.05】000期中<br>");
+document.writeln("206-208期平码【03.45.48.<span style=\'background-color: #FFFF00\'>05</span>】207期中<br>");
+document.writeln("208-210期平码【43.37.28.26】000期中<br>");
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -96,7 +97,9 @@ document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 document.writeln("206期【1尾】√<br>");
-document.writeln("207期【6尾】√<br>");
+document.writeln("207期【6尾】×<br>");
+document.writeln("208期【0尾】√<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -122,8 +125,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-
 document.writeln("207期（38.34.32.31.46）√<br>");
+document.writeln("208期（49.35.26.01.10）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

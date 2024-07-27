@@ -28,7 +28,7 @@ document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
 document.writeln("    <td align=\'left\' height=\"115\">");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
-document.writeln("	2024年第208期幽默猜测</font><font color=\'#FF0000\'>（杂耍)</font><font color=\'#000000\'>:杂耍动物园里有一只很聪明的猩猩，经常带着自己的孩子做各种杂耍，这样惹得游客哈哈大笑，这样能为它们带来很多的水果和食物，今天猩猩的单脚独立能让游客开心吗？..本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("	2024年第209期幽默猜测</font><font color=\'#FF0000\'>（孤苦伶仃)</font><font color=\'#000000\'>:孤苦伶仃小狗从小孤苦伶仃，非常羡慕小鸡有个充满母爱的鸡妈妈，有一天小狗被主人驱赶出门，它哭泣着奔向鸡妈妈怀中，旁边的小鸡非常不屑的说：“这是我的位置，你走开.本期图片会给我们带来什么样的玄机呢</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：杂耍解狗马猪猴鸡龙<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");

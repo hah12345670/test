@@ -26,22 +26,22 @@ document.writeln("");
 document.writeln("<!---->");
 
 
-
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>208期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>209期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙行虎步夸英才，心想事成一八顺</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一缕初升羊开泰，牛蛇马春载满园</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖龙虎,一解一位鼠一岁龙,八解八位羊八岁鸡.英才指才能超群的人,那太子和王肖都是最杰出的,解太子蛇马,王肖虎龙猴.综合得主兔蛇龙虎防猴鼠猴马狗</font></div>");
+document.writeln("解析：预先解明肖羊牛蛇马.一解一位鼠一岁龙.春解春肖虎兔龙.玄机诗大意是当第一缕初升的太阳升起三羊开泰,一片吉祥.连牛蛇马都在充满春意的园子里甚是美好.综合得主羊牛蛇马防鼠猪虎兔龙</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：兔蛇龙虎猴鼠<br>");
-document.writeln("	特码：02.14.36.48.13.49.03.15.21.33.05.41</font></b></div>");
+document.writeln("	解特肖：羊牛蛇马鼠猪<br>");
+document.writeln("	特码：10.22.04.16.12.36.11.23.05.17.30.42</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");

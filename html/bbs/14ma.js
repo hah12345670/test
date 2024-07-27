@@ -30,8 +30,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">209期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【19.07.22.38.34.45.23.32.16.47.33.31.01.02】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">210期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【42.22.26.12.04.25.49.28.45.07.17.48.35.27】</span></font></p>  	");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">209期:==14码中特==开猴33准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【19.07.22.38.34.45.23.32.16.47.<span style=\'background-color: #FFFF00\'>33</span>.31.01.02】</span></font></p>  	");
 document.writeln("");
 
 document.writeln("");

@@ -51,71 +51,29 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/209/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/210/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第209期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第210期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：指守着树桩等待着兔子自己过来。现在常用来比喻抱着一定的侥幸心理,希望不努力,就能够有意外的收获。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗蛇猴鼠猪牛</font></b><br>");
+document.writeln("==========================<br>");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第209期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴33中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：像老虎一样有一种令人敬畏的气势。。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠猴鸡蛇牛</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠<span style=\'background-color: #FFFF00\'>猴</span>鸡蛇牛</font></b><br>");
 document.writeln("==========================<br>");
 
 
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第206期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔14中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【来龙去脉】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：原是过去风水先生的说法,认为山势如龙,从头到尾都有血脉连贯。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猪马<span style=\'background-color: #FFFF00\'>兔</span>蛇鼠猴</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第205期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛40中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【马不停蹄】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：比喻一刻也不停留，一直前进。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠猪猴羊虎<span style=\'background-color: #FFFF00\'>牛</span></font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第203期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴45中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【洋洋得意】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容得意时神气十足的神态。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：龙<span style=\'background-color: #FFFF00\'>猴</span>兔鼠牛马</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第202期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：狗43中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【猛虎下山】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：是形容猛虎下山时的威风。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鸡兔蛇猴<span style=\'background-color: #FFFF00\'>狗</span>羊</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第200期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：狗43中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【牛气冲天】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：比喻事业兴旺发达,红红火火、蒸蒸日上。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛蛇马猴兔<span style=\'background-color: #FFFF00\'>狗</span></font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第198期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛16中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【马上人生】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：马上人生，解蛇羊虎牛兔猪。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊虎<span style=\'background-color: #FFFF00\'>牛</span>兔猪</font></b><br>");
-document.writeln("==========================<br>");
 
 
 
@@ -129,13 +87,13 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/209/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/210/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第209期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【生肖特南红见蓝】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第210期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【有蓝有绿蓝带头】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 

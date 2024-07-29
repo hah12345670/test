@@ -50,78 +50,16 @@ document.writeln("");
 
 
 
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("210期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猴鸡牛龙马猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("207期玄机诗句<font color=\'#FF0000\'>【金屋藏娇定富贵，不是蛇头哭衰衰。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：金屋藏娇定富贵，金屋是猴鸡。藏娇，是女肖兔、蛇、羊、鸡、猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猴兔蛇羊鸡<span style=\'background-color: #FFFF00\'>猪</span>");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("205期玄机诗句<font color=\'#FF0000\'>【冲天香阵透长安，满城尽带黄金甲】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：兔马猴猪<span style=\'background-color: #FFFF00\'>牛</span>龙");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("204期玄机诗句<font color=\'#FF0000\'>【猪前狗后结亲家，看看地支是哪家。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：猪前狗后结亲家，得猪狗，看看地支是哪家，是地肖蛇羊鸡狗鼠虎。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猪狗蛇羊鸡<span style=\'background-color: #FFFF00\'>鼠</span>");
+document.writeln("211期玄机诗句<font color=\'#FF0000\'>【搅海翻江多摆布，劈邪除妖向前越。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：搅海翻江多摆布，搅海翻江，龙蛇猴马；劈邪除妖向前越，劈邪除妖，牛鬼蛇神，牛兔蛇。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴马牛兔");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("202期玄机诗句<font color=\'#FF0000\'>【四季勤耕下农田，如今借得东风力。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：勤耕下农田，牛，也只常年忙碌，马狗；东风力，东方肖，虎兔龙，风肖，龙虎兔。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙虎兔牛马<span style=\'background-color: #FFFF00\'>狗</span>");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("201期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>龙</span>蛇猴鸡狗猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
 
 
 

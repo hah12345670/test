@@ -34,84 +34,10 @@ document.writeln("");
 
 
 
-document.writeln("210-211期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猪牛虎龙羊马】</font>(000期√)<br>");
+document.writeln("212-213期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡猪猴蛇虎马】</font>(000期√)<br>");
 
 
 
-document.writeln("206-207期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠虎龙<span style=\'background-color: #FFFF00\'>猪</span>猴牛】</font>(207期√)<br>");
-
-
-
-
-document.writeln("205-206期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>牛</span>羊蛇兔马鸡】</font>(205期√)<br>");
-
-
-
-document.writeln("201-202期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛马鸡<span style=\'background-color: #FFFF00\'>狗</span>猪羊】</font>(202期√)<br>");
-
-
-
-document.writeln("200-201期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇兔马羊<span style=\'background-color: #FFFF00\'>狗</span>猴】</font>(200期√)<br>");
-
-
-
-
-
-
-document.writeln("197-198期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛猴龙猪鸡<span style=\'background-color: #FFFF00\'>羊</span>】</font>(197期√)<br>");
-
-
-
-
-document.writeln("195-196期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇牛马<span style=\'background-color: #FFFF00\'>虎</span>猪龙】</font>(196期√)<br>");
-
-
-
-
-document.writeln("193-194期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马<span style=\'background-color: #FFFF00\'>鼠</span>兔蛇猴狗】</font>(194期√)<br>");
-
-
-
-document.writeln("191-192期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔羊<span style=\'background-color: #FFFF00\'>狗</span>鸡蛇龙】</font>(192期√)<br>");
-
-document.writeln("");
-document.writeln("188-189期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【狗猪牛鼠<span style=\'background-color: #FFFF00\'>羊</span>猴】</font>(188期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("185-186期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠牛<span style=\'background-color: #FFFF00\'>猪</span>猴马虎】</font>(185期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("182-183期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠狗猪蛇兔<span style=\'background-color: #FFFF00\'>虎</span>】</font>(182期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("181-182期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇鼠牛马<span style=\'background-color: #FFFF00\'>虎</span>羊】</font>(181期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("177-178期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊<span style=\'background-color: #FFFF00\'>鸡</span>猪龙猴狗】</font>(178期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("176-177期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔蛇龙<span style=\'background-color: #FFFF00\'>虎</span>马羊】</font>(176期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("175-176期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊兔猴蛇虎<span style=\'background-color: #FFFF00\'>牛</span>】</font>(175期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("174-175期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙牛猪虎鼠<span style=\'background-color: #FFFF00\'>蛇</span>】</font>(174期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("173-174期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猴鸡兔虎<span style=\'background-color: #FFFF00\'>龙</span>猪】</font>(173期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("172-173期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗羊猪<span style=\'background-color: #FFFF00\'>鸡</span>猴】</font>(172期√)<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("170-171期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔虎蛇鼠猴<span style=\'background-color: #FFFF00\'>牛</span>】</font>(171期√)<br>");
-document.writeln("");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

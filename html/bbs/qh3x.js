@@ -31,49 +31,12 @@ document.writeln("	");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("211期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("212期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("210期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗19</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("206期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔14</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("205期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛40</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("204期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠05</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("203期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴45</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("200期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>后肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗43</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("199期前后中特<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>前肖</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎15</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

@@ -65,7 +65,7 @@ document.writeln("	");
 document.writeln("		<span><b><font size=\'4\'>212期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">【86563b.com 已更新】<br>进入论坛查看资料</font></b></span></tr>	");
+document.writeln("		<font style=\"font-size: 16pt\">【鸡狗鼠】<br>20.32.19.31.05.17</font></b></span></tr>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

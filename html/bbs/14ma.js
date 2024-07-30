@@ -30,8 +30,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">212期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【45.06.34.10.48.26.37.49.43.22.17.35.07.09】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">213期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【06.16.15.48.39.04.25.22.37.18.10.02.38.40】</span></font></p>  	");
 document.writeln("");
 
 

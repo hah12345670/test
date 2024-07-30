@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">211期一语中特【顺风扯旗】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：意思是顺着风向扯起旗子，比喻因势乘便行事。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊狗蛇虎兔马开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">212期一语中特【挑针打眼】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：苛评，带有一定程度的敌意的批评或评论</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙牛猪鸡羊虎开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -68,9 +68,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">211期一语中特【夷然不屑】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：是夷然:泰然;不屑:轻视.心中泰然，毫不在意。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎龙兔猪蛇狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">212期一语中特【想前顾后】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：想着前面,又顾虑后面。形容犹豫不决、矛盾重重的状态。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡狗蛇兔马牛开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

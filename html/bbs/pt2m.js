@@ -10,35 +10,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>212期：独平</font><font color=\'#FF3300\' size=\'5\'>【猪06.30】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>213期：独平</font><font color=\'#FF3300\' size=\'5\'>【虎15.27】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>209期：独平</font><font color=\'#FF3300\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>猴</span>09.<span style=\'background-color: #FFFF00\'>21</span>】</font><font color=\'#000000\' size=\'4\'>开猴21.33准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>208期：独平</font><font color=\'#FF3300\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>龙13</span>.49】</font><font color=\'#000000\' size=\'4\'>开龙13准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>207期：独平</font><font color=\'#FF3300\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>蛇24</span>.48】</font><font color=\'#000000\' size=\'4\'>开蛇24准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
 
 
 

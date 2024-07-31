@@ -15,9 +15,9 @@ document.writeln("<span style=\'color: #FF0000;\'>210期(2)连4.2倍(3)连11.12�
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【兔虎牛】【猴兔马】【猪蛇羊】</font></td></tr>");
+document.writeln("【牛鼠鸡】【龙鼠马】【马牛龙】</font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【龙马蛇】【虎鸡猪】【鼠马牛】</font><font color=\'#008000\'> </font>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【鸡鼠狗】【狗猴鸡】【牛狗马】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");
 document.writeln("<!------结束------>");
 document.writeln("");

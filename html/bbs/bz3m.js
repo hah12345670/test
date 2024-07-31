@@ -26,6 +26,20 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62827a.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『必中三码』</font></b></table>");
 
 
+document.writeln("      <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
+document.writeln("213-215期<font style=\'font-size: 14pt\'>【09.21.45】</font>第?0期中</span></font></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+
 
 document.writeln("      <!--开始-->");
 document.writeln("    ");
@@ -37,7 +51,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("211-213期<font style=\'font-size: 14pt\'>【22.34.46】</font>第?0期中</span></font></font></b></td>");
+document.writeln("211-213期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>22</span>.34.46】</font>第212期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 

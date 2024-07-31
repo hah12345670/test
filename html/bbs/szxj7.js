@@ -20,7 +20,20 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("<!--结束-->");
-
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'center\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'3\'>214期【四字玄机】</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>三八左右</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
+document.writeln("&#10146;&#10146;推荐特肖:兔狗羊鸡龙鼠<br>");
+document.writeln("	</font>");
+document.writeln("</b></font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--结束-->");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("  <tr>");
@@ -29,7 +42,7 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\' color=\'
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#000000\' size=\'5\'>『</font><font color=\'#008000\' size=\'5\'>一六前后</font><font color=\'#000000\' size=\'5\'>』</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b><font color=\'#000000\' size=\"4\">");
-document.writeln("&#10146;&#10146;推荐特肖:牛狗猪兔猴蛇<br>");
+document.writeln("&#10146;&#10146;推荐特肖:牛狗猪<span style=\'background-color: #FFFF00\'>兔</span>猴蛇<br>");
 document.writeln("	</font>");
 document.writeln("</b></font></div>");
 document.writeln("    </td>");

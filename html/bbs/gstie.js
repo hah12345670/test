@@ -57,10 +57,16 @@ document.writeln("<p align=\"left\">");
 document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
+
+document.writeln("213期必中12码：07.27.37.19.39.49.05.15.35.13.23.33<br>");
+document.writeln("213期必中六码：07.27.37.19.39.49<br>");
+document.writeln("213期必中①码：（7尾-07.27.37<br>）");
+document.writeln("213期必中三尾：7-9-5<br><br>");
+
 document.writeln("212期必中12码：09.19.39.27.37.47.13.23.33.26.36.46<br>");
 document.writeln("212期必中六码：09.19.39.27.37.47<br>");
-document.writeln("212期必中①码：（9尾-09.19.39）<br>");
-document.writeln("212期必中三尾：9-7-3<br><br>");
+document.writeln("212期必中①码：（<span style=\'background-color: #FFFF00\'>9尾</span>-09.19.39）<br>");
+document.writeln("212期必中三尾：<span style=\'background-color: #FFFF00\'>9</span>-7-3<br><br>");
 document.writeln("");
 document.writeln("211期必中12码：<span style=\"background-color: #FFFF00\">【20】</span>.30.40.29.39.49.04.14.34.27.37.47<br>");
 document.writeln("211期必中六码：<span style=\"background-color: #FFFF00\">【20】</span>.30.40.29.39.49<br>");

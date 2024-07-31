@@ -56,7 +56,9 @@ document.writeln("209期四季中特【春<span style=\'background-color: #FFFF0
 document.writeln("210期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("211期四季中特【春<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("212期四季中特【夏秋冬】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("213期四季中特【春夏冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("213期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("214期四季中特【春秋冬】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -82,37 +84,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 
 
-document.writeln("184期才艺中特【棋书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("185期才艺中特【琴棋<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("186期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("187期才艺中特【棋<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("188期才艺中特【琴书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("189期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("190期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>琴画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("191期才艺中特【棋<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("192期才艺中特【琴<span style=\'background-color: #FFFF00\'>棋</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("193期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书琴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("194期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("195期才艺中特【琴棋<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("196期才艺中特【棋<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("197期才艺中特【琴书棋】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("198期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("199期才艺中特【棋琴画】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("200期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("201期才艺中特【琴<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("202期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("203期才艺中特【琴棋<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("204期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("205期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("206期才艺中特【棋<span style=\'background-color: #FFFF00\'>琴</span>书】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("207期才艺中特【琴书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("208期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>琴画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("209期才艺中特【棋琴<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("210期才艺中特【琴<span style=\'background-color: #FFFF00\'>棋</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("211期才艺中特【棋书<span style=\'background-color: #FFFF00\'>琴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("212期才艺中特【琴棋画】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("213期才艺中特【棋书画】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("214期才艺中特【琴书画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<br>");
@@ -148,7 +120,9 @@ document.writeln("209期⑨肖【蛇马鼠狗虎<span style=\'background-color: 
 document.writeln("210期⑨肖【兔猴牛猪羊龙蛇鸡<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("211期⑨肖【马牛羊猴<span style=\'background-color: #FFFF00\'>鸡</span>龙虎鼠蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("212期⑨肖【蛇猴兔虎猪羊牛马狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("213期⑨肖【虎猪鼠狗羊蛇马牛兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("213期⑨肖【虎猪鼠狗羊蛇马牛<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("214期⑨肖【猴牛龙狗羊马猪蛇鸡】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("");
 document.writeln("	");

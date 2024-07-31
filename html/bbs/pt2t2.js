@@ -17,8 +17,9 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("213期：平特【猪蛇拖牛鸡】开？00<br>");
+document.writeln("214期：平特【牛龙拖羊猪】开？00<br>");
 document.writeln("------<br>");
+
 
 document.writeln("");
 document.writeln("212期：平特【马<span style=\'background-color: #FFFF00\'>鼠</span>拖猪<span style=\'background-color: #FFFF00\'>鸡</span>】开17.32.44<br>");

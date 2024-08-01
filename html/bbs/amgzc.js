@@ -51,9 +51,19 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/213/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/214/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第214期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【来龙去脉】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：过去风水先生的说法,认为山势如龙,从头到尾都有血脉连贯。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔鸡龙牛蛇鼠</font></b><br>");
+document.writeln("==========================<br>");
+
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -61,7 +71,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【牛气冲天】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：”比喻事业兴旺发达,红红火火、蒸蒸日上。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛狗鸡兔蛇虎</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：牛狗鸡<span style=\'background-color: #FFFF00\'>兔</span>蛇虎</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -95,18 +105,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/213/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/214/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第213期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红园春华万朵蓝】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第214期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【落天绿水去春游】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第213期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿49中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第212期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿49中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【春来遍地绿红油】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

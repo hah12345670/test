@@ -1,4 +1,4 @@
-﻿
+﻿document.writeln("");
 document.writeln("<style>");
 document.writeln("bjbj {");
 document.writeln("background-color:#ffffff;");
@@ -7,7 +7,7 @@ document.writeln(".a1 td {");
 document.writeln("	border-bottom: solid 1px #c0c0c0;");
 document.writeln("}");
 document.writeln("</style>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -86,14 +86,14 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【来料】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">000-000期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【猴鼠】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">215-220期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
 document.writeln("		</span>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("             <!--开始-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("             <!--开始-->");
 document.writeln("		<tr>");
@@ -101,14 +101,14 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【马猪】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">212-217期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【马</font><font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font><font color=\'#FF0000\' size=\'4\'>】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">212-217期开猪06)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
 document.writeln("		</span>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("             <!--开始-->");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

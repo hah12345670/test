@@ -49,6 +49,19 @@ document.writeln("");
 document.writeln("<table class=\'lhl\' width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>215期:<font color=\'#FF0000\'>开奖日08月02号，六月廿七，吉日五行:平地木;煞北-狗日冲(壬辰)龙 ,宿名：北方牛金牛</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:吉,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:狗龙 煞北：鼠猪牛,星宿杀肖：狗,<br>综合：蛇猴猪鸡牛兔虎马羊 ");
+document.writeln("	本期主攻:蛇猴猪鸡牛，号码12.24.09.21.18.30.08.20.04.16</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
+document.writeln("<!--每期开始-->");
 
 document.writeln("");
 document.writeln("<!--每期开始-->");
@@ -57,8 +70,8 @@ document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>214期:<font c
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:吉,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:鸡兔 煞东：兔虎龙,星宿杀肖：牛,<br>综合：猪虎狗马兔猴羊龙鸡 ");
-document.writeln("	本期主攻:猪虎狗马兔，号码06.30.15.27.31.43.11.23.02.14</font></td>");
+document.writeln("	预测:吉,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:鸡兔 煞东：兔虎龙,星宿杀肖：牛,<br>综合：<span style=\'background-color: #FFFF00\'>猪</span>虎狗马兔猴羊龙鸡 ");
+document.writeln("	本期主攻:<span style=\'background-color: #FFFF00\'>猪</span>虎狗马兔，号码<span style=\'background-color: #FFFF00\'>06</span>.30.15.27.31.43.11.23.02.14</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 document.writeln("");

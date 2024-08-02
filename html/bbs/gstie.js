@@ -63,7 +63,8 @@ document.writeln("	211期三肖中特<b><font size=\"5\">【马虎兔】</font><
 document.writeln("	212期三肖中特<b><font size=\"5\">【猴蛇<span style=\"background-color: #FFFF00\">龙</span>】</font></b>开:龙49准 <br>	");
 document.writeln("	213期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">兔</span>蛇鼠】</font></b>开:兔38准 <br>	");
 document.writeln("");
-document.writeln("	214期三肖中特<b><font size=\"5\">【虎羊鼠】</font></b>开:？00准 <br>	");
+document.writeln("	214期三肖中特<b><font size=\"5\">【虎羊鼠】</font></b>开:猪06错 <br>	");
+document.writeln("	215期三肖中特<b><font size=\"5\">【鸡龙牛】</font></b>开:？00准 <br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("</span></td></tr>");

@@ -51,44 +51,17 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/215/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/216/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第215期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【金鸡独立】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：用一条腿站立的姿势2.我国武术的一种姿势。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第216期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【洋洋得意】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容得意时神气十足的神态。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：鼠牛猪兔蛇马</font></b><br>");
-document.writeln("==========================<br>");
-
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第213期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【牛气冲天】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：”比喻事业兴旺发达,红红火火、蒸蒸日上。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：牛狗鸡<span style=\'background-color: #FFFF00\'>兔</span>蛇虎</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第210期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：狗19中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：指守着树桩等待着兔子自己过来。现在常用来比喻抱着一定的侥幸心理,希望不努力,就能够有意外的收获。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：<span style=\'background-color: #FFFF00\'>狗</span>蛇猴鼠猪牛</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第209期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴33中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：像老虎一样有一种令人敬畏的气势。。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠<span style=\'background-color: #FFFF00\'>猴</span>鸡蛇牛</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔马虎牛龙蛇</font></b><br>");
 document.writeln("==========================<br>");
 
 
@@ -105,34 +78,15 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/215/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/216/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第215期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红花绿水莫然去】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第216期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【一地绿草蓝马欢】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第215期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿06中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【落天绿水去春游】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第212期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿49中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【春来遍地绿红油】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第211期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝20中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝绿特波双绿到】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
-
 
 
 document.writeln("");

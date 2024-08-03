@@ -25,21 +25,48 @@ document.writeln("</style>");
 
 
 
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong7\'>");
 document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62827b.com）18码中特</div>");
 document.writeln("	<div class=\'bizhong7-box\'>");
 document.writeln("    	<div class=\'bizhong7-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>216期必中一头：<font color=\'#FF0000\' size=\'4\'>1</font></li>");
-document.writeln("            	<li>216期必中二头：<font color=\'#FF0000\' size=\'4\'>1-2</font></li>");
-document.writeln("            	<li>216期必中三头：<font color=\'#FF0000\' size=\'4\'>1-2-4</font></li>");
+document.writeln(" 	            <li>217期必中一头：<font color=\'#FF0000\' size=\'4\'>0</font></li>");
+document.writeln("            	<li>217期必中二头：<font color=\'#FF0000\' size=\'4\'>0-3</font></li>");
+document.writeln("            	<li>217期必中三头：<font color=\'#FF0000\' size=\'4\'>0-3-1</font></li>");
 document.writeln("");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong7-r\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>11.12.13.15.16.18</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>02.03.06.07.08.09</font></li>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>31.32.33.35.38.39</font></li>");
+document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>11.12.13.15.16.18</font></li>");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong7-foot\'>217期一头中特：<font color=\'#FF0000\' size=\'6\'>（0头）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong7\'>");
+document.writeln("	<div class=\'bizhong7-tit\'>一头一码（62827b.com）18码中特</div>");
+document.writeln("	<div class=\'bizhong7-box\'>");
+document.writeln("    	<div class=\'bizhong7-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li>216期必中一头：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【1】</span></font></li>");
+document.writeln("            	<li>216期必中二头：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【1】</span>-2</font></li>");
+document.writeln("            	<li>216期必中三头：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【1】</span>-2-4</font></li>");
+document.writeln("");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong7-r\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>11.12.13.<span style=\'background-color: #FFFF00\'>【15】</span>.16.18</font></li>");
 document.writeln("            	<li>①<font color=\'#FF0000\' size=\'4\'>21.23.25.26.28.29</font></li>");
 document.writeln("            	<li>③<font color=\'#FF0000\' size=\'4\'>41.42.43.45.46.48</font></li>");
 document.writeln("");

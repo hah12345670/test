@@ -42,8 +42,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 14pt\'>");
 document.writeln("");
 
-document.writeln("215期【马牛狗鼠虎龙猴羊猪兔】√<br>		");
-
+document.writeln("216期【鼠蛇猴虎鸡牛马龙兔猪】√<br>		");
 document.writeln("	");
 document.writeln("	");
 document.writeln("");
@@ -67,7 +66,9 @@ document.writeln("");
 
 document.writeln("	213期【124<span style=\'background-color: #FFFF00\'>3</span>头】√<br>		");
 document.writeln("	214期【<span style=\'background-color: #FFFF00\'>0</span>413头】√<br>		");
-document.writeln("	215期【2301头】√<br>		");
+document.writeln("	215期【<span style=\'background-color: #FFFF00\'>2</span>301头】√<br>		");
+document.writeln("	216期【4210头】√<br>		");
+
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -103,7 +104,9 @@ document.writeln("211期【金土<span style=\'background-color: #FFFF00\'>水</
 document.writeln("212期【金水火<span style=\'background-color: #FFFF00\'>土</span>】√<br>			");
 document.writeln("213期【金土水木】×<br>			");
 document.writeln("214期【金<span style=\'background-color: #FFFF00\'>木</span>水土】√<br>			");
-document.writeln("215期【木火水金】√<br>			");
+document.writeln("215期【木火<span style=\'background-color: #FFFF00\'>水</span>金】√<br>			");
+document.writeln("216期【水土木金】√<br>			");
+
 
 document.writeln("	</font>");
 document.writeln("	");
@@ -125,8 +128,8 @@ document.writeln(" 211期【<span style=\'background-color: #FFFF00\'>0</span>48
 document.writeln(" 212期【812735<span style=\'background-color: #FFFF00\'>9</span>6】√<br>	");
 document.writeln(" 213期【259314<span style=\'background-color: #FFFF00\'>8</span>0】√<br>	");
 document.writeln(" 214期【54<span style=\'background-color: #FFFF00\'>6</span>17032】√<br>	");
-document.writeln(" 215期【21753968】√<br>	");
-
+document.writeln(" 215期【21753968】×<br>	");
+document.writeln(" 216期【49175836】√<br>	");
 
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
@@ -142,7 +145,9 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("214期【<span style=\'background-color: #FFFF00\'>绿波</span>蓝波】√<br>  	");
-document.writeln("215期【绿波红波】√<br>  	");
+document.writeln("215期【绿波红波】×<br>  	");
+document.writeln("216期【绿波红波】√<br>  	");
+
 document.writeln("");
 document.writeln("           ");
 document.writeln("  </font>");

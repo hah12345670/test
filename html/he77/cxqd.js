@@ -19,12 +19,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>216期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬秋春】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>215期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春冬】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>215期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>秋</span>春冬】</font>开<font color=\'#ac6a00\'>鸡20</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -84,36 +89,6 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>207期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>冬</span>秋春】</font>开<font color=\'#ac6a00\'>猪18</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>206期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>夏】</font>开<font color=\'#ac6a00\'>兔14</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>205期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>冬</span>秋春】</font>开<font color=\'#ac6a00\'>牛40</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>204期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春<span style=\'background-color: #FFFF00\'>冬</span>】</font>开<font color=\'#ac6a00\'>鼠05</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
 
 
 

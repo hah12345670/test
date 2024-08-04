@@ -52,7 +52,8 @@ document.writeln("");
 document.writeln(" 213期【羊】√<br>");
 document.writeln(" 214期【虎】√<br>");
 document.writeln(" 215期【羊】×<br>");
-document.writeln(" 216期【鼠】√<br>");
+document.writeln(" 216期【鼠】×<br>");
+document.writeln(" 217期【鸡】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -73,17 +74,14 @@ document.writeln("210-212期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("211-213期出平<span style=\'background-color: #FFFF00\'>【蛇】</span>211期中<br>");
 document.writeln("212-214期出平<span style=\'background-color: #FFFF00\'>【羊】</span>212期中<br>");
 document.writeln("213-215期出平<span style=\'background-color: #FFFF00\'>【狗】</span>213期中<br>");
-document.writeln("214-216期出平【马】000期中<br>");
+document.writeln("217-219期出平【猴】000期中<br>");
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐三期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-document.writeln("206-208期平码【03.45.48.<span style=\'background-color: #FFFF00\'>05</span>】207期中<br>");
-document.writeln("208-210期平码【43.37.<span style=\'background-color: #FFFF00\'>28</span>.26】208期中<br>");
-document.writeln("209-211期平码【<span style=\'background-color: #FFFF00\'>29</span>.10.04.33】209期中<br>");
-document.writeln("213-215期平码【41.23.10.25】000期中<br>");
+document.writeln("217-219期平码【14.28.42.15】000期中<br>");
 
 
 document.writeln("");
@@ -96,7 +94,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("215期<span style=\'background-color: #FFFF00\'>【3尾】</span>√<br>");
-document.writeln("216期【2尾】√<br>");
+document.writeln("216期【2尾】×<br>");
+document.writeln("217期【4尾】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font><br>");
@@ -127,7 +126,7 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 document.writeln("215期（01.47.20.25.44）√<br>");
 document.writeln("216期（22.29.14.35.24）√<br>");
-
+document.writeln("217期（16.17.26.46.03）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

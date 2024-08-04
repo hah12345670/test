@@ -51,7 +51,7 @@ document.writeln("<p align=\"center\">214期：△<font color=\"#808080\">王牌
 document.writeln("<p align=\"center\">215期：△<font color=\"#808080\">王牌⑾码</font>♂【</font><font color=\"#0000FF\"><font size=\"2\">35.06.46.41.40.39.</font><font size=\"5\"><span style=\"background-color: #FF0000\">20</span></font><font size=\"2\">.22.38.08.19</font></font><font size=\"2\">】开：鸡20中</p>");
 document.writeln("<p align=\"center\">216期：△<font color=\"#808080\">王牌⑾码</font>♂【</font><font color=\"#0000FF\"><font size=\"2\">23.31.18.09.33.</font><font size=\"5\"><span style=\"background-color: #FF0000\">15</span></font><font size=\"2\">.25.49.43.44.38</font></font><font size=\"2\">】开：虎15中</p>");
 document.writeln("</font><font size=\"5\" style=\"font-size: 13pt\">");
-document.writeln("<p align=\"center\"><font style=\"font-size: 11pt\">217期：△<font color=\"#808080\">王牌⑾码</font>♂【</font></font><font color=\"#0000FF\" size=\"3\">广东会75827b.com 高手榜已更新</font>】开：？00中</p></p>");
+document.writeln("<p align=\"center\"><font style=\"font-size: 11pt\">217期：△<font color=\"#808080\">王牌⑾码</font>♂【</font></font><font color=\"#0000FF\" size=\"3\">31.41.13.05.18.45.10.11.09.22.17</font>】开：？00中</p></p>");
 document.writeln("");
 document.writeln("");
 document.writeln("</b>				");

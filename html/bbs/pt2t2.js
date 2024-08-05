@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("217期：平特【狗猪拖马鸡】开？00<br>");
+document.writeln("218期：平特【蛇兔拖猪羊】开？00<br>");
 document.writeln("------<br>");
 
 

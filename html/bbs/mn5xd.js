@@ -43,8 +43,8 @@ document.writeln("	<span style=\'font-size: 14pt\'>");
 document.writeln("");
 
 document.writeln("216期【鼠蛇猴<span style=\'background-color: #FFFF00\'>虎</span>鸡牛马龙兔猪】√<br>		");
-document.writeln("217期【鼠羊猪牛蛇马鸡龙兔猴】√<br>		");
-
+document.writeln("217期【鼠羊猪牛蛇马鸡龙兔猴】×<br>		");
+document.writeln("218期【马狗鸡羊虎牛龙鼠猪猴】√<br>		");
 
 document.writeln("	");
 document.writeln("	");
@@ -71,8 +71,8 @@ document.writeln("	213期【124<span style=\'background-color: #FFFF00\'>3</span
 document.writeln("	214期【<span style=\'background-color: #FFFF00\'>0</span>413头】√<br>		");
 document.writeln("	215期【<span style=\'background-color: #FFFF00\'>2</span>301头】√<br>		");
 document.writeln("	216期【42<span style=\'background-color: #FFFF00\'>1</span>0头】√<br>		");
-document.writeln("	217期【0143头】√<br>		");
-
+document.writeln("	217期【0<span style=\'background-color: #FFFF00\'>1</span>43头】√<br>		");
+document.writeln("	218期【0423头】√<br>		");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("	    ");
@@ -109,8 +109,8 @@ document.writeln("213期【金土水木】×<br>			");
 document.writeln("214期【金<span style=\'background-color: #FFFF00\'>木</span>水土】√<br>			");
 document.writeln("215期【木火<span style=\'background-color: #FFFF00\'>水</span>金】√<br>			");
 document.writeln("216期【水土<span style=\'background-color: #FFFF00\'>木</span>金】√<br>			");
-document.writeln("217期【土火金水】√<br>			");
-
+document.writeln("217期【土火金水】×<br>			");
+document.writeln("218期【火金水土】√<br>			");
 document.writeln("	</font>");
 document.writeln("	");
 document.writeln("");
@@ -133,7 +133,9 @@ document.writeln(" 213期【259314<span style=\'background-color: #FFFF00\'>8</s
 document.writeln(" 214期【54<span style=\'background-color: #FFFF00\'>6</span>17032】√<br>	");
 document.writeln(" 215期【21753968】×<br>	");
 document.writeln(" 216期【4917<span style=\'background-color: #FFFF00\'>5</span>836】√<br>	");
-document.writeln(" 217期【54826913】√<br>	");
+document.writeln(" 217期【<span style=\'background-color: #FFFF00\'>5</span>4826913】√<br>	");
+document.writeln(" 218期【15698740】√<br>	");
+
 document.writeln("	</font>");
 document.writeln("<font color=\'#FF0000\'>____________★____________");
 document.writeln("	</font>");

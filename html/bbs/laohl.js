@@ -49,6 +49,18 @@ document.writeln("");
 document.writeln("<table class=\'lhl\' width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+
+document.writeln("");
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>219期:<font color=\'#FF0000\'>开奖日08月06号，七月初三，吉日五行:金箔金;煞北-虎日冲(丙申)猴 ,宿名：北方室火猪</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:吉,五行:金行：02.03.10.11.24.25.32.33.40.41冲煞:虎猴 煞北：鼠猪牛,星宿杀肖：虎,<br>综合：牛蛇羊猪鸡狗兔猴鼠 ");
+document.writeln("	本期主攻:牛蛇羊猪鸡，号码04.40.12.36.22.34.06.30.20.32</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
 document.writeln("");
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
@@ -56,8 +68,8 @@ document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>218期:<font c
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:土行：04.05.18.19.26.27.34.35.48.49冲煞:牛羊 煞东：兔虎龙,星宿杀肖：羊,<br>综合：鸡猪猴龙蛇虎狗马牛 ");
-document.writeln("	本期主攻:鸡猪猴龙蛇，号码08.20.18.30.21.33.13.49.12.36</font></td>");
+document.writeln("	预测:凶,五行:土行：04.05.18.19.26.27.34.35.48.49冲煞:牛羊 煞东：兔虎龙,星宿杀肖：羊,<br>综合：鸡猪猴<span style=\'background-color: #FFFF00\'>龙</span>蛇虎狗马牛 ");
+document.writeln("	本期主攻:鸡猪猴<span style=\'background-color: #FFFF00\'>龙</span>蛇，号码08.20.18.30.21.33.13.49.12.36</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 document.writeln("");

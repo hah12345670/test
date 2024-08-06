@@ -25,9 +25,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">218期一语中特【书香铜臭】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指集书香和铜臭于一体的书商。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猪猴鸡狗羊开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">217期一语中特【踏步不前】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：在原地踏步，没有前进。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴鸡狗马虎羊开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴鸡狗马<span style=\'background-color: #FFFF00\'>虎</span>羊开虎15准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -91,21 +99,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">216期一语中特【衰季之风】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为末世的不良风气</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠马牛兔猴蛇开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\"218期一语中特【鼓足干劲】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：把劲头鼓足，准备做事</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴蛇龙虎猪狗开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">214期一语中特【戳脊梁骨】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指在背后指责。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠狗鸡兔虎<span style=\'background-color: #FFFF00\'>猪</span>开猪06准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 

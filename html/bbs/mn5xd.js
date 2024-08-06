@@ -150,7 +150,7 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("217期【红波绿波】√<br>  	");
+document.writeln("218期【蓝波红波】√<br>  	");
 
 document.writeln("");
 document.writeln("           ");

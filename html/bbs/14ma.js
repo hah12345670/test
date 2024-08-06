@@ -29,9 +29,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">218期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【46.42.31.16.39.36.06.09.37.10.14.04.07.11】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">219期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【17.37.05.40.18.38.23.39.08.25.26.31.07.47】</span></font></p>  	");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">218期:==14码中特==开龙37准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【46.42.31.16.39.36.06.09.<span style=\'background-color: #FFFF00\'>37</span>.10.14.04.07.11】</span></font></p>  	");
 document.writeln("");
 
 document.writeln("");

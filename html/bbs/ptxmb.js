@@ -54,8 +54,8 @@ document.writeln(" 214期【虎】√<br>");
 document.writeln(" 215期【羊】×<br>");
 document.writeln(" 216期【鼠】×<br>");
 document.writeln(" 217期【鸡】√<br>");
-document.writeln(" 218期【鼠】√<br>");
-
+document.writeln(" 218期【鼠】×<br>");
+document.writeln(" 219期【羊】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -95,10 +95,8 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
-document.writeln("215期<span style=\'background-color: #FFFF00\'>【3尾】</span>√<br>");
-document.writeln("216期【2尾】×<br>");
-document.writeln("217期【4尾】×<br>");
-document.writeln("218期【6尾】√<br>");
+
+document.writeln("219期【3尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -112,12 +110,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-document.writeln("204-205期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>204期中<br>");
-document.writeln("205-206期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>205期中<br>");
-document.writeln("209-211期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>209期中<br>");
-document.writeln("210-212期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>210期中<br>");
-document.writeln("214-216期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>215期中<br>");
-document.writeln("216-218期平尾【4尾】000期中<br>");
+
+document.writeln("219-221期平尾【8尾】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font>");
@@ -131,7 +125,9 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 document.writeln("215期（01.47.20.25.44）√<br>");
 document.writeln("216期（22.29.14.35.24）√<br>");
 document.writeln("217期（16.17.26.46.03）√<br>");
-document.writeln("218期（29.17.07.11.31）√<br>");
+document.writeln("218期（29.17.07.11.31）×<br>");
+document.writeln("219期（10.20.22.28.49）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

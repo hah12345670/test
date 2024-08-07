@@ -16,8 +16,10 @@ document.writeln("");
 document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("220期：平特【猪牛拖猴虎】开？00<br>");
+document.writeln("------<br>");
 document.writeln("");
-document.writeln("219期：平特【狗蛇拖猪羊】开？00<br>");
+document.writeln("219期：平特【狗<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>猪</span>羊】开12.42<br>");
 document.writeln("------<br>");
 
 

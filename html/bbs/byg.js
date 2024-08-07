@@ -65,8 +65,14 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（219期）</font><Br>");
-document.writeln("		特肖【狗蛇兔虎马牛】<br> 	<br>	");
+document.writeln("		特肖【狗蛇<span style=\'background-color: #FFFF00\'>兔</span>虎马牛】<br> 	<br>	");
 document.writeln("");
+
+document.writeln("");
+document.writeln("                   <font color=\'#0000FF\'>（220期）</font><Br>");
+document.writeln("		特肖【龙兔羊猪鸡牛】<br> 	<br>	");
+document.writeln("");
+
 
 document.writeln("		</font>	");
 document.writeln("");
@@ -120,7 +126,8 @@ document.writeln("		213期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		216期必中平特【龙+<span style=\'background-color: #FFFF00\'>猴</span>】√<br>	");
 
 document.writeln("		218期必中平特【<span style=\'background-color: #FFFF00\'>龙+鸡</span>】√<br>	");
-document.writeln("		219期必中平特【牛+鼠】√<br>	");
+document.writeln("		219期必中平特【<span style=\'background-color: #FFFF00\'>牛+鼠</span>】√<br>	");
+document.writeln("		220期必中平特【羊+虎】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -161,6 +168,8 @@ document.writeln("		216期杀【13.15.37.17.49.47.34】√<br>");
 document.writeln("		217期杀【37.20.36.49.28.31.35】√<br>");
 document.writeln("		218期杀【48.38.02.32.16.17.09】√<br>");
 document.writeln("		219期杀【26.16.42.41.12.33.36】√<br>");
+document.writeln("		220期杀【30.16.05.17.11.49.27】√<br>");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -208,7 +217,9 @@ document.writeln("");
 
 document.writeln("		217期（蓝肖）√<br>			");
 document.writeln("		218期（红肖）×<br>			");
-document.writeln("		219期（绿肖）√<br>			");
+document.writeln("		219期（绿肖）×<br>			");
+document.writeln("		220期（红肖）√<br>			");
+
 
 document.writeln("");
 document.writeln("");
@@ -221,13 +232,7 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 
-document.writeln("		213期【163<span style=\'background-color: #FFFF00\'>8</span>尾】√<br>				");
-document.writeln("		214期【<span style=\'background-color: #FFFF00\'>6</span>039尾】√<br>				");
-document.writeln("		215期【<span style=\'background-color: #FFFF00\'>0</span>276尾】√<br>				");
-document.writeln("		216期【1427尾】×<br>				");
-document.writeln("		217期【1432尾】×<br>				");
-document.writeln("		218期【8463尾】×<br>				");
-document.writeln("		219期【2708尾】√<br>				");
+document.writeln("		220期【5148尾】√<br>				");
 
 document.writeln("");
 document.writeln("");
@@ -247,7 +252,9 @@ document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("		219期（1.4头）√<br>	");
+document.writeln("		219期（<span style=\'background-color: #FFFF00\'>1</span>.4头）√<br>	");
+document.writeln("		220期（1.0头）√<br>	");
+
 
 document.writeln("");
 document.writeln("		");
@@ -271,6 +278,7 @@ document.writeln("		216期<span style=\'background-color: #FFFF00\'>蓝波</span
 document.writeln("		217期绿波+蓝双<br>");
 document.writeln("		218期红波+绿单<br>");
 document.writeln("		219期绿波+红双<br>");
+document.writeln("		220期绿波+蓝双<br>");
 
 document.writeln("		");
 document.writeln("		");
@@ -305,6 +313,8 @@ document.writeln("		216期杀猴鼠√<br>");
 document.writeln("		217期杀猪鸡√<br>");
 document.writeln("		218期杀狗鸡√<br>");
 document.writeln("		219期杀龙虎√<br>");
+document.writeln("		220期杀马鸡√<br>");
+
 document.writeln("");
 document.writeln("		");
 document.writeln("			 ");
@@ -320,7 +330,7 @@ document.writeln("");
 document.writeln("		217期杀绿单√<br>");
 document.writeln("		218期杀绿双√<br>");
 document.writeln("		219期杀绿单√<br>");
-
+document.writeln("		220期杀蓝双√<br>");
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -337,6 +347,8 @@ document.writeln("		216期杀3头单√<br>	");
 document.writeln("		217期杀0头单√<br>	");
 document.writeln("		218期杀3头双√<br>	");
 document.writeln("		219期杀4头单√<br>	");
+document.writeln("		220期杀1头双√<br>	");
+
 
 document.writeln("");
 document.writeln("");
@@ -349,7 +361,7 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 document.writeln("		217期杀0.4尾√<br>");
 document.writeln("		218期杀6.1尾√<br>");
 document.writeln("		219期杀7.6尾√<br>");
-
+document.writeln("		220期杀3.1尾√<br>");
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");

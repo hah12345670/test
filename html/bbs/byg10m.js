@@ -58,9 +58,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("<td width=100% height=40><p align=center><font face=\'宋体\'><b><font size=\'4\'>");
-document.writeln("219期<font color=\'#008000\'>【打工仔】精选12码</font><font color=\'#FF00FF\'>开？00准</font><font color=\'#FF0000\'><br>");
-document.writeln("【18.42.23.35.12.36.09.33.20.44.03.15】</font></font></b></font></table>");
-document.writeln("<font face=\'宋体\'>");
+document.writeln("220期<font color=\'#008000\'>【打工仔】精选12码</font><font color=\'#FF00FF\'>开？00准</font><font color=\'#FF0000\'><br>");
+document.writeln("【11.35.19.43.08.32.28.40.06.30.10.34】</font></font></b></font></table>");
+
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -70,7 +70,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<td width=100% height=40><p align=center><font face=\'宋体\'><b><font size=\'4\'>");
 document.writeln("218期<font color=\'#008000\'>【打工仔】精选12码</font><font color=\'#FF00FF\'>开龙37准</font><font color=\'#FF0000\'><br>");
 document.writeln("【11.35.25.<span style=\'background-color: #FFFF00\'>37</span>.04.16.29.41.21.45.12.36】</font></font></b></font></table>");
-document.writeln("<font face=\'宋体\'>");
+
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -81,7 +81,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<td width=100% height=40><p align=center><font face=\'宋体\'><b><font size=\'4\'>");
 document.writeln("217期<font color=\'#008000\'>【打工仔】精选12码</font><font color=\'#FF00FF\'>开虎15准</font><font color=\'#FF0000\'><br>");
 document.writeln("【19.31.24.48.02.14.03.<span style=\'background-color: #FFFF00\'>15</span>.11.35.08.32】</font></font></b></font></table>");
-document.writeln("<font face=\'宋体\'>");
+
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");

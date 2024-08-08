@@ -9,11 +9,11 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("<!--------->");
 document.writeln("<tr>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
-document.writeln("<font color=\'#00F\' size=\'3\'>220期</font></td>");
+document.writeln("<font color=\'#00F\' size=\'3\'>221期</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>虎鼠狗龙</font></td>");
+document.writeln("<font size=\'3\'>鼠龙马狗</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=30% height=50>");
-document.writeln("<font size=\'3\'>蛇鸡猪羊</font></td>");
+document.writeln("<font size=\'3\'>蛇鸡兔牛</font></td>");
 document.writeln("<td style=\'font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=20% height=50>");
 document.writeln("<font size=\'3\' color=\'#FF0000\'>？00</font></td></tr>");
 document.writeln("");

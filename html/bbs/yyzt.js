@@ -25,9 +25,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">220期一语中特【柔中有刚】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：形容人的性格温柔中带有刚强。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔龙狗牛猪蛇开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">221期一语中特【耳目之欲】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：欲：欲望。指耳听眼看，满足于享乐的欲望。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊牛马虎猪鸡开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -55,22 +55,6 @@ document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊龙马�
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">213期一语中特【歪七竖八】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：杂乱不整的样子。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎龙马猴羊<span style=\'background-color: #FFFF00\'>兔</span>开兔38准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">212期一语中特【挑针打眼】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：苛评，带有一定程度的敌意的批评或评论</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>龙</span>牛猪鸡羊虎开龙49准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 
@@ -107,9 +91,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">220期一语中特【闭门谢客】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为形容谢绝客人来访。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡虎龙牛兔羊开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">221期一语中特【内外勾结】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为内部与外部暗中配合达到某种目的。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇狗鼠虎马龙开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

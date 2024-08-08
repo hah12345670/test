@@ -8,61 +8,6 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『马会透密三字玄机』</font></b></table>");
 document.writeln("");
 
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("201期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>三一</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>龙25</font></font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("202期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>三二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>狗43</font></font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("203期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>四二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猴45</font></font></td></tr>");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("204期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>零二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>鼠05</font></font></td></tr>");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("205期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>一三</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>牛40</font></font></td></tr>");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("206期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>二三</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>兔14</font></font></td></tr>");
-document.writeln("");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("207期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>二三四</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猪18</font></font></td></tr>");
-document.writeln("");
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("208期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>零六四</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>牛04</font></font></td></tr>");
-document.writeln("");
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("209期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>零三二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猴33</font></font></td></tr>");
-document.writeln("");
-
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
 document.writeln("<font style=\'font-size: 11pt\'> ");
@@ -141,8 +86,17 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
 document.writeln("<font style=\'font-size: 11pt\'> ");
-document.writeln("220期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>三二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
+document.writeln("220期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>三二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猴21</font></font></td></tr>");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'> ");
+document.writeln("221期:<font color=\'#0000FF\'>马会透密三字玄机</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>四二</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
+document.writeln("");
+
+
 
 document.writeln("<!--https://tk2.moshoushijie.net:4949/col/341/174.jpg-->");
 document.writeln("<!--推广开始-->");

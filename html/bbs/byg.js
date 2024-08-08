@@ -68,9 +68,10 @@ document.writeln("                   <font color=\'#0000FF\'>（219期）</font>
 document.writeln("		特肖【狗蛇<span style=\'background-color: #FFFF00\'>兔</span>虎马牛】<br> 	<br>	");
 document.writeln("");
 
+
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（220期）</font><Br>");
-document.writeln("		特肖【龙兔羊猪鸡牛】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（221期）</font><Br>");
+document.writeln("		特肖【牛猴兔狗龙猪】<br> 	<br>	");
 document.writeln("");
 
 
@@ -110,24 +111,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 
-document.writeln("		201期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+猴】√<br>	");
-
-document.writeln("		202期必中平特【<span style=\'background-color: #FFFF00\'>鼠+狗</span>】√<br>	");
-
-document.writeln("		203期必中平特【牛+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
-document.writeln("		204期必中平特【<span style=\'background-color: #FFFF00\'>牛</span>+马】√<br>	");
-document.writeln("		205期必中平特【<span style=\'background-color: #FFFF00\'>羊</span>+蛇】√<br>	");
-document.writeln("		207期必中平特【<span style=\'background-color: #FFFF00\'>蛇+虎</span>】√<br>	");
-document.writeln("		209期必中平特【马+<span style=\'background-color: #FFFF00\'>猴</span>】√<br>	");
-document.writeln("		210期必中平特【<span style=\'background-color: #FFFF00\'>兔+猴</span>】√<br>	");
-document.writeln("		211期必中平特【<span style=\'background-color: #FFFF00\'>猴</span>+兔】√<br>	");
-document.writeln("		212期必中平特【<span style=\'background-color: #FFFF00\'>羊</span>+猴】√<br>	");
-document.writeln("		213期必中平特【<span style=\'background-color: #FFFF00\'>兔</span>+猪】√<br>	");
-document.writeln("		216期必中平特【龙+<span style=\'background-color: #FFFF00\'>猴</span>】√<br>	");
 
 document.writeln("		218期必中平特【<span style=\'background-color: #FFFF00\'>龙+鸡</span>】√<br>	");
 document.writeln("		219期必中平特【<span style=\'background-color: #FFFF00\'>牛+鼠</span>】√<br>	");
-document.writeln("		220期必中平特【羊+虎】√<br>	");
+
+document.writeln("		221期必中平特【蛇+虎】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -169,6 +157,7 @@ document.writeln("		217期杀【37.20.36.49.28.31.35】√<br>");
 document.writeln("		218期杀【48.38.02.32.16.17.09】√<br>");
 document.writeln("		219期杀【26.16.42.41.12.33.36】√<br>");
 document.writeln("		220期杀【30.16.05.17.11.49.27】√<br>");
+document.writeln("		221期杀【06.04.14.27.37.47.43】√<br>");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -215,11 +204,8 @@ document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 document.writeln("");
 
-document.writeln("		217期（蓝肖）√<br>			");
-document.writeln("		218期（红肖）×<br>			");
-document.writeln("		219期（绿肖）×<br>			");
-document.writeln("		220期（红肖）√<br>			");
 
+document.writeln("		221期（蓝肖）√<br>			");
 
 document.writeln("");
 document.writeln("");
@@ -232,7 +218,9 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 
-document.writeln("		220期【5148尾】√<br>				");
+document.writeln("		220期【5<span style=\'background-color: #FFFF00\'>1</span>48尾】√<br>				");
+document.writeln("		221期【7620尾】√<br>				");
+
 
 document.writeln("");
 document.writeln("");
@@ -253,8 +241,8 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 
 
 document.writeln("		219期（<span style=\'background-color: #FFFF00\'>1</span>.4头）√<br>	");
-document.writeln("		220期（1.0头）√<br>	");
-
+document.writeln("		220期（1.0头）×<br>	");
+document.writeln("		221期（1.0头）√<br>	");
 
 document.writeln("");
 document.writeln("		");
@@ -266,19 +254,8 @@ document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码�
 document.writeln("");
 
 
-document.writeln("		208期<span style=\'background-color: #FFFF00\'>蓝波</span>+红单<br>");
-document.writeln("		209期红波+<span style=\'background-color: #FFFF00\'>绿波</span><br>");
-document.writeln("		210期<span style=\'background-color: #FFFF00\'>红波</span>+绿波<br>");
-document.writeln("		211期<span style=\'background-color: #FFFF00\'>蓝波</span>+红单<br>");
-document.writeln("		212期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>");
-document.writeln("		213期<span style=\'background-color: #FFFF00\'>绿波</span>+红单<br>");
-document.writeln("		214期红波+<span style=\'background-color: #FFFF00\'>绿双</span><br>");
-document.writeln("		215期绿波+<span style=\'background-color: #FFFF00\'>蓝双</span><br>");
-document.writeln("		216期<span style=\'background-color: #FFFF00\'>蓝波</span>+红单<br>");
-document.writeln("		217期绿波+蓝双<br>");
-document.writeln("		218期红波+绿单<br>");
-document.writeln("		219期绿波+红双<br>");
-document.writeln("		220期绿波+蓝双<br>");
+document.writeln("		220期<span style=\'background-color: #FFFF00\'>绿波</span>+蓝双<br>");
+document.writeln("		221期蓝波+绿双<br>");
 
 document.writeln("		");
 document.writeln("		");
@@ -314,7 +291,7 @@ document.writeln("		217期杀猪鸡√<br>");
 document.writeln("		218期杀狗鸡√<br>");
 document.writeln("		219期杀龙虎√<br>");
 document.writeln("		220期杀马鸡√<br>");
-
+document.writeln("		221期杀猴蛇√<br>");
 document.writeln("");
 document.writeln("		");
 document.writeln("			 ");
@@ -331,6 +308,8 @@ document.writeln("		217期杀绿单√<br>");
 document.writeln("		218期杀绿双√<br>");
 document.writeln("		219期杀绿单√<br>");
 document.writeln("		220期杀蓝双√<br>");
+document.writeln("		221期杀蓝单√<br>");
+
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -348,7 +327,7 @@ document.writeln("		217期杀0头单√<br>	");
 document.writeln("		218期杀3头双√<br>	");
 document.writeln("		219期杀4头单√<br>	");
 document.writeln("		220期杀1头双√<br>	");
-
+document.writeln("		221期杀0头双√<br>	");
 
 document.writeln("");
 document.writeln("");
@@ -361,7 +340,9 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 document.writeln("		217期杀0.4尾√<br>");
 document.writeln("		218期杀6.1尾√<br>");
 document.writeln("		219期杀7.6尾√<br>");
-document.writeln("		220期杀3.1尾√<br>");
+document.writeln("		220期杀3.1尾×<br>");
+document.writeln("		221期杀9.4尾√<br>");
+
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");

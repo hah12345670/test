@@ -11,64 +11,21 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>220期挂牌《造谣惑众》<br>");
-document.writeln("解释：捏造谣言，迷惑群众。<br>");
-document.writeln("解：牛鸡鼠龙虎兔，挂:04 爆:虎<br>");
+document.writeln("<font color=\'#0000FF\'><b>221期挂牌《分道扬镳》<br>");
+document.writeln("解释：分路而行。比喻目标不同，各走各的路或各干各的事。<br>");
+document.writeln("解：牛狗蛇龙马猪，挂:25 爆:猪<br>");
 document.writeln("</b></font>");
 document.writeln("");
 document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
 document.writeln("");
 document.writeln("");
-document.writeln("<font size=\'3\'>七肖：牛鸡鼠龙虎兔羊</font></span></p>");
+document.writeln("<font size=\'3\'>七肖：牛狗蛇龙马猪虎</font></span></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
 document.writeln("");
 document.writeln("</tr></table></td>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>218期挂牌《四海飘零》<br>");
-document.writeln("解释：指到处飘泊，生活无着。。<br>");
-document.writeln("解：猴牛兔狗鼠龙，挂:15 爆:虎<br>");
-document.writeln("</b></font>");
-document.writeln("");
-document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("");
-document.writeln("");
-document.writeln("<font size=\'3\'>七肖：猴牛兔狗鼠<span style=\'background-color: #FFFF00\'>龙</span>蛇</font></span></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#0000FF\'><b>216期挂牌《寿终正寝》<br>");
-document.writeln("解释：寿终：年纪很大才死；正寝：旧式住宅的正房。原指老死在家里。现比喻事物的灭亡。<br>");
-document.writeln("解：狗龙虎兔猴鼠，挂:09 爆:蛇<br>");
-document.writeln("</b></font>");
-document.writeln("");
-document.writeln("<span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; \'>");
-document.writeln("");
-document.writeln("");
-document.writeln("<font size=\'3\'>七肖：狗龙<span style=\'background-color: #FFFF00\'>虎</span>兔猴鼠蛇</font></span></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
-document.writeln("			<td height=40 bgcolor=\'#FFFF00\'><p style=text-align:center><strong><a target=\'_blank\' href=\'https://j.9898dz.com:9898/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击这里免费</span><font color=\'#FFFF00\'><span style=\'font-family: 楷体; font-size: 17pt; background-color: #FF0000\'>注册9898.cc</span></font><span style=font-family:楷体;font-size:17pt;color:#00f><br>点击这里投注六合彩</span></font></strong></a></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
 
 
 

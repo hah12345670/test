@@ -13,11 +13,19 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>221期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>4630921尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>？00准</span></font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>222期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>8745162尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>？00准</span></font></font></b></font></table>");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>221期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>463092<span style=\'background-color: #FFFF00\'>1</span>尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>龙01准</span></font></font></b></font></table>");
 
 
 document.writeln("");
@@ -37,36 +45,6 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>218期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>7</span>548961尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>龙37准</span></font></font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>215期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>73842<span style=\'background-color: #FFFF00\'>0</span>6尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>鸡20准</span></font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>214期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>187<span style=\'background-color: #FFFF00\'>6</span>905尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>猪06准</span></font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>212期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>7263<span style=\'background-color: #FFFF00\'>9</span>84尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>龙49准</span></font></font></b></font></table>");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>210期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'>245<span style=\'background-color: #FFFF00\'>9</span>860尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>狗19准</span></font></font></b></font></table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>209期</font><font color=\'#FF00FF\'>七尾中特</font><font color=\'#0000FF\'>『</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>3</span>745812尾</font><font color=\'#0000FF\'>』</font>开<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>猴33准</span></font></font></b></font></table>");
 
 
 

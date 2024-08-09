@@ -29,12 +29,26 @@ document.writeln("               <!--图片--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'center\' >");
-document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/221/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
+document.writeln("       <img src=\'https://tk2.moshoushijie.net:4949/col/222/dnmh.jpg\' style=\'width: 100%;\' /> </td>");
 document.writeln("    </tr>      ");
 document.writeln("  ");
 document.writeln("    <!--图片--> ");
 document.writeln("");
 document.writeln("");
+
+document.writeln("              <!--开始--> ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\' style=\'font-size: 16pt\'>第222期：【东南漫画解特】</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'><Br>");
+document.writeln("		（劈破傍门见月明）<br></font>  ");
+document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
+document.writeln("		解：劈破傍门见月明，解龙虎蛇猴猪马。</font><br>");
+document.writeln("		 ");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
+document.writeln("		综合特码：龙虎蛇猴猪马</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("               <!--开始--> ");
 
 document.writeln("              <!--开始--> ");
 document.writeln("    	<tr>");
@@ -46,7 +60,7 @@ document.writeln("		<font face=\'微软雅黑\' color=\'#000000\'>");
 document.writeln("		解：三兄四弟把梦寻，解鸡猪龙鼠羊蛇。</font><br>");
 document.writeln("		 ");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#008000\'>");
-document.writeln("		综合特码：鸡猪龙鼠羊蛇</font></b></td>");
+document.writeln("		综合特码：鸡猪<span style=\'background-color: #FFFF00\'>龙</span>鼠羊蛇</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("               <!--开始--> ");
 

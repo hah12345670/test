@@ -45,8 +45,10 @@ document.writeln("");
 document.writeln("<p align=\"center\"><b><font size=\"5\">218期【<span style=\"background-color: #FFFF00\">龙</span>牛虎】<BR>");
 document.writeln("219期【<span style=\"background-color: #FFFF00\">兔</span>羊鸡】<BR>");
 document.writeln("220期【<span style=\"background-color: #FFFF00\">猴</span>龙蛇】<BR>");
-document.writeln("221期【羊兔蛇】</font>");
-document.writeln("");
+document.writeln("221期【羊兔蛇】<BR>");
+document.writeln("222期【兔鼠羊】<BR>");
+
+document.writeln("</font>");
 document.writeln("");
 document.writeln("</p>");
 document.writeln("");

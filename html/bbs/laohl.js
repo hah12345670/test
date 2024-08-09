@@ -48,6 +48,20 @@ document.writeln("土行：04.05.18.19.26.27.34.35.48.49 -->");
 document.writeln("");
 document.writeln("<table class=\'lhl\' width=\'100%\' border=\'1\'>");
 document.writeln("");
+document.writeln("");
+
+
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>222期:<font color=\'#FF0000\'>开奖日08月09号，七月初六，吉日五行:佛灯火;煞东 蛇日冲(己亥)猪 ,宿名：西方娄金狗</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:吉,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:蛇猪 煞东：兔虎龙,星宿杀肖：鸡,<br>综合：猴鼠牛羊兔马狗蛇龙 ");
+document.writeln("	本期主攻:猴鼠牛羊兔，号码09.21.17.41.16.40.22.34.02.14</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
 
 
 document.writeln("");
@@ -57,7 +71,7 @@ document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>221期:<font c
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:龙狗 煞南：蛇马羊,星宿杀肖：狗,<br>综合：鸡兔鼠蛇羊牛马猴龙 ");
+document.writeln("	预测:凶,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:龙狗 煞南：蛇马羊,星宿杀肖：狗,<br>综合：鸡兔鼠蛇羊牛马猴<span style=\'background-color: #FFFF00\'>龙</span> ");
 document.writeln("	本期主攻:鸡兔鼠蛇羊，号码20.32.02.14.17.41.12.36.22.34</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");

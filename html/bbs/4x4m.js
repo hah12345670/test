@@ -32,32 +32,11 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第222期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【虎15.鼠41.羊22.鸡20】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-
-document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第219期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【<span style=\'background-color: #FFFF00\'>兔</span>02.鼠41.龙37.猪42】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第223期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【猪30.鸡20.龙13.鼠41】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 document.writeln("");
-document.writeln("            <!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=32 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第216期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【龙37.猪06.<span style=\'background-color: #FFFF00\'>虎15</span>.兔38】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("    <!--结束--> ");
-document.writeln("");
-document.writeln("            <!--开始--> ");
 
 
 

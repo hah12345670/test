@@ -34,11 +34,11 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">222期必中18码：</font><font color=\'#FF0000\' size=\'2\'>03.15.27.08.20.32.04.16.28.05.17.41.10.22.34.11.23.47</font></li>");
-document.writeln("            	<li>222期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">03.15.27.08.20.32.04.16.28</font></li>");
-document.writeln("            	<li>222期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-03.15.27）</font></li>");
-document.writeln("            	<li>222期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎鸡牛</font></li>");
-document.writeln("            	<li>222期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎鸡牛鼠羊马</font></li>");
+document.writeln(" 	            <li><font size=\"2\">223期必中18码：</font><font color=\'#FF0000\' size=\'2\'>17.29.41.04.16.40.06.30.42.09.21.33.03.15.27.13.37.49</font></li>");
+document.writeln("            	<li>223期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">17.29.41.04.16.40.06.30.42</font></li>");
+document.writeln("            	<li>223期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-17.29.41）</font></li>");
+document.writeln("            	<li>223期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠牛猪</font></li>");
+document.writeln("            	<li>223期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠牛猪猴虎龙</font></li>");
 document.writeln("");
 document.writeln("        </div>");
 document.writeln("        </div>");

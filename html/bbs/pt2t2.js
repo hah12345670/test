@@ -17,7 +17,10 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("221期：平特【虎蛇拖兔猴】开？00<br>");
+document.writeln("222期：平特【马兔拖牛龙】开？00<br>");
+document.writeln("------<br>");
+document.writeln("");
+document.writeln("221期：平特【虎<span style=\'background-color: #FFFF00\'>蛇</span>拖<span style=\'background-color: #FFFF00\'>兔</span>猴】开48.14<br>");
 document.writeln("------<br>");
 document.writeln("220期：平特【猪<span style=\'background-color: #FFFF00\'>牛</span>拖<span style=\'background-color: #FFFF00\'>猴</span>虎】开04.16.21.33<br>");
 document.writeln("------<br>");

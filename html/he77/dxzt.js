@@ -16,29 +16,16 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>223期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
 
 
 
 
-document.writeln("  <tr>");
-document.writeln("    <td>220期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>猴21</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>218期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>龙37</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
+
+
+
 
 
 
@@ -46,10 +33,9 @@ document.writeln("");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>215期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>鸡20</font>准</td>");
+document.writeln("    <td>224期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
-
 
 
 

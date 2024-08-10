@@ -28,18 +28,19 @@ document.writeln("<!---->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>223期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>224期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>山林底下铁公鸡，一抹四红丹霞外</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>商女不知亡国恨，隔江犹唱后庭花</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖鸡,山解土肖牛龙羊狗,林解木肖虎兔,一解一位鼠一岁龙,四解四位兔四岁牛,红解红肖鼠马兔鸡,综合得主鸡鼠兔马防虎牛龙羊狗。</font></div>");
+document.writeln("解析：女解女肖蛇羊兔鸡,江解水肖鼠猪,后偏看后肖马羊猴鸡狗猪.综合得主蛇羊兔鸡防鼠猪马猴狗。。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鸡鼠兔马虎牛<br>");
-document.writeln("	特码：08.20.17.41.02.14.11.23.03.15.28.40</font></b></div>");
+document.writeln("	解特肖：蛇羊兔鸡鼠猪牛<br>");
+document.writeln("	特码：12.24.22.34.02.14.20.32.17.41.18.42.04.16</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");

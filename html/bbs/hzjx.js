@@ -17,6 +17,22 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>223期红字暗码【母慈子孝】【04 10 22 49】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：母亲慈祥爱子，子女孝顺父母</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：龙猪马猴蛇狗羊<br>");
+document.writeln("主特14码：13.49.30.42.11.23.21.33.12.36.31.43.10.22");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://xn--oecalb2e.xn--hdcn9ajb1dyeua6etcq8g3b.xn--gecrj9c:8443/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -25,7 +41,7 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>222期红字暗码【宁折不弯】【03 18 25 36】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：本指白杨木受到外力作用，只会断折，不会弯曲变形。后用来比喻宁可死也绝不屈服妥协。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：羊马猪虎龙狗蛇<br>");
+document.writeln("解取特肖：羊马猪虎龙<span style=\'background-color: #FFFF00\'>狗</span>蛇<br>");
 document.writeln("主特14码：22.34.11.23.18.30.03.15.13.49.31.43.12.36");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");

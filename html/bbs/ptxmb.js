@@ -51,8 +51,8 @@ document.writeln("");
 
 document.writeln(" 220期【龙】√<br>");
 document.writeln(" 221期【牛】√<br>");
-document.writeln(" 222期【虎】√<br>");
-
+document.writeln(" 222期【虎】×<br>");
+document.writeln(" 223期【鸡】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -74,7 +74,8 @@ document.writeln("211-213期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("212-214期出平<span style=\'background-color: #FFFF00\'>【羊】</span>212期中<br>");
 document.writeln("213-215期出平<span style=\'background-color: #FFFF00\'>【狗】</span>213期中<br>");
 document.writeln("217-219期出平<span style=\'background-color: #FFFF00\'>【猴】</span>219期中<br>");
-document.writeln("220-222期出平【鸡】000期中<br>");
+document.writeln("220-222期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>222期中<br>");
+document.writeln("223-225期出平【猴】000期中<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -98,7 +99,7 @@ document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("222期【7尾】√<br>");
+document.writeln("223期【3尾】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -129,7 +130,9 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 document.writeln("219期（10.20.22.28.49）√<br>");
 document.writeln("220期（42.43.46.18.37）√<br>");
 document.writeln("221期（43.37.03.33.05）√<br>");
-document.writeln("222期（47.41.49.35.39）√<br>");
+document.writeln("222期（47.41.49.35.39）×<br>");
+document.writeln("223期（29.44.37.12.40）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

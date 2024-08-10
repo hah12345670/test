@@ -53,12 +53,12 @@ document.writeln("");
 
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
-document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>222期:<font color=\'#FF0000\'>开奖日08月09号，七月初六，吉日五行:佛灯火;煞东 蛇日冲(己亥)猪 ,宿名：西方娄金狗</font></td>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>223期:<font color=\'#FF0000\'>开奖日08月10号，七月初七，吉日五行:天河水;煞北 马日冲(庚子)鼠 ,宿名：西方胃土雉</font></td>");
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:吉,五行:火行：01.08.09.16.17.30.31.38.39.46.47冲煞:蛇猪 煞东：兔虎龙,星宿杀肖：鸡,<br>综合：猴鼠牛羊兔马狗蛇龙 ");
-document.writeln("	本期主攻:猴鼠牛羊兔，号码09.21.17.41.16.40.22.34.02.14</font></td>");
+document.writeln("	预测:吉,五行:水行：12.13.20.21.28.29.42.43冲煞:马鼠 煞北：鼠猪牛,星宿杀肖：羊,<br>综合：兔鼠猴蛇龙鸡牛马猪 ");
+document.writeln("	本期主攻:兔鼠猴蛇龙，号码14.38.05.41.21.33.24.36.13.49</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");
 document.writeln("");

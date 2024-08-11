@@ -31,7 +31,9 @@ document.writeln("");
 
 
 document.writeln("088期稳杀(2)肖【狗猪】开龙49√<br>");
-document.writeln("089期稳杀(2)肖【猴羊】开？00√<br>");
+document.writeln("089期稳杀(2)肖【猴羊】开兔02√<br>");
+document.writeln("090期稳杀(2)肖【蛇猴】开？00√<br>");
+
 document.writeln("");
 document.writeln("		");
 document.writeln("");
@@ -39,7 +41,9 @@ document.writeln("<br>	");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（绝杀二尾）</font><br>");
 document.writeln("");
-document.writeln("089期稳杀(2)尾【18尾】开？00√<br>");
+
+document.writeln("090期稳杀(2)尾【13尾】开？00√<br>");
+document.writeln("089期稳杀(2)尾【18尾】开兔02√<br>");
 document.writeln("088期稳杀(2)尾【68尾】开龙49√<br>");
 document.writeln("087期稳杀(2)尾【65尾】开兔38√<br>");
 document.writeln("086期稳杀(2)尾【26尾】开牛40√<br>");
@@ -73,8 +77,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（双波中特）</font><br>		");
 document.writeln("");
 
-
-document.writeln("089期双波【蓝波绿波】开？00√<br>	");
+document.writeln("090期双波【红波蓝波】开？00√<br>	");
+document.writeln("089期双波【蓝波绿波】开红02×<br>	");
 document.writeln("088期双波【<span style=\'background-color: #FFFF00\'>绿波</span>红波】开龙49√<br>	");
 document.writeln("087期双波【蓝波<span style=\'background-color: #FFFF00\'>绿波</span>】开兔38√<br>	");
 document.writeln("086期双波【蓝波绿波】开牛40×<br>	");
@@ -103,8 +107,8 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四头中特）</font><br>");
 document.writeln("");
 
-document.writeln("089期四头中特【0142】开？00√<br>");
-
+document.writeln("089期四头中特【<span style=\'background-color: #FFFF00\'>0</span>142】开兔02√<br>");
+document.writeln("090期四头中特【0431】开？00√<br>");
 
 
 
@@ -116,7 +120,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（单双中特）</font><br>");
 document.writeln("");
-document.writeln("089期单双【双+小单】开？00√<br>");
+
+document.writeln("090期单双【双+大单】开？00√<br>");
+document.writeln("089期单双【<span style=\'background-color: #FFFF00\'>双</span>+小单】开兔02√<br>");
 document.writeln("088期单双【双+<span style=\'background-color: #FFFF00\'>大单</span>】开龙01√<br>");
 
 
@@ -131,8 +137,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四行中特）</font><br>");
 document.writeln("");
-
-document.writeln("089期四行中特【土火木水】开？00√<br>");
+document.writeln("090期四行中特【木水金火】开？00√<br>");
+document.writeln("089期四行中特【土火木水】开兔02×<br>");
 document.writeln("088期四行中特【<span style=\'background-color: #FFFF00\'>土</span>木火水】开龙49√<br>");
 
 

@@ -51,70 +51,18 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/224/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/225/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第224期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：像老虎一样有一种令人敬畏的气势。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：马鸡龙虎鼠狗</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第221期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙01中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第225期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：常用来比喻抱着一定的侥幸心理,希望不努力,就能够有意外的收获。</font><br>");
+document.writeln("<font color=\'#0000FF\'>解：比喻不主动地努力，而存万一的侥幸心理，希望得到意外的收获。也比喻死守狭隘的经验，不知变通。。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：马牛猴<span style=\'background-color: #FFFF00\'>龙</span>虎蛇</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗鼠猴蛇马虎</font></b><br>");
 document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第220期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：猴21中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【猛虎下山】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容猛虎下山时的威风。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：蛇<span style=\'background-color: #FFFF00\'>猴</span>牛鼠兔羊</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第219期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：兔14中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【鸡飞狗跳】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：是把鸡吓得飞起来，把狗吓得到处乱跳，形容惊慌得乱成一团。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猪龙狗牛<span style=\'background-color: #FFFF00\'>兔</span>鼠</font></b><br>");
-document.writeln("==========================<br>");
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第218期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙37中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：像老虎一样有一种令人敬畏的气势。。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：猴牛狗<span style=\'background-color: #FFFF00\'>龙</span>猪鼠</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第217期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：虎15中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【金猴雷起】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：金猴雷起。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：羊兔龙牛<span style=\'background-color: #FFFF00\'>虎</span>猴</font></b><br>");
-document.writeln("==========================<br>");
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第216期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【洋洋得意】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：形容得意时神气十足的神态。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔马<span style=\'background-color: #FFFF00\'>虎</span>牛龙蛇</font></b><br>");
-document.writeln("==========================<br>");
-
 
 
 
@@ -129,14 +77,14 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/224/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/225/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第224期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【美丽红娘穿蓝衣】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第225期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【双双特码红蓝到】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 

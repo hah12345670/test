@@ -35,6 +35,19 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 
+
+document.writeln("     <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>225期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>");
+document.writeln("		开</font><span style=\'background-color: #FFFFFF\'><font color=\'#0000FF\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		【20.10.01.42.14.40.07.45.34.15】</font></span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
 document.writeln("     <!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -43,7 +56,7 @@ document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<font color=\'#0000FF\' style=\'font-size: 14pt\'>224期龙哥</font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【绝杀10码】</font><span style=\'font-size: 14pt\'><font color=\'#0000FF\'>");
-document.writeln("		开</font><span style=\'background-color: #FFFFFF\'><font color=\'#0000FF\'>？00</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
+document.writeln("		开</font><span style=\'background-color: #FFFFFF\'><font color=\'#0000FF\'>羊22</font></span><font color=\'#0000FF\'>准</font><font color=\'#000000\'><br>");
 document.writeln("		【23.18.09.33.37.05.17.04.03.10】</font></span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");

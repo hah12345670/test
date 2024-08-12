@@ -50,6 +50,17 @@ document.writeln("<table class=\'lhl\' width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
 
+document.writeln("<!--每期开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>225期:<font color=\'#FF0000\'>开奖日08月12号，七月初九，吉日五行:大驿土;煞南 猴日冲(壬寅)虎 ,宿名：西方毕月乌</font></td>");
+document.writeln("  </tr>");
+document.writeln("  <tr>");
+document.writeln("    <td><font style=\"font-size: 13pt\">");
+document.writeln("	预测:吉,五行:土行：04.05.18.19.26.27.34.35.48.49冲煞:猴虎 煞南：蛇马羊,星宿杀肖：虎,<br>综合：鸡猪牛羊蛇猴鼠狗马");
+document.writeln("	本期主攻:鸡猪牛羊蛇，号码08.20.30.42.16.28.22.34.12.36</font></td>");
+document.writeln("  </tr>");
+document.writeln("<!--每期结束-->");
+document.writeln("");
 
 document.writeln("<!--每期开始-->");
 document.writeln("  <tr>");
@@ -57,7 +68,7 @@ document.writeln("    <td class=\'lhl-tit\' height=\"30\"><strong>224期:<font c
 document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td><font style=\"font-size: 13pt\">");
-document.writeln("	预测:凶,五行:水行：12.13.20.21.28.29.42.43冲煞:牛羊 煞西：猴鸡狗,星宿杀肖：蛇,<br>综合：兔猴牛狗马猪鸡鼠羊");
+document.writeln("	预测:凶,五行:水行：12.13.20.21.28.29.42.43冲煞:牛羊 煞西：猴鸡狗,星宿杀肖：蛇,<br>综合：兔猴牛狗马猪鸡鼠<span style=\'background-color: #FFFF00\'>羊</span>");
 document.writeln("	本期主攻:兔猴牛狗马，号码02.14.21.33.16.40.31.43.23.47</font></td>");
 document.writeln("  </tr>");
 document.writeln("<!--每期结束-->");

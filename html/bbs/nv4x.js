@@ -24,7 +24,16 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>224期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（虎狗猴鼠）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（蛇羊猪鸡）</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>225期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（龙马虎猴）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（牛羊兔蛇）</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>224期</font><font color=\'#008000\' size=\'6\'>男</font><font color=\'#FF0000\' size=\'4\'>（虎狗猴鼠）</font><font color=\'#008000\' size=\'6\'>女</font><font color=\'#FF0000\' size=\'4\'>（蛇<span style=\'background-color: #FFFF00\'>羊</span>猪鸡）</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

@@ -31,12 +31,18 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>226期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【2222尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>225期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【6666尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>225期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【6666尾】</font>开<font color=\'#ac6a00\'>鼠05</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

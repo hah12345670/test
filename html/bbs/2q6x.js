@@ -29,7 +29,11 @@ document.writeln("");
 
 
 
-document.writeln("224-225期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗马鼠鸡蛇】</font>(000期√)<br>");
+
+document.writeln("226-227期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛猪兔龙猴马】</font>(000期√)<br>");
+
+
+document.writeln("224-225期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗马<span style=\'background-color: #FFFF00\'>鼠</span>鸡蛇】</font>(225期√)<br>");
 
 
 document.writeln("223-224期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊<span style=\'background-color: #FFFF00\'>猪</span>蛇鼠虎猴】</font>(223期√)<br>");

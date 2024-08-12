@@ -20,7 +20,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("225期<font color=\'#FF0000\'>平猪→猪龙(2连)→30.42.13.49(连)</font></font></b></font></table>");
+document.writeln("226期<font color=\'#FF0000\'>平猪→猪猴(2连)→06.18.21.45(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");

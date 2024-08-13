@@ -51,9 +51,18 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/225/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/226/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第226期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【来龙去脉】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：山形地势像龙一样连贯着。本是迷信的人讲风水的话，后来比喻人、物的来历或事情的前因后果</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇鸡龙狗牛马</font></b><br>");
+document.writeln("==========================<br>");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -61,7 +70,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：比喻不主动地努力，而存万一的侥幸心理，希望得到意外的收获。也比喻死守狭隘的经验，不知变通。。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：狗鼠猴蛇马虎</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗<span style=\'background-color: #FFFF00\'>鼠</span>猴蛇马虎</font></b><br>");
 document.writeln("==========================<br>");
 
 
@@ -77,14 +86,14 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/225/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/226/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第225期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【双双特码红蓝到】</span></font><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【绿树红花景色美】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 

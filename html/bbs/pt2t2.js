@@ -17,8 +17,11 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("226期：平特【猪兔拖狗蛇】开？00<br>");
+document.writeln("------<br>");
+
 document.writeln("");
-document.writeln("225期：平特【牛猴拖鸡鼠】开？00<br>");
+document.writeln("225期：平特【<span style=\'background-color: #FFFF00\'>牛</span>猴拖鸡<span style=\'background-color: #FFFF00\'>鼠</span>】开28.40.05<br>");
 document.writeln("------<br>");
 
 document.writeln("");

@@ -35,12 +35,19 @@ document.writeln("<!-----&#32467;&#26463;----->");
 
 
 
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
+document.writeln("<span style=\'color: #6600CC;\'>");
+document.writeln("227期：方向报码</span><font color=\'#FF0000\'>【东西北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+
+
 
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
 document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("226期：方向报码</span><font color=\'#FF0000\'>【东南西】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("226期：方向报码</span><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>东</span>南西】</font><span style=\'color: #6600CC;\'>开羊34</font></td></tr>");
 
 
 
@@ -72,15 +79,6 @@ document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36
 document.writeln("<span style=\'color: #6600CC;\'>");
 document.writeln("222期：方向报码</span><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>南</span>西北】</font><span style=\'color: #6600CC;\'>开狗19</font></td></tr>");
 
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("220期：方向报码</span><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>南</span>西北】</font><span style=\'color: #6600CC;\'>开猴21</font></td></tr>");
 
 
 

@@ -44,7 +44,18 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>226期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【火行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>227期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【金行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("  <!--开始-->");
+
+document.writeln("  <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>226期<font color=\'#0000FF\'>绝杀五行</font><font color=\'#FF00FF\'>【火行】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>羊34</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("  <!--开始-->");
 

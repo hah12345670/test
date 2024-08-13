@@ -38,10 +38,18 @@ document.writeln("");
 
 
 document.writeln("");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>227期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("	<span style=\'font-size: 10pt; \'>");
+document.writeln("鼠虎猴龙牛猪鸡兔马</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+
+
+
+document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>226期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("虎羊兔狗鼠牛鸡猪龙</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("虎<span style=\'background-color: #FFFF00\'>羊</span>兔狗鼠牛鸡猪龙</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>羊34</font>中</span></td></tr>");
 
 
 document.writeln("");

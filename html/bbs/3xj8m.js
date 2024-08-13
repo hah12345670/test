@@ -21,7 +21,7 @@ document.writeln("			</tr>");
 document.writeln("									<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#F4F4F4\'>");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(5.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">牛兔鼠龙猪/font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(5.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">牛兔鼠龙猪</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("									<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#F4F4F4\'>");

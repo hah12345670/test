@@ -55,12 +55,22 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 
+
+
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#FF0000\">226期开？00</font></b><br>");
-document.writeln("九肖:【蛇猪羊牛猴马狗龙鸡】<br>");
-document.writeln("七肖:【蛇猪羊牛猴马狗】<br>");
-document.writeln("五肖:【蛇猪羊牛猴】<br>");
-document.writeln("10码：24.36.06.30.22.34.16.40.21.33</p> ");
+document.writeln(" <b><font color=\"#FF0000\">227期开？00</font></b><br>");
+document.writeln("九肖:【鸡猪羊牛狗蛇猴龙兔】<br>");
+document.writeln("七肖:【鸡猪羊牛狗蛇猴】<br>");
+document.writeln("五肖:【鸡猪羊牛狗】<br>");
+document.writeln("10码：20.32.18.30.10.22.16.28.31.43</p> ");
+document.writeln("");
+document.writeln("");
+document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <b><font color=\"#FF0000\">226期开羊34</font></b><br>");
+document.writeln("九肖:【蛇猪<span style=\"background-color: #FFFF00\">羊</span>牛猴马狗龙鸡】<br>");
+document.writeln("七肖:【蛇猪<span style=\"background-color: #FFFF00\">羊</span>牛猴马狗】<br>");
+document.writeln("五肖:【蛇猪<span style=\"background-color: #FFFF00\">羊</span>牛猴】<br>");
+document.writeln("10码：24.36.06.30.22.<span style=\"background-color: #FFFF00\">34</span>.16.40.21.33</p> ");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <b><font color=\"#FF0000\">225期开鼠05</font></b><br>");

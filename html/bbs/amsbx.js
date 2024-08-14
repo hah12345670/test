@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/227/amsbx.jpg\' id=\'lfktzm\'>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/228/amsbx.jpg\' id=\'lfktzm\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -27,6 +27,7 @@ document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
 
 
+document.writeln("\'https://tk2.moshoushijie.net:4949/col/228/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/227/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/226/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/225/amsbx.jpg\',");
@@ -38,18 +39,10 @@ document.writeln("\'https://tk2.moshoushijie.net:4949/col/220/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/219/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/218/amsbx.jpg\',");
 document.writeln("\'https://tk2.moshoushijie.net:4949/col/217/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/216/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/215/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/214/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/213/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/212/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/211/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/210/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/209/amsbx.jpg\',");
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/208/amsbx.jpg\',");
 
 
-document.writeln("\'https://tk2.moshoushijie.net:4949/col/207/amsbx.jpg\'");
+
+document.writeln("\'https://tk2.moshoushijie.net:4949/col/216/amsbx.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexx=0;");

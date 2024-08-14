@@ -51,7 +51,7 @@ document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" al
 document.writeln(" <b><span style=\"font-size: 14pt\">227期:【长期发表三肖四码】开？00准<br>");
 document.writeln("	</span>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（62827b.com 第一个高手榜第五个贴子查看）</span></font></b></p>  ");
+document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（牛兔猴+19.43.29.41）</span></font></b></p>  ");
 document.writeln("");
 document.writeln("");
 document.writeln("	<!--[IMPORT]-->																																		");

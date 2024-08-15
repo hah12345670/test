@@ -56,13 +56,23 @@ document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 
 
-
+document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#FF0000\">227期开？00</font></b><br>");
-document.writeln("九肖:【鸡猪羊牛狗蛇猴龙兔】<br>");
-document.writeln("七肖:【鸡猪羊牛狗蛇猴】<br>");
-document.writeln("五肖:【鸡猪羊牛狗】<br>");
-document.writeln("10码：20.32.18.30.10.22.16.28.31.43</p> ");
+document.writeln(" <b><font color=\"#FF0000\">228期开？00</font></b><br>");
+document.writeln("九肖:【羊马兔龙鸡鼠猴狗猪】<br>");
+document.writeln("七肖:【羊马兔龙鸡鼠猴】<br>");
+document.writeln("五肖:【羊马兔龙鸡】<br>");
+document.writeln("10码：10.34.11.23.02.14.25.37.20.44</p> ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <b><font color=\"#FF0000\">227期开鸡20</font></b><br>");
+document.writeln("九肖:【<span style=\"background-color: #FFFF00\">鸡</span>猪羊牛狗蛇猴龙兔】<br>");
+document.writeln("七肖:【<span style=\"background-color: #FFFF00\">鸡</span>猪羊牛狗蛇猴】<br>");
+document.writeln("五肖:【<span style=\"background-color: #FFFF00\">鸡</span>猪羊牛狗】<br>");
+document.writeln("10码：<span style=\"background-color: #FFFF00\">20</span>.32.18.30.10.22.16.28.31.43</p> ");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");

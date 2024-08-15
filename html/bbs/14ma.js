@@ -29,20 +29,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">228期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【21.03.32.24.15.40.28.26.02.18.11.08.30.42】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">229期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【22.01.11.42.39.48.28.37.25.41.06.45.36.10】</span></font></p>  	");
 document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">224期:==14码中特==开羊22准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【29.46.15.19.28.12.38.21.04.49.01.<span style=\'background-color: #FFFF00\'>22</span>.18.10】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">223期:==14码中特==开猪30准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>30</span>.38.04.11.17.48.05.37.43.22.14.33.15.26】</span></font></p>  	");
-document.writeln("");
-
 
 
 

@@ -25,6 +25,21 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>229期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>春季清风绿两岸，羊牛兔马红花中</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖羊牛兔马。春解虎兔龙。风肖虎兔龙。两解牛兔。绿解绿肖牛龙羊狗，红解红肖鼠兔马鸡。心水诗大意是春季到来，万物复苏，花也红了，草也绿了。一切都是欣欣向荣美好的景像。综合得主羊牛兔马防虎龙鼠狗鸡</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：羊牛兔马虎龙<br>");
+document.writeln("	特码：22.34.04.16.14.38.23.35.03.15.13.49</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -33,10 +48,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙虎相争出四三,杀鸡敬猴胆小惊</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖龙虎鸡猴.四解四位兔四岁牛,三解三位虎三岁虎,小偏看小肖鼠兔马羊猴鸡猪。心水诗大意是龙虎为了争夺地位,经常采取杀鸡敬猴的方式,而胆小的都会被震住.综合得主龙虎鸡猴防兔猪鼠马羊。</font></div>");
+document.writeln("解析：预先解明肖龙虎鸡猴.四解四位兔四岁牛,三解三位虎三岁虎,小偏看小肖鼠兔马羊猴鸡猪。心水诗大意是龙虎为了争夺地位,经常采取杀鸡敬猴的方式,而胆小的都会被震住.综合得主<span style=\'background-color: #FFFF00\'>龙</span>虎鸡猴防兔猪鼠马羊。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙虎鸡猴兔猪<br>");
+document.writeln("	解特肖：<span style=\'background-color: #FFFF00\'>龙</span>虎鸡猴兔猪<br>");
 document.writeln("	特码：13.25.03.15.08.44.21.33.02.14.18.30</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

@@ -27,6 +27,24 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">229期必中18码：</font><font color=\'#FF0000\' size=\'2\'>01.13.49.23.35.47.06.18.30.05.29.41.02.14.38.19.31.43</font></li>");
+document.writeln("            	<li>229期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">01.13.49.23.35.47.06.18.30</font></li>");
+document.writeln("            	<li>229期必中①肖：<font color=\'#FF0000\' size=\'5\'>（龙-01.13.49）</font></li>");
+document.writeln("            	<li>229期必中③肖：<font color=\'#FF0000\' size=\'4\'>龙马猪</font></li>");
+document.writeln("            	<li>229期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>龙马猪鼠兔狗</font></li>");
+document.writeln("");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,11 +53,9 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">228期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.32.44.18.30.42.04.16.40.13.25.37.11.23.47.10.22.46</font></li>");
-document.writeln("            	<li>228期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.32.44.18.30.42.04.16.40</font></li>");
-document.writeln("            	<li>228期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-08.32.44）</font></li>");
-document.writeln("            	<li>228期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡猪牛</font></li>");
-document.writeln("            	<li>228期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡猪牛龙马羊</font></li>");
+document.writeln(" 	            <li><font size=\"2\">228期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.32.44.18.30.42.04.16.40.13.25.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">37</span></font>.11.23.47.10.22.46</font></li>");
+
+document.writeln("            	<li>228期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡猪牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>马羊</font></li>");
 document.writeln("");
 document.writeln("        </div>");
 document.writeln("        </div>");

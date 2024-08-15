@@ -17,8 +17,12 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("229期：平特【牛马拖猴虎】开？00<br>");
+document.writeln("------<br>");
+
 document.writeln("");
-document.writeln("228期：平特【蛇鸡拖牛猴】开？00<br>");
+document.writeln("");
+document.writeln("228期：平特【蛇鸡拖<span style=\'background-color: #FFFF00\'>牛猴</span>】开28.21<br>");
 document.writeln("------<br>");
 
 document.writeln("");

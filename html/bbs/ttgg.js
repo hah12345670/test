@@ -8,7 +8,13 @@ document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'https://xn--
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期码友集合</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖三码】</font><font color=\"#000000\" style=\"font-size: 12pt\">连中稳赚！</font></span></a></li>");
 document.writeln("");
 document.writeln("       ");
-
+document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj07.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【两个半波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("                     ");
+document.writeln("");
 document.writeln("");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj17.html\'>");
@@ -20,12 +26,7 @@ document.writeln("              <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x107.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期大亨送彩</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【二肖四码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
-document.writeln("                 ");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj12.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【前后二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("                 ");
+
 document.writeln("");
 document.writeln("");
 document.writeln("              <li>");
@@ -40,28 +41,44 @@ document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\
 document.writeln("       ");
 document.writeln("");
 document.writeln("       ");
-
+document.writeln("");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj16.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九至五肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
 document.writeln("");
 document.writeln("              ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin06.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期杨家佬爷</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七至四尾】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
-document.writeln("       ");
 
 document.writeln("       <li>");
-document.writeln("		<p align=\"center\">");
-document.writeln("		<span style=\"text-decoration: none\">");
-document.writeln("		<a target=\"_blank\" href=\"/6dgsb/xin08.html\"><font color=\"#000000\" style=\"font-size: 12pt\">");
-document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>228期本站出品</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【波王一波】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
+document.writeln("           ");
 document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj16.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九至五肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/078.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
+document.writeln("    ");
+document.writeln("");
+document.writeln("       ");
+document.writeln("                 ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj12.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【前后二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("                 ");
+
+document.writeln("");
+
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj09.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【波色四肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
@@ -94,11 +111,7 @@ document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj04.
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七尾14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
 document.writeln("              ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
+
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj15.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
@@ -127,15 +140,14 @@ document.writeln("       ");
 document.writeln("       ");
 document.writeln("       ");
 
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\">");
+document.writeln("		<span style=\"text-decoration: none\">");
+document.writeln("		<a target=\"_blank\" href=\"/6dgsb/xin08.html\"><font color=\"#000000\" style=\"font-size: 12pt\">");
+document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>228期本站出品</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【波王一波】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
+document.writeln("");
+document.writeln("");
 
-document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("       ");
-document.writeln("");
-document.writeln("");
 document.writeln("       ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin13.html\'>");
@@ -154,13 +166,7 @@ document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\
 document.writeln("       ");
 document.writeln("       ");
 document.writeln("");
-document.writeln("");
-document.writeln("           ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/078.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("    ");
+
 document.writeln("");
 document.writeln("              <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj18.html\'>");
@@ -189,13 +195,7 @@ document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("       ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj07.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>228期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【两个半波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("                     ");
-document.writeln("");
+
 document.writeln("       ");
 document.writeln("       ");
 document.writeln("       ");

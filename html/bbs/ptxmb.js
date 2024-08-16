@@ -58,7 +58,7 @@ document.writeln(" 225期【猪】×<br>");
 document.writeln(" 226期【羊】√<br>");
 document.writeln(" 227期【猴】×<br>");
 document.writeln(" 228期【兔】√<br>");
-
+document.writeln(" 229期【龙】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -97,9 +97,9 @@ document.writeln("220-221期平码【15.48.<span style=\'background-color: #FFFF
 document.writeln("221-222期平码【32.<span style=\'background-color: #FFFF00\'>14</span>.13.34】221期中<br>");
 document.writeln("222-224期平码【33.46.<span style=\'background-color: #FFFF00\'>30.18</span>】223期中<br>");
 document.writeln("224-226期平码【26.<span style=\'background-color: #FFFF00\'>22</span>.25.15】224期中<br>");
-document.writeln("225-227期平码【30.<span style=\'background-color: #FFFF00\'>16羊</span>.39.48】226期中<br>");
-document.writeln("227-229期平码【21.26.06.42】000期中<br>");
-
+document.writeln("225-227期平码【30.<span style=\'background-color: #FFFF00\'>16</span>.39.48】226期中<br>");
+document.writeln("227-229期平码【21<span style=\'background-color: #FFFF00\'>26</span>..06.42】228期中<br>");
+document.writeln("229-231期平码【33.04.15.43】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -117,7 +117,9 @@ document.writeln("224期【7尾】×<br>");
 document.writeln("225期<span style=\'background-color: #FFFF00\'>【9尾】</span>√<br>");
 document.writeln("226期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
 document.writeln("227期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
-document.writeln("228期【9尾】√<br>");
+document.writeln("228期【9尾】×<br>");
+document.writeln("229期【8尾】√<br>");
+
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -150,7 +152,7 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 
 document.writeln("228期（31.34.12.25.07）√<br>");
-
+document.writeln("229期（23.21.06.07.17）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

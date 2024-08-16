@@ -56,15 +56,20 @@ document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 
 
+document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <b><font color=\"#FF0000\">229期开？00</font></b><br>");
+document.writeln("九肖:【鸡狗兔龙虎马蛇牛羊】<br>");
+document.writeln("七肖:【鸡狗兔龙虎马蛇】<br>");
+document.writeln("五肖:【鸡狗兔龙虎】<br>");
+document.writeln("10码：20.32.19.43.02.14.13.49.03.15</p> ");
+document.writeln("");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#FF0000\">228期开？00</font></b><br>");
-document.writeln("九肖:【羊马兔龙鸡鼠猴狗猪】<br>");
-document.writeln("七肖:【羊马兔龙鸡鼠猴】<br>");
-document.writeln("五肖:【羊马兔龙鸡】<br>");
-document.writeln("10码：10.34.11.23.02.14.25.37.20.44</p> ");
-document.writeln("");
-document.writeln("");
+document.writeln(" <b><font color=\"#FF0000\">228期开龙37</font></b><br>");
+document.writeln("九肖:【羊马兔<span style=\"background-color: #FFFF00\">龙</span>鸡鼠猴狗猪】<br>");
+document.writeln("七肖:【羊马兔<span style=\"background-color: #FFFF00\">龙</span>鸡鼠猴】<br>");
+document.writeln("五肖:【羊马兔<span style=\"background-color: #FFFF00\">龙</span>鸡】<br>");
+document.writeln("10码：10.34.11.23.02.14.25.<span style=\"background-color: #FFFF00\">37</span>.20.44</p> ");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <b><font color=\"#FF0000\">227期开鸡20</font></b><br>");

@@ -51,9 +51,18 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/228/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/229/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【油头粉面】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容人打扮过分而显轻浮（多指男子）。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：龙猴鼠虎猪鸡</font></b><br>");
+document.writeln("==========================<br>");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -61,7 +70,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【猴子偷桃】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：打斗动作中专门以手抓方式攻击裆部的一类招数。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊鸡虎龙猴</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊鸡虎<span style=\'background-color: #FFFF00\'>龙</span>猴</font></b><br>");
 document.writeln("==========================<br>");
 
 
@@ -76,12 +85,18 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/228/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/229/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第228期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【颠倒黑白捉弄人】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第228期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝37中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【阳春二月有蓝绿】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");

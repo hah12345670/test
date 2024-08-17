@@ -35,7 +35,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>229期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【牛鼠猪龙马】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>230期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【狗蛇羊鸡猪】</font><font color=\'#000000\'>开？00准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("<!--开始-->");

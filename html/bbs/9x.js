@@ -37,10 +37,16 @@ document.writeln(" <!--开始start-->");
 document.writeln("");
 
 document.writeln("");
+document.writeln("<tr><td><span style=\'font-size: 10pt; \'>230期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
+document.writeln("	<span style=\'font-size: 10pt; \'>");
+document.writeln("狗马猪牛羊鸡蛇兔鼠</span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+
+document.writeln("");
 document.writeln("<tr><td><span style=\'font-size: 10pt; \'>229期：<font color=\'#0000FF\'>⑨肖</font></span></td><td  align=\'center\'>");
 document.writeln("	<span style=\'font-size: 10pt; \'>");
-document.writeln("鸡猴马狗牛虎兔蛇鼠</span></td><td>");
-document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>？00</font>中</span></td></tr>");
+document.writeln("鸡猴马狗牛虎兔蛇<span style=\'background-color: #FFFF00\'>鼠</span></span></td><td>");
+document.writeln("	<span style=\'font-size: 10pt; \'>开：<font color=\'#FF0000\'>鼠05</font>中</span></td></tr>");
 
 
 document.writeln("");

@@ -111,7 +111,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半�
 document.writeln("		    ");
 document.writeln("");
 document.writeln("");
-document.writeln("		230期【狗兔牛】<br>		");
+document.writeln("		231期【蛇狗鸡】<br>		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -125,7 +125,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("			230期【狗鸡+猪】<br><br>");
+document.writeln("			231期【马猪+鼠】<br><br>");
 document.writeln("				");
 document.writeln("				");
 document.writeln("				</b></font></span><p>");
@@ -138,23 +138,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【神经】(3肖4码)</font></b><font style=\'font-size: 14pt\'><b><br>");
 document.writeln("");
-document.writeln("");
-document.writeln("								");
-document.writeln("				222期鸡猪鼠<br>");
-document.writeln("				07.<span style=\'background-color: #FFFF00\'>19</span>.22.34<br><br>");
-document.writeln("								");
-document.writeln("								");
-document.writeln("				223期牛兔猴<br>");
-document.writeln("				22.34.20.44<br><br>");
-document.writeln("								");
-document.writeln("								");
-document.writeln("				224期<span style=\'background-color: #FFFF00\'>羊</span>鼠狗<br>");
-document.writeln("				14.26.15.39<br><br>");
-document.writeln("								");
-document.writeln("								");
-document.writeln("				225期猪蛇羊<br>");
-document.writeln("				04.40.31.43<br><br>");
-document.writeln("								");
+
 document.writeln("								");
 document.writeln("				226期猴<span style=\'background-color: #FFFF00\'>羊</span>龙<br>");
 document.writeln("				08.20.30.42<br><br>");
@@ -171,10 +155,13 @@ document.writeln("				229期马<span style=\'background-color: #FFFF00\'>鼠</sp
 document.writeln("				07.43.18.42<br><br>");
 document.writeln("				");
 document.writeln("								");
-document.writeln("				230期羊牛龙<br>");
+document.writeln("				230期羊牛<span style=\'background-color: #FFFF00\'>龙</span><br>");
 document.writeln("				18.30.24.48<br><br>");
 document.writeln("				");
-
+document.writeln("								");
+document.writeln("				231期鸡兔蛇<br>");
+document.writeln("				03.15.21.33<br><br>");
+document.writeln("				");
 
 
 document.writeln("								");
@@ -191,9 +178,9 @@ document.writeln("02.48.07.43.33.<span style=\'background-color: #FFFF00\'>05</s
 document.writeln("24.28.34.36.04.46<br>	");
 document.writeln("");
 document.writeln("");
-document.writeln("230期<br>");
-document.writeln("04.07.16.46.21.05<br>");
-document.writeln("14.19.37.10.11.48<br>	");
+document.writeln("231期<br>");
+document.writeln("04.43.20.12.21.29<br>");
+document.writeln("44.18.11.31.22.19<br>	");
 document.writeln("");
 document.writeln("				</span><br>");
 document.writeln("		");
@@ -224,8 +211,8 @@ document.writeln("				</font> 	");
 document.writeln("");
 document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三流汉子】(4肖)</font></span></b><span style=\'font-size: 14pt\'><font style=\'font-size: 14pt\'><b><br>");
 
-document.writeln("230期【猪马羊龙】<br><br>");
-
+document.writeln("230期【猪马羊<span style=\'background-color: #FFFF00\'>龙</span>】<br><br>");
+document.writeln("231期【兔马羊虎】<br><br>");
 document.writeln("");
 document.writeln("				</b></font></span><p>");
 document.writeln("				<b><br>");
@@ -237,9 +224,9 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【归�
 document.writeln("		    ");
 document.writeln("");
 document.writeln("");
-document.writeln("				230期？<br>");
-document.writeln("				【29.20.27.36】<br>");
-document.writeln("				【10.05.06.40】<br>	<br>				");
+document.writeln("				231期？<br>");
+document.writeln("				【25.07.14.06】<br>");
+document.writeln("				【47.31.49.27】<br>	<br>				");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -259,9 +246,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("				230期<br>");
-document.writeln("			（44.26.07.22.23）<br>");
-document.writeln("			（20.05.43.04.41）<br>	");
+document.writeln("			231期<br>");
+document.writeln("			（13.35.34.33.37）<br>");
+document.writeln("			（01.12.04.24.39）<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -282,6 +269,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【高�
 document.writeln("");
 document.writeln("	229期猪狗<span style=\'background-color: #FFFF00\'>鼠</span>+牛<br><br>");
 document.writeln("	230期牛狗猴+蛇<br><br>");
+document.writeln("	231期鸡蛇牛+虎<br><br>");
 
 
 document.writeln("				");

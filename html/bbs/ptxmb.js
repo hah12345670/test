@@ -49,18 +49,10 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
-document.writeln(" 220期【龙】√<br>");
-document.writeln(" 221期【牛】√<br>");
-document.writeln(" 222期【虎】×<br>");
-document.writeln(" 223期【鸡】×<br>");
-document.writeln(" 224期【羊】√<br>");
-document.writeln(" 225期【猪】×<br>");
-document.writeln(" 226期【羊】√<br>");
-document.writeln(" 227期【猴】×<br>");
 document.writeln(" 228期【兔】√<br>");
 document.writeln(" 229期【龙】√<br>");
 document.writeln(" 230期【狗】√<br>");
-
+document.writeln(" 231期【鼠】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -84,7 +76,8 @@ document.writeln("213-215期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("217-219期出平<span style=\'background-color: #FFFF00\'>【猴】</span>219期中<br>");
 document.writeln("220-222期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>222期中<br>");
 document.writeln("223-225期出平<span style=\'background-color: #FFFF00\'>【猴】</span>223期中<br>");
-document.writeln("230-232期出平【鼠】000期中<br>");
+document.writeln("230-232期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>230期中<br>");
+document.writeln("231-233期出平【羊】000期中<br>");
 
 
 document.writeln("");
@@ -100,8 +93,8 @@ document.writeln("222-224期平码【33.46.<span style=\'background-color: #FFFF
 document.writeln("224-226期平码【26.<span style=\'background-color: #FFFF00\'>22</span>.25.15】224期中<br>");
 document.writeln("225-227期平码【30.<span style=\'background-color: #FFFF00\'>16</span>.39.48】226期中<br>");
 document.writeln("227-229期平码【21<span style=\'background-color: #FFFF00\'>26</span>..06.42】228期中<br>");
-document.writeln("229-231期平码【33.04.15.43】000期中<br>");
-
+document.writeln("229-231期平码【33.04.15.<span style=\'background-color: #FFFF00\'>43</span>】230期中<br>");
+document.writeln("231-233期平码【18.24.17.46】000期中<br>");
 
 
 document.writeln("");
@@ -122,7 +115,8 @@ document.writeln("226期<span style=\'background-color: #FFFF00\'>【6尾】</sp
 document.writeln("227期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
 document.writeln("228期【9尾】×<br>");
 document.writeln("229期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
-document.writeln("230期【4尾】√<br>");
+document.writeln("230期【4尾】×<br>");
+document.writeln("231期【9尾】√<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -142,7 +136,7 @@ document.writeln("222-224期平尾<span style=\'background-color: #FFFF00\'>【5
 document.writeln("224-226期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>224期中<br>");
 document.writeln("225-227期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>225期中<br>");
 document.writeln("226-228期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>227期中<br>");
-document.writeln("228-230期平尾【2尾】000期中<br>");
+document.writeln("231-233期平尾【3尾】000期中<br>");
 
 
 document.writeln("");
@@ -156,8 +150,8 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 
 document.writeln("228期（31.34.12.25.07）√<br>");
 document.writeln("229期（23.21.06.07.17）√<br>");
-document.writeln("230期（35.49.07.39.25）√<br>");
-
+document.writeln("230期（35.49.07.39.25）×<br>");
+document.writeln("231期（42.21.44.41.02）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

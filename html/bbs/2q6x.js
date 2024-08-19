@@ -28,7 +28,9 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 
-document.writeln("231-232期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡狗兔鼠牛羊】</font>(000期√)<br>");
+document.writeln("233-234期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊鸡猴猪马牛】</font>(000期√)<br>");
+
+document.writeln("231-232期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鸡狗<span style=\'background-color: #FFFF00\'>兔</span>鼠牛羊】</font>(232期√)<br>");
 
 
 
@@ -37,38 +39,6 @@ document.writeln("229-230期<font color=\"#FF0000\" style=\"font-size: 16pt\" fa
 
 
 document.writeln("228-229期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>龙</span>蛇虎牛狗兔】</font>(228期√)<br>");
-
-
-document.writeln("224-225期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗马<span style=\'background-color: #FFFF00\'>鼠</span>鸡蛇】</font>(225期√)<br>");
-
-
-document.writeln("223-224期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊<span style=\'background-color: #FFFF00\'>猪</span>蛇鼠虎猴】</font>(223期√)<br>");
-
-
-document.writeln("222-223期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎兔鼠猪<span style=\'background-color: #FFFF00\'>狗</span>牛】</font>(222期√)<br>");
-
-
-document.writeln("219-220期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>兔</span>羊猴鸡狗虎】</font>(219期√)<br>");
-
-
-
-
-
-document.writeln("217-218期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【<span style=\'background-color: #FFFF00\'>龙</span>马狗猴兔蛇】</font>(218期√)<br>");
-
-
-
-document.writeln("216-217期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【兔猪鼠<span style=\'background-color: #FFFF00\'>虎</span>牛羊】</font>(216期√)<br>");
-
-
-
-
-document.writeln("215-216期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猴猪马羊<span style=\'background-color: #FFFF00\'>鸡</span>鼠】</font>(215期√)<br>");
-
-
-
-document.writeln("214-215期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇羊兔<span style=\'background-color: #FFFF00\'>猪</span>龙鸡】</font>(214期√)<br>");
-
 
 
 

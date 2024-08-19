@@ -55,6 +55,22 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
+
+document.writeln("            <font face=\"微软雅黑\">");
+document.writeln("232期:（两个半波）开？00准<br>");
+document.writeln("<font color=\"#FF0000\">双波：【绿波蓝波】<br>");
+document.writeln("	主：【绿单、蓝双】<br></font>");
+document.writeln("	<font color=\"#0000FF\">长期跟踪！理性参考</font></b></font></p>               ");
+document.writeln("                  ");
+document.writeln("               ");
+document.writeln("                                                                                                             ");
+document.writeln("            <font face=\"微软雅黑\">");
+document.writeln("231期:（两个半波）开鼠17准<br>");
+document.writeln("<font color=\"#FF0000\">双波：【<span style=\"background-color: #FFFF00\">绿波</span>红波】<br>");
+document.writeln("	主：【<span style=\"background-color: #FFFF00\">绿单</span>、红双】<br></font>");
+document.writeln("	<font color=\"#0000FF\">长期跟踪！理性参考</font></b></font></p>               ");
+document.writeln("                  ");
+document.writeln("               ");
 document.writeln("                                                                                                             ");
 document.writeln("            <font face=\"微软雅黑\">");
 document.writeln("231期:（两个半波）开？00准<br>");

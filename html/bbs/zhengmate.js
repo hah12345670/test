@@ -27,8 +27,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
-
-document.writeln("231期稳杀(1)肖【蛇蛇蛇】开？00√<BR>");
+document.writeln("232期稳杀(1)肖【羊羊羊】开？00√<BR>");
+document.writeln("231期稳杀(1)肖【蛇蛇蛇】开鼠17√<BR>");
 document.writeln("230期稳杀(1)肖【马马马】开龙49√<BR>");
 document.writeln("229期稳杀(1)肖【羊羊羊】开鼠05√<BR>");
 document.writeln("228期稳杀(1)肖【虎虎虎】开龙37√<BR>");
@@ -45,8 +45,8 @@ document.writeln("");
 document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><br>");
 document.writeln("<span style=\"font-size: 13pt\">");
 
-
-document.writeln("231期稳杀(1)尾【888尾】开？00√<BR>");
+document.writeln("232期稳杀(1)尾【888尾】开？00√<BR>");
+document.writeln("231期稳杀(1)尾【888尾】开鼠17√<BR>");
 document.writeln("230期稳杀(1)尾【444尾】开龙49√<BR>");
 
 
@@ -69,8 +69,8 @@ document.writeln("");
 document.writeln("<font color=\'#008000\' size=\"5\">（绝杀半波）</font><br>		");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
-
-document.writeln("231期稳杀半波【红双】开？00√<BR>	");
+document.writeln("232期稳杀半波【绿双】开？00√<BR>	");
+document.writeln("231期稳杀半波【红双】开鼠17√<BR>	");
 document.writeln("230期稳杀半波【红单】开龙49√<BR>	");
 document.writeln("229期稳杀半波【红双】开鼠05√<BR>	");
 document.writeln("228期稳杀半波【蓝双】开龙37√<BR>	");
@@ -105,37 +105,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀半头）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
+document.writeln("232期稳杀半头【0头双】开？00√<BR>");
+document.writeln("231期稳杀半头【3头双】开鼠17√<BR>");
 
-document.writeln("231期稳杀半头【3头双】开？00√<BR>");
-document.writeln("230期稳杀半头【4头单】开龙49×<BR>");
-document.writeln("229期稳杀半头【1头双】开鼠05√<BR>");
-document.writeln("228期稳杀半头【2头双】开龙37√<BR>");
-document.writeln("227期稳杀半头【3头单】开鸡20√<BR>");
-document.writeln("226期稳杀半头【2头双】开羊34√<BR>");
-document.writeln("225期稳杀半头【2头单】开鼠05√<BR>");
-document.writeln("224期稳杀半头【1头双】开羊22√<BR>");
-document.writeln("223期稳杀半头【3头单】开猪30√<BR>");
-document.writeln("222期稳杀半头【2头双】开狗19√<BR>");
-document.writeln("221期稳杀半头【3头双】开龙01√<BR>");
-document.writeln("220期稳杀半头【2头双】开猴21√<BR>");
-document.writeln("219期稳杀半头【1头单】开兔14√<BR>");
-document.writeln("218期稳杀半头【2头双】开龙37√<BR>");
-document.writeln("217期稳杀半头【3头单】开虎15√<BR>");
-document.writeln("216期稳杀半头【2头单】开虎15√<BR>");
-document.writeln("215期稳杀半头【0头单】开鸡20√<BR>");
-document.writeln("214期稳杀半头【3头单】开猪06√<BR>");
-document.writeln("213期稳杀半头【2头双】开兔38√<BR>");
-document.writeln("212期稳杀半头【1头单】开龙49√<BR>");
-document.writeln("211期稳杀半头【3头单】开鸡20√<BR>");
-document.writeln("210期稳杀半头【1头双】开狗19√<BR>");
-document.writeln("209期稳杀半头【3头双】开猴33√<BR>");
-document.writeln("208期稳杀半头【2头单】开牛04√<BR>");
-document.writeln("207期稳杀半头【1头双】开猪18√<BR>");
-document.writeln("206期稳杀半头【2头单】开兔14√<BR>");
-document.writeln("205期稳杀半头【0头双】开牛40√<BR>");
-document.writeln("204期稳杀半头【3头双】开鼠05√<BR>");
-document.writeln("203期稳杀半头【1头单】开猴45√<BR>");
-document.writeln("202期稳杀半头【0头双】开狗43√<BR>");
 
 
 
@@ -168,26 +140,12 @@ document.writeln("");
 document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一行）</font><br>");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
-document.writeln("231期稳杀(1)行【木木木】开？00√<BR>");
+
+
+document.writeln("232期稳杀(1)行【土土土】开？00√<BR>");
+document.writeln("231期稳杀(1)行【木木木】开鼠17√<BR>");
 document.writeln("230期稳杀(1)行【水水水】开龙49√<BR>");
-document.writeln("229期稳杀(1)行【木木木】开鼠05×<BR>");
-document.writeln("228期稳杀(1)行【土土土】开龙37√<BR>");
-document.writeln("227期稳杀(1)行【火火火】开鸡20√<BR>");
-document.writeln("226期稳杀(1)行【木木木】开羊34√<BR>");
-document.writeln("225期稳杀(1)行【火火火】开鼠05√<BR>");
-document.writeln("224期稳杀(1)行【金金金】开羊22√<BR>");
-document.writeln("223期稳杀(1)行【土土土】开猪30√<BR>");
-document.writeln("222期稳杀(1)行【水水水】开狗19√<BR>");
-document.writeln("221期稳杀(1)行【木木木】开龙01√<BR>");
-document.writeln("220期稳杀(1)行【土土土】开猴21√<BR>");
-document.writeln("219期稳杀(1)行【水水水】开兔14√<BR>");
-document.writeln("218期稳杀(1)行【金金金】开龙37√<BR>");
-document.writeln("217期稳杀(1)行【水水水】开虎15√<BR>");
-document.writeln("216期稳杀(1)行【火火火】开虎15√<BR>");
-document.writeln("215期稳杀(1)行【木木木】开鸡20√<BR>");
-document.writeln("214期稳杀(1)行【金金金】开猪06√<BR>");
-document.writeln("213期稳杀(1)行【水水水】开兔38√<BR>");
-document.writeln("212期稳杀(1)行【火火火】开龙49√<BR>");
+
 
 
 

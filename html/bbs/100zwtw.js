@@ -13,8 +13,13 @@ document.writeln("</font><font style=\'font-weight:700\' size=\'4\' face=\'微�
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("233期（二尾拖二尾）<br>");
+document.writeln("【83拖25】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【杀平码<span style=\"background-color: #FFFF00\">08.23.22.35】</span>√<br>");
+
+document.writeln("");
 document.writeln("232期（二尾拖二尾）<br>");
-document.writeln("【71拖95】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开00.00（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
+document.writeln("【71拖95】</font><font color=\'#FF0000\' size=\'4\' face=\'微软雅黑\'>开39.25（中0组）</font><font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑\'><br>");
 document.writeln("【杀平码<span style=\"background-color: #FFFF00\">27.31.29.45】</span>√<br>");
 
 document.writeln("");

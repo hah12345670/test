@@ -29,8 +29,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">231期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【39.25.15.20.18.14.05.21.40.12.29.34.30.08】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">232期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【03.23.12.30.14.39.26.38.11.13.29.43.25.04】</span></font></p>  	");
 document.writeln("");
 
 

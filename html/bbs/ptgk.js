@@ -20,9 +20,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("231期<font color=\'#FF0000\'>平蛇→蛇牛(2连)→24.48.04.16(连)</font></font></b></font></table>");
+document.writeln("232期<font color=\'#FF0000\'>平马→马猪(2连)→11.23.06.30(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");

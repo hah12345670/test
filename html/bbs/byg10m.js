@@ -62,7 +62,11 @@ document.writeln("");
 document.writeln("231期鸡兔蛇<br>");
 document.writeln("03.15.21.33<br><br>");
 document.writeln("");
-document.writeln("");
+document.writeln("								");
+document.writeln("232期牛龙兔<br>");
+document.writeln("24.48.05.41<br><br>");
+document.writeln("				");
+
 document.writeln("</font>");
 document.writeln("");
 document.writeln("</p>");

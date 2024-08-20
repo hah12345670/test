@@ -43,7 +43,8 @@ document.writeln("	");
 
 document.writeln("231期四季中特【春夏<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("232期四季中特【<span style=\'background-color: #FFFF00\'>春</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("233期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("233期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("234期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -72,7 +73,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 
 document.writeln("231期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("232期才艺中特【<span style=\'background-color: #FFFF00\'>琴</span>棋书】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("233期才艺中特【琴书画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("233期才艺中特【琴<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("234期才艺中特【琴棋书】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("	");
 document.writeln("	<br>");
@@ -104,8 +106,8 @@ document.writeln("229期⑨肖【猪牛<span style=\'background-color: #FFFF00\'
 document.writeln("230期⑨肖【马兔<span style=\'background-color: #FFFF00\'>龙</span>鸡狗鼠猴虎蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("231期⑨肖【<span style=\'background-color: #FFFF00\'>鼠</span>狗兔马虎蛇牛鸡羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("232期⑨肖【鼠猴蛇羊龙马<span style=\'background-color: #FFFF00\'>兔</span>虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("233期⑨肖【虎狗蛇鼠牛龙马鸡猴】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("233期⑨肖【虎狗蛇鼠牛龙<span style=\'background-color: #FFFF00\'>马</span>鸡猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("234期⑨肖【虎狗马兔牛鸡猴鼠蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

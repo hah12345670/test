@@ -3,13 +3,7 @@ document.writeln("<div style=\"display:none\">");
 document.writeln("</div>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("<!--台湾推广-->");
-document.writeln("<div class=\'white-box\'>");
-document.writeln("<script src=\'https://trdssww.www339961b.com:8443/bbs/taituig.js\' charset=\'utf-8\'></script>");
-document.writeln("</div>");
-document.writeln("    <!--开始结束--> ");
-document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

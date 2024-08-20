@@ -57,6 +57,14 @@ document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
+
+document.writeln("             ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x116.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期幸运星星</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【3.肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("");
 document.writeln("              <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
@@ -128,7 +136,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj03.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六尾18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六尾12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
 document.writeln("");
 
@@ -156,16 +164,6 @@ document.writeln("       ");
 document.writeln("");
 
 
-
-document.writeln("");
-
-document.writeln("             ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x116.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>233期幸运星星</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【3.肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("");
 
 document.writeln("");
 document.writeln("              <li>");

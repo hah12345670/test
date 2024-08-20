@@ -53,8 +53,8 @@ document.writeln(" 228期【兔】√<br>");
 document.writeln(" 229期【龙】√<br>");
 document.writeln(" 230期【狗】√<br>");
 document.writeln(" 231期【鼠】√<br>");
-document.writeln(" 232期【鼠】√<br>");
-
+document.writeln(" 232期【鼠】×<br>");
+document.writeln(" 233期【牛】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -120,8 +120,8 @@ document.writeln("228期【9尾】×<br>");
 document.writeln("229期<span style=\'background-color: #FFFF00\'>【8尾】</span>√<br>");
 document.writeln("230期【4尾】×<br>");
 document.writeln("231期<span style=\'background-color: #FFFF00\'>【9尾】</span>√<br>");
-document.writeln("232期【1尾】√<br>");
-
+document.writeln("232期【1尾】×<br>");
+document.writeln("233期【7尾】√<br>");
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
@@ -134,14 +134,8 @@ document.writeln("<!--开始-->");
 document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("219-221期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>220期中<br>");
-document.writeln("221-223期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>221期中<br>");
-document.writeln("222-224期平尾<span style=\'background-color: #FFFF00\'>【5尾】</span>223期中<br>");
-document.writeln("224-226期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>224期中<br>");
-document.writeln("225-227期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>225期中<br>");
-document.writeln("226-228期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>227期中<br>");
-document.writeln("231-233期平尾【3尾】000期中<br>");
-
+document.writeln("231-233期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>232期中<br>");
+document.writeln("233-235期平尾【4尾】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font>");
@@ -156,8 +150,8 @@ document.writeln("228期（31.34.12.25.07）√<br>");
 document.writeln("229期（23.21.06.07.17）√<br>");
 document.writeln("230期（35.49.07.39.25）×<br>");
 document.writeln("231期（42.21.44.41.02）√<br>");
-document.writeln("232期（33.12.23.24.41）√<br>");
-
+document.writeln("232期（33.12.23.24.41）×<br>");
+document.writeln("233期（44.39.49.43.29）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

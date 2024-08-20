@@ -37,94 +37,9 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("230-232期<font style=\'font-size: 14pt\'>【10.34.46】</font>第?0期中</span></font></font></b></td>");
+document.writeln("233-235期<font style=\'font-size: 14pt\'>【09.21.45】</font>第?0期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("223-225期<font style=\'font-size: 14pt\'>【06.<span style=\'background-color: #FFFF00\'>30</span>.42】</font>第223期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("217-219期<font style=\'font-size: 14pt\'>【04.28.<span style=\'background-color: #FFFF00\'>40</span>】</font>第219期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("216-218期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>06</span>.30.42】</font>第216期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("213-215期<font style=\'font-size: 14pt\'>【09.2<span style=\'background-color: #FFFF00\'>21</span>.45】</font>第215期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("211-213期<font style=\'font-size: 14pt\'>【<span style=\'background-color: #FFFF00\'>22</span>.34.46】</font>第212期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("208-210期<font style=\'font-size: 14pt\'>【12.<span style=\'background-color: #FFFF00\'>24</span>.48】</font>第210期中</span></font></font></b></td>");
-document.writeln("    </tr>");
-document.writeln("      <!--开始-->");
-
 
 
 document.writeln("");

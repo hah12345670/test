@@ -31,6 +31,25 @@ document.writeln("			特码：更新中</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
+
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>234期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("出二入八迎零七，两支曲刀头中拼");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：出二入八迎零七解二兔牛，八羊鸡，七马狗，曲刀解带刀肖龙虎蛇兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：虎蛇兔牛羊鸡马<br>");
+document.writeln("			四肖：虎蛇兔牛<br>");
+document.writeln("			特码：15.27.36.48.02.14.16.28.22.34.08.20.11.23</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -40,9 +59,9 @@ document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙猴兔狗，天兵解天肖猪牛马猴兔龙，家园解家肖马鸡羊猪狗牛</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：牛马猴兔龙狗<br>");
-document.writeln("			四肖：牛马猴兔<br>");
-document.writeln("			特码：16.28.11.23.09.21.014.26.13.49.07.43</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：牛<span style=\'background-color: #FFFF00\'>马</span>猴兔龙狗<br>");
+document.writeln("			四肖：牛<span style=\'background-color: #FFFF00\'>马</span>猴兔<br>");
+document.writeln("			特码：16.28.11.<span style=\'background-color: #FFFF00\'>23</span>.09.21.014.26.13.49.07.43</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

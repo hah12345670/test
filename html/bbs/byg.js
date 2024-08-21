@@ -54,8 +54,8 @@ document.writeln("		特肖【鸡<span style=\'background-color: #FFFF00\'>兔</s
 document.writeln("");
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（233期）</font><Br>");
-document.writeln("		特肖【狗猪虎鸡猴兔】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（234期）</font><Br>");
+document.writeln("		特肖【马鸡猴羊龙猪】<br> 	<br>	");
 document.writeln("");
 
 document.writeln("		</font>	");
@@ -103,8 +103,8 @@ document.writeln("		228期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		229期必中平特【猪+<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>	");
 document.writeln("		230期必中平特【<span style=\'background-color: #FFFF00\'>狗+蛇</span>】√<br>	");
 document.writeln("		231期必中平特【<span style=\'background-color: #FFFF00\'>兔</span>+猪】√<br>	");
-document.writeln("		233期必中平特【牛+鼠】√<br>	");
 
+document.writeln("		234期必中平特【兔+虎】√<br>	");
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("					<span style=\"font-size: 15pt\">	");
@@ -135,6 +135,8 @@ document.writeln("		230期杀【29.40.06.15.47.39.20】√<br>");
 document.writeln("		231期杀【26.18.12.08.48.38.23】√<br>");
 document.writeln("		232期杀【41.06.04.27.16.32.36】√<br>");
 document.writeln("		233期杀【49.46.21.23.10.43.40】√<br>");
+document.writeln("		234期杀【42.15.23.05.07.13.38】√<br>");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -182,8 +184,8 @@ document.writeln("");
 
 
 document.writeln("	232期（红肖）√<br>			");
-document.writeln("	233期（绿肖）√<br>			");
-
+document.writeln("	233期（绿肖）×<br>			");
+document.writeln("	234期（蓝肖）√<br>			");
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
@@ -195,7 +197,9 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
 document.writeln("");
 document.writeln("		232期【<span style=\'background-color: #FFFF00\'>2</span>439尾】√<br>				");
-document.writeln("		233期【8617尾】√<br>				");
+document.writeln("		233期【8617尾】×<br>				");
+document.writeln("		234期【9361尾】√<br>				");
+
 document.writeln("");
 document.writeln("				");
 document.writeln("		</font></b><font size=\'4\'><br>		");
@@ -213,7 +217,9 @@ document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("	232期（2.4头）√<br>	");
+document.writeln("	232期（<span style=\'background-color: #FFFF00\'>2</span>.4头）√<br>	");
+document.writeln("	234期（4.0头）√<br>	");
+
 
 document.writeln("");
 document.writeln("		");
@@ -239,6 +245,8 @@ document.writeln("		230期蓝波+绿双<br>");
 document.writeln("		231期<span style=\'background-color: #FFFF00\'>绿波</span>+红单<br>");
 document.writeln("		232期蓝波+绿双<br>");
 document.writeln("		233期蓝波+绿单<br>");
+document.writeln("		234期红波+蓝双<br>");
+
 
 document.writeln("		");
 document.writeln("		");
@@ -273,6 +281,7 @@ document.writeln("		230期杀羊兔√<br>");
 document.writeln("		231期杀羊龙√<br>");
 document.writeln("		232期杀猪龙√<br>");
 document.writeln("		233期杀鸡鼠√<br>");
+document.writeln("		234期杀羊猴√<br>");
 
 document.writeln("");
 document.writeln("		");
@@ -303,6 +312,9 @@ document.writeln("		230期杀蓝单√<br>");
 document.writeln("		231期杀绿双√<br>");
 document.writeln("		232期杀红单√<br>");
 document.writeln("		233期杀红双√<br>");
+document.writeln("		234期杀绿单√<br>");
+
+
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -333,6 +345,9 @@ document.writeln("		230期杀2头双√<br>	");
 document.writeln("		231期杀0头双√<br>	");
 document.writeln("		232期杀4头单√<br>	");
 document.writeln("		233期杀2头双√<br>	");
+document.writeln("		234期杀1头双√<br>	");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("	</font><br>		");
@@ -343,6 +358,7 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 
 document.writeln("		232期杀3.6尾√<br>");
 document.writeln("		233期杀7.2尾√<br>");
+document.writeln("		234期杀2.1尾√<br>");
 document.writeln("");
 document.writeln("	    </b><br>	");
 document.writeln("		");

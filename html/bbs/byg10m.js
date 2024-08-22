@@ -43,33 +43,27 @@ document.writeln("08.20.30.42<br><br>");
 document.writeln("");
 document.writeln("227期<span style=\"background-color: #FFFF00\">鸡</span>羊狗<br>");
 document.writeln("04.16.15.27<br><br>");
-document.writeln("");
-document.writeln("228期牛马鸡<br>");
-document.writeln("12.36.30.42<br><br>");
+
 document.writeln("");
 document.writeln("229期马<span style=\"background-color: #FFFF00\">鼠</span>羊<br>");
 document.writeln("07.43.18.42<br><br>");
 document.writeln("");
 document.writeln("230期羊牛<span style=\"background-color: #FFFF00\">龙</span><br>");
 document.writeln("18.30.24.48<br><br>");
-document.writeln("");
-document.writeln("231期鸡兔蛇<br>");
-document.writeln("03.15.21.33<br><br>");
-document.writeln("");
-document.writeln("								");
+
+
 document.writeln("				232期牛龙<span style=\'background-color: #FFFF00\'>兔</span><br>");
 document.writeln("				24.48.05.41<br><br>");
-document.writeln("				");
 
-document.writeln("								");
+
+
 document.writeln("				233期猴鸡鼠<br>");
 document.writeln("				03.15.<span style=\'background-color: #FFFF00\'>23</span>.47<br><br>");
-document.writeln("				");
 
-document.writeln("								");
-document.writeln("				234期猪蛇鼠<br>");
-document.writeln("				04.28.02.14<br><br>");
-document.writeln("				");
+
+document.writeln("				235期鼠狗蛇<br>");
+document.writeln("				18.30.04.16<br><br>");
+
 
 
 

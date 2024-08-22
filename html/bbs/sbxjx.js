@@ -22,6 +22,24 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=6
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>眼镜波波</font><font color=\'#FFFFFF\'>『解四不像玄机』</font></font></b></table>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("							<!--开始-->");
+document.writeln("		<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=left>");
+document.writeln("	<b><a href=\'https://hgjgfgg.www552257b.com:8443/#49029\'>");
+document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
+document.writeln("	<span style=\"font-size: 13pt\">235期今期蛇马猪出特，十面埋伏没圈套<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		</span>		");
+document.writeln("	<font face=\'楷体\'><span style=\"font-size: 14pt\">");
+document.writeln("	①杀鸡虎羊</span><font color=\'#008000\'><BR><span style=\'font-size: 14pt\'>");
+document.writeln("	②图解特肖蛇马猪鼠猴</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
+document.writeln("	③绿波+蓝波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	</font>");
+document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
+document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'30\'><tbody><tr>");
+document.writeln("				<td height=30><p style=text-align:center><strong>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' style=\'text-decoration: none\'><img src=/images/33567.gif width=20 height=19><span style=font-family:楷体;font-size:17pt;color:#00f>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("							<!--开始-->");
@@ -29,11 +47,11 @@ document.writeln("		<table style=border-collapse:collapse border=1 width=100% bg
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><a href=\'https://hgjgfgg.www552257b.com:8443/#49029\'>");
 document.writeln("	<span style=\'text-decoration: none\'><font face=\'楷体\' color=\'#FF0000\'>");
-document.writeln("	<span style=\"font-size: 13pt\">234期今期猪蛇鼠出特，龙行风雨西方来<span style=\'background-color: #FFFF00\'>开？00</span></span></font><span style=\"font-size: 13pt\"><br>		</span>		");
+document.writeln("	<span style=\"font-size: 13pt\">234期今期猪蛇鼠出特，龙行风雨西方来<span style=\'background-color: #FFFF00\'>开狗07</span></span></font><span style=\"font-size: 13pt\"><br>		</span>		");
 document.writeln("	<font face=\'楷体\'><span style=\"font-size: 14pt\">");
-document.writeln("	①杀马猴鸡</span><font color=\'#008000\'><BR><span style=\'font-size: 14pt\'>");
+document.writeln("	<span style=\'background-color: #FFFF00\'>①杀马猴鸡</span></span><font color=\'#008000\'><BR><span style=\'font-size: 14pt\'>");
 document.writeln("	②图解特肖猪蛇鼠牛龙</span></font><span style=\'font-size: 14pt\'><font color=\'#008000\'><br>");
-document.writeln("	③蓝波+红波<img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
+document.writeln("	③蓝波+<font color=\'#FF0000\' size=\"5\"><span style=\"background-color: #FFFF00\">红波</span></font><img src=/images/zu.gif></font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>查看香港解特</span></font><font color=\'#008000\'><br>");
 document.writeln("	</font>");
 document.writeln("	</span>本人取特都是有思路可寻,对错看天意,喷狗绕道</font></span></a></b><span style=\'text-decoration: none\'><font face=\'楷体\'></font></font></table>");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100% height=\'30\'><tbody><tr>");

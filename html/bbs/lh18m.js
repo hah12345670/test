@@ -41,14 +41,17 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>235期<font color=\'#800000\'>【隔壁老胡18码】</font></font><font color=\'#000000\'><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>236期<font color=\'#800000\'>【隔壁老胡18码】</font></font><font color=\'#000000\'><br>");
 document.writeln("		</font> <font color=\'#008000\'>");
-document.writeln("		【39.49.42.06.18.43.32.36.12】<br>");
-document.writeln("		【17.20.05.19.29.38.02.03.10】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【27.48.02.32.34.03.08.42.18】<br>");
+document.writeln("		【13.49.30.44.31.43.04.45.05】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
+
+
+
 
 
 

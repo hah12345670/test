@@ -32,6 +32,22 @@ document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>236期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("千变万化猴机灵，家有客人半边天");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：千变万化解变肖虎猴，家有解家肖牛鸡羊马狗猪，半边天解天肖猴猪牛马龙兔</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猪牛马龙兔虎鸡<br>");
+document.writeln("			四肖：猪牛马龙<br>");
+document.writeln("			特码：06.18.16.40.23.47.13.49.02.14.15.39.20.32</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -42,7 +58,7 @@ document.writeln("九九八十一照算，贵人指点笔颜开");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：九九八十一解取经肖龙虎马猪猴，贵人解鸡</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎马猪猴鸡蛇<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎马猪猴鸡<span style=\'background-color: #FFFF00\'>蛇</span><br>");
 document.writeln("			四肖：龙虎马猪<br>");
 document.writeln("			特码：01.13.15.39.11.23.06.30.21.33.08.20.12.48</font></b></td>");
 document.writeln("		</tr>	");

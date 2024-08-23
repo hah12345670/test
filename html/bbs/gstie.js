@@ -55,9 +55,15 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
-document.writeln("235期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开？00准<br>");
+document.writeln("");
+document.writeln("236期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开？00准<br>");
 document.writeln("	<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\">");
-document.writeln("	【琴书画】<br>");
+document.writeln("	【棋琴书】<br>");
+document.writeln("	【蛇鸡兔】</span><br></font>");
+document.writeln("	");
+document.writeln("235期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开蛇24准<br>");
+document.writeln("	<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\">");
+document.writeln("	【<span style=\"background-color: #FFFF00\">琴</span>书画】<br>");
 document.writeln("	【龙马虎】</span><br></font>");
 document.writeln("	");
 document.writeln("234期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开狗07准<br>");

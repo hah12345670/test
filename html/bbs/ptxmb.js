@@ -49,8 +49,8 @@ document.writeln(" 	");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
-document.writeln(" 235期【龙】√<br>");
-
+document.writeln(" 235期<span style=\'background-color: #FFFF00\'>【龙】</span>√<br>");
+document.writeln(" 236期【羊】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -67,8 +67,8 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
 document.writeln("230-232期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>230期中<br>");
 document.writeln("231-233期出平<span style=\'background-color: #FFFF00\'>【羊】</span>233期中<br>");
-document.writeln("234-236期出平【蛇】000期中<br>");
-
+document.writeln("234-236期出平<span style=\'background-color: #FFFF00\'>【蛇】</span>235期中<br>");
+document.writeln("236-238期出平【虎】000期中<br>");
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
@@ -99,8 +99,8 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 
 
-document.writeln("235期【2尾】√<br>");
 
+document.writeln("236期【1尾】√<br>");
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
@@ -116,8 +116,8 @@ document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 document.writeln("231-233期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>232期中<br>");
 document.writeln("233-235期平尾<span style=\'background-color: #FFFF00\'>【4尾】</span>233期中<br>");
 document.writeln("234-236期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>234期中<br>");
-document.writeln("235-237期平尾【9尾】000期中<br>");
-
+document.writeln("235-237期平尾<span style=\'background-color: #FFFF00\'>【9尾】</span>235期中<br>");
+document.writeln("236-238期平尾【2尾】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font>");
@@ -127,8 +127,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 
-
 document.writeln("235期（26.45.07.12.42）√<br>");
+document.writeln("236期（47.33.20.44.17）×<br>");
+document.writeln("236期（24.03.21.41.14）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

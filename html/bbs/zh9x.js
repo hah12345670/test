@@ -47,7 +47,8 @@ document.writeln("233期四季中特【<span style=\'background-color: #FFFF00\'
 document.writeln("234期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("235期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("236期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("237期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("237期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("238期四季中特【春秋冬】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -74,8 +75,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 
 
-
-document.writeln("237期才艺中特【琴书画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("237期才艺中特【琴书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("238期才艺中特【棋书画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("	<br>");
 document.writeln("</span>");
@@ -110,8 +111,8 @@ document.writeln("233期⑨肖【虎狗蛇鼠牛龙<span style=\'background-colo
 document.writeln("234期⑨肖【虎<span style=\'background-color: #FFFF00\'>狗</span>马兔牛鸡猴鼠蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("235期⑨肖【兔猪鼠鸡猴虎<span style=\'background-color: #FFFF00\'>蛇</span>狗马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("236期⑨肖【<span style=\'background-color: #FFFF00\'>虎</span>猪兔狗鼠龙鸡牛猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("237期⑨肖【蛇虎鸡猪龙牛鼠羊狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("237期⑨肖【蛇虎鸡<span style=\'background-color: #FFFF00\'>猪</span>龙牛鼠羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("238期⑨肖【羊蛇鼠马牛猴鸡兔狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

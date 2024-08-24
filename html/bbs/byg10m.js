@@ -50,7 +50,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("237期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
-document.writeln("<br>【62827b.com 第一个高手榜第四贴已更新】<br>");
+document.writeln("<br>【猪虎】【12.36.22.46】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

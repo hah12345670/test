@@ -154,23 +154,35 @@
 		document.getElementById("showdata").innerHTML = str1;
 	}
 	</script>
+	<script>
+		const currentYear = new Date().getFullYear().toString();
+		const hasTimestamp = new Date() - new Date(currentYear); // 今天减今年的第一天（xxxx年01月01日）
+		const hasDays = Math.ceil(hasTimestamp / 86400000); // 86400000 = 24 * 60 * 60 * 1000
+		// console.log('今天是%s年中的第%s天', currentYear, hasDays);
+		// document.write(hasDays);
+	</script>
+	<script>
+	function write_div(arr){ // 将图片显示html
+		let str_img = 'https://tk.tutu.finance/aomen/2024/col/' + hasDays + '/';
+		for (let index = 0; index < arr.length; index++) {
+			let str_src = '';
+			str_src = str_img + arr[index] + '.jpg';
+			str_src = '<div><img src="' + str_src + '" width="100%"></div>';
+			document.write(str_src);
+		}
+	}
+	</script>
 	<body>
 		<div id="show_1"><hr>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/amgjp.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/amsbx.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/ammh.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/mts.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/jdbcz.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/lmkz.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/am30ma.jpg" width="100%"></div>
+		<script>
+			let arr_img1 = ['amgjp', 'amsbx', 'ammh', 'mts', 'jdbcz', 'lmkz', 'am30ma']
+			write_div(arr_img1);
+		</script>
 		<!-- 额外添加 --><hr>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/tjn.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/ambxgh.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/bxyl.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/mfpy.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/pt06.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/jxsm.jpg" width="100%"></div>
-		<div><img src="https://tk.tutu.finance/aomen/2024/col/237/yylm.jpg" width="100%"></div>
+		<script>
+			let arr_img2 = ['tjn', 'ambxgh', 'bxyl', 'mfpy', 'pt06', 'jxsm', 'yylm']
+			write_div(arr_img2);
+		</script>
 		<div id="show_2">
 		<div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【推荐】</font></font></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><td width="15%"><font color="black">237期</font></td><td><font color="blue">龙兔猪鸡狗虎鼠猴羊<td>9个4(119/150)</td><td width="15%"><font color="black">开:? 00</font></td></tr><tr><td width="15%"><font color="black">236期</font></td><td><font color="blue">龙兔猪狗鸡鼠猴<span style="background-color: #FFFF00">虎</span>羊<td>9个4(119/150)</td><td width="15%"><font color="red">开:虎03</font></td></tr><tr><td width="15%"><font color="black">235期</font></td><td><font color="blue">龙兔猪狗鸡鼠牛猴虎羊<td>10个1(67/79)</td><td width="15%"><font color="black">开:蛇24</font></td></tr><tr><td width="15%"><font color="black">234期</font></td><td><font color="blue">龙兔鼠猪鸡牛<span style="background-color: #FFFF00">狗</span>猴虎羊<td>10个1(67/79)</td><td width="15%"><font color="red">开:狗07</font></td></tr><tr><td width="15%"><font color="black">233期</font></td><td><font color="blue">龙兔鼠猪鸡猴牛狗虎羊<td>10个1(67/79)</td><td width="15%"><font color="black">开:马23</font></td></tr><tr><td width="15%"><font color="black">232期</font></td><td><font color="blue">龙鼠<span style="background-color: #FFFF00">兔</span>猪鸡猴狗牛虎羊<td>10个1(67/79)</td><td width="15%"><font color="red">开:兔02</font></td></tr><tr><td width="15%"><font color="black">231期</font></td><td><font color="blue">龙兔猪猴鸡狗<span style="background-color: #FFFF00">鼠</span>牛虎羊<td>10个1(67/79)</td><td width="15%"><font color="red">开:鼠17</font></td></tr><tr><td width="15%"><font color="black">230期</font></td><td><font color="blue"><span style="background-color: #FFFF00">龙</span>狗兔猪猴鸡鼠牛虎羊<td>10个1(67/79)</td><td width="15%"><font color="red">开:龙49</font></td></tr></tbody></table><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【三期必出】</font></font></div><table border="1" width="100%" class="duilianpt1" bgcolor="#ffffff" cellspacing="0" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" cellpadding="2" style="text-align: center;line-height: 35px; font-size: 16px;">
  	 <tr><td width="30%"><font color="red">238期</font></td>

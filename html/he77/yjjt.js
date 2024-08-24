@@ -54,14 +54,22 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
+document.writeln("<font style=\'font-size: 13pt\'>");
+document.writeln("238期玄机诗句<font color=\'#FF0000\'>【冲天香阵透长安，满城尽带黄金甲】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：天解天肖，兔马猴猪牛龙。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：兔马猴猪牛龙");
+document.writeln("</font></font></b></td></tr>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
 document.writeln("237期玄机诗句<font color=\'#FF0000\'>【猪前狗后结亲家，看看地支是哪家。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：猪前狗后结亲家，得猪狗，看看地支是哪家，是地肖蛇羊鸡狗鼠虎。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猪狗蛇羊鸡鼠");
+document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>猪</span>狗蛇羊鸡鼠");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");

@@ -155,11 +155,15 @@
 	}
 	</script>
 	<script>
-		const currentYear = new Date().getFullYear().toString();
-		const hasTimestamp = new Date() - new Date(currentYear); // 今天减今年的第一天（xxxx年01月01日）
-		const hasDays = Math.ceil(hasTimestamp / 86400000); // 86400000 = 24 * 60 * 60 * 1000
-		// console.log('今天是%s年中的第%s天', currentYear, hasDays);
-		// document.write(hasDays);
+	function get_day_of_year() { // 输出当下是一年中的第几天
+		let now = new Date();
+		let start = new Date(now.getFullYear(), 0, 0);
+		let hasTimestamp = now - start;
+		// 86400000 = 24 * 60 * 60 * 1000
+		let dayOfYear = Math.floor(hasTimestamp / 86400000);
+		return dayOfYear;
+	}
+	const hasDays = get_day_of_year();
 	</script>
 	<script>
 	function write_div(arr){ // 将图片显示html

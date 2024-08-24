@@ -7,6 +7,21 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『三连三连』</font></font></b></table></td></tr>");
 document.writeln("");
 
+
+document.writeln("");
+document.writeln("<!------开始------>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
+document.writeln("<span style=\'color: #FF0000;\'>237期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
+document.writeln("【猪兔羊】【蛇鼠虎】【羊牛鼠】</font></td></tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【羊鸡猪】【马鸡牛】【鼠龙牛】</font><font color=\'#008000\'> </font>");
+document.writeln("</td></tr>");
+document.writeln("<!------结束------>");
 document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<tr>");
@@ -18,7 +33,7 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
 document.writeln("【猴鸡牛】【兔虎马】【鸡牛蛇】</font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【鼠猪羊】【兔牛蛇】【兔马猪】</font><font color=\'#008000\'> </font>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><span style=\'background-color: #FFFF00\'>【鼠猪羊】</span>【兔牛蛇】【兔马猪】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");
 document.writeln("<!------结束------>");
 document.writeln("");

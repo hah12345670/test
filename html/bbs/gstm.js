@@ -62,6 +62,8 @@ document.writeln("  234期（平5*4+特-D2+平5+正3-2）=杀牛羊√<br>		");
 document.writeln("  235期（平5*4+特-D2+平5+正3-2）=杀羊鸡√<br>		");
 document.writeln("  236期（平5*4+特-D2+平5+正3-2）=杀兔猪√<br>		");
 document.writeln("  237期（平5*4+特-D2+平5+正3-2）=杀鼠马√<br>		");
+document.writeln("  238期（平5*4+特-D2+平5+正3-2）=杀兔鼠√<br>		");
+
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -74,6 +76,8 @@ document.writeln("      234期（平4*2+正1-D3+正6+正3-特）=杀水√<br>		
 document.writeln("      235期（平4*2+正1-D3+正6+正3-特）=杀土√<br>			");
 document.writeln("      236期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("      237期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
+document.writeln("      238期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -86,8 +90,8 @@ document.writeln("		<br>		");
 document.writeln("");
 document.writeln("");
 
-
 document.writeln("		237期（平5-2-D2+正4）=杀45尾√<br>		");
+document.writeln("		238期（平5-2-D2+正4）=杀10尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -97,6 +101,8 @@ document.writeln("");
 document.writeln("		235期（平4+3-D1+正2-平3）=杀4头√<br>		");
 document.writeln("		236期（平4+3-D1+正2-平3）=杀3头√<br>		");
 document.writeln("		237期（平4+3-D1+正2-平3）=杀1头√<br>		");
+document.writeln("		238期（平4+3-D1+正2-平3）=杀4头√<br>		");
+
 
 document.writeln("<br>");
 document.writeln("		");
@@ -119,7 +125,9 @@ document.writeln("        <font color=\'#0000FF\'>233期四头=4<span style=\'ba
 document.writeln("        <font color=\'#0000FF\'>234期四头=234<span style=\'background-color: #FFFF00\'>0</span>√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>235期四头=103<span style=\'background-color: #FFFF00\'>2</span>√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>236期四头=1<span style=\'background-color: #FFFF00\'>0</span>43√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>237期四头=4320√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>237期四头=<span style=\'background-color: #FFFF00\'>4</span>320√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>238期四头=0324√</font><br>	");
+
 
 document.writeln("		");
 document.writeln("<br>	");
@@ -128,7 +136,9 @@ document.writeln("<br>	");
 document.writeln("		<font color=\'#0000FF\'>234期七肖=虎<span style=\'background-color: #FFFF00\'>狗</span>兔鼠羊蛇猪√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>235期七肖=狗鸡马虎兔<span style=\'background-color: #FFFF00\'>蛇</span>羊√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>236期七肖=马猪牛狗鼠龙猴×</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>237期七肖=龙虎兔牛鸡鼠狗√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>237期七肖=龙虎兔牛鸡鼠狗×</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>238期七肖=鼠牛兔虎猴羊马√</font><br>		");
+
 
 document.writeln("<br>	");
 document.writeln("		");
@@ -136,14 +146,19 @@ document.writeln("		");
 
 
 document.writeln("		<font color=\'#0000FF\'>236期三行=木火<span style=\'background-color: #FFFF00\'>金</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>237期三行=火水土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>237期三行=火<span style=\'background-color: #FFFF00\'>水</span>土√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>238期三行=金木水√</font><br>			");
+
+
 document.writeln("		");
 document.writeln("		</span>		<br>		");
 document.writeln("");
 document.writeln("        </span>");
 document.writeln("");
 document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">236期六尾=672<span style=\'background-color: #FFFF00\'>3</span>49√</span></font><br>");
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">237期六尾=517032√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">237期六尾=517032×</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">238期六尾=427085√</span></font><br>");
+
 document.writeln("	");
 document.writeln("	</span>");
 document.writeln("		</b></font>");

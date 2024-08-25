@@ -21,15 +21,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'楷体\'>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>238期</font><font size=\"4\">男（虎龙马猴）女（兔羊蛇鸡）</font></font></font></b></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>239期</font><font size=\"4\">男（狗虎牛鼠）女（蛇鸡羊猪）</font></font></font></b></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");

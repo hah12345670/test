@@ -16,13 +16,25 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>239期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
+document.writeln("		       37.32.34.27.40.08.01.43.04.02.21.05<br>");
+document.writeln("			   20.10.19.22.47.17.13.12.38.18.09.03<br>");
+document.writeln("			   23.39.31.25.26.36.14.35.29.28.41.44</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
 document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>238期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
 document.writeln("		       14.15.49.31.13.23.36.17.44.38.22.46<br>");
 document.writeln("			   35.32.27.39.30.21.33.11.48.25.41.10<br>");
-document.writeln("			   02.05.18.42.12.29.40.45.19.06.28.16</font>");
+document.writeln("			   02.05.<span style=\'background-color: #FFFF00\'>18</span>.42.12.29.40.45.19.06.28.16</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
@@ -56,17 +68,7 @@ document.writeln("			   02.33.40.19.41.32.07.35.37.36.48.31</font>");
 document.writeln("			</td>");
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=40>");
-document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>233期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
-document.writeln("		       02.20.01.12.29.32.19.11.37.36.47.07<br>");
-document.writeln("			   49.<span style=\'background-color: #FFFF00\'>23</span>.09.24.27.41.44.21.10.38.25.35<br>");
-document.writeln("			   05.04.03.14.06.46.40.34.42.45.26.43</font>");
-document.writeln("			</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
-document.writeln("");
+
 
 
 

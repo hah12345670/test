@@ -17,6 +17,22 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("");
+document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("<b><font color=\'#0000FF\' size=\'3\'>238期红字暗码【谨慎从事】【04 25 36 43】</font></b><br> ");
+document.writeln("<b><font color=\'#008000\'>解：细心慎重地处事。</font></b><br>");
+document.writeln("<b><font color=\'#800000\' size=\'4\'>");
+document.writeln("解取特肖：狗龙鸡蛇羊虎鼠<br>");
+document.writeln("主特14码：07.19.13.25.08.20.12.36.22.46.03.15.17.41");
+document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
+document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");
+document.writeln("			。<a target=\'_blank\' href=\'https://xn--oecalb2e.xn--hdcn9ajb1dyeua6etcq8g3b.xn--gecrj9c:8443/#626969\'><img src=/images/33567.gif width=20 height=19><font color=\'#FF0000\'>更多跑狗解析进37859.com查看</font></a></tr></table>");
+document.writeln("");
+document.writeln("</a></tr></table></td>");
+document.writeln("<!--开始-->");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
@@ -25,7 +41,7 @@ document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: le
 document.writeln("<b><font color=\'#0000FF\' size=\'3\'>237期红字暗码【等闲视之】【08 13 32 41】</font></b><br> ");
 document.writeln("<b><font color=\'#008000\'>解：当做平常的人或事物看待。</font></b><br>");
 document.writeln("<b><font color=\'#800000\' size=\'4\'>");
-document.writeln("解取特肖：兔猪鸡蛇狗羊猴<br>");
+document.writeln("解取特肖：兔<span style=\'background-color: #FFFF00\'>猪</span>鸡蛇狗羊猴<br>");
 document.writeln("主特14码：02.14.30.42.20.32.12.36.31.43.10.22.09.21");
 document.writeln("</font></b><table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40 bgcolor=\'#FFFFFF\'><p style=text-align:center>");

@@ -58,7 +58,7 @@ document.writeln("<br>【牛鼠】【24.48.23.47】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("239期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
-document.writeln("<br>【2827b.com 第一个高手榜第四贴查看已更新】<br><br>");
+document.writeln("<br>【羊狗】【03.15.17.41】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -49,7 +49,8 @@ document.writeln("235期四季中特【<span style=\'background-color: #FFFF00\'
 document.writeln("236期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("237期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("238期四季中特【春秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("239期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期四季中特【夏<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("240期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -78,8 +79,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 
 document.writeln("237期才艺中特【琴书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("238期才艺中特【棋书<span style=\'background-color: #FFFF00\'>画</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("239期才艺中特【琴棋书】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("239期才艺中特【琴<span style=\'background-color: #FFFF00\'>棋</span>书】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期才艺中特【琴棋画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("	<br>");
 document.writeln("</span>");
@@ -116,8 +117,8 @@ document.writeln("235期⑨肖【兔猪鼠鸡猴虎<span style=\'background-colo
 document.writeln("236期⑨肖【<span style=\'background-color: #FFFF00\'>虎</span>猪兔狗鼠龙鸡牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("237期⑨肖【蛇虎鸡<span style=\'background-color: #FFFF00\'>猪</span>龙牛鼠羊狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("238期⑨肖【羊蛇鼠马牛猴鸡兔狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("239期⑨肖【牛兔龙虎鸡鼠猪马猴】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("239期⑨肖【牛兔龙虎鸡鼠猪马猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("240期⑨肖【兔牛虎鸡猴龙鼠马猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

@@ -59,9 +59,9 @@ document.writeln("	235期三肖中特<b><font size=\"5\">【鼠牛<span style=\"
 document.writeln("	236期三肖中特<b><font size=\"5\">【猴鼠马】</font></b>开:虎03错<br>	");
 document.writeln("	237期三肖中特<b><font size=\"5\">【鼠鸡<span style=\"background-color: #FFFF00\">猪</span>】</font></b>开:猪06准 <br>	");
 document.writeln("	238期三肖中特<b><font size=\"5\">【猴<span style=\"background-color: #FFFF00\">猪</span>狗】</font></b>开:猪18准 <br>	");
-document.writeln("	239期三肖中特<b><font size=\"5\">【兔猴马】</font></b>开:？00准 <br>	");
+document.writeln("	239期三肖中特<b><font size=\"5\">【兔猴马】</font></b>开:狗31错 <br>	");
+document.writeln("	240期三肖中特<b><font size=\"5\">【蛇龙虎】</font></b>开:？00准 <br>	");
 document.writeln("");
-document.writeln("	");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	");

@@ -68,7 +68,7 @@ document.writeln(".klj {border:solid 1px grey collapse;font-weight:700; font-siz
 document.writeln(".coll {color:#ffff00;}");
 document.writeln("</style>");
 document.writeln("");
-document.writeln("<a target=\"_blank\" href=\"https://xn--mdcx6gra7cc.xn--hdcl2bk2m1bc.xn--gecrj9c:8443\"><img src=\"/images/gsgl.png\" width=\"100%\"></a>");
+document.writeln("<a target=\"_blank\" href=\"https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443\"><img src=\"/images/gsgl.png\" width=\"100%\"></a>");
 document.writeln("<table width=\"100%\">");
 document.writeln("<tbody>");
 document.writeln("<tr>");

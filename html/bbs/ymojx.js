@@ -24,6 +24,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第240期幽默猜测</font><font color=\'#FF0000\'>（杂耍）</font><font color=\'#000000\'>：杂耍动物园里有一只很聪明的猩猩，经常带着自己的孩子做各种杂耍，这样惹得游客哈哈大笑，这样能为它们带来很多的水果和食物，今天猩猩的单脚独立能让游客开心吗？...本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：杂耍解龙牛兔猪羊马<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：龙牛兔猪羊马</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -33,7 +45,7 @@ document.writeln("	2024年第239期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：惊呆解羊猪狗马兔龙<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：羊猪狗马兔龙</font></b></div>");
+document.writeln("	综合特肖：羊猪</font><font size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font><font size=\'4\' color=\'#009900\'>马兔龙</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

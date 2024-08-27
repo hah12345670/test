@@ -73,7 +73,16 @@
 			str1 += '</table>';
 			document.getElementById("showdatax").innerHTML = str1;
 		}
+		const hasDays = get_day_of_year();
 		showdata_gz(arr1);
+		function get_day_of_year() { // 输出当下是一年中的第几天
+			let now = new Date();
+			let start = new Date(now.getFullYear(), 0, 0);
+			let hasTimestamp = now - start;
+			// 86400000 = 24 * 60 * 60 * 1000
+			let dayOfYear = Math.floor(hasTimestamp / 86400000);
+			return dayOfYear;
+		}
 		function showdata_gz(arr1) {
 			var nl = calendar;
 			let d = new Date();
@@ -84,9 +93,17 @@
 			let list2 = fuzzyQuery(arr1, nlxx2.gzDay);
 			let nlxx3 = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-0); // 今天
 			let list3 = fuzzyQuery(arr1, nlxx3.gzDay);
-			let list = [...['前天：'+arr1[arr1.length-2].substring(5, 12)], ...list1, 
-									...['昨天：'+arr1[arr1.length-1].substring(5, 12)], ...list2, 
-									...['今天：？ 00'], ...list3]; // 合并数组
+			let is_show = (hasDays==240);
+			let list = [];
+			if (is_show){
+				list = [...['前天：'+arr1[arr1.length-2].substring(5, 12)], ...list1, ...['<hr>'], 
+								...['昨天：'+arr1[arr1.length-1].substring(5, 12)], ...list2, ...['<hr>'], 
+								...['今天：？ 00'], ...list3, ...['<hr>']]; // 合并数组
+			} else {
+				list = [...['前天：** **'], ...list1, ...['<hr>'], 
+								...['昨天：** **'], ...list2, ...['<hr>'], 
+								...['今天：** **'], ...list3, ...['<hr>']]; // 合并数组
+			}
 			for (var i = 0; i < list.length; i++) {
 				str += '<p style="color: #ff0000dd;">' + list[i] + '</p>';
 			}

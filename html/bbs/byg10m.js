@@ -62,7 +62,7 @@ document.writeln("<br>【羊<span style=\'background-color: #FFFF00\'>狗</span>
 document.writeln("");
 document.writeln("");
 document.writeln("240期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
-document.writeln("<br>【62827b.com 第一个高手榜第4贴已经更新】<br><br>");
+document.writeln("<br>【猴马】【28.40.24.48】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -65,9 +65,12 @@ document.writeln("240期:【大亨送彩】二肖四码开:<font color=\"#FF00FF
 document.writeln("<br>【猴马】【28.40.</font><font color=\"#FF0000\" size=\"5\"><span style=\'background-color: #FFFF00\'>24</span></font><font size=\"4\">.48】<p align=\"center\">");
 document.writeln("");
 document.writeln("");
-document.writeln("241期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
-document.writeln("<br>【62827b.com 第一个高手榜第四贴已经更新】</font><p>");
+document.writeln("241期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">牛04</font>中		");
+document.writeln("<br>【龙猪】【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">04</span></font>.40.31.43】</font><p>");
 document.writeln("");
+document.writeln("");
+document.writeln("242期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");
+document.writeln("<br>【62827b.com 论坛第一个高手榜第四贴查看】</font><p>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

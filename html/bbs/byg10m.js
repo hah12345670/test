@@ -66,7 +66,7 @@ document.writeln("<br>【猴马】【28.40.</font><font color=\"#FF0000\" size=\
 document.writeln("");
 document.writeln("");
 document.writeln("241期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">牛04</font>中		");
-document.writeln("<br>【龙猪】【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">04</span></font>.40.31.43】</font><p>");
+document.writeln("<br>【龙猪】【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">04</span></font>.40.31.43】<p align=\"center\">");
 document.writeln("");
 document.writeln("");
 document.writeln("242期:【大亨送彩】二肖四码开:<font color=\"#FF00FF\">？00</font>中		");

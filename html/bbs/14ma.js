@@ -30,8 +30,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">241期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【19.03.06.43.29.28.20.14.15.07.01.04.25.39】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">242期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【34.15.38.44.46.48.25.39.17.43.28.31.02.03】</span></font></p>  	");
+document.writeln("");
+document.writeln("");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">241期:==14码中特==开牛04准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【19.03.06.43.29.28.20.14.15.07.01.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">04</span></font>.25.39】</span></font></p>  	");
 document.writeln("");
 
 

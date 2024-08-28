@@ -5,217 +5,214 @@ document.writeln("       ");
 document.writeln("       ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'https://xn--iecpa7b6b.xn--hdcakck9fcb2gqp1d.xn--gecrj9c:8443/#62gsb\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期码友集合</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖三码】</font><font color=\"#000000\" style=\"font-size: 12pt\">连中稳赚！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期码友集合</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖三码】</font><font color=\"#000000\" style=\"font-size: 12pt\">连中稳赚！</font></span></a></li>");
 document.writeln("");
 document.writeln("       ");
-document.writeln("       ");
+document.writeln("              ");
 document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj07.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【两个半波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj08.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【琴棋书画】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
-document.writeln("                     ");
 document.writeln("");
+
 document.writeln("");
 document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj17.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三行中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj03.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六尾12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
 document.writeln("");
+
 document.writeln("");
 document.writeln("              <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x107.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期大亨送彩</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【二肖四码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-
-document.writeln("");
-document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin12.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期宁远兄弟</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖四码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin14.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【综合绝杀】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("");
-document.writeln("       ");
-document.writeln("");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj16.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九至五肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("");
-document.writeln("              ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin06.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期杨家佬爷</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七至四尾】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-
-document.writeln("             ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x116.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期幸运星星</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【3.肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("           ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/078.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("    ");
-document.writeln("");
-document.writeln("       ");
-document.writeln("                 ");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj12.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【前后二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("                 ");
-
-document.writeln("");
-
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj09.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【波色四肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期大亨送彩</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【二肖四码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
 
 document.writeln("");
 document.writeln("       ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj01.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【八肖16码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【八肖16码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj05.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七肖14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-
-document.writeln("       ");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s004.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期波霸少郎</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀一波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj04.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七尾14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("              ");
-
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj15.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("              ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj08.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【琴棋书画】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("");
-
-document.writeln("");
-
-document.writeln("");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj03.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六尾12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("");
-
-document.writeln("       ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj06.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四季中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("       ");
-
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\">");
-document.writeln("		<span style=\"text-decoration: none\">");
-document.writeln("		<a target=\"_blank\" href=\"/6dgsb/xin08.html\"><font color=\"#000000\" style=\"font-size: 12pt\">");
-document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>241期本站出品</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【波王一波】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
-document.writeln("");
-document.writeln("");
-
-document.writeln("       ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin13.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期六六大顺</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【杀1头1行】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj18.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三头中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("       ");
-document.writeln("          ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj13.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【单双二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-
-document.writeln("       ");
-document.writeln("");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/077.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【平特一肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-
-
-document.writeln("              ");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s013.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期娃娃他爹</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四门中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-document.writeln("       ");
-document.writeln("       ");
-document.writeln("       ");
 document.writeln("       ");
 document.writeln("       ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\">");
 document.writeln("		<span style=\"text-decoration: none\">");
 document.writeln("		<a target=\"_blank\" href=\"/gsb/jh888.html\"><font color=\"#000000\" style=\"font-size: 12pt\">");
-document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>241期郭沫若若</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【稳赚五肖】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
+document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>242期郭沫若若</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【稳赚五肖】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
 document.writeln("           ");
+document.writeln("       ");
+document.writeln("                 ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj12.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【前后二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("");
+document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin13.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期六六大顺</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【杀1头1行】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("");
+
+document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj06.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四季中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin12.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期宁远兄弟</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三肖四码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin14.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【综合绝杀】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("");
+document.writeln("       ");
 document.writeln("");
 document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj16.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九至五肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("");
+document.writeln("              ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin06.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期杨家佬爷</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七至四尾】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+
+document.writeln("             ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/x116.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期幸运星星</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【3.肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("           ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/078.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四肖中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("    ");
+document.writeln("");
+
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj09.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【波色四肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("       ");
+
+document.writeln("");
+document.writeln("");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj05.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七肖14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+
+document.writeln("       ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s004.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期波霸少郎</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀一波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj04.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七尾14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("              ");
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj15.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖12码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+
+document.writeln("");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj17.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三行中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+
+document.writeln("       ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj07.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【两个半波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("                     ");
+
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\">");
+document.writeln("		<span style=\"text-decoration: none\">");
+document.writeln("		<a target=\"_blank\" href=\"/6dgsb/xin08.html\"><font color=\"#000000\" style=\"font-size: 12pt\">");
+document.writeln("		<span style=\"text-decoration: none\"><img src=\'/images/zhong.gif\'>242期本站出品</span></font><span style=\"text-decoration: none\"><font color=\"#FF0000\" style=\"font-size: 14pt\">【波王一波】</font></span><font color=\"#000000\" style=\"font-size: 12pt\"><span style=\"text-decoration: none\">稳赚不赔！</span></font></a></span></li>");
+document.writeln("");
+document.writeln("");
+
+
+
+
+document.writeln("");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj18.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【三头中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("       ");
+document.writeln("          ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj13.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【单双二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+
+document.writeln("       ");
+document.writeln("");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/077.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期专业理财</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【平特一肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+
+
+document.writeln("              ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s013.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期娃娃他爹</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【四门中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+document.writeln("       ");
+document.writeln("       ");
+document.writeln("       ");
+
+document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj11.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【平特2.码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【平特2.码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("              <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/050.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期澳门铁粉</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期澳门铁粉</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 
 
@@ -223,7 +220,7 @@ document.writeln(" ");
 document.writeln("                  ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj14.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【家禽二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【家禽二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("         ");
 document.writeln("       ");
 
@@ -232,7 +229,7 @@ document.writeln("       ");
 document.writeln("");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj10.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>241期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【五尾10码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>242期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【五尾10码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

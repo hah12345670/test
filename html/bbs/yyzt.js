@@ -23,13 +23,21 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">241期一语中特【潜山隐市】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：潜身于山林，隐迹于市井</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇虎龙马狗兔开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">240期一语中特【惹火上身】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：比喻自己招灾惹祸害自己。解释惹:招引。比喻自己招灾惹祸害自己</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠猴羊蛇兔狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠猴羊<span style=\'background-color: #FFFF00\'>蛇</span>兔狗开蛇24准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -108,9 +116,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">240期一语中特【书香铜臭】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指集书香和铜臭于一体的书商。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡猪鼠马虎狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">241期一语中特【转面无情】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：翻脸不认人。亦称翻脸无情。。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴虎鼠龙羊开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<tr>");

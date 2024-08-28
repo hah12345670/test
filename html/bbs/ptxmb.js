@@ -54,7 +54,9 @@ document.writeln(" 236期<span style=\'background-color: #FFFF00\'>【羊】</sp
 document.writeln(" 237期【马】×<br>");
 document.writeln(" 238期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>");
 document.writeln(" 239期【鼠】×<br>");
-document.writeln(" 240期【兔】√<br>");
+document.writeln(" 240期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>");
+document.writeln(" 241期【鸡】√<br>");
+
 
 document.writeln("");
 document.writeln("");
@@ -76,25 +78,18 @@ document.writeln("234-236期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("236-238期出平<span style=\'background-color: #FFFF00\'>【虎】</span>236期中<br>");
 document.writeln("237-239期出平<span style=\'background-color: #FFFF00\'>【羊】</span>237期中<br>");
 document.writeln("239-241期出平<span style=\'background-color: #FFFF00\'>【龙】</span>239期中<br>");
-document.writeln("240-242期出平【鼠】000期中<br>");
+document.writeln("240-242期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>240期中<br>");
+document.writeln("241-243期出平【羊】000期中<br>");
+
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\' face=\'微软雅黑\'>摊位三推荐三期平码</font><BR>");
 document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
-document.writeln("217-219期平码【<span style=\'background-color: #FFFF00\'>14</span>.28.<span style=\'background-color: #FFFF00\'>42</span>.15】219期中<br>");
-document.writeln("220-221期平码【15.48.<span style=\'background-color: #FFFF00\'>05</span>.39】220期中<br>");
-document.writeln("221-222期平码【32.<span style=\'background-color: #FFFF00\'>14</span>.13.34】221期中<br>");
-document.writeln("222-224期平码【33.46.<span style=\'background-color: #FFFF00\'>30.18</span>】223期中<br>");
-document.writeln("224-226期平码【26.<span style=\'background-color: #FFFF00\'>22</span>.25.15】224期中<br>");
-document.writeln("225-227期平码【30.<span style=\'background-color: #FFFF00\'>16</span>.39.48】226期中<br>");
-document.writeln("227-229期平码【21<span style=\'background-color: #FFFF00\'>26</span>..06.42】228期中<br>");
-document.writeln("229-231期平码【33.04.15.<span style=\'background-color: #FFFF00\'>43</span>】230期中<br>");
-document.writeln("231-233期平码【18.24.<span style=\'background-color: #FFFF00\'>17</span>.46】231期中<br>");
-document.writeln("232-234期平码【26.45.<span style=\'background-color: #FFFF00\'>43</span>.23】233期中<br>");
-document.writeln("234-236期平码【40.<span style=\'background-color: #FFFF00\'>45</span>.17.23】234期中<br>");
-document.writeln("238-240期平码【49.12.15.16】000期中<br>");
+
+document.writeln("241-243期平码【23.26.05.17】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -108,8 +103,8 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 document.writeln("238期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
 document.writeln("239期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
-document.writeln("240期【6尾】√<br>");
-
+document.writeln("240期【6尾】×<br>");
+document.writeln("241期【8尾】√<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -128,7 +123,9 @@ document.writeln("233-235期平尾<span style=\'background-color: #FFFF00\'>【4
 document.writeln("234-236期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>234期中<br>");
 document.writeln("235-237期平尾<span style=\'background-color: #FFFF00\'>【9尾】</span>235期中<br>");
 document.writeln("236-238期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>238期中<br>");
-document.writeln("239-241期平尾【3尾】000期中<br>");
+document.writeln("239-241期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>240期中<br>");
+document.writeln("241-243期平尾【7尾】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -138,8 +135,8 @@ document.writeln("");
 document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
 document.writeln("238期（23.05.37.34.41）√<br>");
 document.writeln("239期（40.37.13.23.04）√<br>");
-document.writeln("240期（09.25.07.42.18）√<br>");
-
+document.writeln("240期（09.25.07.42.18）×<br>");
+document.writeln("241期（06.19.46.03.27）√<br>");
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

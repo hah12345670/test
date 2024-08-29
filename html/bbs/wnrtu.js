@@ -250,4 +250,33 @@ document.writeln("		<p>老曾七肖</p>");
 document.writeln("		</div>");
 document.writeln("	</li>");
 
-document.wr
+document.writeln("<li>");
+document.writeln("		<div>");
+document.writeln("		<a href=\"javascript:;\"><img src=\"https://xn--ldc4a5b1cm0dm3d.xn--hdcj3c4d7a4ic.xn--gecrj9c:8443/img/lzwj7x242.jpg\"></a>");
+document.writeln("		<p>无错七肖</p>");
+document.writeln("		</div>");
+document.writeln("	</li>");
+document.writeln("<li>");
+document.writeln("		<div>");
+document.writeln("		<a href=\"javascript:;\"><img src=\"https://xn--gecir3hc.xn--odcxb3ba7cxbtcp1b3g4a3h9bzb.xn--gecrj9c:8443/images/nbu6x242.jpg\"></a>");
+document.writeln("		<p>泄密六肖</p>");
+document.writeln("		</div>");
+document.writeln("	</li>");
+
+document.writeln("			</ul>");
+document.writeln("</ul>");
+document.writeln("</div>");
+document.writeln("");
+document.writeln("<script>");
+document.writeln("     //弹出一个iframe层 ");
+document.writeln("    $(\'#mj01 a\').on(\'click\', function(e){");
+document.writeln("    var val=$(this).children(\'img\').attr(\'src\');");
+document.writeln("    var path=val;");
+document.writeln("    $(\'#tctp3\').attr(\'src\',path); ");
+document.writeln("    document.getElementById(\'tanxpg-black\').style.display=\'table\';");
+document.writeln("    });");
+document.writeln("</script>");
+document.writeln("");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--图库 end-->");

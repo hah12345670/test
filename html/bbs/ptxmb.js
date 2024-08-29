@@ -55,7 +55,8 @@ document.writeln(" 237期【马】×<br>");
 document.writeln(" 238期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>");
 document.writeln(" 239期【鼠】×<br>");
 document.writeln(" 240期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>");
-document.writeln(" 241期【鸡】√<br>");
+document.writeln(" 241期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>");
+document.writeln(" 242期【羊】√<br>");
 
 
 document.writeln("");
@@ -79,7 +80,8 @@ document.writeln("236-238期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("237-239期出平<span style=\'background-color: #FFFF00\'>【羊】</span>237期中<br>");
 document.writeln("239-241期出平<span style=\'background-color: #FFFF00\'>【龙】</span>239期中<br>");
 document.writeln("240-242期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>240期中<br>");
-document.writeln("241-243期出平【羊】000期中<br>");
+document.writeln("241-243期出平<span style=\'background-color: #FFFF00\'>【羊】</span>241期中<br>");
+document.writeln("242-244期出平【狗】000期中<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -89,6 +91,8 @@ document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
 
 document.writeln("241-243期平码【23.26.05.17】000期中<br>");
+
+
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -104,7 +108,9 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("238期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
 document.writeln("239期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
 document.writeln("240期【6尾】×<br>");
-document.writeln("241期【8尾】√<br>");
+document.writeln("241期【8尾】×<br>");
+document.writeln("242期【7尾】√<br>");
+
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -136,7 +142,9 @@ document.writeln("</font><font style=\'font-size: 14pt\' face=\'微软雅黑\'>"
 document.writeln("238期（23.05.37.34.41）√<br>");
 document.writeln("239期（40.37.13.23.04）√<br>");
 document.writeln("240期（09.25.07.42.18）×<br>");
-document.writeln("241期（06.19.46.03.27）√<br>");
+document.writeln("241期（06.19.46.03.27）×<br>");
+document.writeln("242期（16.08.31.48.24）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

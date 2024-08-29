@@ -22,7 +22,7 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'楷体\'>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>241期</font><font size=\"4\">男（猴马鼠龙）女（蛇羊猪鸡）</font></font></font></b></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>242期</font><font size=\"4\">男（猴狗鼠龙）女（兔羊猪鸡）</font></font></font></b></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

@@ -145,4 +145,83 @@ document.writeln("<font color=\'#FF0000\'>综合解肖：猴猪<span style=\'bac
 document.writeln("==========================<br>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-fa
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第229期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：鼠05中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【油头粉面】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：形容人打扮过分而显轻浮（多指男子）。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：龙猴<span style=\'background-color: #FFFF00\'>鼠</span>虎猪鸡</font></b><br>");
+document.writeln("==========================<br>");
+
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第228期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【猴子偷桃】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：打斗动作中专门以手抓方式攻击裆部的一类招数。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：蛇羊鸡虎<span style=\'background-color: #FFFF00\'>龙</span>猴</font></b><br>");
+document.writeln("==========================<br>");
+
+
+
+document.writeln("");
+document.writeln("<!--凤凰天机-->    ");
+document.writeln("	");
+
+document.writeln("	");
+document.writeln("	");
+document.writeln("</div>");
+document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
+document.writeln(" <!--波色玄机-->");
+document.writeln("<p align=\'center\'>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/242/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第242期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红花还需绿叶配】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝04中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【三月蓝色一片红】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第240期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红24中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【前程好比绿山<span style=\'background-color: #FFFF00\'>红</span>】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第238期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红18中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红颜薄命无天蓝】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第237期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：绿06中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝波未平绿双起】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第236期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：蓝03中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝天红云满山跑】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第234期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红07中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【关南绿树几番红】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("   ");
+document.writeln("</div>");
+document.writeln("</div>");
+document.writeln("</div>");

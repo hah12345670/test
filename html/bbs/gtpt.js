@@ -253,16 +253,4 @@ document.writeln("		<font color=\'#000000\'>必中平码：09.21.<span style=\'b
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
-document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\"4\" face=\"微软雅黑\">光头六肖中特：虎<span style=\'background-color: #FFFF00\'>兔</span>鼠鸡猪马（2倍）开兔02</font></b></td>");
-document.writeln("    </tr>     ");
-document.writeln("  ");
-document.writeln(" <!--开始--> ");
-
-
-
-document.writeln("");
-document.writeln("      ");
-document.writeln("  </tbody>");
-document.writeln("</table>");
+document.writeln("      <td

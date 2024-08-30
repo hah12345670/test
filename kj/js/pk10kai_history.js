@@ -697,7 +697,8 @@ function listData(date) {
 	date = date == undefined ? "" : date;
 	$.ajax({
 		// url: urlbublic + "pks/getPksHistoryList.do?date=" + date,
-		url: "https://api.api68.com/pks/getPksHistoryList.do?date=2023-5-28",
+		// url: "https://api.api68.com/pks/getPksHistoryList.do?date=2023-5-28",
+		url: "https://api.api168168.com/pks/getPksHistoryList.do?date=2024-8-31",
 		type: "GET",
 		data: {
 			"lotCode": 10057

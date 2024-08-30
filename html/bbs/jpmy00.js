@@ -11,13 +11,23 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFFFF\'>『金牌谜语』</font></font></b></table>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("244期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("	<span style=\"font-size: 13pt\">");
+document.writeln("一条腿挨雨淋，二条腿叫天明。<br>");
+document.writeln("三条腿火烧肚，四条腿陪客人。</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("243期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("243期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>龙01</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("	<span style=\"font-size: 13pt\">");
 document.writeln("小小东西真方便，千里传音不用线。<br>");
 document.writeln("随身到处它都行，有话不用写信件。</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");

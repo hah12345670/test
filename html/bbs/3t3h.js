@@ -1,6 +1,6 @@
 ﻿document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
-document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>流年开花【⑥肖⑤尾】</font></b></table>");
+document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>优质码友【三头三行】</font></b></table>");
 document.writeln("           ");
 document.writeln("");
 document.writeln("");
@@ -33,22 +33,16 @@ document.writeln("	");
 document.writeln("");
 document.writeln("<!--十肖-->");
 document.writeln("");
-document.writeln("<font color=\'#0000FF\' style=\"font-size: 16pt\">【六肖中特】</font><br>");
+document.writeln("<font color=\'#FF00FF\' style=\"font-size: 16pt\">【三头中特】</font><br>");
 document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
-document.writeln("	");
 
 
 
-document.writeln("238期⑥肖【牛鸡马<span style=\'background-color: #FFFF00\'>猪</span>虎羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("239期⑥肖【兔虎牛马<span style=\'background-color: #FFFF00\'>狗</span>猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期⑥肖【猴羊龙鸡<span style=\'background-color: #FFFF00\'>蛇</span>马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("241期⑥肖【龙羊虎鸡猴<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("242期⑥肖【狗马虎龙<span style=\'background-color: #FFFF00\'>猪</span>猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("243期⑥肖【鸡猴狗<span style=\'background-color: #FFFF00\'>龙</span>牛鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("244期⑥肖【鸡鼠羊蛇猴狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("242期3.头中特【0.<span style=\'background-color: #FFFF00\'>3</span>.4】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("243期3.头中特【4.1.<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("244期3.头中特【4.3.0】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -60,25 +54,27 @@ document.writeln("	<br>");
 document.writeln("</span>");
 document.writeln("");
 document.writeln("<!--结束-->");
-document.writeln("<!---->");
+
 document.writeln("");
 document.writeln("");
 document.writeln("	");
 document.writeln("");
 document.writeln("<!--十肖-->");
 document.writeln("");
-document.writeln("<font color=\'#0000FF\' style=\"font-size: 16pt\">【五尾中特】</font><br>");
+document.writeln("<font color=\'#FF00FF\' style=\"font-size: 16pt\">【三行中特】</font><br>");
 document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
-document.writeln("");
-document.writeln("");
-document.writeln("240期⑤尾【09<span style=\'background-color: #FFFF00\'>4</span>12】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("241期⑤尾【58297】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("242期⑤尾【8<span style=\'background-color: #FFFF00\'>0</span>936】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("243期⑤尾【3749<span style=\'background-color: #FFFF00\'>1</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("244期⑤尾【69234】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("236期3.行中特【水.<span style=\'background-color: #FFFF00\'>金</span>.火】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("237期3.行中特【<span style=\'background-color: #FFFF00\'>木</span>.水.火】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("238期3.行中特【<span style=\'background-color: #FFFF00\'>土</span>.木.金】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期3.行中特【水.<span style=\'background-color: #FFFF00\'>火</span>.土】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("240期3.行中特【火.<span style=\'background-color: #FFFF00\'>金</span>.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("241期3.行中特【水.金.火】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("242期3.行中特【木.土.水】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("243期3.行中特【<span style=\'background-color: #FFFF00\'>火</span>.木.土】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("244期3.行中特【土.水.金】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("");
+
 document.writeln("	");
 document.writeln("		");
 document.writeln("");
@@ -87,7 +83,13 @@ document.writeln("	<br>");
 document.writeln("</span>");
 document.writeln("");
 document.writeln("<!--结束-->");
-document.writeln("<!---->");
+document.writeln("<!--");
+document.writeln("【金】01 02 09 10 23 24 31 32 39 40");
+document.writeln("【木】05 06 13 14 21 22 35 36 43 44");
+document.writeln("【水】11 12 19 20 27 28 41 42 49");
+document.writeln("【火】07 08 15 16 29 30 37 38 45 46");
+document.writeln("【土】03 04 17 18 25 26 33 34 47 48");
+document.writeln("-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("");

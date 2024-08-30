@@ -901,7 +901,8 @@ var listdata = {};
 function createHtmlList(jsondata) {
 	// var data = tools.parseObj(jsondata);
 	var xhr = new XMLHttpRequest();
-	xhr.open('GET', 'https://api.api68.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
+	// xhr.open('GET', 'https://api.api68.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
+	xhr.open('GET', 'https://api.api168168.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
 	xhr.responseType = 'json';
 	xhr.onload = function() {
 		var data = xhr.response, data2 = [];
@@ -972,7 +973,8 @@ function createHtmlList(jsondata) {
 function getDataList(jsondata) {
 	// var data = tools.parseObj(jsondata);
 	var xhr = new XMLHttpRequest();
-	xhr.open('GET', 'https://api.api68.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
+	// xhr.open('GET', 'https://api.api68.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
+	xhr.open('GET', 'https://api.api168168.com/pks/getPksHistoryList.do?date=' + jsondata + '&lotCode=10057', true);
 	xhr.responseType = 'json';
 	xhr.onload = function() {
 		var data = xhr.response;

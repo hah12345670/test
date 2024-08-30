@@ -84,9 +84,7 @@ document.writeln("                    <ul class=\"mj_body mj_body_select\" id=\"
 document.writeln("<ul>");
 document.writeln("");
 document.writeln("");
-document.writeln("<div class=\"tuku  section\" id=\"channel04\">");
-document.writeln("                    <ul class=\"mj_body mj_body_select\" id=\"mj01\" style=\"display: block;\">");
-document.writeln("<ul>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("	<li>");

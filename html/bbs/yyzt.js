@@ -26,9 +26,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">243期一语中特【瞎说八道】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：由于跑得太勤，跑得太快，把人家的门槛都踢断了。有讽刺意。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎鼠龙猴蛇狗开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">242期一语中特【踢断门槛】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：由于跑得太勤，跑得太快，把人家的门槛都踢断了。有讽刺意。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴鼠牛猪鸡兔开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴鼠牛<span style=\'background-color: #FFFF00\'>猪</span>鸡兔开猪30准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -117,9 +125,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">242期一语中特【零碎不全】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：残:残破;缺:缺少;全:完整。残破、缺少,很不完全。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：马鸡猪牛虎兔开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">243期一语中特【因执不通】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：顽固地坚持自己的意见,不肯变通。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡兔牛猴蛇猪开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -195,37 +203,6 @@ document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗<span s
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">227期一语中特【单根独苗】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释： 比喻独生子或唯一的子孙。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇猪狗<span style=\'background-color: #FFFF00\'>鸡</span>鼠羊开鸡20准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">225期一语中特【福无十全】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：有福的人也不十全十美，毫无缺陷。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>鼠</span>马羊牛龙虎开鼠05准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">223期一语中特【涉世未深】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指接触社会,经历的世事还不多,多形容年轻人。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇鸡龙鼠<span style=\'background-color: #FFFF00\'>猪</span>牛开猪30准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">221期一语中特【内外勾结】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：为内部与外部暗中配合达到某种目的。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇狗鼠虎马<span style=\'background-color: #FFFF00\'>龙</span>开龙01准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 

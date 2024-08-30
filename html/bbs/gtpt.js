@@ -45,33 +45,58 @@ document.writeln("      <td align=\'left\' height=42 bgcolor=\'#FFFF00\' ><p ali
 document.writeln("");
 document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#000000\'>242期<font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></td>");
+document.writeln("		<font color=\'#000000\'>243期<font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头平特一肖：羊羊羊（2.1倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>光头平特一肖：鼠鼠鼠（2.1倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>光头平特一尾：666（1.8倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>光头平特一尾：222（1.8倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\'>必中平码：22.34.26.36（2.1倍）</font>  ");
+document.writeln("		<font color=\'#000000\'>必中平码：05.29.12.32（2.1倍）</font>  ");
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\"4\" face=\"微软雅黑\">光头六肖中特：猪虎羊龙牛蛇（2倍）开</font></b></td>");
+document.writeln("		<font color=\'#000000\' size=\"4\" face=\"微软雅黑\">光头六肖中特：猴虎兔牛马龙（2倍）开</font></b></td>");
+document.writeln("    </tr>     ");
+document.writeln("  ");
+document.writeln(" <!--开始--> ");
+document.writeln("");
+document.writeln(" <!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td align=\'left\' height=42 bgcolor=\'#FFFF00\' ><p align=\'center\'>");
+document.writeln("");
+document.writeln("		<font size=\'4\' face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("		<font color=\'#000000\'>242期<font color=\'#FF0000\' face=\'隶书\' size=\'6\'>光头平特</font><font color=\'#000000\'>兔年大中！</font></td>");
+document.writeln("    </tr>");
+
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<font face=\'微软雅黑\' size=\"4\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\'>光头平特一尾：<span style=\'background-color: #FFFF00\'>666</span>（1.8倍）开06</font>  ");
+document.writeln("		</b> </font> </td>");
+document.writeln("    </tr>");
+
+document.writeln("	<tr>");
+document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' size=\"4\" face=\"微软雅黑\">光头六肖中特：<span style=\'background-color: #FFFF00\'>猪</span>虎羊龙牛蛇（2倍）开猪30</font></b></td>");
 document.writeln("    </tr>     ");
 document.writeln("  ");
 document.writeln(" <!--开始--> ");
@@ -253,4 +278,16 @@ document.writeln("		<font color=\'#000000\'>必中平码：09.21.<span style=\'b
 document.writeln("		</b> </font> </td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
-document.writeln("      <td
+document.writeln("      <td height=39 bgcolor=\'#FFFFFF\' align=\'left\' ><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' size=\"4\" face=\"微软雅黑\">光头六肖中特：虎<span style=\'background-color: #FFFF00\'>兔</span>鼠鸡猪马（2倍）开兔02</font></b></td>");
+document.writeln("    </tr>     ");
+document.writeln("  ");
+document.writeln(" <!--开始--> ");
+
+
+
+document.writeln("");
+document.writeln("      ");
+document.writeln("  </tbody>");
+document.writeln("</table>");

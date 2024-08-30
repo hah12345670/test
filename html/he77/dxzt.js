@@ -18,68 +18,13 @@ document.writeln("");
 
 
 
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>242期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>239期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>狗31</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>237期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>猪06</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>235期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>蛇24</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>234期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>狗07</font>准</td>");
+document.writeln("    <td>243期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
 
-
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>231期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>鼠17</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>230期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>龙49</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>228期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>龙37</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 

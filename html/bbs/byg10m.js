@@ -114,3 +114,32 @@ document.writeln("		<font color=\"#FF00FF\">这里从不推假料</font></span><
 document.writeln("    </tr>   </table>     ");
 document.writeln("    <!--结束-->  ");
 document.writeln("    ");
+
+
+document.writeln("<!--四九图库文字推广start-->");
+document.writeln("<table style=\"border-collapse:collapse;color:#000;font-weight:700;border:2px solid #000\" border=\"2\" width=\"100%\">");
+document.writeln("<tbody>");
+document.writeln("<tr>");
+document.writeln("<td style=\"color:#000;font-family:新宋体;font-weight:700;border:2px solid #000\" width=\"100%\" height=\"80\" bgcolor=\"#808000\">");
+document.writeln("<p style=\"line-height:200%\" align=\"center\">");
+document.writeln("<span style=\"text-decoration: none; font-family: 方正中粗雅宋简体; font-weight:400\">");
+document.writeln("<a target=\"_blank\" rel=\"noopener\" href=\"https://8183zz.www85735b.com:8443/#db62\">");
+document.writeln("<strong style=\"font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:inherit;font-variant-east-asian:inherit;font-stretch:inherit;line-height:inherit;font-family:微软雅黑;vertical-align:baseline;letter-spacing:normal;orphans:2;text-align:-webkit-center;text-indent:0;text-transform:none;white-space:normal;widows:2;word-spacing:0;-webkit-text-stroke-width:0;text-decoration-style:initial;text-decoration-color:initial;border:0 none;margin:0;padding:0;\">");
+document.writeln("<span style=\"text-decoration: none\">");
+document.writeln("");
+document.writeln("");
+document.writeln("<font color=\"#FFFFFF\" style=\"font-size: 15pt\">");
+document.writeln("（明日之事&#8226;单双10码）<br>");
+document.writeln("");
+document.writeln("239期：03.15.19.23.27.<span style=\"background-color: #FF0000\">31</span>.33.35.43.4<br>");
+document.writeln("240期：08.10.12.14.16.20.<span style=\"background-color: #FF0000\">24</span>.28.30.36<br>");
+document.writeln("241期：<span style=\"background-color: #FF0000\">04</span>.06.10.16.24.30.38.42.44.46<br>");
+document.writeln("242期：02.10.12.14.20.26.<span style=\"background-color: #FF0000\">30</span>.34.38.42<br>");
+document.writeln("243期：03.11.15.19.21<span style=\"background-color: #FF0000\">.01</span>.33.39.41.43<br>");
+document.writeln("244期：已更新在澳门之家85735.com</font><font color=\"#FFFFFF\" size=\"5\"><br>");
+document.writeln("");
+document.writeln("（以上10码206-244期错12）</font><font color=\"#000000\" size=\"5\"><br>");
+document.writeln("");
+document.writeln("</font></span></strong></a></span><span style=\"font-family:微软雅黑\"><a target=\"_blank\" rel=\"noopener\" href=\"https://8183zz.www85735b.com:8443/#db62\"><span style=\"font-size:15pt; text-decoration:none; font-family:方正中粗雅宋简体\"><font color=\"#000000\"><br><img style=\"width:auto\" src=\"https://gddfrrr.www552257c.com:8443/images/555332.gif\"></font></span><span style=\"text-decoration: none; font-family:方正中粗雅宋简体\"><font size=\"5\" color=\"#FFFF00\"><strong style=\"font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:inherit;font-variant-east-asian:inherit;font-stretch:inherit;line-height:inherit;vertical-align:baseline;orphans:2;text-align:-webkit-center;text-indent:0;text-transform:none;white-space:normal;widows:2;word-spacing:0;-webkit-text-stroke-width:0;text-decoration-style:initial;text-decoration-color:initial;border:0 none;margin:0;padding:0;\">【点击这里查看】</strong></font></span></a></span><span style=\"text-decoration: none; font-family: 方正中粗雅宋简体; font-weight:400\"></p></td></tr></tbody></table>");
+document.writeln("");
+document.writeln("<!--四九图库文字推广start-->");

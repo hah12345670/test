@@ -46,123 +46,21 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第243期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【红肖出特蓝肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
 
 document.writeln("");
 document.writeln("           <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第241期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开牛04</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第244期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("     	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【蓝肖出特<span style=\'background-color: #FFFF00\'>绿肖</span>防】</font></b></td>");
+document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【红肖出特绿肖防】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("          <!--开始--> ");;
 
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第239期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开狗31</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【蓝肖出特<span style=\'background-color: #FFFF00\'>绿肖</span>防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
-
-
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第238期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开猪18</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>蓝肖</span>出特红肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
-
-
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第237期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开猪06</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>蓝肖</span>出特绿肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
-
-
-
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第235期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开蛇24</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>蓝肖</span>出特绿肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
-
-
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第234期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开狗07</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【红肖出特<span style=\'background-color: #FFFF00\'>绿肖</span>防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
-
-
-document.writeln("");
-document.writeln("           <!--开始--> ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>第233期</font><font size=\'4\' color=\'#FF00FF\' face=\'微软雅黑\'>【一波生肖】</font><font color=\'#000000\' face=\'微软雅黑\'>开马23</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("     	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b> "); 
-document.writeln("		<font size=\'5\' color=\'#008000\' face=\'微软雅黑\'>【<span style=\'background-color: #FFFF00\'>红肖</span>出特绿肖防】</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("          <!--开始--> ");;
 
 document.writeln("");
 document.writeln("");

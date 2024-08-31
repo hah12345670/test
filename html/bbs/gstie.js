@@ -61,8 +61,8 @@ document.writeln("239期③肖特【蛇虎龙】开狗31错<br>	");
 document.writeln("240期③肖特【鼠<span style=\'background-color: #FFFF00\'>蛇</span>猪】开蛇24中<br>	");
 document.writeln("241期③肖特【狗<span style=\'background-color: #FFFF00\'>牛</span>龙】开牛04中<br>	");
 document.writeln("242期③肖特【兔<span style=\'background-color: #FFFF00\'>猪</span>龙】开猪30中<br>	");
-document.writeln("243期③肖特【牛兔虎】开？00中<br>	");
-
+document.writeln("243期③肖特【牛兔虎】开龙01错<br>	");
+document.writeln("244期③肖特【虎龙狗】开？00中<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

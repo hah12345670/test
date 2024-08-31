@@ -23,8 +23,9 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("243期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>3-1-8-6-9-4</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>1-5-3-6-4-0</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

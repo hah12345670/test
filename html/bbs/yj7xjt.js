@@ -19,17 +19,17 @@ document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpaddi
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<tr>");
 document.writeln("				<th width=\'14%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
-document.writeln("		243期</font></th>");
+document.writeln("		244期</font></th>");
 document.writeln("				<th style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'>");
 document.writeln("				<span style=\'text-decoration: none\'>");
 document.writeln("				<font color=\'#FF0000\'><span style=\'font-size: 11pt\'>");
-document.writeln("			猪虎鼠兔鸡蛇猴，绿波蓝波中本期</font></th>");
+document.writeln("			猪马鸡牛蛇羊兔，蓝波绿波中本期</font></th>");
 document.writeln("				<th width=\'16%\' style=\'border-style: solid; border-width: 1px\' bordercolor=\'#000000\' height=\'47\'><font color=\'#000000\'>");
 document.writeln("				开？00</font></th>");
 document.writeln("			</tr>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");

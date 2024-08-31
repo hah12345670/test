@@ -51,21 +51,29 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/243/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://tk2.moshoushijie.net:4949/col/244/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第243期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：指守着树桩等待着兔子自己过来。现在常用来比喻抱着一定的侥幸心理,希望不努力,就能够有意外的收获。</font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第244期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：常用于形容某人或某物具有强大的力量和威严。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠马虎龙猴</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：狗牛虎羊猴鸡</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第243期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：龙01中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【守株待兔】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：指守着树桩等待着兔子自己过来。现在常用来比喻抱着一定的侥幸心理,希望不努力,就能够有意外的收获。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔鼠马虎<span style=\'background-color: #FFFF00\'>龙</span>猴</font></b><br>");
+document.writeln("==========================<br>");
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第241期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：牛04中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【洋洋得意】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：形容得意时神气十足的神态。</font><br>");
 document.writeln("<b>");
@@ -173,16 +181,20 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/243/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://tk2.moshoushijie.net:4949/col/244/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
-
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第244期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：？00中</span></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【莫桑秋蓝烟雨红】</span></font><br>");
+document.writeln("	==========================<br>");
+document.writeln("");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第243期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红01中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【幕后旺出红绿来】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第243期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红30中</span></b><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第242期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红30中</span></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【红花还需绿叶配】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
@@ -214,12 +226,7 @@ document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝天红云满山跑】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第234期</span></font></span><span style=\'background-color:#FF0; color:#000; font-family:黑体\'>开：红07中</span></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【关南绿树几番红】</span></font><br>");
-document.writeln("	==========================<br>");
-document.writeln("");
+
 
 
 

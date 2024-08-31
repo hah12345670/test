@@ -219,6 +219,5 @@ document.writeln("    document.getElementById(\'tanxpg-black\').style.display=\'
 document.writeln("    });");
 document.writeln("</script>");
 document.writeln("");
-document.writeln("");
-document.writeln("</div>");
+
 document.writeln("<!--图库 end-->");

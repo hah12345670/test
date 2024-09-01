@@ -58,7 +58,8 @@ document.writeln(" 240期<span style=\'background-color: #FFFF00\'>【兔】</sp
 document.writeln(" 241期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>");
 document.writeln(" 242期【羊】×<br>");
 document.writeln(" 243期【鸡】×<br>");
-document.writeln(" 244期【兔】√<br>");
+document.writeln(" 244期<span style=\'background-color: #FFFF00\'>【兔】</span>√<br>");
+document.writeln(" 245期【虎】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -93,8 +94,9 @@ document.writeln("<font style=\'font-size: 13pt\' face=\'微软雅黑\'>");
 
 document.writeln("241-243期平码【23.<span style=\'background-color: #FFFF00\'>26</span>.05.17】242期中<br>");
 
-document.writeln("243-245期平码【05.30.14.47】000期中<br>");
+document.writeln("243-245期平码【05.30.14.<span style=\'background-color: #FFFF00\'>47</span>】244期中<br>");
 
+document.writeln("245-247期平码【04.27.05.48】000期中<br>");
 
 
 document.writeln("");
@@ -108,13 +110,7 @@ document.writeln("");
 document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 
 
-document.writeln("238期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
-document.writeln("239期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
-document.writeln("240期【6尾】×<br>");
-document.writeln("241期【8尾】×<br>");
-document.writeln("242期<span style=\'background-color: #FFFF00\'>【7尾】</span>√<br>");
-document.writeln("243期【8尾】×<br>");
-document.writeln("244期【1尾】√<br>");
+document.writeln("245期【2尾】√<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -135,7 +131,9 @@ document.writeln("235-237期平尾<span style=\'background-color: #FFFF00\'>【9
 document.writeln("236-238期平尾<span style=\'background-color: #FFFF00\'>【2尾】</span>238期中<br>");
 document.writeln("239-241期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>240期中<br>");
 document.writeln("241-243期平尾<span style=\'background-color: #FFFF00\'>【7尾】</span>242期中<br>");
-document.writeln("243-245期平尾【3尾】000期中<br>");
+document.writeln("243-245期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>244期中<br>");
+document.writeln("245-247期平尾【6尾】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font>");
 document.writeln("											");
@@ -150,6 +148,8 @@ document.writeln("241期（06.19.46.03.27）×<br>");
 document.writeln("242期（16.08.31.48.24）√<br>");
 document.writeln("243期（35.28.06.36.14）√<br>");
 document.writeln("244期（18.06.02.47.38）√<br>");
+document.writeln("245期（39.05.45.07.30）√<br>");
+
 
 document.writeln("");
 document.writeln("</font></b></td>");

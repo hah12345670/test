@@ -22,13 +22,19 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
-
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">245期一语中特【醉翁之意】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：意:意趣。之:的。表示本意不在此而在别的方面。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴马鸡虎龙开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">244期一语中特【镇定自若】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：镇定自若的意思是指在情况紧急时不慌不乱，当作没什么事情似的。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡虎牛猪羊龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡<span style=\'background-color: #FFFF00\'>虎</span>牛猪羊龙开虎03准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -133,9 +139,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">245期一语中特【瑞气祥云】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：喜事降临的征兆。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：马猪兔鸡龙牛开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">244期一语中特【委决不下】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一再犹豫，不能决定下来。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇猴马虎狗龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇猴马<span style=\'background-color: #FFFF00\'>虎</span>狗龙开虎03准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

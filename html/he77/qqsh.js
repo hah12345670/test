@@ -17,12 +17,25 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>245期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画书琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>246期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
-document.writeln("");
+
 
 document.writeln("");
 document.writeln("");

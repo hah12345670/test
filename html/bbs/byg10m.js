@@ -42,7 +42,7 @@ document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <b>245期:【单双特肖】开？00准<br>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("	①三肖：（62827b.com 首页第一个高手榜第四贴）</font></b></p>  	");
+document.writeln("	①三肖：（龙马猴）</font></b></p>  	");
 document.writeln("		");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <b>244期:【单双特肖】开虎03准<br>");
@@ -120,7 +120,8 @@ document.writeln("241期：<span style=\"background-color: #FF0000\">04</span>.0
 document.writeln("242期：02.10.12.14.20.26.<span style=\"background-color: #FF0000\">30</span>.34.38.42<br>");
 document.writeln("243期：03.11.15.19.21<span style=\"background-color: #FF0000\">.01</span>.33.39.41.43<br>");
 document.writeln("244期：06.08.10.18.24.30.38.42.44.48<br>");
-document.writeln("245期：已更新在澳门之家85735.com</font><font color=\"#FFFFFF\" size=\"5\"><br>");
+document.writeln("245期：03.11.23.27.15.<span style=\"background-color: #FF0000\">17</span>.43.47.41.33<br>");
+document.writeln("246期：已更新在澳门之家85735.com</font><font color=\"#FFFFFF\" size=\"5\"><br>");
 document.writeln("");
 document.writeln("（以上10码206-244期错12）</font><font color=\"#000000\" size=\"5\"><br>");
 document.writeln("");

@@ -28,12 +28,18 @@ document.writeln("左肖鼠牛龙蛇猴鸡<br>");
 document.writeln("右肖虎兔马羊狗猪</font></font></b></font></table>");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("245期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>左肖+虎马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("246期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>左肖+马猪</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("245期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+虎马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠17</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("		<!--开始-->");

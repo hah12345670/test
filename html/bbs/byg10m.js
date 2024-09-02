@@ -108,7 +108,7 @@ document.writeln("<strong style=\"font-style:normal;font-variant-ligatures:norma
 document.writeln("<span style=\"text-decoration: none\">");
 document.writeln("");
 document.writeln("");
-document.writeln("<font color=\"#FFFFFF\" style=\"font-size: 15pt\">");
+document.writeln("<font color=\"#FFFFFF\" style=\"font-size: 14pt\">");
 document.writeln("（明日之事&#8226;单双10码）<br>");
 document.writeln("");
 document.writeln("239期：03.15.19.23.27.<span style=\"background-color: #FF0000\">31</span>.33.35.43.4<br>");

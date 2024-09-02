@@ -44,8 +44,8 @@ document.writeln("242期3.头中特【0.<span style=\'background-color: #FFFF00\
 document.writeln("243期3.头中特【4.1.<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("244期3.头中特【4.3.<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("245期3.头中特【2.0.4】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("246期3.头中特【4.1.3】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("246期3.头中特【4.<span style=\'background-color: #FFFF00\'>1</span>.3】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期3.头中特【4.0.1】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -76,7 +76,9 @@ document.writeln("242期3.行中特【木.土.水】<font color=\"#FF0000\">×</
 document.writeln("243期3.行中特【<span style=\'background-color: #FFFF00\'>火</span>.木.土】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("244期3.行中特【土.水.<span style=\'background-color: #FFFF00\'>金</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("245期3.行中特【金.木.<span style=\'background-color: #FFFF00\'>火</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("246期3.行中特【木.火.金】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("246期3.行中特【<span style=\'background-color: #FFFF00\'>木</span>.火.金】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期3.行中特【金.火.木】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("	");
 document.writeln("		");
 document.writeln("");
@@ -85,13 +87,7 @@ document.writeln("	<br>");
 document.writeln("</span>");
 document.writeln("");
 document.writeln("<!--结束-->");
-document.writeln("<!--");
-document.writeln("【金】01 02 09 10 23 24 31 32 39 40");
-document.writeln("【木】05 06 13 14 21 22 35 36 43 44");
-document.writeln("【水】11 12 19 20 27 28 41 42 49");
-document.writeln("【火】07 08 15 16 29 30 37 38 45 46");
-document.writeln("【土】03 04 17 18 25 26 33 34 47 48");
-document.writeln("-->");
+
 document.writeln("");
 document.writeln("	");
 document.writeln("");

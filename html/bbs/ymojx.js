@@ -24,6 +24,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	2024年第247期幽默猜测</font><font color=\'#FF0000\'>（龙凤呈祥）</font><font color=\'#000000\'>：龙凤呈祥每当好日子来临，人们都会高举气势如虹的龙和珠在半空舞动以及身姿曼妙的凤凰和荷花，龙凤呈祥寓意美好事物的发生。.本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：龙凤呈祥解马猴羊牛虎鼠<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：马猴羊牛虎鼠</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("       <!--开始-->");
@@ -34,7 +46,7 @@ document.writeln("	2024年第246期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：天堂解龙猴蛇狗虎鼠<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：龙猴蛇狗虎鼠</font></b></div>");
+document.writeln("	综合特肖：龙猴蛇狗<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鼠</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

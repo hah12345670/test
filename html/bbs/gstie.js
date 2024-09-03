@@ -65,7 +65,8 @@ document.writeln("242期③肖特【兔<span style=\'background-color: #FFFF00\'
 document.writeln("243期③肖特【牛兔虎】开龙01错<br>	");
 document.writeln("244期③肖特【<span style=\"background-color: #FFFF00\">虎</span>龙狗】开虎03中<br>	");
 document.writeln("245期③肖特【马鸡<span style=\'background-color: #FFFF00\'>鼠</span>】开鼠17中<br>	");
-document.writeln("246期③肖特【猴鼠虎】开？00中<br>	");
+document.writeln("246期③肖特【猴鼠<span style=\'background-color: #FFFF00\'>虎</span>】开虎15中<br>	");
+document.writeln("247期③肖特【猴狗蛇】开？00中<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

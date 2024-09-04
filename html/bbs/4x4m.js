@@ -32,10 +32,13 @@ document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第248期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【牛28.羊34.兔02.猪42】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第249期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【猴09.狗31.羊22.兔02】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
+
+
+
 
 
 

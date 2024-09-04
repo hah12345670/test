@@ -20,9 +20,17 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("247期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("248期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大当婚</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）中豪杰</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
+document.writeln("247期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗31</font></span>准<br>");
+document.writeln("	</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大当婚</font><font color=\'#0000FF\' size=\'5\'>-解:男肖</font></b></font></table>");
 
 document.writeln("");
 document.writeln("		<!--开始-->");
@@ -31,57 +39,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("246期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎15</font></span>准<br>");
 document.writeln("	</font>");
 document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）相毕露</font><font color=\'#0000FF\' size=\'5\'>-解:凶肖</font></b></font></table>");
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("244期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎03</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:地肖</font></b></font></table>");
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("242期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猪30</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）长地久</font><font color=\'#0000FF\' size=\'5\'>-解:天肖</font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("240期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>蛇24</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:地肖</font></b></font></table>");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("239期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>狗31</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）有儿女</font><font color=\'#0000FF\' size=\'5\'>-解:家禽</font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("237期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>猪06</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）相毕露</font><font color=\'#0000FF\' size=\'5\'>-解:凶肖</font></b></font></table>");
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("236期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>虎03</font></span>准<br>");
-document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）外求生</font><font color=\'#0000FF\' size=\'5\'>-解:野兽</font></b></font></table>");
-
 
 document.writeln("");
 document.writeln("<!--推广开始-->");

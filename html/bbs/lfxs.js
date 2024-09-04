@@ -61,7 +61,7 @@ document.writeln("		<font face=\'隶书\' size=\'5\' color=\'#0000FF\'>");
 document.writeln("		【参考18码】<br>");
 document.writeln("	    牛04.40羊22.34兔02.14<br>");
 document.writeln("		鼠05.17蛇12.36猴21.45<br>");
-document.writeln("		猪30.42<span style="background-color: #FFFF00">狗</span>07.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">31</span></font>虎27.39<br>");
+document.writeln("		猪30.42<span style=\'background-color: #FFFF00\'>狗</span>07.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">31</span></font>虎27.39<br>");
 document.writeln("		  </font>  ");
 document.writeln("	");
 document.writeln("		</b></td>");

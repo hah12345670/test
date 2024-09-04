@@ -25,9 +25,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">247期一语中特【囊中羞射】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：囊：口袋。羞涩：难为情。指口袋里没有钱而不好意思，是经济困难的委婉说法。也作“囊空羞涩”。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙兔蛇鸡虎猪开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">248期一语中特【霸王之资】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：争霸称王的资本。资，凭借。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙猪兔虎蛇狗开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -144,12 +144,20 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">248期一语中特【情有独钟】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：因对某人或某事物特别喜爱而感情专注。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇鸡马羊鼠猪开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">246期一语中特【流离遇合】</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">247期一语中特【流离遇合】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：流离失所又再团聚。流离，流转，离散。遇合，指遇到赏识自己的人。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊猪猴兔蛇狗开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊猪猴兔蛇<span style=\'background-color: #FFFF00\'>狗</span>开狗31准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

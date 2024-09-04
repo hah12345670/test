@@ -39,16 +39,16 @@ document.writeln("  ");
 document.writeln("    <!--结束--> ");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("<!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>247期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【大尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>248期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开？00</font></b></td>");
 document.writeln("    </tr>         ");
 document.writeln("");
 document.writeln("          <!--开始--> ")
+
 
 document.writeln("<!--开始--> ");
 document.writeln("");
@@ -60,79 +60,6 @@ document.writeln("    </tr>         ");
 document.writeln("");
 document.writeln("          <!--开始--> ")
 
-
-
-document.writeln("");
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>242期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开猪30</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>241期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开牛04</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("");
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>240期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开蛇24</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("");
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>238期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【大尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开猪18</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("");
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>236期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开虎03</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>234期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【大尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开狗07</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("");
-document.writeln("<!--开始--> ");
-document.writeln("");
-document.writeln("    	<tr>");
-document.writeln("      <td height=33 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\'>233期大小尾</font><font size=\'5\' color=\'#0000FF\' face=\'微软雅黑\'>【小尾】</font><font color=\'#000000\' face=\'微软雅黑\'>开马23</font></b></td>");
-document.writeln("    </tr>         ");
-document.writeln("");
-document.writeln("          <!--开始--> ")
-document.writeln("");
-document.writeln("");
 
 
 document.writeln("");

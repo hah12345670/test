@@ -16,14 +16,15 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' st
 document.writeln("<!--推广结束-->");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("247期<font color=\'#FF0000\'>平猪→猪蛇(2连)→30.42.12.36(连)</font></font></b></font></table>");
+document.writeln("248期<font color=\'#FF0000\'>平龙→龙鸡(2连)→13.49.08.20(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("");

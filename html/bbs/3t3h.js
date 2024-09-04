@@ -45,7 +45,8 @@ document.writeln("243期3.头中特【4.1.<span style=\'background-color: #FFFF0
 document.writeln("244期3.头中特【4.3.<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("245期3.头中特【2.0.4】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("246期3.头中特【4.<span style=\'background-color: #FFFF00\'>1</span>.3】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("247期3.头中特【4.0.1】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期3.头中特【4.0.1】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("248期3.头中特【3.4.0】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -77,8 +78,8 @@ document.writeln("243期3.行中特【<span style=\'background-color: #FFFF00\'>
 document.writeln("244期3.行中特【土.水.<span style=\'background-color: #FFFF00\'>金</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("245期3.行中特【金.木.<span style=\'background-color: #FFFF00\'>火</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("246期3.行中特【<span style=\'background-color: #FFFF00\'>木</span>.火.金】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("247期3.行中特【金.火.木】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("247期3.行中特【金.<span style=\'background-color: #FFFF00\'>火</span>.木】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("248期3.行中特【水.土.金】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("		");
 document.writeln("");

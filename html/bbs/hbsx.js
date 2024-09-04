@@ -38,6 +38,16 @@ document.writeln("		<font style=\'font-size: 14pt\'>黑肖【兔龙蛇马羊猴�
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
+document.writeln("   <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>248期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【白肖+龙蛇】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束-->");
 
 document.writeln("   <!--开始-->");
 document.writeln("    ");
@@ -46,7 +56,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>247期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【黑肖+牛狗】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>247期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【黑肖+牛<span style=\'background-color: #FFFF00\'>狗</span>】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>狗31</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 

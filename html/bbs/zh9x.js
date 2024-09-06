@@ -59,7 +59,8 @@ document.writeln("245期四季中特【春夏<span style=\'background-color: #FF
 document.writeln("246期四季中特【夏秋冬】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("247期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("248期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("249期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("249期四季中特【夏<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("250期四季中特【春夏冬】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -97,7 +98,8 @@ document.writeln("245期才艺中特【琴<span style=\'background-color: #FFFF0
 document.writeln("246期才艺中特【棋<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("247期才艺中特【琴<span style=\'background-color: #FFFF00\'>棋</span>书】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("248期才艺中特【琴<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("249期才艺中特【棋书画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("249期才艺中特【棋书画】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("250期才艺中特【琴棋画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("	<br>");
 document.writeln("</span>");
@@ -125,7 +127,9 @@ document.writeln("245期⑨肖【马<span style=\'background-color: #FFFF00\'>�
 document.writeln("246期⑨肖【鸡兔猪羊猴蛇<span style=\'background-color: #FFFF00\'>虎</span>龙狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("247期⑨肖【羊兔马鸡龙鼠猪牛<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("248期⑨肖【牛龙鸡鼠虎蛇猴羊兔】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("249期⑨肖【虎蛇羊龙猴牛鼠鸡兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("249期⑨肖【虎蛇羊龙猴牛鼠<span style=\'background-color: #FFFF00\'>鸡</span>兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("250期⑨肖【虎龙蛇猴牛鼠鸡羊兔】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

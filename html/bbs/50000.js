@@ -63,34 +63,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("247-249期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("250-252期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("241-243期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("240-242期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>240期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("237-239期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>239期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("236-238期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>236期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("234-236期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>235期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("232-234期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>233期中中中！</font>");
-
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("231-233期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>231期中中中！</font>");
-
+document.writeln("247-249期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>249期中中中！</font>");
 
 
 document.writeln("<!--单双中特内容结束-->");

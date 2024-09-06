@@ -30,8 +30,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">249期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【44.03.13.07.25.49.45.48.08.34.31.14.41.04】</span></font></p>  	");
+document.writeln(" <span style=\"font-size: 13pt\">250期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【37.11.44.03.21.39.31.36.33.35.05.26.30.45】</span></font></p>  	");
+
+
 
 
 

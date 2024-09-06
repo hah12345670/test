@@ -35,19 +35,20 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（62827b.com）15码�
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>249期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-8-5</font></li>");
-document.writeln("            	<li>249期必中五尾：<font color=\'#FF0000\' size=\'4\'>1-8-5-4-3</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>01.31.41.08.28.38.15.25.45.14.34.44.03.13.23</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>01.31.41.08.28.38.15.25.45</font></li>");
+document.writeln("            	<li>250期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-5-1</font></li>");
+document.writeln("            	<li>250期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-5-1-7-4</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>09.29.39.15.25.35.11.21.41.07.27.47.04.14.34</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>09.29.39.15.25.35.11.21.41</font></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
-document.writeln("      <div class=\'bizhong22-foot\'>249期一尾一码：<font color=\'#FF0000\' size=\'6\'>（01）</font>单车变宝马~</div>");
+document.writeln("      <div class=\'bizhong22-foot\'>250期一尾一码：<font color=\'#FF0000\' size=\'6\'>（09）</font>单车变宝马~</div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
 document.writeln("	<div class=\'bizhong22-tit\'>弑神者（62827b.com）15码中特</div>");

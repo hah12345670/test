@@ -1,4 +1,33 @@
 ﻿document.writeln("");
+
+document.writeln("");
+document.writeln("   <!--开始-->");
+document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
+document.writeln(" <tbody>");
+document.writeln("    <tr class=\'firstRowxx\'>");
+document.writeln("      <td  height=\'35\'  style=\'background:#0000FF; margin: 0px; border-color: rgb(0, 128, 0); word-break: break-all; text-align: center; font-size: 13pt; line-height: 26px; color: rgb(51, 51, 51); padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\'>");
+document.writeln("		<span style=\'color: #FFFFFF; font-family: 微软雅黑; font-weight: 700; line-height: normal; font-size: 12pt;\'>251期：八肖六码【资料网62827.com】</span>");
+document.writeln("      </td>");
+document.writeln("     </tr>");
+document.writeln("   ");
+document.writeln("         <tr>");
+document.writeln("		<td style=\'margin: 0px; padding: 3px 2px; border-color: rgb(229, 229, 229); word-break: break-all; text-align: center; line-height: 26px;\'>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中八肖：蛇兔虎鼠龙牛猴马</span></p>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六肖：蛇兔虎鼠龙牛</span></p>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中四肖：蛇兔虎鼠</span></p>");
+document.writeln("				<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中二肖：蛇兔</span></p>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>精选18码：12.36.48.02.14.26.03.15.27.05.17.29.13.37.49.04.16.28</span></p>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中12码：12.36.48.02.14.26.03.15.27.05.17.29</span></p>");
+document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六码：12.36.48.02.14.26</span></p>");
+document.writeln("		</td></tr></tbody></table>");
+document.writeln("   <!--结束-->");
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
@@ -12,21 +41,16 @@ document.writeln("   ");
 document.writeln("         <tr>");
 document.writeln("		<td style=\'margin: 0px; padding: 3px 2px; border-color: rgb(229, 229, 229); word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中八肖：鼠狗牛蛇龙猴虎羊</span></p>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中八肖：鼠狗牛<span style=\'background-color: #FFFF00\'>蛇</span>龙猴虎羊</span></p>");
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六肖：鼠狗牛蛇龙猴</span></p>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六肖：鼠狗牛<span style=\'background-color: #FFFF00\'>蛇</span>龙猴</span></p>");
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中四肖：鼠狗牛蛇</span></p>");
+document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中四肖：鼠狗牛<span style=\'background-color: #FFFF00\'>蛇</span></span></p>");
 document.writeln("				<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中二肖：鼠狗</span></p>");
-document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>精选18码：05.17.29.07.31.43.04.16.28.12.36.48.13.25.37.09.21.33</span></p>");
-document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中12码：05.17.29.07.31.43.04.16.28.12.36.48</span></p>");
-document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六码：05.17.29.07.31.43</span></p>");
+
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->"
+document.writeln("   <!--结束-->");
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
@@ -51,7 +75,7 @@ document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六码：10.34.46.03.15.27</span></p>");
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->"
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -75,7 +99,7 @@ document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: 
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>精选18码：04.16.28.03.15.27.02.14.26.12.36.48.09.21.33.<span style=\'background-color: #FFFF00\'>11</span>.35.47</span></p>");
 
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->"
+
 document.writeln("");
 document.writeln("");
 document.writeln("   <!--开始-->");
@@ -104,7 +128,7 @@ document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六码：11.23.47.07.<span style=\'background-color: #FFFF00\'>31</span>.43</span></p>");
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->"
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
@@ -121,7 +145,7 @@ document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: 
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中八肖：龙牛猪蛇狗鸡<span style=\'background-color: #FFFF00\'>虎</span>羊</span></p>");
 
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->"
+
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
 document.writeln(" <tbody>");
@@ -137,7 +161,7 @@ document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: 
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中八肖：虎蛇羊龙牛猪<span style=\'background-color: #FFFF00\'>鼠</span>猴</span></p>");
 
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->");
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
@@ -159,7 +183,7 @@ document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: 
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>精选18码：24.36.48.04.16.28.08.20.32.13.25.37.09.21.45.<span style=\'background-color: #FFFF00\'>03</span>.15.27</span></p>");
 
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->");
+
 document.writeln("");
 document.writeln("");
 document.writeln("   <!--开始-->");
@@ -188,7 +212,7 @@ document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六码：<span style=\'background-color: #FFFF00\'>01</span>.37.49.04.28.40</span></p>");
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->");
+
 document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'100\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' id=\'table2\' style=\'border-collapse: collapse; border-spacing: 0px; color: rgb(68, 68, 68); font-family: tahoma, 微软雅黑, 宋体, arial, georgia, verdana, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; line-height: 21px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\'>");
@@ -207,7 +231,6 @@ document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: 
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>必中六肖：马蛇兔猴<span style=\'background-color: #FFFF00\'>猪</span>牛</span></p>");
 document.writeln("		<p style=\'font-size: 13pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("		<span style=\'text-indent: 28px; color: #000000; font-family: 微软雅黑; font-size: 12pt;\'>精选18码：11.23.47.12.36.48.02.14.26.09.21.33.06.18.<span style=\'background-color: #FFFF00\'>30</span>.04.16.40</span></p>");
-
 document.writeln("		</td></tr></tbody></table>");
-document.writeln("<!--结束end-->");
+
 document.writeln("");

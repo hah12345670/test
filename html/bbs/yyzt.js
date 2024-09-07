@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">250期一语中特【露头露脸】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：具体显示出来，指在公开场合出现。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪马狗虎羊龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【巍然不动】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：像高山一样挺立着一动不动。形容高大坚固，不能动摇。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猴马鼠兔蛇龙开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -68,9 +68,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">250期一语中特【误落风尘】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：误落:指陷入坏的境地;风尘:旧指娼妓的生活。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔马牛猪龙鼠开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【光芒四射】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：强烈的光射向四面八方。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙兔虎鼠羊马开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

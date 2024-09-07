@@ -39,10 +39,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("249期3.头中特【<span style=\'background-color: #FFFF00\'>3</span>.0.1】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("250期3.头中特【0.1.3】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("251期3.头中特【2.0.1】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("251期3.头中特【2.0.<span style=\'background-color: #FFFF00\'>1</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("252期3.头中特【1.0.4】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -78,8 +76,8 @@ document.writeln("247期3.行中特【金.<span style=\'background-color: #FFFF0
 document.writeln("248期3.行中特【水.土.<span style=\'background-color: #FFFF00\'>金</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("249期3.行中特【水.木.<span style=\'background-color: #FFFF00\'>金</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("250期3.行中特【水.木.火】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("251期3.行中特【木.土.火】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("251期3.行中特【<span style=\'background-color: #FFFF00\'>木</span>.土.火】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("252期3.行中特【火.金.水】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("		");
 document.writeln("");

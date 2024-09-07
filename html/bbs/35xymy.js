@@ -33,6 +33,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>251期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("天下和平家家好，山绿水秀处处春");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：天下和平解天肖猪马兔牛猴龙，山绿水秀解山肖鼠兔猴鸡猪羊虎</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：猴鸡猪羊虎龙牛<br>");
+document.writeln("			四肖：猴鸡猪羊<br>");
+document.writeln("			特码：09.33.08.20.30.42.10.22.03.15.13.25.16.28</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -42,8 +58,8 @@ document.writeln("风雨雷霆相伴来，一阵更比一阵强");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：风雨雷解风肖龙虎兔，雨肖蛇羊马，雷肖猴鸡狗</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎兔蛇羊马猴<br>");
-document.writeln("			四肖：龙虎兔蛇<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：龙虎兔<span style=\'background-color: #FFFF00\'>蛇</span>羊马猴<br>");
+document.writeln("			四肖：龙虎兔<span style=\'background-color: #FFFF00\'>蛇</span><br>");
 document.writeln("			特码：37.49.03.15.02.14.12.36.22.34.11.23.09.21</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

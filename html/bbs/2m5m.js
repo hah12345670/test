@@ -34,12 +34,19 @@ document.writeln("<!-----&#32467;&#26463;----->");
 
 
 
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
+document.writeln("<span style=\'color: #6600CC;\'>");
+document.writeln("252期：方向报码</span><font color=\'#FF0000\'>【南西北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+
+
 
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
 document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("251期：方向报码</span><font color=\'#FF0000\'>【东西北】</font><span style=\'color: #6600CC;\'>开？00</font></td></tr>");
+document.writeln("251期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>西</span>北】</font><span style=\'color: #6600CC;\'>开兔14</font></td></tr>");
 
 
 
@@ -49,138 +56,6 @@ document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36
 document.writeln("<span style=\'color: #6600CC;\'>");
 document.writeln("250期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>南</span>西】</font><span style=\'color: #6600CC;\'>开蛇24</font></td></tr>");
 
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("248期：方向报码</span><font color=\'#FF0000\'>【东南<span style=\'background-color: #FFFF00\'>西</span>】</font><span style=\'color: #6600CC;\'>开马11</font></td></tr>");
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("245期：方向报码</span><font color=\'#FF0000\'>【南<span style=\'background-color: #FFFF00\'>西</span>北】</font><span style=\'color: #6600CC;\'>开鼠17</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("244期：方向报码</span><font color=\'#FF0000\'>【东南<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开虎03</font></td></tr>");
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("243期：方向报码</span><font color=\'#FF0000\'>【南西<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开龙01</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("242期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>南</span>西】</font><span style=\'color: #6600CC;\'>开猪30</font></td></tr>");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("241期：方向报码</span><font color=\'#FF0000\'>【东西<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开牛04</font></td></tr>");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("240期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>南</span>西】</font><span style=\'color: #6600CC;\'>开蛇24</font></td></tr>");
-
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("237期：方向报码</span><font color=\'#FF0000\'>【南西<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开猪06</font></td></tr>");
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("236期：方向报码</span><font color=\'#FF0000\'>【东南<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开虎03</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("235期：方向报码</span><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>南</span>西北】</font><span style=\'color: #6600CC;\'>开蛇24</font></td></tr>");
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("234期：方向报码</span><font color=\'#FF0000\'>【东南<span style=\'background-color: #FFFF00\'>西</span>】</font><span style=\'color: #6600CC;\'>开狗07</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("233期：方向报码</span><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>南</span>西北】</font><span style=\'color: #6600CC;\'>开马23</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("232期：方向报码</span><font color=\'#FF0000\'>【南东<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开兔02</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("231期：方向报码</span><font color=\'#FF0000\'>【东<span style=\'background-color: #FFFF00\'>西</span>北】</font><span style=\'color: #6600CC;\'>开鼠17</font></td></tr>");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:&#24494;&#36719;&#38597;&#40657;;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'3\' face=\'&#24494;&#36719;&#38597;&#40657;\'>");
-document.writeln("<span style=\'color: #6600CC;\'>");
-document.writeln("230期：方向报码</span><font color=\'#FF0000\'>【南西<span style=\'background-color: #FFFF00\'>北</span>】</font><span style=\'color: #6600CC;\'>开龙49</font></td></tr>");
 
 
 

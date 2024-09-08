@@ -63,7 +63,7 @@ document.writeln("  248期（平5*4+特-D2+平5+正3-2）=杀猪猴√<br>		");
 document.writeln("  249期（平5*4+特-D2+平5+正3-2）=杀蛇牛√<br>		");
 document.writeln("  250期（平5*4+特-D2+平5+正3-2）=杀蛇羊×<br>		");
 document.writeln("  251期（平5*4+特-D2+平5+正3-2）=杀鸡马√<br>		");
-
+document.writeln("  252期（平5*4+特-D2+平5+正3-2）=杀猪羊√<br>		");
 document.writeln("		");
 document.writeln("<br>		");
 document.writeln("");
@@ -71,6 +71,8 @@ document.writeln("      	<br>	");
 document.writeln("");
 document.writeln("      250期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
 document.writeln("      251期（平4*2+正1-D3+正6+正3-特）=杀水√<br>			");
+document.writeln("      252期（平4*2+正1-D3+正6+正3-特）=杀火√<br>			");
+
 document.writeln("		");
 document.writeln("<br>	");
 document.writeln("");
@@ -92,7 +94,7 @@ document.writeln("		248期（平5-2-D2+正4）=杀54尾√<br>		");
 document.writeln("		249期（平5-2-D2+正4）=杀75尾√<br>		");
 document.writeln("		250期（平5-2-D2+正4）=杀12尾√<br>		");
 document.writeln("		251期（平5-2-D2+正4）=杀19尾√<br>		");
-
+document.writeln("		252期（平5-2-D2+正4）=杀92尾√<br>		");
 document.writeln("		");
 document.writeln("<br>");
 document.writeln("");
@@ -116,6 +118,8 @@ document.writeln("		248期（平4+3-D1+正2-平3）=杀0头√<br>		");
 document.writeln("		249期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		250期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		251期（平4+3-D1+正2-平3）=杀4头√<br>		");
+document.writeln("		252期（平4+3-D1+正2-平3）=杀3头√<br>		");
+
 document.writeln("<br>");
 document.writeln("		");
 document.writeln("");
@@ -135,7 +139,9 @@ document.writeln("        <font color=\'#0000FF\'>247期四头=204<span style=\'
 document.writeln("        <font color=\'#0000FF\'>248期四头=3<span style=\'background-color: #FFFF00\'>1</span>24√</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>249期四头=0412×</font><br>	");
 document.writeln("        <font color=\'#0000FF\'>250期四头=304<span style=\'background-color: #FFFF00\'>2</span>√</font><br>	");
-document.writeln("        <font color=\'#0000FF\'>251期四头=0142√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>251期四头=0<span style=\'background-color: #FFFF00\'>1</span>42√</font><br>	");
+document.writeln("        <font color=\'#0000FF\'>252期四头=2403√</font><br>	");
+
 
 document.writeln("<br>	");
 
@@ -145,8 +151,8 @@ document.writeln("		<font color=\'#0000FF\'>247期七肖=鼠兔<span style=\'bac
 document.writeln("		<font color=\'#0000FF\'>248期七肖=龙鼠牛<span style=\'background-color: #FFFF00\'>马</span>虎狗猴√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>249期七肖=猴虎蛇羊兔<span style=\'background-color: #FFFF00\'>鸡</span>马√</font><br>		");
 document.writeln("		<font color=\'#0000FF\'>250期七肖=<span style=\'background-color: #FFFF00\'>蛇</span>兔猴马羊虎狗√</font><br>		");
-document.writeln("		<font color=\'#0000FF\'>251期七肖=鸡牛虎兔马羊蛇√</font><br>		");
-
+document.writeln("		<font color=\'#0000FF\'>251期七肖=鸡牛虎<span style=\'background-color: #FFFF00\'>兔</span>马羊蛇√</font><br>		");
+document.writeln("		<font color=\'#0000FF\'>252期七肖=猴猪羊鸡狗马兔√</font><br>		");
 
 document.writeln("<br>	");
 document.writeln("		");
@@ -156,14 +162,19 @@ document.writeln("		<font color=\'#0000FF\'>247期三行=土<span style=\'backgr
 document.writeln("		<font color=\'#0000FF\'>248期三行=火<span style=\'background-color: #FFFF00\'>金</span>木√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>249期三行=<span style=\'background-color: #FFFF00\'>金</span>金火水√</font><br>			");
 document.writeln("		<font color=\'#0000FF\'>250期三行=木水<span style=\'background-color: #FFFF00\'>金</span>√</font><br>			");
-document.writeln("		<font color=\'#0000FF\'>251期三行=木金火√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>251期三行=<span style=\'background-color: #FFFF00\'>木</span>金火√</font><br>			");
+document.writeln("		<font color=\'#0000FF\'>252期三行=木水土√</font><br>			");
+
+
 
 document.writeln("		");
 document.writeln("		</span>		<br>		");
 document.writeln("");
 document.writeln("        </span>");
 
-document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">251期六尾=095634√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">251期六尾=09563<span style=\'background-color: #FFFF00\'>4</span>√</span></font><br>");
+document.writeln("        <font color=\'#0000FF\'><span style=\"font-size: 16pt\">252期六尾=304187√</span></font><br>");
+
 
 document.writeln("	");
 document.writeln("	</span>");

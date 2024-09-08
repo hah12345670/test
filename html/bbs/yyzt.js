@@ -23,12 +23,21 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">252期一语中特【鞭笞天下】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指驱使天下的人。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛猴鼠羊猪虎开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【巍然不动】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：像高山一样挺立着一动不动。形容高大坚固，不能动摇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猴马鼠兔蛇龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猴马鼠<span style=\'background-color: #FFFF00\'>兔</span>蛇龙开兔14准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -68,9 +77,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">252期一语中特【扩而充之】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指扩大范围，充实内容。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇猪龙羊马虎开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【光芒四射】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：强烈的光射向四面八方。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙兔虎鼠羊马开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙<span style=\'background-color: #FFFF00\'>兔</span>虎鼠羊马开兔14准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

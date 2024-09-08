@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://tk2.baegg.com:4949/col/252/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/252/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,31 +26,31 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
-document.writeln("\'https://tk2.baegg.com:4949/col/252/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/251/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/250/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/249/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/248/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/247/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/246/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/245/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/244/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/243/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/242/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/241/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/240/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/239/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/238/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/237/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/236/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/235/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/234/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/233/ammh.jpg\',");
-document.writeln("\'https://tk2.baegg.com:4949/col/232/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/252/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/251/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/250/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/249/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/248/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/247/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/246/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/245/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/244/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/243/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/242/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/241/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/240/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/239/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/238/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/237/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/236/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/235/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/234/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/233/ammh.jpg\',");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/232/ammh.jpg\',");
 
 
 
-document.writeln("\'https://tk2.baegg.com:4949/col/231/ammh.jpg\'");
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/231/ammh.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexsbx=0;");

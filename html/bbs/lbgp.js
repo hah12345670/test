@@ -28,13 +28,13 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>251期另版挂牌</font><font size=\'4\' color=\'#008000\'>【走马观花】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>252期另版挂牌</font><font size=\'4\' color=\'#008000\'>【龙生九子】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：甲戌日；五行属性：金；地支六冲：狗冲龙，无马；六合：兔；三合：虎马。空亡肖：蛇龙。</p>");
+document.writeln("◎生肖属性：乙亥日；五行属性：水；地支六冲：猪冲蛇，无羊；六合：虎；三合：兔羊。空亡肖：兔蛇。。</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：牛猪猴龙狗蛇羊鼠马<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：狗猴牛鸡羊蛇猪马兔<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.40.18.30.21.33.13.37.19.31.12.36.22.34.05.17.11.23</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：07.19.21.33.04.16.20.32.10.22.12.36.30.42.11.23.02.14</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
 

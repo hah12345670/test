@@ -103,4 +103,3 @@ document.writeln("		<font color=\"#FF00FF\">这里从不推假料</font></span><
 document.writeln("    </tr>   </table>     ");
 document.writeln("    <!--结束-->  ");
 document.writeln("    ");
-document.writeln(">");

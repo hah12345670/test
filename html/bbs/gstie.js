@@ -58,7 +58,7 @@ document.writeln("");
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 document.writeln("");
-document.writeln("252期79136b.com 已更新<br>");
+document.writeln("252期06.30.15.27.05.41.07.31.22.34.11.23<br>");
 document.writeln("");
 document.writeln("251期20.32.07.19.24.36.13.25.<span style=\"background-color: #FFFF00\">14</span>.26.21.33<br>");
 document.writeln("");

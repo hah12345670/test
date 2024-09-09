@@ -24,12 +24,19 @@ document.writeln("双笔：虎、猴、狗、兔、羊、牛</span></font></b></
 document.writeln("		<!--结束-->");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>254期：</font>【<font color=\'#008000\'>单笔+虎狗</font>】开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>253期：</font>【<font color=\'#008000\'>单笔+狗羊</font>】开？00√</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>253期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+狗羊</font>】开马47√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -56,59 +63,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>249期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+狗兔</font>】开鸡32√</font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>247期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙马</font>】开狗31√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>245期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+狗兔</font>】开鼠17√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>244期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙马</font>】开虎03√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>243期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+猴牛</font>】开龙01√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>242期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+狗兔</font>】开猪30√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>241期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双笔</span>+龙马</font>】开牛04√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>240期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单笔</span>+兔猴</font>】开蛇24√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>239期：</font>【<font color=\'#008000\'>单笔+猴<span style=\'background-color: #FFFF00\'>狗</span></font>】开狗31√</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 

@@ -117,7 +117,7 @@ document.writeln("		248期（平4+3-D1+正2-平3）=杀0头√<br>		");
 document.writeln("		249期（平4+3-D1+正2-平3）=杀2头√<br>		");
 document.writeln("		250期（平4+3-D1+正2-平3）=杀1头√<br>		");
 document.writeln("		251期（平4+3-D1+正2-平3）=杀4头√<br>		");
-document.writeln("		252期（平4+3-D1+正2-平3）=杀3头√<br>		");
+document.writeln("		252期（平4+3-D1+正2-平3）=杀3头×<br>		");
 document.writeln("		253期（平4+3-D1+正2-平3）=杀4头√<br>		");
 
 

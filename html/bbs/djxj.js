@@ -24,6 +24,23 @@ document.writeln("<div class=\'jyyzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
+
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>254期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>猪八戒红脸照镜子，孙悟空三打白骨精</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖猪猴。红解红肖鸡兔鼠马。玄机诗描述的是西游记里的事，那隐藏的西肖猴鸡狗要注意。综合得主猪猴羊狗防龙鸡兔鼠马</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：猪猴羊狗龙鸡<br>");
+document.writeln("	特码：18.30.09.21.10.22.31.43.13.37.20.44</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
@@ -31,10 +48,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>画蛇添足猪后转，鞍前马后为你来</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖蛇猪马。猪后转为鼠肖。马后为羊肖。生心水的大意思是尽管经历了很多的不容易，但最后都是为你而来。谁有这么大的魅力，我猜是四大美女蛇鸡兔羊。综合得主蛇鸡兔羊防猪马鼠虎猴</font></div>");
+document.writeln("解析：预先解明肖蛇猪马。猪后转为鼠肖。马后为羊肖。生心水的大意思是尽管经历了很多的不容易，但最后都是为你而来。谁有这么大的魅力，我猜是四大美女蛇鸡兔羊。综合得主蛇鸡兔羊防猪<span style=\'background-color: #FFFF00\'>马</span>鼠虎猴</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：蛇鸡兔羊猪马<br>");
+document.writeln("	解特肖：蛇鸡兔羊猪<span style=\'background-color: #FFFF00\'>马</span><br>");
 document.writeln("	特码：12.36.20.32.02.14.10.22.30.42.11.23</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

@@ -16,13 +16,13 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		253期;四头：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（3.2.1.0）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		253期;二头：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（3.2）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		253期;12码：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">30.32.33.35.38.39.20.22.23.25.26.28");
+document.writeln("		254期;四头：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（3.0.4.1）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		254期;二头：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（3.0）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		254期;12码：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">31.33.35.36.38.39.02.03.05.06.08.09");
 document.writeln("		<br></font><font color=\"#0000FF\" face=\"微软雅黑\" size=\"4\">-----</font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
-document.writeln("");
+
 document.writeln("");
 document.writeln("	<!--gavc-->");
 document.writeln("	<tr>");

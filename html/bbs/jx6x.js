@@ -39,68 +39,9 @@ document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>253期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶丑】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>254期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开？00准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
-
-
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>251期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开兔14准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>248期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【吉美】</font><span style=\'font-size: 14pt\'>开马11准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>247期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶丑】</font><span style=\'font-size: 14pt\'>开狗31准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>246期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶丑】</font><span style=\'font-size: 14pt\'>开虎15准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-
-document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\' face=\'微软雅黑\'>245期吉凶报肖</font><font color=\'#008000\' style=\'font-size: 16pt\'>【凶丑】</font><span style=\'font-size: 14pt\'>开鼠17准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
 
 
 

@@ -32,35 +32,6 @@ document.writeln("	<font color=\'#008000\'>251-253期</font>【<font color=\'#FF
 document.writeln("		<!--结束-->");
 
 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>244-246期</font>【<font color=\'#FF0000\'>蓝波</font>】244期开<font color=\'#FF00FF\'>(30)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>240-242期</font>【<font color=\'#FF0000\'>红波</font>】240期开<font color=\'#FF00FF\'>(24)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>239-241期</font>【<font color=\'#FF0000\'>蓝波</font>】239期开<font color=\'#FF00FF\'>(31)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'> ");
-document.writeln("	<font color=\'#008000\'>236-238期</font>【<font color=\'#FF0000\'>红波</font>】238期开<font color=\'#FF00FF\'>(18)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
 
 document.writeln("");
 document.writeln("");

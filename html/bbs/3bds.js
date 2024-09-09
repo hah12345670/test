@@ -15,7 +15,7 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("252期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双大单小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("253期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双大双小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("");
@@ -34,72 +34,6 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("250期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小双</span>小单大双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("247期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双<span style=\'background-color: #FFFF00\'>大单</span>小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("246期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双大双<span style=\'background-color: #FFFF00\'>小单</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎15</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("245期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双大单<span style=\'background-color: #FFFF00\'>小单</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠17</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大双大单<span style=\'background-color: #FFFF00\'>小单</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎03</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("243期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>小双大双<span style=\'background-color: #FFFF00\'>小单</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙01</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("241期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小双</span>大双小单</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛04</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("239期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大单</span>大双小双</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗31</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("238期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单大双<span style=\'background-color: #FFFF00\'>小双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪18</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-
-
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("237期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>大单小单<span style=\'background-color: #FFFF00\'>小双</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪06</span></font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
 
 
 

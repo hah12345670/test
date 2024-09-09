@@ -57,7 +57,8 @@ document.writeln(" 248期<span style=\'background-color: #FFFF00\'>【兔】</sp
 document.writeln(" 249期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>");
 document.writeln(" 250期<span style=\'background-color: #FFFF00\'>【牛】</span>√<br>");
 document.writeln(" 251期<span style=\'background-color: #FFFF00\'>【鼠】</span>√<br>");
-document.writeln(" 252期【鸡】√<br>");
+document.writeln(" 252期<span style=\'background-color: #FFFF00\'>【鸡】</span>√<br>");
+document.writeln(" 253期【羊】√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -76,6 +77,8 @@ document.writeln("247-249期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("249-251期出平<span style=\'background-color: #FFFF00\'>【蛇】</span>250期中<br>");
 document.writeln("251-253期出平<span style=\'background-color: #FFFF00\'>【羊】</span>251期中<br>");
 document.writeln("252-254期出平【狗】000期中<br>");
+
+
 document.writeln("");
 document.writeln("</font><br>");
 document.writeln("");
@@ -90,7 +93,9 @@ document.writeln("243-245期平码【05.30.14.<span style=\'background-color: #F
 document.writeln("245-247期平码【04.<span style=\'background-color: #FFFF00\'>27</span>.05.48】245期中<br>");
 document.writeln("247-249期平码【21.<span style=\'background-color: #FFFF00\'>47</span>.42.27】247期中<br>");
 document.writeln("248-250期平码【20.<span style=\'background-color: #FFFF00\'>37</span>.42.22】249期中<br>");
-document.writeln("250-252期平码【11.17.39.27】000期中<br>");
+
+document.writeln("253-255期平码【28.17.14.27】000期中<br>");
+
 document.writeln("");
 document.writeln("	</font><br>");
 document.writeln("		");
@@ -107,7 +112,8 @@ document.writeln("248期<span style=\'background-color: #FFFF00\'>【2尾】</sp
 document.writeln("249期<span style=\'background-color: #FFFF00\'>【6尾】</span>√<br>");
 document.writeln("250期<span style=\'background-color: #FFFF00\'>【3尾】</span>√<br>");
 document.writeln("251期<span style=\'background-color: #FFFF00\'>【4尾】</span>√<br>");
-document.writeln("252期【5尾】√<br>");
+document.writeln("252期<span style=\'background-color: #FFFF00\'>【5尾】</span>√<br>");
+document.writeln("253期【1尾】√<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -132,7 +138,9 @@ document.writeln("243-245期平尾<span style=\'background-color: #FFFF00\'>【3
 document.writeln("245-247期平尾<span style=\'background-color: #FFFF00\'>【6尾】</span>245期中<br>");
 document.writeln("246-248期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>247期中<br>");
 document.writeln("248-250期平尾<span style=\'background-color: #FFFF00\'>【3尾】</span>250期中<br>");
-document.writeln("251-253期平尾【5尾】000期中<br>");
+document.writeln("251-253期平尾<span style=\'background-color: #FFFF00\'>【5尾】</span>252期中<br>");
+document.writeln("253-255期平尾【7尾】000期中<br>");
+
 
 document.writeln("");
 document.writeln("	</font>");
@@ -153,6 +161,8 @@ document.writeln("249期（02.43.19.06.26）×<br>");
 document.writeln("250期（20.48.34.47.03）√<br>");
 document.writeln("251期（20.45.11.42.24）√<br>");
 document.writeln("252期（17.24.26.11.10）√<br>");
+document.writeln("253期（09.40.42.11.24）√<br>");
+
 document.writeln("");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");

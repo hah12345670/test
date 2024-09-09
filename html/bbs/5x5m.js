@@ -36,7 +36,7 @@ document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>253期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-0-4</font></li>");
-document.writeln("            	<li>253期必中五尾：<font color=\'#FF0000\' size=\'4\'>5-0-4-1-3/font></li>");
+document.writeln("            	<li>253期必中五尾：<font color=\'#FF0000\' size=\'4\'>5-0-4-1-3</font></li>");
 document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>05.25.35.10.20.30.24.34.44.01.21.31.03.23.43</font></li>");
 document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>05.25.35.10.20.30.24.34.44</font></li>");
 document.writeln("");

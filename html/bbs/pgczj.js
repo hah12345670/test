@@ -24,16 +24,16 @@ document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>253期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
+document.writeln("<span style=\'background-color: #000000\'>254期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>？00</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【作】</font></b><br>");
+document.writeln("<font color=\'#FF0000\' size=\'5\'>【路】</font></b><br>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：作，劳动。解龙蛇虎狗鼠。<br>⑵解：作，五行金，解金肖猴鸡</font></span><br>");
+document.writeln("⑴：解：路，道路。解猪猴虎羊龙。<br>⑵解：路，五行火，解火肖蛇马</font></span><br>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：龙蛇虎狗鼠猴<br>");
-document.writeln("主攻特肖：龙蛇虎狗<br>");
-document.writeln("主攻特码：13.37.24.36.03.15.31.43.05.17.21.45</font><br><font color=\'#FFFF00\'>");
+document.writeln("本期围特：猪猴虎羊龙蛇<br>");
+document.writeln("主攻特肖：猪猴虎羊<br>");
+document.writeln("主攻特码：18.30.09.21.15.27.0.22.13.37.12.36</font><br><font color=\'#FFFF00\'>");
 document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
 document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
@@ -41,31 +41,6 @@ document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\
 document.writeln("");
 document.writeln("</tr></table></td>  ");
 document.writeln("         <!--开始-->");
-document.writeln("");
-document.writeln("         <!--开始-->");
-document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
-document.writeln("");
-document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<b><font size=\'3\' color=\'#FFFFFF\'>");
-document.writeln("<span style=\'background-color: #000000\'>251期跑马玄机测字开</span></font><span style=\'background-color: #008000\'><font color=\'#FFFF00\' size=\'3\'>兔14</font></span><span style=\'background-color: #000000\'><font color=\'#FFFFFF\' size=\'3\'>准</font></span></b></b><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\' size=\'5\'>【玩】</font></b><br>");
-document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
-document.writeln("<font color=\'#0000FF\'>");
-document.writeln("⑴：解：玩，玩耍。解兔狗羊鼠鸡。<br>⑵解：玩，五行木，解木肖虎兔</font></span><br>");
-document.writeln("<b><font face=\'微软雅黑\' size=\'3\' color=\'#FF0000\'>");
-document.writeln("本期围特：<span style=\'background-color: #FFFF00\'>兔</span>狗羊鼠鸡虎<br>");
-document.writeln("主攻特肖：<span style=\'background-color: #FFFF00\'>兔</span>狗羊鼠<br>");
-document.writeln("主攻特码：02.<span style=\'background-color: #FFFF00\'>14</span>.31.43.10.22.05.17.20.44.15.27</font><br><font color=\'#FFFF00\'>");
-document.writeln("<span style=\'background-color: #000066\'>【佛山夜上小晨】独家出版，欢迎各路同行转载</span></font></b></p>");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100% height=\'39\'><tbody><tr>");
-document.writeln("			<td height=39 bgcolor=\'#FFFF00\'><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://j.1999zx.com:1999/\'><img src=https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/images/33567.gif width=20 height=19><span style=font-family:楷体;color:#00f><font size=\'4\'>点击投注六合彩</font></span><span style=font-family:楷体;><font size=\'5\'><font color=\'#FF0000\'>1999.cc</font></font></a></strong></tr></table>");
-document.writeln("");
-document.writeln("</tr></table></td>  ");
-document.writeln("         <!--开始-->");
-document.writeln("");
-
 
 
 

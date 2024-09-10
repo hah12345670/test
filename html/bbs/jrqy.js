@@ -26,6 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
+
 document.writeln("\'/img/jrqy253.jpg\',");
 document.writeln("\'/img/jrqy252.jpg\',");
 document.writeln("\'/img/jrqy251.jpg\',");

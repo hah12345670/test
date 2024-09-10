@@ -81,6 +81,9 @@
 					str1 += '<td width="15%">' + json_str.result.data.createTime.substring(0, 16) + '</td><td width="70%">'
 					for(let x=0;x<json_str.result.data.openResults.length;x++){
 						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.openResults[x] + '</span>'
+						if (x==9){
+							str1 += '<br>'
+						}
 					}
 					str1 += '</td></tr></table>'
 					document.getElementById("showdata").innerHTML = str1;

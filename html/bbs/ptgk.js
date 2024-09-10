@@ -20,7 +20,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
 document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("254期<font color=\'#FF0000\'>平马→马羊(2连)→11.23.22.34(连)</font></font></b></font></table>");
+document.writeln("255期<font color=\'#FF0000\'>平蛇→蛇鸡(2连)→24.48.08.20(连)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
+document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("254期<font color=\'#FF0000\'>平马→马<span style=\'background-color: #FFFF00\'>羊</span>(2连)→11.23.22.34(连)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -32,23 +39,6 @@ document.writeln("253期<font color=\'#FF0000\'>平<span style=\'background-colo
 document.writeln("		<!--结束-->");
 
 
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
-document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("250期<font color=\'#FF0000\'>平<span style=\'background-color: #FFFF00\'>狗→狗虎</span>(2连)→07.31.<span style=\'background-color: #FFFF00\'>15</span>.27(连)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'46\'><tbody><tr>");
-document.writeln("	<td width=100% height=46><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("248期<font color=\'#FF0000\'>平龙→龙<span style=\'background-color: #FFFF00\'>鸡</span>(2连)→13.49.08.20(连)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 

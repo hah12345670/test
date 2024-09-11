@@ -26,9 +26,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">255期一语中特【树功立业】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：是指建立功勋和业绩。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴虎龙牛兔马开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">254期一语中特【首尾贯通】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：前后连续相通。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪蛇羊牛马虎开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猪蛇羊牛马<span style=\'background-color: #FFFF00\'>虎</span>开虎27准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 
@@ -42,14 +50,6 @@ document.writeln("    </td>");
 document.writeln("  </tr>");
 
 
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【巍然不动】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：像高山一样挺立着一动不动。形容高大坚固，不能动摇。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎猴马鼠<span style=\'background-color: #FFFF00\'>兔</span>蛇龙开兔14准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
 
 
 
@@ -87,9 +87,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">255期一语中特【阴云密布】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：浓厚的云层或空气中的大量的烟尘遮蔽天日，比喻形势险恶。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗猴虎兔鼠羊开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">254期一语中特【十磨九难】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指不断遭受的磨难。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴虎牛兔鸡龙开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴<span style=\'background-color: #FFFF00\'>虎</span>牛兔鸡龙开虎27准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 

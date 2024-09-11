@@ -33,19 +33,20 @@ document.writeln("		<font color=\'#000000\'>六合【破成语】</font></td>");
 document.writeln("    </tr>");
 
 
-
 document.writeln(" <!--开始--> ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 bgcolor=\'#FFFF00\' ><b>");
 document.writeln("");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\'>第254期：天降吉祥<Br></font>  ");
+document.writeln("		<font color=\'#FF0000\'>第255期：家风败坏<Br></font>  ");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' style=\'font-size: 18pt\' color=\'#000000\'>");
 document.writeln("		解：关注62827b.com</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\'font-size: 16pt\'>");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln(" <!--开始--> ");
+
+
 
 document.writeln(" <!--开始--> ");
 document.writeln("    	<tr>");

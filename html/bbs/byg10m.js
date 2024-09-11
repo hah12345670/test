@@ -41,7 +41,7 @@ document.writeln("<p align=\"center\"><b><font style=\"font-size: 14pt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <b>255期:【六肖12码】开？00准<br>");
 document.writeln("<font color=\"#FF0000\">");
 document.writeln("六肖：猴羊鼠牛马狗<br>");
@@ -49,7 +49,7 @@ document.writeln("12码：09.21.10.22.05.17.16.40.11.23.07.31</font></b></p>  ")
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <b>254期:【六肖12码】开虎27准<br>");
 document.writeln("<font color=\"#FF0000\">");
 document.writeln("六肖：羊鸡兔<span style=\"background-color: #FFFF00\">虎</span>猴鼠<br>");

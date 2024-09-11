@@ -33,20 +33,23 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("   <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>255期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>256期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
 document.writeln("		 <font color=\'#008000\' style=\"font-size: 14pt\">");
-document.writeln("		【14.09.07.42.02.24.16.32.28】<br>");
-document.writeln("		【31.12.36.25.48.41.10.15.17】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【29.03.38.27.25.33.06.45.09】<br>");
+document.writeln("		【39.34.20.31.44.21.46.04.30】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
+
+
 
 document.writeln("   <!--开始-->");
 document.writeln("	<tr>");

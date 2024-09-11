@@ -41,31 +41,10 @@ document.writeln("	");
 
 
 
-document.writeln("231期四季中特【春夏<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("232期四季中特【<span style=\'background-color: #FFFF00\'>春</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("233期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("234期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("235期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("236期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("237期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("238期四季中特【春秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("239期四季中特【夏<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("241期四季中特【春秋夏】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("242期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("243期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("244期四季中特【<span style=\'background-color: #FFFF00\'>春</span>秋夏】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("245期四季中特【春夏<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("246期四季中特【夏秋冬】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("247期四季中特【春夏<span style=\'background-color: #FFFF00\'>秋</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("248期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("249期四季中特【夏<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("250期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("251期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("252期四季中特【春秋冬】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("253期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("254期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("255期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -93,7 +72,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 
 
 
-document.writeln("255期才艺中特【琴书棋】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期才艺中特【棋书画】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("	");
 document.writeln("	<br>");
@@ -128,7 +108,9 @@ document.writeln("251期⑨肖【<span style=\'background-color: #FFFF00\'>兔</
 document.writeln("252期⑨肖【鸡羊鼠猪兔<span style=\'background-color: #FFFF00\'>蛇</span>虎马狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("253期⑨肖【牛虎羊<span style=\'background-color: #FFFF00\'>马</span>鼠兔猴蛇龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("254期⑨肖【羊蛇牛猪<span style=\'background-color: #FFFF00\'>虎</span>狗鸡龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期⑨肖【马虎鼠蛇猪龙狗鸡兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("255期⑨肖【马虎鼠蛇<span style=\'background-color: #FFFF00\'>猪</span>龙狗鸡兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期⑨肖【马蛇鼠猴羊鸡兔龙狗】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("");
 document.writeln("	");

@@ -16,11 +16,24 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777\' sty
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("			<td align=\'center\' height=40>");
+document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>256期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
+document.writeln("		       42.44.41.27.33.34.10.48.36.18.31.20<br>");
+document.writeln("			   05.01.07.26.45.14.22.13.12.30.24.21<br>");
+document.writeln("			   04.32.08.37.06.39.25.46.09.28.15.29</font>");
+document.writeln("			</td>");
+document.writeln("		</tr>");
+document.writeln(" <!--结束-->");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("			<td align=\'center\' height=40>");
 document.writeln("			<font style=\'font-size: 13pt\'><font color=\'#FF0000\'>255期</font><font color=\'#0000FF\'>围特</font>【<font color=\'#FF0000\'>无错36码</font>】<br>");
-document.writeln("		       07.26.22.38.41.47.30.21.23.33.20.25<br>");
+document.writeln("		       07.26.22.38.41.47.<span style=\'background-color: #FFFF00\'>30</span>.21.23.33.20.25<br>");
 document.writeln("			   24.29.36.43.18.13.06.42.28.44.46.05<br>");
 document.writeln("			   39.03.27.16.35.01.14.17.49.15.45.48</font>");
 document.writeln("			</td>");

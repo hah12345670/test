@@ -72,7 +72,7 @@ document.writeln("252期:二尾发财<span class=\"style1\"><strong>【7.8+9.<sp
 document.writeln("");
 document.writeln("253期:二尾发财<span class=\"style1\"><strong>【8.<span style=\"background-color: #FFFF00\">7</span>+6.5】</strong></span>开47准<br>");
 document.writeln("");
-document.writeln("254期:二尾发财<span class=\"style1\"><strong>【2.3+<span style=\'background-color: #FFFF00\'>7</span>.6】</strong></span>开27准</span></td></tr>");
+document.writeln("254期:二尾发财<span class=\"style1\"><strong>【2.3+<span style=\'background-color: #FFFF00\'>7</span>.6】</strong></span>开27准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("255期:二尾发财<span class=\"style1\"><strong>【9.3+6.7】</strong></span>开00准</span></td></tr>");

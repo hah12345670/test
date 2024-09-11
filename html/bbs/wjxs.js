@@ -52,7 +52,7 @@ document.writeln("    </tr>  ");
 document.writeln("       	<tr>");
 document.writeln("      <td height=33 >");
 document.writeln("		<p align=\'left\'><b>");
-document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>09月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【37.49.<span style=\'background-color: #FFFF00\'>17.31</span>.22.43.35.38.07.30】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>2</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
+document.writeln("		<font color=\'#0000FF\' face=\'微软雅黑\'>09月必开特码</font><font color=\'#FF0000\' face=\'微软雅黑\' size=\'4\'>【37.49.<span style=\'background-color: #FFFF00\'>17.31</span>.22.43.35.38.07.<span style=\'background-color: #FFFF00\'>30</span>】</font><font color=\'#0000FF\' face=\'微软雅黑\'>中</font><font color=\'#FF0000\' face=\'微软雅黑\'>3</font><font color=\'#0000FF\' face=\'微软雅黑\'>次</font></b></td>");
 document.writeln("    </tr> ");
 document.writeln("        </table>  ");
 document.writeln("    <!--结束--> ");

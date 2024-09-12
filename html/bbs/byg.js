@@ -83,8 +83,13 @@ document.writeln("		特肖【龙猴马羊兔<span style=\'background-color: #FFF
 
 document.writeln("");
 document.writeln("                   <font color=\'#0000FF\'>（255期）</font><Br>");
-document.writeln("		特肖【虎羊鸡猴牛猪】<br> 	<br>	");
+document.writeln("		特肖【虎羊鸡猴牛<span style=\'background-color: #FFFF00\'>猪</span>】<br> 	<br>	");
 
+
+
+document.writeln("");
+document.writeln("                   <font color=\'#0000FF\'>（256期）</font><Br>");
+document.writeln("		特肖【猪狗兔蛇马鼠】<br> 	<br>	");
 
 
 
@@ -146,8 +151,7 @@ document.writeln("		251期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		253期必中平特【猴+<span style=\'background-color: #FFFF00\'>龙</span>】√<br>	");
 
 document.writeln("		254期必中平特【鼠+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
-document.writeln("		255期必中平特【鸡+龙】√<br>	");
-
+document.writeln("		256期必中平特【猪+鸡】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -181,7 +185,9 @@ document.writeln("		251期杀【25.44.49.41.46.43.24】√<br>");
 document.writeln("		252期杀【19.49.02.15.26.16.14】√<br>");
 document.writeln("		253期杀【41.43.39.34.33.15.14】√<br>");
 document.writeln("		254期杀【45.10.49.22.29.41.14】√<br>");
-document.writeln("		255期杀【48.44.02.36.30.06.35】√<br>");
+document.writeln("		255期杀【48.44.02.36.30.06.35】×<br>");
+document.writeln("		256期杀【03.18.42.20.32.34.29】√<br>");
+
 document.writeln("");
 document.writeln("			</font>	");
 document.writeln("<br>");
@@ -233,7 +239,8 @@ document.writeln("	251期（红肖）√<br>			");
 document.writeln("	252期（蓝肖）√<br>			");
 document.writeln("	253期（绿肖）×<br>			");
 document.writeln("	254期（蓝肖）√<br>			");
-document.writeln("	255期（红肖）√<br>			");
+document.writeln("	255期（红肖）×<br>			");
+document.writeln("	256期（绿肖）√<br>			");
 
 document.writeln("");
 document.writeln("");
@@ -258,7 +265,8 @@ document.writeln("		251期【2378尾】×<br>				");
 document.writeln("		252期【2<span style=\'background-color: #FFFF00\'>6</span>89尾】√<br>				");
 document.writeln("		253期【2<span style=\'background-color: #FFFF00\'>7</span>06尾】√<br>				");
 document.writeln("		254期【9185尾】×<br>				");
-document.writeln("		255期【8165尾】√<br>				");
+document.writeln("		255期【8165尾】×<br>				");
+document.writeln("		256期【5637尾】√<br>				");
 
 
 document.writeln("");
@@ -281,8 +289,8 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 document.writeln("	252期（<span style=\'background-color: #FFFF00\'>3</span>.1头）√<br>	");
 document.writeln("	253期（2.<span style=\'background-color: #FFFF00\'>4</span>头）√<br>	");
 document.writeln("	254期（<span style=\'background-color: #FFFF00\'>2</span>.3头）√<br>	");
-document.writeln("	255期（3.2头）√<br>	");
-
+document.writeln("	255期（<span style=\'background-color: #FFFF00\'>3</span>.2头）√<br>	");
+document.writeln("	256期（2.0头）√<br>	");
 
 document.writeln("");
 document.writeln("		");
@@ -304,7 +312,8 @@ document.writeln("		251期绿波+蓝单<br>");
 document.writeln("		252期绿波+红双<br>");
 document.writeln("		253期绿波+<span style=\'background-color: #FFFF00\'>蓝单</span><br>");
 document.writeln("		254期红波+绿双<br>");
-document.writeln("		255期红波+蓝单<br>");
+document.writeln("		255期<span style=\'background-color: #FFFF00\'>红波</span>+蓝单<br>");
+document.writeln("		256期蓝波+红双<br>");
 
 
 document.writeln("		");
@@ -331,7 +340,7 @@ document.writeln("");
 document.writeln("		253期杀蛇虎√<br>");
 document.writeln("		254期杀蛇鼠√<br>");
 document.writeln("		255期杀虎牛√<br>");
-
+document.writeln("		256期杀兔牛√<br>");
 
 document.writeln("");
 document.writeln("		");
@@ -347,7 +356,7 @@ document.writeln("		252期杀红双√<br>");
 document.writeln("		253期杀红单√<br>");
 document.writeln("		254期杀红双√<br>");
 document.writeln("		255期杀蓝单√<br>");
-
+document.writeln("		256期杀蓝双√<br>");
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -372,7 +381,7 @@ document.writeln("		252期杀4头单√<br>	");
 document.writeln("		253期杀3头单√<br>	");
 document.writeln("		254期杀0头单√<br>	");
 document.writeln("		255期杀4头双√<br>	");
-
+document.writeln("		256期杀3头单√<br>	");
 
 document.writeln("");
 document.writeln("");
@@ -392,8 +401,8 @@ document.writeln("		251期杀8.6尾√<br>");
 document.writeln("		252期杀9.2尾√<br>");
 document.writeln("		253期杀6.8尾√<br>");
 document.writeln("		254期杀5.8尾√<br>");
-document.writeln("		255期杀2.7尾√<br>");
-
+document.writeln("		255期杀2.7尾×<br>");
+document.writeln("		256期杀6.0尾√<br>");
 
 
 document.writeln("");

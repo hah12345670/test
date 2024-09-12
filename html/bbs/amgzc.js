@@ -51,17 +51,25 @@ document.writeln("    </div>");
 document.writeln("<div class=\"Contentbox50000\">");
 document.writeln("	<div id=\"con_ptyxjplx50000_1\">");
 document.writeln("<!--四字玄机-->");
-document.writeln("<p align=\'center\'><img src=\'https://ttuu.wyvogue.com:4949/col/255/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
+document.writeln("<p align=\'center\'><img src=\'https://ttuu.wyvogue.com:4949/col/256/gzc1.jpg' width=\'75%\' style=\' height: 400px;\'>");
 document.writeln("<br></P>");
 document.writeln("");
 
+document.writeln("<p style=\'text-align:left\'>");
+document.writeln("<b><font color=\'#FFFFFF\'>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第256期</span></font></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
+document.writeln("<font color=\'#0000FF\'>解：常用于形容某人或某物具有强大的力量和威严。</font><br>");
+document.writeln("<b>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：兔蛇马猴鸡羊</font></b><br>");
+document.writeln("==========================<br>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
 document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第255期</span></font></b><br>");
 document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【来龙去脉】</span></font><br>");
 document.writeln("<font color=\'#0000FF\'>解：原是过去风水先生的说法,认为山势如龙,从头到尾都有血脉连贯。。</font><br>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：虎牛猪羊龙鸡</font></b><br>");
+document.writeln("<font color=\'#FF0000\'>综合解肖：虎牛<span style=\'background-color: #FFFF00\'>猪</span>羊龙鸡</font></b><br>");
 document.writeln("==========================<br>");
 document.writeln("<p style=\'text-align:left\'>");
 document.writeln("<b><font color=\'#FFFFFF\'>");
@@ -81,26 +89,6 @@ document.writeln("<b>");
 document.writeln("<font color=\'#FF0000\'>综合解肖：龙狗羊鼠牛<span style=\'background-color: #FFFF00\'>蛇</span></font></b><br>");
 document.writeln("==========================<br>");
 
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第251期</span></font></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【马不停蹄】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：比喻一刻也不停留，一直前进。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：马<span style=\'background-color: #FFFF00\'>兔</span>鼠猴蛇虎</font></b><br>");
-document.writeln("==========================<br>");
-
-
-document.writeln("<p style=\'text-align:left\'>");
-document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处四字玄机 第249期</span></font></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【虎虎生威】</span></font><br>");
-document.writeln("<font color=\'#0000FF\'>解：虎虎生威象征威武雄浑或肉体、气势旺盛的模样，寓意像老虎一样有一种令人敬畏的气势和声威。。</font><br>");
-document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>综合解肖：羊虎猪马兔<span style=\'background-color: #FFFF00\'>鸡</span></font></b><br>");
-document.writeln("==========================<br>");
-
-
 
 document.writeln("");
 document.writeln("<!--凤凰天机-->    ");
@@ -112,13 +100,13 @@ document.writeln("</div>");
 document.writeln("	<div id=\'con_ptyxjplx50000_2\' style=\'display:none\'>");
 document.writeln(" <!--波色玄机-->");
 document.writeln("<p align=\'center\'>");
-document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/255/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
+document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/256/gzc2.jpg' width=\'75%\' style=\' height: 400px;\'><br>");
 document.writeln("");
 
 document.writeln("");
 document.writeln("<b><font color=\'#FFFFFF\'>");
-document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第255期</span></font></b><br>");
-document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝峦有路春回绿】</span></font><br>");
+document.writeln("<span style=\'font-family: 黑体; background-color: #FF0000\'>公证处七字波色 第256期</span></font></b><br>");
+document.writeln("<font color=\'#FFFF00\' size=\'5\'><span style=\'background-color: #000000\'>【蓝山绿水是宝藏】</span></font><br>");
 document.writeln("	==========================<br>");
 document.writeln("");
 document.writeln("");

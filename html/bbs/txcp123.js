@@ -111,7 +111,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【半�
 document.writeln("		    ");
 document.writeln("");
 
-document.writeln("		255期【狗鼠兔】<br>		");
+document.writeln("		256期【兔蛇鼠】<br>		");
 document.writeln("");
 document.writeln("		");
 document.writeln("		</b></font></span><p>");
@@ -124,7 +124,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小�
 
 document.writeln("	253期【<span style=\'background-color: #FFFF00\'>马</span>猪+狗】<br><br>");
 document.writeln("	254期【龙鸡+<span style=\'background-color: #FFFF00\'>虎</span>】<br><br>");
-document.writeln("	255期【虎鸡+狗】<br><br>");
+document.writeln("	256期【兔蛇+猴】<br><br>");
 
 document.writeln("				");
 document.writeln("				");
@@ -141,8 +141,8 @@ document.writeln("");
 
 
 
-document.writeln("				255期蛇鼠马<br>");
-document.writeln("				08.44.16.40<br><br>");
+document.writeln("				256期鸡马牛<br>");
+document.writeln("				12.36.03.15<br><br>");
 
 
 
@@ -162,7 +162,13 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【小�
 
 document.writeln("255期<br>");
 document.writeln("36.22.07.33.43.24<br>");
-document.writeln("30.44.21.49.32.01<br>	");
+document.writeln("<span style=\'background-color: #FFFF00\'>30</span>.44.21.49.32.01<br>	");
+
+
+
+document.writeln("256期<br>");
+document.writeln("11.26.14.09.22.32<br>");
+document.writeln("28.42.27.15.10.41<br>	");
 
 
 
@@ -197,7 +203,7 @@ document.writeln("				<font color=\'#0000FF\' style=\'font-size: 14pt\'>【三�
 
 document.writeln("253期【<span style=\'background-color: #FFFF00\'>马</span>狗鼠羊】<br><br>");
 document.writeln("254期【马蛇羊<span style=\'background-color: #FFFF00\'>虎</span>】<br><br>");
-document.writeln("255期【鼠狗鸡猴】<br><br>");
+document.writeln("256期【马龙鼠猴】<br><br>");
 
 document.writeln("");
 document.writeln("				</b></font></span><p>");
@@ -212,9 +218,9 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("				255期？<br>");
-document.writeln("				【32.42.22.08】<br>");
-document.writeln("				【05.07.17.31】<br>	<br>");
+document.writeln("				256期？<br>");
+document.writeln("				【22.32.31.11】<br>");
+document.writeln("				【19.07.12.24】<br>	<br>");
 document.writeln("");
 
 document.writeln("");
@@ -234,9 +240,9 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("			255期<br>");
-document.writeln("			（15.14.46.41.12）<br>");
-document.writeln("			（18.16.10.21.28）<br>	");
+document.writeln("			256期<br>");
+document.writeln("			（45.29.43.22.11）<br>");
+document.writeln("			（25.21.30.35.46）<br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -256,8 +262,8 @@ document.writeln("");
 document.writeln("  250期<span style=\'background-color: #FFFF00\'>蛇</span>虎牛+鸡<br><br>");
 document.writeln("  252期猴鼠虎+猪<br><br>");
 document.writeln("  253期羊蛇鸡+<span style=\'background-color: #FFFF00\'>马</span><br><br>");
-document.writeln("  255期猴牛鸡+猪<br><br>");
-
+document.writeln("  255期猴牛鸡+<span style=\'background-color: #FFFF00\'>猪</span><br><br>");
+document.writeln("  256期羊牛猴+猪<br><br>");
 
 document.writeln("				");
 document.writeln("				</span><br>");

@@ -27,7 +27,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一肖）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
-document.writeln("255期稳杀(1)肖【鸡鸡鸡】开？00√<BR>");
+document.writeln("256期稳杀(1)肖【猴猴猴】开？00√<BR>");
+document.writeln("255期稳杀(1)肖【鸡鸡鸡】开猪30√<BR>");
 document.writeln("254期稳杀(1)肖【猴猴猴】开虎27√<BR>");
 document.writeln("253期稳杀(1)肖【猪猪猪】开马47√<BR>");
 document.writeln("252期稳杀(1)肖【羊羊羊】开蛇36√<BR>");
@@ -42,8 +43,8 @@ document.writeln("");
 document.writeln("<font color=\'#008000\' size=\"5\">（绝杀一尾）</font><br>");
 document.writeln("<span style=\"font-size: 13pt\">");
 
-
-document.writeln("255期稳杀(1)尾【666尾】开？00√<BR>");
+document.writeln("256期稳杀(1)尾【777尾】开？00√<BR>");
+document.writeln("255期稳杀(1)尾【666尾】开猪30√<BR>");
 document.writeln("254期稳杀(1)尾【999尾】开虎27√<BR>");
 document.writeln("253期稳杀(1)尾【888尾】开马47√<BR>");
 
@@ -70,7 +71,8 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀半波）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
-document.writeln("255期稳杀半波【蓝单】开？00√<BR>	");
+document.writeln("256期稳杀半波【红双】开？00√<BR>	");
+document.writeln("255期稳杀半波【蓝单】开猪30√<BR>	");
 document.writeln("254期稳杀半波【红双】开虎27√<BR>	");
 
 
@@ -96,8 +98,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
 
-
-document.writeln("255期稳杀半头【3头单】开？00√<BR>");
+document.writeln("256期稳杀半头【4头双】开？00√<BR>");
+document.writeln("255期稳杀半头【3头单】开猪30√<BR>");
 document.writeln("254期稳杀半头【0头单】开虎27√<BR>");
 document.writeln("253期稳杀半头【2头双】开马47√<BR>");
 document.writeln("252期稳杀半头【0头单】开蛇36√<BR>");
@@ -120,7 +122,9 @@ document.writeln("<font color=\'#008000\' size=\"5\">（绝杀单双）</font><b
 document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
-document.writeln("255期稳杀单双【小单】开？00√<BR>");
+
+document.writeln("256期稳杀单双【大单】开？00√<BR>");
+document.writeln("255期稳杀单双【小单】开猪30√<BR>");
 document.writeln("254期稳杀单双【小双】开虎27√<BR>");
 document.writeln("253期稳杀单双【大双】开马47√<BR>");
 document.writeln("252期稳杀单双【小单】开蛇36√<BR>");
@@ -152,8 +156,8 @@ document.writeln("<span style=\"font-size: 13pt\">");
 document.writeln("");
 
 
-
-document.writeln("255期稳杀(1)行【火火火】开？00√<BR>");
+document.writeln("256期稳杀(1)行【木木木】开？00√<BR>");
+document.writeln("255期稳杀(1)行【火火火】开猪30×<BR>");
 document.writeln("254期稳杀(1)行【水水水】开虎27√<BR>");
 document.writeln("253期稳杀(1)行【土土土】开马47√<BR>");
 document.writeln("252期稳杀(1)行【火火火】开蛇36√<BR>");

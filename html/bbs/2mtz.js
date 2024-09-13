@@ -43,7 +43,8 @@ document.writeln("252期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\
 document.writeln("253期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【野兽】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
 document.writeln("254期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【家禽】</font>(投资500元<font color=\"#FF0000\">亏</font>)<br>");
 document.writeln("255期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【野兽】</font>(投资500元<font color=\"#FF0000\">亏</font>)<br>");
-document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【野兽】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
+document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【野兽】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
+document.writeln("257期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【家禽】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
 
 
 
@@ -89,7 +90,10 @@ document.writeln("");
 document.writeln("255期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【双数】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【单数】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
+document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【单数】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("257期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【双数】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
 document.writeln("");
 
 
@@ -124,7 +128,8 @@ document.writeln("252期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\
 document.writeln("253期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【小数】</font>(投资500元<font color=\"#FF0000\">亏</font>)<br>");
 document.writeln("254期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【大数】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
 document.writeln("255期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【大数】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
-document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【大数】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
+document.writeln("256期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【大数】</font>(投资500元<font color=\"#FF0000\">盈</font>)<br>");
+document.writeln("257期<font color=\"#FF00FF\" style=\"font-size: 18pt\" face=\"微软雅黑\">【小数】</font>(投资500元<font color=\"#FF0000\">？</font>)<br>");
 document.writeln("");
 
 

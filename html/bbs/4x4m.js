@@ -28,15 +28,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 document.writeln("            <!--开始--> ");
 document.writeln("");
 document.writeln("    	<tr>");
 document.writeln("      <td height=32 >");
 document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第256期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【鼠17.鸡20.兔14.龙37】</font></b></td>");
+document.writeln("		<font color=\'#000000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第257期</font><font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">【鸡20.马11.鼠17.猪42】</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
+document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

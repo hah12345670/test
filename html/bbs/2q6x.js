@@ -28,7 +28,7 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("255-256期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【龙猴蛇马鼠羊】</font>(000期√)<br>");
+document.writeln("257-258期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗鸡蛇鼠牛】</font>(000期√)<br>");
 
 
 document.writeln("");

@@ -17,12 +17,21 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>257期：独平</font><font color=\'#FF3300\' size=\'5\'>【虎15.39】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
+
+
+
 
 
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>256期：独平</font><font color=\'#FF3300\' size=\'5\'>【龙13.37】</font><font color=\'#000000\' size=\'4\'>开？00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>256期：独平</font><font color=\'#FF3300\' size=\'5\'>【龙13.37】</font><font color=\'#000000\' size=\'4\'>开龙37准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 

@@ -9,6 +9,23 @@ document.writeln("");
 
 
 
+
+document.writeln("");
+document.writeln("<!------开始------>");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
+document.writeln("<span style=\'color: #FF0000;\'>257期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
+document.writeln("【猪羊狗】【蛇狗龙】【鼠蛇猪】</font></td></tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【猴鼠牛】【兔羊鸡】【牛猪狗】</font><font color=\'#008000\'> </font>");
+document.writeln("</td></tr>");
+document.writeln("<!------结束------>");
+
+
 document.writeln("");
 document.writeln("<!------开始------>");
 document.writeln("<tr>");
@@ -18,9 +35,9 @@ document.writeln("<span style=\'color: #FF0000;\'>256期(2)连4.2倍(3)连11.12�
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【龙蛇猪】【鼠鸡牛】【蛇龙鼠】</font></td></tr>");
+document.writeln("<span style=\'background-color: #FFFF00\'>【龙蛇猪】</span>【鼠鸡牛】【蛇龙鼠】</font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【猪牛虎】【鸡猪牛】【蛇龙猪】</font><font color=\'#008000\'> </font>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'><span style=\'background-color: #FFFF00\'>【猪牛虎】</span>【鸡猪牛】【蛇龙猪】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");
 document.writeln("<!------结束------>");
 

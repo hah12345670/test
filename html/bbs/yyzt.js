@@ -26,9 +26,17 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">257期一语中特【耍两面派】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：意思是指对斗争双方都采取敷衍的行为</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：狗猪羊蛇鸡马开0000准</font></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("    <td align=\'left\' height=\'73\'>");
 document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">256期一语中特【说得轻巧】</font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：说起来很简单容易。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：虎羊龙猴马兔开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>虎</span>羊龙猴马兔开虎39准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -87,69 +95,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">256期一语中特【许由洗耳】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：许由,尧时的隐士,居箕山之下。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴鸡牛狗猪马开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">257期一语中特【搓手跺脚】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：形容焦急不耐烦的样子。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鸡猴兔鼠龙猪开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">254期一语中特【十磨九难】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指不断遭受的磨难。。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：猴<span style=\'background-color: #FFFF00\'>虎</span>牛兔鸡龙开虎27准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">252期一语中特【扩而充之】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指扩大范围，充实内容。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：<span style=\'background-color: #FFFF00\'>蛇</span>猪龙羊马虎开蛇36准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">251期一语中特【光芒四射】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：强烈的光射向四面八方。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙<span style=\'background-color: #FFFF00\'>兔</span>虎鼠羊马开兔14准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">249期一语中特【乱碰乱撞】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指到处碰壁，没有目标。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：鼠马虎<span style=\'background-color: #FFFF00\'>鸡</span>羊兔开鸡32准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">248期一语中特【情有独钟】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：因对某人或某事物特别喜爱而感情专注。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：蛇鸡<span style=\'background-color: #FFFF00\'>马</span>羊鼠猪开马11准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">247期一语中特【流离遇合】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：流离失所又再团聚。流离，流转，离散。遇合，指遇到赏识自己的人。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：羊猪猴兔蛇<span style=\'background-color: #FFFF00\'>狗</span>开狗31准</font></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-
-
 
 
 

@@ -15,12 +15,19 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
+document.writeln("<font size=\'3\'>");
+document.writeln("<span style=\'color: #00F;\'>257期</span><span style=\'color: #800000;\'>财富波色</span>蓝波红波开:？00准</font></td></tr>");
+
+
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font size=\'3\'>");
-document.writeln("<span style=\'color: #00F;\'>256期</span><span style=\'color: #800000;\'>财富波色</span>红波绿波开:？00准</font></td></tr>");
+document.writeln("<span style=\'color: #00F;\'>256期</span><span style=\'color: #800000;\'>财富波色</span>红波<span style=\'background-color: #FFFF00\'>绿波</span>开:虎39准</font></td></tr>");
 
 
 document.writeln("");

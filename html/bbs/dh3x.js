@@ -32,17 +32,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>256期</font>【<font color=\'#FF0000\'>合肖:蛇猴狗</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>257期</font>【<font color=\'#FF0000\'>独肖:牛鼠羊</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>254期</font>【<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>独肖</span>:鼠牛羊</font>】开<font color=\'#FF00FF\'>(虎27)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 

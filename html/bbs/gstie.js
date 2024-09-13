@@ -76,7 +76,9 @@ document.writeln("254期:二尾发财<span class=\"style1\"><strong>【2.3+<span
 document.writeln("");
 document.writeln("255期:二尾发财<span class=\"style1\"><strong>【9.3+6.7】</strong></span>开30错<br>");
 document.writeln("");
-document.writeln("256期:二尾发财<span class=\"style1\"><strong>【6.3+8.7】</strong></span>开00准</span></td></tr>");
+document.writeln("256期:二尾发财<span class=\"style1\"><strong>【6.3+8.7】</strong></span>开39错<br>");
+document.writeln("");
+document.writeln("257期:二尾发财<span class=\"style1\"><strong>【6.2+5.7】</strong></span>开00准</span></td></tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");

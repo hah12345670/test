@@ -33,6 +33,22 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>257期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("风轻云淡蓝天空，城边树林绿萌萌");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：蓝天空解蓝肖虎猴蛇猪，绿萌萌解绿肖牛羊龙狗，</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：羊龙狗虎猴蛇猪<br>");
+document.writeln("			四肖：羊龙狗虎<br>");
+document.writeln("			特码：10.34.13.37.07.31.03.15.12.36.30.42</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
@@ -43,8 +59,8 @@ document.writeln("羊前猪后混一谈，秋风不敢三四晚");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：明肖羊猪，秋风解秋肖猴鸡狗，风肖龙虎兔，</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡狗龙虎兔羊猪<br>");
-document.writeln("			四肖：鸡狗龙虎<br>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡狗龙<span style=\'background-color: #FFFF00\'>虎</span>兔羊猪<br>");
+document.writeln("			四肖：鸡狗龙<span style=\'background-color: #FFFF00\'>虎</span><br>");
 document.writeln("			特码：08.44.31.43.13.37.03.15.02.14.22.34.18.30</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

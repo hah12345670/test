@@ -79,7 +79,8 @@ document.writeln("");
 document.writeln("254期⑤尾【1<span style=\'background-color: #FFFF00\'>7</span>594】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("255期⑤尾【53724】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("256期⑤尾【75<span style=\'background-color: #FFFF00\'>9</span>34】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("257期⑤尾【62403】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("257期⑤尾【62403】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("258期⑤尾【13270】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

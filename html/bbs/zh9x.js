@@ -45,7 +45,9 @@ document.writeln("253期四季中特【<span style=\'background-color: #FFFF00\'
 document.writeln("254期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("255期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("256期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("257期四季中特【夏秋冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("257期四季中特【夏<span style=\'background-color: #FFFF00\'>秋</span>冬】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("258期四季中特【春夏冬】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -73,8 +75,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 
 
 document.writeln("256期才艺中特【棋<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("257期才艺中特【琴棋书】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("257期才艺中特【<span style=\'background-color: #FFFF00\'>琴</span>棋书】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("258期才艺中特【棋书画】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("	");
 document.writeln("	<br>");
 document.writeln("</span>");
@@ -110,8 +112,8 @@ document.writeln("253期⑨肖【牛虎羊<span style=\'background-color: #FFFF0
 document.writeln("254期⑨肖【羊蛇牛猪<span style=\'background-color: #FFFF00\'>虎</span>狗鸡龙马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("255期⑨肖【马虎鼠蛇<span style=\'background-color: #FFFF00\'>猪</span>龙狗鸡兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("256期⑨肖【马蛇鼠猴羊鸡兔龙狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("257期⑨肖【猪蛇虎猴龙狗马鸡羊】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("257期⑨肖【猪蛇虎猴龙狗马<span style=\'background-color: #FFFF00\'>鸡</span>羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("258期⑨肖【马鼠龙蛇虎牛狗羊猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("	");
 document.writeln("		");

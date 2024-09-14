@@ -36,7 +36,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("           <!--开始-->");
 document.writeln("    <tr>");
@@ -44,9 +43,11 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>258期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【18.19.23.01.43.46.15.31.40.37.14.08】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>259期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【49.36.29.06.27.16.30.31.07.03.24.14】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->")
+document.writeln("");
+
 document.writeln("");
 document.writeln("           <!--开始-->");
 document.writeln("    <tr>");

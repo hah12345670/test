@@ -16,13 +16,15 @@ document.writeln("<!--推广结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'楷体\'>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>258期</font><font size=\"4\">男（虎龙猴鼠）女（鸡猪兔羊）</font></font></font></b></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>259期</font><font size=\"4\">男（狗猴虎龙）女（兔猪蛇羊）</font></font></font></b></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");

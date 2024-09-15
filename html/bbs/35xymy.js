@@ -33,6 +33,23 @@ document.writeln("");
 document.writeln("<!--头部start-->");
 
 
+
+document.writeln("<!--头部start-->");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<b>");
+document.writeln("			<font style=\'font-size: 13pt\'>259期西游谜语<br><font color=\'#FF0000\'>");
+document.writeln("九九八十一照算，贵人指点笔颜开");
+document.writeln("</font>");
+document.writeln("			<br></font><font face=\'隶书\'>解析：九九八十一解取经肖龙虎马猪猴，贵人解鸡</font><font style=\'font-size: 13pt\'><br>");
+document.writeln("			");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：鸡龙虎马猪猴狗<br>");
+document.writeln("			四肖：鸡龙虎马<br>");
+document.writeln("			特码：08.20.13.37.03.15.23.47.30.42.09.21.19.43</font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 document.writeln("<!--头部start-->");
 document.writeln("			<tr>");
 document.writeln("			<td align=\'left\' height=90>");
@@ -42,9 +59,9 @@ document.writeln("龙王天兵孙猴将，兔死狗悲守家园");
 document.writeln("</font>");
 document.writeln("			<br></font><font face=\'隶书\'>解析：明肖龙猴兔狗，天兵解天肖猪牛马猴兔龙，家园解家肖马鸡羊猪狗牛，</font><font style=\'font-size: 13pt\'><br>");
 document.writeln("			");
-document.writeln("			<br><font color=\'#0000FF\'>七肖：牛马猴兔龙狗鸡<br>");
-document.writeln("			四肖：牛马猴兔<br>");
-document.writeln("			特码：04.40.11.23.09.21.14.38.13.25.07.19.20.32</font></b></td>");
+document.writeln("			<br><font color=\'#0000FF\'>七肖：<span style=\'background-color: #FFFF00\'>牛</span>马猴兔龙狗鸡<br>");
+document.writeln("			四肖：<span style=\'background-color: #FFFF00\'>牛</span>马猴兔<br>");
+document.writeln("			特码：04.<span style=\'background-color: #FFFF00\'>40</span>.11.23.09.21.14.38.13.25.07.19.20.32</font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("<!--头部start-->");

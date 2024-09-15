@@ -92,8 +92,8 @@ document.writeln("                   <font color=\'#0000FF\'>（257期）</font>
 document.writeln("		特肖【马猪<span style=\'background-color: #FFFF00\'>鸡</span>牛猴蛇】<br> 	<br>	");
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（258期）</font><Br>");
-document.writeln("		特肖【猴猪蛇龙羊虎】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（259期）</font><Br>");
+document.writeln("		特肖【兔牛狗马羊虎】<br> 	<br>	");
 
 
 
@@ -134,15 +134,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("		<font style=\"font-size: 15pt\"><br>	");
 
-
-document.writeln("		235期必中平特【<span style=\'background-color: #FFFF00\'>蛇+鼠</span>】√<br>	");
-document.writeln("		236期必中平特【<span style=\'background-color: #FFFF00\'>羊</span>+兔】√<br>	");
-document.writeln("		237期必中平特【羊+<span style=\'background-color: #FFFF00\'>猪</span>】√<br>	");
-
-document.writeln("		239期必中平特【<span style=\'background-color: #FFFF00\'>狗</span>+牛】√<br>	");
-document.writeln("		240期必中平特【<span style=\'background-color: #FFFF00\'>兔</span>+鸡】√<br>	");
-document.writeln("		241期必中平特【<span style=\'background-color: #FFFF00\'>鸡+羊</span>】√<br>	");
-
 document.writeln("		243期必中平特【羊+<span style=\'background-color: #FFFF00\'>龙</span>】√<br>	");
 document.writeln("		244期必中平特【猪+<span style=\'background-color: #FFFF00\'>虎</span>】√<br>	");
 document.writeln("		245期必中平特【<span style=\'background-color: #FFFF00\'>猪</span>+牛】√<br>	");
@@ -157,7 +148,7 @@ document.writeln("		253期必中平特【猴+<span style=\'background-color: #FF
 document.writeln("		254期必中平特【鼠+<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>	");
 document.writeln("		256期必中平特【<span style=\'background-color: #FFFF00\'>猪</span>+鸡】√<br>	");
 document.writeln("		257期必中平特【兔+<span style=\'background-color: #FFFF00\'>马</span>】√<br>	");
-document.writeln("		258期必中平特【兔+鸡】√<br>	");
+document.writeln("		259期必中平特【鸡+鼠】√<br>	");
 
 
 document.writeln("");
@@ -186,6 +177,8 @@ document.writeln("");
 document.writeln("		256期杀【03.18.42.20.32.34.29】√<br>");
 document.writeln("		257期杀【45.36.26.01.27.49.16】√<br>");
 document.writeln("		258期杀【17.37.09.10.33.35.38】√<br>");
+document.writeln("		259期杀【37.12.27.33.08.22.25】√<br>");
+
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -231,7 +224,7 @@ document.writeln("");
 document.writeln("<br></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友七郎】	</font>	");
 document.writeln("<font style=\'font-size: 14pt\'>	<br>	");
 
-document.writeln("	258期（红肖）√<br>			");
+document.writeln("	259期（绿肖）√<br>			");
 
 document.writeln("");
 document.writeln("");
@@ -244,7 +237,7 @@ document.writeln("");
 document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友六彩道友】</font><font style=\'font-size: 14pt\'><br>	");
 
 
-document.writeln("		258期【9125尾】√<br>				");
+document.writeln("		259期【5603尾】√<br>				");
 
 
 
@@ -265,13 +258,7 @@ document.writeln("             <b>");
 document.writeln("             <br></font></span><font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友巧儿】</font><font style=\'font-size: 14pt\'><br>");
 
 
-document.writeln("	252期（<span style=\'background-color: #FFFF00\'>3</span>.1头）√<br>	");
-document.writeln("	253期（2.<span style=\'background-color: #FFFF00\'>4</span>头）√<br>	");
-document.writeln("	254期（<span style=\'background-color: #FFFF00\'>2</span>.3头）√<br>	");
-document.writeln("	255期（<span style=\'background-color: #FFFF00\'>3</span>.2头）√<br>	");
-document.writeln("	256期（2.0头）×<br>	");
-document.writeln("	257期（4.3头）×<br>	");
-document.writeln("	258期（2.1头）√<br>	");
+document.writeln("	259期（0.2头）√<br>	");
 
 
 document.writeln("");
@@ -297,8 +284,8 @@ document.writeln("		254期红波+绿双<br>");
 document.writeln("		255期<span style=\'background-color: #FFFF00\'>红波</span>+蓝单<br>");
 document.writeln("		256期蓝波+红双<br>");
 document.writeln("		257期<span style=\'background-color: #FFFF00\'>红波</span>+绿单<br>");
-document.writeln("		258期红波+蓝双<br>");
-
+document.writeln("		258期<span style=\'background-color: #FFFF00\'>红波</span>+蓝双<br>");
+document.writeln("		259期红波+蓝单<br>");
 
 document.writeln("		");
 document.writeln("		</b></font></td>		");
@@ -327,6 +314,8 @@ document.writeln("		255期杀虎牛√<br>");
 document.writeln("		256期杀兔牛√<br>");
 document.writeln("		257期杀鼠狗√<br>");
 document.writeln("		258期杀鼠虎√<br>");
+document.writeln("		259期杀猴虎√<br>");
+
 
 document.writeln("");
 document.writeln("		");
@@ -345,6 +334,9 @@ document.writeln("		255期杀蓝单√<br>");
 document.writeln("		256期杀蓝双√<br>");
 document.writeln("		257期杀绿双√<br>");
 document.writeln("		258期杀红单√<br>");
+document.writeln("		259期杀红双√<br>");
+
+
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -357,21 +349,11 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("		244期杀1头单√<br>	");
-document.writeln("		245期杀2头双√<br>	");
-document.writeln("		246期杀4头单√<br>	");
-document.writeln("		247期杀1头双√<br>	");
-document.writeln("		248期杀1头双√<br>	");
-document.writeln("		249期杀4头单√<br>	");
-document.writeln("		250期杀3头双√<br>	");
-document.writeln("		251期杀2头单√<br>	");
-document.writeln("		252期杀4头单√<br>	");
-document.writeln("		253期杀3头单√<br>	");
-document.writeln("		254期杀0头单√<br>	");
-document.writeln("		255期杀4头双√<br>	");
-document.writeln("		256期杀3头单×<br>	");
 document.writeln("		257期杀1头单√<br>	");
 document.writeln("		258期杀2头双√<br>	");
+document.writeln("		259期杀0头单√<br>	");
+
+
 
 document.writeln("");
 document.writeln("");
@@ -382,20 +364,10 @@ document.writeln("<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码友左
 
 
 
-document.writeln("		246期杀7.9尾√<br>");
-document.writeln("		247期杀4.3尾√<br>");
-document.writeln("		248期杀7.4尾√<br>");
-document.writeln("		249期杀6.0尾√<br>");
-document.writeln("		250期杀7.3尾√<br>");
-document.writeln("		251期杀8.6尾√<br>");
-document.writeln("		252期杀9.2尾√<br>");
-document.writeln("		253期杀6.8尾√<br>");
-document.writeln("		254期杀5.8尾√<br>");
-document.writeln("		255期杀2.7尾×<br>");
 document.writeln("		256期杀6.0尾√<br>");
 document.writeln("		257期杀9.6尾√<br>");
 document.writeln("		258期杀6.3尾√<br>");
-
+document.writeln("		259期杀0.3尾√<br>");
 
 document.writeln("");
 document.writeln("	    </b><br>	");

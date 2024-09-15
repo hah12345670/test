@@ -89,7 +89,7 @@ document.writeln("  255期【401<span style=\'background-color: #FFFF00\'>3</spa
 document.writeln("  256期【21<span style=\'background-color: #FFFF00\'>3</span>0头】√<br>		");
 document.writeln("  257期【4123头】×<br>		");
 document.writeln("  258期【1230头】×<br>		");
-document.writeln("  259期【8617头】√<br>		");
+document.writeln("  259期【0314头】√<br>		");
 
 document.writeln("	</font>");
 document.writeln("	");

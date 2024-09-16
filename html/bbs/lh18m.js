@@ -39,10 +39,10 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>259期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>260期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
 document.writeln("		 <font color=\'#008000\' style=\"font-size: 14pt\">");
-document.writeln("		【12.46.49.08.45.22.38.10.18】<br>");
-document.writeln("		【15.36.34.47.28.44.14.24.39】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【09.41.18.16.12.32.27.15.36】<br>");
+document.writeln("		【33.34.03.48.43.49.04.05.37】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
@@ -80,38 +80,6 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
-
-
-document.writeln("   <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>252期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
-document.writeln("		 <font color=\'#008000\' style=\"font-size: 14pt\">");
-document.writeln("		【14.23.35.22.20.<span style=\'background-color: #FFFF00\'>36</span>.29.43.11】<br>");
-document.writeln("		【42.03.27.19.18.40.28.08.39】</font><font color=\'#0000FF\'> </font> </span>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
-
-document.writeln("");
-document.writeln("   <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>251期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
-document.writeln("		 <font color=\'#008000\' style=\"font-size: 14pt\">");
-document.writeln("		【22.02.42.30.<span style=\'background-color: #FFFF00\'>14</span>.43.39.01.44】<br>");
-document.writeln("		【29.07.34.03.40.15.45.16.33】</font><font color=\'#0000FF\'> </font> </span>  ");
-document.writeln("		</font>  ");
-document.writeln("		</b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束--> ");
 
 document.writeln("");
 document.writeln("");

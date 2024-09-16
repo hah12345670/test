@@ -43,10 +43,11 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>259期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【49.36.29.06.27.16.30.31.07.03.24.14】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 11pt\'>260期</font><font color=\'#FF0000\' style=\'font-size: 11pt\'>【15.17.07.32.06.13.12.43.22.08.49.38】</font><font color=\'#000000\' style=\'font-size: 11pt\'>开<span style=\'background-color: #FFFF00\'>00√</span></font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("    <!--结束-->")
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("           <!--开始-->");

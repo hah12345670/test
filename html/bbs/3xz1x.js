@@ -34,11 +34,11 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">259期必中18码：</font><font color=\'#FF0000\' size=\'2\'>02.14.38.12.36.48.10.22.34.09.21.33.04.16.28.11.23.47</font></li>");
-document.writeln("            	<li>259期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">02.14.38.12.36.48.10.22.34</font></li>");
-document.writeln("            	<li>259期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-02.14.38）</font></li>");
-document.writeln("            	<li>259期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔蛇羊</font></li>");
-document.writeln("            	<li>259期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔蛇羊猴牛马</font></li>");
+document.writeln(" 	            <li><font size=\"2\">260期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.23.47.08.20.32.07.19.43.12.36.48.05.17.29.06.30.42</font></li>");
+document.writeln("            	<li>260期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">11.23.47.08.20.32.07.19.43</font></li>");
+document.writeln("            	<li>260期必中①肖：<font color=\'#FF0000\' size=\'5\'>（马-11.23.47）</font></li>");
+document.writeln("            	<li>260期必中③肖：<font color=\'#FF0000\' size=\'4\'>马鸡狗</font></li>");
+document.writeln("            	<li>260期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马鸡狗蛇鼠猪</font></li>");
 document.writeln("");
 document.writeln("        </div>");
 document.writeln("        </div>");

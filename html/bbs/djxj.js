@@ -25,6 +25,22 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>260期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>画蛇添足猪后转，鞍前马后为你来</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解明肖蛇猪马。猪后转为鼠肖。马后为羊肖。生心水的大意思是尽管经历了很多的不容易，但最后都是为你而来。谁有这么大的魅力，我猜是四大美女蛇鸡兔羊。综合得主蛇鸡兔羊防猪马鼠虎猴。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：蛇鸡兔羊猪马<br>");
+document.writeln("	特码：12.36.08.20.02.14.22.34.18.42.11.23</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -33,10 +49,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一道东风绿两岸，四声猿啼惊兔马</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖猿（猴）兔马。一解鼠牛肖，二解鼠牛。四解兔狗肖。绿解绿肖牛龙羊狗。东肖：虎兔龙肖。心水诗大意是当东风吹来万物更新发芽，猿猴类动物也从寒冷的冬季活跃起来，此起彼伏的叫声，惊的兔马等其它动物也四处跳窜。综合得主猴兔马牛防鼠狗龙羊虎。</font></div>");
+document.writeln("解析：预先解明肖猿（猴）兔马。一解鼠牛肖，二解鼠牛。四解兔狗肖。绿解绿肖牛龙羊狗。东肖：虎兔龙肖。心水诗大意是当东风吹来万物更新发芽，猿猴类动物也从寒冷的冬季活跃起来，此起彼伏的叫声，惊的兔马等其它动物也四处跳窜。综合得主猴兔马牛防<span style=\'background-color: #FFFF00\'>鼠</span>狗龙羊虎。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：猴兔马牛鼠狗<br>");
+document.writeln("	解特肖：猴兔马牛<span style=\'background-color: #FFFF00\'>鼠</span>狗<br>");
 document.writeln("	特码：09.21.14.26.23.47.04.28.05.41.31.43</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

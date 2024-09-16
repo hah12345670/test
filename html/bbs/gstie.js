@@ -66,7 +66,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=0 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'>");
-document.writeln("	<b><span style=\"font-size: 14pt\">259期</span><font color=\'#FF0000\' style=\"font-size: 14pt\">【鸡牛龙+05.33.12.47】</font><span style=\"font-size: 14pt\">开？00准</span></b></font></table>");
+document.writeln("	<b><span style=\"font-size: 14pt\">260期</span><font color=\'#FF0000\' style=\"font-size: 14pt\">【羊猴蛇+04.25.26.43】</font><span style=\"font-size: 14pt\">开？00准</span></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

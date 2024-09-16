@@ -16,6 +16,9 @@
 						-ms-user-select: none;
 						user-select: none;
 					}
+					th{
+						line-height: 50px;
+					}
 					span{
 						/* font-size: 880%;
 						font-size: 100pt;
@@ -34,14 +37,14 @@
 					var arr=['<span class="red 1">🃁</span>', '<span class="red 2">🃂</span>', '<span class="red 3">🃃</span>', '<span class="red 4">🃄</span>', '<span class="red 5">🃅</span>', '<span class="red 6">🃆</span>', '<span class="red 7">🃇</span>', '<span class="red 8">🃈</span>', '<span class="red 9">🃉</span>', '<span class="red 10">🃊</span>', '<span class="red 11">🃋</span>', '<span class="red 12">🃍</span>', '<span class="red 13">🃎</span>', '<span class="black 1">🃑</span>', '<span class="black 2">🃒</span>', '<span class="black 3">🃓</span>', '<span class="black 4">🃔</span>', '<span class="black 5">🃕</span>', '<span class="black 6">🃖</span>', '<span class="black 7">🃗</span>', '<span class="black 8">🃘</span>', '<span class="black 9">🃙</span>', '<span class="black 10">🃚</span>', '<span class="black 11">🃛</span>', '<span class="black 12">🃝</span>', '<span class="black 13">🃞</span>', '<span class="red 1">🂱</span>', '<span class="red 2">🂲</span>', '<span class="red 3">🂳</span>', '<span class="red 4">🂴</span>', '<span class="red 5">🂵</span>', '<span class="red 6">🂶</span>', '<span class="red 7">🂷</span>', '<span class="red 8">🂸</span>', '<span class="red 9">🂹</span>', '<span class="red 10">🂺</span>', '<span class="red 11">🂻</span>', '<span class="red 12">🂽</span>', '<span class="red 13">🂾</span>', '<span class="black 1">🂡</span>', '<span class="black 2">🂢</span>', '<span class="black 3">🂣</span>', '<span class="black 4">🂤</span>', '<span class="black 5">🂥</span>', '<span class="black 6">🂦</span>', '<span class="black 7">🂧</span>', '<span class="black 8">🂨</span>', '<span class="black 9">🂩</span>', '<span class="black 10">🂪</span>', '<span class="black 11">🂫</span>', '<span class="black 12">🂭</span>', '<span class="black 13">🂮</span>'];arr1=['<span class="red 1">🃁</span>', '<span class="red 2">🃂</span>', '<span class="red 3">🃃</span>', '<span class="red 4">🃄</span>', '<span class="red 5">🃅</span>', '<span class="red 6">🃆</span>', '<span class="red 7">🃇</span>', '<span class="red 8">🃈</span>', '<span class="red 9">🃉</span>', '<span class="red 10">🃊</span>', '<span class="red 11">🃋</span>', '<span class="red 12">🃍</span>', '<span class="red 13">🃎</span>', '<span class="black 1">🃑</span>', '<span class="black 2">🃒</span>', '<span class="black 3">🃓</span>', '<span class="black 4">🃔</span>', '<span class="black 5">🃕</span>', '<span class="black 6">🃖</span>', '<span class="black 7">🃗</span>', '<span class="black 8">🃘</span>', '<span class="black 9">🃙</span>', '<span class="black 10">🃚</span>', '<span class="black 11">🃛</span>', '<span class="black 12">🃝</span>', '<span class="black 13">🃞</span>', '<span class="red 1">🂱</span>', '<span class="red 2">🂲</span>', '<span class="red 3">🂳</span>', '<span class="red 4">🂴</span>', '<span class="red 5">🂵</span>', '<span class="red 6">🂶</span>', '<span class="red 7">🂷</span>', '<span class="red 8">🂸</span>', '<span class="red 9">🂹</span>', '<span class="red 10">🂺</span>', '<span class="red 11">🂻</span>', '<span class="red 12">🂽</span>', '<span class="red 13">🂾</span>', '<span class="black 1">🂡</span>', '<span class="black 2">🂢</span>', '<span class="black 3">🂣</span>', '<span class="black 4">🂤</span>', '<span class="black 5">🂥</span>', '<span class="black 6">🂦</span>', '<span class="black 7">🂧</span>', '<span class="black 8">🂨</span>', '<span class="black 9">🂩</span>', '<span class="black 10">🂪</span>', '<span class="black 11">🂫</span>', '<span class="black 12">🂭</span>', '<span class="black 13">🂮</span>', '<span class="red 14">🃟</span>', '<span class="black 15">🃟</span>'];
 					// 获取随机的几张唯一的牌
 					function get_random_num(arr, count) {
-						const result = [];
-						const temp_arr = [...arr];
-						while (result.length < count) {
-							const index = Math.floor(Math.random() * temp_arr.length);
-							result.push(temp_arr[index]);
-							temp_arr.splice(index, 1);
+						let new_arr = [];
+						let arr1 = [...arr];
+						while (new_arr.length < count) {
+							let index = Math.floor(Math.random() * arr1.length);
+							new_arr.push(arr1[index]);
+							arr1.splice(index, 1);
 						}
-						return result;
+						return new_arr;
 					}
 				</script>
 			</head>
@@ -49,18 +52,17 @@
 			<hr>
 			<body>
 				<table id="myTable" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody>
-				<tr><th colspan=2>发牌</th></tr>
-				<tr><td id="zj">庄家</td><td id="wj">玩家</td></tr>
-				<tr><td colspan=2 id="essd">算二十四</td></tr>
+				<tr><th width="50%" id="yx1">炸金花</th><th id="yx2">算二十四</th></tr>
+				<tr id="jg"><td style="line-height: 40px;">庄家</td><td>玩家</td></tr>
 				</tbody></table>
 				<script>
-					document.getElementById('myTable').addEventListener('click', function(event) {
-						if (event.target.tagName === 'TH') {
-							let unum = get_random_num(arr, 10);
-							document.getElementById('zj').innerHTML = unum[0] + unum[2] + unum[4]
-							document.getElementById('wj').innerHTML = unum[1] + unum[3] + unum[5]
-							document.getElementById('essd').innerHTML = unum[6] + unum[7] + unum[8] + unum[9]
-						}
+					document.getElementById('yx1').addEventListener('click', function(event) {
+							let unum = get_random_num(arr, 6);
+							document.getElementById('jg').innerHTML = '<td>' + unum[0] + unum[2] + unum[4] + '</td><td>' + unum[1] + unum[3] + unum[5] + '</td>'
+					});
+					document.getElementById('yx2').addEventListener('click', function(event) {
+							let unum = get_random_num(arr, 4);
+							document.getElementById('jg').innerHTML = '<td colspan=2>' + unum[0] + unum[1] + unum[2] + unum[3] + '</td>'
 					});
 				</script>
 				

@@ -7,33 +7,62 @@
 				<meta content="" name="keywords">
 				<meta content="" name="description">
 				<!-- <link href="./favicon.ico" rel="icon"> -->
-			<style>
-				* {
-					-webkit-touch-callout: none;
-					-webkit-user-select: none;
-					-khtml-user-select: none;
-					-moz-user-select: none;
-					-ms-user-select: none;
-					user-select: none;
-				}
-				span{
-					/* font-size: 880%;
-					font-size: 100pt;
-					font-size: 7em;
-					font-size: 133px; */
-					font-size: 530%;
-				}
-				.red{
-					color: red;
-				}
-				.black{
-					color: black;
-				}
-			</style>
+				<style>
+					* {
+						-webkit-touch-callout: none;
+						-webkit-user-select: none;
+						-khtml-user-select: none;
+						-moz-user-select: none;
+						-ms-user-select: none;
+						user-select: none;
+					}
+					span{
+						/* font-size: 880%;
+						font-size: 100pt;
+						font-size: 7em;
+						font-size: 133px; */
+						font-size: 530%;
+					}
+					.red{
+						color: red;
+					}
+					.black{
+						color: black;
+					}
+				</style>
+				<script>
+					var arr=['<span class="red 1">🃁</span>', '<span class="red 2">🃂</span>', '<span class="red 3">🃃</span>', '<span class="red 4">🃄</span>', '<span class="red 5">🃅</span>', '<span class="red 6">🃆</span>', '<span class="red 7">🃇</span>', '<span class="red 8">🃈</span>', '<span class="red 9">🃉</span>', '<span class="red 10">🃊</span>', '<span class="red 11">🃋</span>', '<span class="red 12">🃍</span>', '<span class="red 13">🃎</span>', '<span class="black 1">🃑</span>', '<span class="black 2">🃒</span>', '<span class="black 3">🃓</span>', '<span class="black 4">🃔</span>', '<span class="black 5">🃕</span>', '<span class="black 6">🃖</span>', '<span class="black 7">🃗</span>', '<span class="black 8">🃘</span>', '<span class="black 9">🃙</span>', '<span class="black 10">🃚</span>', '<span class="black 11">🃛</span>', '<span class="black 12">🃝</span>', '<span class="black 13">🃞</span>', '<span class="red 1">🂱</span>', '<span class="red 2">🂲</span>', '<span class="red 3">🂳</span>', '<span class="red 4">🂴</span>', '<span class="red 5">🂵</span>', '<span class="red 6">🂶</span>', '<span class="red 7">🂷</span>', '<span class="red 8">🂸</span>', '<span class="red 9">🂹</span>', '<span class="red 10">🂺</span>', '<span class="red 11">🂻</span>', '<span class="red 12">🂽</span>', '<span class="red 13">🂾</span>', '<span class="black 1">🂡</span>', '<span class="black 2">🂢</span>', '<span class="black 3">🂣</span>', '<span class="black 4">🂤</span>', '<span class="black 5">🂥</span>', '<span class="black 6">🂦</span>', '<span class="black 7">🂧</span>', '<span class="black 8">🂨</span>', '<span class="black 9">🂩</span>', '<span class="black 10">🂪</span>', '<span class="black 11">🂫</span>', '<span class="black 12">🂭</span>', '<span class="black 13">🂮</span>'];arr1=['<span class="red 1">🃁</span>', '<span class="red 2">🃂</span>', '<span class="red 3">🃃</span>', '<span class="red 4">🃄</span>', '<span class="red 5">🃅</span>', '<span class="red 6">🃆</span>', '<span class="red 7">🃇</span>', '<span class="red 8">🃈</span>', '<span class="red 9">🃉</span>', '<span class="red 10">🃊</span>', '<span class="red 11">🃋</span>', '<span class="red 12">🃍</span>', '<span class="red 13">🃎</span>', '<span class="black 1">🃑</span>', '<span class="black 2">🃒</span>', '<span class="black 3">🃓</span>', '<span class="black 4">🃔</span>', '<span class="black 5">🃕</span>', '<span class="black 6">🃖</span>', '<span class="black 7">🃗</span>', '<span class="black 8">🃘</span>', '<span class="black 9">🃙</span>', '<span class="black 10">🃚</span>', '<span class="black 11">🃛</span>', '<span class="black 12">🃝</span>', '<span class="black 13">🃞</span>', '<span class="red 1">🂱</span>', '<span class="red 2">🂲</span>', '<span class="red 3">🂳</span>', '<span class="red 4">🂴</span>', '<span class="red 5">🂵</span>', '<span class="red 6">🂶</span>', '<span class="red 7">🂷</span>', '<span class="red 8">🂸</span>', '<span class="red 9">🂹</span>', '<span class="red 10">🂺</span>', '<span class="red 11">🂻</span>', '<span class="red 12">🂽</span>', '<span class="red 13">🂾</span>', '<span class="black 1">🂡</span>', '<span class="black 2">🂢</span>', '<span class="black 3">🂣</span>', '<span class="black 4">🂤</span>', '<span class="black 5">🂥</span>', '<span class="black 6">🂦</span>', '<span class="black 7">🂧</span>', '<span class="black 8">🂨</span>', '<span class="black 9">🂩</span>', '<span class="black 10">🂪</span>', '<span class="black 11">🂫</span>', '<span class="black 12">🂭</span>', '<span class="black 13">🂮</span>', '<span class="red 14">🃟</span>', '<span class="black 15">🃟</span>'];
+					// 获取随机的几张唯一的牌
+					function get_random_num(arr, count) {
+						const result = [];
+						const temp_arr = [...arr];
+						while (result.length < count) {
+							const index = Math.floor(Math.random() * temp_arr.length);
+							result.push(temp_arr[index]);
+							temp_arr.splice(index, 1);
+						}
+						return result;
+					}
+				</script>
 			</head>
 			
 			<hr>
-			<body><span class="red 1">🃁</span><span class="red 2">🃂</span><span class="red 3">🃃</span><span class="red 4">🃄</span><span class="red 5">🃅</span><span class="red 6">🃆</span><span class="red 7">🃇</span><span class="red 8">🃈</span><span class="red 9">🃉</span><span class="red 10">🃊</span><span class="red 11">🃋</span><span class="red 12">🃍</span><span class="red 13">🃎</span><span class="black 1">🃑</span><span class="black 2">🃒</span><span class="black 3">🃓</span><span class="black 4">🃔</span><span class="black 5">🃕</span><span class="black 6">🃖</span><span class="black 7">🃗</span><span class="black 8">🃘</span><span class="black 9">🃙</span><span class="black 10">🃚</span><span class="black 11">🃛</span><span class="black 12">🃝</span><span class="black 13">🃞</span><span class="red 1">🂱</span><span class="red 2">🂲</span><span class="red 3">🂳</span><span class="red 4">🂴</span><span class="red 5">🂵</span><span class="red 6">🂶</span><span class="red 7">🂷</span><span class="red 8">🂸</span><span class="red 9">🂹</span><span class="red 10">🂺</span><span class="red 11">🂻</span><span class="red 12">🂽</span><span class="red 13">🂾</span><span class="black 1">🂡</span><span class="black 2">🂢</span><span class="black 3">🂣</span><span class="black 4">🂤</span><span class="black 5">🂥</span><span class="black 6">🂦</span><span class="black 7">🂧</span><span class="black 8">🂨</span><span class="black 9">🂩</span><span class="black 10">🂪</span><span class="black 11">🂫</span><span class="black 12">🂭</span><span class="black 13">🂮</span><span class="red 14">🃟</span><span class="black 15">🃟</span>
+			<body>
+				<table id="myTable" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody>
+				<tr><th colspan=2>发牌</th></tr>
+				<tr><td id="zj">庄家</td><td id="wj">玩家</td></tr>
+				<tr><td colspan=2 id="essd">算二十四</td></tr>
+				</tbody></table>
+				<script>
+					document.getElementById('myTable').addEventListener('click', function(event) {
+						if (event.target.tagName === 'TH') {
+							let unum = get_random_num(arr, 10);
+							document.getElementById('zj').innerHTML = unum[0] + unum[2] + unum[4]
+							document.getElementById('wj').innerHTML = unum[1] + unum[3] + unum[5]
+							document.getElementById('essd').innerHTML = unum[6] + unum[7] + unum[8] + unum[9]
+						}
+					});
+				</script>
 				
 			</body>
 		</html>

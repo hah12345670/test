@@ -23,11 +23,19 @@ document.writeln("");
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("260期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃草吃肉</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("261期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃草吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
+document.writeln("		<!--结束-->	");
+document.writeln("");
+document.writeln("");
+document.writeln("				<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("260期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃草</span>吃肉</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛40</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("");
@@ -45,146 +53,6 @@ document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\
 document.writeln("258期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃菜<span style=\'background-color: #FFFF00\'>吃草</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛40</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->	");
 document.writeln("");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("256期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎39</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("255期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃草<span style=\'background-color: #FFFF00\'>吃菜</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪30</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("253期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃草</span>吃肉</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马47</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("252期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃菜<span style=\'background-color: #FFFF00\'>吃肉</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇36</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("251期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃草</span>吃肉</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>兔14</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("250期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃菜<span style=\'background-color: #FFFF00\'>吃肉</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇24</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("248期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃草</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马11</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("247期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗31</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("246期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃草</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎15</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("245期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃菜</span>吃肉</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠17</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("244期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃草<span style=\'background-color: #FFFF00\'>吃肉</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎03</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("242期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃肉<span style=\'background-color: #FFFF00\'>吃菜</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪30</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("241期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃肉<span style=\'background-color: #FFFF00\'>吃草</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛04</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("240期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇24</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("239期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗31</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("238期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃草<span style=\'background-color: #FFFF00\'>吃菜</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪18</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("237期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃肉<span style=\'background-color: #FFFF00\'>吃菜</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪06</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("235期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃菜</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇24</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("234期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>吃肉</span>吃草</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗07</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-document.writeln("");
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("233期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>吃菜<span style=\'background-color: #FFFF00\'>吃草</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马23</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->	");
-
 
 document.writeln("");
 document.writeln("");

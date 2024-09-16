@@ -43,7 +43,7 @@ document.writeln("      <td align=\'left\' height=40 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		<b>");
-document.writeln("		<font color=\'#FF0000\' size=\'4\'>【马猴】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">255-260期(000期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
+document.writeln("		<font color=\'#FF0000\' size=\'4\'>【猪鸡】</font><font color=\'#333399\'><span style=\"font-size: 12pt\">261-266期(000期开？00)</span></font><font color=\'#FF00FF\'><span style=\"font-size: 13pt\">");
 document.writeln("		</span>  ");
 document.writeln("		 ");
 document.writeln("		</font>  ");

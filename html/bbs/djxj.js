@@ -28,18 +28,20 @@ document.writeln("<!---->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>260期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>261期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>画蛇添足猪后转，鞍前马后为你来</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>雨水滋润万物生，秋收红豆好运连</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖蛇猪马。猪后转为鼠肖。马后为羊肖。生心水的大意思是尽管经历了很多的不容易，但最后都是为你而来。谁有这么大的魅力，我猜是四大美女蛇鸡兔羊。综合得主蛇鸡兔羊防猪马鼠虎猴。</font></div>");
+document.writeln("解析：预先解这期没有明肖，雨解雨肖鼠牛猪。秋解秋肖猴鸡狗。红解红肖:鼠,马,兔,鸡。好运偏看吉肖。本人看出的是是有了雨水的滋润才有万物生和秋收的好运。个人看重雨水肖鼠牛猪，综合得主鼠牛猪狗防猴鸡马兔羊。</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：蛇鸡兔羊猪马<br>");
-document.writeln("	特码：12.36.08.20.02.14.22.34.18.42.11.23</font></b></div>");
+document.writeln("	解特肖：鼠牛猪狗猴鸡<br>");
+document.writeln("	特码：05.41.16.40.06.30.31.43.09.21.20.44</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
+
+
 
 
 document.writeln("<!--开始-->");
@@ -71,39 +73,6 @@ document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("	解特肖：龙蛇鸡鼠羊<span style=\'background-color: #FFFF00\'>牛</span><br>");
 document.writeln("	特码：01.37.12.36.08.20.17.29.10.22.16.28</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>256期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>牛马相见多奇妙，虎起蛇落惊四座</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖牛马虎蛇,四解四位兔四岁牛,心水诗大意是虎蛇来了大家都害怕,综合得主<span style=\'background-color: #FFFF00\'>虎</span>蛇牛马防兔鼠龙马猪</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：<span style=\'background-color: #FFFF00\'>虎</span>蛇牛马兔鼠<br>");
-document.writeln("	特码：03.15.12.36.04.40.11.23.02.14.05.17</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>255期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>水花翦翦坠同云，琴台落日私语时</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解水肖鼠猪，落日解日肖兔龙蛇马羊猴。综合得主鼠<span style=\'background-color: #FFFF00\'>猪</span>兔龙防蛇马羊猴狗</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鼠<span style=\'background-color: #FFFF00\'>猪</span>兔龙蛇马<br>");
-document.writeln("	特码：05.17.06.<span style=\'background-color: #FFFF00\'>30</span>.02.14.13.37.12.36.11.23</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");

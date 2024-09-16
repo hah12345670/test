@@ -28,7 +28,10 @@ document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("");
-document.writeln("260-261期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎羊龙牛鼠猪】</font>(000期√)<br>");
+document.writeln("261-262期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【羊牛鼠猪猴蛇】</font>(000期√)<br>");
+
+document.writeln("");
+document.writeln("260-261期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎羊龙<span style=\'background-color: #FFFF00\'>牛</span>鼠猪】</font>(260期√)<br>");
 
 document.writeln("");
 document.writeln("259-260期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【猪鸡虎<span style=\'background-color: #FFFF00\'>鼠</span>蛇兔】</font>(259期√)<br>");

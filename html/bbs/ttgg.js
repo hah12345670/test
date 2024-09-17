@@ -14,7 +14,41 @@ document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'https://huiu387.www79167b.com:8443/#62gsb\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期全网最准</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六码中特】</font><font color=\"#000000\" style=\"font-size: 12pt\">79827.com</font></span></a></li>");
 document.writeln("");
+
+document.writeln("              ");
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin06.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期杨家佬爷</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七至四尾】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj09.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【波色四肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("       ");
+document.writeln("");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/050.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期澳门铁粉</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+
+document.writeln("       <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+
+
+document.writeln("       ");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s004.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期波霸少郎</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀一波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("              <li>");
+document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
+document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
+document.writeln("");
+document.writeln("");
 document.writeln("              ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj08.html\'>");
@@ -100,16 +134,6 @@ document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj16.
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九至五肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("       ");
 document.writeln("");
-document.writeln("              ");
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/xin06.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期杨家佬爷</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七至四尾】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj02.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【九肖18码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
 
 document.writeln("             ");
 document.writeln("       <li>");
@@ -118,11 +142,7 @@ document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\
 document.writeln("       ");
 document.writeln("       ");
 document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/087.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期小咪呜姐</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【六肖六码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
+
 document.writeln("           ");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/078.html\'>");
@@ -132,11 +152,6 @@ document.writeln("    ");
 document.writeln("");
 
 
-document.writeln("       <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj09.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【波色四肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("       ");
-document.writeln("       ");
 
 document.writeln("");
 document.writeln("");
@@ -146,13 +161,6 @@ document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\
 document.writeln("");
 document.writeln("");
 
-document.writeln("       ");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/s004.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期波霸少郎</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀一波】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 document.writeln("       <li>");
 document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj04.html\'>");
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【七尾14码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
@@ -220,11 +228,6 @@ document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/6dgsb/mj11.
 document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期本站出品</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【平特2.码】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("              <li>");
-document.writeln("		<p align=\"center\"><a target=\'_blank\' href=\'/gsb/050.html\'>");
-document.writeln("		<span style=\"text-decoration: none\"><font color=\"#000000\" style=\"font-size: 12pt\"><img src=\'/images/zhong.gif\'>261期澳门铁粉</font><font color=\"#FF0000\" style=\"font-size: 14pt\">【绝杀二肖】</font><font color=\"#000000\" style=\"font-size: 12pt\">稳赚不赔！</font></span></a></li>");
 document.writeln("");
 
 

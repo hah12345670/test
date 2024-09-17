@@ -42,21 +42,10 @@ document.writeln("	");
 
 
 
-document.writeln("247期⑥肖【<span style=\'background-color: #FFFF00\'>狗</span>龙兔猴马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("248期⑥肖【<span style=\'background-color: #FFFF00\'>马</span>鸡蛇羊猪虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("249期⑥肖【狗猴马牛龙<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("250期⑥肖【猴<span style=\'background-color: #FFFF00\'>蛇</span>兔羊牛狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("251期⑥肖【马蛇鼠猴虎猪】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("252期⑥肖【狗<span style=\'background-color: #FFFF00\'>蛇</span>马猴鸡龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("253期⑥肖【牛龙蛇猪<span style=\'background-color: #FFFF00\'>马</span>兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("254期⑥肖【龙猪鼠蛇狗<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期⑥肖【虎马狗龙兔<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("256期⑥肖【马牛龙猪羊鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("257期⑥肖【马猴龙<span style=\'background-color: #FFFF00\'>鸡</span>虎猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("258期⑥肖【鼠羊蛇猪龙兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("259期⑥肖【<span style=\'background-color: #FFFF00\'>鼠</span>马狗虎猪兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("260期⑥肖【鸡兔<span style=\'background-color: #FFFF00\'>牛</span>蛇龙虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("261期⑥肖【猴猪兔牛鸡蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("261期⑥肖【猴猪兔牛鸡蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("262期⑥肖【马龙牛猴鼠鸡】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -81,15 +70,9 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("254期⑤尾【1<span style=\'background-color: #FFFF00\'>7</span>594】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期⑤尾【53724】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("256期⑤尾【75<span style=\'background-color: #FFFF00\'>9</span>34】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("257期⑤尾【62403】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("258期⑤尾【1327<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("259期⑤尾【50374】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("260期⑤尾【475<span style=\'background-color: #FFFF00\'>0</span>8】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("261期⑤尾【91274】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("261期⑤尾【9<span style=\'background-color: #FFFF00\'>1</span>274】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("262期⑤尾【49102】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

@@ -35,12 +35,12 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">261期必中18码：</font><font color=\'#FF0000\' size=\'2\'>18.28.38.09.29.39.07.27.47.15.25.35.12.32.42.10.20.30</font></li>");
-document.writeln("            	<li>261期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">18.28.38.09.29.39.07.27.47.15.25.35</font></li>");
-document.writeln("            	<li>261期必中六码：<font color=\'#FF0000\' size=\'4\'>18.28.38.09.29.39</font></li>");
-document.writeln("            	<li>261期必中①码：<font color=\'#FF0000\' size=\'5\'>（8尾-18.28.38）</font></li>");
-document.writeln("            	<li>261期必中三尾：<font color=\'#FF0000\' size=\'4\'>8-9-7</font></li>");
-document.writeln("            	<li>261期必中六尾：<font color=\'#FF0000\' size=\'4\'>8-9-7-5-2-0</font></li>");
+document.writeln(" 	            <li><font size=\"2\">262期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.14.24.09.29.39.10.20.30.28.38.48.07.17.27.05.15.25</font></li>");
+document.writeln("            	<li>262期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">04.14.24.09.29.39.10.20.30.28.38.48</font></li>");
+document.writeln("            	<li>262期必中六码：<font color=\'#FF0000\' size=\'4\'>04.14.24.09.29.39</font></li>");
+document.writeln("            	<li>262期必中①码：<font color=\'#FF0000\' size=\'5\'>（4尾-04.14.24）</font></li>");
+document.writeln("            	<li>262期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-9-0</font></li>");
+document.writeln("            	<li>262期必中六尾：<font color=\'#FF0000\' size=\'4\'>4-9-0-8-7-5</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

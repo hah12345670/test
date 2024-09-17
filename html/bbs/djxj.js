@@ -28,51 +28,15 @@ document.writeln("<!---->");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>261期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>262期【独家玄机】解析</font></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>雨水滋润万物生，秋收红豆好运连</font></b></font></div>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>春天播种秋天收，天降马羊猴鸡狗</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解这期没有明肖，雨解雨肖鼠牛猪。秋解秋肖猴鸡狗。红解红肖:鼠,马,兔,鸡。好运偏看吉肖。本人看出的是是有了雨水的滋润才有万物生和秋收的好运。个人看重雨水肖鼠牛猪，综合得主鼠牛猪狗防猴鸡马兔羊。</font></div>");
+document.writeln("解析：预先解明肖马羊猴鸡狗。春天和秋天偏看春（虎兔龙）秋（猴鸡狗）肖。这期我就信了会给明肖。秋肖中有猴鸡狗肖，说明猴鸡狗是重复重点指出的。综合得主猴鸡狗虎防马羊兔鼠牛</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：鼠牛猪狗猴鸡<br>");
-document.writeln("	特码：05.41.16.40.06.30.31.43.09.21.20.44</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>259期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>一道东风绿两岸，四声猿啼惊兔马</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖猿（猴）兔马。一解鼠牛肖，二解鼠牛。四解兔狗肖。绿解绿肖牛龙羊狗。东肖：虎兔龙肖。心水诗大意是当东风吹来万物更新发芽，猿猴类动物也从寒冷的冬季活跃起来，此起彼伏的叫声，惊的兔马等其它动物也四处跳窜。综合得主猴兔马牛防<span style=\'background-color: #FFFF00\'>鼠</span>狗龙羊虎。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：猴兔马牛<span style=\'background-color: #FFFF00\'>鼠</span>狗<br>");
-document.writeln("	特码：09.21.14.26.23.47.04.28.05.41.31.43</font></b></div>");
-document.writeln("    </td>");
-document.writeln("  </tr>");
-document.writeln("<!--开始-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\' height=\'139\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>258期【独家玄机】解析</font></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙蛇相混难又难，头戴凤冠姿意意</font></b></font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖龙蛇鸡.头偏看鼠肖或领头羊.玄机大意是要想混得好,真的是难,只有真的混上位了,头戴凤冠了才能真的放松一下.综合得主龙蛇鸡鼠防羊<span style=\'background-color: #FFFF00\'>牛</span>虎兔猴</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><b>");
-document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙蛇鸡鼠羊<span style=\'background-color: #FFFF00\'>牛</span><br>");
-document.writeln("	特码：01.37.12.36.08.20.17.29.10.22.16.28</font></b></div>");
+document.writeln("	解特肖：猴鸡狗虎马羊<br>");
+document.writeln("	特码：09.21.20.44.19.31.03.15.11.23.22.46</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");

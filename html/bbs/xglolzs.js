@@ -92,7 +92,7 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四头中特）</font><br>");
 document.writeln("");
 
-document.writeln("262期四头中特【3420】开？00√<br>");
+document.writeln("104期四头中特【3420】开？00√<br>");
 document.writeln("103期四头中特【4203】开羊10×<br>");
 document.writeln("102期四头中特【20<span style=\'background-color: #FFFF00\'>4</span>3】开猴45√<br>");
 document.writeln("101期四头中特【01<span style=\'background-color: #FFFF00\'>2</span>4】开虎27√<br>");

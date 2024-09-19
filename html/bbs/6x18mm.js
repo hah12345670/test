@@ -23,6 +23,25 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("263期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
+document.writeln("[鼠05.17马23.35蛇12.48]<br>");
+document.writeln("[羊10.34鸡20.44兔02.14]<br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62827b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+
 
 
 document.writeln("");
@@ -32,9 +51,9 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("262期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("262期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>鸡44准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
-document.writeln("[鸡20.44猪06.18兔02.14]<br>");
+document.writeln("[<span style=\'background-color: #FFFF00\'>鸡</span>20.<span style=\'background-color: #FFFF00\'>44</span>猪06.18兔02.14]<br>");
 document.writeln("[猴21.45牛04.16虎15.27]<br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
 document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62827b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");

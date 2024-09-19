@@ -71,5 +71,7 @@ function get_gz(arr) {
 		showModal(str1+'举人, 二举');
 	} else if (where12){
 		showModal(str1+'秀才, 一秀');
+	} else {
+		showModal('继续加油...');
 	}
 }

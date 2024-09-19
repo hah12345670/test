@@ -50,7 +50,10 @@ document.writeln("<font style=\'font-size: 16pt\' face=\'微软雅黑\'>");
 document.writeln("");
 
 document.writeln("261期<span style=\'background-color: #FFFF00\'>【羊】</span>√<br>");
-document.writeln("262期【虎】√<br>");
+document.writeln("262期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>");
+document.writeln("263期【牛】√<br>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -73,7 +76,8 @@ document.writeln("254-256期出平<span style=\'background-color: #FFFF00\'>【�
 document.writeln("255-257期出平<span style=\'background-color: #FFFF00\'>【鸡】</span>257期中<br>");
 document.writeln("258-260期出平<span style=\'background-color: #FFFF00\'>【鼠】</span>258期中<br>");
 document.writeln("259-261期出平<span style=\'background-color: #FFFF00\'>【羊】</span>261期中<br>");
-document.writeln("262-264期出平【牛】000期中<br>");
+document.writeln("262-264期出平<span style=\'background-color: #FFFF00\'>【牛】</span>262期中<br>");
+document.writeln("263-265期出平【猪】000期中<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -114,8 +118,8 @@ document.writeln("258期【2尾】×<br>");
 document.writeln("259期【7尾】×<br>");
 document.writeln("260期<span style=\'background-color: #FFFF00\'>【0尾】</span>√<br>");
 document.writeln("261期【8尾】×<br>");
-document.writeln("262期【4尾】√<br>");
-
+document.writeln("262期<span style=\'background-color: #FFFF00\'>【4尾】</span>√<br>");
+document.writeln("263期【6尾】√<br>");
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -171,6 +175,8 @@ document.writeln("259期（20.10.45.09.39）√<br>");
 document.writeln("260期（38.20.45.42.44）√<br>");
 document.writeln("261期（23.09.16.25.04）√<br>");
 document.writeln("262期（19.37.34.40.38）√<br>");
+document.writeln("263期（08.09.36.14.34）√<br>");
+
 
 document.writeln("");
 document.writeln("</font></b></td>");

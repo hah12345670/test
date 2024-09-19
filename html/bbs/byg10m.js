@@ -54,7 +54,8 @@ document.writeln("	<p align=\"center\">258期:<font color=\"#F36\">天地生肖<
 document.writeln("	<p align=\"center\">259期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">地肖</span>〗开:鼠29中</p>	");
 document.writeln("	<p align=\"center\">260期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">天肖</span>〗开:牛40中</p>	");
 document.writeln("	<p align=\"center\">261期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">地肖</span>〗开:龙01错</p>	");
-document.writeln("	<p align=\"center\">262期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">地肖</span>〗开:？00中</p>	");
+document.writeln("	<p align=\"center\">262期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">地肖</span>〗开:鸡44中</p>	");
+document.writeln("	<p align=\"center\">263期:<font color=\"#F36\">天地生肖</font>〖<span style=\"color: #09F; background-color: #FFFF00;\">地肖</span>〗开:？00中</p>	");
 
 document.writeln("");
 document.writeln("");

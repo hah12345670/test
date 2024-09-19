@@ -13,7 +13,7 @@ function get_random_num(arr, count) {
 function showModal(message) {
 	let modal = document.getElementById('myModal');
 	let modalContent = document.getElementById('myModalContent');
-	modalContent.innerHTML = message;
+	modalContent.innerText = message;
 	modal.style.display = 'block';
 	// 定时关闭
 	// setTimeout(function() {

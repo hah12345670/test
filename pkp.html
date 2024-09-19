@@ -7,76 +7,22 @@
 				<meta content="" name="keywords">
 				<meta content="" name="description">
 				<!-- <link href="./favicon.ico" rel="icon"> -->
-				<style>
-					* {
-						-webkit-touch-callout: none;
-						-webkit-user-select: none;
-						-khtml-user-select: none;
-						-moz-user-select: none;
-						-ms-user-select: none;
-						user-select: none;
-					}
-					th{
-						line-height: 50px;
-					}
-					.sp{
-						/* font-size: 880%;
-						font-size: 100pt;
-						font-size: 7em;
-						font-size: 133px; */
-						font-size: 530%;
-					}
-					.st{
-						font-size: 450%;
-					}
-					.red{
-						color: red;
-					}
-					.black{
-						color: black;
-					}
-				</style>
+				<link href="html_pkp.css" rel="stylesheet" type="text/css" />
+				<script src="html_pkp.js"></script>
 				<script>
-					var arr=['<span class="sp red 1">🃁</span>', '<span class="sp red 2">🃂</span>', '<span class="sp red 3">🃃</span>', '<span class="sp red 4">🃄</span>', '<span class="sp red 5">🃅</span>', '<span class="sp red 6">🃆</span>', '<span class="sp red 7">🃇</span>', '<span class="sp red 8">🃈</span>', '<span class="sp red 9">🃉</span>', '<span class="sp red 10">🃊</span>', '<span class="sp red 11">🃋</span>', '<span class="sp red 12">🃍</span>', '<span class="sp red 13">🃎</span>', '<span class="sp black 1">🃑</span>', '<span class="sp black 2">🃒</span>', '<span class="sp black 3">🃓</span>', '<span class="sp black 4">🃔</span>', '<span class="sp black 5">🃕</span>', '<span class="sp black 6">🃖</span>', '<span class="sp black 7">🃗</span>', '<span class="sp black 8">🃘</span>', '<span class="sp black 9">🃙</span>', '<span class="sp black 10">🃚</span>', '<span class="sp black 11">🃛</span>', '<span class="sp black 12">🃝</span>', '<span class="sp black 13">🃞</span>', '<span class="sp red 1">🂱</span>', '<span class="sp red 2">🂲</span>', '<span class="sp red 3">🂳</span>', '<span class="sp red 4">🂴</span>', '<span class="sp red 5">🂵</span>', '<span class="sp red 6">🂶</span>', '<span class="sp red 7">🂷</span>', '<span class="sp red 8">🂸</span>', '<span class="sp red 9">🂹</span>', '<span class="sp red 10">🂺</span>', '<span class="sp red 11">🂻</span>', '<span class="sp red 12">🂽</span>', '<span class="sp red 13">🂾</span>', '<span class="sp black 1">🂡</span>', '<span class="sp black 2">🂢</span>', '<span class="sp black 3">🂣</span>', '<span class="sp black 4">🂤</span>', '<span class="sp black 5">🂥</span>', '<span class="sp black 6">🂦</span>', '<span class="sp black 7">🂧</span>', '<span class="sp black 8">🂨</span>', '<span class="sp black 9">🂩</span>', '<span class="sp black 10">🂪</span>', '<span class="sp black 11">🂫</span>', '<span class="sp black 12">🂭</span>', '<span class="sp black 13">🂮</span>'];arr1=['<span class="sp red 1">🃁</span>', '<span class="sp red 2">🃂</span>', '<span class="sp red 3">🃃</span>', '<span class="sp red 4">🃄</span>', '<span class="sp red 5">🃅</span>', '<span class="sp red 6">🃆</span>', '<span class="sp red 7">🃇</span>', '<span class="sp red 8">🃈</span>', '<span class="sp red 9">🃉</span>', '<span class="sp red 10">🃊</span>', '<span class="sp red 11">🃋</span>', '<span class="sp red 12">🃍</span>', '<span class="sp red 13">🃎</span>', '<span class="sp black 1">🃑</span>', '<span class="sp black 2">🃒</span>', '<span class="sp black 3">🃓</span>', '<span class="sp black 4">🃔</span>', '<span class="sp black 5">🃕</span>', '<span class="sp black 6">🃖</span>', '<span class="sp black 7">🃗</span>', '<span class="sp black 8">🃘</span>', '<span class="sp black 9">🃙</span>', '<span class="sp black 10">🃚</span>', '<span class="sp black 11">🃛</span>', '<span class="sp black 12">🃝</span>', '<span class="sp black 13">🃞</span>', '<span class="sp red 1">🂱</span>', '<span class="sp red 2">🂲</span>', '<span class="sp red 3">🂳</span>', '<span class="sp red 4">🂴</span>', '<span class="sp red 5">🂵</span>', '<span class="sp red 6">🂶</span>', '<span class="sp red 7">🂷</span>', '<span class="sp red 8">🂸</span>', '<span class="sp red 9">🂹</span>', '<span class="sp red 10">🂺</span>', '<span class="sp red 11">🂻</span>', '<span class="sp red 12">🂽</span>', '<span class="sp red 13">🂾</span>', '<span class="sp black 1">🂡</span>', '<span class="sp black 2">🂢</span>', '<span class="sp black 3">🂣</span>', '<span class="sp black 4">🂤</span>', '<span class="sp black 5">🂥</span>', '<span class="sp black 6">🂦</span>', '<span class="sp black 7">🂧</span>', '<span class="sp black 8">🂨</span>', '<span class="sp black 9">🂩</span>', '<span class="sp black 10">🂪</span>', '<span class="sp black 11">🂫</span>', '<span class="sp black 12">🂭</span>', '<span class="sp black 13">🂮</span>', '<span class="sp red 14">🃟</span>', '<span class="sp black 15">🃟</span>'];arr2=['<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>'];arr3=['<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st black 2">⚁</span>', '<span class="st black 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st black 5">⚄</span>', '<span class="st black 6">⚅</span>'];
-					// 获取随机的几张唯一的牌
-					function get_random_num(arr, count) {
-						let new_arr = [];
-						let arr1 = [...arr];
-						while (new_arr.length < count) {
-							let index = Math.floor(Math.random() * arr1.length);
-							new_arr.push(arr1[index]);
-							arr1.splice(index, 1);
-						}
-						return new_arr;
-					}
+					var arr=['<span class="sp red 1">🃁</span>', '<span class="sp red 2">🃂</span>', '<span class="sp red 3">🃃</span>', '<span class="sp red 4">🃄</span>', '<span class="sp red 5">🃅</span>', '<span class="sp red 6">🃆</span>', '<span class="sp red 7">🃇</span>', '<span class="sp red 8">🃈</span>', '<span class="sp red 9">🃉</span>', '<span class="sp red 10">🃊</span>', '<span class="sp red 11">🃋</span>', '<span class="sp red 12">🃍</span>', '<span class="sp red 13">🃎</span>', '<span class="sp black 1">🃑</span>', '<span class="sp black 2">🃒</span>', '<span class="sp black 3">🃓</span>', '<span class="sp black 4">🃔</span>', '<span class="sp black 5">🃕</span>', '<span class="sp black 6">🃖</span>', '<span class="sp black 7">🃗</span>', '<span class="sp black 8">🃘</span>', '<span class="sp black 9">🃙</span>', '<span class="sp black 10">🃚</span>', '<span class="sp black 11">🃛</span>', '<span class="sp black 12">🃝</span>', '<span class="sp black 13">🃞</span>', '<span class="sp red 1">🂱</span>', '<span class="sp red 2">🂲</span>', '<span class="sp red 3">🂳</span>', '<span class="sp red 4">🂴</span>', '<span class="sp red 5">🂵</span>', '<span class="sp red 6">🂶</span>', '<span class="sp red 7">🂷</span>', '<span class="sp red 8">🂸</span>', '<span class="sp red 9">🂹</span>', '<span class="sp red 10">🂺</span>', '<span class="sp red 11">🂻</span>', '<span class="sp red 12">🂽</span>', '<span class="sp red 13">🂾</span>', '<span class="sp black 1">🂡</span>', '<span class="sp black 2">🂢</span>', '<span class="sp black 3">🂣</span>', '<span class="sp black 4">🂤</span>', '<span class="sp black 5">🂥</span>', '<span class="sp black 6">🂦</span>', '<span class="sp black 7">🂧</span>', '<span class="sp black 8">🂨</span>', '<span class="sp black 9">🂩</span>', '<span class="sp black 10">🂪</span>', '<span class="sp black 11">🂫</span>', '<span class="sp black 12">🂭</span>', '<span class="sp black 13">🂮</span>'];arr1=['<span class="sp red 1">🃁</span>', '<span class="sp red 2">🃂</span>', '<span class="sp red 3">🃃</span>', '<span class="sp red 4">🃄</span>', '<span class="sp red 5">🃅</span>', '<span class="sp red 6">🃆</span>', '<span class="sp red 7">🃇</span>', '<span class="sp red 8">🃈</span>', '<span class="sp red 9">🃉</span>', '<span class="sp red 10">🃊</span>', '<span class="sp red 11">🃋</span>', '<span class="sp red 12">🃍</span>', '<span class="sp red 13">🃎</span>', '<span class="sp black 1">🃑</span>', '<span class="sp black 2">🃒</span>', '<span class="sp black 3">🃓</span>', '<span class="sp black 4">🃔</span>', '<span class="sp black 5">🃕</span>', '<span class="sp black 6">🃖</span>', '<span class="sp black 7">🃗</span>', '<span class="sp black 8">🃘</span>', '<span class="sp black 9">🃙</span>', '<span class="sp black 10">🃚</span>', '<span class="sp black 11">🃛</span>', '<span class="sp black 12">🃝</span>', '<span class="sp black 13">🃞</span>', '<span class="sp red 1">🂱</span>', '<span class="sp red 2">🂲</span>', '<span class="sp red 3">🂳</span>', '<span class="sp red 4">🂴</span>', '<span class="sp red 5">🂵</span>', '<span class="sp red 6">🂶</span>', '<span class="sp red 7">🂷</span>', '<span class="sp red 8">🂸</span>', '<span class="sp red 9">🂹</span>', '<span class="sp red 10">🂺</span>', '<span class="sp red 11">🂻</span>', '<span class="sp red 12">🂽</span>', '<span class="sp red 13">🂾</span>', '<span class="sp black 1">🂡</span>', '<span class="sp black 2">🂢</span>', '<span class="sp black 3">🂣</span>', '<span class="sp black 4">🂤</span>', '<span class="sp black 5">🂥</span>', '<span class="sp black 6">🂦</span>', '<span class="sp black 7">🂧</span>', '<span class="sp black 8">🂨</span>', '<span class="sp black 9">🂩</span>', '<span class="sp black 10">🂪</span>', '<span class="sp black 11">🂫</span>', '<span class="sp black 12">🂭</span>', '<span class="sp black 13">🂮</span>', '<span class="sp red 14">🃟</span>', '<span class="sp black 15">🃟</span>'];arr2=['<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>'];arr3=['<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>', '<span class="st red 1">⚀</span>', '<span class="st blue 2">⚁</span>', '<span class="st blue 3">⚂</span>', '<span class="st red 4">⚃</span>', '<span class="st blue 5">⚄</span>', '<span class="st blue 6">⚅</span>'];
 				</script>
 			</head>
 			
 			<hr>
 			<body>
+				<div id="myModal" class="modal"><div id="myModalContent" class="modal-content"></div></div>
 				<table id="myTable" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody>
 				<tr style="height: 16em;" id="jg"><td>庄家</td><td>玩家</td></tr>
 				<tr><th width="50%" id="yx1">炸金花</th><th id="yx2">算二十四</th></tr>
 				<tr><th width="50%" id="yx3">骰子</th><th id="yx4">博饼</th></tr>
 				</tbody></table>
-				<script>
-					document.getElementById('yx1').addEventListener('click', function(event) {
-							let unum = get_random_num(arr, 6);
-							document.getElementById('jg').innerHTML = '<td>' + unum[0] + unum[2] + unum[4] + '</td><td>' + unum[1] + unum[3] + unum[5] + '</td>'
-					});
-					document.getElementById('yx2').addEventListener('click', function(event) {
-							let unum = get_random_num(arr, 4);
-							document.getElementById('jg').innerHTML = '<td colspan=2>' + unum[0] + unum[1] + unum[2] + unum[3] + '</td>'
-					});
-					document.getElementById('yx3').addEventListener('click', function(event) {
-							let unum = get_random_num(arr2, 3);
-							document.getElementById('jg').innerHTML = '<td colspan=2>' + unum[0] + unum[1] + unum[2] + '</td>'
-					});
-					document.getElementById('yx4').addEventListener('click', function(event) {
-							let unum = get_random_num(arr3, 6);
-							document.getElementById('jg').innerHTML = '<td colspan=2>' + unum[0] + unum[1] + unum[2] + unum[3] + unum[4] + unum[5] + '</td>'
-					});
-				</script>
+				<script src="html_pkp1.js"></script>
 				
 			</body>
 		</html>

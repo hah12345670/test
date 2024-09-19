@@ -1,0 +1,48 @@
+* {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+th{
+	line-height: 50px;
+}
+.sp{
+	/* font-size: 880%%;
+	font-size: 100pt;
+	font-size: 7em;
+	font-size: 133px; */
+	font-size: 530%;
+}
+.st{
+	font-size: 450%;
+}
+.red{
+	color: red;
+}
+.black{
+	color: black;
+}
+.blue{
+	color: blue;
+}
+/* 简单的模态对话框样式 */
+.modal {
+	display: none; /* 默认隐藏 */
+	position: fixed;
+	z-index: 1; /* 位于顶层 */
+	left: 0;
+	top: 0;
+	width: 100%; /* 全屏宽度 */
+	height: 100%; /* 全屏高度 */
+	background-color: rgba(0,0,0,0.5); /* 半透明背景 */
+}
+.modal-content {
+	background-color: #fefefe;
+	margin: 15% auto; /* 垂直居中 */
+	padding: 20px;
+	border: 1px solid #888;
+	width: 80%;
+}

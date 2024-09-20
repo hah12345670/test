@@ -46,8 +46,8 @@ document.writeln("259期⑥肖【<span style=\'background-color: #FFFF00\'>鼠</
 document.writeln("260期⑥肖【鸡兔<span style=\'background-color: #FFFF00\'>牛</span>蛇龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("261期⑥肖【猴猪兔牛鸡蛇】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("262期⑥肖【马龙牛猴鼠<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("263期⑥肖【虎狗兔羊牛龙】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("263期⑥肖【虎狗兔羊牛<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("264期⑥肖【鼠兔蛇羊牛鸡】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -75,8 +75,8 @@ document.writeln("");
 document.writeln("260期⑤尾【475<span style=\'background-color: #FFFF00\'>0</span>8】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("261期⑤尾【9<span style=\'background-color: #FFFF00\'>1</span>274】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("262期⑤尾【<span style=\'background-color: #FFFF00\'>4</span>9102】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("263期⑤尾【83709】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("263期⑤尾【8<span style=\'background-color: #FFFF00\'>3</span>709】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("264期⑤尾【07592】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

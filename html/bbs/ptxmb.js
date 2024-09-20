@@ -51,8 +51,8 @@ document.writeln("");
 
 document.writeln("261期<span style=\'background-color: #FFFF00\'>【羊】</span>√<br>");
 document.writeln("262期<span style=\'background-color: #FFFF00\'>【虎】</span>√<br>");
-document.writeln("263期【牛】√<br>");
-
+document.writeln("263期【牛】×<br>");
+document.writeln("264期【蛇】√<br>");
 
 document.writeln("");
 document.writeln("");
@@ -91,6 +91,7 @@ document.writeln("255-257期平码【<span style=\'background-color: #FFFF00\'>1
 document.writeln("258-260期平码【<span style=\'background-color: #FFFF00\'>29</span>.07.31.13】259期中<br>");
 document.writeln("260-262期平码【01.44.<span style=\'background-color: #FFFF00\'>40</span>.19】260期中<br>");
 document.writeln("261-263期平码【36.28.43.25】000期中<br>");
+document.writeln("264-266期平码【29.47.35.34】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font><br>");
@@ -119,7 +120,9 @@ document.writeln("259期【7尾】×<br>");
 document.writeln("260期<span style=\'background-color: #FFFF00\'>【0尾】</span>√<br>");
 document.writeln("261期【8尾】×<br>");
 document.writeln("262期<span style=\'background-color: #FFFF00\'>【4尾】</span>√<br>");
-document.writeln("263期【6尾】√<br>");
+document.writeln("263期【6尾】×<br>");
+document.writeln("264期【7尾】√<br>");
+
 
 document.writeln("");
 document.writeln("</font><br>");
@@ -152,7 +155,7 @@ document.writeln("257-259期平尾<span style=\'background-color: #FFFF00\'>【1
 document.writeln("258-260期平尾<span style=\'background-color: #FFFF00\'>【8尾】</span>258期中<br>");
 document.writeln("259-261期平尾<span style=\'background-color: #FFFF00\'>【1尾】</span>260期中<br>");
 document.writeln("261-263期平尾【6尾】000期中<br>");
-
+document.writeln("264-266期平尾【7尾】000期中<br>");
 
 document.writeln("");
 document.writeln("	</font>");
@@ -176,7 +179,7 @@ document.writeln("260期（38.20.45.42.44）√<br>");
 document.writeln("261期（23.09.16.25.04）√<br>");
 document.writeln("262期（19.37.34.40.38）√<br>");
 document.writeln("263期（08.09.36.14.34）√<br>");
-
+document.writeln("264期（37.39.27.20.02）√<br>");
 
 document.writeln("");
 document.writeln("</font></b></td>");

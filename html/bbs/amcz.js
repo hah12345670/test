@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/263/ammh.jpg\' id=\'sbxpicx\'>");
+document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/264/ammh.jpg\' id=\'sbxpicx\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,7 +26,7 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrsbx=new Array(");
 
-
+document.writeln("\'https://ttuu.wyvogue.com:4949/col/264/ammh.jpg\',");
 document.writeln("\'https://ttuu.wyvogue.com:4949/col/263/ammh.jpg\',");
 document.writeln("\'https://ttuu.wyvogue.com:4949/col/262/ammh.jpg\',");
 document.writeln("\'https://ttuu.wyvogue.com:4949/col/261/ammh.jpg\',");

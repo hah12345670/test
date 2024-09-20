@@ -17,7 +17,19 @@ document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
 document.writeln("	<font size=\'4\' color=\'#008000\'>");
-document.writeln("263期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("264期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>？00</font></span><font color=\'#0000FF\'>	</font><br>");
+document.writeln("	<span style=\"font-size: 13pt\">");
+document.writeln("兄弟全是瘦长个，长着一色小脑壳。<br>");
+document.writeln("平时挤着不吭声，出门办事就万火。</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
+document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
+document.writeln("	<font size=\'4\' color=\'#008000\'>");
+document.writeln("263期澳门【金牌谜语】</font><font color=\'#008000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF0000\'>龙13</font></span><font color=\'#0000FF\'>	</font><br>");
 document.writeln("	<span style=\"font-size: 13pt\">");
 document.writeln("此物细又长，成群落下方。<br>");
 document.writeln("落地就不见，不知啥模样。</span></font></b><span style=\"font-size: 13pt\"></font></span></table>");

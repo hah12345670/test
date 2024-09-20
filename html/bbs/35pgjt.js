@@ -46,7 +46,22 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+
 document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			264期<font color=\'#FF0000\'>【今期六合出牛马，穿金戴银戴兰】</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：明肖牛马，金解金肖猴鸡，兰解蓝肖虎蛇猪猴</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：虎蛇猪猴鸡牛马<br>");
+document.writeln("			特码：03.15.12.24.06.18.09.21.08.20.04.16.11.23");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
 document.writeln("<!--头部start-->");
 document.writeln("	");
 document.writeln("			<tr>");
@@ -55,8 +70,8 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			263期<font color=\'#FF0000\'>【绿红生肖马牛壮，曲奏九合日冲天】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：绿红生肖解绿肖牛羊龙狗，红肖鼠兔马鸡</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鼠兔马牛羊龙狗<br>");
-document.writeln("			特码：05.17.02.14.11.23.04.16.10.22.01.13.07.19");
+document.writeln("			<br>七肖：鼠兔马牛羊<span style=\'background-color: #FFFF00\'>龙</span>狗<br>");
+document.writeln("			特码：05.17.02.14.11.23.04.16.10.22.01.<span style=\'background-color: #FFFF00\'>13</span>.07.19");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");
 document.writeln("");

@@ -26,9 +26,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">263期一语中特【玩人丧德】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：戏弄他人，以致失去做人的道德。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛马龙猴猪虎开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">264期一语中特【宛然如生】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：指人死后仿佛和活着一样。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：龙虎兔猪鸡蛇开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
@@ -82,12 +82,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("    <td align=\'left\' height=\'73\'>");
-document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">263期一语中特【纤毫不爽】</font></div>");
-document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：一点儿也不差。形容非常精确。</font></div>");
-document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：兔鸡鼠蛇狗猪开0000准</font></div>");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#006600\' size=\"4\">264期一语中特【囿于见闻】</font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font color=\'#000000\' size=\"4\">解释：拘泥于所见所闻。解释拘泥于所见所闻。</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><font size=\"4\">综合：牛兔马狗龙鸡开0000准</font></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
-
 
 
 document.writeln("");

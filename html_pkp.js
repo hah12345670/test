@@ -75,3 +75,126 @@ function get_gz(arr) {
 		showModal('继续加油...');
 	}
 }
+// 权重随机
+function get_qz1() {
+	let prizes = [
+		{ name: 'zy1', weight: 15 },
+		{ name: 'zy2', weight: 1 },
+		{ name: 'zy3', weight: 1 },
+		{ name: 'zy4', weight: 4 },
+		{ name: 'zy5', weight: 30 },
+		{ name: 'zy6', weight: 150 },
+		{ name: 'zy7', weight: 360 },
+		{ name: 'by', weight: 720 },
+		{ name: 'th', weight: 2500 },
+		{ name: 'js', weight: 1875 },
+		{ name: 'jr', weight: 9300 },
+		{ name: 'xc', weight: 17400 },
+		{ name: 'jxjy', weight: 14300 }
+	];
+	let map = ''
+	let prize = draw(prizes)
+	if (prize) {
+		map = prize.name
+	}
+	return map
+}
+// 返回数组中的随机一个
+function return_arr1(arr) {
+	return arr[Math.floor(Math.random() * arr.length)];
+}
+// 权重随机
+function get_qz2() {
+	let peoples = [
+		{ n: 'p1', w: 1 },
+		{ n: 'p2', w: 100 },
+		{ n: 'p3', w: 100 }
+	];
+	let rand = function (p) {
+		const totalWeight = p.reduce(function (pre, cur, index) {
+			cur.startW = pre;
+			return cur.endW = pre + cur.w
+		}, 0)
+		let random = Math.ceil(Math.random() * totalWeight)
+		let selectPeople = p.find(people => people.startW < random && people.endW > random)
+		return selectPeople.n
+	};
+	return rand(peoples);
+}
+function draw(prizes) {
+	// 根据每个奖品的权重，生成区间 [[0, 50], [50, 100], ...]
+	const intervals = prizes.reduce((acc, curr, idx) => {
+		const weight = curr.weight
+		const [preStart, preEnd] = acc[acc.length-1] || [0, 0]
+		acc.push([preEnd, preEnd + weight])
+		return acc
+	}, []);
+	// 找到区间的最小和最大值
+	const [min, max] = intervals.reduce((acc, curr) => {
+		if (curr && curr.length) {
+			acc[0] = Math.min(acc[0], curr[0])
+			acc[1] = Math.max(acc[1], curr[1])
+		}
+		return acc
+	}, [Number.MAX_SAFE_INTEGER, Number.MIN_SAFE_INTEGER]);
+	// 随机一个数
+	const luckyNumber = random(min, max);
+	// 看落在哪个区间
+	const luckPrizeIndex = intervals.findIndex(item => item[0] <= luckyNumber && item[1] > luckyNumber)
+	if (luckPrizeIndex === -1) {
+		// 当做未中奖来处理
+	}
+	// 找到中奖奖品
+	const luckyPirze = prizes[luckPrizeIndex]
+	return luckyPirze
+}
+function random(min, max) {
+	return Math.floor(Math.random() * (max - min + 1) + min)
+}
+function testDraw() {
+	const prizes = [
+		{
+			name: "抽奖券",
+			weight: 50,
+		},{
+			name: "大奖",
+			weight: 70,
+		},{
+			name: "二奖",
+			weight: 80,
+		}];
+	const countMap = {}
+	for (let i = 0; i < 10000; i++) {
+		const prize = draw(prizes)
+		if (prize) {
+			countMap[prize.name] = (countMap[prize.name] || 0) + 1
+		}
+	}
+	return countMap
+}
+function testDraw1() {
+	const prizes = [
+		{ name: 'zy1', weight: 15 },
+		{ name: 'zy2', weight: 1 },
+		{ name: 'zy3', weight: 1 },
+		{ name: 'zy4', weight: 4 },
+		{ name: 'zy5', weight: 30 },
+		{ name: 'zy6', weight: 150 },
+		{ name: 'zy7', weight: 360 },
+		{ name: 'by', weight: 720 },
+		{ name: 'th', weight: 2500 },
+		{ name: 'js', weight: 1875 },
+		{ name: 'jr', weight: 9300 },
+		{ name: 'xc', weight: 17400 },
+		{ name: 'jxjy', weight: 14300 }
+	];
+	const countMap = {}
+	for (let i = 0; i < 50; i++) {
+		const prize = draw(prizes)
+		if (prize) {
+			countMap[prize.name] = (countMap[prize.name] || 0) + 1
+		}
+	}
+	return countMap
+}
+// console.log(testDraw());

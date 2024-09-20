@@ -46,15 +46,31 @@ document.writeln("    <!--结束-->  ");
 
 
 
+
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第264期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第265期八码中特开(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
-document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
+document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
+document.writeln("		主四肖：鼠龙蛇猴<br>			");
+document.writeln("17.41.13.37.12.36.21.33</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">第264期八码中特开(猪30)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 16pt\">");
+document.writeln("		特肖：大肖（牛虎马羊狗<span style=\'background-color: #FFFF00\'>猪</span>）<br>	");
 document.writeln("		主四肖：牛虎马羊<br>			");
 document.writeln("04.16.15.27.23.35.22.34</font></b></td>");
 document.writeln("    </tr>      ");

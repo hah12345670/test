@@ -34,11 +34,11 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">264期必中18码：</font><font color=\'#FF0000\' size=\'2\'>02.14.26.10.22.34.12.36.48.05.17.29.09.21.33.11.23.47</font></li>");
-document.writeln("            	<li>264期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">02.14.26.10.22.34.12.36.48</font></li>");
-document.writeln("            	<li>264期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-02.14.26）</font></li>");
-document.writeln("            	<li>264期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔羊蛇</font></li>");
-document.writeln("            	<li>264期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔羊蛇鼠猴马</font></li>");
+document.writeln(" 	            <li><font size=\"2\">265期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.28.40.08.32.44.05.17.29.01.25.49.11.23.35.12.36.48</font></li>");
+document.writeln("            	<li>265期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.28.40.08.32.44.05.17.29</font></li>");
+document.writeln("            	<li>265期必中①肖：<font color=\'#FF0000\' size=\'5\'>（牛-04.28.40）</font></li>");
+document.writeln("            	<li>265期必中③肖：<font color=\'#FF0000\' size=\'4\'>牛鸡鼠</font></li>");
+document.writeln("            	<li>265期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛鸡鼠龙马蛇</font></li>");
 document.writeln("");
 document.writeln("        </div>");
 document.writeln("        </div>");
@@ -46,22 +46,7 @@ document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
 
-document.writeln("            	<li>262期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎羊鼠</font></li>");
-document.writeln("            	<li>262期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎羊鼠牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font>马</font></li>");
-document.writeln("");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
 
 
 

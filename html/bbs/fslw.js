@@ -24,7 +24,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("265期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>0-3-7-4-6-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("266期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>9-3-4-7-8-2</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>0</span>个</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("265期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>0-<span style=\'background-color: #FFFF00\'>3-7</span>-4-<span style=\'background-color: #FFFF00\'>6</span>-9</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>4</span>个</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");

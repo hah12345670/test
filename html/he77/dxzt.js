@@ -23,71 +23,12 @@ document.writeln("");
 
 
 
-
-
-
-document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>265期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>262期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>鸡44</font>准</td>");
+document.writeln("    <td>266期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
 
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>260期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>牛40</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>258期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>牛40</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("  <tr>");
-document.writeln("    <td>257期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>鸡08</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>255期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>猪30</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>254期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>虎27</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>252期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>蛇36</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
 
 
 

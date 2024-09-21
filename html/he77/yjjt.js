@@ -53,18 +53,18 @@ document.writeln("");
 
 
 
-
-
-
+document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("264期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：虎兔龙蛇马羊");
+document.writeln("265期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：猴鸡牛龙马猪");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
-document.writeln("");
+
+
+
 
 
 

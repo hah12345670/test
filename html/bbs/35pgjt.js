@@ -46,6 +46,22 @@ document.writeln("<!--头部start-->");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<!--头部start-->");
+document.writeln("	");
+document.writeln("			<tr>");
+document.writeln("			<td align=\'left\' height=90>");
+document.writeln("			<font style=\'font-size: 13pt\'><b>");
+document.writeln("			266期<font color=\'#FF0000\'>【今期特稠在蛇身，部其意不泥其迹</font>");
+document.writeln("			<br><font color=\'#0000FF\'>解析：今期特稠在蛇身解蛇猪猴牛虎狗鸡</font><br>");
+document.writeln("			");
+document.writeln("			<br>七肖：蛇猪猴牛虎狗鸡<br>");
+document.writeln("			特码：36.48.30.42.33.45.28.40.27.39.31.43.32.44");
+document.writeln("			</b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("<!--头部start-->");
+
 
 document.writeln("");
 document.writeln("<!--头部start-->");
@@ -56,7 +72,7 @@ document.writeln("			<font style=\'font-size: 13pt\'><b>");
 document.writeln("			265期<font color=\'#FF0000\'>【家里宝贝多粪土，盗贼天天店记它】</font>");
 document.writeln("			<br><font color=\'#0000FF\'>解析：家里解家肖马狗牛鸡羊猪，盗贼解贼肖鼠猴</font><br>");
 document.writeln("			");
-document.writeln("			<br>七肖：鼠猴马狗牛鸡羊<br>");
+document.writeln("			<br>七肖：鼠猴马狗<span style=\'background-color: #FFFF00\'>牛</span>鸡羊<br>");
 document.writeln("			特码：29.41.33.45.35.47.31.43.28.40.32.44.34.46");
 document.writeln("			</b></td>");
 document.writeln("		</tr>	");

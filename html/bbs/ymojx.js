@@ -24,6 +24,18 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("       <!--开始-->");
+document.writeln(" <tr>");
+document.writeln("    <td align=\'left\' height=\"115\">");
+document.writeln("<div class=\'jyyzt-txt1\'><font color=\'#0000FF\'>（2）</font><font color=\'#000000\'> ");
+document.writeln("	");
+document.writeln("	2024年第266期幽默猜测</font><font color=\'#FF0000\'>（公母）</font><font color=\'#000000\'>：公母幽默猜测（公母）：夫妻走到动物园的虎笼前观赏老虎，妻子说：“老公，最近你的脾气越来越坏，每次见到你我就像绵羊见到老虎一样。”丈夫：“老婆呀，可我这像老虎一样的丈夫总被你这像绵羊一样的妻子关在笼子里呀！。”..本期图片会给我们带来什么样的玄机呢</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：公母解兔猪龙猴狗蛇<br>");
+document.writeln("   ");
+document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
+document.writeln("	综合特肖：兔猪龙猴狗蛇</font></b></div>");
+document.writeln(" </td></tr>");
+document.writeln(" <!--结束-->");
 document.writeln("");
 document.writeln("       <!--开始-->");
 document.writeln(" <tr>");
@@ -34,7 +46,7 @@ document.writeln("	2024年第265期幽默猜测</font><font color=\'#FF0000\'>�
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#FF9933\'>综合解特：馋猫解虎马猪牛龙鼠<br>");
 document.writeln("   ");
 document.writeln("<div class=\'jyyzt-txt3\'><b><font size=\'4\' color=\'#009900\'>");
-document.writeln("	综合特肖：虎马猪牛龙鼠</font></b></div>");
+document.writeln("	综合特肖：虎马猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font>龙鼠</font></b></div>");
 document.writeln(" </td></tr>");
 document.writeln(" <!--结束-->");
 document.writeln("");

@@ -36,21 +36,22 @@ document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）�
 document.writeln("	<div class=\'bizhong5-box\'>");
 document.writeln("    	<div class=\'bizhong5-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li><font size=\'3\'>265期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>兔猴蛇鸡狗鼠猪虎龙</font></li>");
-document.writeln("            	<li><font size=\'3\'>265期必中六肖：</font><font size=\'3\' color=\'#FF0000\'>兔猴蛇鸡狗鼠</font></li>");
-document.writeln("            	<li><font size=\'3\'>265期必中三肖：</font><font size=\'3\' color=\'#FF0000\'>兔猴蛇</font></li>");
-document.writeln("            	<li><font size=\'2\'>265期必中18码：</font><font size=\'2\' color=\'#FF0000\'>02.14.21.33.12.36.08.20.31.43.05.29.18.42.03.15.13.25</span></font></li>");
-document.writeln("             	<li><font size=\'2\'>265期必中九码：</font><font size=\'2\' color=\'#FF0000\'>02.21.12.20.31.29.18.15.13</span></font></li>");
+document.writeln("            	<li><font size=\'3\'>266期必中九肖：</font><font size=\'3\' color=\'#FF0000\'>马虎猪猴龙狗牛鸡兔</font></li>");
+document.writeln("            	<li><font size=\'3\'>266期必中六肖：</font><font size=\'3\' color=\'#FF0000\'>马虎猪猴龙狗</font></li>");
+document.writeln("            	<li><font size=\'3\'>266期必中三肖：</font><font size=\'3\' color=\'#FF0000\'>马虎猪</font></li>");
+document.writeln("            	<li><font size=\'2\'>266期必中18码：</font><font size=\'2\' color=\'#FF0000\'>11.23.03.15.30.42.09.21.13.25.19.31.04.16.08.20.02.14</span></font></li>");
+document.writeln("             	<li><font size=\'2\'>266期必中九码：</font><font size=\'2\' color=\'#FF0000\'>11.03.30.09.25.31.16.20.14</span></font></li>");
 document.writeln("");
 document.writeln("            	");
 document.writeln("            </ul>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("    </div>");
-document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>265期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>兔02</font>）</font><font color=\'#00FF00\'></font></div>");
+document.writeln("      <div class=\'bizhong5-foot\'><font color=\'#00FFFF\'>266期一肖一码：</font><font color=\'#FFFF00\'>（<font color=\'#FFFF00\'>马11</font>）</font><font color=\'#00FF00\'></font></div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期结束-->");
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong5\'>");
 document.writeln("	<div class=\'bizhong5-tit\'>澳门资料网（62827a.com）九肖九码</div>");

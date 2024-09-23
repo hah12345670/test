@@ -19,8 +19,9 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody11><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'楷体\'>");
-document.writeln("	<font color=\'#0000FF\' size=\'4\'>266期</font><font size=\"4\">男（狗龙鼠猴）女（鸡蛇羊兔）</font></font></font></b></table>");
+document.writeln("	<font color=\'#0000FF\' size=\'4\'>267期</font><font size=\"4\">男（龙猴马牛）女（猪鸡蛇羊）</font></font></font></b></table>");
 document.writeln("		<!--结束-->");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

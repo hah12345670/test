@@ -25,6 +25,21 @@ document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
 document.writeln("<!---->");
 
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\' height=\'139\'>");
+document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font color=\'#000000\'>267期【独家玄机】解析</font></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>小屋一座异风格,天地良心任天游</font></b></font></div>");
+document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
+document.writeln("解析：预先解风肖虎兔龙,屋为木解木肖虎兔.小偏看小肖.一解一位鼠一岁龙肖.心水诗大意是要心中有大爱,要做最真实的自己.综合得主虎龙兔鼠防牛狗马羊猴</font></div>");
+document.writeln("<div class=\'jyyzt-txt3\'><b>");
+document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("	解特肖：虎龙兔鼠牛狗<br>");
+document.writeln("	特码：03.15.13.37.02.14.17.41.16.40.31.43</font></b></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("<!--开始-->");
 
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
@@ -33,10 +48,10 @@ document.writeln("<div class=\'jyyzt-txt1\'><font face=\'微软雅黑\'><font co
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 12pt\'>龙争虎斗难分离，七彩生辉一片红</font></b></font></div>");
 document.writeln("<div class=\'jyyzt-txt2\'><font face=\'微软雅黑\'>");
-document.writeln("解析：预先解明肖龙猪,三解三位虎三岁虎,一解一位鼠一岁龙,九解九位猴九岁猴,一言九鼎说的是龙肖虎猴龙.综合得主龙猪虎牛防鼠兔猴鸡蛇</font></div>");
+document.writeln("解析：预先解明肖龙猪,三解三位虎三岁虎,一解一位鼠一岁龙,九解九位猴九岁猴,一言九鼎说的是龙肖虎猴龙.综合得主龙猪<span style=\'background-color: #FFFF00\'>虎</span>牛防鼠兔猴鸡蛇</font></div>");
 document.writeln("<div class=\'jyyzt-txt3\'><b>");
 document.writeln("	<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
-document.writeln("	解特肖：龙猪虎牛鼠兔<br>");
+document.writeln("	解特肖：龙猪<span style=\'background-color: #FFFF00\'>虎</span>牛鼠兔<br>");
 document.writeln("	特码：13.37.06.30.03.15.28.40.05.29.02.14</font></b></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");

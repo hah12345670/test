@@ -42,7 +42,8 @@ document.writeln("	");
 
 document.writeln("265期四季中特【夏<span style=\'background-color: #FFFF00\'>冬</span>春】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("266期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("266期四季中特【<span style=\'background-color: #FFFF00\'>春</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("267期四季中特【春秋冬】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -73,7 +74,9 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 
 
 document.writeln("265期才艺中特【<span style=\'background-color: #FFFF00\'>棋</span>书画】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("266期才艺中特【琴书画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("266期才艺中特【琴<span style=\'background-color: #FFFF00\'>书</span>画】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("267期才艺中特【棋琴画】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("	");
 document.writeln("	<br>");
@@ -96,24 +99,14 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("249期⑨肖【虎蛇羊龙猴牛鼠<span style=\'background-color: #FFFF00\'>鸡</span>兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("250期⑨肖【虎龙<span style=\'background-color: #FFFF00\'>蛇</span>猴牛鼠鸡羊兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("251期⑨肖【<span style=\'background-color: #FFFF00\'>兔</span>羊龙狗猴牛虎蛇猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("252期⑨肖【鸡羊鼠猪兔<span style=\'background-color: #FFFF00\'>蛇</span>虎马狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("253期⑨肖【牛虎羊<span style=\'background-color: #FFFF00\'>马</span>鼠兔猴蛇龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("254期⑨肖【羊蛇牛猪<span style=\'background-color: #FFFF00\'>虎</span>狗鸡龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期⑨肖【马虎鼠蛇<span style=\'background-color: #FFFF00\'>猪</span>龙狗鸡兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("256期⑨肖【马蛇鼠猴羊鸡兔龙狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("257期⑨肖【猪蛇虎猴龙狗马<span style=\'background-color: #FFFF00\'>鸡</span>羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("258期⑨肖【马鼠龙蛇虎<span style=\'background-color: #FFFF00\'>牛</span>狗羊猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("259期⑨肖【猪马羊龙兔蛇牛猴狗】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("260期⑨肖【猪鼠狗羊龙虎<span style=\'background-color: #FFFF00\'>牛</span>兔猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("261期⑨肖【猴鸡牛<span style=\'background-color: #FFFF00\'>龙</span>羊马鼠蛇兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("262期⑨肖【蛇马猴猪羊虎<span style=\'background-color: #FFFF00\'>鸡</span>龙牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("263期⑨肖【鸡虎牛蛇狗猴<span style=\'background-color: #FFFF00\'>龙</span>羊兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("264期⑨肖【狗牛龙猴鼠<span style=\'background-color: #FFFF00\'>猪</span>马兔鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("265期⑨肖【猪鼠马羊狗虎猴龙鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("266期⑨肖【蛇鸡兔羊猪狗鼠虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("266期⑨肖【蛇鸡兔羊猪狗鼠<span style=\'background-color: #FFFF00\'>虎</span>猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("267期⑨肖【蛇狗牛兔鼠猴猪龙鸡】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

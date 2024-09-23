@@ -46,24 +46,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（261期）</font><Br>");
-document.writeln("		特肖【狗马羊<span style=\'background-color: #FFFF00\'>龙</span>猴蛇】<br> 	<br>	");
-
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（262期）</font><Br>");
-document.writeln("		特肖【<span style=\'background-color: #FFFF00\'>鸡</span>马兔蛇羊狗】<br> 	<br>	");
-
-document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（263期）</font><Br>");
-document.writeln("		特肖【马<span style=\'background-color: #FFFF00\'>龙</span>虎鸡兔猴】<br> 	<br>	");
-
-
 
 
 document.writeln("");
-document.writeln("                   <font color=\'#0000FF\'>（266期）</font><Br>");
-document.writeln("		特肖【龙狗马蛇兔猴】<br> 	<br>	");
+document.writeln("                   <font color=\'#0000FF\'>（267期）</font><Br>");
+document.writeln("		特肖【马猴虎鸡蛇龙】<br> 	<br>	");
 
 
 
@@ -129,8 +116,8 @@ document.writeln("		262期必中平特【<span style=\'background-color: #FFFF00
 document.writeln("		263期必中平特【蛇+<span style=\'background-color: #FFFF00\'>马</span>】√<br>	");
 
 document.writeln("		265期必中平特【<span style=\'background-color: #FFFF00\'>鼠+牛</span>】√<br>	");
-document.writeln("		266期必中平特【龙+牛】√<br>	");
-
+document.writeln("		266期必中平特【<span style=\'background-color: #FFFF00\'>龙+牛</span>】√<br>	");
+document.writeln("		267期必中平特【鼠+马】√<br>	");
 
 document.writeln("");
 document.writeln("			</font>	");
@@ -166,7 +153,7 @@ document.writeln("		263期杀【16.49.14.22.48.19.09】√<br>");
 document.writeln("		264期杀【46.35.07.04.31.16.13】√<br>");
 document.writeln("		265期杀【35.11.23.14.31.18.17】√<br>");
 document.writeln("		266期杀【35.22.18.37.36.04.23】√<br>");
-
+document.writeln("		267期杀【08.46.13.04.16.22.45】√<br>");
 
 
 document.writeln("");
@@ -218,8 +205,8 @@ document.writeln("	262期（红肖）√<br>			");
 document.writeln("	263期（绿肖）√<br>			");
 document.writeln("	264期（绿肖）×<br>			");
 document.writeln("	265期（蓝肖）√<br>			");
-document.writeln("	266期（红肖）√<br>			");
-
+document.writeln("	266期（红肖）×<br>			");
+document.writeln("	267期（绿肖）√<br>			");
 
 
 document.writeln("");
@@ -234,7 +221,8 @@ document.writeln("<br></font><font color=\'#FF0000\' style=\'font-size: 14pt\'>�
 
 
 
-document.writeln("	    266期【6732尾】√<br>				");
+document.writeln("	    266期【6<span style=\'background-color: #FFFF00\'>7</span>32尾】√<br>				");
+document.writeln("	    267期【0378尾】√<br>				");
 
 
 document.writeln("");
@@ -255,7 +243,9 @@ document.writeln("             <br></font></span><font color=\'#FF0000\' style=\
 
 
 
-document.writeln("	266期（4.2头）√<br>	");
+document.writeln("	266期（4.<span style=\'background-color: #FFFF00\'>2</span>头）√<br>	");
+document.writeln("	267期（2.1头）√<br>	");
+
 
 document.writeln("");
 document.writeln("		");
@@ -267,7 +257,7 @@ document.writeln("				<font color=\'#FF0000\' style=\'font-size: 14pt\'>【码�
 document.writeln("");
 
 
-document.writeln("		266期蓝波+红双<br>");
+document.writeln("		267期绿波+红单<br>");
 
 document.writeln("		");
 document.writeln("		</b></font></td>		");
@@ -297,6 +287,8 @@ document.writeln("		263期杀鸡虎√<br>");
 document.writeln("		264期杀马虎√<br>");
 document.writeln("		265期杀鼠蛇√<br>");
 document.writeln("		266期杀狗猴√<br>");
+document.writeln("		267期杀蛇龙√<br>");
+
 
 document.writeln("");
 document.writeln("		");
@@ -309,7 +301,7 @@ document.writeln("");
 
 document.writeln("		265期杀蓝单√<br>");
 document.writeln("		266期杀绿双√<br>");
-
+document.writeln("		267期杀蓝单√<br>");
 
 document.writeln("		</font></b><font size=\'4\'><br>		");
 document.writeln(" <br></font></span>");
@@ -332,7 +324,7 @@ document.writeln("		263期杀4头单√<br>	");
 document.writeln("		264期杀0头双√<br>	");
 document.writeln("		265期杀2头单√<br>	");
 document.writeln("		266期杀4头单√<br>	");
-
+document.writeln("		267期杀3头双√<br>	");
 
 document.writeln("");
 document.writeln("");
@@ -354,7 +346,7 @@ document.writeln("		263期杀8.0尾√<br>");
 document.writeln("		264期杀4.8尾√<br>");
 document.writeln("		265期杀5.3尾√<br>");
 document.writeln("		266期杀3.8尾√<br>");
-
+document.writeln("		267期杀8.3尾√<br>");
 
 document.writeln("");
 document.writeln("	    </b><br>	");

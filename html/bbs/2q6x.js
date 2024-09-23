@@ -26,9 +26,11 @@ document.writeln(" （稳赚特肖2期版）</font><br>");
 document.writeln(" 	");
 document.writeln("<font style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("");
+document.writeln("");
+document.writeln("267-268期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠羊虎狗鸡马】</font>(000期√)<br>");
 
 document.writeln("");
-document.writeln("266-267期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠牛蛇猪虎猴】</font>(000期√)<br>");
+document.writeln("266-267期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠牛蛇猪<span style=\'background-color: #FFFF00\'>虎</span>猴】</font>(266期√)<br>");
 
 document.writeln("");
 document.writeln("265-266期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【马<span style=\'background-color: #FFFF00\'>牛</span>鼠狗猪猴】</font>(265期√)<br>");
@@ -51,13 +53,6 @@ document.writeln("258-259期<font color=\"#FF0000\" style=\"font-size: 16pt\" fa
 document.writeln("");
 document.writeln("257-258期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【虎狗<span style=\'background-color: #FFFF00\'>鸡</span>蛇鼠牛】</font>(257期√)<br>");
 
-
-document.writeln("");
-document.writeln("253-254期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【蛇猪狗<span style=\'background-color: #FFFF00\'>虎</span>鼠龙】</font>(254期√)<br>");
-
-document.writeln("251-252期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【鼠虎羊龙狗<span style=\'background-color: #FFFF00\'>蛇</span>】</font>(252期√)<br>");
-
-document.writeln("249-250期<font color=\"#FF0000\" style=\"font-size: 16pt\" face=\"微软雅黑\">【牛马猪龙<span style=\'background-color: #FFFF00\'>蛇</span>虎】</font>(250期√)<br>");
 
 
 document.writeln("");

@@ -23,7 +23,7 @@ document.writeln("<!--开始-->");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; ; word-break: break-all; text-align: center; line-height: 26px;\'>");
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
-document.writeln("<font color=\'#FF00FF\'>266期特码玄机开？00</font><br> ");
+document.writeln("<font color=\'#FF00FF\'>267期特码玄机开？00</font><br> ");
 document.writeln("<span style=\'color: #000\'>特码玄机:九宫六院定局面，防君子不防小人。</span><font color=\'#008000\' size=\'3\'><br>");
 document.writeln("</font><font color=\'#800000\' size=\'4\'> ");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; \'>");

@@ -19,7 +19,7 @@ document.writeln("");
 
 
 document.writeln("<span style=\'font-family:Arial\'>");
-document.writeln("<img style=\'height:auto\' src=\'https://ttuu.wyvogue.com:4949/col/265/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");7
+document.writeln("<img style=\'height:auto\' src=\'https://ttuu.wyvogue.com:4949/col/267/am30ma.jpg\' width=\'100%\' border=\'0\'></span><span style=\'font-family:Arial\'>");7
 document.writeln("");
 
 document.writeln("<span style=\'font-family:Arial\'>");

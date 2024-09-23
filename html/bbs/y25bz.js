@@ -23,14 +23,13 @@ document.writeln("");
 
 
 
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("266期码神哥五不中[26.03.48.09.39] <br>");
+document.writeln("267期码神哥五不中[06.19.20.03.30] <br>");
 document.writeln("	开奖:00-00-00-00-00-00 T00</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>中奖</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("	</font>");
 document.writeln("	<span style=\'background-color: #008000\'>");
@@ -40,6 +39,7 @@ document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("<!--开始-->");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");

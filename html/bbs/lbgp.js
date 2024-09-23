@@ -28,102 +28,15 @@ document.writeln("<!--开始-->");
 document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>265期另版挂牌</font><font size=\'4\' color=\'#008000\'>【贼眉鼠眼】</font><font color=\'#0033CC\'>开？00<br>");
+document.writeln("	<p><font color=\'#0033CC\'>266期另版挂牌</font><font size=\'4\' color=\'#008000\'>【狗头军师】</font><font color=\'#0033CC\'>开？00<br>");
 document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：戊子日；五行属性：木；地支六冲：鼠冲马，无狗；六合：牛；三合：猴龙。空亡肖：羊马。</p>");
+document.writeln("◎生肖属性：己丑日；五行属性：金；地支六冲：牛冲羊，无鸡；六合：鼠；三合：蛇鸡。空亡肖：龙羊。</p>");
 document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鼠虎羊兔猪蛇猴龙鸡<br>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：牛鸡兔狗蛇鼠马猪羊<br>");
 document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：05.17.15.27.22.34.02.14.30.42.12.36.09.21.13.37.08.20</font></font></div>");
+document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.16.20.32.07.31.12.36.05.17.23.47.06.30.22.34</font></font></div>");
 document.writeln("    </td></tr>");
 document.writeln("   <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>263期另版挂牌</font><font size=\'4\' color=\'#008000\'>【六合生财】</font><font color=\'#0033CC\'>开龙13<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：丙戌日；五行属性：水；地支六冲：狗冲龙，无马；六合：兔；三合：马虎。空亡肖：羊牛。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：鸡羊猪虎牛狗<span style=\'background-color: #FFFF00\'>龙</span>马猴<br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：08.32.22.34.04.16.15.27.16.28.07.31.<span style=\'background-color: #FFFF00\'>13</span>.25.11.47.09.21</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>262期另版挂牌</font><font size=\'4\' color=\'#008000\'>【赶尽杀绝】</font><font color=\'#0033CC\'>开鸡44<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：乙酉日；五行属性：水；地支六冲：鸡冲兔，无龙；六合：蛇；三合：虎兔。空亡肖：虎兔。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：牛<span style=\'background-color: #FFFF00\'>鸡</span>羊虎兔狗猪龙蛇<br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.16.20.32.10.34.03.15.02.14.19.43.06.30.13.37.12.36</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>261期另版挂牌</font><font size=\'4\' color=\'#008000\'>【天马行空】</font><font color=\'#0033CC\'>开龙01<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：甲申日；五行属性：金；地支六冲：猴冲虎，无龙；六合：蛇；三合：虎兔。空亡肖：虎兔。。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：猪蛇羊猴狗牛兔马<span style=\'background-color: #FFFF00\'>龙</span><br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：18.42.12.36.22.34.09.21.07.19.04.16.02.38.23.35.13.37</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>260期另版挂牌</font><font size=\'4\' color=\'#008000\'>【牛鬼蛇神】</font><font color=\'#0033CC\'>开牛40<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：壬午日；五行属性：土；地支六冲：马冲鼠，无虎；六合：羊；三合：虎狗。空亡肖：鼠虎。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：<span style=\'background-color: #FFFF00\'>牛</span>猪鼠兔狗蛇虎羊猴<br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：04.<span style=\'background-color: #FFFF00\'>40</span>.06.30.17.41.02.14.31.43.12.36.03.15.22.34.21.45</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>259期另版挂牌</font><font size=\'4\' color=\'#008000\'>【牛鬼蛇神】</font><font color=\'#0033CC\'>开鼠29<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：壬午日；五行属性：土；地支六冲：马冲鼠，无虎；六合：羊；三合：虎狗。空亡肖：鼠虎。。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：猴兔蛇龙羊牛虎狗<span style=\'background-color: #FFFF00\'>鼠</span><br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：09.45.02.14.12.36.37.49.10.22.04.16.03.15.31.43.05.17</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td align=\'left\'>");
-document.writeln("<div class=\'jyyzt-txt1\'>");
-document.writeln("	<p><font color=\'#0033CC\'>258期另版挂牌</font><font size=\'4\' color=\'#008000\'>【怜香惜玉】</font><font color=\'#0033CC\'>开牛40<br>");
-document.writeln("	</font><font color=\'#000000\'>");
-document.writeln("◎生肖属性：辛巳日；五行属性：水；地支六冲：蛇冲猪，无牛；六合：鸡；三合：猴鼠。空亡肖：马羊。</p>");
-document.writeln("	</font>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特肖：狗鸡蛇龙鼠虎猴羊<span style=\'background-color: #FFFF00\'>牛</span><br>");
-document.writeln("	</p>");
-document.writeln("	<font size=\'3\' color=\'#FF0000\'>推荐特码：07.31.20.44.12.36.25.49.05.17.15.39.21.45.10.22.04.16</font></font></div>");
-document.writeln("    </td></tr>");
-document.writeln("   <!--结束-->");
-
-
 
 
 

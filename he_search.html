@@ -144,14 +144,20 @@
 			for (let x = 0; x < len; x++) {
 				let nlxx = nl.solar2lunar(d.getFullYear(),d.getMonth()+1,d.getDate()-x).gzDay.slice(1,2);
 				let is_zj = return_sx(nlxx, arr[x][1]);
-				if ((x+1)%7==0) {
+				let weekday = d.getDay()==0 ? 7 : d.getDay();
+				let where1 = (x%7==0);where2 = (x==weekday);
+				if (where1 || where2) {
 					nlxx_arr.push(str1);
 					str1 = '';
 				}
 				if (is_zj[1]===1) {
 					str1 += '<span style="margin-right: 1px;background: red;color: white;padding: 1px;border: 1px solid blue;font-size: 13px;">'+arr[x][0] + is_zj[0] + '</span>';
 				} else {
-					str1 += '<span style="margin-right: 1px;background: green;color: white;padding: 1px;border: 1px solid blue;font-size: 13px;">'+arr[x][0] + is_zj[0] + '</span>';
+					if (x==0) {
+						str1 += '<span style="margin-right: 1px;background: blue;color: white;padding: 1px;border: 1px solid blue;font-size: 13px;">'+arr[x][0] + is_zj[0] + '</span>';
+					} else {
+						str1 += '<span style="margin-right: 1px;background: green;color: white;padding: 1px;border: 1px solid blue;font-size: 13px;">'+arr[x][0] + is_zj[0] + '</span>';
+					}
 				}
 			}
 			return nlxx_arr;

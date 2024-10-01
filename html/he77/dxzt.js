@@ -24,19 +24,14 @@ document.writeln("");
 
 
 
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>275期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>263期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>龙49</font>准</td>");
+document.writeln("    <td>276期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
+
+
 
 
 document.writeln("");

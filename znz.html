@@ -18,7 +18,9 @@
 			
 						// 你可以根据这些值来确定设备的磁场方向
 						console.log(`alpha: ${alpha}, beta: ${beta}, gamma: ${gamma}`);
-						document.write(`alpha: ${alpha}, beta: ${beta}, gamma: ${gamma}`);
+						document.writel(`alpha: ${alpha}`);
+						document.writel(`beta: ${beta}`);
+						document.writel(`gamma: ${gamma}`);
 				}, false);
 		} else {
 				alert('您的设备不支持DeviceOrientationEvent');

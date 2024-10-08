@@ -1,0 +1,3 @@
+#accordion .item > div {
+	display: none; /* 初始状态下内容都是隐藏的 */
+}

@@ -28,10 +28,8 @@ document.writeln(" ");
 
 
 
-
-document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>283期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷风电】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>284期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【风雨电】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

@@ -59,51 +59,20 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>293期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>296期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【更新中】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>290期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：马11</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>295期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【更新中】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>288期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：兔26</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>294期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>287期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：牛40</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>285期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：猴21</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>284期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：虎27</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>283期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：马47</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>282期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：龙13</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>281期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：狗43</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
 document.writeln("")
 document.writeln("");
 document.writeln("")

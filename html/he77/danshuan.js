@@ -62,8 +62,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>324期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>325期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("</tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td><font color=\'#008000\'>324期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：龙01</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("");
@@ -98,41 +104,6 @@ document.writeln("<td><font color=\'#008000\'>315期</font><img src=\'/yjjy/tz/i
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>314期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：猪18</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>313期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：羊46</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>312期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：蛇48</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>309期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：猴09</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>307期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：虎03</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>304期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【单单单】</font><font color=\'#0000FF\'>开：鼠17</font>准</td>");
-document.writeln("</tr>");
-document.writeln("");
-document.writeln("")
-
-document.writeln("")
-document.writeln("");
 document.writeln("")
 document.writeln("");
 document.writeln("");

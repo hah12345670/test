@@ -30,12 +30,15 @@ document.writeln("");
 
 
 
-
+document.writeln("  <tr>");
+document.writeln("    <td>354期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【小小小】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>353期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>353期<font color=\'#ac6a00\'>大小中特</font><font color=\'#0000FF\'>【大大大】</font>开<font color=\'#ac6a00\'>马47</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");

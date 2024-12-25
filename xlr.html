@@ -133,7 +133,8 @@
 				str1 += '<tr>';
 				for(let y=0;y<3;y++){
 					if (x==arr1[str2%6][0] && y==arr1[str2%6][1]){
-						str1 += '<td style="background: red;">' + arr[x][y] + '</td>';
+						// str1 += '<td style="background: red;">' + arr[x][y] + '</td>';
+						str1 += '<td>' + arr[x][y] + '</td>';
 					}else {
 						str1 += '<td>' + arr[x][y] + '</td>';
 					}
@@ -141,6 +142,7 @@
 				str1 += '</tr>';
 			}
 			str1 += '</table>';
+			str3 += '<p>' + arr[arr1[str2%6][0]][arr1[str2%6][1]] + '</p>';
 			str3 += '<p>' + arr2[str2%6][0] + '</p>';
 			str3 += '<p>' + arr2[str2%6][1] + '</p>';
 			str3 += '<p>' + arr2[str2%6][2] + '</p>';
@@ -159,6 +161,18 @@
 			// str3 += '<p>' + arr_tg[(nlxx.cDay-4)%10] + arr_dz[(nlxx.cDay-4)%12] + '</p>';
 
 			document.getElementById("showdata").innerHTML = str1 + str3;
+		}
+		function show_longitude_time(){
+			if (navigator.geolocation) {
+				navigator.geolocation.getCurrentPosition(function(position) {
+					var latitude = position.coords.latitude;
+					var longitude = position.coords.longitude;
+					// console.log(latitude, longitude);
+					// 在此处可以根据需要进行相应操作
+				});
+			} else {
+				// console.log("浏览器不支持地理定位功能");
+			}
 		}
 		</script>
 		

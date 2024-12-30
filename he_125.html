@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+		<html lang="en">
+			<head>
+				<meta charset="utf-8">
+				<title>推荐随机热冷码1</title>
+				<!-- <meta content="width=device-width, initial-scale=1.0" name="viewport">
+				<meta content="" name="keywords">
+				<meta content="" name="description">
+				<link href="./favicon.ico" rel="icon"> -->
+				<link href="down_data.css" rel="stylesheet" type="text/css">
+				<script src="down_data.js"></script>
+				<style>
+				span{
+					margin-right: 5px;
+					border: 1px solid #ddd;
+					padding: 5px;
+					text-align: center;
+				}
+				.tj{
+					color: blue;
+				}
+				.zj{
+					color: red;
+				}
+				</style>
+			</head>
+			
+			<hr>
+			<body>
+				
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<div id="showdata"></div>
+		<style>
+			/*表格样式*/
+			table {
+				width: 100%;
+				background: #ccc;
+				margin: 10px auto;
+				border-collapse: collapse;
+				/*border-collapse:collapse合并内外边距
+			(去除表格单元格默认的2个像素内外边距*/
+			}
+			th,td {
+				height: 25px;
+				line-height: 25px;
+				text-align: left;
+				border: 1px solid #ccc;
+			}
+			th {
+				background: #eee;
+				font-weight: normal;
+			}
+			tr {
+				background: #fff;
+			}
+			tr:nth-child(odd){
+				background-color:#fff; 
+			}
+			/* tr:nth-child(even){
+				background-color: #f8f8f8;
+			}
+			tr:hover {
+				background: #cc0;
+			} */
+		</style>
+		<script>
+		let datajson = setInterval(function(){resjson_kl8();},1000);
+		function resjson_kl8(){
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'https://mix.lottery.sina.com.cn/gateway/index/entry?callback=kl81684938915972&__caller__=web&__verno__=1&__version__=1&cat1=gameOpenInfo&format=json&lottoType=104&dpc=1&_=1684938914740', true);
+			xhr.responseType = 'text';
+			xhr.onload = function() {
+				str1 = ''
+				if (xhr.status === 200) {
+					var jsonResponse = xhr.response;
+					// let jsonstr = jsonResponse.slice(21, -14);
+					let jsonstr = jsonResponse.slice(17, -2);
+					let json_str = JSON.parse(jsonstr);
+					// console.log(json_str); // 返回的JSON对象
+					// console.log(json_str.result.data.prizeList);
+					str1 += '<table><tr>'
+					str1 += '<td width="15%">' + json_str.result.data.issueNo + '<br>' + json_str.result.data.createTime.substring(0, 16) + '</td><td width="70%">'
+					for(let x=0;x<json_str.result.data.openResults.length;x++){
+						str1 += '<span style="background-color:red;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">' + json_str.result.data.openResults[x] + '</span>'
+						if (x==9){
+							str1 += '<br>'
+						}
+					}
+					str1 += '</td></tr></table>'
+					document.getElementById("showdata").innerHTML = str1;
+				}
+			};
+			xhr.send();
+		}
+		</script>
+		<hr>
+				<div id="accordion"><div class="item1"><h3>推荐随机热冷码 ⌵</h3><hr><div><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【推荐(随机1000)热冷码】</font></font></div></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><th>随机5注热冷码</th></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">35</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">5</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">16</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">61</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">62</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">35</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">71</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">21</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">61</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">35</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">5</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">40</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">41</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">5</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">41</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">76</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">62</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">35</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">41</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">76</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">62</span></td></tr></table></div></div><div class="item1"><h3>推荐随机(最优索引组合)的热冷码 ⌵</h3><hr><div><div class="waik"><div class="biaoti"><font face="微软雅黑" size="5" color="#00FFFF">*<font color="#ddd">【推荐(随机最优索引组合)热冷码】</font></font></div></div><table class="duilianpt1" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" style="text-align: center;line-height: 35px; font-size: 16px;" width="100%" cellspacing="0" cellpadding="2" bordercolor="#b4b4b3" border="1" bgcolor="#ffffff"><tbody><tr><th>随机10注热冷码</th></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">2</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">73</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">34</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">15</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">2</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">19</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">13</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">49</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">18</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">32</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">58</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">51</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">28</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">42</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">7</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">80</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">22</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">77</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">18</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">46</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">69</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">80</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">38</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">28</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">69</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">58</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">80</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">75</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">35</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">72</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">76</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">22</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">13</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">18</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">7</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">80</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">8</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">52</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">49</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">2</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">71</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">34</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">16</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">79</span></td></tr><tr><td><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">58</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">75</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">28</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">42</span><span style="background-color:#0000ff;border-radius:25px;width: 25px;height: 25px;display: inline-block;color: white;margin: 5px 5px 5px;">48</span></td></tr></table></div></div></div>
+				
+			</body>
+		</html>
+		

@@ -161,16 +161,16 @@
 		let hasTimestamp = now - start;
 		// 86400000 = 24 * 60 * 60 * 1000
 		let dayOfYear = Math.floor(hasTimestamp / 86400000);
-		return dayOfYear;
+		return [now.getFullYear(), dayOfYear];
 	}
 	const hasDays = get_day_of_year();
 	</script>
 	<script>
 	function write_div(arr){ // 将图片显示html
-		let str_img = 'https://tk.tutu.finance/aomen/2025/col/' + hasDays + '/';
+		let str_img = 'https://tk.tutu.finance/aomen/' + hasDays[0] + '/col/';
 		for (let index = 0; index < arr.length; index++) {
 			let str_src = '';
-			str_src = str_img + arr[index] + '.jpg';
+			str_src = str_img + hasDays[1] + '/' + arr[index] + '.jpg';
 			str_src = '<div><img src="' + str_src + '" width="100%"></div>';
 			document.write(str_src);
 		}

@@ -182,16 +182,23 @@
 					if (arr1.length == 0) {
 						document.getElementById('res').innerText = '暂未选择!';
 					} else {
-						let str_tab = '<table><tr><th width="15%">期数</th><th>';
+						let str_tab = '<table><tr><th width="15%">期数</th><th width="5%">数量</th><th>';
 						for (let index = 0; index < arr1.length; index++) {
 							str_tab += '<span class="span1">' + arr1[index] + '</span>';
 						}
-						str_tab += '</th><th width="5%">数量</th></tr>';
+						str_tab += '</th></tr>';
 						let zj_num = 0;
 						for (let index = 0; index < arr.length; index++) {
 							str_tab += '<tr>';
-							str_tab += '<td>' + arr[index][0] + '</td><td>';
+							str_tab += '<td>' + arr[index][0] + '</td>';
 							let zj_arr = intersection(arr1, arr[index][1]);
+							let temp1 = zj_arr.length/arr1.length>=0.6;
+							if (temp1) {
+								zj_num += 1;
+								str_tab += '<td style="background: red;">' + zj_arr.length + '</td><td>';
+							} else {
+								str_tab += '<td>' + zj_arr.length + '</td><td>';
+							}
 							for (let index1 = 0; index1 < arr1.length; index1++) { 
 								if (zj_arr.indexOf(arr1[index1]) !== -1) {
 									str_tab += '<span class="span1">' + arr1[index1] + '</span>';
@@ -199,13 +206,7 @@
 									str_tab += '<span class="span2">00</span>';
 								}
 							}
-							let temp1 = zj_arr.length/arr1.length>=0.6;
-							if (temp1) {
-								zj_num += 1;
-								str_tab += '</td><td style="background: red;">' + zj_arr.length + '</td></tr>';
-							} else {
-								str_tab += '</td><td>' + zj_arr.length + '</td></tr>';
-							}
+							str_tab += '</td></tr>';
 						}
 						str_tab += '<tr>中奖个数符合条件的有 ' + zj_num + ' 个</tr>';
 						str_tab += '</table>';

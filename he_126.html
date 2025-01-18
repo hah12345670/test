@@ -182,11 +182,11 @@
 					if (arr1.length == 0) {
 						document.getElementById('res').innerText = '暂未选择!';
 					} else {
-						let str_tab = '<table><tr><th>期数</th><th>';
+						let str_tab = '<table><tr><th width="15%">期数</th><th>';
 						for (let index = 0; index < arr1.length; index++) {
 							str_tab += '<span class="span1">' + arr1[index] + '</span>';
 						}
-						str_tab += '</th><th>数量</th></tr>';
+						str_tab += '</th><th width="5%">数量</th></tr>';
 						let zj_num = 0;
 						for (let index = 0; index < arr.length; index++) {
 							str_tab += '<tr>';

@@ -10,6 +10,21 @@ document.writeln("</style>");
 document.writeln("<div class=\'ipi\'>九點半<font color=\'#FFFF00\'>【解特码诗】</font></div>");
 document.writeln("<body>");
 document.writeln("");
+document.writeln("<!--特码诗开始 -->");
+document.writeln("<body>");
+document.writeln("");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>029期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>愁苦闲院落凄凉，焉得置之贡玉堂。</font></b></font><br>");
+document.writeln("<font face=\'楷体\'><b>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--特码诗开始 -->");
+
+
+
 
 document.writeln("<!--特码诗开始 -->");
 document.writeln("<body>");
@@ -19,7 +34,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>028期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>五更啼叫见东方，牛来狗到兔发财。</font></b></font><br>");
 document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开牛40</font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
@@ -131,21 +146,6 @@ document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开羊34</font></
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
-
-document.writeln("<!--特码诗开始 -->");
-document.writeln("<body>");
-document.writeln("");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<tr>");
-document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>019期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>愁苦闲院落凄凉，焉得置之贡玉堂。</font></b></font><br>");
-document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开猪06</font></b></font></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--特码诗开始 -->");
-
-
 
 
 

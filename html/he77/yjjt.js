@@ -47,12 +47,46 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
+document.writeln("<font style=\'font-size: 13pt\'>");
+document.writeln("039期玄机诗句<font color=\'#FF0000\'>【左右逢源图财帛，意马心猿醉梦中。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：图财帛，图，画，画肖，羊猪猴。财=贝+才，贝，金，金肖猴鸡，才，蛇马；意马心猿直接点出马猴生肖。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：羊猪猴鸡马蛇");
+document.writeln("</font></font></b></td></tr>");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
 document.writeln("038期玄机诗句<font color=\'#FF0000\'>【四季勤耕下农田，如今借得东风力。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：勤耕下农田，牛，也只常年忙碌，马狗；东风力，东方肖，虎兔龙，风肖，龙虎兔。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙虎兔牛马狗");
+document.writeln("<br><font color=\'#008000\'>解特：龙虎兔牛马<span style=\'background-color: #FFFF00\'>狗</span>");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");

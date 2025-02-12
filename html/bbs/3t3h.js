@@ -39,20 +39,17 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("254期3.头中特【0.<span style=\'background-color: #FFFF00\'>2</span>.3】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期3.头中特【0.1.<span style=\'background-color: #FFFF00\'>3</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("256期3.头中特【<span style=\'background-color: #FFFF00\'>3</span>.2.4】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("257期3.头中特【3.4.<span style=\'background-color: #FFFF00\'>0</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("258期3.头中特【<span style=\'background-color: #FFFF00\'>4</span>.2.0】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("259期3.头中特【0.4.3】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("260期3.头中特【2.1.<span style=\'background-color: #FFFF00\'>4</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("261期3.头中特【4.<span style=\'background-color: #FFFF00\'>0</span>.1】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("262期3.头中特【2.3.1】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("263期3.头中特【4.3.<span style=\'background-color: #FFFF00\'>1</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("264期3.头中特【4.0.<span style=\'background-color: #FFFF00\'>3</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("265期3.头中特【4.0.2】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("266期3.头中特【1.<span style=\'background-color: #FFFF00\'>2</span>.3】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("267期3.头中特【1.4.3】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("039期3.头中特【<span style=\'background-color: #FFFF00\'>4</span>.2.3】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("040期3.头中特【<span style=\'background-color: #FFFF00\'>2</span>.4.1】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("041期3.头中特【3.<span style=\'background-color: #FFFF00\'>2</span>.0】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("042期3.头中特【2.0.3】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("043期3.头中特【2.<span style=\'background-color: #FFFF00\'>3</span>.1】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("044期3.头中特【0.4.3】<font color=\"#FF0000\">√</font><br>	");
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -74,16 +71,19 @@ document.writeln("<font color=\'#FF00FF\' style=\"font-size: 16pt\">【三行中
 document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 
-document.writeln("258期3.行中特【火.<span style=\'background-color: #FFFF00\'>金</span>.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("259期3.行中特【<span style=\'background-color: #FFFF00\'>水</span>.金.火】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("260期3.行中特【火.<span style=\'background-color: #FFFF00\'>金</span>.木】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("261期3.行中特【土.金.木】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("262期3.行中特【金.<span style=\'background-color: #FFFF00\'>木</span>.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("263期3.行中特【金.火.木】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("264期3.行中特【木.<span style=\'background-color: #FFFF00\'>火</span>.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("265期3.行中特【金.<span style=\'background-color: #FFFF00\'>火</span>.土】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("266期3.行中特【火.水.<span style=\'background-color: #FFFF00\'>土</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("267期3.行中特【土.金.木】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("041期3.行中特【<span style=\'background-color: #FFFF00\'>土</span>.水.木】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("042期3.行中特【<span style=\'background-color: #FFFF00\'>金</span>.土.火】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("043期3.行中特【水.土.<span style=\'background-color: #FFFF00\'>木</span>】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("044期3.行中特【金.水.土】<font color=\"#FF0000\">√</font><br>	");
+
+
+
+
+
+
+
 
 document.writeln("	");
 document.writeln("		");
@@ -104,7 +104,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

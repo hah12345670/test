@@ -36,11 +36,10 @@ document.writeln("</script>");
 document.writeln("");
 document.writeln("</head>");
 document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td style=\'text-align:center\' height=\'60\' >");
-document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62827c</font><font color=\'#FFFFFF\'>『理财计划』</font></font></b></table></td></tr>");
+
+document.writeln("<table border=1 width=100% bgcolor=#ffffff>");
+document.writeln("<tr><td style=\'border:10px double #00f\' bgcolor=#0000FF height=50><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>62827c</font><font color=\'#FFFFFF\'>『理财计划』</font></font></b></tr></td></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<div id=\'jihua-danshuang50000\'>");
@@ -60,57 +59,69 @@ document.writeln("投资前言</font></span></font><font size=\'2\' color=\'#4b5
 document.writeln(".包的越久下的越大,保证让你的财源滚滚.不要贪心,慢慢来,心急吃不到热豆腐!(如果您有本钱！不懂得投资什么生意！澳彩资料网教你投资本站的单双两期必开一期！ ");
 document.writeln("比放在银行利息高几十倍！也比炒股票更赚钱！如果你觉得可以的话！您也可以叫您身边有钱没有生意做的朋友一起来投资！）</font></p> ");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("267-269期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("265-267期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>266期中中中！</font>");
+document.writeln("044-046期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>000期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("264-266期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>264期中中中！</font>");
+document.writeln("043-045期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>043期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("263-265期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>263期中中中！</font>");
+document.writeln("042-044期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>042期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("262-264期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>262期中中中！</font>");
+document.writeln("036-038期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>038期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("260-262期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>261期中中中！</font>");
+document.writeln("035-037期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>035期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("258-260期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>259期中中中！</font>");
-
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("257-259期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>257期中中中！</font>");
+document.writeln("034-036期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>034期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("255-257期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>256期中中中！</font>");
+document.writeln("033-035期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>033期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("254-256期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>254期中中中！</font>");
+document.writeln("032-034期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>032期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("252-254期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>253期中中中！</font>");
+document.writeln("029-031期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>031期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("250-252期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>251期中中中！</font>");
+document.writeln("028-030期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>028期中中中！</font>");
 
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("247-249期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>249期中中中！</font>");
+document.writeln("027-029期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>027期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("026-028期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>026期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("025-027期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【双数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>025期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("024-026期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>024期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("022-024期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【单数】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>023期中中中！</font>");
+
+
+
 
 
 document.writeln("<!--单双中特内容结束-->");
@@ -125,37 +136,87 @@ document.writeln("投资前言</font></span></font><font size=\'2\' color=\'#4b5
 document.writeln(".包的越久下的越大,保证让你的财源滚滚.不要贪心,慢慢来,心急吃不到热豆腐!(如果您有本钱！不懂得投资什么生意！澳彩资料网教你投资本站的单双两期必开一期！ ");
 document.writeln("比放在银行利息高几十倍！也比炒股票更赚钱！如果你觉得可以的话！您也可以叫您身边有钱没有生意做的朋友一起来投资！）</font></p>");
 document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("044-046期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("042-044期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>043期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("041-043期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【羊肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>041期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("040-042期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【蛇肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>040期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("037-039期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猪肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>039期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("034-036期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【牛肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>036期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("032-034期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>033期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("031-033期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【蛇肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>031期中中中！</font>");
+
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("030-032期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【兔肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>030期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("028-030期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【蛇肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>029期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("024-026期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>024期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("023-025期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【猴肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>023期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("022-024期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>022期中中中！</font>");
+
+document.writeln("");
+document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
+document.writeln("018-020期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>018期中中中！</font>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("266-268期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>？00期中中中！</font>");
+document.writeln("016-018期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>017期中中中！</font>");
+
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("263-265期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【狗肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>265期中中中！</font>");
+document.writeln("015-017期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【龙肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>015期中中中！</font>");
+
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("262-264期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鸡肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>262期中中中！</font>");
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("260-262期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【羊肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>261期中中中！</font>");
-document.writeln("");
-document.writeln("");
+document.writeln("014-016期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>014期中中中！</font>");
+
 document.writeln("");
 document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("259-261期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【鼠肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>259期中中中！</font>");
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("258-260期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【虎肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>258期中中中！</font>");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("256-258期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【马肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>257期中中中！</font>");
-document.writeln("");
-document.writeln("");
-document.writeln("<p><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>");
-document.writeln("255-257期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【牛肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>255期中中中！</font>");
-document.writeln("");
+document.writeln("013-015期</font><font size=\'4\' face=\'宋体\' color=\'#FF0000\'>【蛇肖】</font><font size=\'4\' face=\'宋体\' color=\'#0000FF\'>013期中中中！</font>");
+
+
 
 
 

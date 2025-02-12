@@ -20,21 +20,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("             <!--跟踪本站出品高手榜七尾14码上料--> ");
-document.writeln("   <!--https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/6dgsb/mj04.html   https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/6dgsb/mj05.html--> ");
+document.writeln("   <!--https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/6dgsb/mj04.html   https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/6dgsb/mj05.html--> ");
 document.writeln("		<tr>");
 document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><font face=\"微软雅黑\">");
 document.writeln("");
 document.writeln(" 		<b>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">267期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【10.16.05.22.13.06.30.37.18.02.12.20.08.44】</span></font></p>  	");
-
-
-
+document.writeln(" <span style=\"font-size: 13pt\">044期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【47.27.10.16.26.31.45.37.23.18.32.20.19.03】</span></font></p>  	");
 
 
 
@@ -57,5 +52,5 @@ document.writeln("");
 document.writeln("");
 document.writeln("<!--推广开始-->");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://x3.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62827.com<br>这里只推荐最好的资料</a></strong></tr></table>");
+document.writeln("				<a target=\'_blank\' style=\'text-decoration: none\' href=\'https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 16pt\'><span style=font-family:楷体;>记住保存62827.com<br>这里只推荐最好的资料</a></strong></tr></table>");
 document.writeln("<!--推广结束-->");

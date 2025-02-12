@@ -13,7 +13,7 @@ document.writeln("");
 document.writeln(".bizhong128 img {width:100%; border-collapse: collapse; font-weight: bold;}");
 document.writeln("</style>");
 document.writeln(" ");
-document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt267.jpg\' id=\'123sjkjpicx8\'>");
+document.writeln("<div class=\'bizhong128 clearfix\'><img src=\'/img/amhmt044.jpg\' id=\'123sjkjpicx8\'>");
 document.writeln("    <div class=\'bizhong128-box action-bz\'>");
 document.writeln("    </div>");
 document.writeln("    ");
@@ -25,26 +25,26 @@ document.writeln("    <span class=\'bizhong128-btn bizhong128-next\' onclick=\'n
 document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var picArrx8=new Array(");
-document.writeln("\'/img/amhmt267.jpg\',");
-document.writeln("\'/img/amhmt266.jpg\',");
-document.writeln("\'/img/amhmt265.jpg\',");
-document.writeln("\'/img/amhmt264.jpg\',");
-document.writeln("\'/img/amhmt263.jpg\',");
-document.writeln("\'/img/amhmt262.jpg\',");
-document.writeln("\'/img/amhmt261.jpg\',");
-document.writeln("\'/img/amhmt260.jpg\',");
-document.writeln("\'/img/amhmt259.jpg\',");
-document.writeln("\'/img/amhmt258.jpg\',");
-document.writeln("\'/img/amhmt257.jpg\',");
-document.writeln("\'/img/amhmt256.jpg\',");
-document.writeln("\'/img/amhmt255.jpg\',");
-document.writeln("\'/img/amhmt254.jpg\',");
-document.writeln("\'/img/amhmt253.jpg\',");
-document.writeln("\'/img/amhmt252.jpg\',");
-document.writeln("\'/img/amhmt251.jpg\',");
+
+document.writeln("\'/img/amhmt044.jpg\',");
+document.writeln("\'/img/amhmt043.jpg\',");
+document.writeln("\'/img/amhmt042.jpg\',");
+document.writeln("\'/img/amhmt041.jpg\',");
+document.writeln("\'/img/amhmt040.jpg\',");
+document.writeln("\'/img/amhmt039.jpg\',");
+document.writeln("\'/img/amhmt038.jpg\',");
+document.writeln("\'/img/amhmt037.jpg\',");
+document.writeln("\'/img/amhmt036.jpg\',");
+document.writeln("\'/img/amhmt035.jpg\',");
+document.writeln("\'/img/amhmt034.jpg\',");
+document.writeln("\'/img/amhmt033.jpg\',");
+document.writeln("\'/img/amhmt032.jpg\',");
+document.writeln("\'/img/amhmt031.jpg\',");
+document.writeln("\'/img/amhmt030.jpg\',");
 
 
-document.writeln("\'/img/amhmt250.jpg\'");
+
+document.writeln("\'/img/amhmt029.jpg\'");
 
 
 document.writeln(");");

@@ -14,48 +14,54 @@ document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("267期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏秋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
-document.writeln("	<!--开始-->");
 
 
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("265期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春秋<span style=\'background-color: #FFFF00\'>冬</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛16</span>准</font></font></b></font></table>");
+document.writeln("044期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏秋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("	<!--开始-->");
-document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("043期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春<span style=\'background-color: #FFFF00\'>夏</span>秋</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇37</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("042期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>夏秋<span style=\'background-color: #FFFF00\'>冬</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠42</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("041期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>春</span>秋冬</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎28</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("040期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏<span style=\'background-color: #FFFF00\'>秋</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗20</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("039期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>春</span>秋冬</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎40</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("038期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏<span style=\'background-color: #FFFF00\'>秋</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗20</span>准</font></font></b></font></table>");
+document.writeln("	<!--开始-->");
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("262期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏<span style=\'background-color: #FFFF00\'>秋</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鸡44</span>准</font></font></b></font></table>");
+document.writeln("037期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>夏</span>秋冬</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇25</span>准</font></font></b></font></table>");
 document.writeln("	<!--开始-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("259期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>秋夏<span style=\'background-color: #FFFF00\'>冬</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠29</span>准</font></font></b></font></table>");
-document.writeln("	<!--开始-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("258期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春秋<span style=\'background-color: #FFFF00\'>冬</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛40</span>准</font></font></b></font></table>");
-document.writeln("	<!--开始-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("257期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>春夏<span style=\'background-color: #FFFF00\'>秋</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鸡08</span>准</font></font></b></font></table>");
-document.writeln("	<!--开始-->");
-document.writeln("");
+
 
 
 

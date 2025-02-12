@@ -24,24 +24,18 @@ document.writeln("<td style=\'text-align:center\' height=\'60\'>");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>62827b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『老胡18码』</font></b></table>");
-document.writeln("");
-document.writeln("<!--推广开始-->");
-document.writeln("<tr><td><a target=\'_blank\' href=\'https://j.1777tz.com:1777\' style=\'text-decoration: none\'>");
-document.writeln("<p align=\'center\'>");
-document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b><font face=\'楷体\' color=\'#0000FF\' style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></b></p></a></td></tr>");
-document.writeln("<!--推广结束-->");
-document.writeln("");
-document.writeln("");
+
+
 document.writeln("   <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>267期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
+document.writeln("		<font style=\'font-size: 14pt\'>044期<font color=\'#800000\'>【隔壁老胡18码】</font></font><br>");
 document.writeln("		 <font color=\'#008000\' style=\"font-size: 14pt\">");
-document.writeln("		【26.08.02.30.28.16.03.04.49】<br>");
-document.writeln("		【38.27.46.17.44.21.35.12.40】</font><font color=\'#0000FF\'> </font> </span>  ");
+document.writeln("		【05.34.44.13.15.02.31.25.43】<br>");
+document.writeln("		【06.09.46.35.47.18.07.49.17】</font><font color=\'#0000FF\'> </font> </span>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("    </tr>");
@@ -49,7 +43,7 @@ document.writeln(" <!--结束--> ");
 
 
 
-document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

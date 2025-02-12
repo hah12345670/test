@@ -31,55 +31,47 @@ document.writeln("地肖蛇虎羊鸡狗鼠</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("267期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>地肖+猪猴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("266期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+龙马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎27</span>准</font></font></b></font></table>");
+document.writeln("044期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'>天肖+羊蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("265期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+鼠虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛16</span>准</font></font></b></font></table>");
+document.writeln("043期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+龙马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇37</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("264期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+狗蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪30</span>准</font></font></b></font></table>");
+document.writeln("041期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+牛猪</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>虎28</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("038期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+龙马</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>狗20</span>准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("037期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span>+牛猴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇25</span>准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("261期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+鼠虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>龙01</span>准</font></font></b></font></table>");
+document.writeln("036期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛29</span>准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("260期<font color=\'#0000FF\'>【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span>+虎蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>牛40</span>准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 
 
-
-document.writeln("");
-document.writeln("<!--推广开始-->");
-document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://j.1777tz.com:1777/\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 16pt\'>点击投注六合彩</span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1777.CC</font></span></a></strong></tr></table>");
-document.writeln("<!--推广结束-->");
-document.writeln("");
 document.writeln("");
 document.writeln("</body>");
 document.writeln("</html>");

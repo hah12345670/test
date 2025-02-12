@@ -26,12 +26,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>044期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>043期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>043期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>蛇37</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

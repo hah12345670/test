@@ -14,7 +14,7 @@ document.writeln(".bizhong123 img {width:100%; border-collapse: collapse; font-w
 document.writeln("</style>");
 document.writeln("<div class=\'bizhong123 clearfix\'>");
 document.writeln("    <div class=\'bizhong123-box action-bz\'>");
-document.writeln("<img src=\'https://ttuu.wyvogue.com:4949/col/267/amsbx.jpg\' id=\'lfktzm\'>");
+document.writeln("<img src=\'https://amo.phseo1.com:4949/col/44/amsbx.jpg\' id=\'lfktzm\'>");
 document.writeln("    </div>");
 document.writeln("    ");
 document.writeln("</div>");
@@ -26,29 +26,23 @@ document.writeln("</div>");
 document.writeln("<script>");
 document.writeln("    var leifeng=new Array(");
 
-
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/267/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/266/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/265/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/264/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/263/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/262/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/261/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/260/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/259/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/258/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/257/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/256/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/255/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/254/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/253/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/252/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/251/amsbx.jpg\',");
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/250/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/44/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/43/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/42/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/41/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/40/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/39/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/38/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/37/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/36/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/35/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/34/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/33/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/32/amsbx.jpg\',");
+document.writeln("\'https://amo.phseo1.com:4949/col/31/amsbx.jpg\',");
 
 
-
-document.writeln("\'https://ttuu.wyvogue.com:4949/col/249/amsbx.jpg\'");
+document.writeln("\'https://amo.phseo1.com:4949/col/30/amsbx.jpg\'");
 
 document.writeln(");");
 document.writeln("    var indexx=0;");

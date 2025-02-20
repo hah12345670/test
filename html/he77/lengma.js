@@ -16,9 +16,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<tr>");
-document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>050期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>春入横塘摇浅浪，雪天蓦地忽闻香。</font></b></font><br>");
+document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>051期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>十羊九牧乃常见，气壮山河吞日月。</font></b></font><br>");
 document.writeln("<font face=\'楷体\'><b>");
 document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--特码诗开始 -->");
+document.writeln("<!--特码诗开始 -->");
+document.writeln("<body>");
+document.writeln("");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>050期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>春入横塘摇浅浪，雪天蓦地忽闻香。</font></b></font><br>");
+document.writeln("<font face=\'楷体\'><b>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开牛05</font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
@@ -130,18 +142,7 @@ document.writeln("");
 document.writeln("<!--特码诗开始 -->");
 
 
-document.writeln("<!--特码诗开始 -->");
-document.writeln("<body>");
-document.writeln("");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<tr>");
-document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>041期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>十羊九牧乃常见，气壮山河吞日月。</font></b></font><br>");
-document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开虎28</font></b></font></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--特码诗开始 -->");
+
 
 
 

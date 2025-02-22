@@ -24,34 +24,13 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>小辰献丑</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『三个半波』</font></b></table>");
 document.writeln("");
 
-
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>044期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
-document.writeln("    </tr>  ");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'隶书\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
-document.writeln("		本期蓝双有特码<br>");
-document.writeln("		还有红双也不错<br>");
-document.writeln("		看好红单一定防</font></b> </td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("      <!--开始-->");
-document.writeln("	<tr>");
-document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'隶书\'>");
-document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>042期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（鼠42）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>054期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（？00）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -60,11 +39,10 @@ document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
 document.writeln("		本期绿双有特码<br>");
-document.writeln("		<span style=\'background-color: #FFFF00\'>还有蓝双也不错</span><br>");
+document.writeln("		还有蓝双也不错<br>");
 document.writeln("		看好绿单一定防</font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
-
 
 document.writeln("      <!--开始-->");
 document.writeln("	<tr>");
@@ -72,7 +50,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
-document.writeln("		<font style=\'font-size: 14pt\'>041期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（虎28）</font></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>052期<font color=\'#008000\'>【三个半波】</font>开<font color=\'#FF0000\'>（猴10）</font></font></b></td>");
 document.writeln("    </tr>  ");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
@@ -80,11 +58,13 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'隶书\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\'#0 000FF\' style=\'font-size: 16pt\'>");
-document.writeln("		<span style=\'background-color: #FFFF00\'>本期绿双有特码</span><br>");
-document.writeln("		还有红双也不错<br>");
-document.writeln("		看好红单一定防</font></b> </td>");
+document.writeln("		本期蓝单有特码<br>");
+document.writeln("		<span style=\'background-color: #FFFF00\'>还有蓝双也不错</span><br>");
+document.writeln("		看好红双一定防</font></b> </td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
+
+
 
 
 

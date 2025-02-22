@@ -31,27 +31,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>044期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【10.47】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>043期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【08.02】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>042期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【27.01】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("		<font color=\'#000000\' size=\'3\'>054期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【45.48】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始--> ");
 
@@ -61,49 +41,7 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>041期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【45.44】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>040期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【32.38】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>038期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【19.18】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>037期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【17.06】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>035期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【14.02】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("		<font color=\'#000000\' size=\'3\'>053期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【06.25】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始--> ");
 document.writeln("<!--开始--> ");
@@ -112,10 +50,18 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>034期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【22.48】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("		<font color=\'#000000\' size=\'3\'>052期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【36.21】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始--> ");
-
+document.writeln("<!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' size=\'3\'>051期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【26.28】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("<!--开始--> ");
 
 document.writeln("<!--开始--> ");
 document.writeln("    <tr>");
@@ -123,11 +69,27 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>033期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【16.08】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("		<font color=\'#000000\' size=\'3\'>049期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【04.22】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始--> ");
-
-
+document.writeln("<!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' size=\'3\'>048期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【41.47】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("<!--开始--> ");
+document.writeln("<!--开始--> ");
+document.writeln("    <tr>");
+document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'><b>");
+document.writeln("");
+document.writeln("		<font color=\'#000000\' size=\'3\'>047期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【38.35】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("    </tr>");
+document.writeln("<!--开始--> ");
 
 document.writeln("<!--开始--> ");
 document.writeln("    <tr>");
@@ -135,45 +97,10 @@ document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
 document.writeln("		<p align=\'center\'>");
 document.writeln("		<font face=\'微软雅黑\'><b>");
 document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>032期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【29.47】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
+document.writeln("		<font color=\'#000000\' size=\'3\'>046期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【29.27】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
 document.writeln("    </tr>");
 document.writeln("<!--开始--> ");
 
-
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>031期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【26.40】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>030期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【15.49】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
-
-
-document.writeln("<!--开始--> ");
-document.writeln("    <tr>");
-document.writeln("      <td height=40 bgcolor=\'#FFFFFF\' align=\'left\' >");
-document.writeln("		<p align=\'center\'>");
-document.writeln("		<font face=\'微软雅黑\'><b>");
-document.writeln("");
-document.writeln("		<font color=\'#000000\' size=\'3\'>029期绝杀平码</font><font color=\'#008000\' style=\'font-size: 16pt\'>【45.30】</font><font color=\'#000000\' size=\'3\'>开</font><font size=\'3\'>00</font><font color=\'#FF0000\' size=\'5\'>√</font></b></font></td>");
-document.writeln("    </tr>");
-document.writeln("<!--开始--> ");
 
 
 

@@ -41,13 +41,22 @@ document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->  ");
 document.writeln("");
 
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第054期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
+
 
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第044期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>00</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第052期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>10</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 
@@ -56,15 +65,7 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第041期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>28</font></font></b></td>");
-document.writeln("    </tr>        ");
-document.writeln("    <!--结束-->");
-document.writeln("    <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\'center\'><b>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第040期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>20</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第051期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>49</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 
@@ -73,7 +74,7 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第039期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>40</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第050期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>05</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 
@@ -82,10 +83,44 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=40 >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第037期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>25</font></font></b></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第049期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>43</font></font></b></td>");
 document.writeln("    </tr>        ");
 document.writeln("    <!--结束-->");
 
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第047期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>12</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第046期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>12</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
+
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第045期特码王<font color=\'#FF00FF\'>【后落码】</font>开<font color=\'#008000\'>30</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
+
+document.writeln("    <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=40 >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>第044期特码王<font color=\'#FF00FF\'>【前落码】</font>开<font color=\'#008000\'>07</font></font></b></td>");
+document.writeln("    </tr>        ");
+document.writeln("    <!--结束-->");
 
 
 

@@ -26,11 +26,15 @@ document.writeln("      <td align=\'center\' height=40 bgcolor=\'#FFFFFF\' ><fon
 document.writeln("");
 document.writeln(" 		<b>");
 
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <span style=\"font-size: 13pt\">053期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【05.36.30.06.11.20.37.49.01.48.33.17.16.43】</span></font></p>  	");
+
+
 
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <span style=\"font-size: 13pt\">044期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【47.27.10.16.26.31.45.37.23.18.32.20.19.03】</span></font></p>  	");
-
+document.writeln(" <span style=\"font-size: 13pt\">050期:==14码中特==开牛05准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
+document.writeln("	【17.19.22.21.30.23.47.49.04.<span style=\'background-color: #FFFF00\'>05</span>.44.45.11.34】</span></font></p>  	");
 
 
 

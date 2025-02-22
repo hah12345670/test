@@ -25,7 +25,63 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("044期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>右肖+猴鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("054期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>右肖+龙蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>？00</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("053期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'>左肖+马<span style=\'background-color: #FFFF00\'>羊</span></font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>羊11</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("052期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+马羊</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猴10</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("051期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+兔虎</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>蛇49</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("049期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+鼠龙</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪43</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("048期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>左肖</span>+虎兔</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>鼠18</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("047期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+鼠猴</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马12</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("046期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+龙蛇</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>马12</span></font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("044期<font color=\'#0000FF\'>左右肖【</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>右肖</span>+猴鸡</font><font color=\'#0000FF\'>】开<span style=\'background-color: #FFFF00\'>猪07</span></font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 

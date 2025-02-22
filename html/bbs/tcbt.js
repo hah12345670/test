@@ -11,12 +11,15 @@ document.writeln("<td style=\'border:10px double #00f\' bgcolor=#0000FF height=5
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>澳彩资料网</font><font color=\'#FFFFFF\'>『填词爆特』</font></font></b></table>");
 document.writeln("");
 
+
+
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'5\'>");
-document.writeln("044期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
+document.writeln("054期填词爆特:开<span style=\'background-color: #FF0000\'><font color=\'#FFFF00\'>？00</font></span>准<br>");
 document.writeln("	</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）大物博</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'6\'> （？）祥如意</font><font color=\'#0000FF\' size=\'5\'>-解:0000</font></b></font></table>");
+
 
 
 

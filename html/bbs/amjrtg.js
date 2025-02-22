@@ -16,7 +16,7 @@ document.writeln(".jrtzao:hover .jrtzao-btn { background: #f00;}");
 document.writeln("</style>");
 document.writeln("<div class=\'jrtzao\'>");
 document.writeln("    <div class=\'jrtzao-tit\'><font color=\'#000000\' style=\'font-size: 21pt\'>");
-document.writeln("		<span style=\'background-color: #FFFF00\'>★今日推荐043期★★</span></font></div>");
+document.writeln("		<span style=\'background-color: #FFFF00\'>★今日推荐053期★★</span></font></div>");
 document.writeln("    <div class=\'jrtzao-box\'>");
 document.writeln("   	");
 
@@ -32,7 +32,7 @@ document.writeln(" ");
 document.writeln("					");
 document.writeln("<!--开始-->");
 document.writeln("<font color=\'#6600CC\'>");
-document.writeln("<a target=\"_blank\" href=\"https://taa.lezhe.net:2468/#11\">");
+document.writeln("<a target=\"_blank\" href=\"https://t3a.lezhe.net:2468/#11\">");
 document.writeln("<span style=\'text-decoration: none\' font color=\'#c20deff2\'>	");
 document.writeln("		<img border=\'0\' src=\'https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/images/dingjian.png\'  style=\'width:73px; height:28px\' style=\'margin: 0px; padding: 0px; outline: 0px; word-wrap: break-word; border: 0px; vertical-align: middle;\'>马会透密【内幕五码】<br>【12中10！牛逼】<span style=\"background-color: #FFFF00\"><font color=\'#FF00FF\'>点击查看</font></span></b></span></a></font><br><br />");
 document.writeln("<!--结束-->	");

@@ -30,7 +30,11 @@ document.writeln("<font color=\'#FF00FF\'>（绝杀二肖）</font><br>		");
 document.writeln("");
 
 
-document.writeln("016期稳杀(2)肖【羊虎】开？00√<br>");
+document.writeln("020期稳杀(2)肖【鼠猪】开？00√<br>");
+document.writeln("019期稳杀(2)肖【蛇猪】开马36√<br>");
+document.writeln("018期稳杀(2)肖【猴猪】开羊23√<br>");
+document.writeln("017期稳杀(2)肖【牛马】开虎04√<br>");
+document.writeln("016期稳杀(2)肖【羊虎】开马36√<br>");
 
 document.writeln("015期稳杀(2)肖【猪猴】开兔39√<br>");
 document.writeln("014期稳杀(2)肖【鼠兔】开牛17√<br>");
@@ -52,7 +56,12 @@ document.writeln("<br>	");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（绝杀二尾）</font><br>");
 document.writeln("");
-document.writeln("016期稳杀(2)尾【39尾】开？00√<br>");
+
+document.writeln("020期稳杀(2)尾【84尾】开？00√<br>");
+document.writeln("019期稳杀(2)尾【42尾】开马36√<br>");
+document.writeln("018期稳杀(2)尾【63尾】开羊23×<br>");
+document.writeln("017期稳杀(2)尾【37尾】开虎04√<br>");
+document.writeln("016期稳杀(2)尾【39尾】开马36√<br>");
 document.writeln("015期稳杀(2)尾【47尾】开兔39√<br>");
 document.writeln("014期稳杀(2)尾【59尾】开牛17√<br>");
 document.writeln("013期稳杀(2)尾【31尾】开羊23×<br>");
@@ -84,9 +93,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（双波中特）</font><br>		");
 document.writeln("");
-document.writeln("016期双波【绿波红波】开？00√<br>	");
-document.writeln("015期双波【红波<span style=\'background-color: #FFFF00\'>绿波</span>】开兔39√<br>	");
-document.writeln("014期双波【<span style=\'background-color: #FFFF00\'>绿波</span>红波】开牛17√<br>	");
+
+document.writeln("020期双波【红波绿波】开？00√<br>	");
+document.writeln("019期双波【红波绿波】开马36×<br>	");
+document.writeln("018期双波【<span style=\'background-color: #FFFF00\'>红波</span>蓝波】开羊23√<br>	");
 
 
 
@@ -101,8 +111,11 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四头中特）</font><br>");
 document.writeln("");
 
-
-document.writeln("016期四头中特【1304】开？00√<br>");
+document.writeln("020期四头中特【3420】开？00√<br>");
+document.writeln("019期四头中特【1204】开马36×<br>");
+document.writeln("018期四头中特【143<span style=\'background-color: #FFFF00\'>2</span>】开羊23√<br>");
+document.writeln("017期四头中特【2<span style=\'background-color: #FFFF00\'>0</span>14】开虎04√<br>");
+document.writeln("016期四头中特【1<span style=\'background-color: #FFFF00\'>3</span>04】开马36√<br>");
 document.writeln("015期四头中特【14<span style=\'background-color: #FFFF00\'>3</span>0】开兔39√<br>");
 document.writeln("014期四头中特【0<span style=\'background-color: #FFFF00\'>1</span>23】开牛17√<br>");
 document.writeln("013期四头中特【143<span style=\'background-color: #FFFF00\'>2</span>】开羊23√<br>");
@@ -123,7 +136,12 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（单双中特）</font><br>");
 document.writeln("");
 
-document.writeln("016期单双【双+小单】开？00√<br>");
+
+document.writeln("020期单双【单+大双】开？00√<br>");
+document.writeln("019期单双【<span style=\'background-color: #FFFF00\'>双</span>+小单】开马36√<br>");
+document.writeln("018期单双【双+大单】开羊23×<br>");
+document.writeln("017期单双【单+大双】开虎04×<br>");
+document.writeln("016期单双【双+<span style=\'background-color: #FFFF00\'>小单</span>】开马36√<br>");
 document.writeln("015期单双【<span style=\'background-color: #FFFF00\'>单</span>+小双】开兔39√<br>");
 document.writeln("014期单双【<span style=\'background-color: #FFFF00\'>单</span>+大双】开牛17√<br>");
 document.writeln("013期单双【<span style=\'background-color: #FFFF00\'>单</span>+小双】开羊23√<br>");
@@ -140,8 +158,11 @@ document.writeln("");
 document.writeln("<font color=\'#FF00FF\'>（四行中特）</font><br>");
 document.writeln("");
 
-
-document.writeln("016期四行中特【土火金水】开？00√<br>");
+document.writeln("020期四行中特【水木金土】开？00√<br>");
+document.writeln("019期四行中特【<span style=\'background-color: #FFFF00\'>土</span>火金水】开马36√<br>");
+document.writeln("018期四行中特【<span style=\'background-color: #FFFF00\'>木</span>水土火】开羊23√<br>");
+document.writeln("017期四行中特【火水<span style=\'background-color: #FFFF00\'>金</span>土】开虎04√<br>");
+document.writeln("016期四行中特【土火金水】开马36×<br>");
 document.writeln("015期四行中特【水金木<span style=\'background-color: #FFFF00\'>火</span>】开兔39√<br>");
 document.writeln("014期四行中特【金土水<span style=\'background-color: #FFFF00\'>火</span>】开牛17√<br>");
 document.writeln("013期四行中特【<span style=\'background-color: #FFFF00\'>木</span>火水土】开羊23√<br>");

@@ -3,60 +3,37 @@ document.writeln("");
 
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("044期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【05.07.08】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("054期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.06.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
 document.writeln("？00准</font></span></strong></span></p></td></tr>");
 
+document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
+document.writeln("053期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【07.05.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("羊11准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("042期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【02.03.09】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("鼠42准</font></span></strong></span></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("041期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【06.08.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("虎28准</font></span></strong></span></p></td></tr>");
-
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("040期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【03.08.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("狗20准</font></span></strong></span></p></td></tr>");
-
-document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("039期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【09.10.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("虎40准</font></span></strong></span></p></td></tr>");
+document.writeln("052期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【02.06.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("猴10准</font></span></strong></span></p></td></tr>");
 
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("038期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【03.08.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("狗20准</font></span></strong></span></p></td></tr>");
-
-
-
+document.writeln("050期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【08.10.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("牛05准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("036期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.08.09】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("牛29准</font></span></strong></span></p></td></tr>");
-
-
+document.writeln("049期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【03.06.11】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("猪43准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("035期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.06.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("鸡21准</font></span></strong></span></p></td></tr>");
-
-
+document.writeln("048期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【02.03.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("鼠18准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("034期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【03.09.12】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("羊23准</font></span></strong></span></p></td></tr>");
-
-
-
-
-
+document.writeln("047期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.05.08】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("马12准</font></span></strong></span></p></td></tr>");
 
 document.writeln("<tr><td align=\'center\' bgcolor=\'#ffffcc\'><p style=\'line-height:200%\'><span style=\'font-family:Arial\'><strong><span style=\'color:#00f;font-size:15pt\'>");
-document.writeln("033期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【04.08.10】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
-document.writeln("马48准</font></span></strong></span></p></td></tr>");
-
+document.writeln("046期</span><span style=\'color:red;font-size:15pt\'>绝杀</span><span style=\'color:#393\'><span style=\'font-size:15pt\'>三合</span></span><span style=\'font-size:15pt\'>【06.07.08】</span><span style=\'font-size:15pt;color:#960\'>开</span><span style=\'font-size:15pt;color:#666\'>:</span><span style=\'font-size: 15pt; background-color: #FF0000\'><font color=\'#FFFF00\'>");
+document.writeln("马12准</font></span></strong></span></p></td></tr>");
 
 
 

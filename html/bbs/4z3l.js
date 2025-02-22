@@ -13,47 +13,15 @@ document.writeln("<!------开始------>");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>044期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
+document.writeln("<span style=\'color: #FF0000;\'>054期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
 document.writeln("");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
 document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【蛇龙兔】【兔龙蛇】【兔虎鼠】</font></td></tr>");
+document.writeln("【牛鸡猴】【蛇龙羊】【龙牛蛇】</font></td></tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【马虎鼠】【牛虎龙】【蛇羊鼠】</font><font color=\'#008000\'> </font>");
+document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【蛇狗马】【兔猪狗】【虎马猴】</font><font color=\'#008000\'> </font>");
 document.writeln("</td></tr>");
 document.writeln("<!------结束------>");
-
-document.writeln("<!------开始------>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>043期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【羊猪兔】</span>【蛇马牛】【狗蛇龙】</font></td></tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【羊龙狗】【鼠蛇鸡】【猴鸡鼠】</font><font color=\'#008000\'> </font>");
-document.writeln("</td></tr>");
-document.writeln("<!------结束------>");
-
-
-document.writeln("<!------开始------>");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700; font-size:16pt\' face=\'微软雅黑// \'>");
-document.writeln("<span style=\'color: #FF0000;\'>041期(2)连4.2倍(3)连11.12倍</span></font></td></tr>");
-document.writeln("");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>");
-document.writeln("【猪鼠猴】<span style=\'background-color: #FFFF00\'>【马猴虎】</span>【马鼠牛】</font></td></tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=center width=100% height=50>");
-document.writeln("<font style=\'font-weight:700\' size=\'4\' face=\'微软雅黑// \' color=\'#008000\'>【马鼠牛】【牛猪虎】【牛猪虎】</font><font color=\'#008000\'> </font>");
-document.writeln("</td></tr>");
-document.writeln("<!------结束------>");
-
-
-
 
 
 

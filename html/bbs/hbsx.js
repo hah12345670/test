@@ -38,32 +38,14 @@ document.writeln("		<font style=\'font-size: 14pt\'>黑肖【兔龙蛇马羊猴�
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
-
 document.writeln("   <!--开始-->");
 document.writeln("     <tr> <td height=42 bgcolor=\'#FFFFFF\' ><p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>");
-document.writeln("	044期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【白肖+蛇羊】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("	054期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【黑肖+虎狗】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束-->");
 
 
 
-document.writeln("   <!--开始-->");
-document.writeln("     <tr> <td height=42 bgcolor=\'#FFFFFF\' ><p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>");
-document.writeln("	041期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【<span style=\'background-color: #FFFF00\'>白肖</span>+蛇马】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>虎28</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("     <tr> <td height=42 bgcolor=\'#FFFFFF\' ><p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>");
-document.writeln("	040期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【<span style=\'background-color: #FFFF00\'>白肖</span>+龙羊】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>狗20</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
-
-document.writeln("   <!--开始-->");
-document.writeln("     <tr> <td height=42 bgcolor=\'#FFFFFF\' ><p align=\'center\'><b><font face=\'微软雅黑\'><font style=\'font-size: 14pt\'>");
-document.writeln("	039期<font color=\'#0000FF\'>黑白六肖</font><font color=\'#FF00FF\'>【<span style=\'background-color: #FFFF00\'>白肖</span>+龙马】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>虎40</font>准</span></font></b></td>");
-document.writeln("    </tr>");
-document.writeln(" <!--结束-->");
 
 
 

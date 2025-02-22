@@ -23,33 +23,8 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>044期</font>【<font color=\'#FF0000\'>独肖:马羊牛</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>054期</font>【<font color=\'#FF0000\'>合肖:蛇猴鸡</font>】开<font color=\'#FF00FF\'>(？00)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>041期</font>【<font color=\'#FF0000\'>独肖:<span style=\'background-color: #FFFF00\'>虎</span>鼠牛</font>】开<font color=\'#FF00FF\'>(虎28)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>040期</font>【<font color=\'#FF0000\'>合肖:龙猴<span style=\'background-color: #FFFF00\'>狗</span></font>】开<font color=\'#FF00FF\'>(狗20)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>038期</font>【<font color=\'#FF0000\'>合肖:龙蛇猪</font>】开<font color=\'#FF00FF\'>(狗20)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-
-
-
 
 
 

@@ -27,16 +27,49 @@ document.writeln("  <tr>");
 document.writeln("    <td align=\'left\'>");
 document.writeln("<div class=\'jyyzt-txt1\'>");
 document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
-document.writeln("044期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("053期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>？00准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
 document.writeln("</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
-document.writeln("[羊11.23鸡09.21兔15.39]<br>");
-document.writeln("[马12.48龙26.38虎04.16]<br>");
+document.writeln("[蛇13.25猴21.33猪07.31]<br>");
+document.writeln("[鸡21.33马11.23狗20.44]<br>");
 document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
 document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62827b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
 document.writeln("    </td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("<!--开始-->");
+
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("052期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>猴10准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
+document.writeln("[鸡09.33虎28.40<span style=\'background-color: #FFFF00\'>猴10</span>.22]<br>");
+document.writeln("[鼠18.42狗20.44羊11.23]<br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62827b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<!--开始-->");
+document.writeln("  <tr>");
+document.writeln("    <td align=\'left\'>");
+document.writeln("<div class=\'jyyzt-txt1\'>");
+document.writeln("	<p align=\'center\'><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>");
+document.writeln("051期</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'>大财神</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>【六肖18码】开:</font><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'><span style=\'background-color: #FF0000\'>蛇49准</span></font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'><br>");
+document.writeln("</font><font face=\'微软雅黑\' color=\'#000000\'  size=\'4\'>");
+document.writeln("[猪17.41牛27.41虎28.40]<br>");
+document.writeln("[<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>13.25羊23.47鼠06.18]<br>");
+document.writeln("	</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>");
+document.writeln("	<span style=\'background-color: #008080\'>资料网</span></font><span style=\'background-color: #008080\'><font face=\'微软雅黑\' color=\'#FFFF00\' size=\'4\'>62827b.com</font><font face=\'微软雅黑\' color=\'#FFFFFF\' size=\'4\'>牢记本站域名</font></span></div>");
+document.writeln("    </td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("<!--开始-->");
+
+
 
 
 

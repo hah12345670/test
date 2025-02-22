@@ -9,59 +9,6 @@ document.writeln("<b><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 
 
 
 
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("030期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>貌美如花</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>蛇25</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("031期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>金风玉露</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猴22</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("032期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>治谱家传</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>兔39</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("033期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>钻冰求火</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>马48</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("034期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>如胶似漆</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>羊23</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
-document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("035期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>互相残杀</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>鸡21</font></font></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
 
 
 document.writeln("<!--开始-->");
@@ -140,10 +87,77 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
 document.writeln("<font style=\'font-size: 11pt\'>");
-document.writeln("044期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>废寝忘食</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
+document.writeln("044期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>废寝忘食</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猪07</font></font></td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
 
 
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("045期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>晚霞如火</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>鼠30</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("046期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>塞翁失马</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>马12</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("047期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>法家拂士</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>马12</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("048期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>朝三暮四</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>鼠18</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("049期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>毛头小子</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猪43</font></font></td></tr>");
+document.writeln("<!--结束-->");
 
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("050期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>天上人间</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>牛05</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("051期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>厚颜无耻</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>蛇49</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("052期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>孤儿寡母</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>猴10</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("053期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>金风玉露</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>羊11</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+document.writeln("<!--开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:2px solid #000\' align=left width=100% height=50>");
+document.writeln("<font style=\'font-size: 11pt\'>");
+document.writeln("054期:<font color=\'#0000FF\'>正版四字梅花诗</font></font><font size=\'4\'>〖<font color=\'#FF0000\'>狼烟四起</font>〗</font><font style=\'font-size: 11pt\'>开<font color=\'#FF0000\'>？00</font></font></td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
 document.writeln("</table>");

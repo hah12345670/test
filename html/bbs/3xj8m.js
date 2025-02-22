@@ -7,29 +7,6 @@ document.writeln("<!-- -->");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
-document.writeln("				<p style=\"text-align: left\">");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>044期</font></b>七肖中特：62827a.com长期跟踪</td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">牛鼠马兔猪龙狗</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("									<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">牛鼠马兔</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("");
-document.writeln("</table> ");
-document.writeln("<!--开始 -->");
 
 document.writeln("");
 document.writeln("<!--开始 -->");
@@ -37,94 +14,29 @@ document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' c
 document.writeln("			<tr>");
 document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
 document.writeln("				<p style=\"text-align: left\">");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>043期</font></b>七肖中特：62827a.com长期跟踪</td>");
+document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>053期</font></b>七肖中特：62827a.com长期跟踪</td>");
 document.writeln("			</tr>");
 document.writeln("						<tr>");
 document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
 document.writeln("				<p align=\"left\">");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">猪兔牛猴马龙<span style=\'background-color: #FFFF00\'>蛇</span></font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">龙蛇猴马兔鼠虎</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("									<tr>");
 document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
 document.writeln("				<p align=\"left\">");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">猪兔牛猴</font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">龙蛇猴马</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("");
 document.writeln("</table> ");
 document.writeln("<!--开始 -->");
 
-document.writeln("");
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
-document.writeln("				<p style=\"text-align: left\">");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>041期</font></b>七肖中特：62827a.com长期跟踪</td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">马鸡狗猪蛇鼠<span style=\'background-color: #FFFF00\'>虎</span></font></b></td>");
-document.writeln("			</tr>");
-document.writeln("									<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">马鸡狗猪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("");
-document.writeln("</table> ");
-document.writeln("<!--开始 -->");
 
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
-document.writeln("				<p style=\"text-align: left\">");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>038期</font></b>七肖中特：62827a.com长期跟踪</td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\"><span style=\'background-color: #FFFF00\'>狗</span>猴虎鸡猪兔鼠</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("									<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\"><span style=\'background-color: #FFFF00\'>狗</span>猴虎鸡</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("");
-document.writeln("</table> ");
-document.writeln("<!--开始 -->");
 
-document.writeln("");
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFF99;\' width=\'100%\'>");
-document.writeln("				<p style=\"text-align: left\">");
-document.writeln("				<b><font size=\'5\' color=\'#6600CC\'>037期</font></b>七肖中特：62827a.com长期跟踪</td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">狗龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>猴兔猪虎</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("									<tr>");
-document.writeln("				<td bgcolor=\'#F4F4F4\' align=\"center\">");
-document.writeln("				<p align=\"left\">");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(4.)肖特:</font><font color=\'#FF0000\' style=\"font-size: 14pt\">狗龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>猴</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("");
-document.writeln("</table> ");
-document.writeln("<!--开始 -->");
+
+
+
 
 
 

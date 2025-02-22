@@ -1,0 +1,128 @@
+﻿document.writeln("");
+document.writeln("");
+document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#0000FF><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>特肖合集</font><font color=\'#FFFFFF\'>『稳定高手』</font></font></b></td></tr></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=25 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（王者六肖）</font><br>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
+
+
+document.writeln("051期王者六肖【狗龙兔羊<span style=\'background-color: #FFFF00\'>蛇</span>猪】√<br>");
+document.writeln("052期王者六肖【龙牛<span style=\'background-color: #FFFF00\'>猴</span>鼠猪虎】√<br>");
+document.writeln("053期王者六肖【虎狗牛猪龙马】×<br>");
+document.writeln("054期王者六肖【龙猴猪鸡马鼠】√<br>");
+
+document.writeln("		");
+document.writeln("		<br></font>	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("");
+document.writeln("</table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=25 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（稳定七肖）</font><br>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
+
+document.writeln("042-043期￥猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>兔龙狗马鸡￥042期√<br>");
+document.writeln("045-046期￥蛇<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>牛鸡猪虎羊￥046期√<br>");
+document.writeln("047-048期￥猪猴虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>兔牛鼠￥047期√<br>");
+document.writeln("048-049期￥牛马鸡龙猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>蛇￥048期√<br>");
+document.writeln("053-054期￥狗鸡猴虎马龙猪￥000期√<br>");
+
+document.writeln("	");
+document.writeln("		<br></font>	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("");
+document.writeln("</table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=25 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（家野四肖）</font><br>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
+
+document.writeln("053期【家禽：牛马<span style=\'background-color: #FFFF00\'>羊</span>猪】开羊11√<br>");
+document.writeln("054期【家禽：牛马羊鸡】开？00√<br>");
+
+
+document.writeln("		<br></font>	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("");
+document.writeln("</table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=25 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（长跟九肖）</font><br>");
+document.writeln("		");
+document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
+
+
+document.writeln("047期【兔狗鸡蛇<span style=\'background-color: #FFFF00\'>马</span>鼠猪龙羊】开马12√<br>");
+document.writeln("048期【龙鸡羊马猴狗<span style=\'background-color: #FFFF00\'>鼠</span>兔蛇】开鼠18√<br>");
+document.writeln("049期【虎牛蛇猴龙鸡<span style=\'background-color: #FFFF00\'>猪</span>狗兔】开猪43√<br>");
+document.writeln("050期【龙虎羊<span style=\'background-color: #FFFF00\'>牛</span>马狗鼠猪蛇】开牛05√<br>");
+document.writeln("051期【龙虎鼠狗猪羊<span style=\'background-color: #FFFF00\'>蛇</span>兔鸡】开蛇49√<br>");
+document.writeln("052期【龙兔羊狗猪蛇鼠牛马】开猴10×<br>");
+document.writeln("053期【猪马蛇虎狗鸡<span style=\'background-color: #FFFF00\'>羊</span>猴鼠】开羊11√<br>");
+document.writeln("054期【马羊狗龙猴虎牛鸡猪】开？00√<br>");
+
+document.writeln("		<br></font>	");
+document.writeln("		</b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
+document.writeln("");
+document.writeln("</table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");

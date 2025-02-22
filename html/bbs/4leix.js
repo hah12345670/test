@@ -43,8 +43,6 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -52,7 +50,7 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>044期四类<font color=\'#008000\'>【家臣美女】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>053期四类<font color=\'#008000\'>【君王美女】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>？00</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
@@ -63,11 +61,21 @@ document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font style=\'font-size: 14pt\'>043期四类<font color=\'#008000\'>【君王<span style=\'background-color: #FFFF00\'>美女</span>】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>蛇37</font>准</span></font></b></td>");
+document.writeln("		<font style=\'font-size: 14pt\'>052期四类<font color=\'#008000\'>【<span style=\'background-color: #FFFF00\'>恶人</span>家臣】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>猴10</font>准</span></font></b></td>");
 document.writeln("    </tr>");
 document.writeln(" <!--结束--> ");
 
 
+document.writeln("<!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'><b>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 14pt\'>050期四类<font color=\'#008000\'>【君王<span style=\'background-color: #FFFF00\'>家臣</span>】</font></font><span style=\'font-size: 14pt\'>开<font color=\'#808000\'>牛05</font>准</span></font></b></td>");
+document.writeln("    </tr>");
+document.writeln(" <!--结束--> ");
 
 
 

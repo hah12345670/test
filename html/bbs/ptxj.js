@@ -24,66 +24,64 @@ document.writeln("");
 
 
 
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>044期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>053期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【鼠兔龙蛇羊鸡】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【牛虎马猴狗猪】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>18.30.15.27.14.38.25.49.11.23.09.33</table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>05.17.16.28.12.36.21.33.20.44.07.19</table>");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>043期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>051期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【鼠兔龙<span style=\'background-color: #FFFF00\'>蛇</span>羊鸡】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>18.30.15.27.14.38.25.49.11.23.09.33</table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>06.42.15.39.14.26.25.<span style=\'background-color: #FFFF00\'>49</span>.23.47.33.45</table>");
 
-
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
+document.writeln("	<font color=\'#FF00FF\'>050期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【<span style=\'background-color: #FFFF00\'>牛</span>虎马猴狗猪】</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>29.41.28.40.24.36.22.34.20.32.19.43</table>");
 
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>040期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>048期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【牛虎马猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>猪】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【<span style=\'background-color: #FFFF00\'>鼠</span>兔龙蛇羊鸡】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>05.17.28.40.12.36.10.22.08.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">20</span></font>.19.31</table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>039期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>马猴狗猪】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>05.17.28.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">40</span></font>.24.36.22.46.20.44.07.19</table>");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>037期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【鼠兔龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>羊鸡】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>06.30.15.27.14.26.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">25</span></font>.37.11.23.21.45</table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>30.42.03.15.14.26.25.49.11.23.21.33</table>");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#FF00FF\'>036期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("	<font color=\'#FF00FF\'>046期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font>虎马猴狗猪】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆大【牛虎<span style=\'background-color: #FFFF00\'>马</span>猴狗猪】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>05.17.16.28.24.36.22.34.32.44.07.19</table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>17.41.16.28.<span style=\'background-color: #FFFF00\'>12</span>.48.10.22.08.32.19.31</table>");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
+document.writeln("	<font color=\'#FF00FF\'>045期</font><font color=\'#0000FF\'>&#10095;【赢钱六肖12码】&#10096;</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>胆小【<span style=\'background-color: #FFFF00\'>鼠</span>兔龙蛇羊鸡】</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>06.<span style=\'background-color: #FFFF00\'>30</span>.03.15.14.26.13.49.11.23.09.33</table>");
+
 
 document.writeln("</body>");
 document.writeln("</html>");

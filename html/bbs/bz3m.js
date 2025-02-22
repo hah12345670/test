@@ -27,6 +27,21 @@ document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 
 
 
 
+document.writeln("      <!--开始-->");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
+document.writeln("		<p align=\'center\'>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		<b>");
+document.writeln("		");
+document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
+document.writeln("052-054期<font style=\'font-size: 14pt\'>【龙02.14.26】</font>第?0期中</span></font></font></b></td>");
+document.writeln("    </tr>");
+document.writeln("      <!--开始-->");
+
+
 
 document.writeln("      <!--开始-->");
 document.writeln("    ");
@@ -38,7 +53,7 @@ document.writeln("		");
 document.writeln("		<b>");
 document.writeln("		");
 document.writeln("		<font style=\'font-size: 12pt\'>★稳赚计划★【独家三码】火爆全网<br><font color=\'#FF0000\'>");
-document.writeln("042-044期<font style=\'font-size: 14pt\'>【鸡09.33.45】</font>第?0期中</span></font></font></b></td>");
+document.writeln("051-053期<font style=\'font-size: 14pt\'>【猴<span style=\'background-color: #FFFF00\'>22</span>.34.46】</font>第051期中</span></font></font></b></td>");
 document.writeln("    </tr>");
 document.writeln("      <!--开始-->");
 

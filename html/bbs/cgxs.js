@@ -19,16 +19,19 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 20pt\'>62827b.com</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『彩哥心水』</font></b></table>");
 document.writeln("");
 
+
 document.writeln("<!--开始-->");
 document.writeln("	<tr>");
 document.writeln("      <td height=42 bgcolor=\'#FFFFFF\' >");
 document.writeln("		<p align=\'center\'><b>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
-document.writeln("		<font color=\'#000000\'>044期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【马蛇狗鼠鸡】</font><font color=\'#000000\'>开？00准</font>  ");
+document.writeln("		<font color=\'#000000\'>054期绝杀五肖</font><font color=\'#008000\' style=\'font-size: 14pt\'>【猪龙狗兔牛】</font><font color=\'#000000\'>开？00准</font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
 document.writeln("<!--开始-->");
+
+
 
 
 

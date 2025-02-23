@@ -49,7 +49,9 @@ document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decoration: none\">");
 document.writeln("");
 
-document.writeln("053期三肖中特<b><font size=\"5\">【龙牛兔】</font></b>开:？00准 <br>	");
+document.writeln("054期三肖中特<b><font size=\"5\">【虎牛马】</font></b>开:？00准 <br>	");
+document.writeln("");
+document.writeln("053期三肖中特<b><font size=\"5\">【龙牛兔】</font></b>开:羊11错 <br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("052期三肖中特<b><font size=\"5\">【鼠牛<span style=\"background-color: #FFFF00\">猴</span>】</font></b>开:猴10准 <br>	");

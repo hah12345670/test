@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【本站推荐】(才艺三肖)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【归彩】(8码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -49,22 +49,15 @@ document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decoration: none\">");
 document.writeln("");
 
-document.writeln("");
-document.writeln("055期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开？00准<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	【龙马虎】</span><br></font><br>");
-document.writeln("	");
-document.writeln("054期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开蛇25准<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	【<span style=\"background-color: #FFFF00\">蛇</span>鸡兔】</span><br></font><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("053期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开羊11准<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	【猴猪<span style=\"background-color: #FFFF00\">羊</span>】</span><br></font><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("052期:<font color=\"#FFFFFF\"><span style=\"background-color: #000000\">（才艺三肖）</span></font>开猴10准<font c olor=\"#FF0000\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	【<span style=\"background-color: #FFFF00\">猴</span>猪羊】</span><br></font><br>");
 
+document.writeln("	055期44<br>");
+document.writeln("	【22.<span style=\'background-color: #FFFF00\'>44</span>.21.40】<br>");
+document.writeln("	【19.03.43.34】<br>	<br>");
+
+
+document.writeln("	056期？<br>");
+document.writeln("	【40.20.32.45】<br>");
+document.writeln("	【29.19.04.23】<br>	<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

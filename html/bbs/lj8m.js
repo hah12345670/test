@@ -55,10 +55,10 @@ document.writeln("	【22.<span style=\'background-color: #FFFF00\'>44</span>.21.
 document.writeln("	【19.03.43.34】<br>	<br>");
 
 
-document.writeln("	056期？<br>");
-document.writeln("	【40.20.32.45】<br>");
-document.writeln("	【29.19.04.23】<br>	<br>");
-document.writeln("");
+
+document.writeln("	057期？<br>");
+document.writeln("	【31.34.43.33】<br>");
+document.writeln("	【41.21.08.14】<br>	<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("		");

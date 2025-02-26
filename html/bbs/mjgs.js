@@ -31,7 +31,8 @@ document.writeln("");
 
 document.writeln("056期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("057期单双【单数+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期单双【单数+龙虎】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("058期单双【双数+蛇牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -55,8 +56,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-
-document.writeln("057期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -85,7 +85,8 @@ document.writeln("053期天地【天肖+蛇<span style=\'background-color: #FFFF
 document.writeln("054期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("055期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("056期天地【天肖+蛇羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("057期天地【地肖+猪蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -118,7 +119,8 @@ document.writeln("053期前后【前肖+猪狗】<font color=\"#FF0000\">×</fon
 document.writeln("054期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("055期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("056期前后【后肖+<span style=\'background-color: #FFFF00\'>鼠</span>兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("057期前后【后肖+虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 

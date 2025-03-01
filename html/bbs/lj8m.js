@@ -58,9 +58,13 @@ document.writeln("	05.17.15.39<br><br>");
 document.writeln("	058期鼠兔<span style=\'background-color: #FFFF00\'>猪</span><br>");
 document.writeln("	22.46.09.21<br><br>");
 
-document.writeln("	059期兔鼠马<br>");
+document.writeln("	059期兔鼠<span style=\'background-color: #FFFF00\'>马</span><br>");
 document.writeln("	09.45.10.22<br><br>");
-document.writeln("");
+
+
+document.writeln("	060期狗羊鸡<br>");
+document.writeln("	16.40.25.49<br><br>");
+
 document.writeln("");
 document.writeln("		");
 document.writeln("");

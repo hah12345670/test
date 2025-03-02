@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【归彩】(8码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【【神经】(3肖4码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

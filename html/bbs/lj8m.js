@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【【神经】(3肖4码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【三流汉子】(4肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -50,23 +50,14 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decorati
 document.writeln("");
 
 
-document.writeln("	056期马<span style=\'background-color: #FFFF00\'>鼠</span>虎<br>");
-document.writeln("	03.15.20.32<br><br>");
-document.writeln("	057期鼠<span style=\'background-color: #FFFF00\'>狗</span>猪<br>");
-document.writeln("	05.17.15.39<br><br>");
 
-document.writeln("	058期鼠兔<span style=\'background-color: #FFFF00\'>猪</span><br>");
-document.writeln("	22.46.09.21<br><br>");
-
-document.writeln("	059期兔鼠<span style=\'background-color: #FFFF00\'>马</span><br>");
-document.writeln("	09.45.10.22<br><br>");
-
-
-document.writeln("	060期狗<span style=\'background-color: #FFFF00\'>羊</span>鸡<br>");
-document.writeln("	16.40.25.49<br><br>");
-
-document.writeln("	062期猴狗虎<br>");
-document.writeln("	09.21.14.26<br><br>");
+document.writeln("057期【<span style=\'background-color: #FFFF00\'>狗</span>羊虎牛】<br><br>");
+document.writeln("058期【狗龙鸡<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
+document.writeln("059期【猪<span style=\'background-color: #FFFF00\'>马</span>虎龙】<br><br>");
+document.writeln("060期【龙鼠鸡<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
+document.writeln("061期【<span style=\'background-color: #FFFF00\'>猴</span>兔狗虎】<br><br>");
+document.writeln("062期【<span style=\'background-color: #FFFF00\'>羊</span>牛狗猪】<br><br>");
+document.writeln("063期【龙猴虎狗】<br><br>");
 
 document.writeln("");
 document.writeln("		");

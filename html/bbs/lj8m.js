@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【三流汉子】(4肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【小妖女】(2+1肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -51,13 +51,10 @@ document.writeln("");
 
 
 
-document.writeln("057期【<span style=\'background-color: #FFFF00\'>狗</span>羊虎牛】<br><br>");
-document.writeln("058期【狗龙鸡<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
-document.writeln("059期【猪<span style=\'background-color: #FFFF00\'>马</span>虎龙】<br><br>");
-document.writeln("060期【龙鼠鸡<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
-document.writeln("061期【<span style=\'background-color: #FFFF00\'>猴</span>兔狗虎】<br><br>");
-document.writeln("062期【<span style=\'background-color: #FFFF00\'>羊</span>牛狗猪】<br><br>");
-document.writeln("064期【马蛇羊狗】<br><br>");
+document.writeln(" 062期【<span style=\'background-color: #FFFF00\'>羊</span>虎+狗】<br><br>");
+document.writeln(" 063期【狗鸡+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
+document.writeln(" 064期【马龙+<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
+document.writeln(" 065期【鼠龙+猴】<br><br>");
 
 document.writeln("");
 document.writeln("		");

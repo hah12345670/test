@@ -54,7 +54,7 @@ document.writeln("");
 document.writeln(" 062期【<span style=\'background-color: #FFFF00\'>羊</span>虎+狗】<br><br>");
 document.writeln(" 063期【狗鸡+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
 document.writeln(" 064期【马龙+<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
-document.writeln(" 065期【鼠龙+猴】<br><br>");
+document.writeln(" 066期【羊鸡+马】<br><br>");
 
 document.writeln("");
 document.writeln("		");

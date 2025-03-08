@@ -33,7 +33,8 @@ document.writeln("063期单双【双数+<span style=\'background-color: #FFFF00\
 document.writeln("064期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("065期单双【单数+<span style=\'background-color: #FFFF00\'>马</span>猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("066期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("067期单双【双数+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("067期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("068期单双【单数+马鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -66,7 +67,8 @@ document.writeln("063期家野【野兽+牛马】<font color=\"#FF0000\">×</fon
 document.writeln("064期家野【野兽+<span style=\'background-color: #FFFF00\'>猪</span>马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("065期家野【野兽+<span style=\'background-color: #FFFF00\'>马</span>羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("066期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("067期家野【家禽+虎兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("067期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("068期家野【家禽+兔鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -88,7 +90,9 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("067期天地【地肖+龙马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("067期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("068期天地【地肖+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -116,7 +120,8 @@ document.writeln("064期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("065期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("066期前后【前肖+<span style=\'background-color: #FFFF00\'>马</span>羊】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("067期前后【后肖+兔蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("067期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+兔蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("068期前后【后肖+鼠兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 

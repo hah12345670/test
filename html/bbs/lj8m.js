@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【小妖女】(2+1肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【归彩】(8码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -50,12 +50,28 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decorati
 document.writeln("");
 
 
+document.writeln("	062期？<br>");
+document.writeln("	【36.26.48.24】<br>");
+document.writeln("	【<span style=\'background-color: #FFFF00\'>35</span>.49.04.20】<br>	<br>");
 
-document.writeln(" 062期【<span style=\'background-color: #FFFF00\'>羊</span>虎+狗】<br><br>");
-document.writeln(" 063期【狗鸡+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
-document.writeln(" 064期【马龙+<span style=\'background-color: #FFFF00\'>猪</span>】<br><br>");
-document.writeln(" 066期【羊鸡+<span style=\'background-color: #FFFF00\'>马</span>】<br><br>");
-document.writeln(" 068期【羊兔+猴】<br><br>");
+
+document.writeln("	064期？<br>");
+document.writeln("	【39.<span style=\'background-color: #FFFF00\'>31</span>.01.06】<br>");
+document.writeln("	【13.19.37.11】<br>	<br>");
+
+document.writeln("	066期？<br>");
+document.writeln("	【20.39.<span style=\'background-color: #FFFF00\'>12</span>.45】<br>");
+document.writeln("	【08.36.43.01】<br>	<br>");
+
+
+document.writeln("	068期？<br>");
+document.writeln("	【06.08.16.07】<br>");
+document.writeln("	【<span style=\'background-color: #FFFF00\'>44</span>.43.30.23】<br>	<br>");
+
+document.writeln("	069期？<br>");
+document.writeln("	【10.06.25.17】<br>");
+document.writeln("	【18.09.12.40】<br>	<br>");
+
 document.writeln("");
 document.writeln("		");
 document.writeln("");

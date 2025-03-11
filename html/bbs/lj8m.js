@@ -68,9 +68,10 @@ document.writeln("	068期？<br>");
 document.writeln("	【06.08.16.07】<br>");
 document.writeln("	【<span style=\'background-color: #FFFF00\'>44</span>.43.30.23】<br>	<br>");
 
-document.writeln("	069期？<br>");
-document.writeln("	【10.06.25.17】<br>");
-document.writeln("	【18.09.12.40】<br>	<br>");
+document.writeln("	070期？<br>");
+document.writeln("	【23.04.12.06】<br>");
+document.writeln("	【47.38.25.46】<br>	<br>");
+
 
 document.writeln("");
 document.writeln("		");

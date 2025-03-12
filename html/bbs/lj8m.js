@@ -50,27 +50,14 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decorati
 document.writeln("");
 
 
-document.writeln("	062期？<br>");
-document.writeln("	【36.26.48.24】<br>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>35</span>.49.04.20】<br>	<br>");
-
-
-document.writeln("	064期？<br>");
-document.writeln("	【39.<span style=\'background-color: #FFFF00\'>31</span>.01.06】<br>");
-document.writeln("	【13.19.37.11】<br>	<br>");
-
-document.writeln("	066期？<br>");
-document.writeln("	【20.39.<span style=\'background-color: #FFFF00\'>12</span>.45】<br>");
-document.writeln("	【08.36.43.01】<br>	<br>");
-
-
-document.writeln("	068期？<br>");
-document.writeln("	【06.08.16.07】<br>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>44</span>.43.30.23】<br>	<br>");
-
-document.writeln("	070期？<br>");
-document.writeln("	【23.04.12.06】<br>");
-document.writeln("	【47.38.25.46】<br>	<br>");
+document.writeln("<font face=\"微软雅黑\"><font style=\"font-size: 16pt\">");
+document.writeln("069期:【大亨送彩】二肖四码开:<span class=\"style2\">牛29</span>中		");
+document.writeln("<br>【鸡蛇】【11.35.17.<span style=\"background-color: #FFFF00\">29</span>】<br><br>");
+document.writeln("");
+document.writeln("070期:【大亨送彩】二肖四码开:<span class=\"style2\">猪43</span>中		");
+document.writeln("<br>【蛇<span style=\"background-color: #FFFF00\">猪</span>】【08.44.11.47】<br><br>");
+document.writeln("071期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【蛇牛】【09.21.16.28】<br><br>");
 
 
 document.writeln("");

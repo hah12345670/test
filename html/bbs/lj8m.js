@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【归彩】(8码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【小情怀】(12码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -50,18 +50,17 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decorati
 document.writeln("");
 
 
-document.writeln("<font face=\"微软雅黑\"><font style=\"font-size: 16pt\">");
-document.writeln("069期:【大亨送彩】二肖四码开:<span class=\"style2\">牛29</span>中		");
-document.writeln("<br>【鸡蛇】【11.35.17.<span style=\"background-color: #FFFF00\">29</span>】<br><br>");
-document.writeln("");
-document.writeln("070期:【大亨送彩】二肖四码开:<span class=\"style2\">猪43</span>中		");
-document.writeln("<br>【蛇<span style=\"background-color: #FFFF00\">猪</span>】【08.44.11.47】<br><br>");
-document.writeln("071期:【大亨送彩】二肖四码开:<span class=\"style2\">蛇49</span>中		");
-document.writeln("<br>【<span style=\'background-color: #FFFF00\'>蛇</span>牛】【09.21.16.28】<br><br>");
 
-document.writeln("072期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
-document.writeln("<br>【牛猴】【09.21.23.47】<br><br>");
+document.writeln("071期<br>");
+document.writeln("<span style=\'background-color: #FFFF00\'>49</span>.21.03.46.18.04<br>");
+document.writeln("39.37.11.26.12.35<br><br>");
+document.writeln("072期<br>");
+document.writeln("38.42.39.15.41.44<br>");
+document.writeln("02.<span style=\'background-color: #FFFF00\'>40</span>.28.26.16.31<br><br>");
 
+document.writeln("073期<br>");
+document.writeln("44.07.08.41.02.06<br>");
+document.writeln("23.39.14.15.11.34<br><br>");
 
 document.writeln("");
 document.writeln("		");
@@ -75,7 +74,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网高手榜查看更多记录</font></span><p align=\'center\'>");
+document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网首页查看更多记录</font></span><p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【62109b.com】</font></span></p></a></td>");
 document.writeln("	</tr>");
 document.writeln("</table>");

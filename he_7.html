@@ -194,6 +194,10 @@
 		<div class="">
 		    <div class="swiper-wrapper">
 			    <div class="swiper-slide">
+			    		<div class="qid" data-i="073" data-name="amlrw.jpg">
+			    			第073期 
+			    		</div>
+			    	</div><div class="swiper-slide">
 			    		<div class="qid" data-i="072" data-name="amlrw.jpg">
 			    			第072期 
 			    		</div>
@@ -598,20 +602,53 @@
 		font-size: 18px;
 		text-align: center;
 	}
-	#lins2 a:nth-child(2) {
-	    font-weight: bold;
-	    animation: a2 700ms infinite;
-    }
-    
-    #lins2 a:nth-child(3) {
-        background: #f00;
-        color: #ff0;
-    }
-    
-    #lins2 a:last-child {
-      background: #ff0;
-      color: #f00;
-    }
+	.buttonbox {
+		position: fixed;
+		bottom: 5%;
+		right: 2%;
+		transform: translate(-50%, -50%);
+		width: 130px;
+		height: 200px;
+		z-index: 10000;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		background-color: #fff;
+		border-radius: 5px;
+		box-shadow: 1px 2px 5px 2px #ccc;
+		border: 1px #eae0e0 solid;
+		
+	}
+
+	.buttonbox a {
+		display: block;
+		text-align: center;
+		width: 100px;
+		line-height: 30px;
+		background: linear-gradient(to bottom, #f00, #d51256);
+		margin: 10px 0;
+		padding: 5px;
+		border-radius: 5px;
+		box-shadow: 1px 2px 5px 2px #f00;
+		color: #fdfdfd;
+		border: 1px solid #fff;
+	}
+	
+	.buttonbox a:first-child{
+		font-weight: bold;
+		animation: a2 700ms infinite;
+	}
+
+	.buttonbox a:nth-child(2) {
+		background: linear-gradient(to bottom, #2da906, #23d40b);
+		box-shadow: 1px 2px 5px 2px #2da906;
+	}
+
+	.buttonbox a:last-child {
+		background: linear-gradient(to bottom, #0060ff, #1219d5);
+		box-shadow: 1px 2px 5px 2px #0060ff;
+	}
 </style>
 <div class="nav">
     <div class="tab" onclick="goToHome()">
@@ -642,8 +679,7 @@
 	<a href="/Article/lts3">交流三线(旧)</a>
 	<p>提示:如果账号登录不上或浏览器保存过<br>账号密码,请尝试进入二,三线登录</p>
 </div>
-<div id="lins2" class="lintab" style="display: none">
-	<span id="a_close1" class="linhid">x</span>
+<div class="buttonbox" style="display: none">
 	<a href="https://gg.5388gg.com:8443/s/21tgaqon">大发彩票</a>
 	<a href="https://gg.5789gg.com:1888/s/huw0x0hm">凤凰彩票</a>
 	<a href="https://gg.2828gggg.biz:1888/s/fydyp3tg">2828彩票</a>
@@ -681,7 +717,7 @@
         border: 1px solid #fff;
     }
 </style>
-<a class="tzan" onclick="lins1()" style="position: fixed;z-index: 999;right: 6px;bottom: 110px;display: block;border-radius: 50%;background: #f39f20;width: 2.4rem;height: 2.4rem;line-height: 2.4rem;text-align: center;box-shadow: 0px 3px 0px #d57b1d;color: #fdfdfd;border: 1px solid #fff;">投注</a>
+<a class="tzan" style="position: fixed;z-index: 999;right: 6px;bottom: 110px;display: block;border-radius: 50%;background: #f39f20;width: 2.4rem;height: 2.4rem;line-height: 2.4rem;text-align: center;box-shadow: 0px 3px 0px #d57b1d;color: #fdfdfd;border: 1px solid #fff;">投注</a>
 <a class="pl-content" onclick="lins()" style="position: fixed;z-index: 999;right: 6px;bottom: 160px;display: block;border-radius: 50%;background: #f00;width: 2.4rem;height: 2.4rem;line-height: 2.4rem;text-align: center;box-shadow: 0px 3px 0px #f00;color: #fdfdfd;border: 1px solid #fff;">交流</a>
 <a class="tele" href="https://t.me/tk49kj"></a>
 <script>
@@ -710,12 +746,13 @@
 	$('#a_close').click(function() {
 		$('#lins1').hide(400);
 	})
-	function lins1() {
-		$('#lins2').show(400);
-	}
-	$('#a_close1').click(function() {
-		$('#lins2').hide(400);
-	})
+	$(document).click(function(e) {
+		if (!$(e.target).closest('.tzan, .buttonbox').length) { // 检查点击位置是否在浮窗或按钮上
+			$('.buttonbox').fadeOut(400); // 隐藏浮窗，带淡出动画效果
+		} else {
+			$(".buttonbox").toggle(400);
+		}
+	});
 </script>
 	<script type="text/javascript" charset="utf-8">
 Echo.init({

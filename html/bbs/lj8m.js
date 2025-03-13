@@ -56,8 +56,11 @@ document.writeln("<br>【鸡蛇】【11.35.17.<span style=\"background-color: #F
 document.writeln("");
 document.writeln("070期:【大亨送彩】二肖四码开:<span class=\"style2\">猪43</span>中		");
 document.writeln("<br>【蛇<span style=\"background-color: #FFFF00\">猪</span>】【08.44.11.47】<br><br>");
-document.writeln("071期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
-document.writeln("<br>【蛇牛】【09.21.16.28】<br><br>");
+document.writeln("071期:【大亨送彩】二肖四码开:<span class=\"style2\">蛇49</span>中		");
+document.writeln("<br>【<span style=\'background-color: #FFFF00\'>蛇</span>牛】【09.21.16.28】<br><br>");
+
+document.writeln("072期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【牛猴】【09.21.23.47】<br><br>");
 
 
 document.writeln("");

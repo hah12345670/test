@@ -28,7 +28,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\'_blank\' href=\'https://x9.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#qwt35\'>");
+document.writeln("<a target=\'_blank\' href=\'https://x12.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#qwt35\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("		");

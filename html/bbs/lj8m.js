@@ -58,9 +58,9 @@ document.writeln("072期<br>");
 document.writeln("38.42.39.15.41.44<br>");
 document.writeln("02.<span style=\'background-color: #FFFF00\'>40</span>.28.26.16.31<br><br>");
 
-document.writeln("073期<br>");
-document.writeln("44.07.08.41.02.06<br>");
-document.writeln("23.39.14.15.11.34<br><br>");
+document.writeln("074期<br>");
+document.writeln("09.28.44.46.30.39<br>");
+document.writeln("29.27.14.18.43.36<br>");
 
 document.writeln("");
 document.writeln("		");

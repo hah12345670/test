@@ -27,7 +27,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-document.writeln("073期单双【单数+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("073期单双【<span style=\'background-color: #FFFF00\'>单数</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("074期单双【双数+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -60,7 +61,8 @@ document.writeln("069期家野【野兽+狗马】<font color=\"#FF0000\">×</fon
 document.writeln("070期家野【野兽+<span style=\'background-color: #FFFF00\'>猪</span>马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("071期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("072期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("073期家野【家禽+蛇猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("073期家野【家禽+蛇猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("074期家野【野兽+鸡牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -90,7 +92,8 @@ document.writeln("070期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("071期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪马】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("072期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("073期天地【天肖+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("073期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("074期天地【天肖+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -125,7 +128,8 @@ document.writeln("070期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("071期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("072期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊猪】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("073期前后【前肖+狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("073期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("074期前后【后肖+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 

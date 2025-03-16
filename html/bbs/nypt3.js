@@ -21,16 +21,16 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">075期平特3.码<font color=\"#008000\">【猴22.34】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">076期平特3.码<font color=\"#008000\">【马24.36.48】</font>开:00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
-
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">073期平特3.码<font color=\"#008000\">【兔15.39】</font>开:03准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">075期平特3.码<font color=\"#008000\">【猴22.34.46】</font>开:10准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
+
 
 
 

@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【小情怀】(12码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【彩哥心水】（绝杀五肖）</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -46,21 +46,20 @@ document.writeln("");
 document.writeln("</font>		");
 document.writeln("");
 document.writeln("");
-document.writeln("<font color=\"#000000\" style=\"font-size: 16pt; text-decoration: none\">");
+document.writeln("<font color=\"#000000\" style=\"font-size: 13pt; text-decoration: none\">");
 document.writeln("");
 
 
-
-document.writeln("071期<br>");
-document.writeln("<span style=\'background-color: #FFFF00\'>49</span>.21.03.46.18.04<br>");
-document.writeln("39.37.11.26.12.35<br><br>");
-document.writeln("072期<br>");
-document.writeln("38.42.39.15.41.44<br>");
-document.writeln("02.<span style=\'background-color: #FFFF00\'>40</span>.28.26.16.31<br><br>");
-
-document.writeln("074期<br>");
-document.writeln("09.28.44.46.30.39<br>");
-document.writeln("29.27.14.18.43.36<br>");
+document.writeln("076期绝杀五肖【猴狗猪龙马】开？00准<BR>");
+document.writeln("075期绝杀五肖【猴羊牛猪蛇】开鸡09准<BR>");
+document.writeln("");
+document.writeln("074期绝杀五肖【猴马牛狗龙】开羊35准<BR>");
+document.writeln("");
+document.writeln("073期绝杀五肖【狗羊猴马牛】开兔03准<BR>");
+document.writeln("");
+document.writeln("072期绝杀五肖【兔牛鼠龙羊】开虎40准<BR>");
+document.writeln("");
+document.writeln("071期绝杀五肖【虎鼠猪猴牛】开蛇49准<BR><BR>");
 
 document.writeln("");
 document.writeln("		");

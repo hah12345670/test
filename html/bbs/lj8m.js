@@ -50,7 +50,8 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 13pt; text-decorati
 document.writeln("");
 
 
-document.writeln("077期绝杀五肖【狗蛇兔羊龙】开？00准<BR>");
+document.writeln("078期绝杀五肖【兔猴牛龙虎】开？00准<BR>");
+document.writeln("077期绝杀五肖【狗蛇兔羊龙】开猴22准<BR>");
 document.writeln("076期绝杀五肖【猴狗猪龙马】开兔39准<BR>");
 document.writeln("075期绝杀五肖【猴羊牛猪蛇】开鸡09准<BR>");
 document.writeln("");

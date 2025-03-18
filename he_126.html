@@ -116,6 +116,11 @@
 					</div>
 					<div style="clear: both;"></div>
 				</div>
+				<div>
+					<div style="float: left;border: solid 1px #ddd;margin: 5px 5px 5px 0px;padding: 5px;">0 : 15.46 %<br>1 : 34.70 %<br>2 : 31.47 %<br>3 : 14.40 %<br>4 : 3.52 %<br>5 : 0.43 %<br>6 : 0.02 %<br></div>
+					<div style="float: left;border: solid 1px #ddd;margin: 5px 5px 5px 0px;padding: 5px;" id="tj"></div>
+				</div>
+				<div style="clear: both;"></div>
 				<p id="res"></p>
 				<style>
 				.changedStyle {
@@ -178,6 +183,7 @@
 				});
 				write_table(arr1);
 				function write_table(arr1){ // 将选择号码显示table
+					write_protrue(arr1);
 					if (arr1.length == 0) {
 						document.getElementById('res').innerText = '暂未选择!';
 					} else {
@@ -212,6 +218,31 @@
 						// document.write(str_tab);
 						document.getElementById('res').innerHTML = str_tab;
 					}
+				}
+				function write_protrue(arr1){ // 将选择号码正确率统计
+					if (arr1.length == 0) {
+						document.getElementById('tj').innerText = '';
+					} else {
+						let str_arr = [];
+						for (let index1 = 0; index1 < arr.length; index1++) {
+							let zj_arr = intersection(arr1, arr[index1][1]);
+							str_arr.push(zj_arr.length)
+						}
+						let json_arr = countOccurrences(str_arr);
+						let str_tab = '';
+						Object.keys(json_arr).forEach(function(key) {
+							str_tab += key + ": " + json_arr[key] + " %<br>";
+						});
+						document.getElementById('tj').innerHTML = str_tab;
+					}
+				}
+				function countOccurrences(arr1) { // 数组统计每个元素出现的个数
+					const counts = {};
+					for (let i = 0; i < arr1.length; i++) {
+						const num = arr1[i];
+						counts[num] = (counts[num] || 0) + 1;
+					}
+					return counts;
 				}
 				function intersection(arr1, arr2) { // 数组交集
 					return arr1.filter(item => arr2.includes(item));

@@ -54,18 +54,17 @@ document.writeln("");
 
 
 
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("077期玄机诗句<font color=\'#FF0000\'>【连升三级还是小，一山飞峙大江边。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：连升三级还是小，说明地位卑微，狗马鸡猪；一山飞峙大江边，这里又指地位高，龙羊。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙羊狗马鸡猪");
+document.writeln("078期玄机诗句<font color=\'#FF0000\'>【他是若随凌云志，敢笑黄巢不丈夫】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：云解云肖，猴鸡狗；丈夫解男肖，龙虎鼠猴牛马狗。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：龙虎鼠猴牛狗");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
+document.writeln("");
+
+
 
 
 document.writeln("");

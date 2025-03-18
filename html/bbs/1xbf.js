@@ -63,7 +63,7 @@ document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">九肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪蛇狗猴龙羊马虎<span style=\'background-color: #FFFF00\'>兔</span></span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪蛇狗猴龙羊马虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font></span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' width=\'82%\' height=\'35\'><b>");

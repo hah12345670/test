@@ -118,7 +118,7 @@
 				</div>
 				<div>
 					<div style="float: left;border: solid 1px #ddd;margin: 5px 5px 5px 0px;padding: 5px;">0 : 14.98 %<br>1 : 35.68 %<br>2 : 31.78 %<br>3 : 13.90 %<br>4 : 3.23 %<br>5 : 0.40 %<br>6 : 0.02 %<br></div>
-					<div style="float: left;border: solid 1px #ddd;margin: 5px 5px 5px 0px;padding: 5px;" id="tj"></div>
+					<div style="float: left;border: solid 1px #ddd;margin: 5px 5px 5px 0px;padding: 5px;display: none;" id="tj"></div>
 				</div>
 				<div style="clear: both;"></div>
 				<p id="res"></p>
@@ -222,7 +222,9 @@
 				function write_protrue(arr1){ // 将选择号码正确率统计
 					if (arr1.length == 0) {
 						document.getElementById('tj').innerText = '';
+						document.getElementById('tj').style.display = 'none';
 					} else {
+						document.getElementById('tj').style.display = 'block';
 						let str_arr = [];
 						for (let index1 = 0; index1 < arr.length; index1++) {
 							let zj_arr = intersection(arr1, arr[index1][1]);

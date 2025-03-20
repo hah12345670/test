@@ -93,7 +93,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
 document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网首页查看更多记录</font></span><p align=\'center\'>");
-document.writeln("		<span style=\"text-decoration: none; font-weight:700\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【62109b.com】</font></span></p></a></td>");
+document.writeln("		<span style=\"text-decoration: none; font-weight:700\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【62361b.com】</font></span></p></a></td>");
 document.writeln("	</tr>");
 document.writeln("</table>");
 document.writeln("</div>");

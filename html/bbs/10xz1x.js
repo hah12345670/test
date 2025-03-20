@@ -27,6 +27,27 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">080期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.32.44.06.18.30.09.21.33.12.36.48.02.14.26.04.28.40</font></li>");
+document.writeln("            	<li>080期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.32.44.06.18.30.09.21.33</font></li>");
+document.writeln("            	<li>080期必中①肖：<font color=\'#FF0000\' size=\'5\'>（狗-08.32.44）</font></li>");
+document.writeln("            	<li>080期必中③肖：<font color=\'#FF0000\' size=\'4\'>狗鼠鸡</font></li>");
+document.writeln("            	<li>080期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>狗鼠鸡马龙虎</font></li>");
+document.writeln("            	<li>080期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>狗鼠鸡马龙虎牛猴</font></li>");
+document.writeln("             	<li>080期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>狗鼠鸡马龙虎牛猴蛇猪</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,13 +56,13 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">079期必中18码：</font><font color=\'#FF0000\' size=\'2\'>10.34.46.08.20.44.04.28.40.11.23.47.07.31.43.13.25.49</font></li>");
-document.writeln("            	<li>079期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">10.34.46.08.20.44.04.28.40</font></li>");
-document.writeln("            	<li>079期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猴-10.34.46）</font></li>");
-document.writeln("            	<li>079期必中③肖：<font color=\'#FF0000\' size=\'4\'>猴狗虎</font></li>");
-document.writeln("            	<li>079期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猴狗虎羊猪蛇</font></li>");
-document.writeln("            	<li>079期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猴狗虎羊猪蛇鸡鼠</font></li>");
-document.writeln("             	<li>079期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>猴狗虎羊猪蛇鸡鼠马牛</font></li>");
+document.writeln(" 	            <li><font size=\"2\">079期必中18码：</font><font color=\'#FF0000\' size=\'2\'><span style=\'background-color: #FFFF00\'>10</span>.34.46.08.20.44.04.28.40.11.23.47.07.31.43.13.25.49</font></li>");
+document.writeln("            	<li>079期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\"><span style=\'background-color: #FFFF00\'>10</span>.34.46.08.20.44.04.28.40</font></li>");
+document.writeln("            	<li>079期必中①肖：<font color=\'#FF0000\' size=\'5\'>（<span style=\'background-color: #FFFF00\'>10</span>-<span style=\'background-color: #FFFF00\'>10</span>.34.46）</font></li>");
+document.writeln("            	<li>079期必中③肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>10</span>狗虎</font></li>");
+document.writeln("            	<li>079期必中⑥肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>10</span>狗虎羊猪蛇</font></li>");
+document.writeln("            	<li>079期必中⑧肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>10</span>狗虎羊猪蛇鸡鼠</font></li>");
+document.writeln("             	<li>079期必中⑩肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>10</span>狗虎羊猪蛇鸡鼠马牛</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

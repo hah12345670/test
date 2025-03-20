@@ -1,0 +1,83 @@
+title：Python入门/Python编程/Python开发/零基础学Python/数据分析/Python向量化编程/Python文本分析
+url：https://www.youtube.com/watch?v=U_6-bRCrX0U
+就业多的：web后端、数据分析
+少的：爬虫、运维、测试、游戏
+
+c/c++ -> java -> PHP -> javascript -> Python
+
+离散、连续
+连续数据离散化
+多维数据分析（透视表和交叉表）
+
+numpy matplotlib pandas
+
+数据预处理
+指标（均值...）计算、可视化
+建模预测
+总结建议
+
+jupyter notebook
+
+数据：性别 年龄 成绩
+pandas
+分类（离散数量不超过30个、连续）
+a.grade.count()
+a.grade.sum()
+a.grade.mean()均值
+a.grade.median()中位数
+a.grade.min(), a.grade.max()
+a.grade.var()方差， a.grade.std()标准差
+a.grade.descibe()综合统计
+可视化
+连续 推荐直方图a.grade.plot.hist()
+x成绩y默认个数
+推荐直方图a.grade.plot.kde()核密度估计曲线
+推荐箱线图a.grade.plot.box()min-4分位数-max
+离散 频数分布a.gender.value_counts()每类的数量
+相对频数
+a.gender.value_counts()/a.gender.count()*100
+推荐柱状图a.gender.value_counts().plot.bar()
+饼图a.gender.value_counts().plot.pie()
+
+连续数据离散化
+bins = [-1, 59, 69, 79, 100] # 左开右闭
+cats = pd.cut(a.grade, bins)
+cats.value_counts()
+
+cats = pd.cut(a.grade, bins, labels=['差', '中', '好', '优'])
+cats[:5]
+
+cats = pd.qcut(a.grade, 4) # 数量均分
+cats.value_counts()
+
+离散数据连续化
+tmp = a.gender.copy()
+tmp
+tmp[tmp=='male'] = 1
+tmp[tmp=='female'] = 0
+tmp
+复杂数据用哑变量/独热编码
+df = pd.DataFrame({'key':['b', 'b', 'a', 'c', 'a', 'b'], 'data1':range(6)})
+df
+df.key
+pd.get_dummies(df.key) # 独热编码
+
+多维数据分析（分组聚合/透视表/交叉表）
+手动添加数据
+a
+bins = [-1, 5, 15, 20 ,25 ,30 ,100] # 年龄分组
+a['age_cut'] = pd.cut(a.age, bins) # 添加年龄分组列
+a.head() # 2列连续， 2列离散
+
+两列组合分析（一列离散，一列连续）
+分组聚合
+a.groupby('age_cut')['grade'].mean() # 不同年龄段的平均分
+a.groupby('age_cut')['grade'].mean().dropna().plot.bar() # 删除空值
+三列组合
+pd.crosstab(a.age_cut, a.gender) # 不同年龄段/不同性别的个数差异
+交叉表：计算频数，不需要连续数据列用于计算
+# 不同年龄段的平均年龄和平均成绩
+a.groupby('age_cut')['age', 'grade'].mean() # age列没有意义，只是举例
+# 不同年龄段/不同性别的成绩差异(平均分)
+a.pivot_table('grade', index='age_cut', columns='gender')
+透视表：计算均值，需要连续数据列用于计算

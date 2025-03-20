@@ -17,14 +17,7 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-
-document.writeln("072期王者六肖【猪<span style=\'background-color: #FFFF00\'>虎</span>马鼠牛龙】√<br>");
-document.writeln("073期王者六肖【蛇龙马猴<span style=\'background-color: #FFFF00\'>兔</span>鼠】√<br>");
-document.writeln("074期王者六肖【马<span style=\'background-color: #FFFF00\'>羊</span>狗猴鼠鸡】√<br>");
-document.writeln("075期王者六肖【<span style=\'background-color: #FFFF00\'>鸡</span>狗马牛羊兔】√<br>");
-document.writeln("076期王者六肖【猴鼠猪羊狗马】×<br>");
-document.writeln("077期王者六肖【鼠牛猪虎狗龙】×<br>");
-document.writeln("078期王者六肖【牛马龙蛇狗兔】√<br>");
+document.writeln("079期王者六肖【兔蛇猴羊鼠虎】√<br>");
 
 
 
@@ -74,8 +67,8 @@ document.writeln("073-074期￥<span style=\'background-color: #FFFF00\'>兔</sp
 document.writeln("074-075期￥兔狗牛鼠虎蛇<span style=\'background-color: #FFFF00\'>羊</span>￥074期√<br>");
 document.writeln("075-076期￥猴虎鼠龙牛羊<span style=\'background-color: #FFFF00\'>兔</span>￥076期√<br>");
 document.writeln("077-078期￥狗羊<span style=\'background-color: #FFFF00\'>猴</span>蛇猪鸡虎￥077期√<br>");
-document.writeln("078-079期￥猪马鸡虎羊鼠牛￥000期√<br>");
-
+document.writeln("078-079期￥猪马鸡<span style=\'background-color: #FFFF00\'>虎</span>羊鼠牛￥078期√<br>");
+document.writeln("079-080期￥虎羊龙牛兔鸡猴￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -103,7 +96,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("078期【家禽：牛羊鸡狗】开？00√<br>");
+
+document.writeln("079期【野兽：龙猴虎鼠】开？00√<br>");
 
 
 
@@ -136,7 +130,8 @@ document.writeln("074期【猴蛇兔鼠龙狗<span style=\'background-color: #FF
 document.writeln("075期【蛇狗龙鼠兔虎马猴<span style=\'background-color: #FFFF00\'>鸡</span>】开鸡09√<br>");
 document.writeln("076期【鸡猪马羊猴<span style=\'background-color: #FFFF00\'>兔</span>牛蛇虎】开兔39√<br>");
 document.writeln("077期【马羊牛鸡猪蛇虎<span style=\'background-color: #FFFF00\'>猴</span>龙】开猴22√<br>");
-document.writeln("078期【狗兔猴牛龙马鼠虎鸡】开？00√<br>");
+document.writeln("078期【狗兔猴牛龙马鼠<span style=\'background-color: #FFFF00\'>虎</span>鸡】开虎28√<br>");
+document.writeln("079期【马猴牛虎龙蛇羊鼠鸡】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

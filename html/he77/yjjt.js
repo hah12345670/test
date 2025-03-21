@@ -36,7 +36,7 @@ document.writeln("}");
 document.writeln("</style>");
 document.writeln("");
 document.writeln("");
-document.writeln("<div class=\'tit\'>九點半014990.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
+document.writeln("<div class=\'tit\'>九點半757532.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
 document.writeln("");
 document.writeln("<div class=\'ds4x\'>");
 document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpadding=\'0\' bgcolor=\'#FFFFFF\' height=\'80\' style=\'border-left-width: 0px; border-right-width: 0px; border-top-width: 0px\'><tbody>");
@@ -47,18 +47,18 @@ document.writeln("");
 
 
 
-
-
-
 document.writeln("");
+
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("079期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：虎兔龙蛇马羊");
+document.writeln("080期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴鸡狗猪");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
+
+
 
 
 

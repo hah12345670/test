@@ -4,7 +4,7 @@ document.writeln(".style3t {");
 document.writeln("	background-color: #FFFF00;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("<div class=\'tit\'>九点半014990.com<font color=\'#FFFF00\'>【绝杀一尾】</font></div>");
+document.writeln("<div class=\'tit\'>九点半797913.com<font color=\'#FFFF00\'>【绝杀一尾】</font></div>");
 document.writeln("<div class=\'stzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("");
@@ -40,9 +40,14 @@ document.writeln("");
 
 
 
+document.writeln("  <tr>");
+document.writeln("    <td>080期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【8888尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 
 document.writeln("  <tr>");
-document.writeln("    <td>079期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【7777尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>079期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【7777尾】</font>开<font color=\'#ac6a00\'>猴10</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

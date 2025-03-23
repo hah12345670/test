@@ -9,13 +9,15 @@ document.writeln("");
 document.writeln("<table border=\"1\" width=\"100%\" id=\"table400923401\">");
 document.writeln("");
 
+
+
 document.writeln("	<!--gavc-->");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		081期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.2.4.1.6.7.9）</font><br>");
-document.writeln("		081期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.2.4.1）<BR>		");
+document.writeln("		082期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（1.6.8.2.4.5.7）</font><br>");
+document.writeln("		082期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（1.6.8.2）<BR>		");
 document.writeln("		===============</font></font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");

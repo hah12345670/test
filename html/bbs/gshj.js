@@ -21,7 +21,9 @@ document.writeln("079期王者六肖【兔蛇<span style=\'background-color: #FF
 document.writeln("080期王者六肖【牛猴鼠龙<span style=\'background-color: #FFFF00\'>马</span>狗】√<br>");
 document.writeln("081期王者六肖【<span style=\'background-color: #FFFF00\'>龙</span>猪鸡牛蛇马】√<br>");
 document.writeln("082期王者六肖【兔马虎狗羊<span style=\'background-color: #FFFF00\'>猴</span>】√<br>");
-document.writeln("083期王者六肖【蛇羊兔猪狗鸡】√<br>");
+document.writeln("083期王者六肖【蛇羊兔猪狗鸡】×<br>");
+
+document.writeln("084期王者六肖【羊虎兔狗鼠牛】√<br>");
 
 
 
@@ -74,7 +76,9 @@ document.writeln("077-078期￥狗羊<span style=\'background-color: #FFFF00\'>�
 document.writeln("078-079期￥猪马鸡<span style=\'background-color: #FFFF00\'>虎</span>羊鼠牛￥078期√<br>");
 document.writeln("079-080期￥虎羊龙牛兔鸡<span style=\'background-color: #FFFF00\'>猴</span>￥079期√<br>");
 document.writeln("080-081期￥狗羊猴鼠<span style=\'background-color: #FFFF00\'>龙</span>猪虎￥081期√<br>");
-document.writeln("082-083期￥鼠马羊猪蛇狗虎￥000期√<br>");
+document.writeln("082-083期￥鼠马羊猪蛇狗<span style=\'background-color: #FFFF00\'>虎</span>￥083期√<br>");
+document.writeln("084-085期￥猴马兔猪鸡牛虎￥000期√<br>");
+
 
 
 
@@ -106,8 +110,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("083期【野兽：龙虎鼠猴】开？00√<br>");
-
+document.writeln("083期【野兽：龙<span style=\'background-color: #FFFF00\'>虎</span>鼠猴】开虎28√<br>");
+document.writeln("084期【家禽：牛羊马猪】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -144,8 +148,9 @@ document.writeln("079期【马<span style=\'background-color: #FFFF00\'>猴</spa
 document.writeln("080期【兔鼠虎猴蛇羊牛猪<span style=\'background-color: #FFFF00\'>马</span>】开马24√<br>");
 document.writeln("081期【<span style=\'background-color: #FFFF00\'>龙</span>虎猴狗鸡蛇马羊兔】开龙38√<br>");
 document.writeln("082期【马牛虎<span style=\'background-color: #FFFF00\'>猴</span>猪羊龙兔狗】开猴34√<br>");
-document.writeln("083期【龙兔蛇狗猪鸡虎猴牛】开？00√<br>");
+document.writeln("083期【龙兔蛇狗猪鸡<span style=\'background-color: #FFFF00\'>虎</span>猴牛】开虎28√<br>");
 
+document.writeln("084期【马兔鼠龙猪羊鸡狗猴】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

@@ -30,7 +30,25 @@ document.writeln("");
 document.writeln("");
 
 
-
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>085期必中三尾：<font color=\'#FF0000\' size=\'4\'>6-3-0</font></li>");
+document.writeln("            	<li>085期必中五尾：<font color=\'#FF0000\' size=\'4\'>6-3-0-5-1</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>16.36.46.23.33.43.10.20.30.25.35.45.11.21.31</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>16.36.46.23.33.43.10.20.30</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>085期一尾一码：<font color=\'#FF0000\' size=\'6\'>（16）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
@@ -38,10 +56,10 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>084期必中三尾：<font color=\'#FF0000\' size=\'4\'>0-3-7</font></li>");
-document.writeln("            	<li>084期必中五尾：<font color=\'#FF0000\' size=\'4\'>0-3-7-5-8</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>10.20.30.23.33.43.07.17.27.15.25.35.08.18.28</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>10.20.30.23.33.43.07.17.27</font></li>");
+document.writeln("            	<li>084期必中三尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【0】</span>-3-7</font></li>");
+document.writeln("            	<li>084期必中五尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【0】</span>-3-7-5-8</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>10.<span style=\'background-color: #FFFF00\'>【20】</span>.30.23.33.43.07.17.27.15.25.35.08.18.28</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>10.<span style=\'background-color: #FFFF00\'>【20】</span>.30.23.33.43.07.17.27</font></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

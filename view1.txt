@@ -27,7 +27,7 @@ a.grade.mean()均值
 a.grade.median()中位数
 a.grade.min(), a.grade.max()
 a.grade.var()方差， a.grade.std()标准差
-a.grade.descibe()综合统计
+a.grade.describe()综合统计
 可视化
 连续 推荐直方图a.grade.plot.hist()
 x成绩y默认个数

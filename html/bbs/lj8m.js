@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【半面妆容】(3肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【自称马神】(10码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -56,9 +56,15 @@ document.writeln("	086期<br>");
 document.writeln("	（<span style=\'background-color: #FFFF00\'>30</span>.18.25.02.44）<br>");
 document.writeln("	（49.27.20.13.04）<br>	");
 
+
 document.writeln("	087期<br>");
-document.writeln("	（19.41.15.30.24）<br>");
+document.writeln("	（19.41.<span style=\'background-color: #FFFF00\'>15</span>.30.24）<br>");
 document.writeln("	（09.34.26.46.36）<br>	");
+
+document.writeln("	088期<br>");
+document.writeln("	（27.44.16.22.31）<br>");
+document.writeln("	（06.04.47.42.40）<br>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

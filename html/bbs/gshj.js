@@ -26,7 +26,8 @@ document.writeln("083期王者六肖【蛇羊兔猪狗鸡】×<br>");
 document.writeln("084期王者六肖【羊虎兔<span style=\'background-color: #FFFF00\'>狗</span>鼠牛】√<br>");
 document.writeln("085期王者六肖【猴狗<span style=\'background-color: #FFFF00\'>羊</span>鼠蛇牛】√<br>");
 document.writeln("086期王者六肖【狗<span style=\'background-color: #FFFF00\'>鼠</span>鸡猴牛猪】√<br>");
-document.writeln("087期王者六肖【马龙猪牛鼠羊】√<br>");
+document.writeln("087期王者六肖【马龙猪牛鼠羊】×<br>");
+document.writeln("088期王者六肖【鼠兔龙虎马狗】√<br>");
 
 
 
@@ -80,10 +81,10 @@ document.writeln("078-079期￥猪马鸡<span style=\'background-color: #FFFF00\
 document.writeln("079-080期￥虎羊龙牛兔鸡<span style=\'background-color: #FFFF00\'>猴</span>￥079期√<br>");
 document.writeln("080-081期￥狗羊猴鼠<span style=\'background-color: #FFFF00\'>龙</span>猪虎￥081期√<br>");
 document.writeln("082-083期￥鼠马羊猪蛇狗<span style=\'background-color: #FFFF00\'>虎</span>￥083期√<br>");
-document.writeln("084-085期￥猴马兔猪鸡牛虎￥000期√<br>");
+document.writeln("084-085期￥猴马兔猪鸡牛虎￥000期×<br>");
 document.writeln("086-087期￥牛兔猪狗猴虎<span style=\'background-color: #FFFF00\'>鼠</span>￥086期√<br>");
-document.writeln("087-088期￥猪兔虎羊马蛇猴￥000期√<br>");
-
+document.writeln("087-088期￥猪<span style=\'background-color: #FFFF00\'>兔</span>虎羊马蛇猴￥087期√<br>");
+document.writeln("088-089期￥龙鼠猪兔蛇牛猴￥000期√<br>");
 
 
 document.writeln("	");
@@ -118,7 +119,8 @@ document.writeln("083期【野兽：龙<span style=\'background-color: #FFFF00\'
 document.writeln("084期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马猪】开狗20√<br>");
 document.writeln("085期【家禽：马<span style=\'background-color: #FFFF00\'>羊</span>牛狗】开羊35√<br>");
 document.writeln("086期【家禽：鸡狗猪羊】开鼠30×<br>");
-document.writeln("087期【家禽：牛羊马猪】开？00√<br>");
+document.writeln("087期【家禽：牛羊马猪】开兔15×<br>");
+document.writeln("088期【野兽：龙虎猴兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -161,7 +163,9 @@ document.writeln("084期【马兔鼠龙猪羊鸡<span style=\'background-color: 
 
 document.writeln("085期【牛<span style=\'background-color: #FFFF00\'>羊</span>狗猴虎蛇鼠鸡兔】开羊35√<br>");
 document.writeln("086期【羊<span style=\'background-color: #FFFF00\'>鼠</span>马虎鸡狗蛇龙猴】开鼠30√<br>");
-document.writeln("087期【蛇羊猴马兔虎鼠猪龙】开？00√<br>");
+document.writeln("087期【蛇羊猴马<span style=\'background-color: #FFFF00\'>兔</span>虎鼠猪龙】开兔15√<br>");
+
+document.writeln("088期【狗鸡羊虎蛇猪牛兔龙】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

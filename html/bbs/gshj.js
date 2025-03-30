@@ -27,7 +27,9 @@ document.writeln("084期王者六肖【羊虎兔<span style=\'background-color: 
 document.writeln("085期王者六肖【猴狗<span style=\'background-color: #FFFF00\'>羊</span>鼠蛇牛】√<br>");
 document.writeln("086期王者六肖【狗<span style=\'background-color: #FFFF00\'>鼠</span>鸡猴牛猪】√<br>");
 document.writeln("087期王者六肖【马龙猪牛鼠羊】×<br>");
-document.writeln("088期王者六肖【鼠兔龙虎马狗】√<br>");
+document.writeln("088期王者六肖【鼠<span style=\'background-color: #FFFF00\'>兔</span>龙虎马狗】√<br>");
+document.writeln("089期王者六肖【鼠龙狗猪羊牛】√<br>");
+
 
 
 
@@ -84,8 +86,8 @@ document.writeln("082-083期￥鼠马羊猪蛇狗<span style=\'background-color:
 document.writeln("084-085期￥猴马兔猪鸡牛虎￥000期×<br>");
 document.writeln("086-087期￥牛兔猪狗猴虎<span style=\'background-color: #FFFF00\'>鼠</span>￥086期√<br>");
 document.writeln("087-088期￥猪<span style=\'background-color: #FFFF00\'>兔</span>虎羊马蛇猴￥087期√<br>");
-document.writeln("088-089期￥龙鼠猪兔蛇牛猴￥000期√<br>");
-
+document.writeln("088-089期￥龙鼠猪<span style=\'background-color: #FFFF00\'>兔</span>蛇牛猴￥088期√<br>");
+document.writeln("089-090期￥鼠猪猴狗羊鸡龙￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -120,7 +122,8 @@ document.writeln("084期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("085期【家禽：马<span style=\'background-color: #FFFF00\'>羊</span>牛狗】开羊35√<br>");
 document.writeln("086期【家禽：鸡狗猪羊】开鼠30×<br>");
 document.writeln("087期【家禽：牛羊马猪】开兔15×<br>");
-document.writeln("088期【野兽：龙虎猴兔】开？00√<br>");
+document.writeln("088期【野兽：龙虎猴<span style=\'background-color: #FFFF00\'>兔</span>】开兔15√<br>");
+document.writeln("089期【野兽：鼠蛇虎猴】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -165,7 +168,8 @@ document.writeln("085期【牛<span style=\'background-color: #FFFF00\'>羊</spa
 document.writeln("086期【羊<span style=\'background-color: #FFFF00\'>鼠</span>马虎鸡狗蛇龙猴】开鼠30√<br>");
 document.writeln("087期【蛇羊猴马<span style=\'background-color: #FFFF00\'>兔</span>虎鼠猪龙】开兔15√<br>");
 
-document.writeln("088期【狗鸡羊虎蛇猪牛兔龙】开？00√<br>");
+document.writeln("088期【狗鸡羊虎蛇猪牛<span style=\'background-color: #FFFF00\'>兔</span>龙】开兔15√<br>");
+document.writeln("089期【鼠兔马虎猪狗龙蛇牛】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

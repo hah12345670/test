@@ -25,14 +25,14 @@ document.writeln("");
 
 
 
-
-
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>089期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>090期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
+
+
 
 
 document.writeln("");
@@ -102,47 +102,6 @@ document.writeln("  <tr>");
 document.writeln("    <td>078期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>虎28</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>077期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>猴22</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>076期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>兔39</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>075期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【3333头】</font>开<font color=\'#ac6a00\'>鸡09</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("   ");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>074期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>羊35</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>073期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>兔03</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
 
 
 

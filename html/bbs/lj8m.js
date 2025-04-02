@@ -28,7 +28,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://x12.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\">");
+document.writeln("<a target=\"_blank\" href=\"https://huiu387.www79167c.com:8443/#dbtt\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【自称马神】(10码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("奶糖小姐（吉凶三肖）</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -48,36 +48,34 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 15pt; text-decoration: none\">");
 document.writeln("");
-document.writeln("	084期<br>");
-document.writeln("	（19.26.48.<span style=\'background-color: #FFFF00\'>20</span>.22）<br>");
-document.writeln("	（36.39.05.10.49）<br>	");
-
-document.writeln("	086期<br>");
-document.writeln("	（<span style=\'background-color: #FFFF00\'>30</span>.18.25.02.44）<br>");
-document.writeln("	（49.27.20.13.04）<br>	");
-
-
-document.writeln("	087期<br>");
-document.writeln("	（19.41.<span style=\'background-color: #FFFF00\'>15</span>.30.24）<br>");
-document.writeln("	（09.34.26.46.36）<br>	");
-
-
-document.writeln("	089期<br>");
-document.writeln("	（37.<span style=\'background-color: #FFFF00\'>14</span>.46.15.17）<br>");
-document.writeln("	（11.07.05.39.44）<br>	");
-
-document.writeln("	092期<br>");
-document.writeln("	（36.30.18.33.49）<br>");
-document.writeln("	（03.42.32.44.17）<br>	");
-
-
+document.writeln("");
+document.writeln("093期【79827.com 首页已经更新】开？00准<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("092期【<span style=\'background-color: #FFFF00\'>吉</span>】主【<span style=\'background-color: #FFFF00\'>兔</span>龙蛇】开兔39准<br>	");
+document.writeln("");
+document.writeln("091期【<span style=\'background-color: #FFFF00\'>凶</span>】主【牛<span style=\'background-color: #FFFF00\'>虎</span>猴】开虎40准<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("090期【<span style=\'background-color: #FFFF00\'>吉</span>】主【马<span style=\'background-color: #FFFF00\'>羊</span>鸡】开羊35准<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("089期【<span style=\'background-color: #FFFF00\'>吉</span>】主【<span style=\'background-color: #FFFF00\'>龙</span>蛇马】开龙14准<br>	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
@@ -94,10 +92,10 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://x12.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\">");
-document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网首页查看更多记录</font></a></span><p align=\'center\'>");
+document.writeln("<a target=\"_blank\" href=\"https://huiu387.www79167c.com:8443/#dbtt\">");
+document.writeln("<font color=\"#000000\" size=\"4\">进入澳门白天鹅首页查看更多记录</font></a></span><p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://x12.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【62785b.com】</font></a></span></p></td>");
+document.writeln("		<a target=\"_blank\" href=\"https://huiu387.www79167c.com:8443/#dbtt\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【79827b.com】</font></a></span></p></td>");
 document.writeln("	</tr>");
 document.writeln("</table>");
 document.writeln("</div>");

@@ -102,7 +102,7 @@ document.writeln("089期天地【地肖+<span style=\'background-color: #FFFF00\
 document.writeln("090期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("091期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("092期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("093期天地【地肖+猴虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("093期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 

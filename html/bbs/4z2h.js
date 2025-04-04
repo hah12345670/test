@@ -9,18 +9,18 @@ document.writeln("");
 document.writeln("<table border=\"1\" width=\"100%\" id=\"table400923401\">");
 document.writeln("");
 
-
 document.writeln("	<!--gavc-->	");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
 document.writeln("		<p>");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		093期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-水-金-木）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		093期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-水）");
+document.writeln("		094期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土-火-水）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		094期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土）");
 document.writeln("		");
 document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--gavc-->	");
+
 
 document.writeln("	<!--gavc-->	");
 document.writeln("	<tr>");

@@ -49,7 +49,9 @@ document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 15pt; text-decoration: none\">");
 document.writeln("");
 document.writeln("");
-document.writeln("094期【79827.com 首页已经更新】开？00准<br>	");
+document.writeln("095期【79827.com 首页已经更新】开？00准<br>	");
+
+document.writeln("094期<span style=\'background-color: #FFFF00\'>【吉】</span>主【马羊<span style=\'background-color: #FFFF00\'>鸡</span>】开鸡33准<br>	");
 
 document.writeln("092期【<span style=\'background-color: #FFFF00\'>吉</span>】主【<span style=\'background-color: #FFFF00\'>兔</span>龙蛇】开兔39准<br>	");
 document.writeln("");

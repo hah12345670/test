@@ -13,10 +13,43 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>094期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【4444头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>095期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>094期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【4444头】</font>开<font color=\'#ac6a00\'>鸡33</font>准</td>");
 document.writeln("  </tr>");
 
 
@@ -95,33 +128,6 @@ document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td>083期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【4444头】</font>开<font color=\'#ac6a00\'>虎28</font>准</td>");
 document.writeln("  </tr>");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>081期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>龙38</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("   ");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>079期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【0000头】</font>开<font color=\'#ac6a00\'>猴10</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>078期<font color=\'#ac6a00\'>绝杀一头</font><font color=\'#0000FF\'>【1111头】</font>开<font color=\'#ac6a00\'>虎28</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 
 
 

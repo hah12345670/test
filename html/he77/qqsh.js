@@ -28,14 +28,11 @@ document.writeln(" <tr>    <td style=\'height: 28px\'><font color=\'#0B6121\'>�
 
 
 
-
-
-
+document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>094期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画棋书】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>095期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
-document.writeln("");
 
 
 
@@ -108,36 +105,6 @@ document.writeln("  <tr>");
 document.writeln("    <td>083期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画棋<span style=\'background-color: #FFFF00\'>书</span>】</font>开<font color=\'#ac6a00\'>虎28</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>081期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【棋<span style=\'background-color: #FFFF00\'>书</span>琴】</font>开<font color=\'#ac6a00\'>龙38</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>080期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画<span style=\'background-color: #FFFF00\'>书</span>琴】</font>开<font color=\'#ac6a00\'>马24</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>079期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书<span style=\'background-color: #FFFF00\'>画</span>琴】</font>开<font color=\'#ac6a00\'>猴10</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>078期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>书</span>棋琴】</font>开<font color=\'#ac6a00\'>虎28</font>准</td>");
-document.writeln("  </tr>");
 
 
 

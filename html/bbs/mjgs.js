@@ -34,7 +34,8 @@ document.writeln("091期单双【<span style=\'background-color: #FFFF00\'>双�
 document.writeln("092期单双【双数+蛇<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("093期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("094期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("095期单双【双数+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("095期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("096期单双【单数+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -60,7 +61,8 @@ document.writeln("");
 
 
 
-document.writeln("095期家野【家禽+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("095期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("096期家野【家禽+猴兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -92,7 +94,8 @@ document.writeln("091期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("092期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("093期天地【地肖+<span style=\'background-color: #FFFF00\'>猴</span>龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("094期天地【天肖+羊狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("095期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("095期天地【天肖+虎<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("096期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -115,7 +118,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("094期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("095期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("095期前后【前肖+马<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("096期前后【前肖+猪狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

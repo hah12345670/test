@@ -5,7 +5,7 @@ document.writeln(".style3t {");
 document.writeln("	background-color: #FFFF00;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("<div class=\'tit\'>九點半014990.com<font color=\'#FFFF00\'>【风雨雷电】</font></div>");
+document.writeln("<div class=\'tit\'>九點半0149911.com<font color=\'#FFFF00\'>【风雨雷电】</font></div>");
 document.writeln("<div class=\'stzt\'>");
 document.writeln("<table width=\'100%\' border=\'1\'>");
 document.writeln("   <tr>");
@@ -18,10 +18,36 @@ document.writeln(" ");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>097期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨风】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>098期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雨电雷】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
+document.writeln("");
+
+
 
 
 document.writeln("");

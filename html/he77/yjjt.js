@@ -36,7 +36,7 @@ document.writeln("}");
 document.writeln("</style>");
 document.writeln("");
 document.writeln("");
-document.writeln("<div class=\'tit\'>九點半014990.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
+document.writeln("<div class=\'tit\'>九點半0149911.com<font color=\'#FFFF00\'>【一句解特】</font></div>");
 document.writeln("");
 document.writeln("<div class=\'ds4x\'>");
 document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpadding=\'0\' bgcolor=\'#FFFFFF\' height=\'80\' style=\'border-left-width: 0px; border-right-width: 0px; border-top-width: 0px\'><tbody>");
@@ -69,7 +69,15 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
+document.writeln("<font style=\'font-size: 13pt\'>");
+document.writeln("098期玄机诗句<font color=\'#FF0000\'>【冲天香阵透长安，满城尽带黄金甲】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：天解天肖，兔马猴猪牛龙。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：兔马猴猪牛龙");
+document.writeln("</font></font></b></td></tr>");
+document.writeln("");
 
 
 document.writeln("");
@@ -78,7 +86,7 @@ document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; 
 document.writeln("<font style=\'font-size: 13pt\'>");
 document.writeln("097期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
 document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：猴鸡牛龙马猪");
+document.writeln("<br><font color=\'#008000\'>解特：猴鸡牛龙马<span style=\'background-color: #FFFF00\'>猪</span>");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 

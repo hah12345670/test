@@ -10,6 +10,22 @@ document.writeln("</style>");
 document.writeln("<div class=\'ipi\'>九點半<font color=\'#FFFF00\'>【解特码诗】</font></div>");
 document.writeln("<body>");
 document.writeln("");
+
+document.writeln("<!--特码诗开始 -->");
+document.writeln("<body>");
+document.writeln("");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<tr>");
+document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>098期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>五更啼叫见东方，牛来狗到兔发财。</font></b></font><br>");
+document.writeln("<font face=\'楷体\'><b>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--特码诗开始 -->");
+
+
+
 document.writeln("<!--特码诗开始 -->");
 document.writeln("<body>");
 document.writeln("");
@@ -18,7 +34,7 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("<tr>");
 document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>097期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>红花一开二四朵，美妃夜舞伴君王。</font></b></font><br>");
 document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:关注九點半</font></b></font></table>");
+document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开猪31</font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--特码诗开始 -->");
@@ -131,21 +147,6 @@ document.writeln("");
 document.writeln("<!--特码诗开始 -->");
 
 
-document.writeln("<!--特码诗开始 -->");
-document.writeln("<body>");
-document.writeln("");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<tr>");
-document.writeln("<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>088期正版特码诗</font></b></font><br><font face=\'楷体\'><b><font color=\'#FF3300\' size=\'4\'>五更啼叫见东方，牛来狗到兔发财。</font></b></font><br>");
-document.writeln("<font face=\'楷体\'><b>");
-document.writeln("<font color=\'#FF3300\' size=\'4\'>解:特码开兔15</font></b></font></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--特码诗开始 -->");
-
-
-
 
 
 
@@ -172,7 +173,7 @@ document.writeln("<!--特码诗开始 -->");
 
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr>");
 document.writeln("			<td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'/#tz#876161\'><img src=/yjjy/tz/images/am.png width=35 height=23><span style=font-family:楷体;color:#00f><font size=\'4\'>好料记得截图分享</font></span><span style=font-family:楷体;><font size=\'5\' color=\'#FF0000\'>014990</font></span><font color=\'#FF0000\' size=\'5\'><span style=font-family:楷体;>.com</a></strong></table>");
+document.writeln("			<a target=\'_blank\' style=\'text-decoration: none\' href=\'/#tz#876161\'><img src=/yjjy/tz/images/am.png width=35 height=23><span style=font-family:楷体;color:#00f><font size=\'4\'>好料记得截图分享</font></span><span style=font-family:楷体;><font size=\'5\' color=\'#FF0000\'>0149911</font></span><font color=\'#FF0000\' size=\'5\'><span style=font-family:楷体;>.com</a></strong></table>");
 document.writeln("</font>");
 document.writeln("</tr></td>     ");
 document.writeln("</table>");

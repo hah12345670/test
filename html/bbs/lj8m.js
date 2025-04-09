@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【神经】(3肖4码)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【幸运星】(3.肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -46,20 +46,12 @@ document.writeln("");
 document.writeln("</font>		");
 document.writeln("");
 document.writeln("");
-document.writeln("<font color=\"#000000\" style=\"font-size: 15pt; text-decoration: none\">");
+document.writeln("<font color=\"#000000\" style=\"font-size: 12pt; text-decoration: none\">");
 document.writeln("");
 document.writeln("");
-
-document.writeln("	095期鼠虎<span style=\'background-color: #FFFF00\'>狗</span><br>");
-document.writeln("	17.41.12.36<br><br>");
-
-document.writeln("	096期猪<span style=\'background-color: #FFFF00\'>猴</span>羊<br>");
-document.writeln("	25.49.04.16<br><br>");
-
-document.writeln("	097期兔<span style=\'background-color: #FFFF00\'>猪</span>羊<br>");
-document.writeln("	21.33.12.36<br><br>");
-document.writeln("	098期蛇马牛<br>");
-document.writeln("	14.38.23.35<br><br>");
+document.writeln("097期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【鼠狗<span style=\"background-color: #FFFF00\">猪</span>】</font>开猪31准<BR><BR>");
+document.writeln("098期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【<span style=\"background-color: #FFFF00\">兔</span>羊鸡】</font>开兔03准<BR><BR>");
+document.writeln("099期:【幸运星】<font color=\"#008000\">3.肖中特</font><font color=\"#FF0000\">【狗牛猪】</font>开？00准<BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

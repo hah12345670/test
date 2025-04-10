@@ -39,11 +39,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>099期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
+document.writeln("<td><font color=\'#008000\'>100期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：？00</font>准</td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("<td><font color=\'#008000\'>099期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：狗20</font>准</td>");
+document.writeln("</tr>");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td><font color=\'#008000\'>096期</font><img src=\'/yjjy/tz/images/am.png\'><font color=\'#FF0000\'>【双双双】</font><font color=\'#0000FF\'>开：猴34</font>准</td>");
 document.writeln("</tr>");

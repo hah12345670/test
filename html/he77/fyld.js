@@ -31,12 +31,17 @@ document.writeln(" ");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>101期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雨风雷】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>100期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷风电】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>100期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷风<span style=\'background-color: #FFFF00\'>电</span>】</font>开<font color=\'#ac6a00\'>鼠42</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");

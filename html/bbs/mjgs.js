@@ -27,12 +27,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-
-
-
-document.writeln("099期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("100期单双【单数+马龙】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("101期单双【双数+兔牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("102期单双【双数+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -65,7 +60,8 @@ document.writeln("097期家野【野兽+狗<span style=\'background-color: #FFFF
 document.writeln("098期家野【家禽+猴<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("099期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+鼠兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("100期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+羊狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("101期家野【野兽+狗猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("101期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("102期家野【野兽+鸡狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -88,7 +84,8 @@ document.writeln("");
 
 
 
-document.writeln("101期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("101期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("102期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -112,8 +109,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("099期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+蛇龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("100期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("101期前后【后肖+蛇鼠】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("101期前后【后肖+<span style=\'background-color: #FFFF00\'>蛇</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("102期前后【后肖+鼠兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 

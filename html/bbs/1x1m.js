@@ -23,34 +23,34 @@ document.writeln("<b><font face=\'楷体\' style=\'font-siz: 19pt\'><font color=
 
 
 
+
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; border: 1px solid rgb(229, 229, 229); word-break: break-all; padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\' align=\'left\' height=\'32\'>");
-document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>102期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>羊蛇狗鸡牛</font></b></td>");
+document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>103期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>龙羊马牛兔</font></b></td>");
 document.writeln("</tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); word-break: break-all;\' align=\'left\' height=\'30\'>");
-document.writeln("<b><font face=\'微软雅黑\' color=\'#008000\' size=\'4\'>102期〖三肖〗</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>羊蛇狗</font></b></td>");
+document.writeln("<b><font face=\'微软雅黑\' color=\'#008000\' size=\'4\'>103期〖三肖〗</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>龙羊马</font></b></td>");
 document.writeln("</tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); word-break: break-all;\' align=\'left\' height=\'36\'>");
-document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>102期〖一肖〗</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>羊</font></b></td>");
+document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>103期〖一肖〗</font><font face=\'微软雅黑\' color=\'#0000FF\' size=\'4\'>龙</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); word-break: break-all;\' align=\'left\' bgcolor=\'#FFFFFF\' height=\'34\'>");
-document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>102期〖⑩码〗</font><font face=\'微软雅黑\' size=\'2\' color=\'#FF00FF\'>11.35.13.37.08.32.21.09.11.35</font></b></td>");
+document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>103期〖⑩码〗</font><font face=\'微软雅黑\' size=\'2\' color=\'#FF00FF\'>14.38.11.35.24.12.05.29.27.03</font></b></td>");
 document.writeln("</tr>");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); word-break: break-all;\' align=\'left\' bgcolor=\'#FFFFFF\' height=\'34\'>");
-document.writeln("<b><font face=\'微软雅黑\' color=\'#008000\' size=\'4\'>102期〖③码〗</font><font face=\'微软雅黑\' color=\'#FF00FF\' size=\'2\'>11.35.13</font></b></td>");
+document.writeln("<b><font face=\'微软雅黑\' color=\'#008000\' size=\'4\'>103期〖③码〗</font><font face=\'微软雅黑\' color=\'#FF00FF\' size=\'2\'>14.38.11</font></b></td>");
 document.writeln("</tr>");
 document.writeln(" <tr>");
 document.writeln("<td bgcolor=\'#800000\' style=\'margin: 0px; padding: 3px 2px; border: 1px solid rgb(229, 229, 229); word-break: break-all;\' height=\'36\'>");
 document.writeln("<h2 style=\'font-family: 微软雅黑; color: rgb(255, 253, 0); margin: 0px; padding: 0px\' align=\'left\'>");
-document.writeln("<font size=\'4\'>102期: 特码开奖结果&lt;开:？00&gt;<font color=\'#00FF00\'></font></h2>");
+document.writeln("<font size=\'4\'>103期: 特码开奖结果&lt;开:？00&gt;<font color=\'#00FF00\'></font></h2>");
 document.writeln("</font></td>");
 document.writeln("</tr>");
-
 
 
 

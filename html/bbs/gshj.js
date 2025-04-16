@@ -24,7 +24,8 @@ document.writeln("101期王者六肖【猴牛猪兔鼠虎】×<br>");
 document.writeln("102期王者六肖【狗虎马鸡兔蛇】×<br>");
 document.writeln("103期王者六肖【牛<span style=\'background-color: #FFFF00\'>狗</span>虎鼠鸡龙】√<br>");
 document.writeln("104期王者六肖【猪蛇羊马<span style=\'background-color: #FFFF00\'>鼠</span>猴】√<br>");
-document.writeln("105期王者六肖【猪鼠龙虎鸡羊】√<br>");
+document.writeln("105期王者六肖【猪鼠<span style=\'background-color: #FFFF00\'>龙</span>虎鸡羊】√<br>");
+document.writeln("106期王者六肖【马狗鼠鸡猴蛇】√<br>");
 
 
 
@@ -103,7 +104,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("104期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴虎】开鼠06√<br>");
-document.writeln("105期【家禽：牛羊马狗】开？00√<br>");
+document.writeln("105期【家禽：牛羊马狗】开龙26×<br>");
+document.writeln("106期【野兽：龙猴虎兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -135,7 +137,8 @@ document.writeln("101期【<span style=\'background-color: #FFFF00\'>蛇</span>�
 document.writeln("102期【<span style=\'background-color: #FFFF00\'>龙</span>猴猪鸡羊牛马狗兔】开龙38√<br>");
 document.writeln("103期【虎<span style=\'background-color: #FFFF00\'>狗</span>鼠蛇牛龙羊猪兔】开狗32√<br>");
 document.writeln("104期【猪鸡羊蛇牛<span style=\'background-color: #FFFF00\'>鼠</span>龙虎猴】开鼠06√<br>");
-document.writeln("105期【马虎牛龙狗蛇羊猴鸡】开？00√<br>");
+document.writeln("105期【马虎牛<span style=\'background-color: #FFFF00\'>龙</span>狗蛇羊猴鸡】开龙26√<br>");
+document.writeln("106期【龙鼠羊虎兔猪鸡狗马】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

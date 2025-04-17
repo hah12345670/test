@@ -27,7 +27,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-document.writeln("106期单双【单数+马龙】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("107期单双【单数+虎马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -65,7 +66,8 @@ document.writeln("102期家野【<span style=\'background-color: #FFFF00\'>野�
 document.writeln("103期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("104期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("105期家野【家禽+虎蛇】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("106期家野【野兽+牛马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("106期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("107期家野【家禽+虎龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -92,9 +94,9 @@ document.writeln("101期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("102期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("103期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("104期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-
 document.writeln("105期天地【地肖+马<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("106期天地【地肖+猴牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("106期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("107期天地【地肖+马兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -115,14 +117,9 @@ document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【稳中前
 document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
-document.writeln("099期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+蛇龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("100期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("101期前后【后肖+<span style=\'background-color: #FFFF00\'>蛇</span>鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("102期前后【后肖+鼠兔】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("103期前后【前肖+猪<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("104期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("105期前后【后肖+虎蛇】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("106期前后【后肖+蛇鼠】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("106期前后【后肖+蛇<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("107期前后【前肖+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

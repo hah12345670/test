@@ -27,9 +27,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-
-document.writeln("108期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("109期单双【双数+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("110期单双【单数+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -57,8 +55,9 @@ document.writeln("");
 
 
 
-document.writeln("109期家野【家禽+蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("109期家野【家禽+蛇<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
 
+document.writeln("110期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -79,7 +78,7 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("109期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("110期天地【地肖+猪蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -101,7 +100,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-document.writeln("109期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("110期前后【后肖+虎鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 

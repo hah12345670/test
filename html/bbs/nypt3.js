@@ -20,46 +20,14 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">109期平特3.码<font color=\"#008000\">【鸡09.33.45】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">110期平特3.码<font color=\"#008000\">【龙02.38】</font>开:00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
+
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
 document.writeln("<font size=\"4\" face=\"微软雅黑\">108期平特3.码<font color=\"#008000\">【虎04.16.40】</font>开:40准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">105期平特3.码<font color=\"#008000\">【蛇13.25.49】</font>开:37准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">102期平特3.码<font color=\"#008000\">【羊11.23.47】</font>开:47准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">101期平特3.码<font color=\"#008000\">【鼠06.18.42】</font>开:30.42准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">100期平特3.码<font color=\"#008000\">【鼠06.30.42】</font>开:42准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">099期平特3.码<font color=\"#008000\">【猴10.22.46】</font>开:22.34准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

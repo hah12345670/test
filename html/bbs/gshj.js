@@ -29,7 +29,9 @@ document.writeln("106期王者六肖【马狗<span style=\'background-color: #FF
 document.writeln("107期王者六肖【羊虎龙猪鸡兔】×<br>");
 document.writeln("108期王者六肖【狗猪<span style=\'background-color: #FFFF00\'>兔</span>牛鼠龙】√<br>");
 document.writeln("109期王者六肖【狗猪龙牛马<span style=\'background-color: #FFFF00\'>兔</span>】√<br>");
-document.writeln("110期王者六肖【蛇马牛虎狗鼠】√<br>");
+document.writeln("110期王者六肖【蛇马牛虎狗鼠】×<br>");
+
+document.writeln("111期王者六肖【蛇鸡猪鼠兔马】√<br>");
 
 
 
@@ -62,7 +64,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("107-108期￥狗鼠<span style=\'background-color: #FFFF00\'>兔</span>龙牛蛇羊￥108期√<br>");
-document.writeln("109-110期￥马猪牛龙鸡鼠羊￥000期√<br>");
+document.writeln("109-110期￥马猪牛龙鸡鼠<span style=\'background-color: #FFFF00\'>羊</span>￥110期√<br>");
+document.writeln("111-112期￥龙鸡羊鼠狗兔虎￥000期√<br>");
 
 
 
@@ -93,14 +96,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("104期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴虎】开鼠06√<br>");
-document.writeln("105期【家禽：牛羊马狗】开龙26×<br>");
-document.writeln("106期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开鼠18√<br>");
-document.writeln("107期【野兽：龙<span style=\'background-color: #FFFF00\'>猴</span>虎兔】开猴46√<br>");
+document.writeln("111期【野兽：龙蛇猴虎】开？00√<br>");
 
-document.writeln("108期【家禽：牛羊猪狗】开兔27×<br>");
-document.writeln("109期【家禽：牛羊马猪】开兔03×<br>");
-document.writeln("110期【野兽：龙猴兔虎】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -137,7 +134,8 @@ document.writeln("106期【龙<span style=\'background-color: #FFFF00\'>鼠</spa
 document.writeln("107期【猪<span style=\'background-color: #FFFF00\'>猴</span>蛇狗龙鼠羊虎马】开猴46√<br>");
 document.writeln("108期【<span style=\'background-color: #FFFF00\'>兔</span>龙猴蛇牛鸡狗虎马】开兔27√<br>");
 document.writeln("109期【龙<span style=\'background-color: #FFFF00\'>兔</span>狗猴猪鸡羊马蛇】开兔03√<br>");
-document.writeln("110期【龙兔虎鸡鼠猪牛猴马】开？00√<br>");
+document.writeln("110期【龙兔虎鸡鼠猪牛猴马】开羊47×<br>");
+document.writeln("111期【羊马狗牛鼠猪龙猴虎】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

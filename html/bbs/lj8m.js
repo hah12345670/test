@@ -50,7 +50,7 @@ document.writeln("<font color=\"#000000\" style=\"font-size: 15pt; text-decorati
 
 document.writeln(" 109期【牛龙+<span style=\'background-color: #FFFF00\'>兔</span>】<br><br>");
 document.writeln(" 110期【兔<span style=\'background-color: #FFFF00\'>羊</span>+鼠】<br><br>");
-document.writeln(" 112期【猴龙+蛇】<br><br>");
+document.writeln(" 113期【牛鸡+龙】<br><br>");
 
 document.writeln("");
 document.writeln("");

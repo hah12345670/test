@@ -54,8 +54,9 @@ document.writeln("	14.38.03.15<br><br>");
 
 document.writeln("	113期兔<span style=\'background-color: #FFFF00\'>猴</span>猪<br>");
 document.writeln("	13.25.04.40<br><br>");
-document.writeln("	114期猴狗虎<br>");
-document.writeln("	09.21.14.26<br><br>");
+document.writeln("	115期兔马牛<br>");
+document.writeln("	20.44.14.26<br><br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

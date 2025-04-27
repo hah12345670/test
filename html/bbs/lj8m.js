@@ -57,8 +57,8 @@ document.writeln("	13.25.04.40<br><br>");
 document.writeln("	115期<span style=\'background-color: #FFFF00\'>兔</span>马牛<br>");
 document.writeln("	20.44.14.26<br><br>");
 
-document.writeln("	116期虎龙狗<br>");
-document.writeln("	03.39.25.49<br><br>");
+document.writeln("	117期狗猪鼠<br>");
+document.writeln("12.48.13.49<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

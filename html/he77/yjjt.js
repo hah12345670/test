@@ -50,15 +50,32 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("117期玄机诗句<font color=\'#FF0000\'>【搅海翻江多摆布，劈邪除妖向前越。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：搅海翻江多摆布，搅海翻江，龙蛇猴马；劈邪除妖向前越，劈邪除妖，牛鬼蛇神，牛兔蛇。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴马牛兔");
+document.writeln("118期玄机诗句<font color=\'#FF0000\'>【猪前狗后结亲家，看看地支是哪家。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：猪前狗后结亲家，得猪狗，看看地支是哪家，是地肖蛇羊鸡狗鼠虎。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：猪狗蛇羊鸡鼠");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
+
+
+
 
 
 document.writeln("");

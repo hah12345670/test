@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【神经】(3肖4码)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【小妖女】(2+1肖)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -49,16 +49,9 @@ document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 18pt; text-decoration: none\">");
 
 
-document.writeln("	112期羊<span style=\'background-color: #FFFF00\'>鸡</span>鼠<br>");
-document.writeln("	14.38.03.15<br><br>");
-
-document.writeln("	113期兔<span style=\'background-color: #FFFF00\'>猴</span>猪<br>");
-document.writeln("	13.25.04.40<br><br>");
-document.writeln("	115期<span style=\'background-color: #FFFF00\'>兔</span>马牛<br>");
-document.writeln("	20.44.14.26<br><br>");
-
-document.writeln("	117期狗猪鼠<br>");
-document.writeln("12.48.13.49<br><br>");
+document.writeln(" 116期【马龙+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
+document.writeln(" 117期【狗鼠+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
+document.writeln(" 118期【鸡兔+蛇】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

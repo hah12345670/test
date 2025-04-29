@@ -32,6 +32,26 @@ document.writeln("");
 
 
 
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>119期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-7-6</font></li>");
+document.writeln("            	<li>119期必中五尾：<font color=\'#FF0000\' size=\'4\'>1-7-6-0-9</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>11.21.31.07.27.47.16.26.36.10.20.30.29.39.49</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>11.21.31.07.27.47.16.26.36</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>119期一尾一码：<font color=\'#FF0000\' size=\'6\'>（11）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
@@ -40,9 +60,8 @@ document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>118期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-9-4</font></li>");
-document.writeln("            	<li>118期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-9-4-5-6</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>02.22.32.29.39.49.04.14.34.25.35.45.06.26.46</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>02.22.32.29.39.49.04.14.34</font></li>");
+document.writeln("            	<li>118期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-9-4-5-<span style=\'background-color: #FFFF00\'>【6】</span></font></li>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

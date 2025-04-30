@@ -24,11 +24,16 @@ document.writeln(" ");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>120期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雨电雷】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>119期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨风】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>119期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨<span style=\'background-color: #FFFF00\'>风</span>】</font>开<font color=\'#ac6a00\'>龙38</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -89,40 +94,6 @@ document.writeln("    <td>110期<font color=\'#ac6a00\'>风雨雷电</font><font
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>108期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨<span style=\'background-color: #FFFF00\'>风</span>】</font>开<font color=\'#ac6a00\'>兔27</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>107期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雨<span style=\'background-color: #FFFF00\'>雷</span>风】</font>开<font color=\'#ac6a00\'>猴46</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>106期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【风雨<span style=\'background-color: #FFFF00\'>电</span>】</font>开<font color=\'#ac6a00\'>鼠18</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>105期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷电<span style=\'background-color: #FFFF00\'>风</span>】</font>开<font color=\'#ac6a00\'>龙26</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-
 
 
 

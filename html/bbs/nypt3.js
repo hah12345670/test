@@ -20,9 +20,10 @@ document.writeln("  <tbody>");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">119期平特3.码<font color=\"#008000\">【羊11.23.47】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">120期平特3.码<font color=\"#008000\">【猪07.31.43】</font>开:00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
+
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
 document.writeln("<font size=\"4\" face=\"微软雅黑\">118期平特3.码<font color=\"#008000\">【羊11.<span style=\'background-color: #FFFF00\'>35</span>.47】</font>开:00准</font></strong>");
@@ -37,25 +38,6 @@ document.writeln("<font size=\"4\" face=\"微软雅黑\">116期平特3.码<font 
 document.writeln("</td>");
 document.writeln("</tr>	");
 
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">112期平特3.码<font color=\"#008000\">【马12.36.48】</font>开:24准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">110期平特3.码<font color=\"#008000\">【龙02.26.38】</font>开:14准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">108期平特3.码<font color=\"#008000\">【虎04.16.40】</font>开:40准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
 
 
 

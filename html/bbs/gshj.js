@@ -22,7 +22,8 @@ document.writeln("117期王者六肖【蛇狗龙鸡<span style=\'background-colo
 document.writeln("118期王者六肖【兔猴猪虎牛<span style=\'background-color: #FFFF00\'>马</span>】√<br>");
 document.writeln("119期王者六肖【虎兔猴猪羊马】×<br>");
 document.writeln("120期王者六肖【牛鼠狗猴<span style=\'background-color: #FFFF00\'>虎</span>蛇】√<br>");
-document.writeln("121期王者六肖【鼠鸡猴龙马羊】√<br>");
+document.writeln("121期王者六肖【鼠鸡猴龙<span style=\'background-color: #FFFF00\'>马</span>羊】√<br>");
+document.writeln("122期王者六肖【龙猴虎鼠猪鸡】√<br>");
 
 
 
@@ -65,7 +66,9 @@ document.writeln("116-117期￥虎鸡龙<span style=\'background-color: #FFFF00\
 document.writeln("117-118期￥<span style=\'background-color: #FFFF00\'>羊</span>鼠狗鸡牛虎猴￥117期√<br>");
 document.writeln("118-119期￥牛猪鼠羊<span style=\'background-color: #FFFF00\'>龙</span>兔狗￥119期√<br>");
 document.writeln("120-121期￥马狗兔<span style=\'background-color: #FFFF00\'>虎</span>猪猴鼠￥120期√<br>");
-document.writeln("121-122期￥狗牛龙兔马虎猪￥000期√<br>");
+document.writeln("121-122期￥狗牛龙兔<span style=\'background-color: #FFFF00\'>马</span>虎猪￥121期√<br>");
+document.writeln("122-123期￥羊鼠虎龙猪猴狗￥000期√<br>");
+
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -102,7 +105,8 @@ document.writeln("117期【家禽：牛<span style=\'background-color: #FFFF00\'
 document.writeln("118期【野兽：龙猴虎鼠】开马36×<br>");
 document.writeln("119期【野兽：<span style=\'background-color: #FFFF00\'>龙</span>猴兔蛇】开龙38√<br>");
 document.writeln("120期【家禽：鸡狗猪羊】开虎28×<br>");
-document.writeln("121期【家禽：牛羊马猪】开？00√<br>");
+document.writeln("121期【家禽：牛羊<span style=\'background-color: #FFFF00\'>马</span>猪】开马24√<br>");
+document.writeln("122期【家禽：牛羊鸡猪】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -129,14 +133,10 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("115期【蛇狗鼠牛猪鸡<span style=\'background-color: #FFFF00\'>兔</span>羊龙】开兔03√<br>");
-document.writeln("116期【虎鼠<span style=\'background-color: #FFFF00\'>羊</span>龙蛇狗鸡兔牛】开羊23√<br>");
-document.writeln("117期【牛兔鼠龙<span style=\'background-color: #FFFF00\'>羊</span>猴马狗鸡】开羊47√<br>");
-document.writeln("118期【鸡虎猪蛇兔龙牛狗羊】开马36×<br>");
-
 document.writeln("119期【马虎狗猪<span style=\'background-color: #FFFF00\'>龙</span>猴蛇鼠兔】开龙38√<br>");
 document.writeln("120期【羊蛇鼠兔猪<span style=\'background-color: #FFFF00\'>虎</span>龙鸡牛】开虎28√<br>");
-document.writeln("121期【虎鼠猪狗鸡羊龙蛇马】开？00√<br>");
+document.writeln("121期【虎鼠猪狗鸡羊龙蛇<span style=\'background-color: #FFFF00\'>马</span>】开马24√<br>");
+document.writeln("122期【蛇鼠鸡猴猪羊兔马牛】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

@@ -49,10 +49,12 @@ document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 18pt; text-decoration: none\">");
 
 
+
 document.writeln(" 116期【马龙+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
 document.writeln(" 117期【狗鼠+<span style=\'background-color: #FFFF00\'>羊</span>】<br><br>");
 document.writeln(" 119期【牛<span style=\'background-color: #FFFF00\'>龙</span>+羊】<br><br>");
-document.writeln(" 121期【兔马+猪】<br><br>");
+document.writeln(" 121期【兔<span style=\'background-color: #FFFF00\'>马</span>+猪】<br><br>");
+document.writeln(" 122期【猴马+羊】<br><br>");
 
 document.writeln("");
 document.writeln("");

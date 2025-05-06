@@ -26,8 +26,9 @@ document.writeln("121期王者六肖【鼠鸡猴龙<span style=\'background-colo
 document.writeln("122期王者六肖【龙猴虎鼠猪<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>");
 document.writeln("123期王者六肖【蛇虎龙马<span style=\'background-color: #FFFF00\'>鸡</span>狗】√<br>");
 document.writeln("124期王者六肖【鼠蛇龙猪马兔】×<br>");
-document.writeln("125期王者六肖【猴鸡兔蛇猪牛】√<br>");
+document.writeln("125期王者六肖【猴鸡兔<span style=\'background-color: #FFFF00\'>蛇</span>猪牛】√<br>");
 
+document.writeln("126期王者六肖【猴马蛇狗牛羊】√<br>");
 
 
 
@@ -72,7 +73,9 @@ document.writeln("120-121期￥马狗兔<span style=\'background-color: #FFFF00\
 document.writeln("121-122期￥狗牛龙兔<span style=\'background-color: #FFFF00\'>马</span>虎猪￥121期√<br>");
 document.writeln("122-123期￥羊鼠虎龙猪猴狗￥000期×<br>");
 document.writeln("124-125期￥虎狗鼠鸡<span style=\'background-color: #FFFF00\'>猴</span>兔羊￥124期√<br>");
-document.writeln("125-126期￥鸡鼠龙猴马虎蛇￥000期√<br>");
+document.writeln("125-126期￥鸡鼠龙猴马虎<span style=\'background-color: #FFFF00\'>蛇</span>￥125期√<br>");
+document.writeln("126-127期￥鸡猴鼠牛蛇兔猪￥000期√<br>");
+
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -113,7 +116,9 @@ document.writeln("121期【家禽：牛羊<span style=\'background-color: #FFFF0
 document.writeln("122期【家禽：牛羊<span style=\'background-color: #FFFF00\'>鸡</span>猪】开鸡33√<br>");
 document.writeln("123期【野兽：鼠龙兔猴】开鸡45×<br>");
 document.writeln("124期【野兽：龙<span style=\'background-color: #FFFF00\'>猴</span>虎鼠】开猴10√<br>");
-document.writeln("125期【家禽：羊鸡猪狗】开？00√<br>");
+document.writeln("125期【家禽：羊鸡猪狗】开蛇49×<br>");
+
+document.writeln("126期【野兽：龙虎鼠猴】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -146,7 +151,8 @@ document.writeln("121期【虎鼠猪狗鸡羊龙蛇<span style=\'background-colo
 document.writeln("122期【蛇鼠<span style=\'background-color: #FFFF00\'>鸡</span>猴猪羊兔马牛】开鸡33√<br>");
 document.writeln("123期【猴牛鼠猪羊蛇马兔<span style=\'background-color: #FFFF00\'>鸡</span>】开鸡45√<br>");
 document.writeln("124期【<span style=\'background-color: #FFFF00\'>猴</span>龙鸡牛虎羊兔蛇马】开猴10√<br>");
-document.writeln("125期【猴狗牛鸡虎羊龙猪鼠】开？00√<br>");
+document.writeln("125期【猴狗牛鸡虎羊龙猪鼠】开蛇49×<br>");
+document.writeln("126期【猴鸡羊马鼠虎龙蛇牛】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

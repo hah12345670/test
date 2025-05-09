@@ -58,7 +58,7 @@ document.writeln(" 123期【羊<span style=\'background-color: #FFFF00\'>鸡</sp
 
 document.writeln(" 125期【猴猪+<span style=\'background-color: #FFFF00\'>蛇</span>】<br><br>");
 document.writeln(" 126期【<span style=\'background-color: #FFFF00\'>龙</span>猴+虎】<br><br>");
-document.writeln(" 128期【狗兔+牛】<br><br>");
+document.writeln(" 129期【猪龙+兔】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

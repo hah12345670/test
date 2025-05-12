@@ -48,13 +48,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#000000\" style=\"font-size: 18pt; text-decoration: none\">");
 
-document.writeln("													");
+document.writeln("				");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <b><span style=\"font-size: 14pt\">131期:【长期发表三肖四码】开？00准<br>");
+document.writeln(" <b><span style=\"font-size: 14pt\">132期:【长期发表三肖四码】开？00准<br>");
+document.writeln("	</span>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（鼠牛龙+28.40.07.43）</span></font></b></p> ");
+document.writeln("												");
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
+document.writeln(" <b><span style=\"font-size: 14pt\">131期:【长期发表三肖四码】开羊47错<br>");
 document.writeln("	</span>");
 document.writeln("<font color=\"#FF0000\">");
 document.writeln("	<span style=\"font-size: 14pt\">3.肖四码（蛇牛鸡+16.40.20.32）</span></font></b></p> ");
-
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <b><span style=\"font-size: 14pt\">130期:【长期发表三肖四码】开羊23准<br>");
 document.writeln("	</span>");

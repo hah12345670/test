@@ -19,10 +19,15 @@ document.writeln("  <tbody>");
 document.writeln("");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">133期绝杀二肖:<font color=\"#FF0000\">【马龙】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">132期绝杀二肖:<font color=\"#FF0000\">【兔猪】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">132期绝杀二肖:<font color=\"#FF0000\">【兔猪】</font>开:龙02准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
@@ -112,70 +117,6 @@ document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
 document.writeln("<font size=\"4\" face=\"微软雅黑\">115期绝杀二肖:<font color=\"#FF0000\">【鸡猴】</font>开:兔03准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">113期绝杀二肖:<font color=\"#FF0000\">【龙兔】</font>开:猴46准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">112期绝杀二肖:<font color=\"#FF0000\">【羊鼠】</font>开:鸡45准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">111期绝杀二肖:<font color=\"#FF0000\">【龙兔】</font>开:鸡45准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">110期绝杀二肖:<font color=\"#FF0000\">【鼠猴】</font>开:羊47准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">109期绝杀二肖:<font color=\"#FF0000\">【狗猴】</font>开:兔03准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">108期绝杀二肖:<font color=\"#FF0000\">【龙马】</font>开:兔27准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">107期绝杀二肖:<font color=\"#FF0000\">【兔鸡】</font>开:猴46准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">106期绝杀二肖:<font color=\"#FF0000\">【龙虎】</font>开:鼠18准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">105期绝杀二肖:<font color=\"#FF0000\">【猴狗】</font>开:龙26准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">104期绝杀二肖:<font color=\"#FF0000\">【牛鸡】</font>开:鼠06准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-
-
 
 
 

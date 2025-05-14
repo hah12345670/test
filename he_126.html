@@ -251,7 +251,7 @@
 						let str_tab = '';
 						for (let index = 0; index < tj_arr.length; index++) {
 							let zj_arr = intersection(arr1, tj_arr[index]);
-							if (zj_arr.length) {
+							if (zj_arr.length>=3) {
 								str_tab += tj_arr[index] + "<br>";
 								str_arr.push(tj_arr[index])
 							}

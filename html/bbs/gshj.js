@@ -18,7 +18,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("135期王者六肖【龙鼠<span style=\'background-color: #FFFF00\'>蛇</span>虎牛狗】√<br>");
-document.writeln("136期王者六肖【猪虎蛇牛猴狗】√<br>");
+document.writeln("136期王者六肖【猪虎蛇牛猴狗】×<br>");
+document.writeln("137期王者六肖【牛蛇羊鼠狗猴】√<br>");
 
 
 
@@ -71,8 +72,8 @@ document.writeln("130-131期￥蛇鸡猴牛虎<span style=\'background-color: #F
 document.writeln("131-132期￥虎蛇<span style=\'background-color: #FFFF00\'>龙</span>兔猪鼠牛￥132期√<br>");
 document.writeln("133-134期￥狗<span style=\'background-color: #FFFF00\'>猴</span>马鸡鼠龙牛￥133期√<br>");
 document.writeln("134-135期￥<span style=\'background-color: #FFFF00\'>蛇</span>猴兔狗鼠猪羊￥135期√<br>");
-document.writeln("136-137期￥猪狗牛羊鸡蛇鼠￥000期√<br>");
-
+document.writeln("136-137期￥猪狗牛羊<span style=\'background-color: #FFFF00\'>鸡</span>蛇鼠￥136期√<br>");
+document.writeln("137-138期￥狗猴龙鼠蛇鸡牛￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -100,7 +101,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("135期【<span style=\'background-color: #FFFF00\'>野兽</span>：猴虎鼠兔】开蛇37√<br>");
-document.writeln("136期【野兽：龙蛇猴虎】开？00√<br>");
+document.writeln("136期【野兽：龙蛇猴虎】开鸡09×<br>");
+document.writeln("137期【野兽：龙猴虎鼠】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -128,7 +130,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("135期【虎牛兔猪鼠狗<span style=\'background-color: #FFFF00\'>蛇</span>羊猴】开蛇37√<br>");
-document.writeln("136期【狗鸡龙马鼠牛蛇羊猪】开？00√<br>");
+document.writeln("136期【狗<span style=\'background-color: #FFFF00\'>鸡</span>龙马鼠牛蛇羊猪】开鸡09√<br>");
+document.writeln("137期【牛龙马兔羊猴鸡鼠猪】开？00√<br>");
 
 
 

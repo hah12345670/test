@@ -22,5 +22,5 @@ function show_table_1to80(inputNumbers) {
 		str1 += '</tr>';
 	}
 	str1 += '</tbody></table>';
-	return str1;
+	document.getElementById("showdata1").innerHTML = str1;
 }

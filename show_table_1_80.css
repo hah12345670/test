@@ -37,8 +37,8 @@
 }
 
 #showtable .tjnum {
-	background-color: blue;
-	color: white;
+	background-color: #FFFF0076;
+	color: blue;
 	font-weight: bold;
 	border-radius: 50%;
 	width: 36px;
@@ -48,7 +48,7 @@
 }
 
 #showtable .tjkjnum {
-	background-color: purple;
+	background-color: #FF800076;
 	color: white;
 	font-weight: bold;
 	border-radius: 50%;

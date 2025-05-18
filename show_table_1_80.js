@@ -1,5 +1,5 @@
 // 显示表格
-function show_table_1to80(inputNumbers) {
+function show_table_1to80(inputNumbers, nid = 'showdata1') {
 	// let inputNumbers = [];
 	let highlighted = new Set(inputNumbers);
 	let count = 1;
@@ -22,5 +22,5 @@ function show_table_1to80(inputNumbers) {
 		str1 += '</tr>';
 	}
 	str1 += '</tbody></table>';
-	document.getElementById("showdata1").innerHTML = str1;
+	document.getElementById(nid).innerHTML = str1;
 }

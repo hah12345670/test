@@ -84,10 +84,7 @@
 					}
 					str1 += '</td></tr></table>'
 					document.getElementById("showdata").innerHTML = str1;
-					// 显示表格
-					const str_arr = json_str.result.data.openResults;
-					const num_arr = str_arr.map(Number)
-					document.getElementById("showdata1").innerHTML = show_table_1to80(num_arr);
+					show_table_1to80(json_str.result.data.openResults.map(Number));
 				}
 			};
 			xhr.send();

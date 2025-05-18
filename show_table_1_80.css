@@ -36,6 +36,28 @@
 	margin: auto;
 }
 
+#showtable .tjnum {
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	margin: auto;
+}
+
+#showtable .tjkjnum {
+	background-color: purple;
+	color: white;
+	font-weight: bold;
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	margin: auto;
+}
+
 #showtable .thick-top {
 	border-top: 3px solid black !important;
 }

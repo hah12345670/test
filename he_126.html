@@ -9,6 +9,8 @@
 				<link href="./favicon.ico" rel="icon"> -->
 				<link href="down_data1.css" rel="stylesheet" type="text/css">
 				<script src="down_data1.js"></script>
+				<link href="show_table_1_80.css" rel="stylesheet" type="text/css" />
+				<script src="show_table_1_80.js"></script>
 				
 				<style>
 				span{
@@ -82,12 +84,16 @@
 					}
 					str1 += '</td></tr></table>'
 					document.getElementById("showdata").innerHTML = str1;
+					// 显示表格
+					const str_arr = json_str.result.data.openResults;
+					const num_arr = str_arr.map(Number)
+					document.getElementById("showdata1").innerHTML = show_table_1to80(num_arr);
 				}
 			};
 			xhr.send();
 		}
 		</script>
-		<hr>
+		<hr><div id="showdata1" style="width: 35%;"></div>
 				<div id="spannum">
 					<div class="divleft">
 						<div><span>01</span><span>02</span><span>03</span><span>04</span><span>05</span></div>

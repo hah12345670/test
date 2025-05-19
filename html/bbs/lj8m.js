@@ -43,7 +43,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("</font>		");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

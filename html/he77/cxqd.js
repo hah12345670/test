@@ -30,13 +30,19 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>140期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春冬】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("");
 document.writeln("   <tr>");
-document.writeln("    <td>139期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春夏】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>139期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>夏】</font>开<font color=\'#ac6a00\'>龙14</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln(" ");
@@ -94,38 +100,6 @@ document.writeln("");
 
 
 
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>129期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>冬】</font>开<font color=\'#ac6a00\'>虎40</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>128期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋春<span style=\'background-color: #FFFF00\'>夏</span>】</font>开<font color=\'#ac6a00\'>蛇13</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>127期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【冬<span style=\'background-color: #FFFF00\'>夏</span>秋】</font>开<font color=\'#ac6a00\'>蛇49</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("   <tr>");
-document.writeln("    <td>126期<font color=\'#ac6a00\'>春夏秋冬</font><font color=\'#0000FF\'>【秋<span style=\'background-color: #FFFF00\'>春</span>夏】</font>开<font color=\'#ac6a00\'>龙02</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln(" ");
 
 
 

@@ -38,7 +38,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【半面妆容】(3肖中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【赚点小钱】(12码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -46,10 +46,12 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("138期【<span style=\'background-color: #FFFF00\'>牛</span>狗马】<br><br>");
-document.writeln("		140期【鼠牛猪】<br>");
+document.writeln("137期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
+
+document.writeln("138期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>39-41</span>数</font><br>");
+document.writeln("139期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>03-15</span>数</font><br>");
+document.writeln("140期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>01-13数</span></font><br>");
+document.writeln("141期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">12-24数</font><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

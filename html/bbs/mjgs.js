@@ -31,7 +31,8 @@ document.writeln("");
 
 document.writeln("139期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("140期单双【双数+<span style=\'background-color: #FFFF00\'>羊</span>猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("141期单双【双数+牛蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("141期单双【双数+牛<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("142期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -63,9 +64,8 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("139期家野【家禽+<span style=\'background-color: #FFFF00\'>龙</span>猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("140期家野【野兽+牛鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("141期家野【野兽+牛马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("141期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("142期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -89,7 +89,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("138期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("139期天地【地肖+<span style=\'background-color: #FFFF00\'>龙</span>马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("140期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("141期天地【天肖+蛇狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("141期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("142期天地【地肖+猴马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -113,13 +114,10 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("137期前后【前肖+羊<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("138期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("139期前后【后肖+虎牛】<font color=\"#FF0000\">×</font><br>	");
 
 document.writeln("140期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+兔牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("141期前后【前肖+猴狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("141期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("142期前后【后肖+虎兔】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

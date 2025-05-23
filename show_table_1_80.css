@@ -65,3 +65,12 @@
 #showtable .thick-left {
 	border-left: 3px solid black !important;
 }
+
+.highlight1 {
+	color: white;
+	background-color: red;
+	font-weight: bold;
+	padding: 4px;
+	border-radius: 5px;
+	line-height: 27px;
+}

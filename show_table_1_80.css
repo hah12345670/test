@@ -74,3 +74,12 @@
 	border-radius: 5px;
 	line-height: 27px;
 }
+
+.highlight2 {
+	color: white;
+	background-color: #ffdd00dd;
+	font-weight: bold;
+	padding: 4px;
+	border-radius: 5px;
+	line-height: 27px;
+}

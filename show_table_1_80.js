@@ -106,22 +106,49 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 	});
 
 	// 判断范围 不要最后一个元素array.slice(0, -1); 不需要修改原数组 
-	const inRange0 = wr_arr[0][0].slice(0, -1).includes(count0);
-	const inRange1 = wr_arr[0][1].slice(0, -1).includes(count1);
-	const inRange2 = wr_arr[0][2].slice(0, -1).includes(count2);
-	const inRangeOdd = wr_arr[1][0].slice(0, -1).includes(oddCount);
-	const inRangeEven = wr_arr[1][1].slice(0, -1).includes(evenCount);
-	const inRange_0_29 = wr_arr[2][0].slice(0, -1).includes(count_0_29);
-	const inRange_30_59 = wr_arr[2][1].slice(0, -1).includes(count_30_59);
-	const inRange_60_89 = wr_arr[2][2].slice(0, -1).includes(count_60_89);
-	const inRangePrime = wr_arr[3][0].slice(0, -1).includes(primeCount);
-	const inRangeNonPrime = wr_arr[3][1].slice(0, -1).includes(nonPrimeCount);
+	// const inRange0 = wr_arr[0][0].slice(0, -1).includes(count0);
+	// const inRange1 = wr_arr[0][1].slice(0, -1).includes(count1);
+	// const inRange2 = wr_arr[0][2].slice(0, -1).includes(count2);
+	// const inRangeOdd = wr_arr[1][0].slice(0, -1).includes(oddCount);
+	// const inRangeEven = wr_arr[1][1].slice(0, -1).includes(evenCount);
+	// const inRange_0_29 = wr_arr[2][0].slice(0, -1).includes(count_0_29);
+	// const inRange_30_59 = wr_arr[2][1].slice(0, -1).includes(count_30_59);
+	// const inRange_60_89 = wr_arr[2][2].slice(0, -1).includes(count_60_89);
+	// const inRangePrime = wr_arr[3][0].slice(0, -1).includes(primeCount);
+	// const inRangeNonPrime = wr_arr[3][1].slice(0, -1).includes(nonPrimeCount);
 
 	// 输出
 	let str1 = '';
-	str1 += "012路比例 <font class="+(inRange0 ? 'highlight1' : '')+">["+wr_arr[0][0]+"]</font> : <font class="+(inRange1 ? 'highlight1' : '')+">["+wr_arr[0][1]+"]</font> : <font class="+(inRange2 ? 'highlight1' : '')+">["+wr_arr[0][2]+"]</font><br>"
-	str1 += "奇偶比例 <font class="+(inRangeOdd ? 'highlight1' : '')+">["+wr_arr[1][0]+"]</font> : <font class="+(inRangeEven ? 'highlight1' : '')+">["+wr_arr[1][1]+"]</font><br>"
-	str1 += "0-29、30-59、60-89比例 <font class="+(inRange_0_29 ? 'highlight1' : '')+">["+wr_arr[2][0]+"]</font> : <font class="+(inRange_30_59 ? 'highlight1' : '')+">["+wr_arr[2][1]+"]</font> : <font class="+(inRange_60_89 ? 'highlight1' : '')+">["+wr_arr[2][2]+"]</font><br>"
-	str1 += "质数、非质数比例 <font class="+(inRangePrime ? 'highlight1' : '')+">["+wr_arr[3][0]+"]</font> : <font class="+(inRangeNonPrime ? 'highlight1' : '')+">["+wr_arr[3][1]+"]</font>"
+	str1 += "012路比例 <font class="+returnRangeClass(count0, wr_arr[0][0])+">["+wr_arr[0][0]+"]</font> : <font class="+returnRangeClass(count1, wr_arr[0][1])+">["+wr_arr[0][1]+"]</font> : <font class="+returnRangeClass(count2, wr_arr[0][2])+">["+wr_arr[0][2]+"]</font><br>"
+	str1 += "奇偶比例 <font class="+returnRangeClass(oddCount, wr_arr[1][0])+">["+wr_arr[1][0]+"]</font> : <font class="+returnRangeClass(evenCount, wr_arr[1][1])+">["+wr_arr[1][1]+"]</font><br>"
+	str1 += "0-29、30-59、60-89比例 <font class="+returnRangeClass(count_0_29, wr_arr[2][0])+">["+wr_arr[2][0]+"]</font> : <font class="+returnRangeClass(count_30_59, wr_arr[2][1])+">["+wr_arr[2][1]+"]</font> : <font class="+returnRangeClass(count_60_89, wr_arr[2][2])+">["+wr_arr[2][2]+"]</font><br>"
+	str1 += "质数、非质数比例 <font class="+returnRangeClass(primeCount, wr_arr[3][0])+">["+wr_arr[3][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[3][1])+">["+wr_arr[3][1]+"]</font>"
 	document.getElementById(nid).innerHTML = str1;
+}
+
+// 返回在范围内、大于范围的样式
+function returnRangeClass(count, arr) {
+	const array = arr.slice(0, -1);
+	const inRange = array.includes(count);
+	const inRangeUp = isGreaterThanArray(count, array);
+	const inRangeDown = isValueLessThanArray(count, array);
+	let str1 = '';
+	if (inRange) {
+		str1 = 'highlight1';
+	} else {
+		if (inRangeUp) {
+			str1 = 'highlight2';
+		}
+	}
+	return str1;
+}
+
+// 返回true 大于最大值
+function isGreaterThanArray(value, array) {
+	return array.every(item => value > item);
+}
+
+// 返回true 小于最小值
+function isValueLessThanArray(value, array) {
+	return array.some(item => value < item);
 }

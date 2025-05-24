@@ -116,6 +116,21 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 	// const inRange_60_89 = wr_arr[2][2].slice(0, -1).includes(count_60_89);
 	// const inRangePrime = wr_arr[3][0].slice(0, -1).includes(primeCount);
 	// const inRangeNonPrime = wr_arr[3][1].slice(0, -1).includes(nonPrimeCount);
+	// 保留2为小数 3≈3.00
+	// wr_arr[0][0][wr_arr[0][0].length - 1] = parseFloat(wr_arr[0][0][wr_arr[0][0].length - 1].toFixed(2));
+	// wr_arr[0][1][wr_arr[0][1].length - 1] = parseFloat(wr_arr[0][1][wr_arr[0][1].length - 1].toFixed(2));
+	// wr_arr[0][2][wr_arr[0][2].length - 1] = parseFloat(wr_arr[0][2][wr_arr[0][2].length - 1].toFixed(2));
+	// wr_arr[1][0][wr_arr[1][0].length - 1] = parseFloat(wr_arr[1][0][wr_arr[1][0].length - 1].toFixed(2));
+	// wr_arr[1][1][wr_arr[1][1].length - 1] = parseFloat(wr_arr[1][1][wr_arr[1][1].length - 1].toFixed(2));
+	// wr_arr[2][0][wr_arr[2][0].length - 1] = parseFloat(wr_arr[2][0][wr_arr[2][0].length - 1].toFixed(2));
+	// wr_arr[2][1][wr_arr[2][1].length - 1] = parseFloat(wr_arr[2][1][wr_arr[2][1].length - 1].toFixed(2));
+	// wr_arr[2][2][wr_arr[2][2].length - 1] = parseFloat(wr_arr[2][2][wr_arr[2][2].length - 1].toFixed(2));
+	// wr_arr[3][0][wr_arr[3][0].length - 1] = parseFloat(wr_arr[3][0][wr_arr[3][0].length - 1].toFixed(2));
+	// wr_arr[3][1][wr_arr[3][1].length - 1] = parseFloat(wr_arr[3][1][wr_arr[3][1].length - 1].toFixed(2));
+	// console.log(arr_sort(wr_arr[0]));
+	// console.log(arr_sort(wr_arr[1]));
+	// console.log(arr_sort(wr_arr[2]));
+	// console.log(arr_sort(wr_arr[3]));
 
 	// 输出
 	let str1 = '';
@@ -152,3 +167,90 @@ function isGreaterThanArray(value, array) {
 function isValueLessThanArray(value, array) {
 	return array.some(item => value < item);
 }
+
+// 二维数组每行取最后值，获取这些值中最小的返回，并且返回该行数组原来的所有
+function arr_sort(array) {
+	let minVal = array[0][array[0].length - 1];
+	let minIndex = 0;
+	array.forEach((row, index) => {
+		const lastVal = row[row.length - 1];
+		if (lastVal < minVal) {
+			minVal = lastVal;
+			minIndex = index;
+		}
+	});
+	const minRowWithoutLast = array[minIndex].slice(0, -1);  // 去掉最后一个值
+	return [minVal, minIndex, minRowWithoutLast];
+}
+
+// 最优推荐
+function tj_zy() {
+	const data = [1, 3, 6, 7, 11, 12, 15, 17, 19, 20, 24, 27, 31, 34, 35, 36, 42, 45, 46, 49, 53, 54, 56, 57, 61, 65, 66, 70, 74, 76, 80];
+	const mod2Nums = data.filter(n => n % 3 === 2);
+	const oddNums = data.filter(n => n % 2 === 1);
+	const range60_89 = data.filter(n => n >= 60 && n <= 89);
+	const primeNums = data.filter(isPrime);
+
+	function randomPick(arr, count) {
+		const copy = [...arr];
+		const result = [];
+		while (result.length < count && copy.length > 0) {
+			const idx = Math.floor(Math.random() * copy.length);
+			result.push(copy.splice(idx, 1)[0]);
+		}
+		return result;
+	}
+
+	function scoreCombo(combo) {
+		let score = 0;
+		combo.forEach(n => {
+			let count = 0;
+			if (mod2Nums.includes(n)) count++;
+			if (oddNums.includes(n)) count++;
+			if (range60_89.includes(n)) count++;
+			if (primeNums.includes(n)) count++;
+			score += count;
+		});
+		score += 10 - combo.length;  // 越短越优
+		return score;
+	}
+
+	function findBestCombo() {
+		const seen = new Set();
+		let best = null;
+		let tries = 0;
+		while (tries < 10000) {
+			tries++;
+			const mod2Count = Math.floor(Math.random() * 2) + 3; // 3~4
+			const oddCount = Math.floor(Math.random() * 3) + 3;  // 3~5
+			const primeCount = Math.floor(Math.random() * 2) + 2;// 2~3
+
+			const mod2 = randomPick(mod2Nums, mod2Count);
+			const odd = randomPick(oddNums, oddCount);
+			const range = randomPick(range60_89, 2);
+			const prime = randomPick(primeNums, primeCount);
+			const combo = Array.from(new Set([...mod2, ...odd, ...range, ...prime]));
+			if (combo.length <= 10) {
+				const key = combo.slice().sort((a,b)=>a-b).join(',');
+				if (!seen.has(key)) {
+					seen.add(key);
+					const score = scoreCombo(combo);
+					if (!best || score > best.score) {
+						best = { combo, mod2, odd, range, prime, score };
+					}
+				}
+			}
+		}
+		return best;
+	}
+
+	const bestCombo = findBestCombo();
+	console.log("最优推荐组合:");
+	console.log("组合:", bestCombo.combo);
+	console.log("得分:", bestCombo.score);
+	console.log("包含2路数:", bestCombo.mod2);
+	console.log("包含奇数:", bestCombo.odd);
+	console.log("60-89区间:", bestCombo.range);
+	console.log("质数:", bestCombo.prime);
+}
+tj_zy();

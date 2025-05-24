@@ -105,17 +105,17 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 		else nonPrimeCount++;
 	});
 
-	// 判断范围
-	const inRange0 = wr_arr[0][0].includes(count0);
-	const inRange1 = wr_arr[0][1].includes(count1);
-	const inRange2 = wr_arr[0][2].includes(count2);
-	const inRangeOdd = wr_arr[1][0].includes(oddCount);
-	const inRangeEven = wr_arr[1][1].includes(evenCount);
-	const inRange_0_29 = wr_arr[2][0].includes(count_0_29);
-	const inRange_30_59 = wr_arr[2][1].includes(count_30_59);
-	const inRange_60_89 = wr_arr[2][2].includes(count_60_89);
-	const inRangePrime = wr_arr[3][0].includes(primeCount);
-	const inRangeNonPrime = wr_arr[3][1].includes(nonPrimeCount);
+	// 判断范围 不要最后一个元素array.slice(0, -1); 不需要修改原数组 
+	const inRange0 = wr_arr[0][0].slice(0, -1).includes(count0);
+	const inRange1 = wr_arr[0][1].slice(0, -1).includes(count1);
+	const inRange2 = wr_arr[0][2].slice(0, -1).includes(count2);
+	const inRangeOdd = wr_arr[1][0].slice(0, -1).includes(oddCount);
+	const inRangeEven = wr_arr[1][1].slice(0, -1).includes(evenCount);
+	const inRange_0_29 = wr_arr[2][0].slice(0, -1).includes(count_0_29);
+	const inRange_30_59 = wr_arr[2][1].slice(0, -1).includes(count_30_59);
+	const inRange_60_89 = wr_arr[2][2].slice(0, -1).includes(count_60_89);
+	const inRangePrime = wr_arr[3][0].slice(0, -1).includes(primeCount);
+	const inRangeNonPrime = wr_arr[3][1].slice(0, -1).includes(nonPrimeCount);
 
 	// 输出
 	let str1 = '';

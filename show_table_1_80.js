@@ -185,7 +185,8 @@ function arr_sort(array) {
 
 // 最优推荐
 function tj_zy(data, where) {
-	const data = [1, 3, 6, 7, 11, 12, 15, 17, 19, 20, 24, 27, 31, 34, 35, 36, 42, 45, 46, 49, 53, 54, 56, 57, 61, 65, 66, 70, 74, 76, 80];
+	const where1 = where;
+	// const data = [1, 3, 6, 7, 11, 12, 15, 17, 19, 20, 24, 27, 31, 34, 35, 36, 42, 45, 46, 49, 53, 54, 56, 57, 61, 65, 66, 70, 74, 76, 80];
 	const mod2Nums = data.filter(n => n % 3 === 2);
 	const oddNums = data.filter(n => n % 2 === 1);
 	const range60_89 = data.filter(n => n >= 60 && n <= 89);

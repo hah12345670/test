@@ -184,14 +184,117 @@ function arr_sort(array) {
 }
 
 // 最优推荐
-function tj_zy(data, where) {
-	const where1 = where;
-	// const data = [1, 3, 6, 7, 11, 12, 15, 17, 19, 20, 24, 27, 31, 34, 35, 36, 42, 45, 46, 49, 53, 54, 56, 57, 61, 65, 66, 70, 74, 76, 80];
-	const mod2Nums = data.filter(n => n % 3 === 2);
-	const oddNums = data.filter(n => n % 2 === 1);
-	const range60_89 = data.filter(n => n >= 60 && n <= 89);
-	const primeNums = data.filter(isPrime);
+// function tj_zy(data, where1) { // 参数还没处理好
+// 	{
+// 		data: [1, 3, 5, 8, 13, 18, 22, 29, 35, 41, 45, 50, 52, 60, 65, 70, 72, 80],
+// 		config: [
+// 			{ type: "mod", mod: 3, eq: 0, name: "mod0", count: [2, 3, 4] },
+// 			{ type: "mod", mod: 3, eq: 1, name: "mod1", count: [3, 4, 5] },
+// 			{ type: "mod", mod: 3, eq: 2, name: "mod2", count: [3, 4] },
+// 			{ type: "odd", count: [3, 4, 5] },
+// 			{ type: "even", count: [5, 6, 7] },
+// 			{ type: "range", min: 0, max: 29, name: "range0_29", count: [3, 4] },
+// 			{ type: "range", min: 30, max: 59, name: "range30_59", count: [4, 5, 6] },
+// 			{ type: "range", min: 60, max: 89, name: "range60_89", count: [2, 3] },
+// 			{ type: "prime", count: [2, 3] },
+// 			{ type: "nonPrime", count: [6, 7, 8] }
+// 		]
+// 	}
 
+// 	// 从数组随机选count个数，确保无重复
+// 	function randomPick(arr, count) {
+// 		const copy = [...arr];
+// 		const result = [];
+// 		while (result.length < count && copy.length > 0) {
+// 			const idx = Math.floor(Math.random() * copy.length);
+// 			result.push(copy.splice(idx, 1)[0]);
+// 		}
+// 		return result;
+// 	}
+
+// 	// 从数组随机取一个值
+// 	function randomFrom(arr) {
+// 		return arr[Math.floor(Math.random() * arr.length)];
+// 	}
+
+// 	// 构建规则和对应数字集合
+// 	const ruleSet = {};
+// 	for (const rule of config) {
+// 		const name = rule.name || rule.type;
+// 		let filterFn;
+// 		switch (rule.type) {
+// 			case "mod": filterFn = n => n % rule.mod === rule.eq; break;
+// 			case "odd": filterFn = n => n % 2 === 1; break;
+// 			case "even": filterFn = n => n % 2 === 0; break;
+// 			case "range": filterFn = n => n >= rule.min && n <= rule.max; break;
+// 			case "prime": filterFn = isPrime; break;
+// 			case "nonPrime": filterFn = n => !isPrime(n); break;
+// 			default: continue;
+// 		}
+// 		ruleSet[name] = {
+// 			countRange: rule.count,
+// 			set: data.filter(filterFn),
+// 		};
+// 	}
+
+// 	// 评分函数：数字越多命中规则越高，且组合越短越优
+// 	function scoreCombo(combo) {
+// 		let score = 0;
+// 		for (const r of Object.values(ruleSet)) {
+// 			score += combo.filter(n => r.set.includes(n)).length;
+// 		}
+// 		score += 10 - combo.length;
+// 		return score;
+// 	}
+
+// 	// 找出最优组合
+// 	function findBestCombo() {
+// 		const seen = new Set();
+// 		let best = null;
+// 		let tries = 0;
+// 		while (tries < 10000) {
+// 			tries++;
+// 			let picked = [];
+// 			for (const r of Object.values(ruleSet)) {
+// 				const count = randomFrom(r.countRange);
+// 				picked.push(...randomPick(r.set, count));
+// 			}
+// 			// 去重并升序排序
+// 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b);
+// 			if (combo.length <= 10) {
+// 				const key = combo.join(',');
+// 				if (!seen.has(key)) {
+// 					seen.add(key);
+// 					const score = scoreCombo(combo);
+// 					if (!best || score > best.score) {
+// 						best = { combo, score };
+// 					}
+// 				}
+// 			}
+// 		}
+// 		return best;
+// 	}
+
+// 	const bestCombo = findBestCombo();
+// 	console.log("🎯 最优推荐组合:");
+// 	console.log("组合:", bestCombo.combo.join(', '));
+// 	console.log("得分:", bestCombo.score);
+// }
+
+function tj_zy(data, ruleGroups) {
+	// ruleGroups = [
+	// 							[[],[],ruleGroups[0][2]],
+	// 							[[],[]],
+	// 							[[],[],[]],
+	// 							[[],[]],
+	// 							];
+	
+	// 获取012路分类（取模3）
+	function modClass(n) {
+		return n % 3;
+	}
+
+	// 从数组中随机挑选count个不重复元素
 	function randomPick(arr, count) {
 		const copy = [...arr];
 		const result = [];
@@ -202,55 +305,167 @@ function tj_zy(data, where) {
 		return result;
 	}
 
+	// 从数组中随机选一个元素
+	function randomFrom(arr) {
+		return arr[Math.floor(Math.random() * arr.length)];
+	}
+
+	// 权重换算：权重值越小表示越重要，取倒数使其得分更高
+	const inverseWeight = w => 1 / w;
+
+	// 区间定义，用于三段区间：0-29，30-59，60-89
+	const ranges = [
+		{ min: 0, max: 29 },
+		{ min: 30, max: 59 },
+		{ min: 60, max: 89 }
+	];
+
+	const ruleSet = [];
+
+	// === 处理规则组 ===
+
+	// 1. 处理012路规则
+	if (ruleGroups[0]) {
+		for (let i = 0; i < 3; i++) {
+			const rule = ruleGroups[0][i];
+			if (!rule || rule.length < 2) continue; // 空规则跳过
+			const countRange = rule.slice(0, -1);
+			const weight = inverseWeight(rule[rule.length - 1]);
+			ruleSet.push({
+				name: `mod${i}`,
+				countRange,
+				weight,
+				set: data.filter(n => modClass(n) === i)
+			});
+		}
+	}
+
+	// 2. 奇偶规则
+	if (ruleGroups[1]) {
+		const [oddRule, evenRule] = ruleGroups[1];
+
+		if (oddRule && oddRule.length >= 2) {
+			const countRange = oddRule.slice(0, -1);
+			const weight = inverseWeight(oddRule[oddRule.length - 1]);
+			ruleSet.push({
+				name: 'odd',
+				countRange,
+				weight,
+				set: data.filter(n => n % 2 === 1)
+			});
+		}
+
+		if (evenRule && evenRule.length >= 2) {
+			const countRange = evenRule.slice(0, -1);
+			const weight = inverseWeight(evenRule[evenRule.length - 1]);
+			ruleSet.push({
+				name: 'even',
+				countRange,
+				weight,
+				set: data.filter(n => n % 2 === 0)
+			});
+		}
+	}
+
+	// 3. 区间规则（0-29, 30-59, 60-89）
+	if (ruleGroups[2]) {
+		for (let i = 0; i < 3; i++) {
+			const rule = ruleGroups[2][i];
+			if (!rule || rule.length < 2) continue;
+			const countRange = rule.slice(0, -1);
+			const weight = inverseWeight(rule[rule.length - 1]);
+			ruleSet.push({
+				name: `range_${ranges[i].min}_${ranges[i].max}`,
+				countRange,
+				weight,
+				set: data.filter(n => n >= ranges[i].min && n <= ranges[i].max)
+			});
+		}
+	}
+
+	// 4. 质数 / 非质数规则
+	if (ruleGroups[3]) {
+		const [primeRule, nonPrimeRule] = ruleGroups[3];
+
+		if (primeRule && primeRule.length >= 2) {
+			const countRange = primeRule.slice(0, -1);
+			const weight = inverseWeight(primeRule[primeRule.length - 1]);
+			ruleSet.push({
+				name: 'prime',
+				countRange,
+				weight,
+				set: data.filter(isPrime)
+			});
+		}
+
+		if (nonPrimeRule && nonPrimeRule.length >= 2) {
+			const countRange = nonPrimeRule.slice(0, -1);
+			const weight = inverseWeight(nonPrimeRule[nonPrimeRule.length - 1]);
+			ruleSet.push({
+				name: 'nonPrime',
+				countRange,
+				weight,
+				set: data.filter(n => !isPrime(n))
+			});
+		}
+	}
+
+	// === 组合评分 ===
 	function scoreCombo(combo) {
 		let score = 0;
-		combo.forEach(n => {
-			let count = 0;
-			if (mod2Nums.includes(n)) count++;
-			if (oddNums.includes(n)) count++;
-			if (range60_89.includes(n)) count++;
-			if (primeNums.includes(n)) count++;
-			score += count;
-		});
-		score += 10 - combo.length;  // 越短越优
+		for (const rule of ruleSet) {
+			const hitCount = combo.filter(n => rule.set.includes(n)).length;
+			score += hitCount * rule.weight;
+		}
+		score += 10 - combo.length; // 越短越优
 		return score;
 	}
 
+	// === 搜索最优组合 ===
 	function findBestCombo() {
 		const seen = new Set();
 		let best = null;
 		let tries = 0;
+
 		while (tries < 10000) {
 			tries++;
-			const mod2Count = Math.floor(Math.random() * 2) + 3; // 3~4
-			const oddCount = Math.floor(Math.random() * 3) + 3;  // 3~5
-			const primeCount = Math.floor(Math.random() * 2) + 2;// 2~3
+			let picked = [];
 
-			const mod2 = randomPick(mod2Nums, mod2Count);
-			const odd = randomPick(oddNums, oddCount);
-			const range = randomPick(range60_89, 2);
-			const prime = randomPick(primeNums, primeCount);
-			const combo = Array.from(new Set([...mod2, ...odd, ...range, ...prime]));
+			for (const rule of ruleSet) {
+				const count = randomFrom(rule.countRange);
+				picked.push(...randomPick(rule.set, count));
+			}
+
+			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
 			if (combo.length <= 10) {
-				const key = combo.slice().sort((a,b)=>a-b).join(',');
+				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);
 					const score = scoreCombo(combo);
 					if (!best || score > best.score) {
-						best = { combo, mod2, odd, range, prime, score };
+						best = { combo, score: parseFloat(score.toFixed(3)) };
 					}
 				}
 			}
 		}
+
 		return best;
 	}
 
+	// === 主执行 ===
 	const bestCombo = findBestCombo();
-	console.log("最优推荐组合:");
-	console.log("组合:", bestCombo.combo);
-	console.log("得分:", bestCombo.score);
-	console.log("包含2路数:", bestCombo.mod2);
-	console.log("包含奇数:", bestCombo.odd);
-	console.log("60-89区间:", bestCombo.range);
-	console.log("质数:", bestCombo.prime);
+	let str1 = '';
+	if (bestCombo && bestCombo.combo.length) {
+		str1 += '最优推荐组合: <br>';
+		str1 += '组合: '+bestCombo.combo.join(', ')+'<br>';
+		str1 += '得分: '+bestCombo.score+'<br>';
+		// console.log("🎯 最优推荐组合:");
+		// console.log("组合:", bestCombo.combo.join(', '));
+		// console.log("得分:", bestCombo.score);
+		// return bestCombo;
+	} else {
+		str1 += '暂无推荐！<br>';
+		// console.log("暂无推荐！");
+	}
+	gridOutput.innerHTML = str1;
 }

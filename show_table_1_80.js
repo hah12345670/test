@@ -470,7 +470,7 @@ function tj_zy(data, ruleGroups) {
 		let best = null;
 		let tries = 0;
 
-		while (tries < 10000) {
+		while (tries < 10000*3) {
 			tries++;
 			let picked = [];
 
@@ -480,7 +480,8 @@ function tj_zy(data, ruleGroups) {
 			}
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
-			if (combo.length <= 10) {
+			const is_repeated = generateAndCheck(combo); // 是否重复2、3
+			if (combo.length <= 10 && is_repeated) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);
@@ -511,4 +512,33 @@ function tj_zy(data, ruleGroups) {
 		// console.log("暂无推荐！");
 	}
 	gridOutput.innerHTML = str1;
+}
+
+// 随机的数组和交集是否满足条件
+function generateAndCheck(randomArray) {
+	const baseArray = getArrayRelations(newtj_arr, arr[0][1]).intersection;
+	const intersection = randomArray.filter(num => baseArray.includes(num));
+	const matchCount = intersection.length;
+	const isValid = matchCount === 2 || matchCount === 3;
+	return isValid;
+}
+
+// 获取数组的交集
+function getArrayRelations(array1, array2) {
+	// const set1 = new Set(array1);
+	const set2 = new Set(array2);
+	// 交集
+	const intersection = array1.filter(item => set2.has(item));
+	// 差集：arr1 中有，arr2 中没有
+	// const difference = array1.filter(item => !set2.has(item));
+	// 对称差集：两个数组中不重复的部分
+	// const symmetricDifference = [
+	// 	...array1.filter(item => !set2.has(item)),
+	// 	...array2.filter(item => !set1.has(item))
+	// ];
+	return {
+		intersection,
+		// difference,
+		// symmetricDifference
+	};
 }

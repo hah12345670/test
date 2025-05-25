@@ -15,10 +15,10 @@
 	width: 50px;
 }
 
-.item:hover {
+/* .item:hover {
 	background-color: #2797ff;
 	color: white;
-}
+} */
 
 .selected {
 	background-color: #2797ff;

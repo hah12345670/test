@@ -28,6 +28,27 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">145期必中18码：</font><font color=\'#FF0000\' size=\'2\'>18.30.42.02.14.26.11.23.35.03.27.39.09.21.33.10.22.46</font></li>");
+document.writeln("            	<li>145期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">18.30.42.02.14.26.11.23.35</font></li>");
+document.writeln("            	<li>145期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-18.30.42）</font></li>");
+document.writeln("            	<li>145期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊</font></li>");
+document.writeln("            	<li>145期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊兔鸡猴</font></li>");
+document.writeln("            	<li>145期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊兔鸡猴猪狗</font></li>");
+document.writeln("             	<li>145期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊兔鸡猴猪狗虎牛</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -36,13 +57,11 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">144期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.30.42.07.19.31.02.14.26.13.25.49.05.17.41.20.32.44</font></li>");
-document.writeln("            	<li>144期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">06.30.42.07.19.31.02.14.26</font></li>");
-document.writeln("            	<li>144期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-06.30.42）</font></li>");
-document.writeln("            	<li>144期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙</font></li>");
-document.writeln("            	<li>144期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙蛇牛狗</font></li>");
-document.writeln("            	<li>144期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙蛇牛狗鸡羊</font></li>");
-document.writeln("             	<li>144期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙蛇牛狗鸡羊马猴</font></li>");
+document.writeln(" 	            <li><font size=\"2\">144期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.30.42.07.19.31.02.14.26.13.<span style=\'background-color: #FFFF00\'>25</span>.49.05.17.41.20.32.44</font></li>");
+
+document.writeln("            	<li>144期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙<span style=\'background-color: #FFFF00\'>蛇</span>牛狗</font></li>");
+document.writeln("            	<li>144期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙<span style=\'background-color: #FFFF00\'>蛇</span>牛狗鸡羊</font></li>");
+document.writeln("             	<li>144期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鼠猪龙<span style=\'background-color: #FFFF00\'>蛇</span>牛狗鸡羊马猴</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

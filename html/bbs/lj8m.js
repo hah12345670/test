@@ -44,9 +44,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("");
-document.writeln("143期：18.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">10</span></font>.12.16.28.20.22.26<br><br>");
-document.writeln("144期：48.09.06.03.45.42<br><br>");
+document.writeln("141期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>牛猴龙<br><br>");
+document.writeln("142期：羊鸡虎马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font><br><br>");
+document.writeln("143期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙马<br><br>");
+document.writeln("144期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>牛兔龙<br><br>");
+document.writeln("145期：鸡牛猪<br><br>");
 
 document.writeln("");
 document.writeln("</font></a>		");

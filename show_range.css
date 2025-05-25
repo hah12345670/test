@@ -15,14 +15,15 @@
 }
 
 .item:hover {
-	background-color: #d0ebff;
+	background-color: #2797ff;
+	color: white;
 }
 
 .selected {
-	background-color: #339af0;
+	background-color: #2797ff;
 	color: white;
 	font-weight: bold;
-	box-shadow: 0 0 5px #339af0;
+	box-shadow: 0 0 5px #2797ff;
 }
 
 .grid {

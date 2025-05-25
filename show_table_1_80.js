@@ -311,7 +311,50 @@ function tj_zy(data, ruleGroups) {
 	}
 
 	// 权重换算：权重值越小表示越重要，取倒数使其得分更高
-	const inverseWeight = w => 1 / w;
+	const inverseWeight = (w, arr) => {
+		// 默认参数直接写在函数内部
+		const alpha = 1;   // 倒数项权重
+		const beta = 0.7;  // 最大值归一项权重
+		const gamma = 0.3; // 最小值归一项权重
+		const delta = 0.5; // 数组长度项权重
+
+		const minVal = 0;         // 数组值预期最小值（用于归一化）
+		const maxVal = 80;       // 数组值预期最大值（用于归一化）
+		const maxExpectedLength = 20; // 数组预期最大长度
+		const epsilon = 1e-6;     // 防止除以 0
+
+		// 校验
+		if (typeof w !== 'number' || isNaN(w) || w === 0) {
+			throw new Error('w 必须是非零数字');
+		}
+
+		if (!Array.isArray(arr) || arr.length === 0) {
+			throw new Error('arr 必须是非空数组');
+		}
+
+		const numbersOnly = arr.filter(x => typeof x === 'number' && !isNaN(x));
+		if (numbersOnly.length !== arr.length) {
+			throw new Error('数组必须只包含数字');
+		}
+
+		// 计算各部分
+		const invW = 1 / (w + epsilon);
+		const max = Math.max(...numbersOnly);
+		const min = Math.min(...numbersOnly);
+		const len = numbersOnly.length;
+
+		const maxNorm = (max - minVal) / (maxVal - minVal);
+		const minNorm = (min - minVal) / (maxVal - minVal);
+		const lenNorm = len / maxExpectedLength;
+
+		// 综合得分
+		return (
+			alpha * invW +
+			beta * maxNorm +
+			gamma * minNorm +
+			delta * lenNorm
+		);
+	};
 
 	// 区间定义，用于三段区间：0-29，30-59，60-89
 	const ranges = [
@@ -330,7 +373,7 @@ function tj_zy(data, ruleGroups) {
 			const rule = ruleGroups[0][i];
 			if (!rule || rule.length < 2) continue; // 空规则跳过
 			const countRange = rule.slice(0, -1);
-			const weight = inverseWeight(rule[rule.length - 1]);
+			const weight = inverseWeight(rule[rule.length - 1], rule.slice(0, rule.length - 1));
 			ruleSet.push({
 				name: `mod${i}`,
 				countRange,
@@ -346,7 +389,7 @@ function tj_zy(data, ruleGroups) {
 
 		if (oddRule && oddRule.length >= 2) {
 			const countRange = oddRule.slice(0, -1);
-			const weight = inverseWeight(oddRule[oddRule.length - 1]);
+			const weight = inverseWeight(oddRule[oddRule.length - 1], oddRule.slice(0, oddRule.length - 1));
 			ruleSet.push({
 				name: 'odd',
 				countRange,
@@ -357,7 +400,7 @@ function tj_zy(data, ruleGroups) {
 
 		if (evenRule && evenRule.length >= 2) {
 			const countRange = evenRule.slice(0, -1);
-			const weight = inverseWeight(evenRule[evenRule.length - 1]);
+			const weight = inverseWeight(evenRule[evenRule.length - 1], evenRule.slice(0, evenRule.length - 1));
 			ruleSet.push({
 				name: 'even',
 				countRange,
@@ -373,7 +416,7 @@ function tj_zy(data, ruleGroups) {
 			const rule = ruleGroups[2][i];
 			if (!rule || rule.length < 2) continue;
 			const countRange = rule.slice(0, -1);
-			const weight = inverseWeight(rule[rule.length - 1]);
+			const weight = inverseWeight(rule[rule.length - 1], rule.slice(0, rule.length - 1));
 			ruleSet.push({
 				name: `range_${ranges[i].min}_${ranges[i].max}`,
 				countRange,
@@ -389,7 +432,7 @@ function tj_zy(data, ruleGroups) {
 
 		if (primeRule && primeRule.length >= 2) {
 			const countRange = primeRule.slice(0, -1);
-			const weight = inverseWeight(primeRule[primeRule.length - 1]);
+			const weight = inverseWeight(primeRule[primeRule.length - 1], primeRule.slice(0, primeRule.length - 1));
 			ruleSet.push({
 				name: 'prime',
 				countRange,
@@ -400,7 +443,7 @@ function tj_zy(data, ruleGroups) {
 
 		if (nonPrimeRule && nonPrimeRule.length >= 2) {
 			const countRange = nonPrimeRule.slice(0, -1);
-			const weight = inverseWeight(nonPrimeRule[nonPrimeRule.length - 1]);
+			const weight = inverseWeight(nonPrimeRule[nonPrimeRule.length - 1], nonPrimeRule.slice(0, nonPrimeRule.length - 1));
 			ruleSet.push({
 				name: 'nonPrime',
 				countRange,

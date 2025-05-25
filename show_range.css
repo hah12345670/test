@@ -1,5 +1,6 @@
 .row {
 	margin-bottom: 0px;
+	float: left;
 }
 
 .item {
@@ -28,4 +29,5 @@
 
 .grid {
 	margin-top: 10px;
+	clear: both;
 }

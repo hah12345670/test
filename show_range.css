@@ -11,6 +11,7 @@
 	cursor: pointer;
 	font-family: sans-serif;
 	transition: 0.2s ease;
+	width: 50px;
 }
 
 .item:hover {

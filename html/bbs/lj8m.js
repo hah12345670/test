@@ -48,7 +48,8 @@ document.writeln("141期：<font color=\'#FF0000\' size=\'5\'><span style=\"back
 document.writeln("142期：羊鸡虎马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font><br><br>");
 document.writeln("143期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙马<br><br>");
 document.writeln("144期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>牛兔龙<br><br>");
-document.writeln("145期：鸡牛猪<br><br>");
+document.writeln("145期：鸡</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font style=\"font-size: 13pt\">猪<br><br>");
+document.writeln("146期：羊鸡狗<br><br>");
 
 document.writeln("");
 document.writeln("</font></a>		");

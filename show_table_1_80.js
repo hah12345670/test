@@ -480,8 +480,8 @@ function tj_zy(data, ruleGroups) {
 			}
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
-			const is_repeated = generateAndCheck(combo); // 是否重复2、3
-			if (combo.length <= 10 && is_repeated) {
+			// const is_repeated = generateAndCheck(combo); // 是否重复2、3
+			if (combo.length <= 10) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

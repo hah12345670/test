@@ -310,6 +310,16 @@ function tj_zy(data, ruleGroups) {
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
+	// 验证逻辑，组合中的每一条规则都满足它的数量范围
+	function isValidCombo(combo) {
+		for (const rule of ruleSet) {
+			const hitCount = combo.filter(n => rule.set.includes(n)).length;
+			const [min, max] = [Math.min(...rule.countRange), Math.max(...rule.countRange)];
+			if (hitCount < min || hitCount > max) return false;
+		}
+		return true;
+	}
+
 	// 权重换算：权重值越小表示越重要，取倒数使其得分更高
 	const inverseWeight = (w, arr) => {
 		// 默认参数直接写在函数内部
@@ -481,7 +491,7 @@ function tj_zy(data, ruleGroups) {
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
 			// const is_repeated = generateAndCheck(combo); // 是否重复2、3
-			if (combo.length <= 10) {
+			if (combo.length <= 10 && isValidCombo(combo) && generateAndCheck(combo)) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

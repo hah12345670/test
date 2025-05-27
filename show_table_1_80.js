@@ -490,8 +490,11 @@ function tj_zy(data, ruleGroups) {
 			}
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
-			// const is_repeated = generateAndCheck(combo); // 是否重复2、3
-			if (combo.length <= 10 && isValidCombo(combo)) {
+			let is_repeated = true;
+			if (isRepeat==1) {
+				is_repeated = generateAndCheck(combo); // 是否重复2、3
+			}
+			if (combo.length <= 10 && isValidCombo(combo) && is_repeated) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

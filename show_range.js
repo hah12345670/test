@@ -1,5 +1,6 @@
 const container = document.getElementById("container");
 const gridOutput = document.getElementById("gridOutput");
+const buttoncf = document.getElementById("buttoncf");
 
 container.addEventListener("click", function (e) {
 	if (e.target.classList.contains("item")) {
@@ -16,6 +17,18 @@ container.addEventListener("click", function (e) {
 		});
 
 		newwr_arr = result;
+		tj_zy(newtj_arr, newwr_arr);
+	}
+});
+
+buttoncf.addEventListener("click", function (e) {
+	if (e.target.classList.contains("item")) {
+		if (e.target.classList.toggle("selected")) {
+			isRepeat = 1;
+			// console.log(JSON.parse(e.target.dataset.value));
+		} else {
+			isRepeat = 0;
+		}
 		tj_zy(newtj_arr, newwr_arr);
 	}
 });

@@ -38,18 +38,17 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【我是牛马】(综合特码)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【赚点小钱】(大小12码)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("141期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>牛猴龙<br><br>");
-document.writeln("142期：羊鸡虎马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font><br><br>");
-document.writeln("143期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙马<br><br>");
-document.writeln("144期：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>牛兔龙<br><br>");
-document.writeln("145期：鸡</font><font color=\"#FF0000\" size=\"5\"><span style=\"background-color: #FFFF00\">牛</span></font><font style=\"font-size: 13pt\">猪<br><br>");
-document.writeln("147期：虎龙马<br><br>");
+document.writeln("146期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>02-14</span>数</font><br>");
+
+document.writeln("147期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
+document.writeln("148期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">04-16数</font><br>");
+
 
 document.writeln("");
 document.writeln("</font></a>		");

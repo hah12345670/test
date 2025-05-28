@@ -19,8 +19,7 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("147期王者六肖【虎猪鼠牛蛇羊】√<br>");
-
+document.writeln("148期王者六肖【马鸡狗鼠猪龙】√<br>");
 
 
 
@@ -80,8 +79,8 @@ document.writeln("142-143期￥龙蛇兔鸡<span style=\'background-color: #FFFF
 document.writeln("144-145期￥兔虎马猪<span style=\'background-color: #FFFF00\'>蛇</span>猴狗￥144期√<br>");
 document.writeln("145-146期￥龙狗蛇鼠猪虎<span style=\'background-color: #FFFF00\'>牛</span>￥145期√<br>");
 document.writeln("146-147期￥<span style=\'background-color: #FFFF00\'>龙</span>鸡牛虎猴蛇猪￥146期√<br>");
-document.writeln("147-148期￥蛇鼠虎兔狗龙牛￥000期√<br>");
-
+document.writeln("147-148期￥蛇鼠虎兔<span style=\'background-color: #FFFF00\'>狗</span>龙牛￥147期√<br>");
+document.writeln("148-149期￥鸡虎牛马蛇羊鼠￥000期√<br>");
 
 
 document.writeln("	");
@@ -110,7 +109,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("146期【野兽：<span style=\'background-color: #FFFF00\'>龙</span>猴兔蛇】开龙14√<br>");
-document.writeln("147期【家禽：牛鸡马狗】开？00√<br>");
+document.writeln("147期【家禽：牛鸡马<span style=\'background-color: #FFFF00\'>狗</span>】开狗32√<br>");
+document.writeln("148期【家禽：牛马羊鸡】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -141,7 +141,8 @@ document.writeln("143期【猪鼠鸡蛇虎马兔<span style=\'background-color: 
 document.writeln("144期【猪虎鼠羊狗马<span style=\'background-color: #FFFF00\'>蛇</span>猴龙】开蛇25√<br>");
 document.writeln("145期【狗蛇羊兔鼠猪虎龙<span style=\'background-color: #FFFF00\'>牛</span>】开牛17√<br>");
 document.writeln("146期【猪马鼠兔猴牛虎蛇羊】开龙14×<br>");
-document.writeln("147期【猪龙狗虎鼠牛马兔猴】开？00√<br>");
+document.writeln("147期【猪龙<span style=\'background-color: #FFFF00\'>狗</span>虎鼠牛马兔猴】开狗32√<br>");
+document.writeln("148期【鼠牛狗猴鸡羊虎蛇兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

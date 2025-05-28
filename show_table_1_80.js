@@ -411,6 +411,7 @@ function tj_zy(data, ruleGroups) {
 		return {
 			segmentCount,        // 使用的段位数量
 			category,            // 段位分类说明
+			segments,            // 使用的段位是哪些
 			isSegmentGE5,        // 是否段位数 >= 5
 			probability,         // 概率数值（浮点型）
 			probabilityText: (probability * 100).toFixed(1) + "%", // 概率文本
@@ -549,8 +550,8 @@ function tj_zy(data, ruleGroups) {
 			}
 			// 段位数量、段位概率
 			let is_dwrestart = true;
+			const num_gl = analyzeInputArray(combo);
 			if (isDwRestart==1) {
-				const num_gl = analyzeInputArray(combo);
 				is_dwrestart = (num_gl.isSegmentGE5 && num_gl.passProbabilistic);
 			}
 			if (combo.length <= 10 && isValidCombo(combo) && is_repeated && is_dwrestart) {
@@ -559,7 +560,11 @@ function tj_zy(data, ruleGroups) {
 					seen.add(key);
 					const score = scoreCombo(combo);
 					if (!best || score > best.score) {
-						best = { combo, score: parseFloat(score.toFixed(3)) };
+						// 将Set转换为数组，排序，值减1，然后转换为字符串
+						const segmentsString = Array.from(num_gl.segments).sort().map(value => value - 1).join(',');
+						best = { combo, score: parseFloat(score.toFixed(3)), 
+										segmentnum: num_gl.segmentCount, 
+										segments: segmentsString };
 					}
 				}
 			}
@@ -575,6 +580,8 @@ function tj_zy(data, ruleGroups) {
 		str1 += '最优推荐组合: <br>';
 		str1 += '组合: '+bestCombo.combo.join(', ')+'<br>';
 		str1 += '得分: '+bestCombo.score+'<br>';
+		str1 += '段位数量: '+bestCombo.segmentnum+'<br>';
+		str1 += '各个段位: '+bestCombo.segments+'<br>';
 		// console.log("🎯 最优推荐组合:");
 		// console.log("组合:", bestCombo.combo.join(', '));
 		// console.log("得分:", bestCombo.score);

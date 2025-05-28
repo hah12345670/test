@@ -29,5 +29,9 @@
 
 .grid {
 	margin: 10px 0px 0px 5px;
-	clear: both;
+  clear: both;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 25%;
+  height: 100px;
 }

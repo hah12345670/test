@@ -15,20 +15,6 @@
 	width: 50px;
 }
 
-/* 移动端样式（屏幕宽度 <= 768px） */
-@media screen and (max-width: 768px) {
-	.item {
-		width: 80px;         /* 放大宽度 */
-		padding: 15px;       /* 增大内边距 */
-		font-size: 18px;     /* 放大字体 */
-	}
-
-	.grid {
-		height: auto;        /* 让内容自适应高度 */
-		padding: 10px;
-	}
-}
-
 /* .item:hover {
 	background-color: #2797ff;
 	color: white;

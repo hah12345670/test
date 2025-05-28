@@ -366,6 +366,58 @@ function tj_zy(data, ruleGroups) {
 		);
 	};
 
+	// 判断是哪个段位的
+	function getSegment(num) {
+		if (num >= 1 && num <= 9) return 1;
+		if (num >= 10 && num <= 19) return 2;
+		if (num >= 20 && num <= 29) return 3;
+		if (num >= 30 && num <= 39) return 4;
+		if (num >= 40 && num <= 49) return 5;
+		if (num >= 50 && num <= 59) return 6;
+		if (num >= 60 && num <= 69) return 7;
+		if (num >= 70 && num <= 79) return 8;
+		// if (num === 80) return 9;  // 80 归为第9段位
+		return null;
+	}
+
+	// 返回段位数量、是否段位数 >= 5
+	function analyzeInputArray(arr) {
+		const segments = new Set();
+		for (const num of arr) {
+			const seg = getSegment(num);
+			if (seg !== null) segments.add(seg);
+		}
+	
+		const segmentCount = segments.size;
+		const isSegmentGE5 = segmentCount >= 5;
+	
+		let probability = 0;
+		let category = "";
+	
+		if (segmentCount < 5) {
+			probability = 0.30;  // <5 段位概率 30%
+			category = "<5 segments（低覆盖）";
+		} else if (segmentCount === 5) {
+			probability = 0.50;  // =5 段位概率 50%
+			category = "=5 segments（标准覆盖）";
+		} else {
+			probability = 0.20;  // >5 段位概率 20%
+			category = ">5 segments（高覆盖）";
+		}
+	
+		// 根据对应概率做随机判断
+		const passProbabilistic = Math.random() < probability;
+	
+		return {
+			segmentCount,        // 使用的段位数量
+			category,            // 段位分类说明
+			isSegmentGE5,        // 是否段位数 >= 5
+			probability,         // 概率数值（浮点型）
+			probabilityText: (probability * 100).toFixed(1) + "%", // 概率文本
+			passProbabilistic    // 概率判断结果 true/false
+		};
+	}
+
 	// 区间定义，用于三段区间：0-29，30-59，60-89
 	const ranges = [
 		{ min: 0, max: 29 },
@@ -494,7 +546,11 @@ function tj_zy(data, ruleGroups) {
 			if (isRepeat==1) {
 				is_repeated = generateAndCheck(combo); // 是否重复2、3
 			}
-			if (combo.length <= 10 && isValidCombo(combo) && is_repeated) {
+			// 段位数量、段位概率
+			const num_gl = analyzeInputArray(combo);
+			let is_where = (num_gl.isSegmentGE5 && num_gl.passProbabilistic);
+			// console.log(num_gl.isSegmentGE5, num_gl.passProbabilistic, is_where);
+			if (combo.length <= 10 && isValidCombo(combo) && is_repeated && is_where) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

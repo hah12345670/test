@@ -1,6 +1,7 @@
 const container = document.getElementById("container");
 const gridOutput = document.getElementById("gridOutput");
 const buttoncf = document.getElementById("buttoncf");
+const buttondw = document.getElementById("buttondw");
 
 container.addEventListener("click", function (e) {
 	if (e.target.classList.contains("item")) {
@@ -28,6 +29,17 @@ buttoncf.addEventListener("click", function (e) {
 			// console.log(JSON.parse(e.target.dataset.value));
 		} else {
 			isRepeat = 0;
+		}
+		tj_zy(newtj_arr, newwr_arr);
+	}
+});
+
+buttondw.addEventListener("click", function (e) {
+	if (e.target.classList.contains("item")) {
+		if (e.target.classList.toggle("selected")) {
+			isDwRestart = 1;
+		} else {
+			isDwRestart = 0;
 		}
 		tj_zy(newtj_arr, newwr_arr);
 	}

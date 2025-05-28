@@ -542,15 +542,18 @@ function tj_zy(data, ruleGroups) {
 			}
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
+			// 是否重复2、3
 			let is_repeated = true;
 			if (isRepeat==1) {
-				is_repeated = generateAndCheck(combo); // 是否重复2、3
+				is_repeated = generateAndCheck(combo);
 			}
 			// 段位数量、段位概率
-			const num_gl = analyzeInputArray(combo);
-			let is_where = (num_gl.isSegmentGE5 && num_gl.passProbabilistic);
-			// console.log(num_gl.isSegmentGE5, num_gl.passProbabilistic, is_where);
-			if (combo.length <= 10 && isValidCombo(combo) && is_repeated && is_where) {
+			let is_dwrestart = true;
+			if (isDwRestart==1) {
+				const num_gl = analyzeInputArray(combo);
+				is_dwrestart = (num_gl.isSegmentGE5 && num_gl.passProbabilistic);
+			}
+			if (combo.length <= 10 && isValidCombo(combo) && is_repeated && is_dwrestart) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

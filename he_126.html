@@ -139,7 +139,7 @@
 						<span class="item" data-value='[3, 1]'>非质数</span>
 					</div>
 				</div>
-				<span id="buttoncf" class="item" data-value='1'>重复</span>
+				<span id="buttoncf" class="item" data-value='1'>重复</span><span id="buttondw" class="item" data-value='1'>段位</span>
 				<div id="gridOutput" class="grid"></div>
 				<link href="show_range.css" rel="stylesheet" type="text/css" />
 				<script src="show_range.js"></script></p>
@@ -198,6 +198,7 @@
 				var newtj_arr = [1, 4, 7, 8, 10, 12, 13, 14, 16, 18, 21, 22, 23, 25, 28, 30, 34, 35, 37, 39, 41, 42, 44, 45, 47, 48, 49, 52, 54, 56, 58, 60, 63, 65, 67, 69, 71, 74, 77, 80]; // 最新推荐
 				var newwr_arr = []; // 最新wr
 				var isRepeat = 0; // 是否重复
+				var isDwRestart = 0; // 开启段位
 				show_table_1to80_num(arr[0][1], "showdata1");
 				show_table_1to80_numtj(arr[0][1], newtj_arr, "showdata2");
 				document.getElementById('spannum').addEventListener('click', function(event) {

@@ -533,7 +533,7 @@ function tj_zy(data, ruleGroups) {
 		let best = null;
 		let tries = 0;
 
-		while (tries < 10000*3) {
+		while (tries < 10000) {
 			tries++;
 			let picked = [];
 

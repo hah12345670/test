@@ -582,12 +582,14 @@ function tj_zy(data, ruleGroups) {
 		str1 += '得分: '+bestCombo.score+'<br>';
 		str1 += '段位数量: '+bestCombo.segmentnum+'<br>';
 		str1 += '各个段位: '+bestCombo.segments+'<br>';
+		gridOutput.style.display = "block";
 		// console.log("🎯 最优推荐组合:");
 		// console.log("组合:", bestCombo.combo.join(', '));
 		// console.log("得分:", bestCombo.score);
 		// return bestCombo;
 	} else {
-		str1 += '暂无推荐！<br>';
+		gridOutput.style.display = "none";
+		// str1 += '暂无推荐！<br>';
 		// console.log("暂无推荐！");
 	}
 	gridOutput.innerHTML = str1;

@@ -137,7 +137,8 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 	str1 += "012路比例 <font class="+returnRangeClass(count0, wr_arr[0][0])+">["+wr_arr[0][0]+"]</font> : <font class="+returnRangeClass(count1, wr_arr[0][1])+">["+wr_arr[0][1]+"]</font> : <font class="+returnRangeClass(count2, wr_arr[0][2])+">["+wr_arr[0][2]+"]</font><br>"
 	str1 += "奇偶比例 <font class="+returnRangeClass(oddCount, wr_arr[1][0])+">["+wr_arr[1][0]+"]</font> : <font class="+returnRangeClass(evenCount, wr_arr[1][1])+">["+wr_arr[1][1]+"]</font><br>"
 	str1 += "0-29、30-59、60-89比例 <font class="+returnRangeClass(count_0_29, wr_arr[2][0])+">["+wr_arr[2][0]+"]</font> : <font class="+returnRangeClass(count_30_59, wr_arr[2][1])+">["+wr_arr[2][1]+"]</font> : <font class="+returnRangeClass(count_60_89, wr_arr[2][2])+">["+wr_arr[2][2]+"]</font><br>"
-	str1 += "质数、非质数比例 <font class="+returnRangeClass(primeCount, wr_arr[3][0])+">["+wr_arr[3][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[3][1])+">["+wr_arr[3][1]+"]</font>"
+	str1 += "质数、非质数比例 <font class="+returnRangeClass(primeCount, wr_arr[3][0])+">["+wr_arr[3][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[3][1])+">["+wr_arr[3][1]+"]</font><br>"
+	str1 += "一~四象限比例 <font class="+returnRangeClass(primeCount, wr_arr[4][0])+">["+wr_arr[4][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][1])+">["+wr_arr[4][1]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][2])+">["+wr_arr[4][2]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][3])+">["+wr_arr[4][3]+"]</font>"
 	document.getElementById(nid).innerHTML = str1;
 }
 
@@ -516,6 +517,34 @@ function tj_zy(data, ruleGroups) {
 		}
 	}
 
+	// 5. 四象限规则（按 8x10 表格划分）
+	if (ruleGroups[4]) {
+		const getQuadrant = (n) => {
+			if (n < 1 || n > 80) return null;
+			const row = Math.ceil(n / 10); // 1-8
+			const col = (n - 1) % 10 + 1;  // 1-10
+
+			if (row >= 1 && row <= 4 && col >= 6 && col <= 10) return 1; // 第一象限
+			if (row >= 1 && row <= 4 && col >= 1 && col <= 5) return 2; // 第二象限
+			if (row >= 5 && row <= 8 && col >= 1 && col <= 5) return 3; // 第三象限
+			if (row >= 5 && row <= 8 && col >= 6 && col <= 10) return 4; // 第四象限
+			return null;
+		};
+
+		for (let i = 0; i < 4; i++) {
+			const rule = ruleGroups[4][i];
+			if (!rule || rule.length < 2) continue;
+			const countRange = rule.slice(0, -1);
+			const weight = inverseWeight(rule[rule.length - 1], countRange);
+			ruleSet.push({
+				name: `quadrant_${i + 1}`,
+				countRange,
+				weight,
+				set: data.filter(n => getQuadrant(n) === i + 1)
+			});
+		}
+	}
+
 	// === 组合评分 ===
 	function scoreCombo(combo) {
 		let score = 0;
@@ -543,11 +572,13 @@ function tj_zy(data, ruleGroups) {
 			}
 
 			const combo = Array.from(new Set(picked)).sort((a, b) => a - b); // 去重+升序
+			
 			// 是否重复2、3
 			let is_repeated = true;
 			if (isRepeat==1) {
 				is_repeated = generateAndCheck(combo);
 			}
+			
 			// 段位数量、段位概率
 			let is_dwrestart = true;
 			const num_gl = analyzeInputArray(combo);

@@ -39,7 +39,7 @@ document.writeln("145期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("146期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鸡羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("147期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("148期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("149期单双【单数+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("149期单双【单数+龙马】<font color=\"#FF0000\">√</font><br>	");
 
 
 

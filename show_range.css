@@ -28,10 +28,11 @@
 }
 
 .grid {
-	margin: 10px 0px 0px 5px;
+	margin: 0px 0px 0px 500px;
 	clear: both;
 	border: 1px solid #ddd;
 	padding: 5px;
 	height: 100px;
 	max-width: max-content;
+	position: absolute;
 }

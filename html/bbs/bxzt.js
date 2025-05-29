@@ -731,4 +731,51 @@ document.writeln("    <tbody>");
 document.writeln("    <tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
 document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 126期澳门雷锋心水网【<font color=\'#FF0000\' size=\'
+document.writeln("		<span style=\'font-weight:700\'><strong> 126期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
+document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<b>猴虎狗牛马猪<span style=\'background-color: #FFFF00\'>龙</span>鸡羊</b></td>");
+document.writeln("    </tr>");
+document.writeln("    </tbody> ");
+document.writeln("</table>");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table border=\'1\' width=\'100%\'>");
+document.writeln("    <tbody>");
+document.writeln("    <tr>");
+document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
+document.writeln("		<p>");
+document.writeln("		<span style=\'font-weight:700\'><strong> 125期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
+document.writeln("    </tr>");
+document.writeln("    	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
+document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<b><span style=\'font-size: 9pt\'>36.48.07.19.22.34.05.29.23.47.08.32.02.26.13.<span style=\'background-color: #FFFF00\'>49</span>.33.45</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
+document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<b>马猪猴牛羊狗龙<span style=\'background-color: #FFFF00\'>蛇</span>鸡</b></td>");
+document.writeln("    </tr>");
+document.writeln("    </tbody> ");
+document.writeln("</table>");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+
+
+
+
+
+
+
+

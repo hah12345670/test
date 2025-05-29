@@ -83,6 +83,7 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 	let oddCount = 0, evenCount = 0;
 	let count_0_29 = 0, count_30_59 = 0, count_60_89 = 0;
 	let primeCount = 0, nonPrimeCount = 0;
+	let guadrant_1 = 0, guadrant_2 = 0, guadrant_3 = 0, guadrant_4 = 0;
 
 	numbers.forEach(num => {
 		// 012路
@@ -99,10 +100,20 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 		if (num >= 0 && num <= 29) count_0_29++;
 		else if (num >= 30 && num <= 59) count_30_59++;
 		else if (num >= 60 && num <= 89) count_60_89++;
-
+		
 		// 质数判断
 		if (isPrime(num)) primeCount++;
 		else nonPrimeCount++;
+		
+		// 象限判断
+		const guadrant1 = [6,7,8,9,10,16,17,18,19,20,26,27,28,29,30,36,37,38,39,40];
+		const guadrant2 = [1,2,3,4,5,11,12,13,14,15,21,22,23,24,25,31,32,33,34,35];
+		const guadrant3 = [41,42,43,44,45,51,52,53,54,55,61,62,63,64,65,71,72,73,74,75];
+		const guadrant4 = [46,47,48,49,50,56,57,58,59,60,66,67,68,69,70,76,77,78,79,80];
+		if (guadrant1.includes(num)) guadrant_1++;
+		if (guadrant2.includes(num)) guadrant_2++;
+		if (guadrant3.includes(num)) guadrant_3++;
+		if (guadrant4.includes(num)) guadrant_4++;
 	});
 
 	// 判断范围 不要最后一个元素array.slice(0, -1); 不需要修改原数组 
@@ -138,7 +149,7 @@ function calculateStats(arr1, wr_arr = [], nid = "tj_where") {
 	str1 += "奇偶比例 <font class="+returnRangeClass(oddCount, wr_arr[1][0])+">["+wr_arr[1][0]+"]</font> : <font class="+returnRangeClass(evenCount, wr_arr[1][1])+">["+wr_arr[1][1]+"]</font><br>"
 	str1 += "0-29、30-59、60-89比例 <font class="+returnRangeClass(count_0_29, wr_arr[2][0])+">["+wr_arr[2][0]+"]</font> : <font class="+returnRangeClass(count_30_59, wr_arr[2][1])+">["+wr_arr[2][1]+"]</font> : <font class="+returnRangeClass(count_60_89, wr_arr[2][2])+">["+wr_arr[2][2]+"]</font><br>"
 	str1 += "质数、非质数比例 <font class="+returnRangeClass(primeCount, wr_arr[3][0])+">["+wr_arr[3][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[3][1])+">["+wr_arr[3][1]+"]</font><br>"
-	str1 += "一~四象限比例 <font class="+returnRangeClass(primeCount, wr_arr[4][0])+">["+wr_arr[4][0]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][1])+">["+wr_arr[4][1]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][2])+">["+wr_arr[4][2]+"]</font> : <font class="+returnRangeClass(nonPrimeCount, wr_arr[4][3])+">["+wr_arr[4][3]+"]</font>"
+	str1 += "一~四象限比例 <font class="+returnRangeClass(guadrant_1, wr_arr[4][0])+">["+wr_arr[4][0]+"]</font> : <font class="+returnRangeClass(guadrant_2, wr_arr[4][1])+">["+wr_arr[4][1]+"]</font> : <font class="+returnRangeClass(guadrant_3, wr_arr[4][2])+">["+wr_arr[4][2]+"]</font> : <font class="+returnRangeClass(guadrant_4, wr_arr[4][3])+">["+wr_arr[4][3]+"]</font>"
 	document.getElementById(nid).innerHTML = str1;
 }
 

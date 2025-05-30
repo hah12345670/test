@@ -1,5 +1,4 @@
-﻿.
-document.writeln("<style>");
+﻿document.writeln("<style>");
 document.writeln("");
 document.writeln(".style3t {");
 document.writeln("	background-color: #FFFF00;");

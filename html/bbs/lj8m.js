@@ -48,9 +48,9 @@ document.writeln("146期【小数】(投资500元<font color=\"#FF0000\">盈</fo
 
 document.writeln("147期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
 document.writeln("148期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">04-16数</font><br>");
-document.writeln("149期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>牛</span>马羊猪</font><br>");
-
-document.writeln("150期【家禽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">牛马狗猪</font><br>");
+document.writeln("149期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
+document.writeln("150期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>34-46</span>数</font><br>");
+document.writeln("151期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">35-47数</font><br>");
 
 
 document.writeln("");

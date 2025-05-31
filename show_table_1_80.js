@@ -620,17 +620,19 @@ function tj_zy(data, ruleGroups) {
 	let str1 = '';
 	if (bestCombo && bestCombo.combo.length) {
 		str1 += '最优推荐组合: <br>';
-		str1 += '组合: '+bestCombo.combo.join(', ')+'<br>';
+		// str1 += '组合: '+bestCombo.combo.join(', ')+'<br>';
 		str1 += '得分: '+bestCombo.score+'<br>';
 		str1 += '段位数量: '+bestCombo.segmentnum+'<br>';
 		str1 += '各个段位: '+bestCombo.segments+'<br>';
 		gridOutput.style.display = "block";
+		show_table_1to80_num(bestCombo.combo, "showdata3");
 		// console.log("🎯 最优推荐组合:");
 		// console.log("组合:", bestCombo.combo.join(', '));
 		// console.log("得分:", bestCombo.score);
 		// return bestCombo;
 	} else {
 		gridOutput.style.display = "none";
+		show_table_1to80_num([], "showdata3");
 		// str1 += '暂无推荐！<br>';
 		// console.log("暂无推荐！");
 	}

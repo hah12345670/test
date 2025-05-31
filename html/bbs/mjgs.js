@@ -43,7 +43,8 @@ document.writeln("149期单双【<span style=\'background-color: #FFFF00\'>单�
 
 document.writeln("150期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("151期单双【双数+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("151期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("152期单双【双数+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -85,7 +86,8 @@ document.writeln("147期家野【野兽+<span style=\'background-color: #FFFF00\
 document.writeln("148期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+羊牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("149期家野【野兽+<span style=\'background-color: #FFFF00\'>牛</span>猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("150期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("151期家野【家禽+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("151期家野【家禽+<span style=\'background-color: #FFFF00\'>龙</span>蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("152期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -107,7 +109,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("150期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("151期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("151期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("152期天地【天肖+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -134,7 +137,9 @@ document.writeln("");
 document.writeln("148期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("149期前后【后肖+<span style=\'background-color: #FFFF00\'>牛</span>蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("150期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("151期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("151期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("152期前后【后肖+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 

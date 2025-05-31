@@ -19,10 +19,15 @@ document.writeln("  <tbody>");
 document.writeln("");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">152期绝杀二肖:<font color=\"#FF0000\">【虎鼠】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">151期绝杀二肖:<font color=\"#FF0000\">【狗牛】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">151期绝杀二肖:<font color=\"#FF0000\">【狗牛】</font>开:龙38准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

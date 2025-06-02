@@ -90,8 +90,8 @@
 			xhr.send();
 		}
 		</script>
-		<hr><div><div id="showdata1" style="float: left;"></div><div id="showdata2" style="float: left;margin-left: 10px"></div><div style="clear: both;"></div></div><div id="showdata3" style="margin: -20px 10px 10px 0px;width: 415px;float: left;"></div>
-				<div id="spannum" style="width: 500px;float: left;">
+		<hr><div><div id="showdata1" style="float: left;"></div><div id="showdata2" style="float: left;margin-left: 10px"></div><div style="clear: both;"></div></div><div id="showdata3" style="margin: -20px 10px 10px 0px;float: left;"></div><div id="showdata5" style="margin: -20px 10px 10px 0px;float: left;"></div>
+				<div id="spannum" style="width: 500px;float: left;display: none;">
 					<div class="divleft">
 						<div><span>01</span><span>02</span><span>03</span><span>04</span><span>05</span></div>
 						<div><span>11</span><span>12</span><span>13</span><span>14</span><span>15</span></div>
@@ -103,7 +103,7 @@
 						<div><span>16</span><span>17</span><span>18</span><span>19</span><span>20</span></div>
 						<div><span>26</span><span>27</span><span>28</span><span>29</span><span>30</span></div>
 						<div><span>36</span><span>37</span><span>38</span><span>39</span><span>40</span></div>
-					</div><div id="showdata3" style="margin: -20px 0px 0px 500px;position: absolute;"></div>
+					</div>
 					<div style="clear: both;"></div>
 					<div class="divleft">
 						<div><span>41</span><span>42</span><span>43</span><span>44</span><span>45</span></div>
@@ -206,19 +206,20 @@
 				var newwr_arr = []; // 最新wr
 				var isRepeat = 0; // 是否重复
 				var isDwRestart = 0; // 开启段位
+				show_table_1to80_span("showdata5");
 				show_table_1to80_num(arr[0][1], "showdata1");
 				show_table_1to80_numtj(arr[0][1], newtj_arr, "showdata2");
 				document.getElementById('spannum').addEventListener('click', function(event) {
-					if (event.target.nodeName === 'SPAN') {
+					if (event.target.nodeName === 'TD') {
 						var cell = event.target;
-						if (cell.classList.contains('changedStyle')) {
-							cell.classList.remove('changedStyle');
+						if (cell.classList.contains('changedStyle1')) {
+							cell.classList.remove('changedStyle1');
 							// console.log('删除', cell.innerText);
 							arr1 = arr1.filter(item => item !== parseInt(cell.innerText));
 							write_table(arr1);
 							calculateStats(arr1, wr_arr, 'tj_where');
 						} else {
-							cell.classList.add('changedStyle');
+							cell.classList.add('changedStyle1');
 							// console.log('添加', cell.innerText);
 							arr1.push(parseInt(cell.innerText));
 							arr1.sort((a, b) => a - b);

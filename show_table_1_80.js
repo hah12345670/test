@@ -25,6 +25,27 @@ function show_table_1to80_num(inputNumbers, nid = 'showdata1') {
 	document.getElementById(nid).innerHTML = str1;
 }
 
+// 显示表格 点击span
+function show_table_1to80_span(nid) {
+	let count = 1;
+	let str1 = '<table id="spannum"><caption></caption><tbody>';
+	for(let i=0;i<8;i++) {
+		str1 += '<tr>';
+		for(let j=0;j<10;j++) {
+			let extraClass = '';
+			if(i === 4) extraClass += ' thick-top';
+			if(j === 5) extraClass += ' thick-left';
+
+			let displayNumber = count < 10 ? '0'+count : count;
+			str1 += '<td class="'+extraClass.trim()+'">'+displayNumber+'</td>';
+			count++;
+		}
+		str1 += '</tr>';
+	}
+	str1 += '</tbody></table>';
+	document.getElementById(nid).innerHTML = str1;
+}
+
 // 推荐号码 最近开奖号码
 function show_table_1to80_numtj(kjNumbers, tjNumbers, nid = 'showdata1') {
 	let kjnumed = new Set(kjNumbers);

@@ -2,6 +2,7 @@ const container = document.getElementById("container");
 const gridOutput = document.getElementById("gridOutput");
 const buttoncf = document.getElementById("buttoncf");
 const buttondw = document.getElementById("buttondw");
+const buttonsj = document.getElementById("buttonsj");
 
 container.addEventListener("click", function (e) {
 	if (e.target.classList.contains("item")) {
@@ -45,6 +46,14 @@ buttondw.addEventListener("click", function (e) {
 	}
 });
 
+buttonsj.addEventListener("click", function (e) {
+	if (e.target.classList.contains("item")) {
+		if (e.target.classList.toggle("selected")) {
+			tj_zy(newtj_arr, newwr_arr);
+		}
+	}
+});
+
 function renderGrid(arrays) {
 	gridOutput.innerHTML = ""; // 清空之前的内容
 	arrays.forEach(arr => {
@@ -54,3 +63,4 @@ function renderGrid(arrays) {
 		gridOutput.appendChild(cell);
 	});
 }
+

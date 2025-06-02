@@ -422,7 +422,7 @@ function tj_zy(data, ruleGroups) {
 		}
 	
 		const segmentCount = segments.size;
-		const isSegmentGE5 = segmentCount >= 5;
+		const isSegmentGE5 = segmentCount >= 8;
 	
 		let probability = 0;
 		let category = "";
@@ -617,7 +617,7 @@ function tj_zy(data, ruleGroups) {
 			if (isDwRestart==1) {
 				is_dwrestart = (num_gl.isSegmentGE5 && num_gl.passProbabilistic);
 			}
-			if (combo.length <= 8 && isValidCombo(combo) && is_repeated && is_dwrestart) {
+			if (combo.length <= 10 && isValidCombo(combo) && is_repeated && is_dwrestart) {
 				const key = combo.join(',');
 				if (!seen.has(key)) {
 					seen.add(key);

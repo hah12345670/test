@@ -2,7 +2,6 @@
 #spannum {
 	border-collapse: collapse;
 }
-
 #spannum td {
 	border: 1px solid #ddd;
 	width: 40px;      /* 宽度固定 */
@@ -12,22 +11,18 @@
 	padding: 0;
 	color: #0000ff50;
 }
-
 #spannum caption {
 	font-size: 24px;
 	margin-bottom: 10px;
 }
-
 #spannum .thick-top {
-	border-top: 3px solid black !important;
+	border-top: 3px solid #BDBDBD !important;
 }
-
 #spannum .thick-left {
-	border-left: 3px solid black !important;
+	border-left: 3px solid #BDBDBD !important;
 }
-
 .changedStyle1 {
-	background-color: #0000ff;
+	background-color: blue;
 	color: white !important;
 	font-weight: bold;
 }

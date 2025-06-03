@@ -1,0 +1,62 @@
+/* 显示表格 */
+#showtable {
+	border-collapse: collapse;
+	margin: auto;
+}
+
+#showtable td {
+	border: 1px solid #333;
+	width: 40px;      /* 宽度固定 */
+	height: 40px;     /* 高度固定，和宽度相同 */
+	text-align: center;
+	vertical-align: middle;
+	padding: 0;
+}
+
+#showtable caption {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+#showtable .highlight {
+	background-color: red;
+	color: white;
+	font-weight: bold;
+	border-radius: 50%;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	margin: auto;
+}
+
+#showtable .thick-top {
+	border-top: 3px solid black !important;
+}
+
+#showtable .thick-left {
+	border-left: 3px solid black !important;
+}
+
+.row {
+	margin-bottom: 0px;
+}
+
+.item {
+	display: inline-block;
+	padding: 10px;
+	margin: 5px;
+	background-color: #f0f0f0;
+	border-radius: 10px;
+	cursor: pointer;
+	font-family: sans-serif;
+	transition: 0.2s ease;
+	width: 50px;
+	text-align: center;
+}
+
+.selected {
+	background-color: #2797ff;
+	color: white;
+	font-weight: bold;
+	box-shadow: 0 0 5px #2797ff;
+}

@@ -41,6 +41,15 @@ function show_table_button() {
 	let str1 = '<hr>';
 	for(let i=0;i<arr.length;i++) {
 		str1 += '<div class="row">';
+		if (i==0) {
+			str1 += '<h3>精选</h3>';
+		} else if (i==1) {
+			str1 += '<h3>热</h3>';
+		} else if (i==2) {
+			str1 += '<h3>温</h3>';
+		} else {
+			str1 += '<h3>冷</h3>';
+		}
 		for(let j=0;j<arr[i].length;j++) {
 			str1 += '<span class="item" data-value="[' + arr[i][j][1] + ']">' + arr[i][j][0] + '</span>';
 		}
@@ -63,7 +72,29 @@ container.addEventListener("click", function (e) {
 			});
 		});
 
-		console.log(result);
-		show_table_1to49_num([], "showdata1");
+		show_table_1to49_num(getIntersection(result), "showdata1");
 	}
 });
+
+// 让多维数组中的一维数组做交集计算
+function getIntersection(array) {
+	// 提取所有最底层的非空一维数组
+	const allBottomArrays = [];
+	function traverse(node) {
+		if (Array.isArray(node)) {
+			if (node.every(item => typeof item === 'number')) {
+				if (node.length > 0) {
+					allBottomArrays.push(node);
+				}
+			} else {
+				for (const item of node) {
+					traverse(item);
+				}
+			}
+		}
+	}
+	traverse(array);
+	if (allBottomArrays.length === 0) return [];
+	// 执行交集计算
+	return allBottomArrays.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
+}

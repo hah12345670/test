@@ -116,7 +116,7 @@ document.writeln("150期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("151期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("152期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("153期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("154期天地【地肖+猴虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("154期天地【地肖+猴牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

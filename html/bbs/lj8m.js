@@ -15,8 +15,22 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	152-156期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.45 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("  ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\'#C0C0C0\'>");
+document.writeln("		<td>");
 document.writeln("		<div style=\"background-color: #FFFF00\">");
 document.writeln("		<div style=\"background-color: #FFFFFF\">");
 document.writeln("		<p align=\'center\'>");
@@ -43,9 +57,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("146期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>02-14</span>数</font><br>");
-
+document.writeln("");
 document.writeln("147期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
 document.writeln("148期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">04-16数</font><br>");
 document.writeln("149期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
@@ -54,7 +68,7 @@ document.writeln("151期【大数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("152期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>10-22</span>数</font><br>");
 document.writeln("153期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">04-16数</font><br>");
 document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">25-47数</font><br>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");
 document.writeln("");
@@ -79,7 +93,9 @@ document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-
 document.writeln("<a target=\"_blank\" href=\"https://x15.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\">");
 document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网首页查看更多记录</font></a></span><p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://x15.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【a.62785.com】</font></a></span></p></td>");
+document.writeln("		<a target=\"_blank\" href=\"https://x15.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#dbtt\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【a.62785.com】</font></a></span></p>");
+document.writeln("		");
+document.writeln("		</td>");
 document.writeln("	</tr>");
 document.writeln("</table>");
 document.writeln("</div>");

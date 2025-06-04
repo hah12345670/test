@@ -67,8 +67,9 @@ document.writeln("150期【大数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("151期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>35-47</span>数</font><br>");
 document.writeln("152期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>10-22</span>数</font><br>");
 document.writeln("153期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">04-16数</font><br>");
-document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">25-37数</font><br>");
-document.writeln("");
+document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
+document.writeln("155期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">31-43数</font><br>");
+
 document.writeln("");
 document.writeln("</font></a>		");
 document.writeln("");

@@ -12,12 +12,13 @@ document.writeln(" <tr>    <td style=\'height: 28px\'><font color=\'#0B6121\'>�
 
 
 
-
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>154期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画琴棋】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>155期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
+
+
 
 
 document.writeln("");
@@ -73,42 +74,6 @@ document.writeln("    <td>146期<font color=\'#ac6a00\'>琴棋书画</font><font
 document.writeln("  </tr>");
 document.writeln("");
 
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>144期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋<span style=\'background-color: #FFFF00\'>琴</span>】</font>开<font color=\'#ac6a00\'>蛇25</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>143期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>画</span>琴棋】</font>开<font color=\'#ac6a00\'>猴10</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>142期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画琴<span style=\'background-color: #FFFF00\'>棋</span>】</font>开<font color=\'#ac6a00\'>狗44</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>141期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【棋书<span style=\'background-color: #FFFF00\'>琴</span>】</font>开<font color=\'#ac6a00\'>蛇13</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>140期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书<span style=\'background-color: #FFFF00\'>画</span>琴】</font>开<font color=\'#ac6a00\'>羊11</font>准</td>");
-document.writeln("  </tr>");
 
 
 

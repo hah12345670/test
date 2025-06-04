@@ -96,5 +96,29 @@ function getIntersection(array) {
 	traverse(array);
 	if (allBottomArrays.length === 0) return [];
 	// 执行交集计算
-	return allBottomArrays.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
+	// return allBottomArrays.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
+	// 先判断类型（每个数组第一个元素做类型判断），同类型做并集，然后不同类型做交集
+	return mergeSameTypeThenIntersect(allBottomArrays);
 }
+
+// 同类型数组做并集，将不同类型的数组做交集
+function mergeSameTypeThenIntersect(allBottomArrays) {
+	const groups = {};
+
+	// 1. 分组：按首元素类型归类，去掉首元素
+	for (const arr of allBottomArrays) {
+		const type = String(arr[0]); // 支持数字或字符串类型
+		if (!groups[type]) groups[type] = [];
+		groups[type].push(arr.slice(1));
+	}
+
+	// 2. 每组做并集
+	const unionPerGroup = Object.values(groups).map(arrays => {
+		return [...new Set(arrays.flat())];
+	});
+
+	// 3. 多组并集结果做交集
+	if (unionPerGroup.length === 0) return [];
+	return unionPerGroup.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
+}
+

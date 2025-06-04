@@ -122,3 +122,4 @@ function mergeSameTypeThenIntersect(allBottomArrays) {
 	if (unionPerGroup.length === 0) return [];
 	return unionPerGroup.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
 }
+

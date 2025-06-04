@@ -72,7 +72,8 @@ container.addEventListener("click", function (e) {
 			});
 		});
 
-		show_table_1to49_num(getIntersection(result), "showdata1");
+		let array = getIntersection(result);
+		show_table_1to49_num(array, "showdata1");
 	}
 });
 
@@ -121,4 +122,3 @@ function mergeSameTypeThenIntersect(allBottomArrays) {
 	if (unionPerGroup.length === 0) return [];
 	return unionPerGroup.reduce((acc, curr) => acc.filter(x => curr.includes(x)));
 }
-

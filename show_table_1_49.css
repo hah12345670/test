@@ -50,7 +50,8 @@
 	cursor: pointer;
 	font-family: sans-serif;
 	transition: 0.2s ease;
-	width: 50px;
+	width: 35px;
+	font-size: 10px;
 	text-align: center;
 }
 

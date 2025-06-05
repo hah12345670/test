@@ -19,10 +19,15 @@ document.writeln("  <tbody>");
 document.writeln("");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">156期绝杀二肖:<font color=\"#FF0000\">【马龙】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">155期绝杀二肖:<font color=\"#FF0000\">【猴蛇】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">155期绝杀二肖:<font color=\"#FF0000\">【猴蛇】</font>开:鸡45准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

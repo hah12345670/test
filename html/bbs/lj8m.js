@@ -77,8 +77,11 @@ document.writeln("152期【小数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("153期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">04-16数</font><br>");
 document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
 document.writeln("155期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">31-43数</font><br>");
-document.writeln("156期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">02-14数</font><br>");
-document.writeln("");
+
+document.writeln("156期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">02-14数</font><br>");
+document.writeln("157期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">26-48数</font><br>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");
@@ -86,25 +89,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
-document.writeln("");
-document.writeln("<!--一段开始-->");
-document.writeln("		<font style=\'font-size: 18pt\' face=\'微软雅黑\'>");
-document.writeln(" （家禽野兽）</font><br>");
-document.writeln(" 	");
-document.writeln(" 	");
-document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("154期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>龙</span>蛇猴虎</font><br>");
-document.writeln("");
-document.writeln("155期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">马羊<span style=\'background-color: #FFFF00\'>鸡</span>狗</font><br>");
-document.writeln("156期【家禽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">猪狗牛马</font><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

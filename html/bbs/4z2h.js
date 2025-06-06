@@ -15,12 +15,13 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
 document.writeln("		<p>");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		156期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-木-金-土）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		156期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-木）");
+document.writeln("		157期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-金-火-木）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		157期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-金）");
 document.writeln("		");
 document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--gavc-->	");
+
 document.writeln("	<!--gavc-->	");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");

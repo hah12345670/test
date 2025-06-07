@@ -63,61 +63,16 @@ document.writeln("");
 
 
 
-
-
-document.writeln("");
-document.writeln("");
-
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("157期玄机诗句<font color=\'#FF0000\'>【惟有绿荷红菡萏，卷舒开合任天真】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙蛇猴鸡狗猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("154期玄机诗句<font color=\'#FF0000\'>【连升三级还是小，一山飞峙大江边。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：连升三级还是小，说明地位卑微，狗马鸡猪；一山飞峙大江边，这里又指地位高，龙羊。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>龙</span>羊狗马鸡猪");
+document.writeln("158期玄机诗句<font color=\'#FF0000\'>【金屋藏娇定富贵，不是蛇头哭衰衰。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：金屋藏娇定富贵，金屋是猴鸡。藏娇，是女肖兔、蛇、羊、鸡、猪。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：猴兔蛇羊鸡猪");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
-
-
 document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("153期玄机诗句<font color=\'#FF0000\'>【冲天香阵透长安，满城尽带黄金甲】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：天解天肖，兔马猴猪牛龙。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：兔马猴<span style=\'background-color: #FFFF00\'>猪</span>牛龙");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
-document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("152期玄机诗句<font color=\'#FF0000\'>【金风未动蝉先觉，名扬天下三合局。】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：金风解五行金的生肖：猴鸡，名扬天下，可解天肖：牛兔龙马猴猪。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：<span style=\'background-color: #FFFF00\'>猴</span>鸡牛龙马猪");
-document.writeln("</font></font></b></td></tr>");
-document.writeln("");
-
-
-
-
-
 
 
 

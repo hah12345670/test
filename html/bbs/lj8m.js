@@ -33,6 +33,14 @@ document.writeln("  <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	156-160期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.</font><font style=\"font-weight: 700\" size=\"6\"><span style=\"background-color: #000000\">23</span></font><font style=\"font-size: 18pt; font-weight: 700\">.25.38.44.45 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	158-162期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.45 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -77,11 +85,13 @@ document.writeln("152期【小数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("153期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">04-16数</font><br>");
 document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
 document.writeln("155期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">31-43数</font><br>");
-
+document.writeln("");
 document.writeln("156期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">02-14数</font><br>");
-document.writeln("157期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">26-48数</font><br>");
+document.writeln("157期【大数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">26-48数</font><br>");
 
+document.writeln("158期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">11-23数</font><br>");
 
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");
@@ -89,7 +99,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -19,16 +19,7 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("148期王者六肖【马鸡狗鼠猪<span style=\'background-color: #FFFF00\'>龙</span>】√<br>");
-document.writeln("149期王者六肖【猪狗龙<span style=\'background-color: #FFFF00\'>牛</span>虎马】√<br>");
-document.writeln("150期王者六肖【狗兔蛇鸡<span style=\'background-color: #FFFF00\'>虎</span>龙】√<br>");
-document.writeln("151期王者六肖【鼠猴虎狗猪牛】×<br>");
-document.writeln("152期王者六肖【羊兔鼠狗虎鸡】×<br>");
-document.writeln("153期王者六肖【虎羊马蛇<span style=\'background-color: #FFFF00\'>猪</span>狗】√<br>");
-document.writeln("154期王者六肖【狗猪牛猴蛇羊】×<br>");
-document.writeln("155期王者六肖【龙虎马鼠牛<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>");
-document.writeln("156期王者六肖【猴狗马猪虎牛】×<br>");
-document.writeln("157期王者六肖【牛狗马鸡蛇虎】√<br>");
+document.writeln("158期王者六肖【狗虎马鸡兔蛇】√<br>");
 
 
 
@@ -60,7 +51,9 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("156-157期￥狗马羊鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>虎牛￥156期√<br>");
 
-document.writeln("157-158期￥狗猴蛇羊鸡龙牛￥000期√<br>");
+document.writeln("157-158期￥狗猴蛇<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>鸡龙牛￥157期√<br>");
+
+document.writeln("158-159期￥龙猴鸡马牛羊鼠￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -87,8 +80,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
+document.writeln("158期【家禽：牛羊马猪】开？00√<br>");
 
-document.writeln("157期【野兽：龙蛇猴虎】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -115,7 +108,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("156期【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>牛狗马猴猪蛇鸡羊】开鼠18√<br>");
-document.writeln("157期【鼠牛虎羊狗龙猪兔马】开？00√<br>");
+document.writeln("157期【鼠牛虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>狗龙猪兔马】开羊23√<br>");
+document.writeln("158期【龙猴猪鸡羊牛马狗兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

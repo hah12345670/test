@@ -34,14 +34,12 @@ document.writeln(" <tr>    <td style=\'height: 28px\'><font color=\'#0B6121\'>�
 
 
 
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>159期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【书棋琴】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>160期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画棋书】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
 document.writeln("  </tr>");
+document.writeln("");
+
 
 
 document.writeln("");
@@ -92,38 +90,6 @@ document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td>150期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>书</span>棋琴】</font>开<font color=\'#ac6a00\'>虎40</font>准</td>");
 document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>149期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画<span style=\'background-color: #FFFF00\'>棋</span>书】</font>开<font color=\'#ac6a00\'>牛41</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>148期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>书</span>棋琴】</font>开<font color=\'#ac6a00\'>龙02</font>准</td>");
-document.writeln("  </tr>");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>147期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>棋</span>书琴】</font>开<font color=\'#ac6a00\'>狗32</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>146期<font color=\'#ac6a00\'>琴棋书画</font><font color=\'#0000FF\'>【画<span style=\'background-color: #FFFF00\'>书</span>琴】</font>开<font color=\'#ac6a00\'>龙14</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
 
 
 

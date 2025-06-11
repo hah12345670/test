@@ -29,7 +29,8 @@ document.writeln("");
 
 
 
-document.writeln("162期单双【双数+兔牛】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("163期单双【单数+龙马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -63,7 +64,8 @@ document.writeln("");
 
 document.writeln("160期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+鼠兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("161期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("162期家野【野兽+狗猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("162期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("163期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -89,7 +91,8 @@ document.writeln("158期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("159期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("160期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("161期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("162期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("162期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("163期天地【地肖+猪牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -113,10 +116,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("159期前后【前肖+马<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("160期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+蛇龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("161期前后【后肖+蛇鼠】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("162期前后【后肖+虎龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("163期前后【前肖+猴羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 

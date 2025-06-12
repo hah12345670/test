@@ -28,19 +28,11 @@ document.writeln("  </tr>");
 document.writeln("  ");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+
 document.writeln("  <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	156-160期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.</font><font style=\"font-weight: 700\" size=\"6\"><span style=\"background-color: #000000\">23</span></font><font style=\"font-size: 18pt; font-weight: 700\">.25.38.44.45 </font>");
-document.writeln("	</font></font></td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
-document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	158-162期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	163-167期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.45 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -93,7 +85,8 @@ document.writeln("158期【小数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("159期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
 document.writeln("160期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>04-16</span>数</font><br>");
 document.writeln("161期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>09-21</span>数</font><br>");
-document.writeln("162期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">10-22数</font><br>");
+document.writeln("162期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">10-22数</font><br>");
+document.writeln("163期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">25-37数</font><br>");
 
 document.writeln("");
 document.writeln("");

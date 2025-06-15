@@ -67,36 +67,18 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【赚点小钱】(大小12码)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【小妖女】(2+1肖中)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("146期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>02-14</span>数</font><br>");
-document.writeln("");
-document.writeln("147期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
-document.writeln("148期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">04-16数</font><br>");
-document.writeln("149期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
-document.writeln("150期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>34-46</span>数</font><br>");
-document.writeln("151期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>35-47</span>数</font><br>");
-document.writeln("152期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>10-22</span>数</font><br>");
-document.writeln("153期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">04-16数</font><br>");
-document.writeln("154期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
-document.writeln("155期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">31-43数</font><br>");
-document.writeln("");
-document.writeln("156期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">02-14数</font><br>");
-document.writeln("157期【大数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">26-48数</font><br>");
-document.writeln("");
-document.writeln("158期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">11-23数</font><br>");
-document.writeln("159期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
-document.writeln("160期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>04-16</span>数</font><br>");
-document.writeln("161期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>09-21</span>数</font><br>");
-document.writeln("162期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">10-22数</font><br>");
-document.writeln("163期【大数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">25-37数</font><br>");
-document.writeln("164期【大数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">31-43数</font><br>");
-document.writeln("165期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">11-23数</font><br>");
-document.writeln("");
+
+document.writeln(" 165期【<span style=\'background-color: #FFFF00\'>羊</span>猪+兔】<br><br>");
+
+document.writeln(" 166期【羊虎+鸡】<br><br>");
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

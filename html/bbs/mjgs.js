@@ -34,7 +34,8 @@ document.writeln("163期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("164期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("165期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期单双【单数+虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期单双【单数+虎马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -71,7 +72,8 @@ document.writeln("162期家野【<span style=\'background-color: #FFFF00\'>野�
 document.writeln("163期家野【野兽+马<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期家野【家禽+兔猴】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("165期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("167期家野【家禽+虎龙】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -101,7 +103,8 @@ document.writeln("163期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("164期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("165期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期天地【地肖+马龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期天地【地肖+马龙】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("167期天地【地肖+马兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -128,7 +131,8 @@ document.writeln("");
 document.writeln("163期前后【前肖+猴<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("164期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("165期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("166期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("166期前后【后肖+虎蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("167期前后【前肖+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

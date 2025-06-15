@@ -25,9 +25,9 @@ document.writeln("162期王者六肖【马虎鼠鸡<font color=\'#FF0000\' size=
 document.writeln("163期王者六肖【鼠鸡牛蛇<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>龙】√<br>");
 document.writeln("164期王者六肖【猪猴龙鸡牛羊】×<br>");
 
-document.writeln("165期王者六肖【蛇龙狗牛马猴】√<br>");
+document.writeln("165期王者六肖【蛇龙狗牛马猴】×<br>");
 
-
+document.writeln("166期王者六肖【羊鸡牛龙鼠虎】√<br>");
 
 
 
@@ -66,7 +66,8 @@ document.writeln("159-160期￥羊龙马<font color=\'#FF0000\' size=\'5\'><span
 document.writeln("160-161期￥狗龙牛鸡兔猴马￥000期×<br>");
 document.writeln("162-163期￥鸡狗猪龙虎猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>￥162期√<br>");
 document.writeln("163-164期￥龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>兔狗鼠牛猪￥163期√<br>");
-document.writeln("164-165期￥牛龙羊鸡马狗虎￥000期√<br>");
+document.writeln("164-165期￥牛龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>鸡马狗虎￥165期√<br>");
+document.writeln("166-167期￥蛇猴鸡虎鼠猪兔￥000期√<br>");
 
 
 document.writeln("	");
@@ -101,8 +102,8 @@ document.writeln("161期【野兽：龙猴<font color=\'#FF0000\' size=\'5\'><sp
 document.writeln("162期【家禽：马猪狗鸡】开蛇01×<br>");
 document.writeln("163期【家禽：牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马猪】开羊23√<br>");
 document.writeln("164期【家禽：牛羊马猪】开蛇13×<br>");
-document.writeln("165期【野兽：龙猴兔虎】开？00√<br>");
-
+document.writeln("165期【野兽：龙猴兔虎】开羊47×<br>");
+document.writeln("166期【野兽：龙猴虎蛇】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -137,7 +138,8 @@ document.writeln("162期【猴牛<font color=\'#FF0000\' size=\'5\'><span style=
 document.writeln("163期【猴牛马鼠虎兔龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>狗】开羊23√<br>");
 
 document.writeln("164期【牛鸡兔<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>龙马虎羊狗】开蛇13√<br>");
-document.writeln("165期【鼠狗马虎猪蛇猴牛龙】开？00√<br>");
+document.writeln("165期【鼠狗马虎猪蛇猴牛龙】开羊47×<br>");
+document.writeln("166期【猴牛羊鸡兔龙鼠狗虎】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

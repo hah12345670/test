@@ -29,11 +29,15 @@ document.writeln("");
 
 
 
+document.writeln("  <tr>");
+document.writeln("    <td>166期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【8888尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>165期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【2222尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>165期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【2222尾】</font>开<font color=\'#ac6a00\'>羊47</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

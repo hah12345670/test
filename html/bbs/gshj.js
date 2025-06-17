@@ -29,7 +29,8 @@ document.writeln("165期王者六肖【蛇龙狗牛马猴】×<br>");
 
 document.writeln("166期王者六肖【羊鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font>龙鼠虎】√<br>");
 document.writeln("167期王者六肖【羊虎龙猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font>兔】√<br>");
-document.writeln("168期王者六肖【狗马猴鸡蛇龙】√<br>");
+document.writeln("168期王者六肖【狗马猴鸡蛇龙】×<br>");
+document.writeln("169期王者六肖【蛇马牛虎狗鼠】√<br>");
 
 
 
@@ -69,7 +70,8 @@ document.writeln("162-163期￥鸡狗猪龙虎猴<font color=\'#FF0000\' size=\'
 document.writeln("163-164期￥龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>兔狗鼠牛猪￥163期√<br>");
 document.writeln("164-165期￥牛龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>鸡马狗虎￥165期√<br>");
 document.writeln("166-167期￥蛇猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font>虎鼠猪兔￥167期√<br>");
-document.writeln("168-169期￥虎鸡蛇鼠狗羊牛￥000期√<br>");
+document.writeln("168-169期￥<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鸡蛇鼠狗羊牛￥168期√<br>");
+document.writeln("169-170期￥马龙猴牛鼠猪虎￥000期√<br>");
 
 
 document.writeln("	");
@@ -97,8 +99,9 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
+document.writeln("169期【野兽：龙猴兔虎】开？00√<br>");
 
-document.writeln("168期【家禽：牛羊马猪】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -136,7 +139,10 @@ document.writeln("164期【牛鸡兔<font color=\'#FF0000\' size=\'5\'><span sty
 document.writeln("165期【鼠狗马虎猪蛇猴牛龙】开羊47×<br>");
 document.writeln("166期【猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font>羊鸡兔龙鼠狗虎】开牛41√<br>");
 document.writeln("167期【牛羊<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font>蛇龙兔猪鼠马】开鸡09√<br>");
-document.writeln("168期【龙猪马鼠狗兔羊虎鸡】开？00√<br>");
+document.writeln("168期【龙猪马鼠狗兔羊<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鸡】开虎16√<br>");
+document.writeln("169期【龙兔虎鸡鼠猪牛猴马】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

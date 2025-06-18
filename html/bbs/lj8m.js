@@ -67,32 +67,15 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【本站出品】(14码中特)</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <span style=\"font-size: 13pt\">168期:==14码中特==开？00准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【32.43.05.15.17.42.02.21.13.26.20.45.10.22】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <span style=\"font-size: 13pt\">166期:==14码中特==开牛41准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【05.26.21.44.08.10.47.12.01.43.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">41</span></font>.11.23.38】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <span style=\"font-size: 13pt\">165期:==14码中特==开羊47准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【18.28.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">47</span></font>.31.30.26.14.15.29.35.33.39.09.46】</span></font></p>  	");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <span style=\"font-size: 13pt\">164期:==14码中特==开蛇13准</span><font color=\"#FF0000\"><span style=\"font-size: 13pt\"><br>");
-document.writeln("	【36.33.34.45.32.43.08.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">13</span></font>.21.14.29.05.28.40】</span></font></p>  	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+document.writeln("168期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>12-24</span>数</font><br>");
+document.writeln("169期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">11-23数</font><br>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

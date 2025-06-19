@@ -39,10 +39,19 @@ document.writeln("  </tr>");
 document.writeln("  <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	165-169期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	165-170期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.<span style=\"background-color: #000000\">09</span>.13.23.25.38.44.45 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
+document.writeln("  ");
+document.writeln("    <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	171-175期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.45 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -71,11 +80,11 @@ document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-si
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("168期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>12-24</span>数</font><br>");
-document.writeln("169期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">11-23数</font><br>");
-
-
+document.writeln("169期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">11-23数</font><br>");
+document.writeln("170期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">26-38数</font><br>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

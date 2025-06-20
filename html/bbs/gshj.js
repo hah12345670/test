@@ -19,7 +19,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("171期王者六肖【羊猪猴蛇鼠牛】√<br>");
+document.writeln("171期王者六肖【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>猪猴蛇鼠牛】√<br>");
+document.writeln("172期王者六肖【马猪兔羊猴虎】√<br>");
 
 
 
@@ -62,7 +63,8 @@ document.writeln("166-167期￥蛇猴<font color=\'#FF0000\' size=\'5\'><span st
 document.writeln("168-169期￥<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鸡蛇鼠狗羊牛￥168期√<br>");
 document.writeln("169-170期￥马龙猴牛鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>虎￥169期√<br>");
 document.writeln("170-171期￥羊猪牛狗虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font>兔￥170期√<br>");
-document.writeln("171-172期￥猪龙羊牛鸡虎兔￥000期√<br>");
+document.writeln("171-172期￥猪龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>牛鸡虎兔￥171期√<br>");
+document.writeln("172-173期￥虎马龙猴猪牛羊￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -88,7 +90,9 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("171期【野兽：猴虎龙蛇】开？00√<br>");
+
+document.writeln("172期【野兽：龙蛇猴兔】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -129,7 +133,10 @@ document.writeln("167期【牛羊<font color=\'#FF0000\' size=\'5\'><span style=
 document.writeln("168期【龙猪马鼠狗兔羊<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鸡】开虎16√<br>");
 document.writeln("169期【龙兔虎鸡鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>牛猴马】开猪07√<br>");
 document.writeln("170期【蛇鼠龙牛兔羊虎猪狗】开鸡33×<br>");
-document.writeln("171期【猴虎马牛鼠猪羊蛇龙】开？00√<br>");
+document.writeln("171期【猴虎马牛鼠猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>蛇龙】开羊47√<br>");
+
+document.writeln("172期【鼠牛马龙羊蛇狗鸡猴】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

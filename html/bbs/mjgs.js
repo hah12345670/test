@@ -39,7 +39,8 @@ document.writeln("167期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("168期单双【单数+鼠猴】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("169期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("170期单双【双数+蛇牛】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("171期单双【双数+鸡羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("171期单双【双数+鸡<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("172期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -70,7 +71,8 @@ document.writeln("");
 
 
 document.writeln("170期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("171期家野【家禽+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("171期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("172期家野【野兽+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -96,7 +98,9 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("169期天地【地肖+<span style=\'background-color: #FFFF00\'>猪</span>龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("170期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("171期天地【地肖+猪猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("171期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("172期天地【天肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 document.writeln("");
@@ -129,7 +133,8 @@ document.writeln("168期前后【后肖+<span style=\'background-color: #FFFF00\
 
 document.writeln("169期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("170期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("171期前后【后肖+牛虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("171期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("172期前后【前肖+狗猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 

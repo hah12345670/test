@@ -1,4 +1,4 @@
-﻿ocument.writeln("");
+﻿
 document.writeln("");
 document.writeln("");
 document.writeln("");

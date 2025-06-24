@@ -26,11 +26,16 @@ document.writeln(" ");
 
 
 
-
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>175期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雨电雷】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>174期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨风】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>174期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷雨<span style=\'background-color: #FFFF00\'>风</span>】</font>开<font color=\'#ac6a00\'>兔39</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -87,36 +92,6 @@ document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td>165期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【风雷<span style=\'background-color: #FFFF00\'>雨</span>】</font>开<font color=\'#ac6a00\'>羊47</font>准</td>");
 document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>164期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>雨</span>电雷】</font>开<font color=\'#ac6a00\'>蛇13</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>163期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【雷<span style=\'background-color: #FFFF00\'>雨</span>风】</font>开<font color=\'#ac6a00\'>羊23</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>162期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>雨</span>雷风】</font>开<font color=\'#ac6a00\'>蛇01</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>161期<font color=\'#ac6a00\'>风雨雷电</font><font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>风</span>雨电】</font>开<font color=\'#ac6a00\'>虎16</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
 document.writeln("");
 
 

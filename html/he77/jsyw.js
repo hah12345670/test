@@ -27,12 +27,16 @@ document.writeln("");
 
 
 
+document.writeln("  <tr>");
+document.writeln("    <td>175期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【5555尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 
 
 document.writeln("  <tr>");
-document.writeln("    <td>174期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【1111尾】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>174期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【1111尾】</font>开<font color=\'#ac6a00\'>兔39</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -97,49 +101,6 @@ document.writeln("  <tr>");
 document.writeln("    <td>165期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【2222尾】</font>开<font color=\'#ac6a00\'>羊47</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>164期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【4444尾】</font>开<font color=\'#ac6a00\'>蛇13</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>163期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【7777尾】</font>开<font color=\'#ac6a00\'>羊23</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>162期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【3333尾】</font>开<font color=\'#ac6a00\'>蛇01</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>161期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【7777尾】</font>开<font color=\'#ac6a00\'>虎16</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
-document.writeln("  <tr>");
-document.writeln("    <td>160期<font color=\'#ac6a00\'>绝杀一尾</font><font color=\'#0000FF\'>【2222尾】</font>开<font color=\'#ac6a00\'>羊11</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-
 
 
 

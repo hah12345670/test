@@ -16,12 +16,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("  <tr>");
+document.writeln("    <td>175期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("  <tr>");
-document.writeln("    <td>174期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>？00</font>准</td>");
+document.writeln("    <td>174期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>兔39</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 
@@ -85,43 +90,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("  <tr>");
 document.writeln("    <td>165期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>羊47</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>164期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>蛇13</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>163期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【绿波双】</font>开<font color=\'#ac6a00\'>羊23</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>162期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【蓝波双】</font>开<font color=\'#ac6a00\'>蛇01</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>161期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【红波双】</font>开<font color=\'#ac6a00\'>虎16</font>准</td>");
-document.writeln("  </tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("  <tr>");
-document.writeln("    <td>160期<font color=\'#ac6a00\'>绝杀半波</font><font color=\'#0000FF\'>【红波双】</font>开<font color=\'#ac6a00\'>羊11</font>准</td>");
 document.writeln("  </tr>");
 document.writeln("");
 

@@ -10,14 +10,13 @@ document.writeln("<table border=\"1\" width=\"100%\" id=\"table400923401\">");
 document.writeln("");
 
 
-
 document.writeln("	<!--gavc-->");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		177期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.2.1.7.9.8.3）</font><br>");
-document.writeln("		177期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.2.1.7）<BR>		");
+document.writeln("		178期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（7.6.8.4.0.1.3）</font><br>");
+document.writeln("		178期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（7.6.8.4）<BR>		");
 document.writeln("		===============</font></font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");

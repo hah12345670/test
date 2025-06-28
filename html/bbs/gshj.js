@@ -30,7 +30,8 @@ document.writeln("175期王者六肖【狗蛇羊牛<font color=\'#FF0000\' size=
 document.writeln("176期王者六肖【羊猴兔<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>牛鸡】√<br>");
 document.writeln("177期王者六肖【鸡蛇猴马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>兔】√<br>");
 document.writeln("178期王者六肖【龙猪鸡虎牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font>】√<br>");
-document.writeln("179期王者六肖【猪狗兔龙马虎】√<br>");
+document.writeln("179期王者六肖【猪狗兔龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>虎】√<br>");
+document.writeln("180期王者六肖【狗蛇鼠马猴龙】√<br>");
 
 
 document.writeln("		");
@@ -72,8 +73,8 @@ document.writeln("174-175期￥鸡龙马<font color=\'#FF0000\' size=\'5\'><span
 document.writeln("175-176期￥鸡龙马兔虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>狗￥175期√<br>");
 document.writeln("176-177期￥虎蛇龙鼠猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>兔￥176期√<br>");
 document.writeln("177-178期￥蛇羊龙猴牛马狗￥000期×<br>");
-document.writeln("179-180期￥猴狗马兔鸡蛇牛￥000期√<br>");
-
+document.writeln("179-180期￥猴狗<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>兔鸡蛇牛￥179期√<br>");
+document.writeln("180-181期￥马蛇猴龙狗猪虎￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -105,7 +106,9 @@ document.writeln("176期【家禽：牛羊<font color=\'#FF0000\' size=\'5\'><sp
 document.writeln("177期【野兽：龙猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>兔】开虎04√<br>");
 
 document.writeln("178期【野兽：龙猴虎鼠】开兔27√<br>");
-document.writeln("179期【家禽：鸡狗猪羊】开？00√<br>");
+document.writeln("179期【家禽：鸡狗猪羊】开马24√<br>");
+
+document.writeln("180期【家禽：牛马狗鸡】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -137,7 +140,10 @@ document.writeln("175期【虎龙鸡羊猪兔猴<font color=\'#FF0000\' size=\'5
 document.writeln("176期【羊虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>狗兔蛇鸡鼠龙】开马36√<br>");
 document.writeln("177期【鸡兔牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>猪猴羊龙狗】开虎04√<br>");
 document.writeln("178期【马猴虎龙猪鸡鼠牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font>】开兔27√<br>");
-document.writeln("179期【鼠鸡猪马虎狗龙牛兔】开？00√<br>");
+document.writeln("179期【鼠鸡猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>虎狗龙牛兔】开马24√<br>");
+document.writeln("180期【牛兔狗猴马蛇羊龙猪】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

@@ -181,9 +181,7 @@
 		}
 	</script>
 	<body>
-		<div class="tube" id="tube">
-			<div class="stick" id="stick"><div id="stickText"></div></div>
-		</div>
+		<div class="tube" id="tube"><div class="stick" id="stick"><div id="stickText"></div></div></div>
 		<button id="button" onclick="shakeStick()">卜 卦</button>
 		<button id="button1" onclick="shakeStick1()">测 吉</button>
 		<div id="result"></div>
@@ -280,7 +278,7 @@
 			}
 			// 小六壬
 			function shakeStick1() {
-				let showdata = document.getElementById('showdata');
+				const showdata = document.getElementById('showdata');
 				showdata.innerHTML = str_p;
 				document.getElementById('button1').style.display = 'none';
 				showdata.style.textAlign = 'left';

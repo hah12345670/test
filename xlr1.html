@@ -1,4 +1,4 @@
-<!DOCTYPE html><title>小六壬</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><script type="text/javascript" src="./nl.js"></script>
+<!DOCTYPE html><title>小六壬和卦</title><meta content="width=device-width, initial-scale=1.0" name="viewport"><script type="text/javascript" src="./nl.js"></script>
 	<style>
 		body {
 			font-family: sans-serif;
@@ -184,8 +184,10 @@
 		<div class="tube" id="tube">
 			<div class="stick" id="stick"><div id="stickText"></div></div>
 		</div>
-		<button id="button" onclick="shakeStick()">占卜</button>
+		<button id="button" onclick="shakeStick()">卜 卦</button>
+		<button id="button1" onclick="shakeStick1()">测 吉</button>
 		<div id="result"></div>
+		<div id="showdata"></div>
 		<script>
 			const stickEl = document.getElementById('stick');
 			const tubeEl = document.getElementById('tube');
@@ -272,9 +274,17 @@
 					stickTextEl.innerHTML = drawn.word;
 					stickEl.classList.add('show');
 					// resultEl.textContent = drawn.text;
-					resultEl.innerHTML = drawn.text + str_p;
+					resultEl.innerHTML = drawn.text;
 					// buttonEl.style.display = 'none';
 				}, 3000);
+			}
+			// 小六壬
+			function shakeStick1() {
+				let showdata = document.getElementById('showdata');
+				showdata.innerHTML = str_p;
+				document.getElementById('button1').style.display = 'none';
+				showdata.style.textAlign = 'left';
+				showdata.style.fontSize = '14px';
 			}
 		</script>
 	</body>

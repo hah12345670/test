@@ -27,6 +27,9 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+
+
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
 document.writeln("	<div class=\'bizhong333-tit\'>");
@@ -34,19 +37,21 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">178期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.33.45.02.14.26.06.18.30.10.22.34.10.22.34.13.25.49.08.32.44</font></li>");
-document.writeln("            	<li>178期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">09.33.45.02.14.26.06.18.30</font></li>");
-document.writeln("            	<li>178期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-09.33.45）</font></li>");
-document.writeln("            	<li>178期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡龙鼠</font></li>");
-document.writeln("            	<li>178期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡龙鼠猴蛇狗</font></li>");
-document.writeln("            	<li>178期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡龙鼠猴蛇狗虎马</font></li>");
-document.writeln("             	<li>178期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鸡龙鼠猴蛇狗虎马羊牛</font></li>");
+document.writeln(" 	            <li><font size=\"2\">179期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.19.31.09.21.33.13.25.49.04.16.28.05.29.41.12.24.36</font></li>");
+document.writeln("            	<li>179期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.19.31.09.21.33.13.25.49</font></li>");
+document.writeln("            	<li>179期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-07.19.31）</font></li>");
+document.writeln("            	<li>179期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪鸡蛇</font></li>");
+document.writeln("            	<li>179期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪鸡蛇虎牛马</font></li>");
+document.writeln("            	<li>179期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪鸡蛇虎牛马羊鼠</font></li>");
+document.writeln("             	<li>179期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>猪鸡蛇虎牛马羊鼠狗龙</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
+
 
 
 document.writeln("<!--必中每期开始-->");

@@ -277,19 +277,24 @@
 				// resultEl.textContent = '';
 				buttonEl.disabled = true; // 关闭按钮
 				const userInput = prompt("默念你想问的事，输入任意符号作为起念：");
-				// 3 秒后停止动画并显示签
-				setTimeout(() => {
+				if (userInput !== null) {
+					// 3 秒后停止动画并显示签
+					setTimeout(() => {
+						tubeEl.classList.remove('shake');
+						// const drawn = sticks[Math.floor(Math.random() * sticks.length)]; // 随机
+						const drawn = sticks[getHeavenlyHexagramIndex(userInput)];
+						buttonEl.disabled = false; // 开启按钮
+						// 设置签内容为竖排
+						stickTextEl.innerHTML = drawn.word;
+						stickEl.classList.add('show');
+						let str_html = resultEl.innerHTML + drawn.word + drawn.text;
+						resultEl.innerHTML = str_html;
+						resultEl.style.display = 'block';
+					}, 3000);
+				} else {
 					tubeEl.classList.remove('shake');
-					// const drawn = sticks[Math.floor(Math.random() * sticks.length)]; // 随机
-					const drawn = sticks[getHeavenlyHexagramIndex(userInput)];
 					buttonEl.disabled = false; // 开启按钮
-					// 设置签内容为竖排
-					stickTextEl.innerHTML = drawn.word;
-					stickEl.classList.add('show');
-					let str_html = resultEl.innerHTML + drawn.word + drawn.text;
-					resultEl.innerHTML = str_html;
-					resultEl.style.display = 'block';
-				}, 3000);
+				}
 			}
 			// 小六壬
 			function shakeStick1() {

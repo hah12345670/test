@@ -84,7 +84,7 @@
 	</style>
 	<script>
 		var nl = calendar;
-		var str_p = myTimer();
+		// var str_p = myTimer();
 		function myTimer(){
 			let d = new Date();
 			let t = d.toLocaleTimeString();
@@ -299,7 +299,7 @@
 			// 小六壬
 			function shakeStick1() {
 				const showdata = document.getElementById('showdata');
-				showdata.innerHTML = str_p;
+				showdata.innerHTML = myTimer();
 				document.getElementById('button1').style.display = 'none';
 				showdata.style.display = 'block';
 			}

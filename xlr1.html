@@ -263,7 +263,7 @@
 				// 重置样式
 				stickEl.classList.remove('show');
 				tubeEl.classList.add('shake');
-				resultEl.textContent = '';
+				// resultEl.textContent = '';
 				// 3 秒后停止动画并显示签
 				setTimeout(() => {
 					tubeEl.classList.remove('shake');
@@ -271,8 +271,8 @@
 					// 设置签内容为竖排
 					stickTextEl.innerHTML = drawn.word;
 					stickEl.classList.add('show');
-					// resultEl.textContent = drawn.text;
-					resultEl.innerHTML = drawn.text;
+					let str_html = resultEl.innerHTML + '</h3>'+ drawn.word + '</h3>' + drawn.text;
+					resultEl.innerHTML = str_html;
 					// buttonEl.style.display = 'none';
 				}, 3000);
 			}

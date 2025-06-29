@@ -98,9 +98,10 @@ document.writeln("174期【单数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("175期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">286尾</font><br>");
 document.writeln("176期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">248尾</font><br>");
 document.writeln("177期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">028尾</font><br>");
-document.writeln("178期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">159尾</font><br>");
+document.writeln("178期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">159尾</font><br>");
 
-document.writeln("179期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">468尾</font><br>");
+document.writeln("179期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
+document.writeln("180期【单数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">579尾</font><br>");
 
 
 document.writeln("");

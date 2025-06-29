@@ -69,6 +69,8 @@
 			margin-top: 30px;
 			font-size: 12px;
 			color: #333;
+			border: 1px solid #ddd;
+			margin-bottom: 5px;
 		}
 	</style>
 	<script>
@@ -271,7 +273,7 @@
 					// 设置签内容为竖排
 					stickTextEl.innerHTML = drawn.word;
 					stickEl.classList.add('show');
-					let str_html = resultEl.innerHTML + '</h3>'+ drawn.word + '</h3>' + drawn.text;
+					let str_html = resultEl.innerHTML + drawn.word + drawn.text;
 					resultEl.innerHTML = str_html;
 					// buttonEl.style.display = 'none';
 				}, 3000);
@@ -283,6 +285,8 @@
 				document.getElementById('button1').style.display = 'none';
 				showdata.style.textAlign = 'left';
 				showdata.style.fontSize = '14px';
+				showdata.style.border = '1px solid #ddd';
+				showdata.style.padding = '3px';
 			}
 		</script>
 	</body>

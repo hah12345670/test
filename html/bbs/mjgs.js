@@ -30,7 +30,9 @@ document.writeln("");
 
 
 
-document.writeln("180期单双【单数+马鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("180期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("181期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 
@@ -71,7 +73,8 @@ document.writeln("176期家野【野兽+牛<span style=\'background-color: #FFFF
 document.writeln("177期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("178期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+羊猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("179期家野【野兽+狗<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("180期家野【野兽+牛鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("180期家野【野兽+<span style=\'background-color: #FFFF00\'>牛</span>鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("181期家野【家禽+兔鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -107,7 +110,8 @@ document.writeln("178期天地【<span style=\'background-color: #FFFF00\'>天�
 
 document.writeln("179期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("180期天地【地肖+猪马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("180期天地【地肖+猪马】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("181期天地【地肖+猴猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -149,7 +153,8 @@ document.writeln("177期前后【<span style=\'background-color: #FFFF00\'>前�
 document.writeln("178期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("179期前后【前肖+猴猪】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("180期前后【前肖+羊猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("180期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("181期前后【前肖+马羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -275,10 +275,14 @@
 				stickEl.classList.remove('show');
 				tubeEl.classList.add('shake');
 				// resultEl.textContent = '';
+				buttonEl.disabled = true; // 关闭按钮
+				const userInput = prompt("默念你想问的事，输入任意符号作为起念：");
 				// 3 秒后停止动画并显示签
 				setTimeout(() => {
 					tubeEl.classList.remove('shake');
-					const drawn = sticks[Math.floor(Math.random() * sticks.length)];
+					// const drawn = sticks[Math.floor(Math.random() * sticks.length)]; // 随机
+					const drawn = sticks[getHeavenlyHexagramIndex(userInput)];
+					buttonEl.disabled = false; // 开启按钮
 					// 设置签内容为竖排
 					stickTextEl.innerHTML = drawn.word;
 					stickEl.classList.add('show');
@@ -293,6 +297,29 @@
 				showdata.innerHTML = str_p;
 				document.getElementById('button1').style.display = 'none';
 				showdata.style.display = 'block';
+			}
+			// 时间戳转卦象索引
+			function getHeavenlyHexagramIndex(userSeed = '') {
+				const now = new Date();
+				const timePart = now.getTime();          // 当前时间戳（毫秒）
+				const secPart = now.getSeconds();        // 当前秒
+				const millisPart = now.getMilliseconds();
+				const envPart = navigator.userAgent.length; // 浏览器信息（可选）
+				// 模拟“真人输入”，比如输入姓名/念头/数字/空格
+				const inputHash = hashString(userSeed);
+				// 混合多个“随机”信息
+				const total = timePart + secPart * 13 + millisPart * 17 + inputHash + envPart * 3;
+
+				return total % 64; // 返回 0~63 的索引
+			}
+			// 简单哈希函数
+			function hashString(str) {
+				let hash = 0;
+				for (let i = 0; i < str.length; i++) {
+					hash = (hash << 5) - hash + str.charCodeAt(i);
+					hash |= 0; // 转32位整数
+				}
+				return Math.abs(hash);
 			}
 		</script>
 	</body>

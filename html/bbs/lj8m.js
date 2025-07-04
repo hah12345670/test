@@ -85,28 +85,51 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("澳叔克星【三肖四尾】</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("171期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">15<span style=\'background-color: #FFFF00\'>7</span>尾</font><br>");
-document.writeln("172期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">482尾</font><br>");
-document.writeln("173期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">246尾</font><br>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("185期</font><font color=\'#FF0000\' size=\"5\">（虎羊鸡+3580尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("184期</font><font color=\'#FF0000\' size=\"5\">（鼠猪蛇+1<span style=\'background-color: #FFFF00\'>8</span>39尾）</font><font size=\'4\'>开虎28</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 
-document.writeln("174期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">57<span style=\'background-color: #FFFF00\'>9</span>尾</font><br>");
-document.writeln("175期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">286尾</font><br>");
-document.writeln("176期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">248尾</font><br>");
-document.writeln("177期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">028尾</font><br>");
-document.writeln("178期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">159尾</font><br>");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("183期</font><font color=\'#FF0000\' size=\"5\">（虎猪蛇+2<span style=\'background-color: #FFFF00\'>3</span>67尾）</font><font size=\'4\'>开鸡33</font></b></font></table>");
+document.writeln("		<!--结束-->");
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("182期</font><font color=\'#FF0000\' size=\"5\">（鸡<span style=\'background-color: #FFFF00\'>鼠</span>马+4<span style=\'background-color: #FFFF00\'>2</span>98尾）</font><font size=\'4\'>开鼠42</font></b></font></table>");
+document.writeln("		<!--结束-->");
 
-document.writeln("179期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
-document.writeln("180期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">57<span style=\'background-color: #FFFF00\'>9</span>尾</font><br>");
-document.writeln("181期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">179尾</font><br>");
-document.writeln("182期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">046尾</font><br>");
-document.writeln("183期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">024尾</font><br>");
-document.writeln("184期【单数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">159尾</font><br>");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("180期</font><font color=\'#FF0000\' size=\"5\">（鼠<span style=\'background-color: #FFFF00\'>牛</span>猪+1<span style=\'background-color: #FFFF00\'>9</span>28尾）</font><font size=\'4\'>开牛29</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("179期</font><font color=\'#FF0000\' size=\"5\">（鼠羊<span style=\'background-color: #FFFF00\'>马</span>+0931尾）</font><font size=\'4\'>开马24</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
 
 
 document.writeln("");

@@ -197,6 +197,10 @@
 		<div class="">
 		    <div class="swiper-wrapper">
 			    <div class="swiper-slide">
+			    		<div class="qid" data-i="186" data-name="wcsslm1.jpg">
+			    			第186期 
+			    		</div>
+			    	</div><div class="swiper-slide">
 			    		<div class="qid" data-i="185" data-name="wcsslm1.jpg">
 			    			第185期 
 			    		</div>
@@ -1104,29 +1108,65 @@
 		background: linear-gradient(to bottom, #0060ff, #1219d5);
 		box-shadow: 1px 2px 5px 2px #0060ff;
 	}
+	.foot{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 998;
+        max-width: 800px;
+	}
+	#labelnav{
+	    display: none; 
+        z-index: 998;
+        background: #fff;
+        justify-content: space-around;
+	}
+	#labelnav img{
+	    height: 40px;
+	}
+	#copyinfo{
+	    display: none; 
+        z-index: 9;
+        background: #04bc80;
+        color: #ffffff;
+        width: 100%;
+        text-align: center;
+        top: 50%;
+        position: fixed;
+        line-height: 2rem;
+	}
 </style>
-<div class="nav">
-    <div class="tab" onclick="goToHome()">
-        <i class="iconfont icon-home"></i>
-        <p>首页</p>
+<div class="foot">
+    <div class="nav">
+        <div class="tab" onclick="goToHome()">
+            <i class="iconfont icon-home"></i>
+            <p>首页</p>
+        </div>
+        <div class="tab" onclick="goToCol()">
+            <i class="iconfont icon-tu"></i>
+            <p>彩图</p>
+        </div>
+        <div class="tab" onclick="goToBlack()">
+            <i class="iconfont icon-tu"></i>
+            <p>黑白</p>
+        </div>
+        <div class="tab" onclick="goToKj()">
+            <i class="iconfont icon-jilu"></i>
+            <p>记录</p>
+        </div>
+        <div class="tab" onclick="goToMessage()">
+            <i class="iconfont icon-liuyan"></i>
+            <p>留言</p>
+        </div>
     </div>
-    <div class="tab" onclick="goToCol()">
-        <i class="iconfont icon-tu"></i>
-        <p>彩图</p>
-    </div>
-    <div class="tab" onclick="goToBlack()">
-        <i class="iconfont icon-tu"></i>
-        <p>黑白</p>
-    </div>
-    <div class="tab" onclick="goToKj()">
-        <i class="iconfont icon-jilu"></i>
-        <p>记录</p>
-    </div>
-    <div class="tab" onclick="goToMessage()">
-        <i class="iconfont icon-liuyan"></i>
-        <p>留言</p>
+    <div id="labelnav">
+        <div onclick="window.history.back()"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALcSURBVHgB7ZvtcdNAEIYfMvyPqSDbQaACRAWkA1QCVBB3AB04VBCowE4HUEGOCpJUEG7H8vi8lvVhSadT4mdmx1prTrpX9+E93RpOnHhRvOF4xFvmbebtovjc2OZ8F5w5fvT2rzhW+0MEMm8Lbw/enkc2rcOttysGIPd2DzwnavdFHWup69LaPb83vZjB0Q2hPTfevrHu/qVUCVaxS2/vS87pBVfe7tiOqUe6izyEFDYr6nPJdv6w6Nj+RIXoQyzY7zrL4kapkFM+1Ba0JC+5yJx0mbNf35wW2Kc2J33m7E9kjbg6tmAC6JAL6541KXRLh64xMhlHjOUwqHhgelTW/8z4OuWHU/0d02MVHKsWCU9awWL8KPFqz9hGykLnJQp2xt8JTuoEt45WEsAZX0LHCp7VFJ4CtpHOQ8cKvjC+Y3o4478LnTPGR3tVTvkipQ/Oq07aSGVohN0wtq/FvF3wHCS8+dAhpbAfszeKjBpwUMdYXVpYP3kx30cPdGK0sFC+hp3TH411DC1YGF4sJCJYiCMWEhAsxBMLIwsW4oqFkQX/IK5YJbmfpRhBTSOGaOEZ5V36muFIdtIaSvToghUhnugkBCtCHNHJCFaE4UUnJVgRykX3tTxM7mfJsd7hc+b7z0Rmye4THxphtzVy+iHUsAxPvGVcnLcPrN8db/acB8UKHuO1rN7zF5GwY/jJ+ML0EOO70LGCbQuXpRSkjhh/pxGtYFdTeApUbibUtbAwPez7bRc6VvDK+BnT49L4rq7Aq9oQV34HxzoeMqZDzhEb+hkVkUri2Pi8cWxuC16TPlrHsM6tFj85cV/JdMWKPSouvym5yD1ppTFl7C941BaHCnRNLv3LOg9kk1jqGAZhm5Gj9pEjk0ubpA/re+UvtMfRDaE9P719pYdFUM4LSRBvi07zmpqYyl8AFrSME+q6dBU6tiWwc3a7odANV3w+FvbENhF9xTQTbk6c6Jv/dUAGctUO1bcAAAAASUVORK5CYII="></div>
+        <div onclick="window.history.forward()"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALZSURBVHgB7Zv/cdowGIaf5vo/dIJog7QT1N0gG9QjtBPEG7QbQCdIOwFkg3SCqBOETJDqO8whPhv/wJYtE5679/B3Phm9SLI/yQIuXDgr3nE6xilxmjtd55877c53warjjdO//Fj0yAAkTgunZ6fXkSV1uHe6JQCp0xPwGqme8jrWUtelpXv+aHoxhaUbhvYsnb6z7f6lVBkWsyunjyXn5IJrpwf2Y2pDd5PHMLnmeX1u2N8/NDK2v1Bh+hgLil1nlX9RLKSUD7UFLUlLLpIRLxnF+qa0QP9qGfGTUbyRNeL21IIRIEPOr3vSpNA9HbrGyCScMJb9pOKZ6VFZ/ysVyy3fv9U/MD3W3rF4Mf5JbdioeJB8tWd0IyV+cI6GrYoPkpM6w62zlQiwKjZ+oA3PawpPAd1IMz/Qhq9VbJkeVsUf/OCKYUjYJjRzhmdWdVJnKn2Qcpi1GcKjJzxH8XPovlLKJcVU1RCWoz6G6NK/VWzY/uqGCAjRwkJG+bKMIQyNfYQyLGQMZzoKw0LGMKajMSxkhDcdlWEho9x0X8/p6AwLGUXTP+mHUR9Lx+grsenEUC18R9hxHFWXDm0WIjI8hFmIxPBQZiECw0OahZENpwxrFkZ+LCUqtmzf7lkiYMVhS/SB/+omdMvu8D2s/BPvCY/Mhz+xXeSX41FXQrXhUJV5JJI1bj2GX1RsmB5GxdYPtGHdwmOsMnbFqPigEbVhW1N4ClS+TKhrYcP00JtwrB9ow2sVJ0yPGxXbugJv6oW48Mc7lvGQMB1STnihn1CRqUSOn0OLGu/D1AXviB89I2s1+UkpznBiNl02/UxpyZLyaV1KPCQUJzyixbECXTeX/mWbI+82llrCYNjvyBF95sTNpU22D8ta8VfaY+mGoT2/nL7RwyQo5Uw2iLdFbvOyNTGWvwAsaJkn1HXpKmRsG08zDruhoRs2/9zkemG/EX3NNDfcXLjQN/8By3YGExNocz4AAAAASUVORK5CYII="></div>
+        <div onclick="window.location.reload()"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPgSURBVHgB7Zv/VdswEMe/7eN/skHVCWAD3A3YIOoEpRPEG0AniDsB7QQxE5ROEHUCYALqe3aIfJJl/TIxvHzeuxcbWbLOOp3uZAMcOfKu+IB4RCNFI4tGPnW/O9mVp6DY8WMj/7pjknu8AkUj60YeGnk+sFAfbhu5xATIRrYAnmcq266Po4yZNJnntW9jDIU0BMKpGvmO1vytuBQmZTeNnFvKqMG6kTvs59Qj0pUcQnSy6Ppzhr3/4NDc/gKH0kOsYZrOprvRXJCwT7U1ApGWRkrMlxJmfyUC4E+txPwpYToyLy5jK84AmnJ63wufSrdIMI0DUyBiLutBxQMOB3njTScioF5Q/8/Rf0K/cDj+oL86+MItVOiFH9nFgp3nilcLtAEMdVx3iNvub9cw59vC0S8Xd5Z7D3KF/tNJjVMl+iMVEiLyB+MLd7pXeuHYCAdHK1o7NHJr2CM1Vz2qQwouEIeytPnCCStcjFT2YdnIDYY7rNA+SJLzgesE4uGDdOq6mK9joSxhN1Vql0xrSLkV3ClniEkDAY43RWEBWHNWOVJnC7+5HQJ/2C+cIA+7zEpHoc1alKOehJ/5xvoSA5fTUvDnm6XumLKA/z1Cl0elHQu9IMcIC5jJxVf4KVN1vxeOa54wYfISs/ZJRMSvEzOox0eks2TnPzBjUhUmZ1Vo5wrTbJ+u0DpFicyEmnSB6c1Zsnv4RG6TmTQPJP4iP/weIaGqQW6Fs62XU7WZw2m9KVIV5k8/ydwGEOxcIYFUhblHPkN+eFCikJGYwEOvQ8lCbB5rQyAuiZg08PitHZOyV8hHwc5rZCZmhAuYKWGOURYwU0dfH+GtR4zCxIZ17BbprOHIa0eYXOECZtK+QjwrS3sioL63HnykQihhdnId2NEF7G8tS4ThbRkpChMV3FuvQ+ycnW1fq0I4gwrzDYDUME52v0vtbwLtqNFme4023lZamevl9k9M/G6rQvy80SkxvjE3JjeIQ8CcVi/wdZiPcOzyUjbyGXFRUY12Pyx2PRfs/Ek/4QqrkcohKLRKU+fJNF3Thcqq7lqSGvE4XyaMzWGBdGrsFdi9aRDa/e6RNz7mwYlyXSwA/137mcJfl45GZ3N5IR6Ls/+25IEnAwXeDhL9OXznU6lAQKQyM7bo9/0ytuIK84f6yCM8byTyJgNTw5UlkQikQlxc/JoUMON/I7rSSf24lOLie+w/LFWYBoH9+k1ygciPS10Ko2uQYtolwlFIQyAciugoJE3ey5Z4Jx+Ih0JuniKZufwLwBqBccKYSbuguS00OUXfDAXSUN3v7oufJ+y/AKoxnb84cuQt8R8VF2YCKN/tfwAAAABJRU5ErkJggg=="></div>
+        <div id="copybtn"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAANDSURBVHgB7ZvtddowFIbf5vR/6ARRJwgbVN2ADeJukE4Qb5BmAugEaScImaDtBFEnCExAdY9MERdjW19GJn7OuQdfHNl68ZV89RFgZOSseAd/hDapbaLtqvrc2vZ8CIodr7T9rY7JfqMHpLa5tldtmxMb1eFR2wwJKLS9ANhkai9VHVtpC2kKz/uuF2MohCHgzkLbV5jwr6VJMIl90jatOUcXXGp7xq5NrRAu8hiisklVn2vs+g8Ote3PaBB9jDkOQ+epulEuFKhvanM4UtRcpES+lDisbwEH+K9WIn9KHHZknZj5FswAanJ23WWXQo8ICI0TI+HRlu2k4hXDo7H+F8ynLt/u6p8xPJbWMWkR9kkuWDC/l3w1MvwhSdvJVTBFmoQfivl7yUmbYOdsJQKFtl8wPS51oBPH8or5wna44ElL4T64sY7pFUnCXUTzh3RpO1zwFfMV+ucn8ym86YkLdEMx/0PTH/MX96koUT8EFB3L8/z/P++RBnvmw4cFjDg7vMmnytNISCESdg7tklKSuDuY0NskNqrXFJF0+Aimm/c95TOHp+ALhCHg3ovGwDsDDG3DdWIpWVEIf4cL1CcfDzBtPAouIT2Fe9vqikD9TEbZsXySNnyLNMNIgTCxQIOOkJBOlZXRLKlg39FM5DdEIESwYL5CHNbM/4KIbTZV4hFCiV2KS0826ogtR8EKJptKQuh7eHCMgs+dUbADivmxsqykvDnBHBoM2OlcEwKH6d8t8iDJjIeCmfSW1nf3lSn4o2BGRD/QA3xdqQ2BNFshaEIhZIx99AnzNryuEdSEQuQ5pooQsYL5ynZ4SK88bqy0fYQZHkqYPFggjAf4TyAI5u89RC5Y1RTumrwvEHFUE0DjsJWHNP9VBYYHfz0q2+GCl8yXGB7XzFdtBd7Ugjhhr+1Qe5AYDgU8FvQlGt5jmcNzgplvwTvkD9WRTxt3psBh9pOzaC7Wa9p4gfqFrAL5IHE44GlcewrdXPoHJjHZbixVSIPAbkcO2Sd4bi7tsn2YJsBv4I5CGALufIcZogbvTSlwJhvEXaFunoaQufwLwByOeUJbSDdBbVtYdon9MBQIQ1Wfq8rW2C3DLnGaDTcjI7nxD6TOBZJRboADAAAAAElFTkSuQmCC"></div>
     </div>
 </div>
+<div id="copyinfo" style="display:none">网址复制成功 快去分享好友吧</div>
 <div id="lins1" class="lintab" style="display: none">
 	<span id="a_close" class="linhid">x</span>
 	<a href="/Article/lts">交流一线(新)</a>
@@ -1141,7 +1181,7 @@
 	<a href="https://gg.2828gggg.biz:1888/s/fydyp3tg">2828彩票</a>
 </div>
 <div class="tongji">
-    // <script>
+<script>
       var _hmt = _hmt || [];
       var hmBaiduKey = 'BE38L3I9';
       (function() {
@@ -1150,7 +1190,36 @@
           var s = document.getElementsByTagName("script")[0];
           s.parentNode.insertBefore(hm, s);
       })();
-    </script>
+    function getUrlParam(name)
+    {
+        var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象\
+        var r = window.location.search.substr(1).match(reg); //匹配目标参数
+        if (r!=null) return unescape(r[2]); return null; //返回参数值
+    }
+    $(document).ready(function(){
+    	let w = sessionStorage.getItem('islabel');
+    	n = getUrlParam('label');
+    	if(n==1||w==1){
+    	    sessionStorage.setItem('islabel',1);
+    	    $("#labelnav").css('display','flex');
+    	};
+    	$("#copybtn").click(function(){
+    	    const input = document.createElement('input');
+            document.body.appendChild(input);
+            input.setAttribute('value', window.location.href);
+            input.setAttribute('readonly', 'readonly');
+            input.select();
+            input.setSelectionRange(0, 999);
+            if (document.execCommand('copy')) {
+                $("#copyinfo").show();
+                setTimeout(()=>{
+                    $("#copyinfo").hide();
+                },1000)
+            }
+            document.body.removeChild(input);
+        });
+    });
+</script>
 
    
 </div>

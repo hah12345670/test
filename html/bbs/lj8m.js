@@ -89,12 +89,17 @@ document.writeln("澳叔克星【三肖四尾】</font><br><font style=\"font-si
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("186期</font><font color=\'#FF0000\' size=\"5\">（羊虎牛+6208尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("185期</font><font color=\'#FF0000\' size=\"5\">（虎羊鸡+3580尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("185期</font><font color=\'#FF0000\' size=\"5\">（虎羊鸡+3<span style=\'background-color: #FFFF00\'>5</span>80尾）</font><font size=\'4\'>开牛05</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");

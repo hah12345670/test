@@ -53,18 +53,18 @@ document.writeln("");
 
 
 
-
-
-
 document.writeln("");
 document.writeln("<tr><td align=\'left\' height=60 style=\'border-style: solid; border-width: 1px\'><b>");
 document.writeln("<font style=\'font-size: 13pt\'>");
-document.writeln("188期玄机诗句<font color=\'#FF0000\'>【他是若随凌云志，敢笑黄巢不丈夫】</font>");
-document.writeln("<br><font color=\'#0000FF\'>解析：云解云肖，猴鸡狗；丈夫解男肖，龙虎鼠猴牛马狗。</font>");
-document.writeln("<br><font color=\'#008000\'>解特：龙虎鼠猴牛狗");
+document.writeln("189期玄机诗句<font color=\'#FF0000\'>【行下春风望夏雨，燕子双飞蝶儿舞。】</font>");
+document.writeln("<br><font color=\'#0000FF\'>解析：春风解春肖虎兔龙夏雨解夏肖蛇马羊，燕子双飞，飞可解会飞的动物龙鸡。</font>");
+document.writeln("<br><font color=\'#008000\'>解特：虎兔龙蛇马羊");
 document.writeln("</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("");
+
+
+
 
 
 document.writeln("");

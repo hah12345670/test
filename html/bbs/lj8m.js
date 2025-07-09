@@ -94,7 +94,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("【半面妆容】（3肖中特）</font><br><font style=\"font-size: 14pt; text-decoration: none\"><br>");
+document.writeln("【半面妆容】（3肖中特）</font><br><font style=\"font-size: 17pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 
@@ -102,7 +102,8 @@ document.writeln("		186期【虎<span style=\'background-color: #FFFF00\'>狗</s
 document.writeln("		187期【猴猪<span style=\'background-color: #FFFF00\'>鸡</span>】<br>");
 
 document.writeln("		188期【虎<span style=\'background-color: #FFFF00\'>兔</span>鼠】<br>");
-document.writeln("		189期【狗牛鼠】<br>");
+document.writeln("		189期【狗<span style=\'background-color: #FFFF00\'>牛</span>鼠】<br>");
+document.writeln("		190期【猪羊猴】<br>");
 
 document.writeln("");
 document.writeln("");

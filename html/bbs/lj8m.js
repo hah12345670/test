@@ -61,13 +61,22 @@ document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.0
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("  ");
-document.writeln("    ");
+document.writeln("        ");
 document.writeln("    <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	186-190期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.<span style=\"background-color: #000000\">45 ");
 document.writeln("	</span> </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
+document.writeln("  ");
+document.writeln("    <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	191-195期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">02.09.13.23.25.38.44.45 ");
+document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
 document.writeln("  ");
@@ -97,14 +106,14 @@ document.writeln("		");
 document.writeln("【半面妆容】（3肖中特）</font><br><font style=\"font-size: 17pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("		186期【虎<span style=\'background-color: #FFFF00\'>狗</span>猴】<br>");
 document.writeln("		187期【猴猪<span style=\'background-color: #FFFF00\'>鸡</span>】<br>");
-
+document.writeln("");
 document.writeln("		188期【虎<span style=\'background-color: #FFFF00\'>兔</span>鼠】<br>");
 document.writeln("		189期【狗<span style=\'background-color: #FFFF00\'>牛</span>鼠】<br>");
 document.writeln("		190期【猪羊猴】<br>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

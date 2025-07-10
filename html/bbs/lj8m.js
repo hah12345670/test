@@ -112,7 +112,7 @@ document.writeln("		187期【猴猪<span style=\'background-color: #FFFF00\'>鸡
 document.writeln("");
 document.writeln("		188期【虎<span style=\'background-color: #FFFF00\'>兔</span>鼠】<br>");
 document.writeln("		189期【狗<span style=\'background-color: #FFFF00\'>牛</span>鼠】<br>");
-document.writeln("		190期【猪羊猴】<br>");
+document.writeln("		191期【虎兔鼠】<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

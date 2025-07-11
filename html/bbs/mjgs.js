@@ -39,7 +39,8 @@ document.writeln("188期单双【双数+鸡<span style=\'background-color: #FFFF
 document.writeln("189期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("190期单双【单数+狗马】<font color=\"#FF0000\">×</font><br>	");
 
-document.writeln("191期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("191期单双【双数+羊鸡】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("192期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -70,7 +71,10 @@ document.writeln("");
 
 
 
-document.writeln("191期家野【家禽+蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("191期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期家野【家禽+虎猴】<font color=\"#FF0000\">√</font><br>	");
+
+
 
 document.writeln("");
 document.writeln("");
@@ -89,7 +93,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
 
-document.writeln("191期天地【天肖+羊虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("191期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期天地【天肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -135,8 +140,9 @@ document.writeln("187期前后【前肖+马羊】<font color=\"#FF0000\">×</fon
 document.writeln("188期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("189期前后【前肖+<span style=\'background-color: #FFFF00\'>牛</span>猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("190期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("191期前后【后肖+虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("");
+document.writeln("191期前后【后肖+虎鼠】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("192期前后【前肖+猪马】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

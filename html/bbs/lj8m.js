@@ -109,7 +109,7 @@ document.writeln("");
 document.writeln("");
 document.writeln(" 192期<span style=\'background-color: #FFFF00\'>鸡</span>鼠马+猪<br><br>");
 document.writeln(" 193期<span style=\'background-color: #FFFF00\'>马</span>猪蛇+鸡<br><br>");
-document.writeln(" 194期猴羊狗+鼠<br><br>");
+document.writeln(" 195期龙鸡马+牛<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

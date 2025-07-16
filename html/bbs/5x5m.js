@@ -29,6 +29,26 @@ document.writeln("<div class=\'box\'>");
 document.writeln("");
 document.writeln("");
 
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>198期必中三尾：<font color=\'#FF0000\' size=\'4\'>0-1-6</font></li>");
+document.writeln("            	<li>198期必中五尾：<font color=\'#FF0000\' size=\'4\'>0-1-6-4-3</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>10.20.30.11.21.31.26.36.46.04.14.24.23.33.43</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>10.20.30.11.21.31.26.36.46</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>198期一尾一码：<font color=\'#FF0000\' size=\'6\'>（10）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
@@ -36,10 +56,10 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>196期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-8-3</font></li>");
-document.writeln("            	<li>196期必中五尾：<font color=\'#FF0000\' size=\'4\'>4-8-3-6-1</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.28.38.23.33.43.16.26.46.11.21.31</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.28.38.23.33.43</font></li>");
+document.writeln("            	<li>196期必中三尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【4】</span>-8-3</font></li>");
+document.writeln("            	<li>196期必中五尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【4】</span>-8-3-6-1</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【14】</span>.24.44.08.28.38.23.33.43.16.26.46.11.21.31</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【14】</span>.24.44.08.28.38.23.33.43</font></li>");
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

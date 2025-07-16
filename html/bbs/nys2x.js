@@ -21,9 +21,16 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">196期绝杀二肖:<font color=\"#FF0000\">【马龙】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">198期绝杀二肖:<font color=\"#FF0000\">【猴狗】</font>开:？00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">197期绝杀二肖:<font color=\"#FF0000\">【猪羊】</font>开:猴34准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
 document.writeln("<font size=\"4\" face=\"微软雅黑\">195期绝杀二肖:<font color=\"#FF0000\">【鸡羊】</font>开:蛇25准</font></strong>");

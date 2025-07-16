@@ -29,7 +29,10 @@ document.writeln("");
 
 document.writeln("195期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("196期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("196期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("197期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("198期单双【单数+马虎】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 
@@ -60,8 +63,8 @@ document.writeln("");
 
 
 
-document.writeln("195期家野【家禽+<span style=\'background-color: #FFFF00\'>蛇</span>猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("196期家野【家禽+虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("197期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("198期家野【野兽+狗牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -84,7 +87,9 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("193期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("194期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+狗虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("195期天地【天肖+羊虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("196期天地【地肖+龙猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("196期天地【地肖+<span style=\'background-color: #FFFF00\'>龙</span>猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("197期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("198期天地【天肖+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -110,7 +115,9 @@ document.writeln("");
 
 
 
-document.writeln("196期前后【后肖+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("198期前后【前肖+马羊】<font color=\"#FF0000\">√</font><br>	");
+
+
 
 document.writeln("");
 document.writeln("");

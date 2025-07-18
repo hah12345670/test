@@ -21,7 +21,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("197期王者六肖【牛兔<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙猪马】√<br>");
 document.writeln("198期王者六肖【蛇羊马鼠牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>】√<br>");
-document.writeln("199期王者六肖【龙鼠蛇虎牛狗】√<br>");
+document.writeln("199期王者六肖【龙鼠蛇虎牛狗】×<br>");
+document.writeln("200期王者六肖【龙猪羊马鼠蛇】√<br>");
 
 
 
@@ -62,7 +63,8 @@ document.writeln("193-194期￥<font color=\'#FF0000\' size=\'5\'><span style=\"
 document.writeln("194-195期￥虎鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">牛</span></font>猴猪羊蛇￥194期√<br>");
 document.writeln("195-196期￥猪猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>狗鼠鸡羊￥195期√<br>");
 document.writeln("196-197期￥兔鸡蛇狗虎猪羊￥000期×<br>");
-document.writeln("198-199期￥羊牛龙蛇马猴鼠￥000期√<br>");
+document.writeln("198-199期￥羊牛龙蛇马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>鼠￥199期√<br>");
+document.writeln("200-201期￥兔牛鸡猪蛇虎狗￥000期√<br>");
 
 
 document.writeln("	");
@@ -91,7 +93,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("198期【家禽：牛羊马狗】开猪43√<br>");
-document.writeln("199期【野兽：猴虎鼠兔】开？00√<br>");
+document.writeln("199期【野兽：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>虎鼠兔】开猴10√<br>");
+document.writeln("200期【野兽：龙猴兔虎】开？00√<br>");
 
 
 
@@ -125,7 +128,8 @@ document.writeln("196期【鼠狗牛虎鸡猪马<font color=\'#FF0000\' size=\'5
 document.writeln("197期【鸡蛇牛虎龙猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>兔马】开猴34√<br>");
 document.writeln("198期【兔牛龙虎马蛇鸡鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>】开猪43√<br>");
 
-document.writeln("199期【虎牛兔猪鼠狗蛇羊猴】开？00√<br>");
+document.writeln("199期【虎牛兔猪鼠狗蛇羊<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>】开猴10√<br>");
+document.writeln("200期【猴马鸡蛇牛鼠猪狗虎】开？00√<br>");
 
 
 

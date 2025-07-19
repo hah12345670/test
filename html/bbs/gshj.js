@@ -22,7 +22,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("197期王者六肖【牛兔<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙猪马】√<br>");
 document.writeln("198期王者六肖【蛇羊马鼠牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>】√<br>");
 document.writeln("199期王者六肖【龙鼠蛇虎牛狗】×<br>");
-document.writeln("200期王者六肖【龙猪羊马鼠蛇】√<br>");
+document.writeln("200期王者六肖【龙猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马鼠蛇】√<br>");
+document.writeln("201期王者六肖【牛羊马鸡虎狗】√<br>");
 
 
 
@@ -94,8 +95,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("198期【家禽：牛羊马狗】开猪43√<br>");
 document.writeln("199期【野兽：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>虎鼠兔】开猴10√<br>");
-document.writeln("200期【野兽：龙猴兔虎】开？00√<br>");
-
+document.writeln("200期【野兽：龙猴兔虎】开羊47×<br>");
+document.writeln("201期【家禽：马羊鸡狗】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -129,8 +130,8 @@ document.writeln("197期【鸡蛇牛虎龙猪<font color=\'#FF0000\' size=\'5\'>
 document.writeln("198期【兔牛龙虎马蛇鸡鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>】开猪43√<br>");
 
 document.writeln("199期【虎牛兔猪鼠狗蛇羊<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>】开猴10√<br>");
-document.writeln("200期【猴马鸡蛇牛鼠猪狗虎】开？00√<br>");
-
+document.writeln("200期【猴马鸡蛇牛鼠猪狗虎】开羊47×<br>");
+document.writeln("201期【鼠马猴羊猪鸡狗兔蛇】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

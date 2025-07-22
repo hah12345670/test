@@ -111,24 +111,14 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("【半面妆容】【3肖中特】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("190期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">02-14数</font><br>");
-document.writeln("191期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">31-43数</font><br>");
-document.writeln("192期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">27-39数</font><br>");
-document.writeln("193期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">05-17数</font><br>");
-document.writeln("194期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">10-22数</font><br>");
-document.writeln("195期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
-document.writeln("196期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>09-21</span>数</font><br>");
 
-document.writeln("197期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">10-22数</font><br>");
-document.writeln("198期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">26-38数</font><br>");
-document.writeln("199期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">11-23数</font><br>");
-document.writeln("200期【小数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">03-15数</font><br>");
-document.writeln("201期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">33-45数</font><br>");
-document.writeln("202期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">39-41数</font><br>");
-
+document.writeln("		199期【马鼠<span style=\'background-color: #FFFF00\'>猴</span>】<br>");
+document.writeln("		200期【<span style=\'background-color: #FFFF00\'>羊</span>虎鼠】<br>");
+document.writeln("202期【牛<span style=\'background-color: #FFFF00\'>狗</span>马】<br>");
+document.writeln(" 203期【兔马+羊】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");

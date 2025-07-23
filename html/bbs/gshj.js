@@ -19,15 +19,7 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("197期王者六肖【牛兔<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙猪马】√<br>");
-document.writeln("198期王者六肖【蛇羊马鼠牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>】√<br>");
-document.writeln("199期王者六肖【龙鼠蛇虎牛狗】×<br>");
-document.writeln("200期王者六肖【龙猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马鼠蛇】√<br>");
-document.writeln("201期王者六肖【牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马鸡虎狗】√<br>");
-document.writeln("202期王者六肖【鸡羊马龙鼠猪】×<br>");
-document.writeln("203期王者六肖【牛狗蛇马虎羊】×<br>");
-document.writeln("204期王者六肖【兔羊马牛狗虎】√<br>");
-
+document.writeln("205期王者六肖【龙猴羊狗鼠马】√<br>");
 
 
 document.writeln("		");
@@ -88,7 +80,9 @@ document.writeln("200期【野兽：龙猴兔虎】开羊47×<br>");
 document.writeln("201期【家禽：马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>鸡狗】开羊47√<br>");
 document.writeln("202期【家禽：马鸡羊猪】开狗20√<br>");
 document.writeln("203期【野兽：龙猴虎兔】开鼠18√<br>");
-document.writeln("204期【野兽：龙猴虎鼠】开？00√<br>");
+document.writeln("204期【野兽：龙猴虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>】开鼠30√<br>");
+document.writeln("205期【家禽：牛马羊猪】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -125,7 +119,10 @@ document.writeln("200期【猴马鸡蛇牛鼠猪狗虎】开羊47×<br>");
 document.writeln("201期【鼠马猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>猪鸡狗兔蛇】开羊47√<br>");
 document.writeln("202期【虎鸡鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>羊牛马兔猪】开狗20√<br>");
 document.writeln("203期【羊马猪牛蛇鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>狗虎】开鼠18√<br>");
-document.writeln("204期【猴马猪羊牛虎鸡鼠兔】开？00√<br>");
+document.writeln("204期【猴马猪羊牛虎鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鼠</span></font>兔】开鼠30√<br>");
+document.writeln("205期【马虎猪兔蛇猴鸡狗鼠】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

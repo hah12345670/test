@@ -37,7 +37,9 @@ document.writeln("200期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("201期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("202期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("203期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("204期单双【单数+虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("204期单双【单数+虎猴】<font color=\"#FF0000\">×</font><br>	");
+
+document.writeln("205期单双【双数+猪牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -68,7 +70,9 @@ document.writeln("");
 
 
 document.writeln("203期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("204期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("204期家野【家禽+兔虎】<font color=\"#FF0000\">×</font><br>	");
+
+document.writeln("205期家野【家禽+龙猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -96,7 +100,8 @@ document.writeln("200期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("201期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("202期天地【天肖+羊虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("203期天地【天肖+蛇狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("204期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("204期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期天地【地肖+龙马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -122,7 +127,8 @@ document.writeln("");
 
 
 document.writeln("203期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("204期前后【前肖+羊马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("204期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期前后【后肖+虎牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 

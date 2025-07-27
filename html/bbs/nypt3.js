@@ -21,12 +21,12 @@ document.writeln("  <tbody>");
 
 
 
-
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">208期平特3.码<font color=\"#008000\">【兔03.27.39】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">209期平特3.码<font color=\"#008000\">【马12.24.48】</font>开:00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
+
 
 
 

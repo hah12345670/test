@@ -27,6 +27,26 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">211期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.29.41.10.22.34.03.27.39.06.18.30.04.16.40.02.14.38</font></li>");
+document.writeln("            	<li>211期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">05.29.41.10.22.34.03.27.39</font></li>");
+document.writeln("            	<li>211期必中①肖：<font color=\'#FF0000\' size=\'5\'>（牛-05.29.41）</font></li>");
+document.writeln("            	<li>211期必中③肖：<font color=\'#FF0000\' size=\'4\'>牛猴兔</font></li>");
+document.writeln("            	<li>211期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛猴兔鼠虎龙</font></li>");
+document.writeln("            	<li>211期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>牛猴兔鼠虎龙蛇鸡</font></li>");
+document.writeln("             	<li>211期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>牛猴兔鼠虎龙蛇鸡狗羊</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,13 +55,9 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">210期必中18码：</font><font color=\'#FF0000\' size=\'2\'>18.30.42.13.25.49.05.29.41.09.21.33.07.19.43.02.14.38</font></li>");
-document.writeln("            	<li>210期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">18.30.42.13.25.49.05.29.41</font></li>");
-document.writeln("            	<li>210期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-18.30.42）</font></li>");
-document.writeln("            	<li>210期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛</font></li>");
-document.writeln("            	<li>210期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙</font></li>");
+
 document.writeln("            	<li>210期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙马狗</font></li>");
-document.writeln("             	<li>210期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙马狗虎兔</font></li>");
+document.writeln("             	<li>210期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙马狗虎<span style=\'background-color: #FFFF00\'>兔</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

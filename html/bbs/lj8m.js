@@ -58,15 +58,19 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【半面妆容】(3肖中特】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("【小情怀】(12码)</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("		209期【猴<span style=\'background-color: #FFFF00\'>蛇</span>猪】<br>");
-document.writeln("");
-document.writeln("		211期【鸡<span style=\"background-color: #FFFF00\">龙</span>羊】<br>");
-document.writeln("		212期【龙兔狗】<br>");
-document.writeln("");
+
+document.writeln("211期<br>");
+document.writeln("33.15.19.37.22.29<br>");
+document.writeln("<span style=\'background-color: #FFFF00\'>02</span>.36.09.31.26.46<br>");
+document.writeln("212期<br>");
+document.writeln("15.39.08.14.34.12<br>");
+document.writeln("38.30.<span style=\'background-color: #FFFF00\'>18</span>.04.06.07<br>");
+document.writeln("213期<br>");
+document.writeln("29.37.05.24.47.32<br>");
+document.writeln("25.45.46.12.23.15<br>");
 document.writeln("");
 document.writeln("</font></a>		");
 document.writeln("");

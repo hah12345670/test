@@ -68,10 +68,13 @@ document.writeln("<span style=\'background-color: #FFFF00\'>02</span>.36.09.31.2
 document.writeln("212期<br>");
 document.writeln("15.39.08.14.34.12<br>");
 document.writeln("38.30.<span style=\'background-color: #FFFF00\'>18</span>.04.06.07<br>");
-document.writeln("213期<br>");
-document.writeln("29.37.05.24.47.32<br>");
-document.writeln("25.45.46.12.23.15<br>");
-document.writeln("");
+
+document.writeln("214期<br>");
+document.writeln("46.02.09.15.17.20<br>");
+document.writeln("22.07.49.23.42.33<br>");
+
+
+
 document.writeln("</font></a>		");
 document.writeln("");
 document.writeln("");

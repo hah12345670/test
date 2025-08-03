@@ -63,6 +63,9 @@
 			padding: 10px 25px;
 			font-size: 18px;
 			cursor: pointer;
+			/* display: flow-root;
+			margin: 5px auto;
+			width: 100%; */
 		}
 
 		#result {
@@ -79,6 +82,14 @@
 			font-size: 14px;
 			border: 1px solid #ddd;
 			padding: 3px;
+			display: none;
+		}
+
+		#result1 {
+			margin-top: 10px;
+			font-size: 12px;
+			color: #333;
+			border: 1px solid #ddd;
 			display: none;
 		}
 	</style>
@@ -198,14 +209,18 @@
 		<div class="tube" id="tube"><div class="stick" id="stick"><div id="stickText"></div></div></div>
 		<button id="button" onclick="shakeStick()">起 象</button>
 		<button id="button1" onclick="shakeStick1()">测 吉</button>
+		<button id="button2" onclick="shakeStick2()">随 机</button>
 		<div id="result"></div>
 		<div id="showdata"></div>
+		<div id="result1"></div>
 		<script>
 			const stickEl = document.getElementById('stick');
 			const tubeEl = document.getElementById('tube');
 			const resultEl = document.getElementById('result');
+			const resultEl2 = document.getElementById('result1');
 			const stickTextEl = document.getElementById('stickText');
 			const buttonEl = document.getElementById('button');
+			const buttonEl2 = document.getElementById('button2');
 			// 可自行扩展签文
 			const sticks = [
 				{ word: '一、乾 卦 ䷀ Qián', text: '<p>自强不息，万象之首。卦辞：元亨利贞。象征：天道刚健、君子自强、事业成功、领袖之象。适用：事业、权力、开创、领导。大吉：极其有利，顺利成功，功成名就，几无阻碍。</p>' },
@@ -305,6 +320,28 @@
 				showdata.innerHTML = myTimer();
 				document.getElementById('button1').style.display = 'none';
 				showdata.style.display = 'block';
+			}
+			// 随机
+			function shakeStick2() {
+				// 重置样式
+				stickEl.classList.remove('show');
+				tubeEl.classList.add('shake');
+				resultEl2.textContent = '';
+				resultEl2.style.display = 'none';
+				buttonEl2.disabled = true; // 关闭按钮
+				// 3 秒后停止动画并显示签
+				setTimeout(() => {
+					tubeEl.classList.remove('shake');
+					// const drawn = sticks[Math.floor(Math.random() * sticks.length)]; // 随机
+					const drawn = sticks[getHeavenlyHexagramIndex('')];
+					buttonEl2.disabled = false; // 开启按钮
+					// 设置签内容为竖排
+					stickTextEl.innerHTML = drawn.word;
+					// stickEl.classList.add('show');
+					let str_html = resultEl2.innerHTML + drawn.word + drawn.text;
+					resultEl2.innerHTML = str_html;
+					resultEl2.style.display = 'block';
+				}, 1000);
 			}
 			// 时间戳转卦象索引
 			function getHeavenlyHexagramIndex(userSeed = '') {

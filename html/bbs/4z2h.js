@@ -15,12 +15,13 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
 document.writeln("		<p>");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		215期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土-木-火）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		215期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土）");
+document.writeln("		216期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-金-土-木）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		216期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-金）");
 document.writeln("		");
 document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--gavc-->	");
+
 
 document.writeln("	<!--gavc-->	");
 document.writeln("	<tr>");

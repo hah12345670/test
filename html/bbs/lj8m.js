@@ -41,7 +41,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	216-220期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45 ");
+document.writeln("	02.09.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45 ");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -89,9 +89,9 @@ document.writeln("215期<br>");
 document.writeln("38.46.<span style=\'background-color: #FFFF00\'>21</span>.10.39.08<br>");
 document.writeln("03.18.29.30.23.36<br>");
 
-document.writeln("216期<br>");
-document.writeln("12.08.02.07.45.01<br>");
-document.writeln("29.40.26.21.13.41<br>");
+document.writeln("217期<br>");
+document.writeln("41.44.36.17.42.27<br>");
+document.writeln("20.02.03.01.16.38<br>");
 
 
 

@@ -70,28 +70,18 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【小情怀】(12码)</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("211期<br>");
-document.writeln("33.15.19.37.22.29<br>");
-document.writeln("<span style=\'background-color: #FFFF00\'>02</span>.36.09.31.26.46<br>");
-document.writeln("212期<br>");
-document.writeln("15.39.08.14.34.12<br>");
-document.writeln("38.30.<span style=\'background-color: #FFFF00\'>18</span>.04.06.07<br>");
+document.writeln("215期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">猪羊狗<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font></font><br>");
 
+document.writeln("216期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马猪</font><br>");
 
-document.writeln("214期<br>");
-document.writeln("46.02.09.<span style=\'background-color: #FFFF00\'>15</span>.17.20<br>");
-document.writeln("22.07.49.23.42.33<br>");
-document.writeln("215期<br>");
-document.writeln("38.46.<span style=\'background-color: #FFFF00\'>21</span>.10.39.08<br>");
-document.writeln("03.18.29.30.23.36<br>");
+document.writeln("217期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>虎兔</font><br>");
 
-document.writeln("217期<br>");
-document.writeln("41.44.36.17.42.27<br>");
-document.writeln("20.02.03.01.16.38<br>");
+document.writeln("218期【家禽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">牛马狗猪</font><br>");
+
 
 
 

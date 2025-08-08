@@ -41,7 +41,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	216-220期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45 ");
+document.writeln("	02.<span style=\"background-color: #000000\">09</span>.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45 ");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -81,7 +81,8 @@ document.writeln("216期【家禽】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("217期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>虎兔</font><br>");
 
 document.writeln("218期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">牛马狗猪</font><br>");
-document.writeln("219期【野兽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">龙兔猴虎</font><br>");
+document.writeln("219期【野兽】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">龙兔猴虎</font><br>");
+document.writeln("220期【野兽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">龙虎兔蛇</font><br>");
 
 
 

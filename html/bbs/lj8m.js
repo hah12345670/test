@@ -46,6 +46,15 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 
+document.writeln("    <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	221-225期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45 ");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
 
 
 document.writeln("	<tr>");
@@ -70,20 +79,16 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("大亨送彩【二肖四码】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("215期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">猪羊狗<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">鸡</span></font></font><br>");
-
-document.writeln("216期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">牛<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">羊</span></font>马猪</font><br>");
-
-document.writeln("217期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>虎兔</font><br>");
-
-document.writeln("218期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">牛马狗猪</font><br>");
-document.writeln("219期【野兽】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">龙兔猴虎</font><br>");
-document.writeln("220期【野兽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">龙虎兔蛇</font><br>");
-
+document.writeln("221期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
+document.writeln("<br>【鸡马】【16.40.17.41】<br><br>");
+document.writeln("");
+document.writeln("220期:【大亨送彩】二肖四码开:<span class=\"style2\">狗08</span>中		");
+document.writeln("<br>【<span style=\"background-color: #FFFF00\">狗</span>蛇】【18.30.26.38】<br><br>");
+document.writeln("");
 
 
 document.writeln("</font></a>		");

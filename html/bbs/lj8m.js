@@ -79,17 +79,17 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("大亨送彩【二肖四码】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("【小情怀】（12码中特）</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 
-document.writeln("221期:【大亨送彩】二肖四码开:<span class=\"style2\">？00</span>中		");
-document.writeln("<br>【鸡马】【16.40.17.41】<br><br>");
-document.writeln("");
-document.writeln("220期:【大亨送彩】二肖四码开:<span class=\"style2\">狗08</span>中		");
-document.writeln("<br>【<span style=\"background-color: #FFFF00\">狗</span>蛇】【18.30.26.38】<br><br>");
-document.writeln("");
+document.writeln("221期<br>");
+document.writeln("19.25.12.04.<span style=\'background-color: #FFFF00\'>08</span>.18<br>");
+document.writeln("30.05.23.42.21.31<br>");
 
+document.writeln("222期<br>");
+document.writeln("06.11.17.39.15.03<br>");
+document.writeln("13.35.30.12.37.38<br>");
 
 document.writeln("</font></a>		");
 document.writeln("");

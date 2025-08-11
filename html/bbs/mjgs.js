@@ -31,7 +31,8 @@ document.writeln("220期单双【<span style=\'background-color: #FFFF00\'>双�
 
 document.writeln("221期单双【<span style=\'background-color: #FFFF00\'>双数</span>+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("222期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("223期单双【双数+鸡猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期单双【双数+鸡猪】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("224期单双【单数+马龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -72,7 +73,8 @@ document.writeln("219期家野【<span style=\'background-color: #FFFF00\'>家�
 document.writeln("220期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+猴兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("221期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("222期家野【野兽+狗鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("223期家野【野兽+鸡狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+鸡狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("224期家野【野兽+牛马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -97,7 +99,8 @@ document.writeln("219期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("220期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("221期天地【天肖+蛇<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("222期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("223期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("224期天地【地肖+猴牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -128,7 +131,8 @@ document.writeln("219期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("220期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("221期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("222期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+龙蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("223期前后【后肖+鼠兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期前后【后肖+鼠兔】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("224期前后【后肖+蛇鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

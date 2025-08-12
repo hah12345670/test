@@ -19,7 +19,13 @@ document.writeln("  <tbody>");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">224期平特3.码<font color=\"#008000\">【猪07.19.43】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">225期平特3.码<font color=\"#008000\">【兔03.15.27】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">224期平特3.码<font color=\"#008000\">【猪07.19.43】</font>开:07准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

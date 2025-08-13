@@ -79,22 +79,19 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【小情怀】（12码中特）</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("赚点小钱【两面投资】</font><br><font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("221期<br>");
-document.writeln("19.25.12.04.<span style=\'background-color: #FFFF00\'>08</span>.18<br>");
-document.writeln("30.05.23.42.21.31<br>");
-document.writeln("");
+document.writeln("220期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">06<span style=\'background-color: #FFFF00\'>8</span>尾</font><br>");
+document.writeln("221期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">24<span style=\'background-color: #FFFF00\'>8</span>尾</font><br>");
 
-document.writeln("223期<br>");
-document.writeln("48.15.47.26.13.44<br>");
-document.writeln("21.20.<span style=\'background-color: #FFFF00\'>25</span>.18.41.02<br>");
+document.writeln("222期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">197尾</font><br>");
+document.writeln("223期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">379尾</font><br>");
+document.writeln("224期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">028尾</font><br>");
+document.writeln("225期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">268尾</font><br>");
 
-document.writeln("224期<br>");
-document.writeln("29.32.25.41.22.13<br>");
-document.writeln("07.17.48.44.49.45<br>");
+
 
 document.writeln("");
 document.writeln("</font></a>		");

@@ -33,19 +33,20 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">226期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.28.40.03.15.27.11.23.47.12.24.48.09.21.33.06.18.42</font></li>");
-document.writeln("            	<li>226期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.28.40.03.15.27.11.23.47</font></li>");
-document.writeln("            	<li>226期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-04.28.40）</font></li>");
-document.writeln("            	<li>226期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎兔羊</font></li>");
-document.writeln("            	<li>226期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎兔羊马鸡鼠</font></li>");
-document.writeln("            	<li>226期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎兔羊马鸡鼠龙牛</font></li>");
-document.writeln("             	<li>226期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>虎兔羊马鸡鼠龙牛猴蛇</font></li>");
+document.writeln(" 	            <li><font size=\"2\">227期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.17.41.13.25.37.02.14.26.07.19.43.04.28.40.21.33.45</font></li>");
+document.writeln("            	<li>227期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">05.17.41.13.25.37.02.14.26</font></li>");
+document.writeln("            	<li>227期必中①肖：<font color=\'#FF0000\' size=\'5\'>（牛-05.17.41）</font></li>");
+document.writeln("            	<li>227期必中③肖：<font color=\'#FF0000\' size=\'4\'>牛蛇龙</font></li>");
+document.writeln("            	<li>227期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛蛇龙猪虎鸡</font></li>");
+document.writeln("            	<li>227期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>牛蛇龙猪虎鸡羊狗</font></li>");
+document.writeln("             	<li>227期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>牛蛇龙猪虎鸡羊狗马鼠</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");

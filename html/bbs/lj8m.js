@@ -95,15 +95,43 @@ document.writeln("");
 document.writeln("");
 document.writeln("220期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">06<span style=\'background-color: #FFFF00\'>8</span>尾</font><br>");
 document.writeln("221期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">24<span style=\'background-color: #FFFF00\'>8</span>尾</font><br>");
-
+document.writeln("");
 document.writeln("222期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">197尾</font><br>");
 document.writeln("223期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">379尾</font><br>");
 document.writeln("224期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">028尾</font><br>");
 document.writeln("225期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>2</span>68尾</font><br>");
-document.writeln("226期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">268尾</font><br>");
-
-
-
+document.writeln("226期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">268尾</font><br>");
+document.writeln("227期【单数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">359尾</font><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("</font><br>");
+document.writeln("<!--二段结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--二段开始-->");
+document.writeln("");
+document.writeln("		<span style=\"text-decoration: none\">");
+document.writeln("");
+document.writeln("		<font style=\'font-size: 18pt\' face=\'微软雅黑\'>");
+document.writeln(" （大数小数）</font><br>");
+document.writeln(" 	");
+document.writeln("</span>");
+document.writeln(" 	");
+document.writeln("<font style=\'font-size: 14pt\' face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<span style=\"text-decoration: none\">224期【小数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>09-21</span>数</font><br>");
+document.writeln("225期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-48</span>数</font><br>");
+document.writeln("226期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>29-41</span>数</font><br>");
+document.writeln("");
+document.writeln("227期【小数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">04-16数</font></span></span><br>");
+document.writeln("");
+document.writeln("</font><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("</font></a>		");
 document.writeln("");

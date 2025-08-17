@@ -100,7 +100,8 @@ document.writeln("224期【野兽：龙猴<font color=\'#FF0000\' size=\'5\'><sp
 document.writeln("225期【家禽：牛马羊猪】开狗32√<br>");
 document.writeln("226期【家禽：羊鸡<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>狗】开猪31√<br>");
 document.writeln("227期【野兽：龙猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>鼠】开虎40√<br>");
-document.writeln("228期【家禽：牛羊马猪】开？00√<br>");
+document.writeln("228期【家禽：牛羊马猪】开兔15×<br>");
+document.writeln("229期【家禽：鸡猪马狗】开？00√<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

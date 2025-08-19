@@ -29,8 +29,8 @@ document.writeln("227期王者六肖【兔狗鼠猪羊鸡】×<br>");
 document.writeln("228期王者六肖【鼠鸡牛蛇羊龙】×<br>");
 document.writeln("229期王者六肖【羊牛鸡蛇鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>】√<br>");
 document.writeln("230期王者六肖【马虎鼠鸡蛇狗】×<br>");
-document.writeln("231期王者六肖【鼠龙虎兔羊猴】√<br>");
-
+document.writeln("231期王者六肖【鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>虎兔羊猴】√<br>");
+document.writeln("232期王者六肖【龙牛猪鸡蛇羊】√<br>");
 
 
 
@@ -75,7 +75,8 @@ document.writeln("225-226期￥蛇鼠龙鸡猴羊虎￥000期×<br>");
 document.writeln("227-228期￥<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>羊蛇猪马狗猴￥227期√<br>");
 document.writeln("228-229期￥猪龙牛蛇虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font>狗￥228期√<br>");
 document.writeln("229-230期￥鼠兔鸡牛猴马<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>￥229期√<br>");
-document.writeln("230-231期￥猴鼠狗马牛羊蛇￥000期√<br>");
+document.writeln("230-231期￥猴鼠狗马牛羊蛇￥000期×<br>");
+document.writeln("232-233期￥狗蛇鼠兔猪猴马￥000期√<br>");
 
 
 document.writeln("	");
@@ -105,8 +106,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("231期【野兽：龙猴虎蛇】开？00√<br>");
-
+document.writeln("231期【野兽：<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>猴虎蛇】开龙38√<br>");
+document.writeln("232期【家禽：牛羊马猪】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -141,8 +142,8 @@ document.writeln("227期【鼠羊蛇鸡兔牛马<font color=\'#FF0000\' size=\'5
 document.writeln("228期【猴牛马鼠虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font>龙羊狗】开兔15√<br>");
 document.writeln("229期【猪羊牛猴马虎鸡鼠狗】开龙02×<br>");
 document.writeln("230期【猴牛蛇马狗<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">兔</span></font>猪鼠羊】开兔39√<br>");
-document.writeln("231期【猴兔狗鼠猪羊牛马蛇】开？00√<br>");
-
+document.writeln("231期【猴兔狗鼠猪羊牛马蛇】开龙38×<br>");
+document.writeln("232期【龙鼠马兔猴蛇虎羊牛】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

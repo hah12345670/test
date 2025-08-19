@@ -66,6 +66,20 @@ document.writeln("	<span style=\"background-color: #000000\">02</span>.09.13.23.
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
+
+document.writeln("");
+document.writeln("");
+document.writeln("    <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	231-235期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45 ");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+
+
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -97,7 +111,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("230期</font><font color=\'#FF0000\' size=\"5\">（鸡马羊+2480尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("231期</font><font color=\'#FF0000\' size=\"5\">（马猴兔+7285尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");

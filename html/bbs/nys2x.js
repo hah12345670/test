@@ -17,11 +17,15 @@ document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 document.writeln("");
-
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">233期绝杀二肖:<font color=\"#FF0000\">【兔马】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">232期绝杀二肖:<font color=\"#FF0000\">【龙牛】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">232期绝杀二肖:<font color=\"#FF0000\">【龙牛】</font>开:鼠42准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 document.writeln("<tr>");

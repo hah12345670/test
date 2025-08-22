@@ -32,7 +32,7 @@ document.writeln("230期王者六肖【马虎鼠鸡蛇狗】×<br>");
 document.writeln("231期王者六肖【鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">龙</span></font>虎兔羊猴】√<br>");
 document.writeln("232期王者六肖【龙牛猪鸡蛇羊】×<br>");
 document.writeln("233期王者六肖【龙猴牛虎马猪】×<br>");
-document.writeln("234期王者六肖【狗马羊兔牛猴鸡】√<br>");
+document.writeln("234期王者六肖【狗马羊兔牛猴】√<br>");
 
 
 

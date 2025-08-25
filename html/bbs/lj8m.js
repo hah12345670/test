@@ -90,7 +90,7 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
-document.writeln("");
+
 document.writeln("	<tr>");
 document.writeln("		<td>");
 document.writeln("		<div style=\"background-color: #FFFF00\">");

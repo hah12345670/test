@@ -29,8 +29,10 @@ document.writeln("");
 
 
 
+document.writeln("241期单双【单数+马猴】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("240期单双【单数+马龙】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("240期单双【单数+马龙】<font color=\"#FF0000\">×</font><br>	");
 
 document.writeln("239期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
@@ -65,7 +67,8 @@ document.writeln("237期家野【<span style=\'background-color: #FFFF00\'>野�
 
 document.writeln("238期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("239期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期家野【家禽+龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("240期家野【家禽+龙蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("241期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -92,7 +95,8 @@ document.writeln("237期天地【<span style=\'background-color: #FFFF00\'>天�
 
 document.writeln("238期天地【地肖+猪蛇】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("239期天地【天肖+蛇<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期天地【天肖+狗鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("240期天地【天肖+狗鼠】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("241期天地【地肖+龙猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -126,7 +130,8 @@ document.writeln("236期前后【后肖+虎蛇】<font color=\"#FF0000\">×</fon
 document.writeln("237期前后【后肖+鼠牛】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("238期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("239期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期前后【后肖+牛虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("240期前后【后肖+牛<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("241期前后【后肖+牛龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

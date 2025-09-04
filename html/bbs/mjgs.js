@@ -28,8 +28,9 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
+document.writeln("248期单双【单数+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("247期单双【双数+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期单双【双数+鸡<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("246期单双【单数+虎<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
 
@@ -72,7 +73,8 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("246期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("247期家野【家禽+蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期家野【家禽+<span style=\'background-color: #FFFF00\'>蛇</span>虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("248期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -95,7 +97,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("244期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("245期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("246期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("247期天地【地肖+兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("248期天地【地肖+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -119,7 +122,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 document.writeln("246期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("247期前后【后肖+蛇鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("247期前后【后肖+<span style=\'background-color: #FFFF00\'>蛇</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("248期前后【后肖+虎鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

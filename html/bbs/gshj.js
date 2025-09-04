@@ -18,16 +18,7 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-
-document.writeln("239期王者六肖【鸡兔猴<span style=\'background-color: #FFFF00\'>虎</span>鼠龙】√<br>");
-document.writeln("240期王者六肖【猪猴马龙蛇鸡】×<br>");
-document.writeln("241期王者六肖【兔猪<span style=\'background-color: #FFFF00\'>蛇</span>猴马虎】√<br>");
-document.writeln("242期王者六肖【蛇龙鸡兔<span style=\'background-color: #FFFF00\'>猴</span>马】√<br>");
-document.writeln("243期王者六肖【猴羊牛蛇虎兔】×<br>");
-document.writeln("244期王者六肖【猴蛇牛狗<span style=\'background-color: #FFFF00\'>马</span>羊】√<br>");
-document.writeln("245期王者六肖【牛鼠猪虎羊马】×<br>");
-document.writeln("246期王者六肖【鸡蛇猴马虎兔】×<br>");
-document.writeln("247期王者六肖【猪虎狗猴龙兔】√<br>");
+document.writeln("248期王者六肖【龙羊兔猴狗马】√<br>");
 
 
 document.writeln("		");
@@ -87,8 +78,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("246期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开鼠06√<br>");
-document.writeln("247期【野兽：龙猴虎鼠】开？00√<br>");
-
+document.writeln("247期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎鼠】开蛇25√<br>");
+document.writeln("248期【家禽：马羊狗猪】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -121,8 +112,10 @@ document.writeln("242期【蛇羊马鼠<font color=\'#FF0000\' size=\'5\'><span 
 document.writeln("243期【虎龙牛蛇兔猪猴鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>】开狗08√<br>");
 document.writeln("244期【龙虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>兔羊鸡狗牛蛇】开马24√<br>");
 document.writeln("245期【马蛇<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>鸡牛羊猴兔猪】开狗44√<br>");
-document.writeln("246期【鸡兔牛虎猪猴羊龙狗】开鼠06×<br>");
-document.writeln("247期【蛇猪虎龙猴马鼠鸡羊】开？00√<br>");
+
+document.writeln("247期【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>猪虎龙猴马鼠鸡羊】开蛇25√<br>");
+document.writeln("248期【鸡猴马兔牛虎狗蛇猪】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

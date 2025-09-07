@@ -20,8 +20,7 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("248期王者六肖【龙羊兔猴狗<span style=\'background-color: #FFFF00\'>马</span>】√<br>");
 
-
-document.writeln("250期王者六肖【狗兔羊鸡蛇牛】√<br>");
+document.writeln("251期王者六肖【兔牛龙猴鸡鼠】√<br>");
 
 
 document.writeln("		");
@@ -48,7 +47,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("249-250期￥狗虎兔鸡猴羊马￥000期√<br>");
+document.writeln("249-250期￥狗虎兔鸡猴羊<span style=\'background-color: #FFFF00\'>马</span>￥250期√<br>");
+document.writeln("251-252期￥鼠龙马牛猪狗猴￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -80,8 +80,8 @@ document.writeln("246期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("247期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎鼠】开蛇25√<br>");
 document.writeln("248期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>马</span>羊狗猪】开马12√<br>");
 document.writeln("249期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎猴兔】开龙02√<br>");
-document.writeln("250期【家禽：牛羊马狗】开？00√<br>");
-
+document.writeln("250期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊<span style=\'background-color: #FFFF00\'>马</span>狗】开马12√<br>");
+document.writeln("251期【野兽：龙蛇猴虎】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -117,8 +117,8 @@ document.writeln("245期【马蛇<font color=\'#FF0000\' size=\'5\'><span style=
 document.writeln("247期【<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">蛇</span></font>猪虎龙猴马鼠鸡羊】开蛇25√<br>");
 document.writeln("248期【鸡猴<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>兔牛虎狗蛇猪】开马12√<br>");
 document.writeln("249期【马虎猴狗鸡牛兔蛇<span style=\'background-color: #FFFF00\'>龙</span>】开龙02√<br>");
-document.writeln("250期【虎蛇猴兔猪鸡狗羊牛】开？00√<br>");
 
+document.writeln("251期【蛇猴兔羊猪狗牛鸡鼠】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

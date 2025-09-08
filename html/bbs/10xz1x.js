@@ -34,18 +34,20 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">251期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.28.13.25.49.05.17.29.08.20.32.12.24.48.07.19.31</font></li>");
-document.writeln("            	<li>251期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.28.13.25.49.05.17.29</font></li>");
-document.writeln("            	<li>251期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-04.16.28）</font></li>");
-document.writeln("            	<li>251期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛</font></li>");
-document.writeln("            	<li>251期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛狗马猪</font></li>");
-document.writeln("            	<li>251期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛狗马猪鸡龙</font></li>");
+document.writeln(" 	            <li><font size=\"2\">252期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.32.44.09.21.33.11.23.35.12.24.36.10.22.46.05.17.29</font></li>");
+document.writeln("            	<li>252期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.32.44.09.21.33.11.23.35</font></li>");
+document.writeln("            	<li>252期必中①肖：<font color=\'#FF0000\' size=\'5\'>（狗-08.32.44）</font></li>");
+document.writeln("            	<li>252期必中③肖：<font color=\'#FF0000\' size=\'4\'>狗鸡羊</font></li>");
+document.writeln("            	<li>252期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>狗鸡羊马猴牛</font></li>");
+document.writeln("            	<li>252期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>狗鸡羊马猴牛蛇兔</font></li>");
+document.writeln("             	<li>252期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>狗鸡羊马猴牛蛇兔虎猪</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");

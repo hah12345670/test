@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+		<meta charset="UTF-8">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> -->
+		<title>组合选号</title>
+		<style>
+				body {
+						font-family: Arial, sans-serif;
+						margin: 0;
+						padding: clamp(1rem, 3vw, 1.5rem);
+						max-width: 100vw;
+						box-sizing: border-box;
+						background-color: #f5f5f5;
+				}
+				h2 {
+						font-size: clamp(1.5rem, 6vw, 2rem);
+						text-align: center;
+						margin-bottom: 1.5vh;
+				}
+				.digit-row {
+						margin: clamp(1vh, 3vh, 2vh) 0;
+						display: flex;
+						align-items: center;
+						flex-wrap: wrap;
+						gap: clamp(0.3rem, 1.5vw, 0.5rem);
+				}
+				.digit-row h3 {
+						margin-right: clamp(0.5rem, 2vw, 1rem);
+						font-size: clamp(0.9rem, 3.5vw, 1.1rem);
+						min-width: clamp(3rem, 10vw, 4rem);
+				}
+				.digit-row label {
+						font-size: clamp(0.8rem, 3vw, 1rem);
+						display: flex;
+						align-items: center;
+				}
+				.digit-row input[type="checkbox"] {
+						width: clamp(1.2rem, 5vw, 1.6rem);
+						height: clamp(1.2rem, 5vw, 1.6rem);
+						margin-right: clamp(0.2rem, 1vw, 0.4rem);
+				}
+				.filter-row {
+						margin: clamp(1vh, 3vh, 2vh) 0;
+						display: flex;
+						flex-wrap: wrap;
+						gap: clamp(0.5rem, 2vw, 1rem);
+						align-items: center;
+				}
+				.filter-row h3 {
+						font-size: clamp(0.9rem, 3.5vw, 1.1rem);
+						margin-right: clamp(0.5rem, 2vw, 1rem);
+						min-width: clamp(3rem, 10vw, 4rem);
+				}
+				.filter-row label {
+						font-size: clamp(0.8rem, 3vw, 1rem);
+						display: flex;
+						align-items: center;
+				}
+				.filter-row input[type="checkbox"] {
+						width: clamp(1.2rem, 5vw, 1.6rem);
+						height: clamp(1.2rem, 5vw, 1.6rem);
+						margin-right: clamp(0.2rem, 1vw, 0.4rem);
+				}
+				.reset-button, .copy-button {
+						padding: clamp(0.4rem, 2.5vw, 0.7rem) clamp(0.8rem, 3vw, 1.2rem);
+						font-size: clamp(0.8rem, 3vw, 1rem);
+						border: none;
+						border-radius: 0.3rem;
+						cursor: pointer;
+						touch-action: manipulation;
+				}
+				.reset-button {
+						background-color: #f44336;
+						color: white;
+				}
+				.reset-button:hover {
+						background-color: #d32f2f;
+				}
+				.copy-button {
+						background-color: #2196f3;
+						color: white;
+				}
+				.copy-button:hover {
+						background-color: #1976d2;
+				}
+				#result {
+						line-height: 1.6;
+						font-size: clamp(0.8rem, 3vw, 1rem);
+						word-break: break-word;
+						margin-top: clamp(1vh, 3vh, 2vh);
+						padding: 0.5rem;
+						background-color: white;
+						border-radius: 0.3rem;
+				}
+				@media (max-width: 600px) {
+						.digit-row, .filter-row {
+								flex-direction: column;
+								align-items: flex-start;
+								gap: 0.5rem;
+						}
+						.digit-row h3, .filter-row h3 {
+								margin-bottom: 0.5rem;
+						}
+						.reset-button, .copy-button {
+								width: 100%;
+								padding: clamp(0.5rem, 3vw, 0.8rem);
+						}
+						.digit-row label, .filter-row label {
+								width: 100%;
+								justify-content: flex-start;
+						}
+				}
+				@media (min-width: 601px) {
+						.filter-row {
+								justify-content: flex-start;
+						}
+				}
+		</style>
+		<script>
+				function getSelectedNumbers() {
+						let hundred = [], ten = [], unit = [];
+						for (let i = 0; i <= 9; i++) {
+								if (document.getElementById('hundred' + i).checked) hundred.push(i);
+								if (document.getElementById('ten' + i).checked) ten.push(i);
+								if (document.getElementById('unit' + i).checked) unit.push(i);
+						}
+						let combinations = [];
+						if (hundred.length > 0 && ten.length > 0 && unit.length > 0) {
+								for (let h of hundred) {
+										for (let t of ten) {
+												for (let u of unit) {
+														combinations.push(`${h}${t}${u}`);
+												}
+										}
+								}
+						}
+
+						// Apply filters based on group selection (union operation)
+						let group3 = document.getElementById('group3').checked;
+						let group6 = document.getElementById('group6').checked;
+						let leopard = document.getElementById('leopard').checked;
+						let filteredCombinations = [];
+
+						if (!group3 && !group6 && !leopard) {
+								filteredCombinations = combinations; // No filters selected, include all combinations
+						} else {
+								for (let combo of combinations) {
+										let digits = combo.split('');
+										let isGroup3 = (digits[0] === digits[1] && digits[1] !== digits[2]) ||
+																		(digits[0] === digits[2] && digits[1] !== digits[2]) ||
+																		(digits[1] === digits[2] && digits[0] !== digits[1]);
+										let isGroup6 = digits[0] !== digits[1] && digits[1] !== digits[2] && digits[0] !== digits[2];
+										let isLeopard = digits[0] === digits[1] && digits[1] === digits[2];
+
+										// Union: include combination if it matches any selected filter
+										if ((group3 && isGroup3) || (group6 && isGroup6) || (leopard && isLeopard)) {
+												filteredCombinations.push(combo);
+										}
+								}
+						}
+
+						let result = '';
+						if (filteredCombinations.length > 0) {
+								result = `共有 ${filteredCombinations.length} 组组合<br>组合结果:<br>`;
+								for (let i = 0; i < filteredCombinations.length; i++) {
+										result += filteredCombinations[i];
+										if (i < filteredCombinations.length - 1) {
+												result += ', ';
+										}
+										if ((i + 1) % 5 === 0) {
+												result += '<br>';
+										}
+								}
+						} else {
+								result = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
+						}
+						document.getElementById('result').innerHTML = result;
+						// Store combinations for copying
+						document.getElementById('result').dataset.combinations = filteredCombinations.join(', ');
+				}
+
+				function resetForm() {
+						// Reset all checkboxes
+						for (let i = 0; i <= 9; i++) {
+								document.getElementById('hundred' + i).checked = false;
+								document.getElementById('ten' + i).checked = false;
+								document.getElementById('unit' + i).checked = false;
+						}
+						document.getElementById('group3').checked = false;
+						document.getElementById('group6').checked = false;
+						document.getElementById('leopard').checked = false;
+						// Reset result display
+						document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
+						document.getElementById('result').dataset.combinations = '';
+				}
+
+				function copyCombinations() {
+						const combinations = document.getElementById('result').dataset.combinations;
+						if (combinations) {
+								if (navigator.clipboard) {
+										navigator.clipboard.writeText(combinations).then(() => {
+												// alert('组合结果已复制到剪贴板！');
+												console.log('组合结果已复制到剪贴板！');
+										}).catch(() => {
+												// alert('复制失败，请手动复制结果。');
+												console.log('复制失败，请手动复制结果。');
+										});
+								} else {
+										// alert('当前浏览器不支持自动复制，请手动复制结果。');
+										console.log('当前浏览器不支持自动复制，请手动复制结果。');
+								}
+						} else {
+								// alert('没有可复制的组合结果！');
+								console.log('没有可复制的组合结果！');
+						}
+				}
+		</script>
+		</head>
+		<body>
+		<h2>选择数字</h2>
+		<form>
+				<div class="digit-row">
+						<h3>百位</h3>
+						<script>
+								for (let i = 0; i <= 9; i++) {
+										document.write(`<label><input type="checkbox" id="hundred${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+								}
+						</script>
+				</div>
+				<div class="digit-row">
+						<h3>十位</h3>
+						<script>
+								for (let i = 0; i <= 9; i++) {
+										document.write(`<label><input type="checkbox" id="ten${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+								}
+						</script>
+				</div>
+				<div class="digit-row">
+						<h3>个位</h3>
+						<script>
+								for (let i = 0; i <= 9; i++) {
+										document.write(`<label><input type="checkbox" id="unit${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+								}
+						</script>
+				</div>
+				<div class="filter-row">
+						<h3>过滤选项</h3>
+						<label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
+						<label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
+						<label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
+						<button type="button" class="copy-button" onclick="copyCombinations()">复制</button>
+						<button type="button" class="reset-button" onclick="resetForm()">还原</button>
+				</div>
+		</form>
+		<p id="result" data-combinations="">选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)</p>
+</body>
+</html>

@@ -200,18 +200,14 @@
 						if (combinations) {
 								if (navigator.clipboard) {
 										navigator.clipboard.writeText(combinations).then(() => {
-												// alert('组合结果已复制到剪贴板！');
 												console.log('组合结果已复制到剪贴板！');
 										}).catch(() => {
-												// alert('复制失败，请手动复制结果。');
 												console.log('复制失败，请手动复制结果。');
 										});
 								} else {
-										// alert('当前浏览器不支持自动复制，请手动复制结果。');
 										console.log('当前浏览器不支持自动复制，请手动复制结果。');
 								}
 						} else {
-								// alert('没有可复制的组合结果！');
 								console.log('没有可复制的组合结果！');
 						}
 				}
@@ -249,7 +245,7 @@
 						<label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
 						<label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
 						<label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
-						<button type="button" class="copy-button" onclick="copyCombinations()">复制</button>
+						<!-- <button type="button" class="copy-button" onclick="copyCombinations()">复制</button> -->
 						<button type="button" class="reset-button" onclick="resetForm()">还原</button>
 				</div>
 		</form>

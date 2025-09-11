@@ -109,75 +109,82 @@
 
 <script>
 function getSelectedNumbers() {
-	let hundred = [], ten = [], unit = [];
-	for (let i = 0; i <= 9; i++) {
-		if (document.getElementById('hundred' + i).checked) hundred.push(i);
-		if (document.getElementById('ten' + i).checked) ten.push(i);
-		if (document.getElementById('unit' + i).checked) unit.push(i);
-	}
-	let combinations = [];
-	if (hundred.length > 0 && ten.length > 0 && unit.length > 0) {
-		for (let h of hundred) {
-			for (let t of ten) {
-				for (let u of unit) {
-					combinations.push(`${h}${t}${u}`);
+		// 获取选中的数字
+		let hundred = [], ten = [], unit = [];
+		for (let i = 0; i <= 9; i++) {
+				if (document.getElementById('hundred' + i).checked) hundred.push(i);
+				if (document.getElementById('ten' + i).checked) ten.push(i);
+				if (document.getElementById('unit' + i).checked) unit.push(i);
+		}
+
+		// 如果未选中，默认使用所有数字
+		let hundredNums = hundred.length > 0 ? hundred : [0,1,2,3,4,5,6,7,8,9];
+		let tenNums = ten.length > 0 ? ten : [0,1,2,3,4,5,6,7,8,9];
+		let unitNums = unit.length > 0 ? unit : [0,1,2,3,4,5,6,7,8,9];
+
+		// 生成所有组合
+		let combinations = [];
+		for (let h of hundredNums) {
+				for (let t of tenNums) {
+						for (let u of unitNums) {
+								combinations.push(`${h}${t}${u}`);
+						}
 				}
-			}
 		}
-	}
 
-	// 过滤：组三/组六/豹子
-	let group3 = document.getElementById('group3').checked;
-	let group6 = document.getElementById('group6').checked;
-	let leopard = document.getElementById('leopard').checked;
-	let filteredCombinations = [];
+		// 过滤：组三/组六/豹子
+		let group3 = document.getElementById('group3').checked;
+		let group6 = document.getElementById('group6').checked;
+		let leopard = document.getElementById('leopard').checked;
+		let filteredCombinations = [];
 
-	if (!group3 && !group6 && !leopard) {
-		filteredCombinations = combinations;
-	} else {
-		for (let combo of combinations) {
-			let digits = combo.split('');
-			let isGroup3 = (digits[0] === digits[1] && digits[1] !== digits[2]) ||
-						   (digits[0] === digits[2] && digits[1] !== digits[2]) ||
-						   (digits[1] === digits[2] && digits[0] !== digits[1]);
-			let isGroup6 = digits[0] !== digits[1] && digits[1] !== digits[2] && digits[0] !== digits[2];
-			let isLeopard = digits[0] === digits[1] && digits[1] === digits[2];
+		if (!group3 && !group6 && !leopard) {
+				filteredCombinations = combinations;
+		} else {
+				for (let combo of combinations) {
+						let digits = combo.split('');
+						let isGroup3 = (digits[0] === digits[1] && digits[1] !== digits[2]) ||
+													(digits[0] === digits[2] && digits[1] !== digits[2]) ||
+													(digits[1] === digits[2] && digits[0] !== digits[1]);
+						let isGroup6 = digits[0] !== digits[1] && digits[1] !== digits[2] && digits[0] !== digits[2];
+						let isLeopard = digits[0] === digits[1] && digits[1] === digits[2];
 
-			if ((group3 && isGroup3) || (group6 && isGroup6) || (leopard && isLeopard)) {
-				filteredCombinations.push(combo);
-			}
+						if ((group3 && isGroup3) || (group6 && isGroup6) || (leopard && isLeopard)) {
+								filteredCombinations.push(combo);
+						}
+				}
 		}
-	}
 
-	// 额外过滤：选中的号码与组合相交个数 = select交集值（组合先去重）
-	let filterNumbers = [];
-	for (let i = 0; i <= 9; i++) {
-		if (document.getElementById('filter' + i).checked) filterNumbers.push(i.toString());
-	}
-	let intersectionCount = parseInt(document.getElementById('intersectionCount').value, 10) || 1;
-
-	if (filterNumbers.length > 0) {
-		filteredCombinations = filteredCombinations.filter(combo => {
-			let uniqueDigits = [...new Set(combo.split(''))];
-			let count = uniqueDigits.filter(d => filterNumbers.includes(d)).length;
-			return count === intersectionCount;
-		});
-	}
-
-	// 输出结果
-	let result = '';
-	if (filteredCombinations.length > 0) {
-		result = `共有 ${filteredCombinations.length} 组组合<br>组合结果:<br>`;
-		for (let i = 0; i < filteredCombinations.length; i++) {
-			result += filteredCombinations[i];
-			if (i < filteredCombinations.length - 1) result += ', ';
-			if ((i + 1) % 5 === 0) result += '<br>';
+		// 交集数量筛选
+		let filterNumbers = [];
+		for (let i = 0; i <= 9; i++) {
+				if (document.getElementById('filter' + i).checked) filterNumbers.push(i.toString());
 		}
-	} else {
-		result = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
-	}
-	document.getElementById('result').innerHTML = result;
-	document.getElementById('result').dataset.combinations = filteredCombinations.join(', ');
+		let intersectionCount = parseInt(document.getElementById('intersectionCount').value, 10) || 1;
+
+		if (filterNumbers.length > 0) {
+				filteredCombinations = filteredCombinations.filter(combo => {
+						let uniqueDigits = [...new Set(combo.split(''))];
+						let count = uniqueDigits.filter(d => filterNumbers.includes(d)).length;
+						return count === intersectionCount;
+				});
+		}
+
+		// 输出结果
+		let result = '';
+		if (filteredCombinations.length > 0) {
+				result = `共有 ${filteredCombinations.length} 组组合<br>组合结果:<br>`;
+				for (let i = 0; i < filteredCombinations.length; i++) {
+						result += filteredCombinations[i];
+						if (i < filteredCombinations.length - 1) result += ', ';
+						if ((i + 1) % 5 === 0) result += '<br>';
+				}
+		} else {
+				result = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
+		}
+
+		document.getElementById('result').innerHTML = result;
+		document.getElementById('result').dataset.combinations = filteredCombinations.join(', ');
 }
 
 function resetForm() {

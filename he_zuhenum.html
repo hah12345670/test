@@ -105,6 +105,21 @@
 		background-color: white;
 		border-radius: 0.3rem;
 	}
+
+	/* 按钮 */
+	.group-reset {
+		padding: 0.2rem 0.4rem;
+		font-size: 1rem;
+		border: none;
+		border-radius: 0.3rem;
+		cursor: pointer;
+		background-color: #2196f3;
+		color: white;
+		margin-left: 0.5rem;
+	}
+	.group-reset:hover {
+		background-color: #1976d2;
+	}
 </style>
 
 <script>
@@ -201,13 +216,21 @@ function resetForm() {
 	document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
 	document.getElementById('result').dataset.combinations = '';
 }
+
+function resetGroup(group) {
+	for (let i = 0; i <= 9; i++) {
+		let checkbox = document.getElementById(group + i);
+		if (checkbox) checkbox.checked = false;
+	}
+	getSelectedNumbers();
+}
 </script>
 </head>
 <body>
 <h2>选择数字</h2>
 <form>
 	<div class="digit-row">
-		<h3>百位</h3>
+		<h3>百位 <button type="button" class="group-reset" onclick="resetGroup('hundred')">重 置</button></h3>
 		<script>
 			for (let i = 0; i <= 9; i++) {
 				document.write(`<label><input type="checkbox" id="hundred${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
@@ -215,7 +238,7 @@ function resetForm() {
 		</script>
 	</div>
 	<div class="digit-row">
-		<h3>十位</h3>
+		<h3>十位 <button type="button" class="group-reset" onclick="resetGroup('ten')">重 置</button></h3>
 		<script>
 			for (let i = 0; i <= 9; i++) {
 				document.write(`<label><input type="checkbox" id="ten${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
@@ -223,7 +246,7 @@ function resetForm() {
 		</script>
 	</div>
 	<div class="digit-row">
-		<h3>个位</h3>
+		<h3>个位 <button type="button" class="group-reset" onclick="resetGroup('unit')">重 置</button></h3>
 		<script>
 			for (let i = 0; i <= 9; i++) {
 				document.write(`<label><input type="checkbox" id="unit${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
@@ -231,7 +254,7 @@ function resetForm() {
 		</script>
 	</div>
 	<div class="digit-row">
-		<h3>号码筛选</h3>
+		<h3>号码筛选 <button type="button" class="group-reset" onclick="resetGroup('filter')">重 置</button></h3>
 		<script>
 			for (let i = 0; i <= 9; i++) {
 				document.write(`<label><input type="checkbox" id="filter${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
@@ -251,7 +274,7 @@ function resetForm() {
 		<label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
 		<label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
 		<label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
-		<button type="button" class="reset-button" onclick="resetForm()">还原</button>
+		<button type="button" class="reset-button" onclick="resetForm()">还 原</button>
 	</div>
 </form>
 <p id="result" data-combinations="">选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)</p>

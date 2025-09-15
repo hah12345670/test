@@ -174,7 +174,8 @@ document.writeln("254期【野兽：龙猴虎鼠】开牛17×<br>");
 document.writeln("255期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙虎<span style=\'background-color: #FFFF00\'>鼠</span>猴】开鼠42√<br>");
 
 document.writeln("256期【<span style=\'background-color: #FFFF00\'>家禽</span>：鸡猪牛狗】开马48√<br>");
-document.writeln("257期【家禽：牛马狗猪】开？00√<br>");
+document.writeln("257期【家禽：牛马狗猪】开虎28×<br>");
+document.writeln("258期【野兽：龙蛇猴虎】开？00√<br>");
 
 
 document.writeln("");

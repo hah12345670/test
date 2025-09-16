@@ -126,7 +126,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	256-260期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45 ");
+document.writeln("	02.09.13.23.25.<span style=\"background-color: #000000\">38</span>.44.45 ");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -175,7 +175,9 @@ document.writeln("255期【<span style=\'background-color: #FFFF00\'>野兽</spa
 
 document.writeln("256期【<span style=\'background-color: #FFFF00\'>家禽</span>：鸡猪牛狗】开马48√<br>");
 document.writeln("257期【家禽：牛马狗猪】开虎28×<br>");
-document.writeln("258期【野兽：龙蛇猴虎】开？00√<br>");
+document.writeln("258期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>蛇猴虎】开龙38√<br>");
+document.writeln("259期【野兽：龙猴虎兔】开？00√<br>");
+
 
 
 document.writeln("");

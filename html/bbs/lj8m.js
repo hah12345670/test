@@ -153,7 +153,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("特肖合集『稳定高手』</font><br>");
+document.writeln("赚点小钱【两面投资】</font><br>");
 document.writeln("<font style=\"font-size: 16pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -161,22 +161,11 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("246期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开鼠06√<br>");
-document.writeln("247期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎鼠】开蛇25√<br>");
-document.writeln("248期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>马</span>羊狗猪】开马12√<br>");
-document.writeln("249期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎猴兔】开龙02√<br>");
-document.writeln("250期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊<span style=\'background-color: #FFFF00\'>马</span>狗】开马12√<br>");
-document.writeln("251期【野兽：龙蛇猴虎】开羊35×<br>");
-document.writeln("252期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>羊</span>马狗】开羊23√<br>");
-document.writeln("253期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马羊<span style=\'background-color: #FFFF00\'>鸡</span>】开鸡33√<br>");
-document.writeln("254期【野兽：龙猴虎鼠】开牛17×<br>");
 
-document.writeln("255期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙虎<span style=\'background-color: #FFFF00\'>鼠</span>猴】开鼠42√<br>");
-
-document.writeln("256期【<span style=\'background-color: #FFFF00\'>家禽</span>：鸡猪牛狗】开马48√<br>");
-document.writeln("257期【家禽：牛马狗猪】开虎28×<br>");
-document.writeln("258期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>蛇猴虎】开龙38√<br>");
-document.writeln("259期【野兽：龙猴虎兔】开？00√<br>");
+document.writeln("257期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
+document.writeln("258期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
+document.writeln("259期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">27-39数</font><br>");
+document.writeln("260期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">32-44数</font><br>");
 
 
 

@@ -131,6 +131,17 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
+document.writeln("    <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	261-265期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45 ");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+
+document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
 document.writeln("		<div style=\"background-color: #FFFF00\">");
@@ -165,7 +176,8 @@ document.writeln("");
 document.writeln("257期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>25-37</span>数</font><br>");
 document.writeln("258期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>26-38</span>数</font><br>");
 document.writeln("259期【大数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">27-39数</font><br>");
-document.writeln("260期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">32-44数</font><br>");
+document.writeln("260期【大数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">32-44数</font><br>");
+document.writeln("261期【大数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">31-43数</font><br>");
 
 
 

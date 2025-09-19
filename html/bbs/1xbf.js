@@ -5,6 +5,57 @@
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("<table border=\'1\' width=\'100%\'>");
+document.writeln("    <tbody>");
+document.writeln("    </tbody>");
+document.writeln("    <tbody>");
+document.writeln("    <tr>");
+document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#0000ff\' width=\'98%\' height=\'35\'>");
+document.writeln("		<span style=\'color: #FFFFFF; font-weight:700\'><font size=\'4\'>263期澳门码神一肖一码大公开</font></span></td>");
+document.writeln("    </tr>");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\'color:#00f; font-weight:700\'>特码</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b>");
+document.writeln("		<font color=\"#FF0000\" style=\"font-size: 11pt\">");
+document.writeln("		11.35.47.01.13.37.10.22.46.07.19.31.02.14.26</font></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">一肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b><font size=\"5\">羊【中】</font></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">三肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊蛇猴</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">五肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊蛇猴猪龙</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">七肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊蛇猴猪龙鸡狗</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">九肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊蛇猴猪龙鸡狗鼠牛</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("	<tr>");
+document.writeln("        <td colspan=\'2\' align=\'center\' width=\'82%\' height=\'35\'><b>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f\">263期</span><span style=\'color:red; font-size:12pt\'>一肖一码</span><span style=\"font-size: 12pt; color: #000\">中奖</span></b></td>");
+document.writeln("    </tr>");
+document.writeln("    </tbody> ");
+document.writeln("</table>");
+document.writeln("<!--结束-->");
+
+
 
 document.writeln("<!--开始-->");
 document.writeln("<table border=\'1\' width=\'100%\'>");
@@ -16,37 +67,16 @@ document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#0000ff\'
 document.writeln("		<span style=\'color: #FFFFFF; font-weight:700\'><font size=\'4\'>262期澳门码神一肖一码大公开</font></span></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
-document.writeln("		<span style=\'color:#00f; font-weight:700\'>特码</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b>");
-document.writeln("		<font color=\"#FF0000\" style=\"font-size: 11pt\">");
-document.writeln("		11.35.47.06.18.30.02.14.26.07.19.31.04.16.40</font></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
-document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">一肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><font size=\"5\">羊【中】</font></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
-document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">三肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
-document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">五肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙猪虎</span></b></td>");
-document.writeln("    </tr>");
+
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">七肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙猪虎狗蛇</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙猪虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>蛇</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">九肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙猪虎狗蛇鸡马</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">羊鼠龙猪虎<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">狗</span></font>蛇鸡马</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' width=\'82%\' height=\'35\'><b>");

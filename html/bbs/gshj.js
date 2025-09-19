@@ -20,7 +20,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("260期王者六肖【狗蛇牛<span style=\'background-color: #FFFF00\'>兔</span>马猪】√<br>");
 document.writeln("261期王者六肖【狗羊牛马虎兔】×<br>");
-document.writeln("262期王者六肖【龙牛鸡猴马鼠】√<br>");
+document.writeln("262期王者六肖【龙牛鸡猴马鼠】×<br>");
+document.writeln("263期王者六肖【鸡兔牛龙猪羊】√<br>");
 
 
 
@@ -52,8 +53,8 @@ document.writeln("255-256期￥狗猴蛇<span style=\'background-color: #FFFF00\
 document.writeln("257-258期￥龙<span style=\'background-color: #FFFF00\'>虎</span>牛猴蛇鸡马￥257期√<br>");
 document.writeln("258-259期￥猪马牛鼠狗兔<span style=\'background-color: #FFFF00\'>羊</span>￥259期√<br>");
 document.writeln("260-261期￥牛猪羊龙猴马蛇￥000期×<br>");
-document.writeln("262-263期￥马猴鸡狗虎龙羊￥000期√<br>");
-
+document.writeln("262-263期￥马猴鸡<span style=\'background-color: #FFFF00\'>狗</span>虎龙羊￥262期√<br>");
+document.writeln("263-264期￥蛇鸡虎羊兔猪牛￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -98,7 +99,8 @@ document.writeln("258期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("259期【野兽：龙猴虎兔】开羊47×<br>");
 document.writeln("260期【<span style=\'background-color: #FFFF00\'>野兽</span>：蛇猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
 document.writeln("261期【野兽：龙猴虎兔】开鸡33×<br>");
-document.writeln("262期【家禽：羊牛鸡猪】开？00√<br>");
+document.writeln("262期【<span style=\'background-color: #FFFF00\'>家禽</span>：羊牛鸡猪】开狗44√<br>");
+document.writeln("263期【家禽：羊鸡猪马】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -135,7 +137,9 @@ document.writeln("258期【兔猪鼠蛇牛<span style=\'background-color: #FFFF0
 document.writeln("259期【鼠兔狗鸡虎蛇猴猪牛】开羊47×<br>");
 document.writeln("260期【鼠牛虎马<span style=\'background-color: #FFFF00\'>兔</span>蛇猪狗龙】开兔03√<br>");
 document.writeln("261期【龙猴狗虎<span style=\'background-color: #FFFF00\'>鸡</span>羊猪牛蛇】开鸡33√<br>");
-document.writeln("262期【兔马龙猪鸡羊牛蛇虎】开？00√<br>");
+document.writeln("262期【兔马龙猪鸡羊牛蛇虎】开狗44×<br>");
+document.writeln("263期【马虎鼠猪兔狗鸡牛羊】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

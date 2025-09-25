@@ -8,18 +8,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
 
+
+
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（267期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（268期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		龙虎+08.32.44.09.21.33.06.42</font></b></td>");
+document.writeln("		马虎+09.33.45.06.30.42.15.39</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
+
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");

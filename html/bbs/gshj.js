@@ -22,7 +22,8 @@ document.writeln("263期王者六肖【鸡兔牛<span style=\'background-color: 
 document.writeln("264期王者六肖【龙虎猴马鼠蛇】×<br>");
 document.writeln("265期王者六肖【马<span style=\'background-color: #FFFF00\'>猴</span>牛虎鼠蛇】√<br>");
 document.writeln("266期王者六肖【蛇羊马鼠<span style=\'background-color: #FFFF00\'>牛</span>猪】√<br>");
-document.writeln("267期王者六肖【猪蛇马羊兔牛】√<br>");
+document.writeln("267期王者六肖【猪蛇马羊兔<span style=\'background-color: #FFFF00\'>牛</span>】√<br>");
+document.writeln("268期王者六肖【龙鼠蛇虎牛狗】√<br>");
 
 
 
@@ -54,7 +55,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("262-263期￥马猴鸡<span style=\'background-color: #FFFF00\'>狗</span>虎龙羊￥262期√<br>");
 document.writeln("263-264期￥蛇鸡虎羊兔<span style=\'background-color: #FFFF00\'>猪</span>牛￥264期√<br>");
 document.writeln("265-266期￥虎<span style=\'background-color: #FFFF00\'>猴</span>牛羊鼠兔狗￥265期√<br>");
-document.writeln("266-267期￥蛇猪虎羊猴鼠狗￥000期√<br>");
+document.writeln("266-267期￥蛇猪虎羊猴鼠狗￥000期×<br>");
+document.writeln("268-269期￥猪兔牛猴狗鼠虎￥000期√<br>");
 
 
 document.writeln("	");
@@ -106,8 +108,8 @@ document.writeln("264期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("265期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>猴</span>兔虎】开猴10√<br>");
 
 document.writeln("266期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>牛</span>羊马狗】开牛41√<br>");
-document.writeln("267期【家禽：牛鸡猪马】开？00√<br>");
-
+document.writeln("267期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>牛</span>鸡猪马】开牛29√<br>");
+document.writeln("268期【野兽：猴虎鼠兔】开？00√<br>");
 
 
 
@@ -140,7 +142,12 @@ document.writeln("265期【狗鼠龙<span style=\'background-color: #FFFF00\'>�
 
 document.writeln("266期【兔<span style=\'background-color: #FFFF00\'>牛</span>龙虎马蛇鸡鼠猪】开牛41√<br>");
 
-document.writeln("267期【猴蛇兔龙狗猪鼠虎牛】开？00√<br>");
+document.writeln("267期【猴蛇兔龙狗猪鼠虎<span style=\'background-color: #FFFF00\'>牛</span>】开牛29√<br>");
+
+document.writeln("268期【狗蛇猪龙猴羊牛兔鸡】开？00√<br>");
+
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

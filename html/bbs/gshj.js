@@ -24,7 +24,8 @@ document.writeln("265期王者六肖【马<span style=\'background-color: #FFFF0
 document.writeln("266期王者六肖【蛇羊马鼠<span style=\'background-color: #FFFF00\'>牛</span>猪】√<br>");
 document.writeln("267期王者六肖【猪蛇马羊兔<span style=\'background-color: #FFFF00\'>牛</span>】√<br>");
 document.writeln("268期王者六肖【龙鼠蛇虎牛狗】×<br>");
-document.writeln("269期王者六肖【牛狗蛇马虎羊】√<br>");
+document.writeln("269期王者六肖【牛狗蛇马虎羊】×<br>");
+document.writeln("270期王者六肖【牛羊马鸡虎狗】√<br>");
 
 
 
@@ -58,8 +59,8 @@ document.writeln("263-264期￥蛇鸡虎羊兔<span style=\'background-color: #F
 document.writeln("265-266期￥虎<span style=\'background-color: #FFFF00\'>猴</span>牛羊鼠兔狗￥265期√<br>");
 document.writeln("266-267期￥蛇猪虎羊猴鼠狗￥000期×<br>");
 document.writeln("268-269期￥猪兔牛<span style=\'background-color: #FFFF00\'>猴</span>狗鼠虎￥268期√<br>");
-document.writeln("269-270期￥龙羊虎蛇鼠马猪￥000期√<br>");
-
+document.writeln("269-270期￥龙羊虎蛇鼠马<span style=\'background-color: #FFFF00\'>猪</span>￥269期√<br>");
+document.writeln("270-271期￥猪虎兔马狗牛猴￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -112,7 +113,8 @@ document.writeln("265期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("266期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>牛</span>羊马狗】开牛41√<br>");
 document.writeln("267期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>牛</span>鸡猪马】开牛29√<br>");
 document.writeln("268期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>猴</span>虎鼠兔】开猴10√<br>");
-document.writeln("269期【野兽：龙猴虎兔】开？00√<br>");
+document.writeln("269期【野兽：龙猴虎兔】开猪31×<br>");
+document.writeln("270期【家禽：马羊鸡狗】开？00√<br>");
 
 
 
@@ -148,7 +150,8 @@ document.writeln("266期【兔<span style=\'background-color: #FFFF00\'>牛</spa
 document.writeln("267期【猴蛇兔龙狗猪鼠虎<span style=\'background-color: #FFFF00\'>牛</span>】开牛29√<br>");
 
 document.writeln("268期【狗蛇猪龙<span style=\'background-color: #FFFF00\'>猴</span>羊牛兔鸡】开猴10√<br>");
-document.writeln("269期【虎龙牛狗兔猴马鼠鸡】开？00√<br>");
+document.writeln("269期【虎龙牛狗兔猴马鼠鸡】开猪31×<br>");
+document.writeln("270期【马猪牛鼠兔羊虎猴龙】开？00√<br>");
 
 
 

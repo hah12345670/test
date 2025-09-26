@@ -10,6 +10,7 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table border=\'1\' width=\'100%\'>");
@@ -17,54 +18,56 @@ document.writeln("    <tbody>");
 document.writeln("    <tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
 document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 268期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
+document.writeln("		<span style=\'font-weight:700\'><strong> 269期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 9pt\'>16.28.13.25.03.15.32.44.02.14.23.35.07.19.24.36.21.33</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 9pt\'>49.01.21.33.05.17.03.15.23.35.06.18.24.36.02.14.28.40</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>12码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>16.28.13.25.03.15.32.44.02.14.23.35</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 10pt\'>49.01.21.33.05.17.03.15.23.35.06.18</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("        	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>06码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>16.28.13.25.03.15</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 10pt\'>49.01.21.33.05.17</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>二肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>虎蛇</b></td>");
+document.writeln("		<b>蛇鸡</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>四肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>虎蛇兔狗</b></td>");
+document.writeln("		<b>蛇鸡牛兔</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>七肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>虎蛇兔狗龙羊猪</b></td>");
+document.writeln("		<b>蛇鸡牛兔羊鼠马</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>虎蛇兔狗龙羊猪马鸡</b></td>");
+document.writeln("		<b>蛇鸡牛兔羊鼠马龙虎</b></td>");
 document.writeln("    </tr>");
 document.writeln("    </tbody> ");
 document.writeln("</table>");
 document.writeln("<!--结束-->");
 document.writeln("");
+
+
 
 
 
@@ -758,208 +761,4 @@ document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>12码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>01.13.11.23.<span style=\'background-color: #FFFF00\'>06</span>.18.21.33.05.17.22.34</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("        	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>06码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>01.13.11.23.<span style=\'background-color: #FFFF00\'>06</span>.18</span></b></td>");
-document.writeln("    </tr>");
-
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>四肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>蛇羊<span style=\'background-color: #FFFF00\'>鼠</span>鸡</b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>七肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>蛇羊<span style=\'background-color: #FFFF00\'>鼠</span>鸡牛猴狗</b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>蛇羊<span style=\'background-color: #FFFF00\'>鼠</span>鸡牛猴狗马猪</b></td>");
-document.writeln("    </tr>");
-document.writeln("    </tbody> ");
-document.writeln("</table>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table border=\'1\' width=\'100%\'>");
-document.writeln("    <tbody>");
-document.writeln("    <tr>");
-document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
-document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 245期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 9pt\'>02.14.32.<span style=\'background-color: #FFFF00\'>44</span>.05.17.04.16.06.18.12.24.11.23.31.43.13.25</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>12码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>02.14.32.<span style=\'background-color: #FFFF00\'>44</span>.05.17.04.16.06.18.12.24</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("        	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>06码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>02.14.32.<span style=\'background-color: #FFFF00\'>44</span>.05.17</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>二肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙<span style=\'background-color: #FFFF00\'>狗</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>四肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙<span style=\'background-color: #FFFF00\'>狗</span>牛虎</b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>七肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙<span style=\'background-color: #FFFF00\'>狗</span>牛虎鼠马羊</b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙<span style=\'background-color: #FFFF00\'>狗</span>牛虎鼠马羊猪蛇</b></td>");
-document.writeln("    </tr>");
-document.writeln("    </tbody> ");
-document.writeln("</table>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table border=\'1\' width=\'100%\'>");
-document.writeln("    <tbody>");
-document.writeln("    <tr>");
-document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
-document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 244期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 9pt\'>02.14.21.33.06.18.04.16.13.25.12.<span style=\'background-color: #FFFF00\'>24</span>.03.15.22.34.11.23</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>12码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>02.14.21.33.06.18.04.16.13.25.12.<span style=\'background-color: #FFFF00\'>24</span></span></b></td>");
-document.writeln("    </tr>");
-
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>七肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙鸡鼠虎蛇<span style=\'background-color: #FFFF00\'>马</span>兔</b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>龙鸡鼠虎蛇<span style=\'background-color: #FFFF00\'>马</span>兔猴羊</b></td>");
-document.writeln("    </tr>");
-document.writeln("    </tbody> ");
-document.writeln("</table>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table border=\'1\' width=\'100%\'>");
-document.writeln("    <tbody>");
-document.writeln("    <tr>");
-document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
-document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 243期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>猪马鸡猴鼠蛇牛<span style=\'background-color: #FFFF00\'>狗</span>虎</b></td>");
-document.writeln("    </tr>");
-document.writeln("    </tbody> ");
-document.writeln("</table>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table border=\'1\' width=\'100%\'>");
-document.writeln("    <tbody>");
-document.writeln("    <tr>");
-document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
-document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 242期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29863.com</strong></span></td>");
-document.writeln("    </tr>");
-document.writeln("    	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 9pt\'>03.15.06.18.11.23.07.19.21.33.32.44.13.25.22.<span style=\'background-color: #FFFF00\'>34</span>.05.17</span></b></td>");
-document.writeln("    </tr>");
-document.writeln("	<tr>");
-document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
-document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>兔鼠羊猪鸡狗蛇<span style=\'background-color: #FFFF00\'>猴</span>牛</b></td>");
-document.writeln("    </tr>");
-document.writeln("    </tbody> ");
-document.writeln("</table>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-
+document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'

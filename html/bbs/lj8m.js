@@ -187,7 +187,7 @@ document.writeln("    <td align=\'center\' bgcolor=\'#FFFFFF\' height=\"45\">");
 document.writeln("	<b>");
 document.writeln("	<span style=\"text-decoration:none; \">");
 document.writeln("	<font color=\"#000000\" face=\"黑体\" style=\"font-size: 15pt\">");
-document.writeln("268期：单<font color=\"#FF0000\">（猪羊蛇）</font>双<font color=\"#FF0000\">（马鼠狗）</font></span></font></b></td>");
+document.writeln("269期：单<font color=\"#FF0000\">（蛇牛兔）</font>双<font color=\"#FF0000\">（马虎鼠）</font></span></font></b></td>");
 document.writeln("  </tr>");
 document.writeln("<!--结束-->");
 document.writeln("");

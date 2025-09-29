@@ -72,7 +72,7 @@ document.writeln("261期家野【<span style=\'background-color: #FFFF00\'>家�
 document.writeln("262期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("263期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("264期家野【野兽+<span style=\'background-color: #FFFF00\'>猪</span>马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("265期家野【<span style=\'background-color: #FFFF00\'>>野兽</span+马猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("265期家野【<span style=\'background-color: #FFFF00\'>>野兽</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("266期家野【野兽+狗<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("267期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("268期家野【家禽+蛇龙】<font color=\"#FF0000\">×</font><br>	");

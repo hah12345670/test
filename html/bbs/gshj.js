@@ -27,13 +27,13 @@ document.writeln("268期王者六肖【龙鼠蛇虎牛狗】×<br>");
 document.writeln("269期王者六肖【牛狗蛇马虎羊】×<br>");
 document.writeln("270期王者六肖【牛<span style=\'background-color: #FFFF00\'>羊</span>马鸡虎狗】√<br>");
 document.writeln("271期王者六肖【龙猴羊狗<span style=\'background-color: #FFFF00\'>鼠</span>马】√<br>");
-
 document.writeln("272期王者六肖【<span style=\'background-color: #FFFF00\'>马</span>狗龙猴鸡鼠】√<br>");
 document.writeln("273期王者六肖【牛猴鼠蛇鸡狗】×<br>");
 document.writeln("274期王者六肖【兔猴虎龙马<span style=\'background-color: #FFFF00\'>狗</span>】√<br>");
 
 document.writeln("275期王者六肖【兔狗龙鼠<span style=\'background-color: #FFFF00\'>鸡</span>牛】√<br>");
-document.writeln("276期王者六肖【鸡龙蛇牛羊兔】√<br>");
+document.writeln("276期王者六肖【<span style=\'background-color: #FFFF00\'>鸡</span>龙蛇牛羊兔】√<br>");
+document.writeln("277期王者六肖【马蛇狗猪牛龙】√<br>");
 
 
 
@@ -69,7 +69,8 @@ document.writeln("272-273期￥龙鸡猪牛鼠<span style=\'background-color: #F
 
 document.writeln("275-276期￥马狗蛇龙<span style=\'background-color: #FFFF00\'>鸡</span>羊猪￥275期√<br>");
 
-document.writeln("276-277期￥兔蛇羊鸡马猴龙￥000期√<br>");
+document.writeln("276-277期￥兔蛇羊<span style=\'background-color: #FFFF00\'>鸡</span>马猴龙￥276期√<br>");
+document.writeln("277-278期￥蛇鸡虎马猪羊牛￥000期√<br>");
 
 
 document.writeln("	");
@@ -98,7 +99,9 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("276期【家禽：牛鸡马狗】开？00√<br>");
+document.writeln("276期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>鸡</span>马狗】开鸡09√<br>");
+document.writeln("277期【家禽：鸡牛狗猪】开？00√<br>");
+
 
 
 document.writeln("		<br></font>	");
@@ -129,7 +132,9 @@ document.writeln("272期【羊虎牛蛇狗<span style=\'background-color: #FFFF0
 document.writeln("273期【牛马鼠<span style=\'background-color: #FFFF00\'>虎</span>猪羊狗龙鸡】开虎04√<br>");
 document.writeln("274期【鼠牛<span style=\'background-color: #FFFF00\'>狗</span>蛇马兔鸡龙猴】开狗44√<br>");
 document.writeln("275期【羊马猴龙猪虎牛狗<span style=\'background-color: #FFFF00\'>鸡</span>】开鸡45√<br>");
-document.writeln("276期【蛇兔猴虎牛狗鼠猪马】开？00√<br>");
+document.writeln("276期【蛇兔猴虎牛狗鼠猪马】开鸡09×<br>");
+document.writeln("277期【鸡狗蛇羊牛龙猴鼠猪】开？00√<br>");
+
 
 
 

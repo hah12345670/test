@@ -29,7 +29,8 @@ document.writeln("");
 
 
 document.writeln("281期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("282期单双【双数+牛猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("282期单双【双数+<span style=\'background-color: #FFFF00\'>牛</span>猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("283期单双【单数+龙马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -64,7 +65,8 @@ document.writeln("279期家野【家禽+<span style=\'background-color: #FFFF00\
 document.writeln("280期家野【家禽+龙虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("281期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔虎】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("282期家野【野兽+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("282期家野【野兽+狗马】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("283期家野【野兽+牛猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -100,7 +102,8 @@ document.writeln("278期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("279期天地【地肖+猴<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("280期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("281期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("282期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("282期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("283期天地【地肖+龙猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -134,7 +137,9 @@ document.writeln("278期前后【后肖+<span style=\'background-color: #FFFF00\
 document.writeln("279期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("280期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("281期前后【前肖+猪狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("282期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("282期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("283期前后【后肖+牛蛇】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

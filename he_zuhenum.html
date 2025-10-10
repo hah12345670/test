@@ -185,6 +185,21 @@ function getSelectedNumbers() {
 				});
 		}
 
+		// 第二筛选
+		let filterNumbers2 = [];
+		for (let i = 0; i <= 9; i++) {
+			if (document.getElementById('filter2' + i)?.checked) filterNumbers2.push(i.toString());
+		}
+		let intersectionCount2 = parseInt(document.getElementById('intersectionCount2')?.value, 10) || 1;
+
+		if (filterNumbers2.length > 0) {
+			filteredCombinations = filteredCombinations.filter(combo => {
+				let uniqueDigits = [...new Set(combo.split(''))];
+				let count2 = uniqueDigits.filter(d => filterNumbers2.includes(d)).length;
+				return count2 === intersectionCount2;
+			});
+		}
+
 		// 输出结果
 		let result = '';
 		if (filteredCombinations.length > 0) {
@@ -208,11 +223,13 @@ function resetForm() {
 		document.getElementById('ten' + i).checked = false;
 		document.getElementById('unit' + i).checked = false;
 		document.getElementById('filter' + i).checked = false;
+		document.getElementById('filter2' + i).checked = false;
 	}
 	document.getElementById('group3').checked = false;
 	document.getElementById('group6').checked = false;
 	document.getElementById('leopard').checked = false;
 	document.getElementById('intersectionCount').value = '1';
+	document.getElementById('intersectionCount2').value = '1';
 	document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
 	document.getElementById('result').dataset.combinations = '';
 }
@@ -253,8 +270,10 @@ function resetGroup(group) {
 			}
 		</script>
 	</div>
+
+	<!-- 号码筛选 1 -->
 	<div class="digit-row">
-		<h3>号码筛选 <button type="button" class="group-reset" onclick="resetGroup('filter')">重 置</button></h3>
+		<h3>号码筛选<1> <button type="button" class="group-reset" onclick="resetGroup('filter')">重 置</button></h3>
 		<script>
 			for (let i = 0; i <= 9; i++) {
 				document.write(`<label><input type="checkbox" id="filter${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
@@ -264,6 +283,24 @@ function resetGroup(group) {
 	<div class="filter-row">
 		<h3>交集数量</h3>
 		<select id="intersectionCount" onchange="getSelectedNumbers()">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+		</select>
+	</div>
+
+	<!-- 号码筛选 2 -->
+	<div class="digit-row">
+		<h3>号码筛选<2> <button type="button" class="group-reset" onclick="resetGroup('filter2')">重 置</button></h3>
+		<script>
+			for (let i = 0; i <= 9; i++) {
+				document.write(`<label><input type="checkbox" id="filter2${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+			}
+		</script>
+	</div>
+	<div class="filter-row">
+		<h3>交集数量</h3>
+		<select id="intersectionCount2" onchange="getSelectedNumbers()">
 			<option value="1">1</option>
 			<option value="2">2</option>
 			<option value="3">3</option>

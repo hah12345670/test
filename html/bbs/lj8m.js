@@ -208,8 +208,9 @@ document.writeln("278期【野兽】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("279期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">虎猴<span style=\'background-color: #FFFF00\'>兔</span>蛇</font><br>");
 document.writeln("280期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙猴兔蛇</font><br>");
 document.writeln("281期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙蛇虎鼠</font><br>");
-document.writeln("282期【家禽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">猪羊狗鸡</font><br>");
-document.writeln("");
+document.writeln("282期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">猪羊狗鸡</font><br>");
+document.writeln("283期【家禽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">牛马羊猪</font><br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("		</font>		</font>	");

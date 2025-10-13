@@ -17,10 +17,11 @@ document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
 document.writeln(" ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		285期主【绿波】防【蓝波】开？00准</font></b></td>");
+document.writeln("		286期主【蓝波】防【绿波】开？00准</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
+
 
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");

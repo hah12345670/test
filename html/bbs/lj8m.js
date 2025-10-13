@@ -160,7 +160,7 @@ document.writeln("	02.<span style=\'background-color: #000000\'>09</span>.13.23.
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
-
+document.writeln("");
 document.writeln("  ");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
@@ -168,6 +168,17 @@ document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weigh
 document.writeln("	281-285期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.<span style=\'background-color: #000000\'>45</span>");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("  ");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	286-290期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -194,27 +205,18 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br>");
-document.writeln("<font style=\"font-size: 16pt; text-decoration: none\"><br>");
+document.writeln("搬运哥【码友巧儿】</font><br>");
+document.writeln("<font style=\"font-size: 18pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("277期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">鼠龙<span style=\'background-color: #FFFF00\'>虎</span>猴</font><br>");
-
-document.writeln("278期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙<span style=\'background-color: #FFFF00\'>虎</span>兔鼠</font><br>");
-document.writeln("279期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">虎猴<span style=\'background-color: #FFFF00\'>兔</span>蛇</font><br>");
-document.writeln("280期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙猴兔蛇</font><br>");
-document.writeln("281期【野兽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">龙蛇虎鼠</font><br>");
-document.writeln("282期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">猪羊狗鸡</font><br>");
-document.writeln("283期【家禽】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">牛马羊猪</font><br>");
-
-document.writeln("284期【野兽】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">龙猴虎兔</font><br>");
-
-document.writeln("285期【野兽】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">龙兔猴虎</font><br>");
-
+document.writeln("283期（2.<span style=\"background-color: #FFFF00\">4</span>头）√<BR>");
+document.writeln("284期（<span style=\"background-color: #FFFF00\">4</span>.2头）√<BR>");
+document.writeln("285期（3.<span style=\"background-color: #FFFF00\">2</span>头）√<BR>");
+document.writeln("286期（0.2头）√<BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("		</font>		</font>	");

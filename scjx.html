@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>时辰五行</title>
+<style></style>
+<link rel="stylesheet" href="./scjx.css">
+</head>
+<body>
+
+<h1>时辰五行</h1>
+<label>选择日期：</label>
+<input type="date" id="dateInput">
+<button onclick="showFortune()">查询</button>
+
+<div id="result"></div>
+
+<script src="./scjx.js"></script>
+<script>
+/*--------------------------
+初始化页面
+--------------------------*/
+window.onload = ()=>{
+  const today = new Date().toISOString().split("T")[0];
+  document.getElementById("dateInput").value = today;
+  showFortune();
+};
+</script>
+
+</body>
+</html>

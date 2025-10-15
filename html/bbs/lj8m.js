@@ -217,7 +217,10 @@ document.writeln("283期（2.<span style=\"background-color: #FFFF00\">4</span>�
 document.writeln("284期（<span style=\"background-color: #FFFF00\">4</span>.2头）√<BR>");
 document.writeln("285期（3.<span style=\"background-color: #FFFF00\">2</span>头）√<BR>");
 document.writeln("286期（<span style=\'background-color: #FFFF00\'>0</span>.2头）√<BR>");
-document.writeln("287期（1.3头）√<BR>");
+document.writeln("287期（1.<span style=\'background-color: #FFFF00\'>4</span>头）√<BR>");
+document.writeln("288期（4.0头）√<BR>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("		</font>		</font>	");

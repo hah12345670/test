@@ -33,7 +33,8 @@ document.writeln("293期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("294期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("295期单双【双数+蛇兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("296期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("297期单双【双数+猪鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("297期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("298期单双【单数+虎猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -66,7 +67,8 @@ document.writeln("294期家野【家禽+<span style=\'background-color: #FFFF00\
 document.writeln("295期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("296期家野【家禽+蛇<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("297期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("297期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("298期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -86,27 +88,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-
-document.writeln("278期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("279期天地【地肖+猴<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("280期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("281期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("282期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("283期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("284期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("285期天地【地肖+龙<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("286期天地【地肖+龙猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("287期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("288期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("289期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("290期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("291期天地【天肖+虎鼠】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("292期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("293期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("294期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("295期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+鸡狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("296期天地【地肖+牛龙】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("297期天地【天肖+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("298期天地【地肖+马龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -131,7 +113,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("297期前后【后肖+虎龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("297期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("298期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 

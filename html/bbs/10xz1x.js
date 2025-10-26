@@ -27,6 +27,26 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">299期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.21.45.12.36.48.07.19.31.06.18.42.11.23.47.05.17.41</font></li>");
+document.writeln("            	<li>299期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">09.21.45.12.36.48.07.19.31</font></li>");
+document.writeln("            	<li>299期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-09.21.45）</font></li>");
+document.writeln("            	<li>299期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡马猪</font></li>");
+document.writeln("            	<li>299期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡马猪鼠羊牛</font></li>");
+document.writeln("            	<li>299期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡马猪鼠羊牛龙兔</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,12 +55,9 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">298期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.32.44.05.29.41.07.19.43.09.21.33.06.30.42.02.14.26</font></li>");
-document.writeln("            	<li>298期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.32.44.05.29.41.07.19.43</font></li>");
-document.writeln("            	<li>298期必中①肖：<font color=\'#FF0000\' size=\'5\'>（狗-08.32.44）</font></li>");
-document.writeln("            	<li>298期必中③肖：<font color=\'#FF0000\' size=\'4\'>狗牛猪</font></li>");
+
 document.writeln("            	<li>298期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>狗牛猪鸡鼠龙</font></li>");
-document.writeln("            	<li>298期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>狗牛猪鸡鼠龙猴羊</font></li>");
+document.writeln("            	<li>298期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>狗牛猪鸡鼠龙猴<span style=\'background-color: #FFFF00\'>羊</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

@@ -123,7 +123,8 @@ document.writeln("295期吉【鸡马兔蛇】凶【猪<span style=\'background-c
 document.writeln("296期吉【鸡马蛇龙】凶【猪鼠虎<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("297期吉【兔蛇马鸡】凶【猪鼠虎牛】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("298期吉【龙兔马<span style=\'background-color: #FFFF00\'>羊</span>】凶【猪牛虎猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("299期吉【蛇鸡羊兔】凶【猪鼠狗牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("299期吉【<span style=\'background-color: #FFFF00\'>蛇</span>鸡羊兔】凶【猪鼠狗牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("300期吉【兔蛇鸡羊】凶【牛鼠猴狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("		</font>		</font>	");

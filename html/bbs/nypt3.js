@@ -17,10 +17,15 @@ document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">301期平特3.码<font color=\"#008000\">【猪07.31.43】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">300期平特3.码<font color=\"#008000\">【狗08.32.44】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">300期平特3.码<font color=\"#008000\">【狗08.<span style=\'background-color: #FFFF00\'>32</span>.44】</font>开:32准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

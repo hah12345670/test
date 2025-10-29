@@ -35,12 +35,30 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">301期必中18码：</font><font color=\'#FF0000\' size=\'2\'>19.31.43.08.20.32.10.22.34.11.23.35.06.18.30.05.29.41</font></li>");
-document.writeln("            	<li>301期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">19.31.43.08.20.32.10.22.34</font></li>");
-document.writeln("            	<li>301期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-19.31.43）</font></li>");
-document.writeln("            	<li>301期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴</font></li>");
-document.writeln("            	<li>301期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠牛</font></li>");
-document.writeln("            	<li>301期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠牛马兔</font></li>");
+document.writeln(" 	            <li><font size=\"2\">302期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.28.40.02.14.26.20.32.44.05.17.41.12.24.36.10.22.34</font></li>");
+document.writeln("            	<li>302期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">16.28.40.02.14.26.20.32.44</font></li>");
+document.writeln("            	<li>302期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-16.28.40）</font></li>");
+document.writeln("            	<li>302期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗</font></li>");
+document.writeln("            	<li>302期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗牛马猴</font></li>");
+document.writeln("            	<li>302期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗牛马猴兔羊</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">301期必中18码：</font><font color=\'#FF0000\' size=\'2\'>19.31.43.08.20.32.10.22.34.11.23.35.06.18.30.<span style=\'background-color: #FFFF00\'>05</span>.29.41</font></li>");
+
+document.writeln("            	<li>301期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠<span style=\'background-color: #FFFF00\'>牛</span></font></li>");
+document.writeln("            	<li>301期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠<span style=\'background-color: #FFFF00\'>牛</span>马兔</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

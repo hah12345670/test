@@ -27,17 +27,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-
-document.writeln("296期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("297期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("298期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("299期单双【双数+兔牛】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("300期单双【<span style=\'background-color: #FFFF00\'>双数</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("301期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("302期单双【单数+狗<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("303期单双【双数+鸡羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("304期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("305期单双【双数+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("306期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -78,7 +68,8 @@ document.writeln("301期家野【<span style=\'background-color: #FFFF00\'>家�
 document.writeln("302期家野【家禽+兔蛇】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("303期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("304期家野【野兽+狗<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("305期家野【家禽+蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("305期家野【家禽+蛇兔】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("306期家野【野兽+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -99,7 +90,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
 document.writeln("304期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("305期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("305期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("306期天地【天肖+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -134,7 +126,8 @@ document.writeln("302期前后【前肖+狗鸡】<font color=\"#FF0000\">×</fon
 
 document.writeln("303期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("304期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("305期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("305期前后【后肖+虎蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("306期前后【前肖+狗猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 

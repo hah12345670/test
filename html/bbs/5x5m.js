@@ -31,16 +31,35 @@ document.writeln("");
 
 
 
+
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
 document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>306期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-7-2</font></li>");
-document.writeln("            	<li>306期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-7-2-9-4</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>03.23.33.07.27.47.12.22.32.09.29.49.04.14.34</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>03.23.33.07.27.47.12.22.32</font></li>");
+document.writeln("            	<li>307期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-8-9</font></li>");
+document.writeln("            	<li>307期必中五尾：<font color=\'#FF0000\' size=\'4\'>4-8-9-1-6</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.18.28.29.39.49.11.21.31.26.36.46</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.18.28.29.39.49</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>307期一尾一码：<font color=\'#FF0000\' size=\'6\'>（14）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>306期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-<span style=\'background-color: #FFFF00\'>7</span>-2</font></li>");
+document.writeln("            	<li>306期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-<span style=\'background-color: #FFFF00\'>7</span>-2-9-4</font></li>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

@@ -81,7 +81,7 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("304期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("305期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("306期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("307期天地【地肖+猪蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("307期天地【地肖+猪猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

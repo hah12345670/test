@@ -127,7 +127,8 @@ document.writeln("305期单【兔蛇猪羊】双【龙猴<span style=\'backgroun
 document.writeln("306期单【<span style=\'background-color: #FFFF00\'>牛</span>兔蛇鸡】双【猴鼠马龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("307期单【猪牛鸡兔】双【虎鼠<span style=\'background-color: #FFFF00\'>狗</span>龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("308期单【羊<span style=\'background-color: #FFFF00\'>兔</span>鸡猪】双【鼠马猴龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("309期单【羊猪兔牛】双【马鼠龙猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("309期单【羊猪兔牛】双【马<span style=\'background-color: #FFFF00\'>鼠</span>龙猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("310期单【牛羊猪鸡】双【鼠马龙狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

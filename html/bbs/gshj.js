@@ -19,9 +19,7 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-
-
-document.writeln("312期王者六肖【牛鼠猪虎羊马】√<br>");
+document.writeln("313期王者六肖【蛇狗兔龙猴羊】√<br>");
 
 
 
@@ -85,8 +83,9 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("312期【野兽：龙虎蛇兔】开？00√<br>");
+document.writeln("312期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔】开龙14√<br>");
 
+document.writeln("313期【野兽：龙猴虎兔】开？00√<br>");
 
 
 
@@ -127,7 +126,8 @@ document.writeln("309期【龙<span style=\'background-color: #FFFF00\'>鼠</spa
 
 document.writeln("310期【狗马羊鸡猴龙<span style=\'background-color: #FFFF00\'>虎</span>牛兔】开虎16√<br>");
 document.writeln("311期【虎兔马<span style=\'background-color: #FFFF00\'>蛇</span>猴鸡狗牛龙】开蛇37√<br>");
-document.writeln("312期【马蛇狗鸡牛羊猴兔猪】开？00√<br>");
+document.writeln("312期【马蛇狗鸡牛羊猴兔猪】开龙14×<br>");
+document.writeln("313期【狗猴蛇兔猪虎牛鸡鼠】开？00√<br>");
 
 
 

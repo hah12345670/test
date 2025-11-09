@@ -34,68 +34,12 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">313期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.19.43.13.25.49.03.15.27.11.23.35.08.20.32.06.18.30</font></li>");
-document.writeln("            	<li>313期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.19.43.13.25.49.03.15.27</font></li>");
-document.writeln("            	<li>313期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-07.19.43）</font></li>");
-document.writeln("            	<li>313期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪蛇兔</font></li>");
-document.writeln("            	<li>313期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪蛇兔羊狗鼠</font></li>");
-document.writeln("            	<li>313期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪蛇兔羊狗鼠猴牛</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">311期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.17.29.13.<span style=\'background-color: #FFFF00\'>37</span>.49.08.32.44.16.28.40.19.31.43.12.36.48</font></li>");
-document.writeln("            	<li>311期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">05.17.29.13.<span style=\'background-color: #FFFF00\'>37</span>.49.08.32.44</font></li>");
-
-document.writeln("            	<li>311期必中③肖：<font color=\'#FF0000\' size=\'4\'>牛<span style=\'background-color: #FFFF00\'>蛇</span>狗</font></li>");
-document.writeln("            	<li>311期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>牛<span style=\'background-color: #FFFF00\'>蛇</span>狗虎猪马</font></li>");
-document.writeln("            	<li>311期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>牛<span style=\'background-color: #FFFF00\'>蛇</span>狗虎猪马龙兔</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">310期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.20.44.06.30.42.10.22.34.09.21.33.03.15.27.04.<span style=\'background-color: #FFFF00\'>16</span>.28</font></li>");
-
-document.writeln("            	<li>310期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>狗鼠猴鸡兔<span style=\'background-color: #FFFF00\'>虎</span></font></li>");
-document.writeln("            	<li>310期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>狗鼠猴鸡兔<span style=\'background-color: #FFFF00\'>虎</span>龙蛇</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">309期必中18码：</font><font color=\'#FF0000\' size=\'2\'>13.25.37.05.17.41.21.33.45.11.23.35.03.15.39.<span style=\'background-color: #FFFF00\'>06</span>.30.42</font></li>");
-
-document.writeln("            	<li>309期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>蛇牛鸡羊兔<span style=\'background-color: #FFFF00\'>鼠</span></font></li>");
-document.writeln("            	<li>309期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>蛇牛鸡羊兔<span style=\'background-color: #FFFF00\'>鼠</span>猴马</font></li>");
+document.writeln(" 	            <li><font size=\"2\">314期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.30.42.20.32.44.12.36.48.02.14.38.13.25.49.07.19.43</font></li>");
+document.writeln("            	<li>314期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">06.30.42.20.32.44.12.36.48</font></li>");
+document.writeln("            	<li>314期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-06.30.42）</font></li>");
+document.writeln("            	<li>314期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠狗马</font></li>");
+document.writeln("            	<li>314期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠狗马龙蛇猪</font></li>");
+document.writeln("            	<li>314期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠狗马龙蛇猪鸡虎</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

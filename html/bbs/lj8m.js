@@ -66,7 +66,8 @@ document.writeln("309期【<span style=\'background-color: #FFFF00\'>鼠</span>�
 document.writeln("310期【牛蛇兔<span style=\'background-color: #FFFF00\'>虎</span>猴猪鸡马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("311期【羊虎牛猪鸡<span style=\'background-color: #FFFF00\'>蛇</span>鼠兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("312期【猪牛鸡<span style=\'background-color: #FFFF00\'>龙</span>马羊虎兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期【马虎猴狗鸡鼠羊牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("313期【马虎猴狗鸡鼠羊牛】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("314期【牛鸡虎龙鼠兔羊马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

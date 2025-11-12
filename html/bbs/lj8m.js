@@ -28,6 +28,17 @@ document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	316-320期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+
+
 document.writeln("	<tr>");
 document.writeln("		<td>");
 document.writeln("		<div style=\"background-color: #FFFF00\">");
@@ -50,7 +61,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("奔三阿姨【公式特码】</font><br>");
+document.writeln("特肖合集【稳定高手】</font><br>");
 document.writeln("<font style=\"font-size: 12pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -59,15 +70,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("		<font color=\'#0000FF\'>307期三行=<span style=\'background-color: #FFFF00\'>土</span>木水√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>308期三行=<span style=\'background-color: #FFFF00\'>火</span>木金√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>309期三行=<span style=\'background-color: #FFFF00\'>土</span>水木√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>310期三行=土<span style=\'background-color: #FFFF00\'>木</span>火√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>311期三行=<span style=\'background-color: #FFFF00\'>木</span>火水√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>312期三行=金<span style=\'background-color: #FFFF00\'>水</span>火√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>313期三行=<span style=\'background-color: #FFFF00\'>木</span>土水√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>314期三行=火<span style=\'background-color: #FFFF00\'>木</span>水√</font><br>");
-document.writeln("		<font color=\'#0000FF\'>315期三行=木火土√</font><br>");
+document.writeln("312期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔】开龙14√<br>");
+
+document.writeln("313期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>猴虎兔】开龙38√<br>");
+document.writeln("314期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>羊</span>马猪】开羊23√<br>");
+document.writeln("315期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴<span style=\'background-color: #FFFF00\'>虎</span>兔】开虎04√<br>");
+document.writeln("316期【野兽：龙虎猴兔】开？00√<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

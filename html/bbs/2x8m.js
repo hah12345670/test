@@ -13,16 +13,28 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadd
 
 
 
+document.writeln("    <!--开始-->   ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=25 >");
+document.writeln("		<p align=\"center\"><b>");
+document.writeln("");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（318期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		</font>  ");
+document.writeln("		<font face=\'隶书\' size=\'5\'>");
+document.writeln("		鸡鼠+03.15.39.08.20.44.24.36</font></b></td>");
+document.writeln("    </tr>      ");
+document.writeln("");
+document.writeln("    <!--开始-->   ");
 
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（317期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（317期开鼠18）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		马狗+03.15.27.06.18.30.04.16</font></b></td>");
+document.writeln("		马狗+03.15.27.06.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">18</span></font>.30.04.16</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");

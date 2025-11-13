@@ -75,7 +75,7 @@ document.writeln("312期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("313期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>猴虎兔】开龙38√<br>");
 document.writeln("314期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>羊</span>马猪】开羊23√<br>");
 document.writeln("315期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴<span style=\'background-color: #FFFF00\'>虎</span>兔】开虎04√<br>");
-document.writeln("316期【野兽：龙虎猴兔】开？00√<br>");
+document.writeln("317期【家禽：马羊狗猪】开？00√<br>");
 
 document.writeln("");
 document.writeln("");

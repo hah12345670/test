@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>呼吸节奏训练</title>
+  <style>
+    body {
+      font-family: "Microsoft YaHei", sans-serif;
+      text-align: center;
+      margin: 0;
+      padding-top: 50px;
+      background-color: #f7f7f7;
+    }
+
+    /* 顶部循环次数 */
+    #count {
+      font-size: 2vw; 
+      color: #555;
+      margin-bottom: 3vw;
+    }
+
+    /* 阶段提示：再缩小30% */
+    #stage {
+      font-size: 1.75vw; /* 原2.5vw * 0.7 ≈ 1.75vw */
+      margin-bottom: 2vw;
+      font-weight: 500;
+      color: #444;
+      letter-spacing: 0.08vw;
+    }
+
+    /* 倒计时 */
+    #time {
+      font-size: 5vw;
+      color: #0078d7;
+      margin-bottom: 3vw;
+    }
+
+    button {
+      padding: 1.2vw 2.5vw;
+      font-size: 2vw;
+      border: none;
+      border-radius: 0.5vw;
+      cursor: pointer;
+      background-color: #0078d7;
+      color: white;
+      transition: 0.3s;
+    }
+
+    button:hover {
+      background-color: #005fa3;
+    }
+
+    /* 针对小屏幕微调 */
+    @media (max-width: 600px) {
+      #count { font-size: 5vw; margin-bottom: 4vw; }
+      #stage { font-size: 4vw; margin-bottom: 3vw; }
+      #time { font-size: 12vw; margin-bottom: 4vw; }
+      button { font-size: 5vw; padding: 3vw 6vw; border-radius: 1vw; }
+    }
+  </style>
+</head>
+<body>
+  <div id="count">循环次数：0</div>
+  <div id="stage">准备开始</div>
+  <div id="time">-</div>
+  <button id="startBtn">开始</button>
+
+  <script>
+    const btn = document.getElementById("startBtn");
+    const stage = document.getElementById("stage");
+    const time = document.getElementById("time");
+    const countDisplay = document.getElementById("count");
+
+    let running = false;
+    let timerId = null;
+    let cycleCount = 0;
+
+    // 单阶段倒计时
+    function countdown(label, duration) {
+      return new Promise((resolve) => {
+        let timeLeft = duration;
+        stage.textContent = label;
+        time.textContent = timeLeft;
+
+        timerId = setInterval(() => {
+          if (!running) {
+            clearInterval(timerId);
+            return;
+          }
+          timeLeft--;
+          if (timeLeft <= 0) {
+            clearInterval(timerId);
+            resolve();
+          } else {
+            time.textContent = timeLeft;
+          }
+        }, 1000);
+      });
+    }
+
+    // 主循环
+    async function startBreathing() {
+      while (running) {
+        await countdown("吸", 4);
+        if (!running) break;
+        await countdown("停", 7);
+        if (!running) break;
+        await countdown("呼", 8);
+        if (!running) break;
+
+        // 一轮结束 +1
+        cycleCount++;
+        countDisplay.textContent = "循环次数：" + cycleCount;
+      }
+
+      // 复位
+      stage.textContent = "准备开始";
+      time.textContent = "-";
+      btn.textContent = "开始";
+    }
+
+    // 点击按钮
+    btn.addEventListener("click", () => {
+      if (!running) {
+        running = true;
+        cycleCount = 0;
+        countDisplay.textContent = "循环次数：0";
+        btn.textContent = "结束";
+        startBreathing();
+      } else {
+        running = false;
+        clearInterval(timerId);
+        stage.textContent = "准备开始";
+        time.textContent = "-";
+        btn.textContent = "开始";
+      }
+    });
+  </script>
+</body>
+</html>

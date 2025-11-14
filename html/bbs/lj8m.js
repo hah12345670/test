@@ -61,7 +61,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("特肖合集【稳定高手】</font><br>");
+document.writeln("小咪呜姐【六肖六码】</font><br>");
 document.writeln("<font style=\"font-size: 12pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -69,13 +69,31 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("318期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【狗44-猪31-鸡21-牛05-龙14-兔39】</font><br><br>");
 document.writeln("");
-document.writeln("312期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔】开龙14√<br>");
-
-document.writeln("313期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>猴虎兔】开龙38√<br>");
-document.writeln("314期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>羊</span>马猪】开羊23√<br>");
-document.writeln("315期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴<span style=\'background-color: #FFFF00\'>虎</span>兔】开虎04√<br>");
-document.writeln("317期【家禽：马羊狗猪】开？00√<br>");
+document.writeln("317期:<font color=\"#0000FF\"> 【六肖六码】</font>开:鼠18对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【猪31-龙02-羊11-虎16-<span style=\"background-color: #FFFF00\">鼠</span>30-牛41】</font><br><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("316期:<font color=\"#0000FF\"> 【六肖六码】</font>开:马24对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【龙14-羊23-蛇49-狗20-猴10-<span style=\"background-color: #FFFF00\">马24</span>】</font><br><br>");
+document.writeln("");
+document.writeln("315期:<font color=\"#0000FF\"> 【六肖六码】</font>开:虎04对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【<span style=\"background-color: #FFFF00\">虎04</span>-兔39-羊23-牛05-猪41-马24】</font><br><br>");
+document.writeln("");
+document.writeln("314期:<font color=\"#0000FF\"> 【六肖六码】</font>开:羊23对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【猴34-马48-蛇25-<span style=\"background-color: #FFFF00\">羊23</span>-虎04-牛17】</font><br><br>");
+document.writeln("");
+document.writeln("313期:<font color=\"#0000FF\"> 【六肖六码】</font>开:龙38对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【狗20-兔39-牛05-<span style=\"background-color: #FFFF00\">龙</span>02-猪19-羊23】</font><br><br>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("");

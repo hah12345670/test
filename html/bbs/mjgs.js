@@ -29,14 +29,12 @@ document.writeln("");
 
 
 
-document.writeln("315期单双【单数+<span style=\'background-color: #FFFF00\'>虎</span>鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("316期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("317期单双【单数+龙虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("318期单双【单数+马<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("319期单双【双数+羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("320期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("321期单双【单数+虎马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("321期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -69,17 +67,7 @@ document.writeln("");
 
 
 
-document.writeln("312期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("314期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("315期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("316期家野【野兽+狗<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("317期家野【家禽+龙虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("318期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("320期家野【家禽+兔猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("321期家野【野兽+猪马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期家野【家禽+兔鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -98,16 +86,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-document.writeln("313期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("314期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("315期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("316期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("317期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("318期天地【天肖+虎鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("319期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("320期天地【天肖+蛇羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("321期天地【天肖+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("321期天地【天肖+<span style=\'background-color: #FFFF00\'>羊</span>鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期天地【地肖+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -143,7 +123,8 @@ document.writeln("317期前后【后肖+虎<span style=\'background-color: #FFFF
 document.writeln("318期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("319期前后【前肖+马羊】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("320期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("321期前后【后肖+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("321期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期前后【后肖+鼠牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 

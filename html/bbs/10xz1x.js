@@ -28,7 +28,6 @@ document.writeln("<div class=\'box\'>");
 
 
 
-
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
 document.writeln("	<div class=\'bizhong333-tit\'>");
@@ -36,77 +35,18 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">321期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.28.13.25.49.05.17.29.08.20.32.12.24.48.07.19.31</font></li>");
-document.writeln("            	<li>321期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.28.13.25.49.05.17.29</font></li>");
-document.writeln("            	<li>321期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-04.16.28）</font></li>");
-document.writeln("            	<li>321期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛</font></li>");
-document.writeln("            	<li>321期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛狗马猪</font></li>");
-document.writeln("            	<li>321期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎蛇牛狗马猪鸡龙</font></li>");
+document.writeln(" 	            <li><font size=\"2\">322期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.31.43.08.20.32.05.17.41.06.18.42.09.21.33.03.15.27</font></li>");
+document.writeln("            	<li>322期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.31.43.08.20.32.05.17.41</font></li>");
+document.writeln("            	<li>322期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-07.31.43）</font></li>");
+document.writeln("            	<li>322期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛</font></li>");
+document.writeln("            	<li>322期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛鼠鸡兔</font></li>");
+document.writeln("            	<li>322期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛鼠鸡兔羊蛇</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-
-document.writeln("            	<li>319期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马猴鼠兔牛猪</font></li>");
-document.writeln("            	<li>319期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马猴鼠兔牛猪虎<span style=\'background-color: #FFFF00\'>鸡</span></font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">318期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.21.33.<span style=\'background-color: #FFFF00\'>06</span>.18.42.13.25.49.03.27.39.16.28.40.08.32.44</font></li>");
-document.writeln("            	<li>318期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">09.21.33.<span style=\'background-color: #FFFF00\'>06</span>.18.42.13.25.49</font></li>");
-document.writeln("            	<li>318期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-09.21.33）</font></li>");
-document.writeln("            	<li>318期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>鼠</span>蛇</font></li>");
-document.writeln("            	<li>318期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>鼠</span>蛇兔虎狗</font></li>");
-document.writeln("            	<li>318期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>鼠</span>蛇兔虎狗马龙</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">317期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.<span style=\'background-color: #FFFF00\'>18</span>.30.03.15.27.04.16.28.11.23.35.09.21.33.05.17.41</font></li>");
-document.writeln("            	<li>317期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">06.<span style=\'background-color: #FFFF00\'>18</span>.30.03.15.27.04.16.28</font></li>");
-document.writeln("            	<li>317期必中①肖：<font color=\'#FF0000\' size=\'5\'>（<span style=\'background-color: #FFFF00\'>鼠</span>-06.<span style=\'background-color: #FFFF00\'>18</span>.30）</font></li>");
-document.writeln("            	<li>317期必中③肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>鼠</span>兔虎</font></li>");
-document.writeln("            	<li>317期必中⑥肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>鼠</span>兔虎羊鸡牛</font></li>");
-document.writeln("            	<li>317期必中⑧肖：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>鼠</span>兔虎羊鸡牛马龙</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
 
 
 

@@ -38,6 +38,17 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	321-325期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+
 
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -77,7 +88,8 @@ document.writeln("316期【双数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("317期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">068尾</font><br>");
 document.writeln("318期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">024尾</font><br>");
 document.writeln("319期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>5</span>79尾</font><br>");
-document.writeln("320期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">246尾</font><br>");
+document.writeln("320期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">246尾</font><br>");
+document.writeln("321期【单数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">159尾</font><br>");
 
 document.writeln("");
 document.writeln("");

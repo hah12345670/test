@@ -18,11 +18,9 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("316期王者六肖【龙<span style=\'background-color: #FFFF00\'>马</span>鼠羊狗猴】√<br>");
-document.writeln("317期王者六肖【龙羊兔猴狗马】×<br>");
-document.writeln("318期王者六肖【虎龙兔狗羊猴】×<br>");
 document.writeln("319期王者六肖【狗兔羊<span style=\'background-color: #FFFF00\'>鸡</span>蛇牛】√<br>");
-document.writeln("320期王者六肖【狗虎牛马羊兔】√<br>");
+document.writeln("320期王者六肖【狗<span style=\'background-color: #FFFF00\'>虎</span>牛马羊兔】√<br>");
+document.writeln("321期王者六肖【羊蛇猪兔龙鸡】√<br>");
 
 
 document.writeln("		");
@@ -62,7 +60,8 @@ document.writeln("314-315期￥狗蛇兔<span style=\'background-color: #FFFF00\
 document.writeln("317-318期￥<span style=\'background-color: #FFFF00\'>鼠</span>鸡兔羊马蛇牛￥317期√<br>");
 
 document.writeln("318-319期￥马<span style=\'background-color: #FFFF00\'>鼠</span>蛇猪兔龙羊￥318期√<br>");
-document.writeln("319-320期￥鼠羊猴虎猪马兔￥000期√<br>");
+document.writeln("319-320期￥鼠羊猴<span style=\'background-color: #FFFF00\'>虎</span>猪马兔￥320期√<br>");
+document.writeln("321-322期￥兔鸡牛蛇猴狗虎￥000期√<br>");
 
 
 
@@ -92,8 +91,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("319期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马狗】开鸡45√<br>");
-document.writeln("320期【野兽：龙蛇兔猴】开？00√<br>");
-
+document.writeln("320期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇兔猴】开虎28√<br>");
+document.writeln("321期【野兽：龙蛇猴虎】开？00√<br>");
 
 
 
@@ -124,8 +123,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("319期【虎蛇猴兔猪<span style=\'background-color: #FFFF00\'>鸡</span>狗羊牛】开鸡45√<br>");
-document.writeln("320期【鼠牛兔鸡猪虎龙猴羊】开？00√<br>");
-
+document.writeln("320期【鼠牛兔鸡猪<span style=\'background-color: #FFFF00\'>虎</span>龙猴羊】开虎28√<br>");
+document.writeln("321期【牛虎鸡兔狗蛇鼠羊猴】开？00√<br>");
 
 
 

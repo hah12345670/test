@@ -34,7 +34,8 @@ document.writeln("318期单双【单数+马<span style=\'background-color: #FFFF
 document.writeln("319期单双【双数+羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("320期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("321期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("322期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期单双【双数+<span style=\'background-color: #FFFF00\'>羊</span>蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期单双【单数+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -67,7 +68,8 @@ document.writeln("");
 
 
 
-document.writeln("322期家野【家禽+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期家野【野兽+牛羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -87,7 +89,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
 document.writeln("321期天地【天肖+<span style=\'background-color: #FFFF00\'>羊</span>鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("322期天地【地肖+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -124,7 +127,8 @@ document.writeln("318期前后【<span style=\'background-color: #FFFF00\'>前�
 document.writeln("319期前后【前肖+马羊】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("320期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("321期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("322期前后【后肖+鼠牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期前后【前肖+猴狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

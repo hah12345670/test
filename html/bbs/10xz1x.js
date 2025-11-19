@@ -27,6 +27,25 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">324期必中18码：</font><font color=\'#FF0000\' size=\'2\'>12.24.36.04.16.28.03.15.27.11.23.35.06.18.30.10.22.34</font></li>");
+document.writeln("            	<li>324期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">12.24.36.04.16.28.03.15.27</font></li>");
+document.writeln("            	<li>324期必中①肖：<font color=\'#FF0000\' size=\'5\'>（马-12.24.36）</font></li>");
+document.writeln("            	<li>324期必中③肖：<font color=\'#FF0000\' size=\'4\'>马虎兔</font></li>");
+document.writeln("            	<li>324期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马虎兔羊鼠猴</font></li>");
+document.writeln("            	<li>324期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马虎兔羊鼠猴鸡龙</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 
 document.writeln("<!--必中每期开始-->");
@@ -36,12 +55,12 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">323期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.27.39.08.20.32.09.21.33.11.23.47.04.16.28.12.24.36</font></li>");
-document.writeln("            	<li>323期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">15.27.39.08.20.32.09.21.33</font></li>");
-document.writeln("            	<li>323期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-15.27.39）</font></li>");
-document.writeln("            	<li>323期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡</font></li>");
-document.writeln("            	<li>323期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡羊虎马</font></li>");
-document.writeln("            	<li>323期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡羊虎马龙蛇</font></li>");
+document.writeln(" 	            <li><font size=\"2\">323期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.27.39.08.20.32.<span style=\'background-color: #FFFF00\'>09</span>.21.33.11.23.47.04.16.28.12.24.36</font></li>");
+document.writeln("            	<li>323期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">15.27.39.08.20.32.<span style=\'background-color: #FFFF00\'>09</span>.21.33</font></li>");
+
+document.writeln("            	<li>323期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔狗<span style=\'background-color: #FFFF00\'>鸡</span></font></li>");
+document.writeln("            	<li>323期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔狗<span style=\'background-color: #FFFF00\'>鸡</span>羊虎马</font></li>");
+document.writeln("            	<li>323期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔狗<span style=\'background-color: #FFFF00\'>鸡</span>羊虎马龙蛇</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

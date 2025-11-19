@@ -122,7 +122,7 @@ document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-
 document.writeln("<a target=\"_blank\" href=\"https://x626969.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#g5\">");
 document.writeln("<font color=\"#000000\" size=\"4\">进入澳门资料网论坛查看更多记录</font></a></span><p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://x626969.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#g5\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【a.62785.com】</font></a></span></p>");
+document.writeln("		<a target=\"_blank\" href=\"https://x626969.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#g5\"><font size=\"4\" color=\"#000000\">谨记网址</font><font size=\"4\" color=\"#FF0000\">【a.62827.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
 document.writeln("	</tr>");

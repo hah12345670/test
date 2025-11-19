@@ -35,7 +35,8 @@ document.writeln("319期单双【双数+羊<span style=\'background-color: #FFFF
 document.writeln("320期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("321期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("322期单双【双数+<span style=\'background-color: #FFFF00\'>羊</span>蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期单双【单数+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("324期单双【单数+狗马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -69,7 +70,8 @@ document.writeln("");
 
 
 document.writeln("322期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期家野【野兽+牛羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期家野【野兽+牛羊】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("324期家野【家禽+蛇猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -90,7 +92,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("321期天地【天肖+<span style=\'background-color: #FFFF00\'>羊</span>鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("322期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期天地【天肖+虎狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("324期天地【天肖+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -116,19 +119,11 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("312期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+羊猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("314期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+蛇鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("315期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("316期前后【前肖+猴猪】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("317期前后【后肖+虎<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("318期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期前后【前肖+马羊】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("320期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("321期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("322期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期前后【前肖+猴狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期前后【前肖+猴狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("324期前后【前肖+狗猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -156,7 +151,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://x18.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#62785\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62785b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://x18.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

@@ -104,7 +104,8 @@ document.writeln("322期【单数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("323期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">026尾</font><br>");
 document.writeln("324期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">1<span style=\'background-color: #FFFF00\'>5</span>7尾</font><br>");
 document.writeln("325期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
-document.writeln("326期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">248尾</font><br>");
+document.writeln("326期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">248尾</font><br>");
+document.writeln("327期【稍后来料62827.com长期跟踪】<br>");
 
 
 

@@ -49,6 +49,16 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	326-330期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
 
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -73,7 +83,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("		");
 document.writeln("赚点小钱【两面投资】</font><br>");
-document.writeln("<font style=\"font-size: 12pt; text-decoration: none\"><br>");
+document.writeln("<font style=\"font-size: 13pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
@@ -93,7 +103,8 @@ document.writeln("321期【单数】(投资500元<font color=\"#FF0000\">盈</fo
 document.writeln("322期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">13<span style=\'background-color: #FFFF00\'>7</span>尾</font><br>");
 document.writeln("323期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">026尾</font><br>");
 document.writeln("324期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">1<span style=\'background-color: #FFFF00\'>5</span>7尾</font><br>");
-document.writeln("325期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">468尾</font><br>");
+document.writeln("325期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
+document.writeln("326期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">248尾</font><br>");
 
 
 

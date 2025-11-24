@@ -21,7 +21,13 @@ document.writeln("  <tbody>");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">327期平特3.码<font color=\"#008000\">【狗08.32.44】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">328期平特3.码<font color=\"#008000\">【马12.36.48】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">327期平特3.码<font color=\"#008000\">【狗08.32.<span style=\'background-color: #FFFF00\'>44</span>】</font>开:44准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

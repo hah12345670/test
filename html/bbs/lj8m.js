@@ -82,7 +82,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("民间高手【稳中单双】</font><br>");
+document.writeln("特肖合集（家野四肖）</font><br>");
 document.writeln("<font style=\"font-size: 13pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -90,17 +90,12 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln(""); 
 document.writeln("");
 
-document.writeln("318期单双【单数+马<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期单双【双数+羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("320期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("321期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("322期单双【双数+<span style=\'background-color: #FFFF00\'>羊</span>蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("324期单双【<span style=\'background-color: #FFFF00\'>单数</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("325期单双【单数+马<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("326期单双【双数+鸡<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("327期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("328期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("325期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴<span style=\'background-color: #FFFF00\'>虎</span>】开虎04√<br>");
+document.writeln("326期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马狗<span style=\'background-color: #FFFF00\'>猪</span>】开猪19√<br>");
+document.writeln("327期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>蛇</span>猴虎兔】开蛇37√<br>");
+document.writeln("328期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
+document.writeln("329期【家禽：羊牛鸡猪】开？00√<br>");
+
 
 
 document.writeln("");

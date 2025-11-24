@@ -82,31 +82,25 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br>");
+document.writeln("民间高手【稳中单双】</font><br>");
 document.writeln("<font style=\"font-size: 13pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
+document.writeln(""); 
 document.writeln("");
-document.writeln("");
-document.writeln("312期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
-document.writeln("313期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">24<span style=\'background-color: #FFFF00\'>8</span>尾</font><br>");
 
-document.writeln("314期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">1<span style=\'background-color: #FFFF00\'>3</span>5尾</font><br>");
-document.writeln("315期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">028尾</font><br>");
-document.writeln("316期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
-document.writeln("317期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">068尾</font><br>");
-document.writeln("318期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">024尾</font><br>");
-document.writeln("319期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>5</span>79尾</font><br>");
-document.writeln("320期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">246尾</font><br>");
-document.writeln("321期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">159尾</font><br>");
-document.writeln("322期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">13<span style=\'background-color: #FFFF00\'>7</span>尾</font><br>");
-document.writeln("323期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">026尾</font><br>");
-document.writeln("324期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">1<span style=\'background-color: #FFFF00\'>5</span>7尾</font><br>");
-document.writeln("325期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>4</span>68尾</font><br>");
-document.writeln("326期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">248尾</font><br>");
-document.writeln("327期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">026尾</font><br>");
-
+document.writeln("318期单双【单数+马<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("319期单双【双数+羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("320期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("321期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期单双【双数+<span style=\'background-color: #FFFF00\'>羊</span>蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("323期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("324期单双【<span style=\'background-color: #FFFF00\'>单数</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("325期单双【单数+马<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("326期单双【双数+鸡<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("327期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("328期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

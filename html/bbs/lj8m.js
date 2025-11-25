@@ -83,7 +83,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("		");
 document.writeln("特肖合集（家野四肖）</font><br>");
-document.writeln("<font style=\"font-size: 13pt; text-decoration: none\"><br>");
+document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");

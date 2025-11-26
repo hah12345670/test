@@ -94,8 +94,8 @@ document.writeln("325期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("326期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马狗<span style=\'background-color: #FFFF00\'>猪</span>】开猪19√<br>");
 document.writeln("327期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>蛇</span>猴虎兔】开蛇37√<br>");
 document.writeln("328期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
-document.writeln("329期【家禽：羊牛鸡猪】开？00√<br>");
-
+document.writeln("329期【<span style=\'background-color: #FFFF00\'>家禽</span>：羊<span style=\'background-color: #FFFF00\'>牛</span>鸡猪】开牛17√<br>");
+document.writeln("330期【62827.com首页查看】开？00√<br>");
 
 
 document.writeln("");

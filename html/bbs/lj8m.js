@@ -98,7 +98,7 @@ document.writeln("327期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("328期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
 document.writeln("329期【<span style=\'background-color: #FFFF00\'>家禽</span>：羊<span style=\'background-color: #FFFF00\'>牛</span>鸡猪】开牛17√<br>");
 document.writeln("330期【野兽：龙猴虎鼠】开马36×<br>");
-document.writeln("331期【关注62827.com看料】开？00√<br>");
+document.writeln("331期【家禽：牛羊马兔】开？00√<br>");
 
 document.writeln("");
 document.writeln("");

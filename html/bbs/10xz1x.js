@@ -35,12 +35,33 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">330期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.19.31.12.36.48.10.22.34.06.18.30.09.21.33.02.14.26</font></li>");
-document.writeln("            	<li>330期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.19.31.12.36.48.10.22.34</font></li>");
+document.writeln(" 	            <li><font size=\"2\">331期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.28.40.10.22.34.02.14.38.11.23.47.03.15.39.07.31.43</font></li>");
+document.writeln("            	<li>331期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.28.40.10.22.34.02.14.38</font></li>");
+document.writeln("            	<li>331期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-04.28.40）</font></li>");
+document.writeln("            	<li>331期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎猴龙</font></li>");
+document.writeln("            	<li>331期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎猴龙羊兔猪</font></li>");
+document.writeln("            	<li>331期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎猴龙羊兔猪鸡鼠牛</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">330期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.19.31.12.<span style=\'background-color: #FFFF00\'>36</span>.48.10.22.34.06.18.30.09.21.33.02.14.26</font></li>");
+document.writeln("            	<li>330期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.19.31.12.<span style=\'background-color: #FFFF00\'>36</span>.48.10.22.34</font></li>");
 document.writeln("            	<li>330期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-07.19.31）</font></li>");
-document.writeln("            	<li>330期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪马猴</font></li>");
-document.writeln("            	<li>330期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪马猴鼠鸡龙</font></li>");
-document.writeln("            	<li>330期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪马猴鼠鸡龙虎牛</font></li>");
+document.writeln("            	<li>330期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪<span style=\'background-color: #FFFF00\'>马</span>猴</font></li>");
+document.writeln("            	<li>330期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪<span style=\'background-color: #FFFF00\'>马</span>猴鼠鸡龙</font></li>");
+document.writeln("            	<li>330期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪<span style=\'background-color: #FFFF00\'>马</span>猴鼠鸡龙虎牛</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

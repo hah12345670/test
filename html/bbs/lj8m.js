@@ -49,16 +49,18 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 
+
 document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	326-330期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	331-335期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
+
 
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -95,8 +97,8 @@ document.writeln("326期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("327期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>蛇</span>猴虎兔】开蛇37√<br>");
 document.writeln("328期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
 document.writeln("329期【<span style=\'background-color: #FFFF00\'>家禽</span>：羊<span style=\'background-color: #FFFF00\'>牛</span>鸡猪】开牛17√<br>");
-document.writeln("330期【野兽：龙猴虎鼠】开？00√<br>");
-
+document.writeln("330期【野兽：龙猴虎鼠】开马36×<br>");
+document.writeln("331期【关注62827.com看料】开？00√<br>");
 
 document.writeln("");
 document.writeln("");

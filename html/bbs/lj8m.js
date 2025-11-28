@@ -78,13 +78,13 @@ document.writeln("		");
 document.writeln("<a target=\"_blank\" href=\"https://x626969.xn--hdcl2bk2m1bc.xn--gecrj9c:8443/#g5\">");
 document.writeln("");
 document.writeln("");
-document.writeln("		");
+document.writeln("		"); 
 document.writeln("		");
 document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#000000\">");
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("特肖合集（家野四肖）</font><br>");
+document.writeln("多人来料【稳赚八肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -92,14 +92,16 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln(""); 
 document.writeln("");
 
-document.writeln("325期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴<span style=\'background-color: #FFFF00\'>虎</span>】开虎04√<br>");
-document.writeln("326期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马狗<span style=\'background-color: #FFFF00\'>猪</span>】开猪19√<br>");
-document.writeln("327期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>蛇</span>猴虎兔】开蛇37√<br>");
-document.writeln("328期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
-document.writeln("329期【<span style=\'background-color: #FFFF00\'>家禽</span>：羊<span style=\'background-color: #FFFF00\'>牛</span>鸡猪】开牛17√<br>");
-document.writeln("330期【野兽：龙猴虎鼠】开马36×<br>");
-document.writeln("331期【家禽：牛羊马兔】开龙26×<br>");
-document.writeln("332期【62827.com 查看】开？00√<br>");
+document.writeln("325期家【牛狗鸡猪】野【<span style=\'background-color: #FFFF00\'>虎</span>鼠龙蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("326期家【狗鸡马<span style=\'background-color: #FFFF00\'>猪</span>】野【龙蛇鼠猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("327期家【鸡马狗牛】野【<span style=\'background-color: #FFFF00\'>蛇</span>虎猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("328期家【马羊鸡狗】野【鼠蛇虎<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("329期家【<span style=\'background-color: #FFFF00\'>牛</span>狗马猪】野【虎蛇鼠猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("330期家【牛<span style=\'background-color: #FFFF00\'>马</span>羊狗】野【猴兔蛇龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("331期家【鸡羊牛马】野【兔虎蛇<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("332期家【马猪羊牛】野【龙鼠兔虎】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

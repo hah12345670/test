@@ -102,7 +102,9 @@ document.writeln("331期家【鸡羊牛马】野【兔虎蛇<span style=\'backgr
 
 document.writeln("332期家【马猪羊牛】野【<span style=\'background-color: #FFFF00\'>龙</span>鼠兔虎】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("333期家【鸡马牛狗】野【龙鼠猴虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("333期家【鸡马牛狗】野【龙<span style=\'background-color: #FFFF00\'>鼠</span>猴虎】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("334期家【62827.com已更新】<font color=\"#FF0000\">√</font><br>	");
 
 
 

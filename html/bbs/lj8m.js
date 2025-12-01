@@ -104,7 +104,9 @@ document.writeln("332期家【马猪羊牛】野【<span style=\'background-colo
 
 document.writeln("333期家【鸡马牛狗】野【龙<span style=\'background-color: #FFFF00\'>鼠</span>猴虎】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("334期家【62827.com已更新】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("334期家【鸡马牛猪】野【蛇兔虎<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("335期家【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
 
 
 

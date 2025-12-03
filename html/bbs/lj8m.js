@@ -36,7 +36,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	336-340期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.<span style=\"background-color: #000000\">09</span>.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -91,7 +91,9 @@ document.writeln("335期家【<span style=\'background-color: #FFFF00\'>狗</spa
 document.writeln("336期家【<span style=\'background-color: #FFFF00\'>牛</span>羊猪鸡】野【猴鼠虎兔】<font color=\"#FF0000\">√</font><br>	");
 
 
-document.writeln("337期家【牛猪鸡羊】野【龙猴鼠兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("337期家【牛猪<span style=\'background-color: #FFFF00\'>鸡</span>羊】野【龙猴鼠兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("338期家【62827.com首页看料】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

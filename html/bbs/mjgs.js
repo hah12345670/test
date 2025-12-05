@@ -53,7 +53,9 @@ document.writeln("336期单双【双数+<span style=\'background-color: #FFFF00\
 document.writeln("337期单双【双数+<span style=\'background-color: #FFFF00\'>鸡</span>牛】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("338期单双【单数+马龙】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("339期单双【单数+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("339期单双【单数+<span style=\'background-color: #FFFF00\'>马</span>猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("340期单双【单数+虎猴】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 
@@ -93,7 +95,9 @@ document.writeln("335期家野【野兽+马猪】<font color=\"#FF0000\">×</fon
 document.writeln("336期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("337期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("338期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("339期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("339期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("340期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 document.writeln("");
@@ -125,7 +129,8 @@ document.writeln("336期天地【<span style=\'background-color: #FFFF00\'>天�
 
 document.writeln("337期天地【天肖+蛇虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("338期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("339期天地【地肖+牛猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("339期天地【地肖+牛猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("340期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -159,7 +164,8 @@ document.writeln("335期前后【前肖+马猴】<font color=\"#FF0000\">×</fon
 document.writeln("336期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("337期前后【前肖+猴猪】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("338期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("339期前后【后肖+牛鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("339期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("340期前后【前肖+羊马】<font color=\"#FF0000\">√</font><br>	");
 
 
 

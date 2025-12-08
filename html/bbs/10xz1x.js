@@ -36,12 +36,12 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">342期必中18码：</font><font color=\'#FF0000\' size=\'2\'>18.30.42.02.14.26.11.23.35.03.27.39.09.21.33.10.22.46</font></li>");
-document.writeln("            	<li>342期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">18.30.42.02.14.26.11.23.35</font></li>");
-document.writeln("            	<li>342期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-18.30.42）</font></li>");
-document.writeln("            	<li>342期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊</font></li>");
-document.writeln("            	<li>342期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊兔鸡猴</font></li>");
-document.writeln("            	<li>342期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠龙羊兔鸡猴猪狗</font></li>");
+document.writeln(" 	            <li><font size=\"2\">343期必中18码：</font><font color=\'#FF0000\' size=\'2\'>03.15.27.09.21.33.08.20.44.07.31.43.13.25.49.05.17.41</font></li>");
+document.writeln("            	<li>343期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">03.15.27.09.21.33.08.20.44</font></li>");
+document.writeln("            	<li>343期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-03.15.27）</font></li>");
+document.writeln("            	<li>343期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔鸡狗</font></li>");
+document.writeln("            	<li>343期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔鸡狗猪蛇牛</font></li>");
+document.writeln("            	<li>343期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔鸡狗猪蛇牛龙马</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

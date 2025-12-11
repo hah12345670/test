@@ -59,7 +59,8 @@ document.writeln("341期单双【<span style=\'background-color: #FFFF00\'>双�
 document.writeln("342期单双【单数+<span style=\'background-color: #FFFF00\'>虎</span>狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("343期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊猪】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("344期单双【双数+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("344期单双【<span style=\'background-color: #FFFF00\'>双数</span>+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("345期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -104,7 +105,8 @@ document.writeln("340期家野【家禽+兔<span style=\'background-color: #FFFF
 document.writeln("341期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("342期家野【家禽+兔虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("343期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("344期家野【野兽+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("344期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("345期家野【野兽+狗猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -123,7 +125,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-document.writeln("344期天地【天肖+羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("344期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("345期天地【天肖+羊虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -147,7 +150,9 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("344期前后【前肖+猪马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("344期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪马】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("345期前后【前肖+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -92,7 +92,7 @@ document.writeln("341期吉【马蛇兔羊】凶【<span style=\'background-colo
 document.writeln("342期吉【龙蛇鸡兔】凶【猴<span style=\'background-color: #FFFF00\'>虎</span>狗牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("343期吉【<span style=\'background-color: #FFFF00\'>龙</span>马鸡羊】凶【鼠虎猴牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("344期吉【马羊<span style=\'background-color: #FFFF00\'>兔</span>鸡】凶【鼠牛猪虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("345期吉【62827.com首页看料】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("345期吉【蛇兔马羊】凶【虎狗牛鼠】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

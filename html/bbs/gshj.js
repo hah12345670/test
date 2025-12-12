@@ -36,7 +36,8 @@ document.writeln("341期王者六肖【蛇<span style=\'background-color: #FFFF0
 document.writeln("342期王者六肖【兔<span style=\'background-color: #FFFF00\'>虎</span>马狗猴牛】√<br>");
 document.writeln("343期王者六肖【兔猴虎<span style=\'background-color: #FFFF00\'>龙</span>马狗】√<br>");
 document.writeln("344期王者六肖【马蛇狗猪牛龙】×<br>");
-document.writeln("345期王者六肖【猪鸡狗羊虎蛇】√<br>");
+document.writeln("345期王者六肖【猪鸡狗羊虎蛇】×<br>");
+document.writeln("346期王者六肖【虎牛马猪龙兔】√<br>");
 
 
 
@@ -71,7 +72,8 @@ document.writeln("339-340期￥狗羊猴鼠虎<span style=\'background-color: #F
 document.writeln("340-341期￥猴牛狗<span style=\'background-color: #FFFF00\'>虎</span>马猪龙￥340期√<br>");
 document.writeln("341-342期￥猴狗马<span style=\'background-color: #FFFF00\'>鼠</span>牛龙兔￥341期√<br>");
 document.writeln("342-343期￥兔羊<span style=\'background-color: #FFFF00\'>龙</span>蛇鼠马猪￥343期√<br>");
-document.writeln("344-345期￥羊虎猪猴马狗龙￥000期√<br>");
+document.writeln("344-345期￥羊虎猪猴<span style=\'background-color: #FFFF00\'>马</span>狗龙￥345期√<br>");
+document.writeln("346-347期￥马兔羊蛇猴狗龙￥000期√<br>");
 
 
 document.writeln("	");
@@ -104,7 +106,8 @@ document.writeln("342期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("343期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>蛇猴虎】开龙38√<br>");
 
 document.writeln("344期【家禽：鸡牛狗猪】开兔27×<br>");
-document.writeln("345期【家禽：牛鸡马狗】开？00√<br>");
+document.writeln("345期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛鸡<span style=\'background-color: #FFFF00\'>马</span>狗】开马24√<br>");
+document.writeln("346期【家禽：牛马鸡狗】开？00√<br>");
 
 
 
@@ -138,7 +141,8 @@ document.writeln("341期【牛羊虎猴狗蛇<span style=\'background-color: #FF
 document.writeln("342期【兔猴蛇鼠马鸡狗猪羊】开虎04×<br>");
 document.writeln("343期【鼠牛狗蛇马兔鸡<span style=\'background-color: #FFFF00\'>龙</span>猴】开龙38√<br>");
 document.writeln("344期【马虎鼠龙狗猪猴牛蛇】开兔27×<br>");
-document.writeln("345期【兔鸡马羊狗猴鼠猪蛇】开？00√<br>");
+document.writeln("345期【兔鸡<span style=\'background-color: #FFFF00\'>马</span>羊狗猴鼠猪蛇】开马24√<br>");
+document.writeln("346期【狗猪龙鸡马猴虎鼠蛇】开？00√<br>");
 
 
 

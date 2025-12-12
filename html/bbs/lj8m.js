@@ -52,6 +52,16 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	346-350期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -92,7 +102,8 @@ document.writeln("341期吉【马蛇兔羊】凶【<span style=\'background-colo
 document.writeln("342期吉【龙蛇鸡兔】凶【猴<span style=\'background-color: #FFFF00\'>虎</span>狗牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("343期吉【<span style=\'background-color: #FFFF00\'>龙</span>马鸡羊】凶【鼠虎猴牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("344期吉【马羊<span style=\'background-color: #FFFF00\'>兔</span>鸡】凶【鼠牛猪虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("345期吉【蛇兔马羊】凶【虎狗牛鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("345期吉【蛇兔<span style=\'background-color: #FFFF00\'>马</span>羊】凶【虎狗牛鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("346期吉【62827.com首页看料】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

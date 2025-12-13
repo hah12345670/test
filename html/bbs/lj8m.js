@@ -57,7 +57,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	346-350期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.<span style=\"background-color: #000000\">13</span>.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -96,9 +96,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("347期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
+document.writeln("348期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("【虎04-马24-羊47-鸡21-狗20-猴10】</font><br><br>");
+document.writeln("【62827.com高手榜看料】</font><br><br>");
+
 
 document.writeln("346期:<font color=\"#0000FF\"> 【六肖六码】</font>开:兔03对<br>");
 document.writeln("<font color=\"#FF0000\">");

@@ -98,7 +98,7 @@ document.writeln("");
 
 document.writeln("348期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("【62827.com高手榜看料】</font><br><br>");
+document.writeln("【虎40-兔15-蛇25-羊47-鸡21-牛41】</font><br><br>");
 
 
 document.writeln("346期:<font color=\"#0000FF\"> 【六肖六码】</font>开:兔03对<br>");

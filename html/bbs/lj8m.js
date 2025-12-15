@@ -93,12 +93,15 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
 document.writeln("");
-document.writeln("");
-document.writeln("");
 
-document.writeln("348期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
+
+document.writeln("349期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("【虎40-兔15-蛇25-羊47-鸡21-牛41】</font><br><br>");
+document.writeln("【62827.com高手榜查看】</font><br><br>");
+
+document.writeln("348期:<font color=\"#0000FF\"> 【六肖六码】</font>开:虎16对<br>");
+document.writeln("<font color=\"#FF0000\">");
+document.writeln("【<span style=\'background-color: #FFFF00\'>虎</span>40-兔15-蛇25-羊47-鸡21-牛41】</font><br><br>");
 
 
 document.writeln("346期:<font color=\"#0000FF\"> 【六肖六码】</font>开:兔03对<br>");

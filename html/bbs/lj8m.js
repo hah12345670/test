@@ -86,7 +86,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("小咪呜姐【六肖六码】</font><br>");
+document.writeln("赚点小钱【两面投资】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -95,52 +95,13 @@ document.writeln(" ");
 document.writeln("");
 
 
-document.writeln("349期:<font color=\"#0000FF\"> 【六肖六码】</font>开:？00对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【鼠18-鸡33-牛05-龙26-羊11-狗20】</font><br><br>");
+document.writeln("345期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">468尾</font><br>");
+document.writeln("346期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>3</span>59尾</font><br>");
+document.writeln("347期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">579尾</font><br>");
+document.writeln("348期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">0<span style=\'background-color: #FFFF00\'>6</span>8尾</font><br>");
+document.writeln("349期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>2</span>86尾</font><br>");
+document.writeln("350期【双数】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">268尾</font><br>");
 
-document.writeln("348期:<font color=\"#0000FF\"> 【六肖六码】</font>开:虎16对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【<span style=\'background-color: #FFFF00\'>虎</span>40-兔15-蛇25-羊47-鸡21-牛41】</font><br><br>");
-
-
-document.writeln("346期:<font color=\"#0000FF\"> 【六肖六码】</font>开:兔03对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【羊11-狗20-蛇49-龙02-马12-<span style=\'background-color: #FFFF00\'>兔</span>39】</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("345期:<font color=\"#0000FF\"> 【六肖六码】</font>开:马24对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【龙38-<span style=\"background-color: #FFFF00\">马</span>12-虎40-猪31-羊11-蛇01】</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("344期:<font color=\"#0000FF\"> 【六肖六码】</font>开:兔27对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【蛇13-狗20-虎16-<span style=\"background-color: #FFFF00\">兔</span>39-龙14-猪43】</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("343期:<font color=\"#0000FF\"> 【六肖六码】</font>开:龙38对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【羊23-<span style=\"background-color: #FFFF00\">龙</span>02-兔15-牛41-鼠18-猪31】</font><br><br>");
-document.writeln("");
-document.writeln("342期:<font color=\"#0000FF\"> 【六肖六码】</font>开:虎04对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【猴10-猪43-鸡21-<span style=\"background-color: #FFFF00\">虎04</span>-龙38-羊11】</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("341期:<font color=\"#0000FF\"> 【六肖六码】</font>开:鼠06对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【牛41-蛇25-羊23-猪31-虎04-<span style=\"background-color: #FFFF00\">鼠</span>42】</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("340期:<font color=\"#0000FF\"> 【六肖六码】</font>开:虎16对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【狗20-<span style=\"background-color: #FFFF00\">虎</span>04-牛41-鼠30-羊11-马36】</font><br><br>");
-document.writeln("");
-document.writeln("339期:<font color=\"#0000FF\"> 【六肖六码】</font>开:马48对<br>");
-document.writeln("<font color=\"#FF0000\">");
-document.writeln("【狗08-鸡45-牛17-羊23-龙38-<span style=\"background-color: #FFFF00\">马</span>24】</font><br><br>");
-document.writeln("");
 
 document.writeln("");
 document.writeln("");

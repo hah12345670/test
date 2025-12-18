@@ -95,7 +95,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("赚点小钱【两面投资】</font><br>");
+document.writeln("多人来料【稳赚八肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -104,14 +104,12 @@ document.writeln(" ");
 document.writeln("");
 
 
-document.writeln("345期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">468尾</font><br>");
-document.writeln("346期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>3</span>59尾</font><br>");
-document.writeln("347期【单数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">579尾</font><br>");
-document.writeln("348期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\">0<span style=\'background-color: #FFFF00\'>6</span>8尾</font><br>");
-document.writeln("349期【双数】(投资500元<font color=\"#FF0000\">盈</font>)<font color=\"#FF0000\"><span style=\'background-color: #FFFF00\'>2</span>86尾</font><br>");
-document.writeln("350期【双数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">268尾</font><br>");
-document.writeln("351期【单数】(投资500元<font color=\"#FF0000\">亏</font>)<font color=\"#FF0000\">579尾</font><br>");
-document.writeln("352期【62827.com首页看料】(投资500元<font color=\"#FF0000\">？</font>)<font color=\"#FF0000\">来料</font><br>");
+document.writeln("347期家【牛马鸡猪】野【<span style=\'background-color: #FFFF00\'>蛇</span>兔鼠虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("348期家【鸡马羊狗】野【<span style=\'background-color: #FFFF00\'>虎</span>鼠龙兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("349期家【牛鸡狗马】野【龙<span style=\'background-color: #FFFF00\'>猴</span>蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("350期家【马猪羊狗】野【龙<span style=\'background-color: #FFFF00\'>蛇</span>兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("351期家【狗羊牛猪】野【<span style=\'background-color: #FFFF00\'>虎</span>龙鼠蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("352期家【鸡马羊狗】野【兔猴蛇龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

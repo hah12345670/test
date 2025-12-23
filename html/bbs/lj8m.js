@@ -127,7 +127,8 @@ document.writeln("352期家【鸡马羊<span style=\'background-color: #FFFF00\'
 document.writeln("353期家【牛马鸡羊】野【鼠猴龙<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("354期家【马鸡牛狗】野【龙<span style=\'background-color: #FFFF00\'>鼠</span>虎兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("355期家【<span style=\'background-color: #FFFF00\'>狗</span>猪羊马】野【龙兔猴鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("356期家【牛鸡狗羊】野【鼠虎龙猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("356期家【牛鸡狗羊】野【鼠虎龙猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("357期家【羊鸡猪狗】野【猴虎鼠龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 

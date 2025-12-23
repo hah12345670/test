@@ -117,18 +117,18 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln(" ");
 document.writeln("");
 
+document.writeln("349期吉【鸡兔马羊】凶【虎猪<span style=\'background-color: #FFFF00\'>猴</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("350期吉【鸡<span style=\'background-color: #FFFF00\'>蛇</span>羊兔】凶【牛狗虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("351期吉【羊龙兔蛇】凶【鼠猪<span style=\'background-color: #FFFF00\'>虎</span>牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("352期吉【羊鸡马兔】凶【鼠虎猪<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("353期吉【马羊<span style=\'background-color: #FFFF00\'>蛇</span>兔】凶【狗牛猴猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("354期吉【兔蛇羊龙】凶【<span style=\'background-color: #FFFF00\'>鼠</span>猪狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("355期吉【兔羊蛇马】凶【鼠猴虎<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("347期家【牛马鸡猪】野【<span style=\'background-color: #FFFF00\'>蛇</span>兔鼠虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("348期家【鸡马羊狗】野【<span style=\'background-color: #FFFF00\'>虎</span>鼠龙兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("349期家【牛鸡狗马】野【龙<span style=\'background-color: #FFFF00\'>猴</span>蛇兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("350期家【马猪羊狗】野【龙<span style=\'background-color: #FFFF00\'>蛇</span>兔猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("351期家【狗羊牛猪】野【<span style=\'background-color: #FFFF00\'>虎</span>龙鼠蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("352期家【鸡马羊<span style=\'background-color: #FFFF00\'>狗</span>】野【兔猴蛇龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("353期家【牛马鸡羊】野【鼠猴龙<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("354期家【马鸡牛狗】野【龙<span style=\'background-color: #FFFF00\'>鼠</span>虎兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("355期家【<span style=\'background-color: #FFFF00\'>狗</span>猪羊马】野【龙兔猴鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("356期家【牛鸡狗羊】野【鼠虎龙猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("357期家【羊鸡猪狗】野【猴虎鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("356期吉【<span style=\'background-color: #FFFF00\'>马</span>蛇鸡龙】凶【鼠牛虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("357期吉【<span style=\'background-color: #FFFF00\'>蛇</span>龙羊马】凶【牛鼠猪狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("358期吉【兔龙羊马】凶【猪虎狗牛】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

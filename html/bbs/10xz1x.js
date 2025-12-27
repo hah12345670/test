@@ -29,6 +29,7 @@ document.writeln("<div class=\'box\'>");
 
 
 
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
 document.writeln("	<div class=\'bizhong333-tit\'>");
@@ -36,12 +37,29 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">360期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.21.33.07.19.31.12.36.48.11.23.35.05.17.41.04.16.40</font></li>");
-document.writeln("            	<li>360期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">09.21.33.07.19.31.12.36.48.11.23.35</font></li>");
-document.writeln("            	<li>360期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-09.21.33）</font></li>");
-document.writeln("            	<li>360期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡猪马</font></li>");
-document.writeln("            	<li>360期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡猪马羊牛虎</font></li>");
-document.writeln("            	<li>360期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡猪马羊牛虎蛇狗</font></li>");
+document.writeln(" 	            <li><font size=\"2\">361期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.18.30.04.16.28.05.29.41.09.21.33.01.13.37.12.36.48</font></li>");
+document.writeln("            	<li>361期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">06.18.30.04.16.28.05.29.41</font></li>");
+document.writeln("            	<li>361期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-06.18.30）</font></li>");
+document.writeln("            	<li>361期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠虎牛</font></li>");
+document.writeln("            	<li>361期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠虎牛鸡蛇马</font></li>");
+document.writeln("            	<li>361期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠虎牛鸡蛇马羊兔</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">360期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.21.33.07.19.31.12.36.48.11.23.35.05.17.<span style=\'background-color: #FFFF00\'>41</span>.04.16.40</font></li>");
+
+document.writeln("            	<li>360期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡猪马羊<span style=\'background-color: #FFFF00\'>牛</span>虎</font></li>");
+document.writeln("            	<li>360期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡猪马羊<span style=\'background-color: #FFFF00\'>牛</span>虎蛇狗</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

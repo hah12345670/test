@@ -77,7 +77,7 @@ document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	356-360期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	361-365期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -109,28 +109,22 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("多人来料【稳赚八肖】</font><br>");
+document.writeln("【民间高手】【稳中天地】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
 document.writeln("");
+document.writeln("355期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("356期天地【地肖+<span style=\'background-color: #FFFF00\'>马</span>猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("357期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("358期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("359期天地【天肖+蛇<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("360期天地【地肖+猴<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("361期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("362期天地【天肖+鸡狗】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("349期吉【鸡兔马羊】凶【虎猪<span style=\'background-color: #FFFF00\'>猴</span>鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("350期吉【鸡<span style=\'background-color: #FFFF00\'>蛇</span>羊兔】凶【牛狗虎猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("351期吉【羊龙兔蛇】凶【鼠猪<span style=\'background-color: #FFFF00\'>虎</span>牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("352期吉【羊鸡马兔】凶【鼠虎猪<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("353期吉【马羊<span style=\'background-color: #FFFF00\'>蛇</span>兔】凶【狗牛猴猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("354期吉【兔蛇羊龙】凶【<span style=\'background-color: #FFFF00\'>鼠</span>猪狗猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("355期吉【兔羊蛇马】凶【鼠猴虎<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("356期吉【<span style=\'background-color: #FFFF00\'>马</span>蛇鸡龙】凶【鼠牛虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("357期吉【<span style=\'background-color: #FFFF00\'>蛇</span>龙羊马】凶【牛鼠猪狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("358期吉【兔龙羊马】凶【<span style=\'background-color: #FFFF00\'>猪</span>虎狗牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("359期吉【马鸡兔蛇】凶【牛虎鼠猪】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("360期吉【蛇马龙羊】凶【鼠猴狗<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("361期吉【鸡羊龙兔】凶【猪猴牛虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 

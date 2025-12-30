@@ -18,8 +18,7 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("363期王者六肖【兔狗鼠猪羊鸡】√<br>");
-
+document.writeln("364期王者六肖【马兔鼠猪鸡牛】√<br>");
 
 
 document.writeln("		");
@@ -47,12 +46,6 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("339-340期￥狗羊猴鼠虎<span style=\'background-color: #FFFF00\'>马</span>鸡￥339期√<br>");
-document.writeln("340-341期￥猴牛狗<span style=\'background-color: #FFFF00\'>虎</span>马猪龙￥340期√<br>");
-document.writeln("341-342期￥猴狗马<span style=\'background-color: #FFFF00\'>鼠</span>牛龙兔￥341期√<br>");
-document.writeln("342-343期￥兔羊<span style=\'background-color: #FFFF00\'>龙</span>蛇鼠马猪￥343期√<br>");
-document.writeln("344-345期￥羊虎猪猴<span style=\'background-color: #FFFF00\'>马</span>狗龙￥345期√<br>");
-document.writeln("346-347期￥马<span style=\'background-color: #FFFF00\'>兔</span>羊蛇猴狗龙￥346期√<br>");
 
 document.writeln("349-350期￥狗猪龙蛇鸡鼠<span style=\'background-color: #FFFF00\'>猴</span>￥349期√<br>");
 document.writeln("350-351期￥猪<span style=\'background-color: #FFFF00\'>蛇</span>牛羊龙鼠虎￥350期√<br>");
@@ -65,7 +58,8 @@ document.writeln("357-358期￥马龙羊狗<span style=\'background-color: #FFFF
 document.writeln("359-360期￥鼠马鸡<span style=\'background-color: #FFFF00\'>牛</span>狗蛇兔￥360期√<br>");
 document.writeln("261-262期￥鼠鸡<span style=\'background-color: #FFFF00\'>马</span>蛇虎羊猪￥361期√<br>");
 document.writeln("362-363期￥牛狗龙蛇鼠<span style=\'background-color: #FFFF00\'>羊</span>鸡￥362期√<br>");
-document.writeln("363-364期￥龙牛羊鸡鼠蛇猴￥000期√<br>");
+document.writeln("363-364期￥<span style=\'background-color: #FFFF00\'>龙</span>牛羊鸡鼠蛇猴￥363期√<br>");
+document.writeln("364-365期￥马虎鸡蛇狗猪龙￥000期√<br>");
 
 
 
@@ -117,7 +111,8 @@ document.writeln("359期【野兽：龙虎猴兔】开羊11×<br>");
 document.writeln("360期【<span style=\'background-color: #FFFF00\'>家禽</span>：狗猪马羊】开牛41√<br>");
 document.writeln("361期【野兽：猴虎蛇兔】开马24×<br>");
 document.writeln("362期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>羊</span>鸡猪狗】开羊23√<br>");
-document.writeln("363期【家禽：牛猪狗羊】开？00√<br>");
+document.writeln("363期【家禽：牛猪狗羊】开龙26×<br>");
+document.writeln("364期【野兽：虎龙蛇猴】开？00√<br>");
 
 
 
@@ -146,7 +141,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("363期【猴羊马蛇鼠鸡龙狗牛】开？00√<br>");
+document.writeln("363期【猴羊马蛇鼠鸡<span style=\'background-color: #FFFF00\'>龙</span>狗牛】开龙26√<br>");
+document.writeln("364期【猪猴鼠鸡狗马虎羊牛】开？00√<br>");
 
 
 

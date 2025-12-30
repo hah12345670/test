@@ -79,7 +79,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	361-365期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -123,7 +123,9 @@ document.writeln("358期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("359期天地【天肖+蛇<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("360期天地【地肖+猴<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("361期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("362期天地【天肖+鸡狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("362期天地【天肖+鸡狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("363期天地【地肖+牛猴】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

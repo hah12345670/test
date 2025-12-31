@@ -109,23 +109,19 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【民间高手】【稳中天地】</font><br>");
+document.writeln("【高冷王子】(3+1肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
 document.writeln("");
-document.writeln("355期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("356期天地【地肖+<span style=\'background-color: #FFFF00\'>马</span>猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("357期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("358期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("359期天地【天肖+蛇<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("360期天地【地肖+猴<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("361期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("362期天地【天肖+鸡狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("363期天地【地肖+牛猴】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln(" 358期马<span style=\'background-color: #FFFF00\'>猪</span>虎+兔<br><br>");
+document.writeln(" 359期龙马<span style=\'background-color: #FFFF00\'>羊</span>+猪<br><br>");
+document.writeln(" 361期<span style=\'background-color: #FFFF00\'>马</span>狗虎+羊<br><br>");
+document.writeln(" 362期<span style=\'background-color: #FFFF00\'>羊</span>龙兔+鸡<br><br>");
+document.writeln(" 363期<span style=\'background-color: #FFFF00\'>龙</span>蛇猴+鸡<br><br>");
+document.writeln(" 364期狗羊鼠+牛<br><br>");
 
 
 

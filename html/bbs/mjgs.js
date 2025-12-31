@@ -57,7 +57,8 @@ document.writeln("360期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("361期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鸡兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("362期单双【双数+蛇兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("363期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("364期单双【双数+猪鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("364期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("365期单双【双数+牛羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -88,7 +89,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-document.writeln("364期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("364期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("365期家野【家禽+蛇猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -116,7 +118,8 @@ document.writeln("360期天地【地肖+猴<span style=\'background-color: #FFFF
 document.writeln("361期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("362期天地【天肖+鸡狗】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("363期天地【地肖+牛猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("364期天地【天肖+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("364期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("365期天地【地肖+牛龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -143,7 +146,8 @@ document.writeln("");
 
 
 document.writeln("363期前后【后肖+蛇<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("364期前后【后肖+虎龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("364期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("365期前后【前肖+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

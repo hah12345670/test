@@ -121,7 +121,7 @@ document.writeln(" 359期龙马<span style=\'background-color: #FFFF00\'>羊</sp
 document.writeln(" 361期<span style=\'background-color: #FFFF00\'>马</span>狗虎+羊<br><br>");
 document.writeln(" 362期<span style=\'background-color: #FFFF00\'>羊</span>龙兔+鸡<br><br>");
 document.writeln(" 363期<span style=\'background-color: #FFFF00\'>龙</span>蛇猴+鸡<br><br>");
-document.writeln(" 364期狗羊鼠+牛<br><br>");
+document.writeln(" 365期兔马虎+狗<br><br>");
 
 
 

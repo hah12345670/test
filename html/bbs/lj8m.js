@@ -84,6 +84,16 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	001-005期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 
 document.writeln("");
@@ -109,20 +119,32 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【高冷王子】(3+1肖)</font><br>");
+document.writeln("【六合路人】(五期二肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
+document.writeln(" <b><font size=\"4\">001-005期</font><font color=\"#FF0000\" size=\"5\">（牛羊）</font><font size=\"4\">中000期<br><br>");
+document.writeln("                                                            ");
+document.writeln(" <b><font size=\"4\">365-004期</font><font color=\"#FF0000\" size=\"5\">（牛<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中365期<br><br>");
+document.writeln("                                                      ");
+document.writeln(" <b><font size=\"4\">364-003期</font><font color=\"#FF0000\" size=\"5\">（<span style=\"background-color: #FFFF00\">马</span>羊）</font><font size=\"4\">中364期<br><br>");
+document.writeln("                                                  ");
+document.writeln(" <b><font size=\"4\">363-002期</font><font color=\"#FF0000\" size=\"5\">（马<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中363期<br><br>");
+document.writeln("                                        ");
+document.writeln(" <b><font size=\"4\">362-001期</font><font color=\"#FF0000\" size=\"5\">（<span style=\"background-color: #FFFF00\">羊</span>虎）</font><font size=\"4\">中362期<br><br>");
+document.writeln("              ");
+document.writeln("                              ");
+document.writeln(" <b><font size=\"4\">360-364期</font><font color=\"#FF0000\" size=\"5\">（蛇<span style=\"background-color: #FFFF00\">马</span>）</font><font size=\"4\">中361期<br><br>");
+document.writeln("                       ");
+document.writeln(" <b><font size=\"4\">359-363期</font><font color=\"#FF0000\" size=\"5\">（虎<span style=\"background-color: #FFFF00\">羊</span>）</font><font size=\"4\">中359期<br><br>");
+document.writeln("   ");
+document.writeln(" <b><font size=\"4\">357-361期</font><font color=\"#FF0000\" size=\"5\">（龙<span style=\"background-color: #FFFF00\">猪</span>）</font><font size=\"4\">中358期<br><br>");
 document.writeln("");
-document.writeln(" 358期马<span style=\'background-color: #FFFF00\'>猪</span>虎+兔<br><br>");
-document.writeln(" 359期龙马<span style=\'background-color: #FFFF00\'>羊</span>+猪<br><br>");
-document.writeln(" 361期<span style=\'background-color: #FFFF00\'>马</span>狗虎+羊<br><br>");
-document.writeln(" 362期<span style=\'background-color: #FFFF00\'>羊</span>龙兔+鸡<br><br>");
-document.writeln(" 363期<span style=\'background-color: #FFFF00\'>龙</span>蛇猴+鸡<br><br>");
-document.writeln(" 365期兔马虎+狗<br><br>");
-
+document.writeln("               ");
+document.writeln(" <b><font size=\"4\">353-357期</font><font color=\"#FF0000\" size=\"5\">（虎<span style=\"background-color: #FFFF00\">马</span>）</font><font size=\"4\">中356期<br><br>");
+document.writeln("");
 
 
 

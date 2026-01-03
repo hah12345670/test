@@ -127,8 +127,11 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln(" ");
 
 document.writeln(" ");
-document.writeln(" <b><font size=\"4\">002-006期</font><font color=\"#FF0000\" size=\"5\">（来料）</font><font size=\"4\">中000期<br><br>");
-document.writeln("     
+document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（62827.com查看）</font><font size=\"4\">中000期<br><br>");
+document.writeln("                                                            ");
+document.writeln(" ");
+document.writeln(" <b><font size=\"4\">002-006期</font><font color=\"#FF0000\" size=\"5\">（鼠<span style=\'background-color: #FFFF00\'>猴</span>）</font><font size=\"4\">中002期<br><br>");
+document.writeln("                                                            ");
 document.writeln(" <b><font size=\"4\">001-005期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>牛</span>羊）</font><font size=\"4\">中001期<br><br>");
 document.writeln("                                                            ");
 document.writeln(" <b><font size=\"4\">365-004期</font><font color=\"#FF0000\" size=\"5\">（牛<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中365期<br><br>");

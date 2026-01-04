@@ -51,7 +51,9 @@ document.writeln("364期单双【<span style=\'background-color: #FFFF00\'>双�
 document.writeln("365期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("001期单双【双数+兔<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("002期单双【单数+虎<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("003期单双【单数+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("003期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("004期单双【双数+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -85,7 +87,8 @@ document.writeln("");
 
 
 
-document.writeln("003期家野【家禽+兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("003期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("004期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -103,7 +106,8 @@ document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【稳中天
 document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
-document.writeln("003期天地【天肖+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("004期天地【天肖+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -134,7 +138,8 @@ document.writeln("364期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("365期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("001期前后【后肖+虎龙】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("002期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("003期前后【前肖+猪狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("003期前后【前肖+猪狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("004期前后【前肖+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

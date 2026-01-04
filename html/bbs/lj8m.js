@@ -89,7 +89,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	001-005期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.<span style=\"background-color: #000000\">09</span>.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
@@ -127,13 +127,13 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln(" ");
 
 document.writeln(" ");
-document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（62827.com查看）</font><font size=\"4\">中000期<br><br>");
-document.writeln("                                                            ");
+document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（猪狗）</font><font size=\"4\">中000期<br><br>");
+
 document.writeln(" ");
 document.writeln(" <b><font size=\"4\">002-006期</font><font color=\"#FF0000\" size=\"5\">（鼠<span style=\'background-color: #FFFF00\'>猴</span>）</font><font size=\"4\">中002期<br><br>");
-document.writeln("                                                            ");
+
 document.writeln(" <b><font size=\"4\">001-005期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>牛</span>羊）</font><font size=\"4\">中001期<br><br>");
-document.writeln("                                                            ");
+
 document.writeln(" <b><font size=\"4\">365-004期</font><font color=\"#FF0000\" size=\"5\">（牛<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中365期<br><br>");
 document.writeln("                                                      ");
 document.writeln(" <b><font size=\"4\">364-003期</font><font color=\"#FF0000\" size=\"5\">（<span style=\"background-color: #FFFF00\">马</span>羊）</font><font size=\"4\">中364期<br><br>");

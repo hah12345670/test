@@ -15,38 +15,10 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（005期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（006期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		鸡马+23.35.47.07.19.31.32.44</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（002期开猴22）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猴</span></font>龙+09.21.33.07.19.43.16.40</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（364期开马12）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>猴+11.23.35.03.15.27.08.32</font></b></td>");
+document.writeln("		马蛇+08.20.44.13.25.49.23.47</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");

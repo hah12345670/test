@@ -16,11 +16,13 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		005期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（8.4.0.5.9.2.7）</font><br>");
-document.writeln("		005期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（8.4.0.5）<BR>		");
+document.writeln("		006期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（4.7.2.1.6.5.9）</font><br>");
+document.writeln("		006期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（4.7.2.1）<BR>		");
 document.writeln("		===============</font></font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
+
+
 
 
 document.writeln("	<!--gavc-->");

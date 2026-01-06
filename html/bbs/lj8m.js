@@ -40,7 +40,17 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
-
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	006-010期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("	<tr>");
@@ -71,9 +81,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
+document.writeln(" ");
+document.writeln(" <b><font size=\"4\">006-010期</font><font color=\"#FF0000\" size=\"5\">（来料）</font><font size=\"4\">中000期<br><br>");
 
 document.writeln(" ");
-document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（猪狗）</font><font size=\"4\">中000期<br><br>");
+document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>猪</span>狗）</font><font size=\"4\">中005期<br><br>");
 
 document.writeln(" ");
 document.writeln(" <b><font size=\"4\">002-006期</font><font color=\"#FF0000\" size=\"5\">（鼠<span style=\'background-color: #FFFF00\'>猴</span>）</font><font size=\"4\">中002期<br><br>");

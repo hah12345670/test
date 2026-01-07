@@ -82,7 +82,7 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
 document.writeln(" ");
-document.writeln(" <b><font size=\"4\">006-010期</font><font color=\"#FF0000\" size=\"5\">（来料）</font><font size=\"4\">中000期<br><br>");
+document.writeln(" <b><font size=\"4\">006-010期</font><font color=\"#FF0000\" size=\"5\">（鼠龙）</font><font size=\"4\">中000期<br><br>");
 
 document.writeln(" ");
 document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>猪</span>狗）</font><font size=\"4\">中005期<br><br>");

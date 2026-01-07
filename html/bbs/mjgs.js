@@ -28,35 +28,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-
-document.writeln("348期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("349期单双【单数+龙<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("350期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("351期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("352期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("353期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("354期单双【单数+<span style=\'background-color: #FFFF00\'>鼠</span>虎】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("355期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("356期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鸡猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("357期单双【双数+<span style=\'background-color: #FFFF00\'>蛇</span>兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("358期单双【<span style=\'background-color: #FFFF00\'>单数</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("359期单双【双数+兔牛】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("360期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马龙】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("361期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鸡兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("362期单双【双数+蛇兔】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("363期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("364期单双【<span style=\'background-color: #FFFF00\'>双数</span>+猪鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("365期单双【<span style=\'background-color: #FFFF00\'>双数</span>+牛羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("001期单双【双数+兔<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("002期单双【单数+虎<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("003期单双【<span style=\'background-color: #FFFF00\'>单数</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("004期单双【双数+蛇羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("005期单双【双数+鸡羊】<font color=\"#FF0000\">×</font><br>	");
-
-document.writeln("006期单双【单数+狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期单双【<span style=\'background-color: #FFFF00\'>单数</span>+狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期单双【双数+蛇牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -89,7 +62,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("006期家野【家禽+兔蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期家野【家禽+兔<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期家野【家禽+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -108,7 +82,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-document.writeln("006期天地【地肖+马兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -132,11 +107,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-
-document.writeln("004期前后【前肖+羊<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("005期前后【前肖+马羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("006期前后【前肖+狗鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期前后【后肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -75,41 +75,22 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【六合路人】(五期二肖)</font><br>");
+document.writeln("优质码友【三行中特】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
-document.writeln(" ");
-document.writeln(" <b><font size=\"4\">006-010期</font><font color=\"#FF0000\" size=\"5\">（鼠龙）</font><font size=\"4\">中000期<br><br>");
 
-document.writeln(" ");
-document.writeln(" <b><font size=\"4\">003-007期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>猪</span>狗）</font><font size=\"4\">中005期<br><br>");
-
-document.writeln(" ");
-document.writeln(" <b><font size=\"4\">002-006期</font><font color=\"#FF0000\" size=\"5\">（鼠<span style=\'background-color: #FFFF00\'>猴</span>）</font><font size=\"4\">中002期<br><br>");
-
-document.writeln(" <b><font size=\"4\">001-005期</font><font color=\"#FF0000\" size=\"5\">（<span style=\'background-color: #FFFF00\'>牛</span>羊）</font><font size=\"4\">中001期<br><br>");
-
-document.writeln(" <b><font size=\"4\">365-004期</font><font color=\"#FF0000\" size=\"5\">（牛<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中365期<br><br>");
-document.writeln("                                                      ");
-document.writeln(" <b><font size=\"4\">364-003期</font><font color=\"#FF0000\" size=\"5\">（<span style=\"background-color: #FFFF00\">马</span>羊）</font><font size=\"4\">中364期<br><br>");
-document.writeln("                                                  ");
-document.writeln(" <b><font size=\"4\">363-002期</font><font color=\"#FF0000\" size=\"5\">（马<span style=\"background-color: #FFFF00\">龙</span>）</font><font size=\"4\">中363期<br><br>");
-document.writeln("                                        ");
-document.writeln(" <b><font size=\"4\">362-001期</font><font color=\"#FF0000\" size=\"5\">（<span style=\"background-color: #FFFF00\">羊</span>虎）</font><font size=\"4\">中362期<br><br>");
-document.writeln("              ");
-document.writeln("                              ");
-document.writeln(" <b><font size=\"4\">360-364期</font><font color=\"#FF0000\" size=\"5\">（蛇<span style=\"background-color: #FFFF00\">马</span>）</font><font size=\"4\">中361期<br><br>");
-document.writeln("                       ");
-document.writeln(" <b><font size=\"4\">359-363期</font><font color=\"#FF0000\" size=\"5\">（虎<span style=\"background-color: #FFFF00\">羊</span>）</font><font size=\"4\">中359期<br><br>");
-document.writeln("   ");
-document.writeln(" <b><font size=\"4\">357-361期</font><font color=\"#FF0000\" size=\"5\">（龙<span style=\"background-color: #FFFF00\">猪</span>）</font><font size=\"4\">中358期<br><br>");
-document.writeln("");
-document.writeln("               ");
-document.writeln(" <b><font size=\"4\">353-357期</font><font color=\"#FF0000\" size=\"5\">（虎<span style=\"background-color: #FFFF00\">马</span>）</font><font size=\"4\">中356期<br><br>");
-document.writeln("");
+document.writeln("365期3.行中特【木.<span style=\'background-color: #FFFF00\'>金</span>.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("001期3.行中特【<span style=\'background-color: #FFFF00\'>水</span>.木.火】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("002期3.行中特【火.<span style=\'background-color: #FFFF00\'>水</span>.木】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("003期3.行中特【<span style=\'background-color: #FFFF00\'>火</span>.水.金】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("004期3.行中特【土.<span style=\'background-color: #FFFF00\'>木</span>.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("005期3.行中特【金.木.<span style=\'background-color: #FFFF00\'>水</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期3.行中特【土.金.<span style=\'background-color: #FFFF00\'>水</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期3.行中特【<span style=\'background-color: #FFFF00\'>金</span>.火.水】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("008期3.行中特【火.木.土】<font color=\"#FF0000\">√</font><br>	");
 
 
 

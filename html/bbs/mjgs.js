@@ -31,7 +31,9 @@ document.writeln("");
 document.writeln("006期单双【<span style=\'background-color: #FFFF00\'>单数</span>+狗猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("007期单双【双数+蛇<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("008期单双【双数+猪羊】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("009期单双【单数+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期单双【单数+龙<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("010期单双【双数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 
@@ -66,7 +68,8 @@ document.writeln("");
 document.writeln("006期家野【家禽+兔<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("007期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("008期家野【野兽+狗马】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("009期家野【野兽+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("010期家野【野兽+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -85,7 +88,9 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 
 
-document.writeln("009期天地【地肖+猪狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪狗】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("010期天地【天肖+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -111,7 +116,9 @@ document.writeln("");
 
 
 document.writeln("008期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+鼠牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("009期前后【后肖+虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期前后【后肖+<span style=\'background-color: #FFFF00\'>虎</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("010期前后【前肖+狗猪】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

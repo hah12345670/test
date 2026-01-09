@@ -89,7 +89,8 @@ document.writeln("005期天【龙猴兔<span style=\'background-color: #FFFF00\'
 document.writeln("006期天【龙猪兔猴】地【<span style=\'background-color: #FFFF00\'>蛇</span>鼠虎鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("007期天【龙<span style=\'background-color: #FFFF00\'>牛</span>猴兔】地【虎狗鼠羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("008期天【猪龙马猴】地【狗羊虎<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("009期天【牛兔龙马】地【虎鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期天【牛兔龙马】地【<span style=\'background-color: #FFFF00\'>虎</span>鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("010期天【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
 
 
 

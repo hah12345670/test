@@ -75,23 +75,21 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("优质码友【三行中特】</font><br>");
+document.writeln("多人来料【天地四肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 document.writeln(" ");
-
-document.writeln("365期3.行中特【木.<span style=\'background-color: #FFFF00\'>金</span>.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("001期3.行中特【<span style=\'background-color: #FFFF00\'>水</span>.木.火】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("002期3.行中特【火.<span style=\'background-color: #FFFF00\'>水</span>.木】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("003期3.行中特【<span style=\'background-color: #FFFF00\'>火</span>.水.金】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("004期3.行中特【土.<span style=\'background-color: #FFFF00\'>木</span>.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("005期3.行中特【金.木.<span style=\'background-color: #FFFF00\'>水</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("006期3.行中特【土.金.<span style=\'background-color: #FFFF00\'>水</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("007期3.行中特【<span style=\'background-color: #FFFF00\'>金</span>.火.水】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("008期3.行中特【火.木.土】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("001期天【兔龙<span style=\'background-color: #FFFF00\'>牛</span>猪】地【羊狗虎鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("002期天【<span style=\'background-color: #FFFF00\'>猴</span>马兔牛】地【鼠狗鸡羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("003期天【马兔猴牛】地【虎<span style=\'background-color: #FFFF00\'>鸡</span>狗鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("004期天【马猴猪兔】地【鼠<span style=\'background-color: #FFFF00\'>鸡</span>羊狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("005期天【龙猴兔<span style=\'background-color: #FFFF00\'>猪</span>】地【鼠鸡狗虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("006期天【龙猪兔猴】地【<span style=\'background-color: #FFFF00\'>蛇</span>鼠虎鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("007期天【龙<span style=\'background-color: #FFFF00\'>牛</span>猴兔】地【虎狗鼠羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("008期天【猪龙马猴】地【狗羊虎<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("009期天【牛兔龙马】地【虎鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -51,6 +51,18 @@ document.writeln("	 </font>");
 document.writeln("	</font></font></td>");
 document.writeln("  </tr>");
 document.writeln("");
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	011-015期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font></font></td>");
+document.writeln("  </tr>");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("	<tr>");
@@ -90,7 +102,9 @@ document.writeln("006期天【龙猪兔猴】地【<span style=\'background-colo
 document.writeln("007期天【龙<span style=\'background-color: #FFFF00\'>牛</span>猴兔】地【虎狗鼠羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("008期天【猪龙马猴】地【狗羊虎<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("009期天【牛兔龙马】地【<span style=\'background-color: #FFFF00\'>虎</span>鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("010期天【猪马龙兔】地【羊狗蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("010期天【猪马龙<span style=\'background-color: #FFFF00\'>兔</span>】地【羊狗蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("011期天【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 

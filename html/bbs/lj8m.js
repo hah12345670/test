@@ -103,7 +103,8 @@ document.writeln("007期天【龙<span style=\'background-color: #FFFF00\'>牛</
 document.writeln("008期天【猪龙马猴】地【狗羊虎<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("009期天【牛兔龙马】地【<span style=\'background-color: #FFFF00\'>虎</span>鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("010期天【猪马龙<span style=\'background-color: #FFFF00\'>兔</span>】地【羊狗蛇虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("011期天【猪牛龙马】地【狗虎鸡羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("011期天【猪牛龙马】地【狗虎鸡<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("012期天【龙兔猪马】地【羊鸡狗蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 

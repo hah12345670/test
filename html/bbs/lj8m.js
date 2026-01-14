@@ -106,7 +106,7 @@ document.writeln("010期天【猪马龙<span style=\'background-color: #FFFF00\'
 document.writeln("011期天【猪牛龙马】地【狗虎鸡<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("012期天【龙兔猪马】地【<span style=\'background-color: #FFFF00\'>羊</span>鸡狗蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("013期天【猪兔龙猴】地【狗<span style=\'background-color: #FFFF00\'>蛇</span>鸡虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("014期天【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("014期天【龙马兔牛】地【蛇羊鼠狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -36,12 +36,31 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">016期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.35.47.03.15.27.04.16.28.06.18.30.07.19.31.21.33.45</font></li>");
-document.writeln("            	<li>016期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">11.35.47.03.15.27.04.16.28</font></li>");
-document.writeln("            	<li>016期必中①肖：<font color=\'#FF0000\' size=\'5\'>（羊-11.35.47）</font></li>");
-document.writeln("            	<li>016期必中③肖：<font color=\'#FF0000\' size=\'4\'>羊兔虎</font></li>");
-document.writeln("            	<li>016期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>羊兔虎鼠猪鸡</font></li>");
-document.writeln("            	<li>016期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>羊兔虎鼠猪鸡狗马</font></li>");
+document.writeln(" 	            <li><font size=\"2\">017期必中18码：</font><font color=\'#FF0000\' size=\'2\'>06.30.42.12.36.48.09.21.45.13.25.49.07.19.31.11.23.47</font></li>");
+document.writeln("            	<li>017期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">06.30.42.12.36.48.09.21.45</font></li>");
+document.writeln("            	<li>017期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-06.30.42）</font></li>");
+document.writeln("            	<li>017期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠马鸡</font></li>");
+document.writeln("            	<li>017期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠马鸡蛇猪羊</font></li>");
+document.writeln("            	<li>017期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠马鸡蛇猪羊狗牛</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">016期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.35.47.03.15.27.04.16.28.<span style=\'background-color: #FFFF00\'>06</span>.18.30.07.19.31.21.33.45</font></li>");
+
+document.writeln("            	<li>016期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>羊兔虎<span style=\'background-color: #FFFF00\'>鼠</span>猪鸡</font></li>");
+document.writeln("            	<li>016期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>羊兔虎<span style=\'background-color: #FFFF00\'>鼠</span>猪鸡狗马</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
@@ -122,85 +141,6 @@ document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
-
-
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-
-document.writeln("            	<li>010期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>兔</span>龙</font></li>");
-document.writeln("            	<li>010期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>兔</span>龙羊狗鼠</font></li>");
-document.writeln("            	<li>010期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡<span style=\'background-color: #FFFF00\'>兔</span>龙羊狗鼠牛马</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">009期必中18码：</font><font color=\'#FF0000\' size=\'2\'>02.14.38.04.16.<span style=\'background-color: #FFFF00\'>28</span>.12.24.36.07.19.31.13.25.49.11.23.47</font></li>");
-document.writeln("            	<li>009期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">02.14.38.04.16.<span style=\'background-color: #FFFF00\'>28</span>.12.24.36</font></li>");
-document.writeln("            	<li>009期必中①肖：<font color=\'#FF0000\' size=\'5\'>（龙-02.14.38）</font></li>");
-document.writeln("            	<li>009期必中③肖：<font color=\'#FF0000\' size=\'4\'>龙<span style=\'background-color: #FFFF00\'>虎</span>马</font></li>");
-document.writeln("            	<li>009期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>龙<span style=\'background-color: #FFFF00\'>虎</span>马猪蛇羊</font></li>");
-document.writeln("            	<li>009期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>龙<span style=\'background-color: #FFFF00\'>虎</span>马猪蛇羊鼠鸡</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">008期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.23.35.03.15.27.12.36.48.05.29.41.10.22.34.09.<span style=\'background-color: #FFFF00\'>21</span>.45</font></li>");
-
-document.writeln("            	<li>008期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>羊兔马牛猴<span style=\'background-color: #FFFF00\'>鸡</span></font></li>");
-document.writeln("            	<li>008期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>羊兔马牛猴<span style=\'background-color: #FFFF00\'>鸡</span>龙虎</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
-document.writeln("<!--必中每期开始-->");
-document.writeln("<div class=\'bizhong333\'>");
-document.writeln("	<div class=\'bizhong333-tit\'>");
-document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
-document.writeln("	<div class=\'bizhong333-box\'>");
-document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
-document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">007期必中18码：</font><font color=\'#FF0000\' size=\'2\'>25.37.49.04.16.40.05.29.<span style=\'background-color: #FFFF00\'>41</span>.03.15.27.11.23.35.08.20.44</font></li>");
-document.writeln("            	<li>007期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">25.37.49.04.16.40.05.29.<span style=\'background-color: #FFFF00\'>41</span></font></li>");
-document.writeln("            	<li>007期必中①肖：<font color=\'#FF0000\' size=\'5\'>（蛇-25.37.49）</font></li>");
-document.writeln("            	<li>007期必中③肖：<font color=\'#FF0000\' size=\'4\'>蛇虎<span style=\'background-color: #FFFF00\'>牛</span></font></li>");
-document.writeln("            	<li>007期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>蛇虎<span style=\'background-color: #FFFF00\'>牛</span>兔羊狗</font></li>");
-document.writeln("            	<li>007期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>蛇虎<span style=\'background-color: #FFFF00\'>牛</span>兔羊狗马猴猪</font></li>");
-document.writeln(" </ul>");
-document.writeln("        </div>");
-document.writeln("        </div>");
-document.writeln("");
-document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");
-
 
 
 

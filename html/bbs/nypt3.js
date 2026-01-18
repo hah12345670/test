@@ -17,9 +17,12 @@ document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadding=\'0\'>");
 document.writeln("  <tbody>");
 
+
+
+
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">017期平特3.码<font color=\"#008000\">【马24.36.48】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">018期平特3.码<font color=\"#008000\">【马12.36.48】</font>开:00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

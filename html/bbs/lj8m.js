@@ -18,44 +18,11 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	361-365期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45");
-document.writeln("	 </font>");
-document.writeln("	</font></font></td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("      <tr>");
-document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
-document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	001-005期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.<span style=\"background-color: #000000\">09</span>.13.23.25.38.44.<span style=\"background-color: #000000\">45</span>");
-document.writeln("	 </font>");
-document.writeln("	</font></font></td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("      <tr>");
-document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
-document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	006-010期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.<span style=\"background-color: #000000\">13</span>.23.25.38.44.45");
-document.writeln("	 </font>");
-document.writeln("	</font></font></td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("      <tr>");
-document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
-document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	016-020期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	021-025期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -112,7 +79,8 @@ document.writeln("016期单【兔鸡牛猪】双【<span style=\'background-colo
 document.writeln("017期单【鸡猪蛇羊】双【鼠<span style=\'background-color: #FFFF00\'>狗</span>猴马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("018期单【<span style=\'background-color: #FFFF00\'>兔</span>蛇鸡猪】双【狗虎鼠猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("019期单【猪蛇羊兔】双【虎鼠<span style=\'background-color: #FFFF00\'>猪</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("020期单【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("020期单【兔鸡蛇羊】双【鼠猴<span style=\'background-color: #FFFF00\'>马</span>狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("021期单【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
 
 
 

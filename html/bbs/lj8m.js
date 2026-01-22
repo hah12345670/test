@@ -81,7 +81,7 @@ document.writeln("018期单【<span style=\'background-color: #FFFF00\'>兔</spa
 document.writeln("019期单【猪蛇羊兔】双【虎鼠<span style=\'background-color: #FFFF00\'>猪</span>狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("020期单【兔鸡蛇羊】双【鼠猴<span style=\'background-color: #FFFF00\'>马</span>狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("021期单【羊牛蛇鸡】双【龙虎马<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("022期单【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("022期单【羊兔鸡牛】双【马龙猴狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

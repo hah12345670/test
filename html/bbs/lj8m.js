@@ -22,7 +22,7 @@ document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	021-025期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	026-030期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -88,8 +88,14 @@ document.writeln("13.09.04.<span style=\'background-color: #FFFF00\'>47</span>.2
 
 
 document.writeln("025期<br>");
-document.writeln("41.23.03.37.42.39<br>");
+document.writeln("41.23.03.<span style=\'background-color: #FFFF00\'>37</span>.42.39<br>");
 document.writeln("24.48.19.05.45.13<br>");
+
+
+document.writeln("026期<br>");
+document.writeln("62827.com首页<br>");
+document.writeln("查看来料<br>");
+
 
 
 

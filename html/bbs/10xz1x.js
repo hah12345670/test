@@ -28,6 +28,25 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">026期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.31.43.08.20.32.05.17.41.06.18.42.09.21.33.03.15.27</font></li>");
+document.writeln("            	<li>026期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.31.43.08.20.32.05.17.41</font></li>");
+document.writeln("            	<li>026期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-07.31.43）</font></li>");
+document.writeln("            	<li>026期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛</font></li>");
+document.writeln("            	<li>026期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛鼠鸡兔</font></li>");
+document.writeln("            	<li>026期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪狗牛鼠鸡兔羊蛇</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -36,12 +55,9 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">025期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.27.39.08.20.32.09.21.33.11.23.47.04.16.28.12.24.36</font></li>");
-document.writeln("            	<li>025期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">15.27.39.08.20.32.09.21.33</font></li>");
-document.writeln("            	<li>025期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-15.27.39）</font></li>");
-document.writeln("            	<li>025期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡</font></li>");
+
 document.writeln("            	<li>025期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡羊虎马</font></li>");
-document.writeln("            	<li>025期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡羊虎马龙蛇</font></li>");
+document.writeln("            	<li>025期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔狗鸡羊虎马龙<span style=\'background-color: #FFFF00\'>蛇</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

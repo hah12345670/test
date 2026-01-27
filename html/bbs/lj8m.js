@@ -93,9 +93,14 @@ document.writeln("24.48.19.05.45.13<br>");
 
 
 document.writeln("026期<br>");
-document.writeln("46.24.19.49.21.13<br>");
+document.writeln("46.24.<span style=\'background-color: #FFFF00\'>19</span>.49.21.13<br>");
 document.writeln("10.29.33.26.41.06<br>");
 
+
+
+document.writeln("027期<br>");
+document.writeln("62827.com首页<br>");
+document.writeln("查看来料<br>");
 
 
 

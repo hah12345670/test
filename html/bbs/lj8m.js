@@ -99,8 +99,8 @@ document.writeln("10.29.33.26.41.06<br>");
 
 
 document.writeln("027期<br>");
-document.writeln("62827.com首页<br>");
-document.writeln("查看来料<br>");
+document.writeln("49.04.28.03.06.09<br>");
+document.writeln("15.01.31.18.33.17<br>");
 
 
 

@@ -17,20 +17,21 @@ document.writeln("");
 document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	026-030期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.13.23.25.38.44.<span style=\"background-color: #000000\">45");
+document.writeln("	 </span>");
 document.writeln("	 </font>");
-document.writeln("	</font></font></td>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -62,48 +63,48 @@ document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</
 document.writeln("018期<br>");
 document.writeln("46.21.08.13.14.33<br>");
 document.writeln("<span style=\'background-color: #FFFF00\'>39</span>.37.18.07.47.06<br>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("019期<br>");
 document.writeln("36.29.42.12.11.23<br>");
 document.writeln("43.16.<span style=\'background-color: #FFFF00\'>46</span>.04.49.03<br>");
-
+document.writeln("");
 document.writeln("020期<br>");
 document.writeln("24.02.13.09.25.44<br>");
 document.writeln("03.38.33.30.<span style=\'background-color: #FFFF00\'>12</span>.26<br>");
-
+document.writeln("");
 document.writeln("021期<br>");
 document.writeln("48.32.<span style=\'background-color: #FFFF00\'>42</span>.25.05.49<br>");
 document.writeln("40.15.06.12.38.16<br>");
-
+document.writeln("");
 document.writeln("022期<br>");
 document.writeln("24.12.14.36.27.<span style=\'background-color: #FFFF00\'>18</span><br>");
 document.writeln("08.20.13.28.44.07<br>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("023期<br>");
 document.writeln("32.03.12.29.31.39<br>");
 document.writeln("13.09.04.<span style=\'background-color: #FFFF00\'>47</span>.27.18<br>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("025期<br>");
 document.writeln("41.23.03.<span style=\'background-color: #FFFF00\'>37</span>.42.39<br>");
 document.writeln("24.48.19.05.45.13<br>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("026期<br>");
 document.writeln("46.24.<span style=\'background-color: #FFFF00\'>19</span>.49.21.13<br>");
 document.writeln("10.29.33.26.41.06<br>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("027期<br>");
 document.writeln("49.04.28.03.06.09<br>");
 document.writeln("15.01.31.18.33.17<br>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

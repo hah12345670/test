@@ -135,7 +135,7 @@ document.writeln("026期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("027期前后【前肖+猪羊】<font color=\"#FF0000\">×</font><br>	");
 
 document.writeln("028期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+狗猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("029期前后【前肖+牛猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("029期前后【前肖+狗猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 

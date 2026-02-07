@@ -28,7 +28,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("038期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("038期单双【<span style=\'background-color: #FFFF00\'>双数</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("039期单双【单数+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -66,7 +67,8 @@ document.writeln("035期家野【<span style=\'background-color: #FFFF00\'>野�
 
 document.writeln("036期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("037期家野【野兽+马<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("038期家野【家禽+虎猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("038期家野【家禽+虎猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("039期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -91,7 +93,8 @@ document.writeln("035期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("036期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>羊】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("037期天地【地肖+牛龙】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("038期天地【地肖+龙猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("038期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("039期天地【地肖+牛猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -136,7 +139,8 @@ document.writeln("034期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("035期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("036期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("037期前后【前肖+马猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("038期前后【后肖+蛇牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("038期前后【后肖+蛇牛】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("039期前后【后肖+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 
 
 

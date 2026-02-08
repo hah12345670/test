@@ -76,8 +76,8 @@ document.writeln("034期天【<span style=\'background-color: #FFFF00\'>猪</spa
 document.writeln("035期天【龙牛马猪】地【鼠狗羊蛇】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("036期天【兔牛马猪】地【狗<span style=\'background-color: #FFFF00\'>蛇</span>虎鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("037期天【<span style=\'background-color: #FFFF00\'>猪</span>马牛龙】地【鼠羊鸡蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("038期天【龙猴牛马】地【鸡虎狗蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("");
+document.writeln("038期天【龙猴牛马】地【鸡虎狗蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("039期天【猴龙兔马】地【鼠羊蛇鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

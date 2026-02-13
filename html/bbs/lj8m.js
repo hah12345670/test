@@ -53,33 +53,30 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("实战来料【稳定九肖】</font><br>");
+document.writeln("【神经】(3肖4码)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 
 
-document.writeln("025期四季中特【<span style=\'background-color: #FFFF00\'>夏</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("026期四季中特【春秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("027期四季中特【冬<span style=\'background-color: #FFFF00\'>秋</span>春】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("028期四季中特【秋<span style=\'background-color: #FFFF00\'>春</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("029期四季中特【秋<span style=\'background-color: #FFFF00\'>夏</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("030期四季中特【春夏<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("031期四季中特【<span style=\'background-color: #FFFF00\'>春</span>秋冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("032期四季中特【春<span style=\'background-color: #FFFF00\'>冬</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("033期四季中特【<span style=\'background-color: #FFFF00\'>冬</span>夏秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("034期四季中特【夏<span style=\'background-color: #FFFF00\'>冬</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("035期四季中特【夏冬<span style=\'background-color: #FFFF00\'>春</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("036期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("037期四季中特【<span style=\'background-color: #FFFF00\'>冬</span>秋春】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("038期四季中特【夏秋<span style=\'background-color: #FFFF00\'>冬</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("039期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>冬】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("040期四季中特【夏<span style=\'background-color: #FFFF00\'>春</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("041期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("042期四季中特【冬秋夏】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("043期四季中特【冬<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("044期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("	041期蛇狗<span style=\'background-color: #FFFF00\'>马</span><br>");
+document.writeln("	28.40.06.30<br><br>");
+
+
+
+document.writeln("	042期蛇<span style=\'background-color: #FFFF00\'>虎</span>牛<br>");
+document.writeln("	06.30.31.43<br><br>");
+
+document.writeln("	043期牛<span style=\'background-color: #FFFF00\'>蛇</span>马<br>");
+document.writeln("	09.21.15.27<br><br>");
+
+document.writeln("	044期羊猴<span style=\'background-color: #FFFF00\'>猪</span><br>");
+document.writeln("	25.49.21.33<br><br>");
+
+
+document.writeln("	045期龙猴羊<br>");
+document.writeln("	04.40.25.49<br><br>");
 
 document.writeln("");
 document.writeln("");

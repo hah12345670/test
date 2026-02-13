@@ -79,7 +79,7 @@ document.writeln("040期四季中特【夏<span style=\'background-color: #FFFF0
 document.writeln("041期四季中特【春<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("042期四季中特【冬秋夏】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("043期四季中特【冬<span style=\'background-color: #FFFF00\'>夏</span>秋】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("044期四季中特【来料中】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("044期四季中特【春夏秋】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

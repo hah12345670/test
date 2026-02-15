@@ -25,11 +25,25 @@ document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weigh
 document.writeln("	041-045期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.<span style=\"background-color: #000000\">13</span>.23.25.38.44.45");
-document.writeln("	 ");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
 document.writeln("");
+
+document.writeln("");
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	046-050期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
@@ -75,8 +89,8 @@ document.writeln("	044期羊猴<span style=\'background-color: #FFFF00\'>猪</sp
 document.writeln("	25.49.21.33<br><br>");
 
 
-document.writeln("	045期龙猴羊<br>");
-document.writeln("	04.40.25.49<br><br>");
+document.writeln("	046期羊鼠猪<br>");
+document.writeln("	24.36.16.40<br><br>");
 
 document.writeln("");
 document.writeln("");

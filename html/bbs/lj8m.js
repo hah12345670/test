@@ -67,30 +67,18 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【神经】(3肖4码)</font><br>");
+document.writeln("多人来料【稳赚八肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">点击进入首页查看更多记录</font><br>");
 
+document.writeln("043期家【马狗猪鸡】野【虎<span style=\'background-color: #FFFF00\'>蛇</span>龙兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("044期家【<span style=\'background-color: #FFFF00\'>猪</span>牛羊鸡】野【猴鼠龙兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("045期家【狗牛羊马】野【兔猴<span style=\'background-color: #FFFF00\'>蛇</span>虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("046期家【羊牛马狗】野【<span style=\'background-color: #FFFF00\'>兔</span>鼠蛇猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("047期家【马鸡牛猪】野【兔鼠龙猴】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("	041期蛇狗<span style=\'background-color: #FFFF00\'>马</span><br>");
-document.writeln("	28.40.06.30<br><br>");
-
-
-
-document.writeln("	042期蛇<span style=\'background-color: #FFFF00\'>虎</span>牛<br>");
-document.writeln("	06.30.31.43<br><br>");
-
-document.writeln("	043期牛<span style=\'background-color: #FFFF00\'>蛇</span>马<br>");
-document.writeln("	09.21.15.27<br><br>");
-
-document.writeln("	044期羊猴<span style=\'background-color: #FFFF00\'>猪</span><br>");
-document.writeln("	25.49.21.33<br><br>");
-
-
-document.writeln("	046期羊鼠猪<br>");
-document.writeln("	24.36.16.40<br><br>");
 
 document.writeln("");
 document.writeln("");

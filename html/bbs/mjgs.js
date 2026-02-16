@@ -38,7 +38,8 @@ document.writeln("043期单双【双数+羊鸡】<font color=\"#FF0000\">×</fon
 document.writeln("044期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("045期单双【双数+羊猪】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("046期单双【单数+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("046期单双【<span style=\'background-color: #FFFF00\'>单数</span>+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("047期单双【双数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -76,7 +77,8 @@ document.writeln("043期家野【<span style=\'background-color: #FFFF00\'>野�
 
 document.writeln("044期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("045期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("046期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("046期家野【家禽+<span style=\'background-color: #FFFF00\'>兔</span>虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("047期家野【野兽+狗猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -104,7 +106,8 @@ document.writeln("042期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("043期天地【天肖+羊虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("044期天地【地肖+猴龙】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("045期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("046期天地【天肖+虎鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("046期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("047期天地【天肖+羊虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -128,8 +131,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-
-document.writeln("046期前后【后肖+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("047期前后【前肖+鸡猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 

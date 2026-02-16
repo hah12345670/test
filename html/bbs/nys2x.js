@@ -19,11 +19,16 @@ document.writeln("  <tbody>");
 document.writeln("");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">047期绝杀二肖:<font color=\"#FF0000\">【蛇猪】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">046期绝杀二肖:<font color=\"#FF0000\">【猴鸡】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">046期绝杀二肖:<font color=\"#FF0000\">【猴鸡】</font>开:兔03准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

@@ -31,7 +31,9 @@ document.writeln("042期王者六肖【龙猴羊狗鼠马】×<br>");
 document.writeln("043期王者六肖【<span style=\'background-color: #FFFF00\'>蛇</span>鼠猪马羊虎】√<br>");
 document.writeln("044期王者六肖【马羊猴<span style=\'background-color: #FFFF00\'>猪</span>鸡兔】√<br>");
 document.writeln("045期王者六肖【兔猴虎龙马狗】×<br>");
-document.writeln("046期王者六肖【兔虎马狗猴牛】√<br>");
+document.writeln("046期王者六肖【<span style=\'background-color: #FFFF00\'>兔</span>虎马狗猴牛】√<br>");
+document.writeln("047期王者六肖【猪鸡狗羊虎蛇】√<br>");
+
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -66,7 +68,8 @@ document.writeln("038-039期￥猴<span style=\'background-color: #FFFF00\'>鼠<
 document.writeln("039-040期￥鸡狗猴<span style=\'background-color: #FFFF00\'>羊</span>鼠龙虎￥039期√<br>");
 
 document.writeln("042-043期￥鸡猪猴狗龙<span style=\'background-color: #FFFF00\'>蛇</span>马￥043期√<br>");
-document.writeln("046-047期￥马兔蛇鼠狗鸡羊￥000期√<br>");
+document.writeln("046-047期￥马<span style=\'background-color: #FFFF00\'>兔</span>蛇鼠狗鸡羊￥046期√<br>");
+document.writeln("048-049期￥猪鼠鸡蛇羊猴马￥000期√<br>");
 
 
 document.writeln("	");
@@ -102,8 +105,9 @@ document.writeln("044期【<span style=\'background-color: #FFFF00\'>家禽</spa
 
 document.writeln("045期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>蛇</span>猴虎】开蛇01√<br>");
 
-document.writeln("046期【野兽：龙猴虎兔】开？00√<br>");
+document.writeln("046期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
 
+document.writeln("047期【家禽：牛鸡马狗】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -145,7 +149,10 @@ document.writeln("042期【鸡兔猪马猴牛龙羊<span style=\'background-colo
 document.writeln("043期【牛羊虎猴狗<span style=\'background-color: #FFFF00\'>蛇</span>鼠龙猪】开蛇13√<br>");
 document.writeln("044期【狗<span style=\'background-color: #FFFF00\'>猪</span>猴马鸡牛虎龙蛇】开猪19√<br>");
 document.writeln("045期【鼠牛狗<span style=\'background-color: #FFFF00\'>蛇</span>马兔鸡龙猴】开蛇01√<br>");
-document.writeln("046期【兔猴蛇鼠马鸡狗猪羊】开？00√<br>");
+document.writeln("046期【<span style=\'background-color: #FFFF00\'>兔</span>猴蛇鼠马鸡狗猪羊】开兔03√<br>");
+document.writeln("047期【兔鸡马羊狗猴鼠猪蛇】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

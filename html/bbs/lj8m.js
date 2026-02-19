@@ -80,7 +80,8 @@ document.writeln("046期家【羊牛马狗】野【<span style=\'background-colo
 document.writeln("047期家【马鸡牛猪】野【<span style=\'background-color: #FFFF00\'>兔</span>鼠龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("048期家【狗猪<span style=\'background-color: #FFFF00\'>羊</span>牛】野【兔龙鼠蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("049期家【<span style=\'background-color: #FFFF00\'>马</span>狗牛鸡】野【蛇猴虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("050期家【牛马鸡猪】野【蛇兔鼠虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("050期家【牛马鸡猪】野【蛇兔鼠虎】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("051期家【鸡马羊狗】野【虎鼠龙兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

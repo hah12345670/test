@@ -18,7 +18,9 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("051期王者六肖【虎鸡兔马狗龙】√<br>");
+document.writeln("051期王者六肖【虎鸡兔<span style=\'background-color: #FFFF00\'>马</span>狗龙】√<br>");
+document.writeln("052期王者六肖【龙鸡狗兔羊牛】√<br>");
+
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -55,8 +57,8 @@ document.writeln("042-043期￥鸡猪猴狗龙<span style=\'background-color: #F
 document.writeln("046-047期￥马<span style=\'background-color: #FFFF00\'>兔</span>蛇鼠狗鸡羊￥046期√<br>");
 document.writeln("047-048期￥猪鼠鸡蛇<span style=\'background-color: #FFFF00\'>羊</span>猴马￥048期√<br>");
 document.writeln("049-050期￥龙牛狗羊<span style=\'background-color: #FFFF00\'>马</span>蛇猴￥049期√<br>");
-document.writeln("050-051期￥羊马猪虎兔鼠牛￥000期√<br>");
-
+document.writeln("050-051期￥羊<span style=\'background-color: #FFFF00\'>马</span>猪虎兔鼠牛￥050期√<br>");
+document.writeln("052-053期￥龙猪虎羊鸡狗马￥000期√<br>");
 
 
 document.writeln("	");
@@ -98,8 +100,8 @@ document.writeln("047期【家禽：牛鸡马狗】开兔39×<br>");
 document.writeln("048期【家禽：鸡牛狗猪】开羊24×<br>");
 document.writeln("049期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>马</span>鸡狗】开马13√<br>");
 document.writeln("050期【家禽：牛羊马猪】开猴23×<br>");
-document.writeln("051期【野兽：猴虎鼠龙】开？00√<br>");
-
+document.writeln("051期【野兽：猴虎鼠龙】开马01×<br>");
+document.writeln("052期【野兽：龙猴虎蛇】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -145,8 +147,8 @@ document.writeln("047期【<span style=\'background-color: #FFFF00\'>兔</span>�
 document.writeln("048期【鸡狗蛇<span style=\'background-color: #FFFF00\'>羊</span>牛龙猴鼠猪】开羊24√<br>");
 document.writeln("049期【狗鸡兔蛇猴猪鼠龙<span style=\'background-color: #FFFF00\'>马</span>】开马13√<br>");
 document.writeln("050期【马蛇鼠兔牛猪龙虎鸡】开猴23×<br>");
-document.writeln("051期【猪马蛇鼠鸡牛兔狗虎】开？00√<br>");
-
+document.writeln("051期【猪<span style=\'background-color: #FFFF00\'>马</span>蛇鼠鸡牛兔狗虎】开马01√<br>");
+document.writeln("052期【马猴龙兔猪鸡羊狗虎】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

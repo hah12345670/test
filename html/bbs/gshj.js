@@ -19,8 +19,9 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 document.writeln("051期王者六肖【虎鸡兔<span style=\'background-color: #FFFF00\'>马</span>狗龙】√<br>");
-document.writeln("052期王者六肖【龙鸡狗兔羊牛】√<br>");
+document.writeln("052期王者六肖【龙鸡狗兔羊牛】×<br>");
 
+document.writeln("053期王者六肖【猪狗龙牛虎马】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -88,20 +89,10 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
+document.writeln("052期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>蛇</span>】开蛇38√<br>");
+document.writeln("053期【家禽：马羊鸡猪】开？00√<br>");
 
-document.writeln("043期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开蛇13√<br>");
-document.writeln("044期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马羊鸡】开猪19√<br>");
 
-document.writeln("045期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>蛇</span>猴虎】开蛇01√<br>");
-
-document.writeln("046期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>兔</span>】开兔03√<br>");
-
-document.writeln("047期【家禽：牛鸡马狗】开兔39×<br>");
-document.writeln("048期【家禽：鸡牛狗猪】开羊24×<br>");
-document.writeln("049期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>马</span>鸡狗】开马13√<br>");
-document.writeln("050期【家禽：牛羊马猪】开猴23×<br>");
-document.writeln("051期【野兽：猴虎鼠龙】开马01×<br>");
-document.writeln("052期【野兽：龙猴虎蛇】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -148,7 +139,11 @@ document.writeln("048期【鸡狗蛇<span style=\'background-color: #FFFF00\'>�
 document.writeln("049期【狗鸡兔蛇猴猪鼠龙<span style=\'background-color: #FFFF00\'>马</span>】开马13√<br>");
 document.writeln("050期【马蛇鼠兔牛猪龙虎鸡】开猴23×<br>");
 document.writeln("051期【猪<span style=\'background-color: #FFFF00\'>马</span>蛇鼠鸡牛兔狗虎】开马01√<br>");
-document.writeln("052期【马猴龙兔猪鸡羊狗虎】开？00√<br>");
+document.writeln("052期【马猴龙兔猪鸡羊狗虎】开蛇38×<br>");
+document.writeln("053期【蛇鼠兔猪马羊狗猴龙】开？00√<br>");
+
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

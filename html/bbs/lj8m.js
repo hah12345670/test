@@ -108,7 +108,7 @@ document.writeln("052期家【牛鸡狗马】野【龙猴<span style=\'backgroun
 document.writeln("053期家【马猪羊狗】野【<span style=\'background-color: #FFFF00\'>龙</span>蛇兔猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("054期家【狗<span style=\'background-color: #FFFF00\'>羊</span>牛猪】野【虎龙鼠蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("055期家【鸡马羊狗】野【兔猴<span style=\'background-color: #FFFF00\'>蛇</span>龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("056期家【62827.com查看来料】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("056期家【牛马鸡羊】野【鼠猴龙蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

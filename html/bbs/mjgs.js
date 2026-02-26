@@ -37,7 +37,8 @@ document.writeln("053期单双【双数+<span style=\'background-color: #FFFF00\
 document.writeln("054期单双【<span style=\'background-color: #FFFF00\'>双数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("055期单双【单数+羊<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("056期单双【<span style=\'background-color: #FFFF00\'>双数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("057期单双【双数+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期单双【双数+鼠龙】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("058期单双【单数+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -69,8 +70,7 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-
-document.writeln("057期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期家野【野兽+羊牛】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -102,7 +102,8 @@ document.writeln("053期天地【地肖+<span style=\'background-color: #FFFF00\
 document.writeln("054期天地【天肖+虎狗】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("055期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("056期天地【天肖+<span style=\'background-color: #FFFF00\'>羊</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("057期天地【天肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期天地【地肖+龙猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -128,7 +129,8 @@ document.writeln("");
 
 
 document.writeln("056期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("057期前后【后肖+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("057期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期前后【前肖+猴猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 

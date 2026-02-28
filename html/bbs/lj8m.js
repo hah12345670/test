@@ -111,7 +111,8 @@ document.writeln("055期家【鸡马羊狗】野【兔猴<span style=\'backgroun
 document.writeln("056期家【牛马鸡<span style=\'background-color: #FFFF00\'>羊</span>】野【鼠猴龙蛇】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("057期家【马鸡牛狗】野【龙鼠虎兔】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("058期家【狗猪羊马】野【龙兔猴鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("058期家【狗猪羊马】野【龙兔猴<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("059期家【62785.com 来料中】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

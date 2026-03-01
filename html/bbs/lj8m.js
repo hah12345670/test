@@ -59,7 +59,17 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	056-060期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45");
+document.writeln("	02.<span style=\"background-color: #000000\">09</span>.13.<span style=\"background-color: #000000\">23</span>.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	061-065期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
@@ -113,7 +123,8 @@ document.writeln("056期家【牛马鸡<span style=\'background-color: #FFFF00\'
 document.writeln("057期家【马鸡牛狗】野【龙鼠虎兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("058期家【狗猪羊马】野【龙兔猴<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("059期家【牛<span style=\'background-color: #FFFF00\'>鸡</span>狗羊】野【鼠虎龙兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("060期家【羊鸡猪狗】野【猴虎鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("060期家【羊鸡猪<span style=\'background-color: #FFFF00\'>狗</span>】野【猴虎鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("061期家【62785.com首页看料】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

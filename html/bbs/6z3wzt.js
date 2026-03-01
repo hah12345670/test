@@ -9,6 +9,16 @@ document.writeln("");
 document.writeln("<table border=\"1\" width=\"100%\" id=\"table400923401\">");
 document.writeln("");
 
+document.writeln("	<!--gavc-->");
+document.writeln("	<tr>");
+document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
+document.writeln("		<p align=\"left\">");
+document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
+document.writeln("		061期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.1.0.7.4.2.3）</font><br>");
+document.writeln("		061期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.1.0.7）<BR>		");
+document.writeln("		===============</font></font></p></b></td>");
+document.writeln("	</tr>");
+document.writeln("	<!--结束-->	");
 
 
 document.writeln("	<!--gavc-->");
@@ -16,8 +26,8 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		060期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.9.8.2.3.0.7）</font><br>");
-document.writeln("		060期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.9.8.2）<BR>		");
+document.writeln("		060期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.<span style=\'background-color: #FFFF00\'>9</span>.8.2.3.0.7）</font><br>");
+document.writeln("		060期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（6.<span style=\'background-color: #FFFF00\'>9</span>.8.2）<BR>		");
 document.writeln("		===============</font></font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");

@@ -20,10 +20,16 @@ document.writeln("  <tbody>");
 
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">064期平特3.码<font color=\"#008000\">【鸡10.22.34】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">063期平特3.码<font color=\"#008000\">【马13.25.49】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">063期平特3.码<font color=\"#008000\">【<span style=\'background-color: #FFFF00\'>马</span>13.25.49】</font>开:37准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

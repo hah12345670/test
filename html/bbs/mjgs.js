@@ -28,7 +28,7 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("065期单双【双数+蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("065期单双【单数+蛇兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 

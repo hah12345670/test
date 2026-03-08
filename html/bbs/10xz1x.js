@@ -27,6 +27,26 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">067期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.20.32.11.23.47.09.21.33.03.15.27.10.22.34.13.25.49</font></li>");
+document.writeln("            	<li>067期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.20.32.11.23.47.09.21.33</font></li>");
+document.writeln("            	<li>067期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-08.20.32）</font></li>");
+document.writeln("            	<li>067期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪猴狗</font></li>");
+document.writeln("            	<li>067期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪猴狗龙鸡马</font></li>");
+document.writeln("            	<li>067期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪猴狗龙鸡马羊牛</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,12 +55,10 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">066期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.40.06.18.30.13.25.49.11.23.35.03.15.27.12.36.48</font></li>");
-document.writeln("            	<li>066期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.40.06.18.30.13.25.49</font></li>");
-document.writeln("            	<li>066期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.16.40）</font></li>");
-document.writeln("            	<li>066期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔牛马</font></li>");
-document.writeln("            	<li>066期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔牛马猴龙羊</font></li>");
-document.writeln("            	<li>066期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔牛马猴龙羊蛇鼠</font></li>");
+
+document.writeln("            	<li>066期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔牛<span style=\'background-color: #FFFF00\'>马</span></font></li>");
+document.writeln("            	<li>066期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔牛<span style=\'background-color: #FFFF00\'>马</span>猴龙羊</font></li>");
+document.writeln("            	<li>066期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔牛<span style=\'background-color: #FFFF00\'>马</span>猴龙羊蛇鼠</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

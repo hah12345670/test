@@ -109,7 +109,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#000000\">069期:【大亨送彩】二肖四码开:？00</span>中		");
-document.writeln("<br>【来料】【62785.com高手榜】<br><br>");
+document.writeln("<br>【龙鸡】【31.43.08.20】<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

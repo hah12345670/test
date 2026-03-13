@@ -28,7 +28,6 @@ document.writeln("<div class=\'box\'>");
 
 
 
-
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
 document.writeln("	<div class=\'bizhong333-tit\'>");
@@ -36,12 +35,12 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">072期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.28.13.37.49.11.23.35.08.20.32.13.37.49.05.17.29</font></li>");
-document.writeln("            	<li>072期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.28.13.37.49.11.23.35</font></li>");
-document.writeln("            	<li>072期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.16.28）</font></li>");
-document.writeln("            	<li>072期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔马猴</font></li>");
-document.writeln("            	<li>072期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔马猴猪蛇虎</font></li>");
-document.writeln("            	<li>072期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔马猴猪蛇虎羊牛</font></li>");
+document.writeln(" 	            <li><font size=\"2\">073期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.35.47.07.19.43.06.18.42.26.38.02.04.16.28.13.37.49</font></li>");
+document.writeln("            	<li>073期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">11.35.47.07.19.43.06.18.42</font></li>");
+document.writeln("            	<li>073期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猴-11.35.47）</font></li>");
+document.writeln("            	<li>073期必中③肖：<font color=\'#FF0000\' size=\'4\'>猴鼠牛</font></li>");
+document.writeln("            	<li>073期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猴鼠牛蛇兔马</font></li>");
+document.writeln("            	<li>073期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猴鼠牛蛇兔马狗猪</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

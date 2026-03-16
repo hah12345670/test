@@ -128,8 +128,8 @@ document.writeln("070期【蛇兔狗羊鼠<span style=\'background-color: #FFFF0
 document.writeln("071期【猪鸡猴<span style=\'background-color: #FFFF00\'>羊</span>狗马虎牛鼠】开羊48√<br>");
 document.writeln("072期【鼠羊猴兔龙狗<span style=\'background-color: #FFFF00\'>鸡</span>猪牛】开鸡46√<br>");
 document.writeln("073期【<span style=\'background-color: #FFFF00\'>鸡</span>牛猴蛇虎鼠猪兔马】开鸡34√<br>");
-document.writeln("074期【猴马猪虎龙牛兔狗羊】开？00√<br>");
-
+document.writeln("074期【猴马猪虎龙牛兔狗羊】开鸡10×<br>");
+document.writeln("075期【牛虎鼠猪兔蛇龙狗猴】开？00√<br>");
 
 document.writeln("");
 document.writeln("");

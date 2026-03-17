@@ -81,7 +81,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	076-080期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	<span style=\"background-color: #000000\">02</span>.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
@@ -130,7 +130,10 @@ document.writeln("072期【鼠羊猴兔龙狗<span style=\'background-color: #FF
 document.writeln("073期【<span style=\'background-color: #FFFF00\'>鸡</span>牛猴蛇虎鼠猪兔马】开鸡34√<br>");
 document.writeln("074期【猴马猪虎龙牛兔狗羊】开鸡10×<br>");
 document.writeln("075期【牛虎鼠猪兔蛇龙<span style=\'background-color: #FFFF00\'>狗</span>猴】开狗33√<br>");
-document.writeln("076期【牛蛇猪羊狗龙猴虎兔】开？00√<br>");
+document.writeln("076期【牛<span style=\'background-color: #FFFF00\'>蛇</span>猪羊狗龙猴虎兔】开蛇02√<br>");
+document.writeln("077期【62785b.com首页查看】开？00√<br>");
+
+
 
 document.writeln("");
 document.writeln("");

@@ -148,7 +148,9 @@ document.writeln("078期【牛虎<span style=\'background-color: #FFFF00\'>鸡</
 document.writeln("079期【蛇兔马牛狗虎羊鼠<span style=\'background-color: #FFFF00\'>猴</span>】开猴35√<br>");
 document.writeln("080期【<span style=\'background-color: #FFFF00\'>龙</span>鼠蛇牛虎羊兔鸡猴】开龙03√<br>");
 document.writeln("081期【<span style=\'background-color: #FFFF00\'>虎</span>龙牛蛇兔猪猴鼠狗】开虎17√<br>");
-document.writeln("082期【62785.com首页查看】开？00√<br>");
+document.writeln("082期【蛇羊马鼠猴虎鸡<span style=\'background-color: #FFFF00\'>龙</span>猪】开龙27√<br>");
+document.writeln("083期【62785.com首页查看】开？00√<br>");
+
 
 
 document.writeln("");

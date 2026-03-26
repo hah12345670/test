@@ -41,11 +41,30 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>084期必中三尾：<font color=\'#FF0000\' size=\'4\'>7-3-1</font></li>");
-document.writeln("            	<li>084期必中五尾：<font color=\'#FF0000\' size=\'4\'>7-3-1-6-4</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>07.27.37.23.33.43.11.21.31.26.36.46.04.14.24</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>07.27.37.23.33.43.11.21.31</font></li>");
+document.writeln("            	<li>085期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-1-4</font></li>");
+document.writeln("            	<li>085期必中五尾：<font color=\'#FF0000\' size=\'4\'>5-1-4-6-0</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>15.25.35.11.21.31.24.34.44.06.16.26.10.20.30</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>15.25.35.11.21.31.24.34.44</font></li>");
 document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>085期一尾一码：<font color=\'#FF0000\' size=\'6\'>（15）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>084期必中三尾：<font color=\'#FF0000\' size=\'4\'>7-3-1</font></li>");
+document.writeln("            	<li>084期必中五尾：<font color=\'#FF0000\' size=\'4\'>7-3-1-<span style=\'background-color: #FFFF00\'>6</span>-4</font></li>");
+
 document.writeln("");
 document.writeln("            </ul>");
 document.writeln("        </div>");

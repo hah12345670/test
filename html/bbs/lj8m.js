@@ -91,7 +91,7 @@ document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	081-085期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	086-088期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -141,7 +141,8 @@ document.writeln("082期家【羊猪牛马】野【鼠<span style=\'background-c
 
 document.writeln("083期家【牛羊马鸡】野【龙<span style=\'background-color: #FFFF00\'>虎</span>兔鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("084期家【羊牛马狗】野【<span style=\'background-color: #FFFF00\'>兔</span>鼠蛇猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("085期家【鸡狗牛羊】野【猴鼠虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("085期家【鸡狗牛羊】野【猴<span style=\'background-color: #FFFF00\'>鼠</span>虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("086期家【狗马猪羊】野【鼠虎兔龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 

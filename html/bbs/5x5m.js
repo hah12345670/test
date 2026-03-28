@@ -41,10 +41,30 @@ document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码
 document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
-document.writeln("            	<li>086期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-4-2</font></li>");
-document.writeln("            	<li>086期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-4-2-0-7</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>13.23.33.04.24.34.22.32.42.20.30.40.27.37.47</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>13.23.33.04.24.34.22.32.42</font></li>");
+document.writeln("            	<li>087期必中三尾：<font color=\'#FF0000\' size=\'4\'>8-4-2</font></li>");
+document.writeln("            	<li>087期必中五尾：<font color=\'#FF0000\' size=\'4\'>8-4-2-9-1</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>08.18.28.24.34.44.12.22.32.29.39.49.11.21.31</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>08.18.28.24.34.44.12.22.32</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>087期一尾一码：<font color=\'#FF0000\' size=\'6\'>（08）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>086期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-4-<span style=\'background-color: #FFFF00\'>2</span></font></li>");
+document.writeln("            	<li>086期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-4-<span style=\'background-color: #FFFF00\'>2</span>-0-7</font></li>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

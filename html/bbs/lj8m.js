@@ -128,7 +128,7 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62785.com首页查看</font><br><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("089期:二尾发财<b><font color=\"#FF0000\">【62785.com高手榜查看】</font></b>开？00准<br>");
+document.writeln("089期:二尾发财<b><font color=\"#FF0000\">【0.7+9.6】</font></b>开？00准<br>");
 document.writeln("088期:二尾发财<b><font color=\"#FF0000\">【3.0+2.9】</font></b>开龙27错<br>");
 document.writeln("");
 document.writeln("087期:二尾发财<b><font color=\"#FF0000\">【1.0+<span style=\"background-color: #FFFF00\">6</span>.9】</font></b>开蛇26准<br>");

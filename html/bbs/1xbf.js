@@ -86,7 +86,7 @@ document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">七肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪马羊蛇牛兔鸡</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">马</span></font>羊蛇牛兔鸡</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");

@@ -63,7 +63,7 @@ document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
 document.writeln(" <font size=\"5\">");
 document.writeln("093期:【前后特肖】开？00准<br></font><font size=\"5\" color=\"#FF0000\">");
-document.writeln("特肖：（62785.com高手榜查看）</font></p>");
+document.writeln("特肖：（后肖+鼠牛）</font></p>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

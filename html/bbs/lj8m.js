@@ -74,7 +74,10 @@ document.writeln("091期天【<span style=\'background-color: #FFFF00\'>马</spa
 document.writeln("092期天【猪马<span style=\'background-color: #FFFF00\'>牛</span>龙】地【虎蛇鸡狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("093期天【猪龙<span style=\'background-color: #FFFF00\'>兔</span>牛】地【羊狗虎鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("094期天【兔龙猴猪】地【羊<span style=\'background-color: #FFFF00\'>虎</span>蛇鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("095期天【62785.com单页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("095期天【兔龙<span style=\'background-color: #FFFF00\'>猴</span>牛】地【羊蛇鸡狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("096期天【62785.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+
+
 
 document.writeln("");
 document.writeln("");

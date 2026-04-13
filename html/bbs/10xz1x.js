@@ -34,13 +34,31 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">103期必中18码：</font><font color=\'#FF0000\' size=\'2\'>13.25.49.11.23.35.04.16.28.03.15.27.07.19.31.06.18.42</font></li>");
-document.writeln("            	<li>103期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">13.25.49.11.23.35.04.16.28</font></li>");
-document.writeln("            	<li>103期必中①肖：<font color=\'#FF0000\' size=\'5\'>（马-13.25.49）</font></li>");
-document.writeln("            	<li>103期必中③肖：<font color=\'#FF0000\' size=\'4\'>马猴兔</font></li>");
-document.writeln("            	<li>103期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠牛</font></li>");
-document.writeln("            	<li>103期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠牛虎鸡</font></li>");
-document.writeln("             	<li>103期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠牛虎鸡蛇羊</font></li>");
+document.writeln(" 	            <li><font size=\"2\">104期必中18码：</font><font color=\'#FF0000\' size=\'2\'>14.26.38.07.19.31.11.23.35.12.24.48.04.16.40.03.15.39</font></li>");
+document.writeln("            	<li>104期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">14.26.38.07.19.31.11.23.35</font></li>");
+document.writeln("            	<li>104期必中①肖：<font color=\'#FF0000\' size=\'5\'>（蛇-14.26.38）</font></li>");
+document.writeln("            	<li>104期必中③肖：<font color=\'#FF0000\' size=\'4\'>蛇鼠猴</font></li>");
+document.writeln("            	<li>104期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>蛇鼠猴羊兔龙</font></li>");
+document.writeln("            	<li>104期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>蛇鼠猴羊兔龙牛狗</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">103期必中18码：</font><font color=\'#FF0000\' size=\'2\'>13.25.49.11.23.35.04.16.28.03.15.27.07.19.31.<span style=\'background-color: #FFFF00\'>06</span>.18.42</font></li>");
+
+document.writeln("            	<li>103期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠<span style=\'background-color: #FFFF00\'>牛</span></font></li>");
+document.writeln("            	<li>103期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠<span style=\'background-color: #FFFF00\'>牛</span>虎鸡</font></li>");
+document.writeln("             	<li>103期必中⑩肖：<font color=\'#FF0000\' size=\'4\'>马猴兔龙鼠<span style=\'background-color: #FFFF00\'>牛</span>虎鸡蛇羊</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

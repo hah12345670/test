@@ -27,6 +27,25 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">106期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.40.13.37.49.11.23.35.05.17.29.08.32.44.12.24.48</font></li>");
+document.writeln("            	<li>106期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.40.13.37.49.11.23.35</font></li>");
+document.writeln("            	<li>106期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.16.40）</font></li>");
+document.writeln("            	<li>106期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔马猴</font></li>");
+document.writeln("            	<li>106期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔马猴虎猪羊</font></li>");
+document.writeln("            	<li>106期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔马猴虎猪羊龙狗</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -35,12 +54,10 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">105期必中18码：</font><font color=\'#FF0000\' size=\'2\'>10.22.34.05.29.41.11.23.35.13.25.49.08.20.32.04.16.40</font></li>");
-document.writeln("            	<li>105期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">10.22.34.05.29.41.11.23.35</font></li>");
-document.writeln("            	<li>105期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鸡-10.22.34）</font></li>");
+
 document.writeln("            	<li>105期必中③肖：<font color=\'#FF0000\' size=\'4\'>鸡虎猴</font></li>");
-document.writeln("            	<li>105期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡虎猴马猪兔</font></li>");
-document.writeln("            	<li>105期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡虎猴马猪兔狗蛇</font></li>");
+document.writeln("            	<li>105期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鸡虎猴马猪<span style=\'background-color: #FFFF00\'>兔</span></font></li>");
+document.writeln("            	<li>105期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鸡虎猴马猪<span style=\'background-color: #FFFF00\'>兔</span>狗蛇</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

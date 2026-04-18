@@ -30,7 +30,9 @@ document.writeln("104期王者六肖【龙虎猴<span style=\'background-color: 
 document.writeln("105期王者六肖【猪蛇马羊<span style=\'background-color: #FFFF00\'>兔</span>牛】√<br>");
 document.writeln("106期王者六肖【蛇羊马鼠牛猪】×<br>");
 document.writeln("107期王者六肖【牛狗蛇<span style=\'background-color: #FFFF00\'>马</span>虎羊】√<br>");
-document.writeln("108期王者六肖【龙鸡狗兔羊牛】√<br>");
+document.writeln("108期王者六肖【龙鸡<span style=\'background-color: #FFFF00\'>狗</span>兔羊牛】√<br>");
+document.writeln("109期王者六肖【虎鸡兔马狗龙】√<br>");
+
 
 
 document.writeln("		");
@@ -68,7 +70,9 @@ document.writeln("100-101期￥鸡兔羊<span style=\'background-color: #FFFF00\
 document.writeln("104-105期￥猪鼠<span style=\'background-color: #FFFF00\'>马</span>狗蛇鸡龙￥104期√<br>");
 document.writeln("105-106期￥<span style=\'background-color: #FFFF00\'>兔</span>虎羊龙牛马鸡￥105期√<br>");
 document.writeln("106-107期￥猪虎龙<span style=\'background-color: #FFFF00\'>马</span>猴兔牛￥107期√<br>");
-document.writeln("108-109期￥鼠猴马龙蛇猪狗￥000期√<br>");
+document.writeln("108-109期￥鼠猴马龙蛇猪<span style=\'background-color: #FFFF00\'>狗</span>￥108期√<br>");
+document.writeln("109-110期￥牛鸡虎龙狗猴兔￥000期√<br>");
+
 
 
 document.writeln("	");
@@ -102,7 +106,8 @@ document.writeln("104期【野兽：龙猴虎鼠】开马01×<br>");
 document.writeln("105期【家禽：牛鸡猪马】开兔28×<br>");
 document.writeln("106期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马狗】开鸡22√<br>");
 document.writeln("107期【野兽：龙猴虎兔】开马49×<br>");
-document.writeln("108期【野兽：龙猴虎蛇】开？00√<br>");
+document.writeln("108期【野兽：龙猴虎蛇】开狗45×<br>");
+document.writeln("109期【野兽：猴虎鼠龙】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -134,7 +139,8 @@ document.writeln("104期【牛<span style=\'background-color: #FFFF00\'>马</spa
 document.writeln("105期【狗鸡马猪羊龙<span style=\'background-color: #FFFF00\'>兔</span>鼠牛】开兔28√<br>");
 document.writeln("106期【羊牛蛇兔狗龙猴<span style=\'background-color: #FFFF00\'>鸡</span>鼠】开鸡22√<br>");
 document.writeln("107期【虎龙牛狗兔猴<span style=\'background-color: #FFFF00\'>马</span>鼠鸡】开马49√<br>");
-document.writeln("108期【羊猴龙虎牛兔马蛇狗】开？00√<br>");
+document.writeln("108期【羊猴龙虎牛兔马蛇<span style=\'background-color: #FFFF00\'>狗</span>】开狗45√<br>");
+document.writeln("109期【猪马蛇鼠鸡牛兔狗虎】开？00√<br>");
 
 
 

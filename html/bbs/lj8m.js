@@ -30,6 +30,18 @@ document.writeln("	</font><span style=\"background-color: #000000\"></font></spa
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	111-115期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
+document.writeln("");
+
+document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td>");
 document.writeln("		<div style=\"background-color: #FFFF00\">");
@@ -69,7 +81,9 @@ document.writeln("106期家【<span style=\'background-color: #FFFF00\'>鸡</spa
 document.writeln("107期家【牛羊猪鸡】野【猴鼠虎兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("108期家【牛鸡<span style=\'background-color: #FFFF00\'>狗</span>马】野【龙猴蛇兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("109期家【鸡马羊狗】野【虎鼠龙<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("110期家【62785.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("110期家【马鸡羊<span style=\'background-color: #FFFF00\'>牛</span>】野【兔蛇猴虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("111期家【62785.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -37,18 +37,19 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">114期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.16.28.07.31.43.15.27.39.02.14.26.12.36.48.10.22.46</font></li>");
-document.writeln("            	<li>114期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.16.28.07.31.43.15.27.39</font></li>");
-document.writeln("            	<li>114期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.16.28）</font></li>");
-document.writeln("            	<li>114期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔鼠龙</font></li>");
-document.writeln("            	<li>114期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔鼠龙蛇羊鸡</font></li>");
-document.writeln("            	<li>114期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔鼠龙蛇羊鸡虎狗</font></li>");
+document.writeln(" 	            <li><font size=\"2\">115期必中18码：</font><font color=\'#FF0000\' size=\'2\'>12.36.48.01.25.37.04.16.28.06.18.30.05.29.41.07.19.31</font></li>");
+document.writeln("            	<li>115期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">12.36.48.01.25.37.04.16.28</font></li>");
+document.writeln("            	<li>115期必中①肖：<font color=\'#FF0000\' size=\'5\'>（羊-12.36.48）</font></li>");
+document.writeln("            	<li>115期必中③肖：<font color=\'#FF0000\' size=\'4\'>羊马兔</font></li>");
+document.writeln("            	<li>115期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>羊马兔牛虎鼠</font></li>");
+document.writeln("            	<li>115期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>羊马兔牛虎鼠猪龙</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 
 
 

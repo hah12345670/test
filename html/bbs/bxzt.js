@@ -11,7 +11,6 @@ document.writeln("");
 
 
 
-
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -20,55 +19,56 @@ document.writeln("    <tbody>");
 document.writeln("    <tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#FFFF00\' width=\'98%\' height=\'35\'>");
 document.writeln("		<p>");
-document.writeln("		<span style=\'font-weight:700\'><strong> 113期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29769.com</strong></span></td>");
+document.writeln("		<span style=\'font-weight:700\'><strong> 114期澳门雷锋心水网【<font color=\'#FF0000\' size=\'5\'>9肖18码</font>】p.29769.com</strong></span></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>18码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 9pt\'>21.33.05.17.31.43.11.23.03.15.06.18.25.37.22.34.04.16</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 9pt\'>22.34.11.23.21.33.25.37.03.15.12.24.06.18.05.17.02.14</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>12码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>21.33.05.17.31.43.11.23.03.15.06.18</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 10pt\'>22.34.11.23.21.33.25.37.03.15.12.24</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("        	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>06码</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b><span style=\'font-size: 10pt\'>21.33.05.17.31.43</span></b></td>");
+document.writeln("		<b><span style=\'font-size: 10pt\'>22.34.11.23.21.33</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("    	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>二肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>狗虎</b></td>");
+document.writeln("		<b>鸡猴</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>四肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>狗虎鼠猴</b></td>");
+document.writeln("		<b>鸡猴狗马</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>七肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>狗虎鼠猴龙牛马</b></td>");
+document.writeln("		<b>鸡猴狗马龙羊牛</b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<span style=\'font-size: 10pt; font-weight: 700\'>九肖</span></td>");
 document.writeln("		<td align=\'left\' width=\'65%\' height=\'35\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<b>狗虎鼠猴龙牛马鸡兔</b></td>");
+document.writeln("		<b>鸡猴狗马龙羊牛虎蛇</b></td>");
 document.writeln("    </tr>");
 document.writeln("    </tbody> ");
 document.writeln("</table>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
+
 
 
 

@@ -35,6 +35,26 @@ document.writeln("");
 
 
 
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>119期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-1-6</font></li>");
+document.writeln("            	<li>119期必中五尾：<font color=\'#FF0000\' size=\'4\'>3-1-6-7-0</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>23.33.43.11.21.31.26.36.46.07.17.27.10.20.30</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>23.33.43.11.21.31.26.36.46</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>119期一尾一码：<font color=\'#FF0000\' size=\'6\'>（23）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
@@ -43,8 +63,8 @@ document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>118期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-7-1</font></li>");
-document.writeln("            	<li>118期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-7-1-5-8</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>22.32.42.07.27.47.11.21.31.25.35.45.08.18.28</font></li>");
+document.writeln("            	<li>118期必中五尾：<font color=\'#FF0000\' size=\'4\'>2-7-1-5-<span style=\'background-color: #FFFF00\'>8</span></font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>22.32.42.07.27.47.11.21.31.25.35.45.<span style=\'background-color: #FFFF00\'>08</span>.18.28</font></li>");
 document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>22.32.42.07.27.47.11.21.31</font></li>");
 document.writeln("");
 document.writeln("");

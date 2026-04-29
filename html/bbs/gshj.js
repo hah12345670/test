@@ -43,7 +43,8 @@ document.writeln("115期王者六肖【羊牛<span style=\'background-color: #FF
 document.writeln("116期王者六肖【牛猪虎羊兔<span style=\'background-color: #FFFF00\'>鸡</span>】√<br>");
 document.writeln("117期王者六肖【蛇龙羊鸡猪<span style=\'background-color: #FFFF00\'>兔</span>】√<br>");
 
-document.writeln("118期王者六肖【马猴牛虎鼠蛇】√<br>");
+document.writeln("118期王者六肖【马猴牛虎鼠蛇】×<br>");
+document.writeln("119期王者六肖【羊鼠猴狗虎牛】√<br>");
 
 
 
@@ -116,20 +117,8 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("109期【<span style=\'background-color: #FFFF00\'>野兽</span>：猴虎鼠龙】开兔16√<br>");
 
-document.writeln("110期【<span style=\'background-color: #FFFF00\'>家禽</span>：马羊鸡狗】开牛30√<br>");
-document.writeln("111期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>马</span>羊鸡】开马01√<br>");
-document.writeln("112期【野兽：龙蛇猴虎】开狗09×<br>");
-
-document.writeln("113期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开蛇02√<br>");
-document.writeln("114期【<span style=\'background-color: #FFFF00\'>家禽</span>：马羊鸡猪】开牛30√<br>");
-
-document.writeln("115期【家禽：牛羊马狗】开兔04×<br>");
-document.writeln("116期【野兽：蛇虎猴兔】开鸡22×<br>");
-document.writeln("117期【家禽：牛马羊鸡】开兔16×<br>");
-document.writeln("118期【野兽：龙猴兔虎】开？00√<br>");
-
+document.writeln("119期【野兽：龙猴兔蛇】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -158,7 +147,10 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("115期【鸡蛇虎<span style=\'background-color: #FFFF00\'>兔</span>马羊猪龙狗】开兔04√<br>");
 document.writeln("116期【<span style=\'background-color: #FFFF00\'>鸡</span>鼠猪狗蛇猴龙羊牛】开鸡22√<br>");
 document.writeln("117期【龙<span style=\'background-color: #FFFF00\'>兔</span>蛇羊猪马鼠虎牛】开兔16√<br>");
-document.writeln("118期【龙马蛇鸡狗猴鼠猪牛】开？00√<br>");
+document.writeln("118期【龙马蛇鸡狗猴鼠<span style=\'background-color: #FFFF00\'>猪</span>牛】开猪08√<br>");
+document.writeln("119期【狗牛龙鼠蛇马兔羊虎】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

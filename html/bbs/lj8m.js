@@ -69,7 +69,7 @@ document.writeln("118期吉【蛇龙鸡羊】凶【<span style=\'background-colo
 document.writeln("119期吉【兔蛇羊龙】凶【鼠猪狗<span style=\'background-color: #FFFF00\'>猴</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("120期吉【羊马龙蛇】凶【<span style=\'background-color: #FFFF00\'>牛</span>猪猴鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("121期吉【马蛇兔羊】凶【鼠牛虎狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("122期吉【62785.com来料中】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("122期吉【蛇龙羊马】凶【牛鼠猪狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");

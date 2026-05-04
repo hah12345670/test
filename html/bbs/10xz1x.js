@@ -28,6 +28,26 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">124期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.28.40.07.31.43.08.20.44.02.14.26.06.18.30.21.33.45</font></li>");
+document.writeln("            	<li>124期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.28.40.07.31.43.08.20.44</font></li>");
+document.writeln("            	<li>124期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.28.40）</font></li>");
+document.writeln("            	<li>124期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪</font></li>");
+document.writeln("            	<li>124期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪蛇牛狗</font></li>");
+document.writeln("            	<li>124期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪蛇牛狗虎猴</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -36,12 +56,10 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">123期必中18码：</font><font color=\'#FF0000\' size=\'2\'>07.31.43.02.14.26.06.18.30.10.22.34.08.20.32.03.15.27</font></li>");
-document.writeln("            	<li>123期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">07.31.43.02.14.26.06.18.30</font></li>");
-document.writeln("            	<li>123期必中①肖：<font color=\'#FF0000\' size=\'5\'>（鼠-07.31.43）</font></li>");
+
 document.writeln("            	<li>123期必中③肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛</font></li>");
-document.writeln("            	<li>123期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙</font></li>");
-document.writeln("            	<li>123期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛鸡猪龙马狗</font></li>");
+document.writeln("            	<li>123期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛<span style=\'background-color: #FFFF00\'>鸡</span>猪龙</font></li>");
+document.writeln("            	<li>123期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>鼠蛇牛<span style=\'background-color: #FFFF00\'>鸡</span>猪龙马狗</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

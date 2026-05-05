@@ -72,8 +72,8 @@ document.writeln("121期吉【马蛇兔羊】凶【鼠牛虎狗】<font color=\"
 document.writeln("122期吉【蛇龙羊<span style=\'background-color: #FFFF00\'>马</span>】凶【牛鼠猪狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("123期吉【蛇兔马羊】凶【虎狗牛鼠】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("124期吉【马蛇鸡<span style=\'background-color: #FFFF00\'>龙</span>】凶【鼠牛虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("125期吉【来料中】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("125期吉【鸡兔羊马】凶【牛虎狗<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("126期吉【羊兔龙蛇】凶【狗虎鼠猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");

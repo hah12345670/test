@@ -33,7 +33,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	126-130期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.13.23.25.38.44.<span style=\'background-color: #FFFF00\'>45</span>");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
@@ -68,8 +68,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
+
 document.writeln("");
-document.writeln("128期【62827.com高手榜查看】开？00准<br>");
+document.writeln("");
+document.writeln("129期【双数+虎龙】开？00准<br>");
+
+document.writeln("");
+document.writeln("128期【<span style=\'background-color: #FFFF00\'>单数</span>+蛇羊】开马37准<br>");
 
 document.writeln("127期【双数+虎龙】开狗45错<br>");
 

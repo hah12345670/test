@@ -30,13 +30,12 @@ document.writeln("");
 document.writeln("124期单双【<span style=\'background-color: #FFFF00\'>单数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("125期单双【<span style=\'background-color: #FFFF00\'>单数</span>+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("126期单双【<span style=\'background-color: #FFFF00\'>单数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-
 document.writeln("127期单双【双数+马<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("128期单双【<span style=\'background-color: #FFFF00\'>单数</span>+鸡兔】<font color=\"#FF0000\">√</font><br>	");
-
 document.writeln("129期单双【<span style=\'background-color: #FFFF00\'>单数</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("130期单双【双数+马龙】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("131期单双【单数+蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("131期单双【<span style=\'background-color: #FFFF00\'>单数</span>+蛇兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("132期单双【单数+牛羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -68,8 +67,7 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("130期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("131期家野【家禽+龙猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("132期家野【家禽+蛇猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -92,7 +90,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("128期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("129期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("130期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("131期天地【天肖+鸡狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("131期天地【天肖+鸡狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("132期天地【地肖+牛龙】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -117,7 +116,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("131期前后【前肖+马猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("131期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("132期前后【前肖+狗鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

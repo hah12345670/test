@@ -16,14 +16,8 @@ document.writeln("");
 document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（王者六肖）</font><br>");
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("126期王者六肖【狗猴羊鸡龙<span style=\'background-color: #FFFF00\'>马</span>】√<br>");
 
-document.writeln("127期王者六肖【龙<span style=\'background-color: #FFFF00\'>狗</span>鼠羊鸡马】√<br>");
-document.writeln("128期王者六肖【狗虎鼠蛇牛<span style=\'background-color: #FFFF00\'>马</span>】√<br>");
-document.writeln("129期王者六肖【猴羊兔蛇龙马】×<br>");
-document.writeln("130期王者六肖【羊马兔蛇猪猴】×<br>");
-document.writeln("131期王者六肖【鸡羊牛龙虎猪】√<br>");
-
+document.writeln("132期王者六肖【蛇鼠虎兔鸡猴】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -49,33 +43,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("092-093期￥鼠猴猪羊虎蛇<span style=\'background-color: #FFFF00\'>牛</span>￥092期√<br>");
-document.writeln("093-094期￥狗蛇马猪<span style=\'background-color: #FFFF00\'>兔</span>牛龙￥093期√<br>");
-document.writeln("094-095期￥鼠<span style=\'background-color: #FFFF00\'>虎</span>猴猪鸡狗牛￥094期√<br>");
-document.writeln("095-096期￥牛猪鼠蛇狗<span style=\'background-color: #FFFF00\'>猴</span>兔￥095期√<br>");
-document.writeln("096-097期￥马龙蛇<span style=\'background-color: #FFFF00\'>猴</span>鸡牛猪￥097期√<br>");
-document.writeln("098-099期￥马兔鼠猴<span style=\'background-color: #FFFF00\'>虎</span>牛蛇￥098期√<br>");
-document.writeln("099-100期￥蛇猴鼠猪马<span style=\'background-color: #FFFF00\'>羊</span>牛￥099期√<br>");
-document.writeln("100-101期￥鸡兔羊<span style=\'background-color: #FFFF00\'>龙</span>鼠猴虎￥101期√<br>");
-document.writeln("104-105期￥猪鼠<span style=\'background-color: #FFFF00\'>马</span>狗蛇鸡龙￥104期√<br>");
-document.writeln("105-106期￥<span style=\'background-color: #FFFF00\'>兔</span>虎羊龙牛马鸡￥105期√<br>");
-document.writeln("106-107期￥猪虎龙<span style=\'background-color: #FFFF00\'>马</span>猴兔牛￥107期√<br>");
-document.writeln("108-109期￥鼠猴马龙蛇猪<span style=\'background-color: #FFFF00\'>狗</span>￥108期√<br>");
-document.writeln("109-110期￥牛鸡虎龙狗猴<span style=\'background-color: #FFFF00\'>兔</span>￥109期√<br>");
-document.writeln("110-111期￥羊狗蛇虎<span style=\'background-color: #FFFF00\'>牛</span>猴马￥110期√<br>");
-document.writeln("111-112期￥鸡牛蛇龙鼠<span style=\'background-color: #FFFF00\'>狗</span>猴￥112期√<br>");
-document.writeln("113-114期￥猪龙鸡狗兔<span style=\'background-color: #FFFF00\'>牛</span>虎￥114期√<br>");
-document.writeln("115-116期￥<span style=\'background-color: #FFFF00\'>兔</span>猪牛羊马龙狗￥115期√<br>");
-document.writeln("116-117期￥马蛇牛鼠羊龙猪￥000期√<br>");
-document.writeln("118-119期￥狗马羊龙<span style=\'background-color: #FFFF00\'>猴</span>鸡牛￥119期√<br>");
-document.writeln("120-121期￥兔马猴羊虎猪<span style=\'background-color: #FFFF00\'>牛</span>￥120期√<br>");
-document.writeln("121-122期￥猴鼠牛蛇虎龙<span style=\'background-color: #FFFF00\'>猪</span>￥121期√<br>");
-document.writeln("122-123期￥狗猪虎蛇<span style=\'background-color: #FFFF00\'>马</span>鸡龙￥122期√<br>");
-document.writeln("123-124期￥<span style=\'background-color: #FFFF00\'>龙</span>羊猪虎牛猴蛇￥124期√<br>");
-document.writeln("125-126期￥龙<span style=\'background-color: #FFFF00\'>鼠</span>狗猪猴鸡牛￥125期√<br>");
-document.writeln("128-129期￥龙鸡羊猪鼠牛蛇￥000期√<br>");
-document.writeln("130-131期￥鼠狗龙猪羊蛇马￥000期√<br>");
-
+document.writeln("130-131期￥<span style=\'background-color: #FFFF00\'>鼠</span>狗龙猪羊蛇马￥131期√<br>");
+document.writeln("132-133期￥马鼠猴牛狗兔鸡￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -101,7 +70,9 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("131期【家禽：羊鸡猪狗】开？00√<br>");
+
+document.writeln("132期【家禽：鸡猪马狗】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -132,7 +103,8 @@ document.writeln("127期【蛇兔猪牛<span style=\'background-color: #FFFF00\'
 document.writeln("128期【鼠猪羊兔蛇龙鸡<span style=\'background-color: #FFFF00\'>马</span>猴】开马37√<br>");
 document.writeln("129期【猴猪龙蛇狗鼠马兔<span style=\'background-color: #FFFF00\'>虎</span>】开虎41√<br>");
 document.writeln("130期【猪龙马猴<span style=\'background-color: #FFFF00\'>虎</span>鼠蛇兔牛】开虎29√<br>");
-document.writeln("131期【牛羊虎猴鸡鼠龙猪兔】开？00√<br>");
+document.writeln("131期【牛羊虎猴鸡<span style=\'background-color: #FFFF00\'>鼠</span>龙猪兔】开鼠07√<br>");
+document.writeln("132期【虎鼠猪羊蛇龙猴鸡马】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

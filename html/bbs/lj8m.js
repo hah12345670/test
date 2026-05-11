@@ -81,7 +81,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("");
-document.writeln("131期【62827.com高手榜查看】开？00准<br>");
+document.writeln("131期【单数+牛鸡】开？00准<br>");
 document.writeln("130期【<span style=\'background-color: #FFFF00\'>单数</span>+蛇兔】开虎29准<br>");
 
 document.writeln("");

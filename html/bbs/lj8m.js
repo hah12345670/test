@@ -80,8 +80,8 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 document.writeln("");
-document.writeln("");
-document.writeln("132期【62827.com高手榜查看】开？00准<br>");
+document.writeln("133期【62827.com高手榜查看】开？00准<br>");
+document.writeln("132期【<span style=\'background-color: #FFFF00\'>双数</span>+虎龙】开牛30准<br>");
 document.writeln("131期【<span style=\'background-color: #FFFF00\'>单数</span>+牛鸡】开鼠07准<br>");
 document.writeln("130期【<span style=\'background-color: #FFFF00\'>单数</span>+蛇兔】开虎29准<br>");
 

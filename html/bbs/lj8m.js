@@ -79,7 +79,8 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
 
-document.writeln("134期【62827.com高手榜查看】开？00准<br>");
+document.writeln("135期【62827.com高手榜查看】开？00准<br>");
+document.writeln("134期【双数+猴狗】开马37错<br>");
 document.writeln("133期【<span style=\'background-color: #FFFF00\'>单数</span>+蛇羊】开鼠07准<br>");
 document.writeln("132期【<span style=\'background-color: #FFFF00\'>双数</span>+虎龙】开牛30准<br>");
 document.writeln("131期【<span style=\'background-color: #FFFF00\'>单数</span>+牛鸡】开鼠07准<br>");

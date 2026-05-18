@@ -85,13 +85,12 @@ document.writeln("129期推荐特<font color=\"#FF0000\" size=\"5\">【<span sty
 document.writeln("130期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+大双】</font>开虎29准<br>");
 document.writeln("131期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+大双】</font>开鼠07准<br>");
 document.writeln("132期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+大单】</font>开牛30准<br>");
-
 document.writeln("133期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+小双】</font>开鼠07准<br>");
 document.writeln("134期推荐特<font color=\"#FF0000\" size=\"5\">【双+<span style=\'background-color: #FFFF00\'>大单</span>】</font>开马37准<br>");
 document.writeln("135期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+大单】</font>开牛30准<br>");
 document.writeln("136期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+小单】</font>开羊48准<br>");
 document.writeln("137期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+小单】</font>开蛇26准<br>");
-document.writeln("138期推荐特<font color=\"#FF0000\" size=\"5\">【62827.com首页查看】</font>开？00准<br>");
+document.writeln("138期推荐特<font color=\"#FF0000\" size=\"5\">【猪牛羊】</font>开？00准<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

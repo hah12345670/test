@@ -14,63 +14,12 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
 document.writeln("		<p>");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		139期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-金-土-火）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		139期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（水-金）");
+document.writeln("		140期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-火-金-水）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
+document.writeln("		140期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（土-火）");
 document.writeln("		");
 document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--gavc-->	");
-
-
-document.writeln("	<!--gavc-->	");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
-document.writeln("		<p>");
-document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		137期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（<span style=\'background-color: #FFFF00\'>金</span>-土-水-火）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		137期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（<span style=\'background-color: #FFFF00\'>金</span>-土）");
-document.writeln("		");
-document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--gavc-->	");
-
-
-document.writeln("	<!--gavc-->	");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
-document.writeln("		<p>");
-document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		135期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土-木-<span style=\'background-color: #FFFF00\'>水</span>）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		135期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（金-土）");
-document.writeln("		");
-document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--gavc-->	");
-
-document.writeln("	<!--gavc-->	");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
-document.writeln("		<p>");
-document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		134期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（火-<span style=\'background-color: #FFFF00\'>土</span>-木-水）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		134期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（火-<span style=\'background-color: #FFFF00\'>土</span>）");
-document.writeln("		");
-document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--gavc-->	");
-
-document.writeln("	<!--gavc-->	");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"left\"> <b>");
-document.writeln("		<p>");
-document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		133期;四行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（火-<span style=\'background-color: #FFFF00\'>土</span>-金-水）</font><font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\"><br>");
-document.writeln("		133期;二行：</font><font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（火-<span style=\'background-color: #FFFF00\'>土</span>）");
-document.writeln("		");
-document.writeln("		<br></font><font face=\"微软雅黑\" size=\"4\">-----------</font></p></b></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--gavc-->	");
-
 
 
 

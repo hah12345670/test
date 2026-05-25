@@ -19,7 +19,13 @@ document.writeln("  <tbody>");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">145期平特3.码<font color=\"#008000\">【马13.37.49】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">146期平特3.码<font color=\"#008000\">【兔04.16.28】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">145期平特3.码<font color=\"#008000\">【<span style=\'background-color: #FFFF00\'>马</span>13.37.49】</font>开:25准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

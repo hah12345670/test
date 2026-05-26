@@ -79,7 +79,9 @@ document.writeln("142期推荐特<font color=\"#FF0000\" size=\"5\">【<span sty
 document.writeln("143期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+大单】</font>开猪44准<br>");
 document.writeln("144期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+小双】</font>开鼠43准<br>");
 document.writeln("145期推荐特<font color=\"#FF0000\" size=\"5\">【双+<span style=\'background-color: #FFFF00\'>小单</span>】</font>开虎05准<br>");
-document.writeln("146期推荐特<font color=\"#FF0000\" size=\"5\">【62827.com首页查看】</font>开？00准<br>");
+document.writeln("146期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>双</span>+大单】</font>开牛42准<br>");
+document.writeln("147期推荐特<font color=\"#FF0000\" size=\"5\">【62827.com首页查看已更新】</font>开？00准<br>");
+
 
 document.writeln("");
 document.writeln("		</font>		</font>	");

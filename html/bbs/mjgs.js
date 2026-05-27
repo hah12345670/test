@@ -28,7 +28,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("147期单双【单数+蛇猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("147期单双【<span style=\'background-color: #FFFF00\'>单数</span>+蛇猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("148期单双【单数+羊兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -67,7 +68,8 @@ document.writeln("143期家野【野兽+马羊】<font color=\"#FF0000\">×</fon
 document.writeln("144期家野【家禽+龙蛇】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("145期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("146期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("147期家野【野兽+羊猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("147期家野【野兽+羊猪】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("148期家野【野兽+牛马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -100,7 +102,8 @@ document.writeln("143期天地【地肖+<span style=\'background-color: #FFFF00\
 document.writeln("144期天地【天肖+狗<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("145期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("146期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("147期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("147期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("148期天地【天肖+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -126,8 +129,7 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("146期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("147期前后【前肖+猴猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("148期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 

@@ -18,96 +18,10 @@ document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
 document.writeln(" ");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		150期主【绿波】防【红波】开？00准</font></b></td>");
+document.writeln("		151期主【绿波】防【蓝波】开？00准</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		147期主【蓝波】防<span style=\'background-color: #FFFF00\'>【红波】</span>开马13准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		144期主【红波】防<span style=\'background-color: #FFFF00\'>【绿波】</span>开鼠43准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		143期主<span style=\'background-color: #FFFF00\'>【绿波】</span>防【蓝波】开猪44准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		142期主<span style=\'background-color: #FFFF00\'>【红波】</span>防【绿波】开猴23准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		141期主<span style=\'background-color: #FFFF00\'>【绿波】</span>防【蓝波】开狗33准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		140期主【蓝波】防<span style=\'background-color: #FFFF00\'>【绿波】</span>开兔16准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=40 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln(" ");
-document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
-document.writeln("		139期主【蓝波】防<span style=\'background-color: #FFFF00\'>【红波】</span>开羊24准</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
 
 
 

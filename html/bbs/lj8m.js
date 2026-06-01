@@ -35,7 +35,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	151-155期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.13.23.25.38.44.<span style=\'background-color: #000000\'>45</span>");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
@@ -96,7 +96,8 @@ document.writeln("148期推荐特<font color=\"#FF0000\" size=\"5\">【<span sty
 document.writeln("149期推荐特<font color=\"#FF0000\" size=\"5\">【双+<span style=\'background-color: #FFFF00\'>大单</span>】</font>开龙27准<br>");
 document.writeln("150期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+小双】</font>开狗09准<br>");
 document.writeln("151期推荐特<font color=\"#FF0000\" size=\"5\">【<span style=\'background-color: #FFFF00\'>单</span>+大双】</font>开鼠31准<br>");
-document.writeln("152期推荐特<font color=\"#FF0000\" size=\"5\">【62827.com首页查看已更新】</font>开？00准<br>");
+document.writeln("152期推荐特<font color=\"#FF0000\" size=\"5\">【双+<span style=\'background-color: #FFFF00\'>大单</span>】</font>开狗45准<br>");
+document.writeln("153期推荐特<font color=\"#FF0000\" size=\"5\">【62827.com首页查看，已更新】</font>开？00准<br>");
 
 
 document.writeln("");

@@ -20,8 +20,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("152期王者六肖【龙羊兔猴<span style=\'background-color: #FFFF00\'>狗</span>马】√<br>");
 
-document.writeln("153期王者六肖【兔虎蛇鼠狗羊】√<br>");
-
+document.writeln("153期王者六肖【兔<span style=\'background-color: #FFFF00\'>虎</span>蛇鼠狗羊】√<br>");
+document.writeln("154期王者六肖【狗兔羊鸡蛇牛】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -51,7 +51,8 @@ document.writeln("150-151期￥鸡牛龙<span style=\'background-color: #FFFF00\
 
 document.writeln("152-153期￥龙猴蛇鸡兔猪<span style=\'background-color: #FFFF00\'>狗</span>￥152期√<br>");
 
-document.writeln("153-154期￥龙牛羊猪虎狗鼠￥000期√<br>");
+document.writeln("153-154期￥龙牛羊猪<span style=\'background-color: #FFFF00\'>虎</span>狗鼠￥153期√<br>");
+document.writeln("154-155期￥狗蛇虎羊马鼠猪￥000期√<br>");
 
 
 
@@ -85,8 +86,8 @@ document.writeln("149期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("150期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>狗</span>马猪鸡】开狗09√<br>");
 document.writeln("151期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>鼠</span>】开鼠31√<br>");
 document.writeln("152期【<span style=\'background-color: #FFFF00\'>家禽</span>：马羊<span style=\'background-color: #FFFF00\'>狗</span>猪】开狗45√<br>");
-document.writeln("153期【野兽：龙虎猴蛇】开？00√<br>");
-
+document.writeln("153期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>虎</span>猴蛇】开虎41√<br>");
+document.writeln("154期【家禽：牛羊马狗】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -115,8 +116,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("150期【鸡兔牛虎猪猴羊龙<span style=\'background-color: #FFFF00\'>狗</span>】开狗09√<br>");
 document.writeln("151期【蛇猪虎龙猴马<span style=\'background-color: #FFFF00\'>鼠</span>鸡羊】开鼠31√<br>");
 document.writeln("152期【鸡猴马兔牛虎<span style=\'background-color: #FFFF00\'>狗</span>蛇猪】开狗45√<br>");
-document.writeln("153期【马虎猴狗鸡牛兔蛇龙】开？00√<br>");
-
+document.writeln("153期【马<span style=\'background-color: #FFFF00\'>虎</span>猴狗鸡牛兔蛇龙】开虎41√<br>");
+document.writeln("154期【虎蛇猴兔猪鸡狗羊牛】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

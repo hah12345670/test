@@ -23,7 +23,8 @@ document.writeln("152期王者六肖【龙羊兔猴<span style=\'background-colo
 document.writeln("153期王者六肖【兔<span style=\'background-color: #FFFF00\'>虎</span>蛇鼠狗羊】√<br>");
 document.writeln("154期王者六肖【狗兔羊鸡蛇牛】×<br>");
 document.writeln("155期王者六肖【兔牛龙猴鸡<span style=\'background-color: #FFFF00\'>鼠</span>】√<br>");
-document.writeln("156期王者六肖【狗蛇龙猪鸡牛】√<br>");
+document.writeln("156期王者六肖【狗蛇龙猪鸡牛】×<br>");
+document.writeln("157期王者六肖【蛇羊牛马龙兔】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -55,7 +56,7 @@ document.writeln("152-153期￥龙猴蛇鸡兔猪<span style=\'background-color:
 
 document.writeln("153-154期￥龙牛羊猪<span style=\'background-color: #FFFF00\'>虎</span>狗鼠￥153期√<br>");
 document.writeln("154-155期￥狗蛇<span style=\'background-color: #FFFF00\'>虎</span>羊马鼠猪￥154期√<br>");
-document.writeln("155-156期￥蛇猴羊虎牛龙狗￥000期√<br>");
+document.writeln("157-158期￥鼠猪虎龙蛇牛兔￥000期√<br>");
 
 
 
@@ -92,7 +93,10 @@ document.writeln("152期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("153期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>虎</span>猴蛇】开虎41√<br>");
 document.writeln("154期【家禽：牛羊马狗】开虎41×<br>");
 document.writeln("155期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴虎】开鼠07√<br>");
-document.writeln("156期【家禽：牛羊马狗】开？00√<br>");
+document.writeln("156期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马狗】开马01√<br>");
+document.writeln("157期【家禽：牛马羊鸡】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -124,7 +128,8 @@ document.writeln("152期【鸡猴马兔牛虎<span style=\'background-color: #FF
 document.writeln("153期【马<span style=\'background-color: #FFFF00\'>虎</span>猴狗鸡牛兔蛇龙】开虎41√<br>");
 document.writeln("154期【<span style=\'background-color: #FFFF00\'>虎</span>蛇猴兔猪鸡狗羊牛】开虎41√<br>");
 document.writeln("155期【蛇猴兔羊猪狗牛鸡<span style=\'background-color: #FFFF00\'>鼠</span>】开鼠07√<br>");
-document.writeln("156期【羊龙狗猪马牛虎猴兔】开？00√<br>");
+document.writeln("156期【羊龙狗猪<span style=\'background-color: #FFFF00\'>马</span>牛虎猴兔】开马01√<br>");
+document.writeln("157期【羊虎蛇猪牛马鼠兔龙】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

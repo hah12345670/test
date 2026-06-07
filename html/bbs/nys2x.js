@@ -10,7 +10,7 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">158期绝杀二肖:<font color=\"#FF0000\">【兔鼠】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">159期绝杀二肖:<font color=\"#FF0000\">【羊兔】</font>开:？00准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

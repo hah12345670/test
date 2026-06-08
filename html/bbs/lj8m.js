@@ -108,12 +108,14 @@ document.writeln("");
 document.writeln("158期:<font color=\"#ff00\">六肖爆庄</font>〖牛蛇猪鸡<span style=\"background-color: #FFFF00\">兔</span>鼠〗开:兔16对<br>");
 document.writeln("");
 document.writeln("");
-document.writeln("159期:<font color=\"#ff00\">六肖爆庄</font>〖羊牛马龙猴鸡〗开:？00对<br>");
+document.writeln("159期:<font color=\"#ff00\">六肖爆庄</font>〖羊牛马<span style=\'background-color: #FFFF00\'>龙</span>猴鸡〗开:龙39对<br>");
+document.writeln("");
+document.writeln("160期:<font color=\"#ff00\">六肖爆庄</font>〖62827.com高手榜查看，已更新〗开:？00对<br>");
 
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("		</font>		</font>	");
+document.writeln("		<br></font>		</font>	");
 document.writeln("");
 document.writeln("");
 document.writeln("</a>");

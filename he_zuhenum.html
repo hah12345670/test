@@ -200,6 +200,36 @@ function getSelectedNumbers() {
 			});
 		}
 
+		// 第三筛选
+		let filterNumbers3 = [];
+		for (let i = 0; i <= 9; i++) {
+			if (document.getElementById('filter3' + i)?.checked) filterNumbers3.push(i.toString());
+		}
+		let intersectionCount3 = parseInt(document.getElementById('intersectionCount3')?.value, 10) || 1;
+
+		if (filterNumbers3.length > 0) {
+			filteredCombinations = filteredCombinations.filter(combo => {
+				let uniqueDigits = [...new Set(combo.split(''))];
+				let count3 = uniqueDigits.filter(d => filterNumbers3.includes(d)).length;
+				return count3 === intersectionCount3;
+			});
+		}
+
+		// 第四筛选
+		let filterNumbers4 = [];
+		for (let i = 0; i <= 9; i++) {
+			if (document.getElementById('filter4' + i)?.checked) filterNumbers4.push(i.toString());
+		}
+		let intersectionCount4 = parseInt(document.getElementById('intersectionCount4')?.value, 10) || 1;
+
+		if (filterNumbers4.length > 0) {
+			filteredCombinations = filteredCombinations.filter(combo => {
+				let uniqueDigits = [...new Set(combo.split(''))];
+				let count4 = uniqueDigits.filter(d => filterNumbers4.includes(d)).length;
+				return count4 === intersectionCount4;
+			});
+		}
+
 		// 输出结果
 		let result = '';
 		if (filteredCombinations.length > 0) {
@@ -224,12 +254,16 @@ function resetForm() {
 		document.getElementById('unit' + i).checked = false;
 		document.getElementById('filter' + i).checked = false;
 		document.getElementById('filter2' + i).checked = false;
+		document.getElementById('filter3' + i).checked = false;
+		document.getElementById('filter4' + i).checked = false;
 	}
 	document.getElementById('group3').checked = false;
 	document.getElementById('group6').checked = false;
 	document.getElementById('leopard').checked = false;
 	document.getElementById('intersectionCount').value = '1';
 	document.getElementById('intersectionCount2').value = '1';
+	document.getElementById('intersectionCount3').value = '1';
+	document.getElementById('intersectionCount4').value = '1';
 	document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
 	document.getElementById('result').dataset.combinations = '';
 }
@@ -301,6 +335,42 @@ function resetGroup(group) {
 	<div class="filter-row">
 		<h3>交集数量</h3>
 		<select id="intersectionCount2" onchange="getSelectedNumbers()">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+		</select>
+	</div>
+
+	<!-- 号码筛选 3 -->
+	<div class="digit-row">
+		<h3>号码筛选<3> <button type="button" class="group-reset" onclick="resetGroup('filter3')">重 置</button></h3>
+		<script>
+			for (let i = 0; i <= 9; i++) {
+				document.write(`<label><input type="checkbox" id="filter3${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+			}
+		</script>
+	</div>
+	<div class="filter-row">
+		<h3>交集数量</h3>
+		<select id="intersectionCount3" onchange="getSelectedNumbers()">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+		</select>
+	</div>
+
+	<!-- 号码筛选 4 -->
+	<div class="digit-row">
+		<h3>号码筛选<4> <button type="button" class="group-reset" onclick="resetGroup('filter4')">重 置</button></h3>
+		<script>
+			for (let i = 0; i <= 9; i++) {
+				document.write(`<label><input type="checkbox" id="filter4${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+			}
+		</script>
+	</div>
+	<div class="filter-row">
+		<h3>交集数量</h3>
+		<select id="intersectionCount4" onchange="getSelectedNumbers()">
 			<option value="1">1</option>
 			<option value="2">2</option>
 			<option value="3">3</option>

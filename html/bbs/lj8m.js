@@ -99,7 +99,9 @@ document.writeln("164期:<font color=\"#ff00\">六肖爆庄</font>〖虎马鼠<s
 document.writeln("");
 document.writeln("165期:<font color=\"#ff00\">六肖爆庄</font>〖羊狗马虎蛇<span style=\'background-color: #FFFF00\'>龙</span>〗开:龙03对<br>");
 document.writeln("");
-document.writeln("166期:<font color=\"#ff00\">六肖爆庄</font>〖62827.com高手榜查看，已更新〗开:？00对<br>");
+document.writeln("166期:<font color=\"#ff00\">六肖爆庄</font>〖虎兔鼠狗鸡<span style=\'background-color: #FFFF00\'>牛</span>〗开:牛06对<br>");
+document.writeln("");
+document.writeln("167期:<font color=\"#ff00\">六肖爆庄</font>〖62827.com高手榜查看〗开:？00对<br>");
 
 document.writeln("");
 document.writeln("");

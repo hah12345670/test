@@ -23,7 +23,7 @@ document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	168-171期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	166-170期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -103,7 +103,11 @@ document.writeln("165期:<font color=\"#ff00\">六肖爆庄</font>〖羊狗马�
 document.writeln("");
 document.writeln("166期:<font color=\"#ff00\">六肖爆庄</font>〖虎兔鼠狗鸡<span style=\'background-color: #FFFF00\'>牛</span>〗开:牛06对<br>");
 document.writeln("");
-document.writeln("167期:<font color=\"#ff00\">六肖爆庄</font>〖虎鼠狗鸡猪猴〗开:？00对<br>");
+document.writeln("167期:<font color=\"#ff00\">六肖爆庄</font>〖虎<span style=\'background-color: #FFFF00\'>鼠</span>狗鸡猪猴〗开:鼠19对<br>");
+document.writeln("");
+document.writeln("168期:<font color=\"#ff00\">六肖爆庄</font>〖鼠<span style=\'background-color: #FFFF00\'>龙</span>马蛇羊兔〗开:龙15对<br>");
+document.writeln("");
+document.writeln("169期:<font color=\"#ff00\">六肖爆庄</font>〖62827.com高手榜查看，已更新〗开:？00对<br>");
 
 document.writeln("");
 document.writeln("");

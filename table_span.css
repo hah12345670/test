@@ -1,0 +1,49 @@
+/* 容器 */
+.number-container {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: #ffffff; /* 改为纯白背景，更能显出透明底 */
+}
+
+/* 1. 默认状态：红字、透明底、红边框 */
+.number-container span {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  
+  /* 核心修改 */
+  color: #ff0000;             /* 红色文字 */
+  background-color: transparent; /* 透明背景 */
+  border: 1.5px solid #ff0000; /* 红色边框，保持圆球轮廓 */
+  box-sizing: border-box;     /* 确保边框不撑大圆球 */
+  
+  cursor: pointer;
+  transition: all 0.2s ease;  /* 丝滑切换状态 */
+}
+
+/* 2. 鼠标悬停时的微互动（可选：背景变极浅的红） */
+.number-container span:hover {
+  background-color: rgba(214, 48, 49, 0.1); 
+}
+
+/* 3. 选中状态：红底白字 */
+/* 只要在 HTML 的 span 上加上 class="active" 就会变成选中状态 */
+.number-container span.active {
+  color: #ffffff;             /* 白色文字 */
+  background: #ff0000;        /* 纯红底色（如果想要之前的立体感，可以用 radial-gradient(circle at 30% 30%, #ff7675, #d63031)） */
+  border-color: #ff0000;      /* 边框与背景同色 */
+  
+  /* 给选中的球加一点点阴影，使其更突出 */
+  box-shadow: 0 2px 4px rgba(229, 77, 66, 0.15); 
+}

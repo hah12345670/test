@@ -22,7 +22,9 @@ document.writeln("166期王者六肖【龙牛鸡猴马<span style=\'background-c
 
 document.writeln("168期王者六肖【<span style=\'background-color: #FFFF00\'>龙</span>虎猴马鼠蛇】√<br>");
 document.writeln("169期王者六肖【鼠兔蛇牛猴<span style=\'background-color: #FFFF00\'>羊</span>】√<br>");
-document.writeln("170期王者六肖【蛇羊马鼠牛猪】√<br>");
+document.writeln("170期王者六肖【蛇羊马鼠牛猪】×<br>");
+	·
+document.writeln("171期王者六肖【猪蛇马羊兔牛】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -63,8 +65,8 @@ document.writeln("165-166期￥兔狗马<span style=\'background-color: #FFFF00\
 document.writeln("166-167期￥马<span style=\'background-color: #FFFF00\'>牛</span>虎羊猴兔狗￥166期√<br>");
 document.writeln("167-168期￥狗虎羊龙<span style=\'background-color: #FFFF00\'>鼠</span>鸡牛￥167期√<br>");
 document.writeln("168-169期￥兔鼠猪虎牛<span style=\'background-color: #FFFF00\'>羊</span>蛇￥169期√<br>");
-document.writeln("170-171期￥虎羊牛狗龙鸡鼠￥000期√<br>");
-
+document.writeln("170-171期￥虎羊牛狗<span style=\'background-color: #FFFF00\'>龙</span>鸡鼠￥170期√<br>");
+document.writeln("171-172期￥猪鼠羊蛇龙鸡马￥000期√<br>");
 
 
 
@@ -118,8 +120,8 @@ document.writeln("167期【家禽：牛羊马猪】开鼠19×<br>");
 
 document.writeln("168期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>猴虎鼠】开龙15√<br>");
 document.writeln("169期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马鸡狗】开羊24√<br>");
-document.writeln("170期【家禽：牛羊马狗】开？00√<br>");
-
+document.writeln("170期【家禽：牛羊马狗】开龙03×<br>");
+document.writeln("171期【家禽：牛鸡猪马】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -166,8 +168,8 @@ document.writeln("166期【马羊蛇猴<span style=\'background-color: #FFFF00\'
 document.writeln("167期【蛇猴虎兔<span style=\'background-color: #FFFF00\'>鼠</span>狗鸡马猪】开鼠19√<br>");
 document.writeln("168期【牛马猪羊猴兔鼠蛇狗】开龙15×<br>");
 document.writeln("169期【狗鸡兔蛇猴猪鼠龙马】开羊24×<br>");
-document.writeln("170期【羊牛蛇兔狗龙猴鸡鼠】开？00√<br>");
-
+document.writeln("170期【羊牛蛇兔狗<span style=\'background-color: #FFFF00\'>龙</span>猴鸡鼠】开龙03√<br>");
+document.writeln("171期【狗鸡马猪羊龙兔鼠牛】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

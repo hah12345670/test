@@ -26,7 +26,8 @@ document.writeln("170期王者六肖【蛇羊马鼠牛猪】×<br>");
 	·
 document.writeln("171期王者六肖【猪蛇马羊<span style=\'background-color: #FFFF00\'>兔</span>牛】√<br>");
 document.writeln("172期王者六肖【龙鸡狗兔羊牛】×<br>");
-document.writeln("173期王者六肖【牛狗蛇马虎羊】√<br>");
+document.writeln("173期王者六肖【牛狗<span style=\'background-color: #FFFF00\'>蛇</span>马虎羊】√<br>");
+document.writeln("174期王者六肖【牛羊马鸡虎狗】√<br>");
 
 
 document.writeln("		");
@@ -70,7 +71,9 @@ document.writeln("167-168期￥狗虎羊龙<span style=\'background-color: #FFFF
 document.writeln("168-169期￥兔鼠猪虎牛<span style=\'background-color: #FFFF00\'>羊</span>蛇￥169期√<br>");
 document.writeln("170-171期￥虎羊牛狗<span style=\'background-color: #FFFF00\'>龙</span>鸡鼠￥170期√<br>");
 document.writeln("171-172期￥<span style=\'background-color: #FFFF00\'>猪</span>鼠羊蛇龙鸡马￥172期√<br>");
-document.writeln("173-174期￥鸡兔牛虎鼠蛇龙￥000期√<br>");
+document.writeln("173-174期￥鸡兔牛虎鼠<span style=\'background-color: #FFFF00\'>蛇</span>龙￥173期√<br>");
+document.writeln("174-175期￥兔蛇鼠牛鸡龙虎￥000期√<br>");
+
 
 
 
@@ -99,36 +102,10 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
+document.writeln("173期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开蛇26√<br>");
+document.writeln("174期【家禽：马羊鸡狗】开？00√<br>");
 
-document.writeln("149期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎蛇兔】开龙27√<br>");
 
-document.writeln("150期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>狗</span>马猪鸡】开狗09√<br>");
-document.writeln("151期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎<span style=\'background-color: #FFFF00\'>鼠</span>】开鼠31√<br>");
-document.writeln("152期【<span style=\'background-color: #FFFF00\'>家禽</span>：马羊<span style=\'background-color: #FFFF00\'>狗</span>猪】开狗45√<br>");
-document.writeln("153期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>虎</span>猴蛇】开虎41√<br>");
-document.writeln("154期【家禽：牛羊马狗】开虎41×<br>");
-document.writeln("155期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇猴虎】开鼠07√<br>");
-document.writeln("156期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马狗】开马01√<br>");
-document.writeln("157期【家禽：牛马羊鸡】开兔40×<br>");
-document.writeln("158期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎鼠】开兔16√<br>");
-
-document.writeln("159期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>虎鼠猴】开龙39√<br>");
-
-document.writeln("161期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马狗<span style=\'background-color: #FFFF00\'>猪</span>】开猪08√<br>");
-
-document.writeln("162期【<span style=\'background-color: #FFFF00\'>家禽</span>：鸡牛狗<span style=\'background-color: #FFFF00\'>猪</span>】开猪32√<br>");
-document.writeln("163期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛<span style=\'background-color: #FFFF00\'>马</span>羊猪】开马37√<br>");
-document.writeln("164期【野兽：蛇猴虎兔】开狗21×<br>");
-document.writeln("165期【<span style=\'background-color: #FFFF00\'>家禽</span>：<span style=\'background-color: #FFFF00\'>牛</span>羊马猪】开龙03√<br>");
-document.writeln("167期【家禽：牛羊马猪】开鼠19×<br>");
-
-document.writeln("168期【<span style=\'background-color: #FFFF00\'>野兽</span>：<span style=\'background-color: #FFFF00\'>龙</span>猴虎鼠】开龙15√<br>");
-document.writeln("169期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛马鸡狗】开羊24√<br>");
-document.writeln("170期【家禽：牛羊马狗】开龙03×<br>");
-document.writeln("171期【家禽：牛鸡猪马】开兔28×<br>");
-document.writeln("172期【野兽：龙猴虎蛇】开猪44×<br>");
-
-document.writeln("173期【野兽：龙猴虎兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -179,7 +156,8 @@ document.writeln("169期【狗鸡兔蛇猴猪鼠龙马】开羊24×<br>");
 document.writeln("170期【羊牛蛇兔狗<span style=\'background-color: #FFFF00\'>龙</span>猴鸡鼠】开龙03√<br>");
 document.writeln("171期【狗鸡马猪羊龙<span style=\'background-color: #FFFF00\'>兔</span>鼠牛】开兔28√<br>");
 document.writeln("172期【羊猴龙虎牛兔马蛇狗】开猪44×<br>");
-document.writeln("173期【虎龙牛狗兔猴马鼠鸡】开？00√<br>");
+document.writeln("173期【虎龙牛狗兔猴马鼠鸡】开蛇26×<br>");
+document.writeln("174期【鼠蛇兔猴猪狗羊鸡马】开？00√<br>");
 
 
 

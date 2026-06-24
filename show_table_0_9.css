@@ -1,0 +1,260 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	min-height: 100vh;
+	background-color: #f5f5f5;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	padding: 20px 10px;
+	box-sizing: border-box;
+}
+
+/* 顶部互动区容器 */
+.interactive-panel {
+	background: #ffffff;
+	padding: 15px;
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+	margin-bottom: 20px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	max-width: 700px;
+	box-sizing: border-box;
+}
+
+.panel-title {
+	font-size: 0.85rem;
+	color: #666;
+	margin-bottom: 12px;
+	font-weight: bold;
+}
+
+.control-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 12px;
+	width: 100%;
+}
+
+.btn-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 6px;
+}
+
+/* 交互按钮样式 */
+.filter-btn {
+	width: 38px;
+	height: 38px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: #ffffff;
+	border-radius: 8px;
+	cursor: pointer;
+	border: none;
+	transition: all 0.2s ease;
+	text-shadow: 
+			-1px -1px 0 rgba(0, 0, 0, 0.35),  
+			 1px -1px 0 rgba(0, 0, 0, 0.35),
+			-1px  1px 0 rgba(0, 0, 0, 0.35),
+			 1px  1px 0 rgba(0, 0, 0, 0.35);
+	opacity: 0.3;
+}
+
+.filter-btn.active {
+	opacity: 1;
+	transform: scale(1.05);
+	box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+}
+
+/* 功能控制按钮 */
+.action-btn-wrapper {
+	display: flex;
+	gap: 10px;
+	width: 100%;
+	justify-content: center;
+}
+
+.action-btn {
+	flex: 1;
+	max-width: 120px;
+	height: 38px;
+	font-size: 0.85rem;
+	font-weight: bold;
+	border-radius: 8px;
+	cursor: pointer;
+	border: 1.5px solid;
+	transition: all 0.2s ease;
+	white-space: nowrap;
+}
+
+.reset-btn {
+	color: #d32f2f;
+	background-color: #ffebee;
+	border-color: #ffcdd2;
+}
+.reset-btn:hover { background-color: #d32f2f; color: #ffffff; border-color: #d32f2f; }
+
+.select-all-btn {
+	color: #2e7d32;
+	background-color: #e8f5e9;
+	border-color: #c8e6c9;
+}
+.select-all-btn:hover { background-color: #2e7d32; color: #ffffff; border-color: #2e7d32; }
+
+/* 表格核心设计 */
+.matrix-table {
+	border-collapse: collapse;
+	background: #ffffff;
+	border-radius: 12px;
+	overflow: hidden;
+	box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+	width: 100%;
+	max-width: 700px;
+}
+
+.matrix-table th {
+	background-color: #eceff1;
+	color: #455a64;
+	font-size: 0.9rem;
+	padding: 12px;
+	font-weight: bold;
+}
+
+.matrix-table td {
+	padding: 12px 10px;
+	border-bottom: 1px solid #e0e0e0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.row-index {
+	font-weight: bold;
+	color: #757575;
+	font-size: 1rem;
+}
+
+.highlight-label {
+	font-family: monospace;
+	font-size: 0.9rem;
+	color: #37474f;
+	background: #f1f3f4;
+	padding: 4px 8px;
+	border-radius: 6px;
+	font-weight: bold;
+	display: inline-block;
+}
+
+/* 数字方块包裹在一行内 */
+.digits-row {
+	display: flex;
+	gap: 5px;
+	justify-content: center;
+}
+
+/* 数字方块样式（电脑端基准） */
+.box {
+	width: 34px;
+	height: 34px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: #ffffff;
+	border-radius: 6px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+	cursor: pointer;
+	transition: all 0.15s ease;
+	
+	text-shadow: 
+			-1px -1px 0 rgba(0, 0, 0, 0.35),  
+			 1px -1px 0 rgba(0, 0, 0, 0.35),
+			-1px  1px 0 rgba(0, 0, 0, 0.35),
+			 1px  1px 0 rgba(0, 0, 0, 0.35);
+}
+
+/* 透明度控制 */
+.box.opacity-15 { opacity: 0.15; }
+.box.opacity-30 { opacity: 0.3; }
+.box.opacity-100 { opacity: 1; }
+
+/* 0-9 基础颜色表 */
+.bg-0 { background-color: #4CAF50; }
+.bg-1 { background-color: #FFEB3B; }
+.bg-2 { background-color: #80DEEA; }
+.bg-3 { background-color: #555555; }
+.bg-4 { background-color: #FF9800; }
+.bg-5 { background-color: #E0F7FA; }
+.bg-6 { background-color: #0D47A1; }
+.bg-7 { background-color: #BDBDBD; }
+.bg-8 { background-color: #F44336; }
+.bg-9 { background-color: #6D4C41; }
+
+/* 📱 针对手机窄屏（小于 500px）的严格“行显示”自适应 */
+@media (max-width: 500px) {
+	body {
+			padding: 10px 4px;
+	}
+	.interactive-panel {
+			padding: 10px;
+	}
+	/* 顶部按钮变成5*2紧凑网格 */
+	.btn-container {
+			display: grid;
+			grid-template-columns: repeat(5, 1fr);
+			width: 100%;
+			gap: 5px;
+	}
+	.filter-btn {
+			width: 100%;
+			height: 36px;
+	}
+
+	/* 保持表格行结构，微调单元格间距 */
+	.matrix-table th, .matrix-table td {
+			padding: 8px 3px; 
+			font-size: 0.8rem;
+	}
+	
+	.row-index {
+			font-size: 0.85rem;
+	}
+
+	.highlight-label {
+			font-size: 0.75rem;
+			padding: 3px 5px;
+	}
+
+	/* 核心：利用视口宽度单位 vw，强制 10 个方块等比缩放并在单行内无缝排开 */
+	.digits-row {
+			gap: 0.8vw; 
+	}
+	.box {
+			width: 5.8vw;  /* 根据屏幕宽度弹性伸缩 */
+			height: 5.8vw; 
+			font-size: 3.8vw; /* 字体大小同步等比缩放 */
+			border-radius: 4px;
+	}
+}
+
+/* 🖥️ 电脑端大屏幕时，互动面板改为一整横行排列 */
+@media (min-width: 600px) {
+	.control-wrapper {
+			flex-direction: row;
+			justify-content: space-between;
+	}
+	.action-btn-wrapper {
+			width: auto;
+	}
+}

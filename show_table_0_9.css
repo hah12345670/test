@@ -258,3 +258,22 @@ body {
 			width: auto;
 	}
 }
+
+.digits-row .box {
+	position: relative;
+}
+.digits-row .box:nth-last-child(3)::before {
+	content: "";
+	position: absolute;
+	left: -8px;               
+	top: 15%;                 
+	height: 70%;              
+	width: 3px;               
+	background: linear-gradient(to bottom, rgba(140, 140, 140, 0), rgba(100, 100, 100, 0.85) 50%, rgba(140, 140, 140, 0));
+	border-radius: 2px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+	z-index: 10;
+}
+.digits-row .box:nth-last-child(3) {
+	margin-left: 9px !important; 
+}

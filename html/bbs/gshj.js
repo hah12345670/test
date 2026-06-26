@@ -31,8 +31,8 @@ document.writeln("174期王者六肖【牛羊马鸡<span style=\'background-colo
 
 document.writeln("175期王者六肖【虎鸡兔马狗龙】×<br>");
 document.writeln("176期王者六肖【猴鼠猪<span style=\'background-color: #FFFF00\'>鸡</span>虎羊】√<br>");
-document.writeln("177期王者六肖【牛猴鼠蛇鸡狗】√<br>");
-
+document.writeln("177期王者六肖【牛猴鼠<span style=\'background-color: #FFFF00\'>蛇</span>鸡狗】√<br>");
+document.writeln("178期王者六肖【猪狗龙牛虎马】√<br>");
 
 
 document.writeln("		");
@@ -79,7 +79,8 @@ document.writeln("171-172期￥<span style=\'background-color: #FFFF00\'>猪</sp
 document.writeln("173-174期￥鸡兔牛虎鼠<span style=\'background-color: #FFFF00\'>蛇</span>龙￥173期√<br>");
 document.writeln("174-175期￥兔蛇鼠牛鸡龙<span style=\'background-color: #FFFF00\'>虎</span>￥174期√<br>");
 document.writeln("175-176期￥猪<span style=\'background-color: #FFFF00\'>蛇</span>牛猴龙虎鼠￥175期√<br>");
-document.writeln("176-177期￥狗蛇马鼠猪兔猴￥000期√<br>");
+document.writeln("176-177期￥狗<span style=\'background-color: #FFFF00\'>蛇</span>马鼠猪兔猴￥177期√<br>");
+document.writeln("178-179期￥兔蛇虎马鼠龙猪￥000期√<br>");
 
 
 
@@ -107,14 +108,8 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("173期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴虎兔】开蛇26√<br>");
-document.writeln("174期【家禽：马羊鸡狗】开虎41×<br>");
-document.writeln("175期【<span style=\'background-color: #FFFF00\'>野兽</span>：猴虎鼠龙】开蛇26√<br>");
 
-
-document.writeln("176期【野兽：龙蛇猴虎】开鸡10×<br>");
-document.writeln("177期【家禽：牛马羊鸡】开？00√<br>");
-
+document.writeln("178期【家禽：马羊鸡猪】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -145,8 +140,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("175期【猪马<span style=\'background-color: #FFFF00\'>蛇</span>鼠鸡牛兔狗虎】开蛇26√<br>");
 
 document.writeln("176期【猴兔牛虎鼠<span style=\'background-color: #FFFF00\'>鸡</span>猪狗羊】开鸡10√<br>");
-document.writeln("177期【狗龙马鼠鸡猪羊兔蛇】开？00√<br>");
-
+document.writeln("177期【狗龙马鼠鸡猪羊兔<span style=\'background-color: #FFFF00\'>蛇</span>】开蛇14√<br>");
+document.writeln("178期【蛇鼠兔猪马羊狗猴龙】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

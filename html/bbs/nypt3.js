@@ -18,10 +18,15 @@ document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'0\' cellpadd
 document.writeln("  <tbody>");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">179期平特3.码<font color=\"#008000\">【兔16.28.40】</font>开:00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">178期平特3.码<font color=\"#008000\">【牛18.30.42】</font>开:00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">178期平特3.码<font color=\"#008000\">【<span style=\'background-color: #FFFF00\'>牛18</span>.30.42】</font>开:牛18准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

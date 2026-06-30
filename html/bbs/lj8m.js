@@ -140,7 +140,7 @@ document.writeln("177期:<font color=\"#ff00\">六肖爆庄</font>〖龙猴猪�
 document.writeln("178期:<font color=\"#ff00\">六肖爆庄</font>〖龙鸡<span style=\'background-color: #FFFF00\'>牛</span>猪虎兔〗开:牛18对<br>");
 document.writeln("179期:<font color=\"#ff00\">六肖爆庄</font>〖狗蛇<span style=\'background-color: #FFFF00\'>龙</span>鼠猴羊〗开:龙15对<br>");
 document.writeln("180期:<font color=\"#ff00\">六肖爆庄</font>〖牛鸡猴鼠兔马〗开:狗21错<br>");
-document.writeln("181期:<font color=\"#ff00\">六肖爆庄</font>〖62827.com高手榜查看〗开:？00对<br>");
+document.writeln("181期:<font color=\"#ff00\">六肖爆庄</font>〖鼠兔虎牛猪马〗开:？00对<br>");
 
 
 

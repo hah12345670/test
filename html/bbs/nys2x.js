@@ -10,7 +10,12 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">181期绝杀二肖:<font color=\"#FF0000\">【鸡虎】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">182期绝杀二肖:<font color=\"#FF0000\">【牛马】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">181期绝杀二肖:<font color=\"#FF0000\">【鸡虎】</font>开:鼠19准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 

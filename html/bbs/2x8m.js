@@ -13,28 +13,15 @@ document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（184期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（185期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		龙猪+10.22.34.07.19.31.02.26</font></b></td>");
+document.writeln("		马鼠+05.29.41.06.30.42.15.27</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");
 
 
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（180期开狗21）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		蛇牛+07.31.43.09.<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">21</span></font>.33.20.44</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
 
 
 

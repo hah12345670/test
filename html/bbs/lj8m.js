@@ -87,8 +87,8 @@ document.writeln("183期家野【野兽+<span style=\'background-color: #FFFF00\
 document.writeln("184期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("185期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("186期家野【家禽+虎蛇】<font color=\"#FF0000\">×</font><br>	");
-
-document.writeln("187期家野【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("187期家野【野兽+鸡猪】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("188期家野【家禽+猴虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

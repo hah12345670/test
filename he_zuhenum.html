@@ -387,9 +387,9 @@ window.addEventListener('DOMContentLoaded', () => {
     <label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
     <label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
     <label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
+    <button type="button" class="action-button" onclick="addFilter()">＋ 筛选</button>
     <button type="button" class="reset-button" onclick="resetForm()">还 原</button>
-    <button type="button" class="action-button" onclick="addFilter()">＋ 添加筛选</button>
-    <button type="button" class="action-button btn-del" onclick="removeLastFilter()">－ 删除最后筛选</button>
+    <button type="button" class="action-button btn-del" onclick="removeLastFilter()">－ 筛选</button>
   </div>
 </form>
 <p id="result" data-combinations="">选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)</p>

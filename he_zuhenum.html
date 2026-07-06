@@ -5,489 +5,392 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>组合选号</title>
 <style>
-	body {
-		font-family: Arial, sans-serif;
-		margin: 0;
-		padding: clamp(1rem, 3vw, 1.5rem);
-		max-width: 100vw;
-		box-sizing: border-box;
-		background-color: #f5f5f5;
-	}
-	h2 {
-		font-size: clamp(1.5rem, 6vw, 2rem);
-		text-align: center;
-		margin-bottom: 1.5vh;
-	}
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: clamp(1rem, 3vw, 1.5rem);
+    max-width: 100vw;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+  }
+  h2 {
+    font-size: clamp(1.5rem, 6vw, 2rem);
+    text-align: center;
+    margin-bottom: 1.5vh;
+  }
 
-	/* 数字选择行（Grid布局） */
-	.digit-row {
-		margin: clamp(1vh, 3vh, 2vh) 0;
-		display: grid;
-		gap: 0.5rem;
-	}
-	@media (max-width: 600px) {
-		.digit-row {
-			grid-template-columns: repeat(5, 1fr);
-		}
-	}
-	@media (min-width: 601px) {
-		.digit-row {
-			grid-template-columns: repeat(10, 1fr);
-		}
-	}
-	.digit-row h3 {
-		grid-column: 1 / -1;
-		margin-bottom: 0.5rem;
-		font-size: clamp(0.9rem, 3.5vw, 1.1rem);
-	}
-	.digit-row label {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		background: #fff;
-		border-radius: 0.3rem;
-		padding: 0.3rem 0;
-		box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-		font-size: clamp(0.8rem, 3vw, 1rem);
-	}
-	.digit-row input[type="checkbox"] {
-		width: clamp(1.2rem, 5vw, 1.6rem);
-		height: clamp(1.2rem, 5vw, 1.6rem);
-		margin-right: 0.3rem;
-	}
+  /* 数字选择行（Grid布局） */
+  .digit-row {
+    margin: clamp(1vh, 3vh, 2vh) 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+  @media (max-width: 600px) {
+    .digit-row {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+  @media (min-width: 601px) {
+    .digit-row {
+      grid-template-columns: repeat(10, 1fr);
+    }
+  }
+  .digit-row h3 {
+    grid-column: 1 / -1;
+    margin-bottom: 0.5rem;
+    font-size: clamp(0.9rem, 3.5vw, 1.1rem);
+  }
+  .digit-row label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 0.3rem;
+    padding: 0.3rem 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    font-size: clamp(0.8rem, 3vw, 1rem);
+  }
+  .digit-row input[type="checkbox"] {
+    width: clamp(1.2rem, 5vw, 1.6rem);
+    height: clamp(1.2rem, 5vw, 1.6rem);
+    margin-right: 0.3rem;
+  }
 
-	/* 过滤选项 */
-	.filter-row {
-		margin: clamp(1vh, 3vh, 2vh) 0;
-		display: flex;
-		flex-wrap: wrap;
-		gap: clamp(0.5rem, 2vw, 1rem);
-		align-items: center;
-	}
-	.filter-row h3 {
-		font-size: clamp(0.9rem, 3.5vw, 1.1rem);
-		margin-right: clamp(0.5rem, 2vw, 1rem);
-		min-width: clamp(3rem, 10vw, 4rem);
-	}
-	.filter-row label, .filter-row select {
-		font-size: clamp(0.8rem, 3vw, 1rem);
-		display: flex;
-		align-items: center;
-	}
-	.filter-row input[type="checkbox"] {
-		width: clamp(1.2rem, 5vw, 1.6rem);
-		height: clamp(1.2rem, 5vw, 1.6rem);
-		margin-right: clamp(0.2rem, 1vw, 0.4rem);
-	}
+  /* 过滤选项与操作栏 */
+  .filter-row {
+    margin: clamp(1vh, 3vh, 2vh) 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: clamp(0.5rem, 2vw, 1rem);
+    align-items: center;
+  }
+  .filter-row h3 {
+    font-size: clamp(0.9rem, 3.5vw, 1.1rem);
+    margin-right: clamp(0.5rem, 2vw, 1rem);
+    min-width: clamp(3rem, 10vw, 4rem);
+  }
+  .filter-row label, .filter-row select {
+    font-size: clamp(0.8rem, 3vw, 1rem);
+    display: flex;
+    align-items: center;
+  }
+  .filter-row input[type="checkbox"] {
+    width: clamp(1.2rem, 5vw, 1.6rem);
+    height: clamp(1.2rem, 5vw, 1.6rem);
+    margin-right: clamp(0.2rem, 1vw, 0.4rem);
+  }
 
-	/* 按钮 */
-	.reset-button {
-		padding: clamp(0.4rem, 2.5vw, 0.7rem) clamp(0.8rem, 3vw, 1.2rem);
-		font-size: clamp(0.8rem, 3vw, 1rem);
-		border: none;
-		border-radius: 0.3rem;
-		cursor: pointer;
-		touch-action: manipulation;
-		background-color: #f44336;
-		color: white;
-	}
-	.reset-button:hover {
-		background-color: #d32f2f;
-	}
+  /* 还原按钮 */
+  .reset-button {
+    padding: clamp(0.4rem, 2.5vw, 0.7rem) clamp(0.8rem, 3vw, 1.2rem);
+    font-size: clamp(0.8rem, 3vw, 1rem);
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    touch-action: manipulation;
+    background-color: #f44336;
+    color: white;
+  }
+  .reset-button:hover {
+    background-color: #d32f2f;
+  }
 
-	/* 结果展示 */
-	#result {
-		line-height: 1.6;
-		font-size: clamp(0.8rem, 3vw, 1rem);
-		word-break: break-word;
-		margin-top: clamp(1vh, 3vh, 2vh);
-		padding: 0.5rem;
-		background-color: white;
-		border-radius: 0.3rem;
-	}
+  /* 动态加减按钮样式 */
+  .action-button {
+    padding: clamp(0.4rem, 2.5vw, 0.7rem) clamp(0.8rem, 3vw, 1.2rem);
+    font-size: clamp(0.8rem, 3vw, 1rem);
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+  }
+  .action-button:hover {
+    background-color: #45a049;
+  }
+  .action-button.btn-del {
+    background-color: #ff9800;
+  }
+  .action-button.btn-del:hover {
+    background-color: #e68a00;
+  }
 
-	/* 按钮 */
-	.group-reset {
-		padding: 0.2rem 0.4rem;
-		font-size: 1rem;
-		border: none;
-		border-radius: 0.3rem;
-		cursor: pointer;
-		background-color: #2196f3;
-		color: white;
-		margin-left: 0.5rem;
-	}
-	.group-reset:hover {
-		background-color: #1976d2;
-	}
+  /* 结果展示 */
+  #result {
+    line-height: 1.6;
+    font-size: clamp(0.8rem, 3vw, 1rem);
+    word-break: break-word;
+    margin-top: clamp(1vh, 3vh, 2vh);
+    padding: 0.5rem;
+    background-color: white;
+    border-radius: 0.3rem;
+  }
+
+  /* 重置小按钮 */
+  .group-reset {
+    padding: 0.2rem 0.4rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    background-color: #2196f3;
+    color: white;
+    margin-left: 0.5rem;
+  }
+  .group-reset:hover {
+    background-color: #1976d2;
+  }
 </style>
 
 <script>
+let currentFilterCount = 1; // 默认展示1个筛选
+
 function getSelectedNumbers() {
-		// 获取选中的数字
-		let hundred = [], ten = [], unit = [];
-		for (let i = 0; i <= 9; i++) {
-				if (document.getElementById('hundred' + i).checked) hundred.push(i);
-				if (document.getElementById('ten' + i).checked) ten.push(i);
-				if (document.getElementById('unit' + i).checked) unit.push(i);
-		}
+    // 1. 收集顶部选中的数字
+    let hundred = [], ten = [], unit = [];
+    for (let i = 0; i <= 9; i++) {
+        if (document.getElementById('hundred' + i).checked) hundred.push(i);
+        if (document.getElementById('ten' + i).checked) ten.push(i);
+        if (document.getElementById('unit' + i).checked) unit.push(i);
+    }
 
-		// 如果未选中，默认使用所有数字
-		let hundredNums = hundred.length > 0 ? hundred : [0,1,2,3,4,5,6,7,8,9];
-		let tenNums = ten.length > 0 ? ten : [0,1,2,3,4,5,6,7,8,9];
-		let unitNums = unit.length > 0 ? unit : [0,1,2,3,4,5,6,7,8,9];
+    // 2. 收集过滤和所有动态号码筛选的信息，判断整个页面是不是“什么都没勾”
+    let group3 = document.getElementById('group3').checked;
+    let group6 = document.getElementById('group6').checked;
+    let leopard = document.getElementById('leopard').checked;
+    
+    let hasAnyFilterChecked = false;
+    // 检查所有动态筛选器是否有被勾选的数字
+    for (let f = 1; f <= currentFilterCount; f++) {
+        let prefix = f === 1 ? 'filter' : 'filter' + f;
+        for (let i = 0; i <= 9; i++) {
+            let el = document.getElementById(prefix + i);
+            if (el && el.checked) {
+                hasAnyFilterChecked = true;
+                break;
+            }
+        }
+        if (hasAnyFilterChecked) break;
+    }
 
-		// 生成所有组合
-		let combinations = [];
-		for (let h of hundredNums) {
-				for (let t of tenNums) {
-						for (let u of unitNums) {
-								combinations.push(`${h}${t}${u}`);
-						}
-				}
-		}
+    // 【核心判断】：如果页面上真的“一无所有”，显示无勾选提示
+    if (hundred.length === 0 && ten.length === 0 && unit.length === 0 && !group3 && !group6 && !leopard && !hasAnyFilterChecked) {
+        document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
+        document.getElementById('result').dataset.combinations = '';
+        return;
+    }
 
-		// 过滤：组三/组六/豹子
-		let group3 = document.getElementById('group3').checked;
-		let group6 = document.getElementById('group6').checked;
-		let leopard = document.getElementById('leopard').checked;
-		let filteredCombinations = [];
+    // 最初始版本的兜底机制：若某位没选，则视作该位选了 0-9 全选，用于生成基础池
+    let hundredNums = hundred.length > 0 ? hundred : [0,1,2,3,4,5,6,7,8,9];
+    let tenNums = ten.length > 0 ? ten : [0,1,2,3,4,5,6,7,8,9];
+    let unitNums = unit.length > 0 ? unit : [0,1,2,3,4,5,6,7,8,9];
 
-		if (!group3 && !group6 && !leopard) {
-				filteredCombinations = combinations;
-		} else {
-				for (let combo of combinations) {
-						let digits = combo.split('');
-						let isGroup3 = (digits[0] === digits[1] && digits[1] !== digits[2]) ||
-													(digits[0] === digits[2] && digits[1] !== digits[2]) ||
-													(digits[1] === digits[2] && digits[0] !== digits[1]);
-						let isGroup6 = digits[0] !== digits[1] && digits[1] !== digits[2] && digits[0] !== digits[2];
-						let isLeopard = digits[0] === digits[1] && digits[1] === digits[2];
+    // 生成基础组合池
+    let combinations = [];
+    for (let h of hundredNums) {
+        for (let t of tenNums) {
+            for (let u of unitNums) {
+                combinations.push(`${h}${t}${u}`);
+            }
+        }
+    }
 
-						if ((group3 && isGroup3) || (group6 && isGroup6) || (leopard && isLeopard)) {
-								filteredCombinations.push(combo);
-						}
-				}
-		}
+    // 3. 过滤：组三/组六/豹子
+    let filteredCombinations = [];
+    if (!group3 && !group6 && !leopard) {
+        filteredCombinations = combinations;
+    } else {
+        for (let combo of combinations) {
+            let digits = combo.split('');
+            let isGroup3 = (digits[0] === digits[1] && digits[1] !== digits[2]) ||
+                          (digits[0] === digits[2] && digits[1] !== digits[2]) ||
+                          (digits[1] === digits[2] && digits[0] !== digits[1]);
+            let isGroup6 = digits[0] !== digits[1] && digits[1] !== digits[2] && digits[0] !== digits[2];
+            let isLeopard = digits[0] === digits[1] && digits[1] === digits[2];
 
-		// 交集数量筛选
-		let filterNumbers = [];
-		for (let i = 0; i <= 9; i++) {
-				if (document.getElementById('filter' + i).checked) filterNumbers.push(i.toString());
-		}
-		let intersectionCount = parseInt(document.getElementById('intersectionCount').value, 10) || 1;
+            if ((group3 && isGroup3) || (group6 && isGroup6) || (leopard && isLeopard)) {
+                filteredCombinations.push(combo);
+            }
+        }
+    }
 
-		if (filterNumbers.length > 0) {
-				filteredCombinations = filteredCombinations.filter(combo => {
-						let uniqueDigits = [...new Set(combo.split(''))];
-						let count = uniqueDigits.filter(d => filterNumbers.includes(d)).length;
-						return count === intersectionCount;
-				});
-		}
+    // 4. 交集数量筛选：顺次执行所有动态筛选组
+    for (let f = 1; f <= currentFilterCount; f++) {
+        let filterNumbersX = [];
+        let prefix = f === 1 ? 'filter' : 'filter' + f;
+        let suffix = f === 1 ? '' : f;
+        
+        for (let i = 0; i <= 9; i++) {
+            if (document.getElementById(prefix + i)?.checked) filterNumbersX.push(i.toString());
+        }
+        let intersectionCountX = parseInt(document.getElementById('intersectionCount' + suffix)?.value, 10) || 1;
 
-		// 第二筛选
-		let filterNumbers2 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter2' + i)?.checked) filterNumbers2.push(i.toString());
-		}
-		let intersectionCount2 = parseInt(document.getElementById('intersectionCount2')?.value, 10) || 1;
+        // 只有当当前这一组号码筛选有勾选数字时，才执行对池子的过滤
+        if (filterNumbersX.length > 0) {
+            filteredCombinations = filteredCombinations.filter(combo => {
+                let uniqueDigits = [...new Set(combo.split(''))];
+                let countX = uniqueDigits.filter(d => filterNumbersX.includes(d)).length;
+                return countX === intersectionCountX;
+            });
+        }
+    }
 
-		if (filterNumbers2.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count2 = uniqueDigits.filter(d => filterNumbers2.includes(d)).length;
-				return count2 === intersectionCount2;
-			});
-		}
+    // 5. 输出结果展示
+    let result = '';
+    if (filteredCombinations.length > 0) {
+        result = `共有 ${filteredCombinations.length} 组组合<br>组合结果:<br>`;
+        for (let i = 0; i < filteredCombinations.length; i++) {
+            result += filteredCombinations[i];
+            if (i < filteredCombinations.length - 1) result += ', ';
+            if ((i + 1) % 5 === 0) result += '<br>';
+        }
+    } else {
+        // 如果被过滤条件杀光了，显示提示
+        result = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
+    }
 
-		// 第三筛选
-		let filterNumbers3 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter3' + i)?.checked) filterNumbers3.push(i.toString());
-		}
-		let intersectionCount3 = parseInt(document.getElementById('intersectionCount3')?.value, 10) || 1;
-
-		if (filterNumbers3.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count3 = uniqueDigits.filter(d => filterNumbers3.includes(d)).length;
-				return count3 === intersectionCount3;
-			});
-		}
-
-		// 第四筛选
-		let filterNumbers4 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter4' + i)?.checked) filterNumbers4.push(i.toString());
-		}
-		let intersectionCount4 = parseInt(document.getElementById('intersectionCount4')?.value, 10) || 1;
-
-		if (filterNumbers4.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count4 = uniqueDigits.filter(d => filterNumbers4.includes(d)).length;
-				return count4 === intersectionCount4;
-			});
-		}
-
-		// 第五筛选
-		let filterNumbers5 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter5' + i)?.checked) filterNumbers5.push(i.toString());
-		}
-		let intersectionCount5 = parseInt(document.getElementById('intersectionCount5')?.value, 10) || 1;
-
-		if (filterNumbers5.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count5 = uniqueDigits.filter(d => filterNumbers5.includes(d)).length;
-				return count5 === intersectionCount5;
-			});
-		}
-
-		// 第六筛选
-		let filterNumbers6 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter6' + i)?.checked) filterNumbers6.push(i.toString());
-		}
-		let intersectionCount6 = parseInt(document.getElementById('intersectionCount6')?.value, 10) || 1;
-
-		if (filterNumbers6.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count6 = uniqueDigits.filter(d => filterNumbers6.includes(d)).length;
-				return count6 === intersectionCount6;
-			});
-		}
-
-		// 第七筛选
-		let filterNumbers7 = [];
-		for (let i = 0; i <= 9; i++) {
-			if (document.getElementById('filter7' + i)?.checked) filterNumbers7.push(i.toString());
-		}
-		let intersectionCount7 = parseInt(document.getElementById('intersectionCount7')?.value, 10) || 1;
-
-		if (filterNumbers7.length > 0) {
-			filteredCombinations = filteredCombinations.filter(combo => {
-				let uniqueDigits = [...new Set(combo.split(''))];
-				let count7 = uniqueDigits.filter(d => filterNumbers7.includes(d)).length;
-				return count7 === intersectionCount7;
-			});
-		}
-
-		// 输出结果
-		let result = '';
-		if (filteredCombinations.length > 0) {
-				result = `共有 ${filteredCombinations.length} 组组合<br>组合结果:<br>`;
-				for (let i = 0; i < filteredCombinations.length; i++) {
-						result += filteredCombinations[i];
-						if (i < filteredCombinations.length - 1) result += ', ';
-						if ((i + 1) % 5 === 0) result += '<br>';
-				}
-		} else {
-				result = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
-		}
-
-		document.getElementById('result').innerHTML = result;
-		document.getElementById('result').dataset.combinations = filteredCombinations.join(', ');
+    document.getElementById('result').innerHTML = result;
+    document.getElementById('result').dataset.combinations = filteredCombinations.join(', ');
 }
 
+// 还原逻辑：清空所有选择，回到最初提示状态
 function resetForm() {
-	for (let i = 0; i <= 9; i++) {
-		document.getElementById('hundred' + i).checked = false;
-		document.getElementById('ten' + i).checked = false;
-		document.getElementById('unit' + i).checked = false;
-		document.getElementById('filter' + i).checked = false;
-		document.getElementById('filter2' + i).checked = false;
-		document.getElementById('filter3' + i).checked = false;
-		document.getElementById('filter4' + i).checked = false;
-		document.getElementById('filter5' + i).checked = false;
-		document.getElementById('filter6' + i).checked = false;
-		document.getElementById('filter7' + i).checked = false;
-	}
-	document.getElementById('group3').checked = false;
-	document.getElementById('group6').checked = false;
-	document.getElementById('leopard').checked = false;
-	document.getElementById('intersectionCount').value = '1';
-	document.getElementById('intersectionCount2').value = '1';
-	document.getElementById('intersectionCount3').value = '1';
-	document.getElementById('intersectionCount4').value = '1';
-	document.getElementById('intersectionCount5').value = '1';
-	document.getElementById('intersectionCount6').value = '1';
-	document.getElementById('intersectionCount7').value = '1';
-	document.getElementById('result').innerHTML = '选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)';
-	document.getElementById('result').dataset.combinations = '';
+  for (let i = 0; i <= 9; i++) {
+    document.getElementById('hundred' + i).checked = false;
+    document.getElementById('ten' + i).checked = false;
+    document.getElementById('unit' + i).checked = false;
+  }
+  document.getElementById('group3').checked = false;
+  document.getElementById('group6').checked = false;
+  document.getElementById('leopard').checked = false;
+  
+  // 还原到只剩 1 个动态筛选组件
+  while(currentFilterCount > 1) {
+    removeLastFilter();
+  }
+
+  // 重置第 1 组号码筛选的状态
+  for (let i = 0; i <= 9; i++) {
+    let el = document.getElementById('filter' + i);
+    if (el) el.checked = false;
+  }
+  let selectEl = document.getElementById('intersectionCount');
+  if (selectEl) selectEl.value = '1';
+
+  // 恢复到初始提示状态
+  getSelectedNumbers();
 }
 
-function resetGroup(group) {
-	for (let i = 0; i <= 9; i++) {
-		let checkbox = document.getElementById(group + i);
-		if (checkbox) checkbox.checked = false;
-	}
-	getSelectedNumbers();
+// 组重置函数（清空复选框并复原交集下拉框）
+function resetGroup(group, index) {
+  for (let i = 0; i <= 9; i++) {
+    let checkbox = document.getElementById(group + i);
+    if (checkbox) checkbox.checked = false;
+  }
+  
+  if (index !== undefined) {
+    let suffix = index === 1 ? '' : index;
+    let selectEl = document.getElementById('intersectionCount' + suffix);
+    if (selectEl) selectEl.value = '1';
+  }
+
+  getSelectedNumbers();
 }
+
+// 动态创建单组号码筛选
+function createFilterGroup(index) {
+  let container = document.createElement('div');
+  container.id = `filterGroupWrapper${index}`;
+  
+  let prefix = index === 1 ? 'filter' : 'filter' + index;
+  let suffix = index === 1 ? '' : index;
+
+  let row1 = `<div class="digit-row">
+    <h3>号码筛选&lt;${index}&gt; <button type="button" class="group-reset" onclick="resetGroup('${prefix}', ${index})">重 置</button></h3>`;
+  for (let i = 0; i <= 9; i++) {
+    row1 += `<label><input type="checkbox" id="${prefix}${i}" onchange="getSelectedNumbers()"> ${i}</label>`;
+  }
+  row1 += `</div>`;
+
+  let row2 = `<div class="filter-row">
+    <h3>交集数量</h3>
+    <select id="intersectionCount${suffix}" onchange="getSelectedNumbers()">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+    </select>
+  </div>`;
+
+  container.innerHTML = row1 + row2;
+  return container;
+}
+
+// 增加一组筛选
+function addFilter() {
+  currentFilterCount++;
+  let container = document.getElementById('dynamicFilterContainer');
+  container.appendChild(createFilterGroup(currentFilterCount));
+  getSelectedNumbers();
+}
+
+// 删除最后一组筛选
+function removeLastFilter() {
+  if (currentFilterCount <= 1) return;
+  let wrapper = document.getElementById(`filterGroupWrapper${currentFilterCount}`);
+  if (wrapper) {
+    wrapper.remove();
+    currentFilterCount--;
+    getSelectedNumbers();
+  }
+}
+
+// 页面加载完成后初始化第一组
+window.addEventListener('DOMContentLoaded', () => {
+  let container = document.getElementById('dynamicFilterContainer');
+  container.appendChild(createFilterGroup(1));
+  getSelectedNumbers();
+});
 </script>
 </head>
 <body>
 <h2>选择数字</h2>
 <form>
-	<div class="digit-row">
-		<h3>百位 <button type="button" class="group-reset" onclick="resetGroup('hundred')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="hundred${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="digit-row">
-		<h3>十位 <button type="button" class="group-reset" onclick="resetGroup('ten')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="ten${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="digit-row">
-		<h3>个位 <button type="button" class="group-reset" onclick="resetGroup('unit')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="unit${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-
-	<!-- 号码筛选 1 -->
-	<div class="digit-row">
-		<h3>号码筛选<1> <button type="button" class="group-reset" onclick="resetGroup('filter')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 2 -->
-	<div class="digit-row">
-		<h3>号码筛选<2> <button type="button" class="group-reset" onclick="resetGroup('filter2')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter2${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount2" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 3 -->
-	<div class="digit-row">
-		<h3>号码筛选<3> <button type="button" class="group-reset" onclick="resetGroup('filter3')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter3${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount3" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 4 -->
-	<div class="digit-row">
-		<h3>号码筛选<4> <button type="button" class="group-reset" onclick="resetGroup('filter4')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter4${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount4" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 5 -->
-	<div class="digit-row">
-		<h3>号码筛选<5> <button type="button" class="group-reset" onclick="resetGroup('filter5')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter5${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount5" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 6 -->
-	<div class="digit-row">
-		<h3>号码筛选<6> <button type="button" class="group-reset" onclick="resetGroup('filter6')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter6${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount6" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-
-	<!-- 号码筛选 7 -->
-	<div class="digit-row">
-		<h3>号码筛选<7> <button type="button" class="group-reset" onclick="resetGroup('filter7')">重 置</button></h3>
-		<script>
-			for (let i = 0; i <= 9; i++) {
-				document.write(`<label><input type="checkbox" id="filter7${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
-			}
-		</script>
-	</div>
-	<div class="filter-row">
-		<h3>交集数量</h3>
-		<select id="intersectionCount7" onchange="getSelectedNumbers()">
-			<option value="1">1</option>
-			<option value="2">2</option>
-			<option value="3">3</option>
-		</select>
-	</div>
-	<div class="filter-row">
-		<h3>过滤选项</h3>
-		<label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
-		<label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
-		<label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
-		<button type="button" class="reset-button" onclick="resetForm()">还 原</button>
-	</div>
+  <div class="digit-row">
+    <h3>百位 <button type="button" class="group-reset" onclick="resetGroup('hundred')">重 置</button></h3>
+    <script>
+      for (let i = 0; i <= 9; i++) {
+        document.write(`<label><input type="checkbox" id="hundred${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+      }
+    </script>
+  </div>
+  <div class="digit-row">
+    <h3>十位 <button type="button" class="group-reset" onclick="resetGroup('ten')">重 置</button></h3>
+    <script>
+      for (let i = 0; i <= 9; i++) {
+        document.write(`<label><input type="checkbox" id="ten${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+      }
+    </script>
+  </div>
+  <div class="digit-row">
+    <h3>个位 <button type="button" class="group-reset" onclick="resetGroup('unit')">重 置</button></h3>
+    <script>
+      for (let i = 0; i <= 9; i++) {
+        document.write(`<label><input type="checkbox" id="unit${i}" onchange="getSelectedNumbers()"> ${i}</label>`);
+      }
+    </script>
+  </div>
+  <!-- 动态号码筛选挂载点 -->
+  <div id="dynamicFilterContainer"></div>
+  <!-- 按钮栏 -->
+  <div class="filter-row">
+    <h3>过滤选项</h3>
+    <label><input type="checkbox" id="group3" onchange="getSelectedNumbers()"> 组三</label>
+    <label><input type="checkbox" id="group6" onchange="getSelectedNumbers()"> 组六</label>
+    <label><input type="checkbox" id="leopard" onchange="getSelectedNumbers()"> 豹子</label>
+    <button type="button" class="reset-button" onclick="resetForm()">还 原</button>
+    <button type="button" class="action-button" onclick="addFilter()">＋ 添加筛选</button>
+    <button type="button" class="action-button btn-del" onclick="removeLastFilter()">－ 删除最后筛选</button>
+  </div>
 </form>
 <p id="result" data-combinations="">选中的数字: 无 (请在百位、十位、个位各至少选中一个数字，或选择过滤选项)</p>
 </body>

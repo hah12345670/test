@@ -87,7 +87,8 @@ document.writeln("184期家【牛猪狗<span style=\'background-color: #FFFF00\'
 document.writeln("186期家【羊鸡猪狗】野【<span style=\'background-color: #FFFF00\'>猴</span>虎鼠龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("187期家【<span style=\'background-color: #FFFF00\'>马</span>狗猪鸡】野【虎蛇龙兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("188期家【牛鸡狗羊】野【鼠虎龙<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("189期家【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("189期家【马鸡牛猪】野【兔鼠<span style=\'background-color: #FFFF00\'>龙</span>猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("190期家【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

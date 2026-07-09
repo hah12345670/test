@@ -18,21 +18,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("      <tr>");
-document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
-document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	171-175期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
-document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.<span style=\'background-color: #000000\'>44</span>.45");
-document.writeln("	 </font>");
-document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
-document.writeln("  </tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
 document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
@@ -43,7 +29,17 @@ document.writeln("	02.09.13.<span style=\'background-color: #000000\'>23</span>.
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
+
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	191-195期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -88,7 +84,9 @@ document.writeln("186期家【羊鸡猪狗】野【<span style=\'background-colo
 document.writeln("187期家【<span style=\'background-color: #FFFF00\'>马</span>狗猪鸡】野【虎蛇龙兔】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("188期家【牛鸡狗羊】野【鼠虎龙<span style=\'background-color: #FFFF00\'>兔</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("189期家【马鸡牛猪】野【兔鼠<span style=\'background-color: #FFFF00\'>龙</span>猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("190期家【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("190期家【马牛猪羊】野【蛇虎<span style=\'background-color: #FFFF00\'>兔</span>龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("191期家【62827.com首页查看，已更新】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 document.writeln("");

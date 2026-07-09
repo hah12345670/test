@@ -17,17 +17,8 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("182期王者六肖【马猴牛<span style=\'background-color: #FFFF00\'>虎</span>鼠蛇】√<br>");
-document.writeln("183期王者六肖【蛇龙<span style=\'background-color: #FFFF00\'>羊</span>鸡猪兔】√<br>");
-document.writeln("184期王者六肖【龙鼠猪<span style=\'background-color: #FFFF00\'>马</span>猴羊】√<br>");
-document.writeln("185期王者六肖【<span style=\'background-color: #FFFF00\'>羊</span>鼠猴狗虎牛】√<br>");
 
-document.writeln("186期王者六肖【兔虎猪鸡狗羊】×<br>");
-document.writeln("187期王者六肖【<span style=\'background-color: #FFFF00\'>马</span>狗龙猴鸡鼠】√<br>");
-
-document.writeln("188期王者六肖【虎马鼠猴狗牛】×<br>");
-document.writeln("189期王者六肖【鸡<span style=\'background-color: #FFFF00\'>龙</span>蛇牛羊兔】√<br>");
-document.writeln("190期王者六肖【狗猴羊鸡龙马】√<br>");
+document.writeln("191期王者六肖【鸡兔牛龙猪羊】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -114,7 +105,9 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("188期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇虎猴】开兔16√<br>");
 document.writeln("189期【家禽：牛鸡马狗】开龙15×<br>");
-document.writeln("190期【野兽：龙虎猴兔】开？00√<br>");
+document.writeln("190期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙虎猴<span style=\'background-color: #FFFF00\'>兔</span>】开兔16√<br>");
+
+document.writeln("191期【家禽：羊鸡猪马】开？00√<br>");
 
 
 
@@ -142,7 +135,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("190期【羊马鼠龙兔虎蛇猴鸡】开？00√<br>");
+document.writeln("190期【羊马鼠龙<span style=\'background-color: #FFFF00\'>兔</span>虎蛇猴鸡】开兔16√<br>");
+document.writeln("191期【马虎鼠猪兔狗鸡牛羊】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

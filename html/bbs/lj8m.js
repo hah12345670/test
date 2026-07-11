@@ -36,7 +36,7 @@ document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
 document.writeln("	191-195期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
-document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	02.09.13.23.<span style=\'background-color: #000000\'>25</span>.38.44.45");
 document.writeln("	 </font>");
 document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
 document.writeln("  </tr>");
@@ -86,7 +86,8 @@ document.writeln("188期家【牛鸡狗羊】野【鼠虎龙<span style=\'backgr
 document.writeln("189期家【马鸡牛猪】野【兔鼠<span style=\'background-color: #FFFF00\'>龙</span>猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("190期家【马牛猪羊】野【蛇虎<span style=\'background-color: #FFFF00\'>兔</span>龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("191期家【马猪羊牛】野【龙鼠兔<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("192期家【62827.com首页查看，已更新】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("192期家【牛狗鸡猪】野【虎鼠龙蛇】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("193期家【62827.com首页查看，已更新】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

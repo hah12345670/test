@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>呼吸(节奏)放松法</title>
+    <style>
+        :root {
+            --bg-color: #1a2634;
+            --circle-inhale: #4ade80;
+            --circle-hold: #fbbf24;
+            --circle-exhale: #60a5fa;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            min-height: 100vh;
+            box-sizing: border-box;
+            padding: 40px 20px;
+            overflow: hidden;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        /* 顶部信息 */
+        .header {
+            text-align: center;
+        }
+        h1 {
+            font-size: 1.8rem;
+            margin: 0 0 10px 0;
+            font-weight: 400;
+            letter-spacing: 2px;
+        }
+        .counter {
+            font-size: 1.1rem;
+            color: #94a3b8;
+        }
+
+        /* 核心动画区域 */
+        .container {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .circle-outer {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.03);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .circle-progress {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: var(--circle-inhale);
+            transition: transform 0.5s linear, background-color 0.5s ease;
+            box-shadow: 0 0 50px rgba(74, 222, 128, 0.3);
+            transform: scale(1);
+        }
+
+        .text-guide {
+            position: absolute;
+            font-size: 2rem;
+            font-weight: 500;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+            pointer-events: none;
+            letter-spacing: 1px;
+        }
+
+        .time-left {
+            position: absolute;
+            bottom: 70px;
+            font-size: 1.2rem;
+            color: rgba(255,255,255,0.6);
+        }
+
+        /* 底部控制区 */
+        .controls {
+            display: flex;
+            gap: 20px;
+            width: 100%;
+            max-width: 300px;
+        }
+
+        button {
+            flex: 1;
+            padding: 15px 0;
+            border: none;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            outline: none;
+        }
+
+        .btn-start {
+            background-color: #ffffff;
+            color: #1a2634;
+        }
+
+        .btn-start:active {
+            background-color: #e2e8f0;
+            transform: scale(0.98);
+        }
+
+        .btn-pause {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            display: none; /* 初始隐藏 */
+        }
+
+        .btn-pause:active {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        /* 屏幕常亮提示 */
+        .wakelock-status {
+            font-size: 0.8rem;
+            color: #4ade80;
+            margin-top: 10px;
+            opacity: 0.7;
+            height: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>呼吸法</h1>
+        <div class="counter">完成次数: <span id="cycle-count">0</span></div>
+        <div class="wakelock-status" id="wakelock-text"></div>
+    </div>
+
+    <div class="container">
+        <div class="circle-outer"></div>
+        <div class="circle-progress" id="ball"></div>
+        <div class="text-guide" id="status-text">准备</div>
+        <div class="time-left" id="timer-text"></div>
+    </div>
+
+    <div class="controls">
+        <button class="btn-start" id="start-btn">开始放松</button>
+        <button class="btn-pause" id="pause-btn">暂停</button>
+    </div>
+
+    <script>
+        // 状态常量
+        const STATE_IDLE = 'IDLE';
+        const STATE_INHALE = 'INHALE'; // 吸气 4s
+        const STATE_HOLD = 'HOLD';     // 屏息 7s
+        const STATE_EXHALE = 'EXHALE'; // 呼气 8s
+
+        // 配置
+        const DURATIONS = {
+            [STATE_INHALE]: 4,
+            [STATE_HOLD]: 7,
+            [STATE_EXHALE]: 8
+        };
+
+        const TEXTS = {
+            [STATE_INHALE]: '吸气',
+            [STATE_HOLD]: '保持',
+            [STATE_EXHALE]: '呼气'
+        };
+
+        const COLORS = {
+            [STATE_INHALE]: '#4ade80', // 绿色
+            [STATE_HOLD]: '#fbbf24',   // 黄色
+            [STATE_EXHALE]: '#60a5fa'  // 蓝色
+        };
+
+        // 变量定义
+        let currentState = STATE_IDLE;
+        let isPaused = false;
+        let cycles = 0;
+        let secondsLeft = 0;
+        let timerInterval = null;
+        let wakeLock = null;
+
+        // DOM 元素
+        const ball = document.getElementById('ball');
+        const statusText = document.getElementById('status-text');
+        const timerText = document.getElementById('timer-text');
+        const cycleCountText = document.getElementById('cycle-count');
+        const startBtn = document.getElementById('start-btn');
+        const pauseBtn = document.getElementById('pause-btn');
+        const wakelockText = document.getElementById('wakelock-text');
+
+        // 主按钮点击（开始 / 重置）
+        startBtn.addEventListener('click', () => {
+            if (currentState === STATE_IDLE) {
+                startSession();
+            } else {
+                resetSession();
+            }
+        });
+
+        // 暂停/恢复按钮点击
+        pauseBtn.addEventListener('click', () => {
+            if (isPaused) {
+                resumeSession();
+            } else {
+                pauseSession();
+            }
+        });
+
+        // 开始
+        function startSession() {
+            currentState = STATE_INHALE;
+            isPaused = false;
+            secondsLeft = DURATIONS[currentState];
+            
+            startBtn.textContent = '重置';
+            startBtn.style.backgroundColor = 'rgba(239, 68, 68, 0.2)';
+            startBtn.style.color = '#ef4444';
+            
+            pauseBtn.style.display = 'block';
+            pauseBtn.textContent = '暂停';
+
+            requestWakeLock(); // 请求屏幕常亮
+            updateUI();
+            runTimer();
+        }
+
+        // 暂停
+        function pauseSession() {
+            isPaused = true;
+            clearInterval(timerInterval);
+            pauseBtn.textContent = '继续';
+            statusText.textContent = '已暂停';
+            ball.style.transition = 'none'; // 停止动画过渡
+        }
+
+        // 继续
+        function resumeSession() {
+            isPaused = false;
+            pauseBtn.textContent = '暂停';
+            updateUI();
+            runTimer();
+        }
+
+        // 重置
+        function resetSession() {
+            clearInterval(timerInterval);
+            currentState = STATE_IDLE;
+            isPaused = false;
+            cycles = 0;
+            
+            cycleCountText.textContent = cycles;
+            statusText.textContent = '准备';
+            timerText.textContent = '';
+            
+            ball.style.transform = 'scale(1)';
+            ball.style.backgroundColor = '#4ade80';
+            ball.style.boxShadow = '0 0 50px rgba(74, 222, 128, 0.3)';
+            
+            startBtn.textContent = '开始放松';
+            startBtn.style.backgroundColor = '#ffffff';
+            startBtn.style.color = '#1a2634';
+            
+            pauseBtn.style.display = 'none';
+            
+            releaseWakeLock(); // 释放屏幕常亮
+        }
+
+        // 核心计时器循环
+        function runTimer() {
+            clearInterval(timerInterval);
+            timerInterval = setInterval(() => {
+                secondsLeft--;
+                timerText.textContent = secondsLeft + 's';
+
+                if (secondsLeft <= 0) {
+                    // 状态切换逻辑
+                    if (currentState === STATE_INHALE) {
+                        currentState = STATE_HOLD;
+                    } else if (currentState === STATE_HOLD) {
+                        currentState = STATE_EXHALE;
+                    } else if (currentState === STATE_EXHALE) {
+                        currentState = STATE_INHALE;
+                        cycles++;
+                        cycleCountText.textContent = cycles;
+                    }
+                    secondsLeft = DURATIONS[currentState];
+                    updateUI();
+                }
+            }, 1000);
+        }
+
+        // 更新视觉 UI 和动效
+        function updateUI() {
+            statusText.textContent = TEXTS[currentState];
+            timerText.textContent = secondsLeft + 's';
+            ball.style.backgroundColor = COLORS[currentState];
+            ball.style.boxShadow = `0 0 50px ${COLORS[currentState]}4d`; // 4d 是 30% 透明度的十六进制
+
+            // 动态计算缩放比例和过度时间
+            ball.style.transition = `transform ${secondsLeft}s linear, background-color 0.5s ease`;
+
+            if (currentState === STATE_INHALE) {
+                // 吸气时：小圆 -> 大圆 (用掉剩余的全部时间)
+                ball.style.transform = 'scale(2.2)';
+            } else if (currentState === STATE_HOLD) {
+                // 屏息时：保持大圆
+                ball.style.transform = 'scale(2.2)';
+            } else if (currentState === STATE_EXHALE) {
+                // 呼气时：大圆 -> 小圆
+                ball.style.transform = 'scale(1)';
+            }
+        }
+
+        /**
+         * 手机屏幕常亮 API (Wake Lock)
+         */
+        async function requestWakeLock() {
+            if ('wakeLock' in navigator) {
+                try {
+                    wakeLock = await navigator.wakeLock.request('screen');
+                    wakelockText.textContent = '✦ 屏幕常亮已启用';
+                    
+                    // 如果页面被切到后台后返回，重新申请常亮
+                    wakeLock.addEventListener('release', () => {
+                        if (currentState !== STATE_IDLE && !isPaused) {
+                            requestWakeLock();
+                        }
+                    });
+                } catch (err) {
+                    wakelockText.textContent = '';
+                    console.log(`Wake Lock 失败: ${err.name}, ${err.message}`);
+                }
+            } else {
+                wakelockText.textContent = '提示：当前浏览器不支持自动常亮';
+            }
+        }
+
+        function releaseWakeLock() {
+            if (wakeLock !== null) {
+                wakeLock.release();
+                wakeLock = null;
+            }
+            wakelockText.textContent = '';
+        }
+
+        // 监听可见性变化（切回页面时确保常亮有效）
+        document.addEventListener('visibilitychange', async () => {
+            if (wakeLock !== null && document.visibilityState === 'visible' && currentState !== STATE_IDLE && !isPaused) {
+                requestWakeLock();
+            }
+        });
+    </script>
+</body>
+</html>

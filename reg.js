@@ -70,6 +70,8 @@
 				<hr>
 				<a class="xianlu_item" href="md5.html"><div class="text">MD5加密</div><div class="icon m_show"></div></a>
 				<hr>
+				<a class="xianlu_item" href="xyx_tcs.html"><div class="text">贪吃蛇</div><div class="icon m_show"></div></a>
+				<hr>
 				<a class="xianlu_item" href="https://lotto.sina.cn/video/tcopen/"><div class="text">新浪体彩</div><div class="icon m_show"></div></a>
 				<a class="xianlu_item" href="https://lotto.sina.cn/video/fcopen"><div class="text">新浪福彩</div><div class="icon m_show"></div></a>
 				<a class="xianlu_item" href="https://m.17500.cn/"><div class="text">工具</div><div class="icon m_show"></div></a>

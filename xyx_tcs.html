@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>贪吃蛇</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #222;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        #score {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        canvas {
+            border: 4px solid #fff;
+            background-color: #111;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>贪吃蛇小游戏</h1>
+    <div id="score">得分: 0</div>
+    <canvas id="gameCanvas" width="400" height="400"></canvas>
+
+    <script>
+        const canvas = document.getElementById("gameCanvas");
+        const ctx = canvas.getContext("2d");
+        const scoreElement = document.getElementById("score");
+
+        // 游戏网格配置
+        const gridSize = 20; // 每个格子的像素大小
+        const tileCount = canvas.width / gridSize; // 一行有多少个格子 (20x20)
+
+        // 蛇的初始状态 (坐标以格子为单位)
+        let snake = [
+            { x: 10, y: 10 },
+            { x: 9, y: 10 },
+            { x: 8, y: 10 }
+        ];
+
+        // 食物位置
+        let food = { x: 5, y: 5 };
+
+        // 移动方向
+        let dx = 1; // 水平速度 (1表示向右，-1向左)
+        let dy = 0; // 垂直速度 (1表示向下，-1向上)
+
+        // 游戏变量
+        let score = 0;
+        let gameInterval;
+        let gameSpeed = 100; // 每100毫秒刷新一次 (速度)
+
+        // 启动游戏
+        function startGame() {
+            generateFood();
+            // 监听键盘事件
+            document.addEventListener("keydown", changeDirection);
+            // 开启游戏循环
+            gameInterval = setInterval(update, gameSpeed);
+        }
+
+        // 主更新循环
+        function update() {
+            moveSnake();
+
+            if (checkGameOver()) {
+                clearInterval(gameInterval);
+                alert(`游戏结束！您的得分是: ${score}`);
+                resetGame();
+                return;
+            }
+
+            checkFoodCollision();
+            draw();
+        }
+
+        // 绘制画面
+        function draw() {
+            // 1. 清空画布
+            ctx.fillStyle = "#111";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            // 2. 绘制蛇
+            ctx.fillStyle = "#4CAF50"; // 蛇的颜色
+            snake.forEach((part, index) => {
+                // 头和身体颜色稍微区分一下（可选）
+                ctx.fillStyle = index === 0 ? "#8BC34A" : "#4CAF50";
+                ctx.fillRect(part.x * gridSize, part.y * gridSize, gridSize - 2, gridSize - 2);
+            });
+
+            // 3. 绘制食物
+            ctx.fillStyle = "#FF5722"; // 食物颜色
+            ctx.fillRect(food.x * gridSize, food.y * gridSize, gridSize - 2, gridSize - 2);
+        }
+
+        // 移动蛇的逻辑
+        function moveSnake() {
+            // 创建新的蛇头坐标
+            const head = { x: snake[0].x + dx, y: snake[0].y + dy };
+            // 将新蛇头添加到阵列的开头
+            snake.unshift(head);
+            // 默认移除蛇尾（如果没有吃到食物）
+            snake.pop();
+        }
+
+        // 改变移动方向
+        function changeDirection(event) {
+            const keyPressed = event.keyCode;
+            
+            // 键盘键码
+            const LEFT = 37;
+            const UP = 38;
+            const RIGHT = 39;
+            const DOWN = 40;
+
+            // 防止蛇直接向相反方向掉头
+            const goingUp = dy === -1;
+            const goingDown = dy === 1;
+            const goingRight = dx === 1;
+            const goingLeft = dx === -1;
+
+            if (keyPressed === LEFT && !goingRight) { dx = -1; dy = 0; }
+            if (keyPressed === UP && !goingDown) { dx = 0; dy = -1; }
+            if (keyPressed === RIGHT && !goingLeft) { dx = 1; dy = 0; }
+            if (keyPressed === DOWN && !goingUp) { dx = 0; dy = 1; }
+        }
+
+        // 碰撞检测（墙壁或自己）
+        function checkGameOver() {
+            const head = snake[0];
+
+            // 撞墙
+            const hitLeftWall = head.x < 0;
+            const hitRightWall = head.x >= tileCount;
+            const hitTopWall = head.y < 0;
+            const hitBottomWall = head.y >= tileCount;
+
+            if (hitLeftWall || hitRightWall || hitTopWall || hitBottomWall) return true;
+
+            // 撞到自己 (从索引1开始遍历，因为0是蛇头本身)
+            for (let i = 1; i < snake.length; i++) {
+                if (head.x === snake[i].x && head.y === snake[i].y) return true;
+            }
+
+            return false;
+        }
+
+        // 检测是否吃到食物
+        function checkFoodCollision() {
+            const head = snake[0];
+            if (head.x === food.x && head.y === food.y) {
+                score += 10;
+                scoreElement.innerText = `得分: ${score}`;
+                
+                // 吃到食物时，蛇会变长：
+                // 因为 moveSnake 中做了 pop()，我们在尾部加回一个节点补齐体积
+                // 或者更简单的逻辑：在 moveSnake 里如果不吃食物才 pop，这里为保持逻辑清晰采用直接在尾部加回原尾巴的偷懒法，或者采用以下标准做法：
+                // 技巧：其实只要在吃到食物的这一帧，不让蛇尾 pop 即可。
+                // 为了配合前面的 moveSnake() 已经 pop 了，我们在这把被删掉的尾巴“长”回来：
+                const tail = snake[snake.length - 1];
+                snake.push({ x: tail.x, y: tail.y });
+
+                generateFood();
+            }
+        }
+
+        // 随机生成食物
+        function generateFood() {
+            food.x = Math.floor(Math.random() * tileCount);
+            food.y = Math.floor(Math.random() * tileCount);
+
+            // 确保食物不会生成在蛇的身体上
+            snake.forEach(part => {
+                const hasEaten = part.x === food.x && part.y === food.y;
+                if (hasEaten) generateFood();
+            });
+        }
+
+        // 重置游戏
+        function resetGame() {
+            snake = [
+                { x: 10, y: 10 },
+                { x: 9, y: 10 },
+                { x: 8, y: 10 }
+            ];
+            dx = 1;
+            dy = 0;
+            score = 0;
+            scoreElement.innerText = `得分: ${score}`;
+            startGame();
+        }
+
+        // 运行游戏
+        startGame();
+    </script>
+</body>
+</html>

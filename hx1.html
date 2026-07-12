@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>呼吸(节奏)放松法</title>
     <style>
         :root {
@@ -21,10 +21,11 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: space-between;
-            min-height: 100vh;
+            justify-content: space-evenly; /* 均匀分配垂直剩余空间 */
+            height: 100vh; /* 兜底 */
+            height: 100dvh; /* 动态适配移动端视口高度，扣除工具栏 */
             box-sizing: border-box;
-            padding: 40px 20px;
+            padding: 20px; /* 减小四周留白 */
             overflow: hidden;
             user-select: none;
             -webkit-user-select: none;
@@ -33,26 +34,28 @@
         /* 顶部信息 */
         .header {
             text-align: center;
+            width: 100%;
         }
         h1 {
-            font-size: 1.8rem;
-            margin: 0 0 10px 0;
+            font-size: 1.6rem; /* 稍微缩小以适配小屏 */
+            margin: 0 0 8px 0;
             font-weight: 400;
             letter-spacing: 2px;
         }
         .counter {
-            font-size: 1.1rem;
+            font-size: 1rem;
             color: #94a3b8;
         }
 
         /* 核心动画区域 */
         .container {
             position: relative;
-            width: 300px;
-            height: 300px;
+            width: 280px; /* 缩小大圆，确保小屏幕手机也能完美显示 */
+            height: 280px;
             display: flex;
             align-items: center;
             justify-content: center;
+            margin: 20px 0;
         }
 
         .circle-outer {
@@ -68,8 +71,8 @@
         }
 
         .circle-progress {
-            width: 120px;
-            height: 120px;
+            width: 110px;
+            height: 110px;
             border-radius: 50%;
             background: var(--circle-inhale);
             transition: transform 0.5s linear, background-color 0.5s ease;
@@ -88,29 +91,30 @@
 
         .time-left {
             position: absolute;
-            bottom: 70px;
-            font-size: 1.2rem;
-            color: rgba(255,255,255,0.6);
+            bottom: 60px; /* 调整倒计时位置 */
+            font-size: 1.3rem;
+            color: rgba(255,255,255,0.5);
         }
 
         /* 底部控制区 */
         .controls {
             display: flex;
-            gap: 20px;
+            gap: 15px;
             width: 100%;
-            max-width: 300px;
+            max-width: 280px;
         }
 
         button {
             flex: 1;
-            padding: 15px 0;
+            padding: 14px 0;
             border: none;
             border-radius: 30px;
-            font-size: 1.1rem;
+            font-size: 1rem;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s ease;
             outline: none;
+            -webkit-tap-highlight-color: transparent; /* 清除移动端点击蓝框 */
         }
 
         .btn-start {
@@ -127,7 +131,7 @@
             background-color: rgba(255, 255, 255, 0.1);
             color: #ffffff;
             border: 1px solid rgba(255, 255, 255, 0.2);
-            display: none; /* 初始隐藏 */
+            display: none;
         }
 
         .btn-pause:active {
@@ -136,9 +140,9 @@
 
         /* 屏幕常亮提示 */
         .wakelock-status {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: #4ade80;
-            margin-top: 10px;
+            margin-top: 6px;
             opacity: 0.7;
             height: 12px;
         }
@@ -165,13 +169,12 @@
     </div>
 
     <script>
-        // 状态常量
+        // JavaScript 逻辑保持原样
         const STATE_IDLE = 'IDLE';
-        const STATE_INHALE = 'INHALE'; // 吸气 4s
-        const STATE_HOLD = 'HOLD';     // 屏息 7s
-        const STATE_EXHALE = 'EXHALE'; // 呼气 8s
+        const STATE_INHALE = 'INHALE';
+        const STATE_HOLD = 'HOLD';
+        const STATE_EXHALE = 'EXHALE';
 
-        // 配置
         const DURATIONS = {
             [STATE_INHALE]: 4,
             [STATE_HOLD]: 7,
@@ -185,12 +188,11 @@
         };
 
         const COLORS = {
-            [STATE_INHALE]: '#4ade80', // 绿色
-            [STATE_HOLD]: '#fbbf24',   // 黄色
-            [STATE_EXHALE]: '#60a5fa'  // 蓝色
+            [STATE_INHALE]: '#4ade80',
+            [STATE_HOLD]: '#fbbf24',
+            [STATE_EXHALE]: '#60a5fa'
         };
 
-        // 变量定义
         let currentState = STATE_IDLE;
         let isPaused = false;
         let cycles = 0;
@@ -198,7 +200,6 @@
         let timerInterval = null;
         let wakeLock = null;
 
-        // DOM 元素
         const ball = document.getElementById('ball');
         const statusText = document.getElementById('status-text');
         const timerText = document.getElementById('timer-text');
@@ -207,7 +208,6 @@
         const pauseBtn = document.getElementById('pause-btn');
         const wakelockText = document.getElementById('wakelock-text');
 
-        // 主按钮点击（开始 / 重置）
         startBtn.addEventListener('click', () => {
             if (currentState === STATE_IDLE) {
                 startSession();
@@ -216,7 +216,6 @@
             }
         });
 
-        // 暂停/恢复按钮点击
         pauseBtn.addEventListener('click', () => {
             if (isPaused) {
                 resumeSession();
@@ -225,7 +224,6 @@
             }
         });
 
-        // 开始
         function startSession() {
             currentState = STATE_INHALE;
             isPaused = false;
@@ -238,21 +236,19 @@
             pauseBtn.style.display = 'block';
             pauseBtn.textContent = '暂停';
 
-            requestWakeLock(); // 请求屏幕常亮
+            requestWakeLock();
             updateUI();
             runTimer();
         }
 
-        // 暂停
         function pauseSession() {
             isPaused = true;
             clearInterval(timerInterval);
             pauseBtn.textContent = '继续';
             statusText.textContent = '已暂停';
-            ball.style.transition = 'none'; // 停止动画过渡
+            ball.style.transition = 'none';
         }
 
-        // 继续
         function resumeSession() {
             isPaused = false;
             pauseBtn.textContent = '暂停';
@@ -260,7 +256,6 @@
             runTimer();
         }
 
-        // 重置
         function resetSession() {
             clearInterval(timerInterval);
             currentState = STATE_IDLE;
@@ -281,10 +276,9 @@
             
             pauseBtn.style.display = 'none';
             
-            releaseWakeLock(); // 释放屏幕常亮
+            releaseWakeLock();
         }
 
-        // 核心计时器循环
         function runTimer() {
             clearInterval(timerInterval);
             timerInterval = setInterval(() => {
@@ -292,7 +286,6 @@
                 timerText.textContent = secondsLeft + 's';
 
                 if (secondsLeft <= 0) {
-                    // 状态切换逻辑
                     if (currentState === STATE_INHALE) {
                         currentState = STATE_HOLD;
                     } else if (currentState === STATE_HOLD) {
@@ -308,38 +301,29 @@
             }, 1000);
         }
 
-        // 更新视觉 UI 和动效
         function updateUI() {
             statusText.textContent = TEXTS[currentState];
             timerText.textContent = secondsLeft + 's';
             ball.style.backgroundColor = COLORS[currentState];
-            ball.style.boxShadow = `0 0 50px ${COLORS[currentState]}4d`; // 4d 是 30% 透明度的十六进制
+            ball.style.boxShadow = `0 0 50px ${COLORS[currentState]}4d`;
 
-            // 动态计算缩放比例和过度时间
             ball.style.transition = `transform ${secondsLeft}s linear, background-color 0.5s ease`;
 
             if (currentState === STATE_INHALE) {
-                // 吸气时：小圆 -> 大圆 (用掉剩余的全部时间)
                 ball.style.transform = 'scale(2.2)';
             } else if (currentState === STATE_HOLD) {
-                // 屏息时：保持大圆
                 ball.style.transform = 'scale(2.2)';
             } else if (currentState === STATE_EXHALE) {
-                // 呼气时：大圆 -> 小圆
                 ball.style.transform = 'scale(1)';
             }
         }
 
-        /**
-         * 手机屏幕常亮 API (Wake Lock)
-         */
         async function requestWakeLock() {
             if ('wakeLock' in navigator) {
                 try {
                     wakeLock = await navigator.wakeLock.request('screen');
                     wakelockText.textContent = '✦ 屏幕常亮已启用';
                     
-                    // 如果页面被切到后台后返回，重新申请常亮
                     wakeLock.addEventListener('release', () => {
                         if (currentState !== STATE_IDLE && !isPaused) {
                             requestWakeLock();
@@ -362,7 +346,6 @@
             wakelockText.textContent = '';
         }
 
-        // 监听可见性变化（切回页面时确保常亮有效）
         document.addEventListener('visibilitychange', async () => {
             if (wakeLock !== null && document.visibilityState === 'visible' && currentState !== STATE_IDLE && !isPaused) {
                 requestWakeLock();

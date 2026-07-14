@@ -106,7 +106,7 @@
 					<a href="search.html">搜索引擎</a>
 					<a href="k8_view.html">k8视图</a>
 					<a href="he7数据分析weekday_ngzsx.html">He7视图</a>
-					<a href="tongji.html"><计访问量</a>
+					<a href="tongji.html">统计访问量</a>
 					<a href="gz.html">干支</a>
 					<a href="xlr.html">小六壬</a>
 				</div>

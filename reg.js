@@ -89,7 +89,6 @@ function getMenuHtml() {
 			<div class="menu-title">工具</div>
 			<div class="submenu">
 				<a href="md5.html">MD5加密</a>
-				<a href="https://tool.chinaz.com/js.aspx">JS混淆(加密压缩)</a>
 				<a href="https://www.lzltool.cn/js">JS混淆加密</a>
 			</div>
 		</div>

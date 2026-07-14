@@ -24,7 +24,7 @@
 		
 		// 强制重定向回登录页
 		window.location.href = 'reg.html'; */
-		document.body.children[0].children[1].innerHTML = `
+		document.body.children[1].innerHTML = `
 			<style>
 				body {
 					font-family: sans-serif;
@@ -34,7 +34,7 @@
 				}
 				.container {
 					background: white;
-					display: inline-block;
+					display: block;
 					padding: 20px;
 					border-radius: 8px;
 					box-shadow: 0 4px 6px rgba(0,0,0,0.1);
@@ -49,44 +49,67 @@
 			</div>
 		`;
 	} else {
-		document.body.children[0].children[1].innerHTML = `
-			<div class="clearfix">
-				<a class="xianlu_item" href="he7.html"><div class="text">推荐网址</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="hek8.html"><div class="text">快乐8</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="hepl3.html"><div class="text">排列3</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="he3d.html"><div class="text">3D</div><div class="icon m_show"></div></a>
-				<hr>
-				<a class="xianlu_item" href="view1.txt"><div class="text">数据分析</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="kcb.txt"><div class="text">课程安排</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="redbook.txt"><div class="text">笔记运营</div><div class="icon m_show"></div></a>
-				<hr>
-				<a class="xianlu_item" href="pkp.html"><div class="text">游戏</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="xlr1.html"><div class="text">象数</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="scjx.html"><div class="text">时辰</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="html/djs_time/index.html"><div class="text">翻页倒计时</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="hx.html"><div class="text">节奏训练</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="hx1.html"><div class="text">呼吸放松法</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="qqnc.html"><div class="text">QQ农场</div><div class="icon m_show"></div></a>
-				<hr>
-				<a class="xianlu_item" href="md5.html"><div class="text">MD5加密</div><div class="icon m_show"></div></a>
-				<hr>
-				<a class="xianlu_item" href="https://lotto.sina.cn/video/tcopen/"><div class="text">新浪体彩</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://lotto.sina.cn/video/fcopen"><div class="text">新浪福彩</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://m.17500.cn/"><div class="text">工具</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://wannianrili.bmcx.com/"><div class="text">万年日历</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="http://zydx.top/"><div class="text">周易</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://www.chacewang.com/"><div class="text">寻策网|科</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://typhoon.slt.zj.gov.cn/wap.htm#/"><div class="text">台风路径</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="https://m.chart.ydniu.com/zoushi/kl8_xjbzs/"><div class="text">快乐8走势图</div><div class="icon m_show"></div></a>
-				<hr>
-				<a class="xianlu_item" href="work.html"><div class="text">工作记录</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="search.html"><div class="text">搜索引擎</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="k8_view.html"><div class="text">k8视图</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="he7数据分析weekday_ngzsx.html"><div class="text">He7视图</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="tongji.html"><div class="text">统计访问量</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="gz.html"><div class="text">干支</div><div class="icon m_show"></div></a>
-				<a class="xianlu_item" href="xlr.html"><div class="text">小六壬</div><div class="icon m_show"></div></a>
-				<hr>
+		document.body.children[1].innerHTML = `
+			<link rel="stylesheet" href="tj.css">
+			<div class="menu-item">
+				<div class="menu-title">项目</div>
+				<div class="submenu">
+					<a href="he7.html">推荐网址</a>
+					<a href="hek8.html">快乐8</a>
+					<a href="hepl3.html">排列3</a>
+					<a href="he3d.html">3D</a>
+				</div>
+			</div>
+			<div class="menu-item">
+				<div class="menu-title">学习</div>
+				<div class="submenu">
+					<a href="view1.txt">数据分析</a>
+					<a href="kcb.txt">课程安排</a>
+					<a href="redbook.txt">笔记运营</a>
+				</div>
+			</div>
+			<div class="menu-item">
+				<div class="menu-title">娱乐</div>
+				<div class="submenu">
+					<a href="pkp.html">游戏</a>
+					<a href="xlr1.html">象数</a>
+					<a href="scjx.html">时辰</a>
+					<a href="html/djs_time/index.html">翻页倒计时</a>
+					<a href="hx.html">节奏训练</a>
+					<a href="hx1.html">呼吸放松法</a>
+					<a href="qqnc.html">QQ农场</a>
+				</div>
+			</div>
+			<div class="menu-item">
+				<div class="menu-title">工具</div>
+				<div class="submenu">
+					<a href="md5.html">MD5加密</a>
+				</div>
+			</div>
+			<div class="menu-item">
+				<div class="menu-title">日常</div>
+				<div class="submenu">
+					<a href="https://lotto.sina.cn/video/tcopen/">新浪体彩</a>
+					<a href="https://lotto.sina.cn/video/fcopen">新浪福彩</a>
+					<a href="https://m.17500.cn/">工具</a>
+					<a href="https://wannianrili.bmcx.com/">万年日历</a>
+					<a href="http://zydx.top/">周易</a>
+					<a href="https://www.chacewang.com/">寻策网</a>
+					<a href="https://typhoon.slt.zj.gov.cn/wap.htm#/">台风路径</a>
+					<a href="https://m.chart.ydniu.com/zoushi/kl8_xjbzs/">快乐8走势图</a>
+				</div>
+			</div>
+			<div class="menu-item">
+				<div class="menu-title">记录</div>
+				<div class="submenu">
+					<a href="work.html">工作记录</a>
+					<a href="search.html">搜索引擎</a>
+					<a href="k8_view.html">k8视图</a>
+					<a href="he7数据分析weekday_ngzsx.html">He7视图</a>
+					<a href="tongji.html"><计访问量</a>
+					<a href="gz.html">干支</a>
+					<a href="xlr.html">小六壬</a>
+				</div>
 			</div>
 		`;
 	}

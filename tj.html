@@ -5,45 +5,21 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<title>推荐导航</title>
-		<link rel="stylesheet" href="he_js_css_img/main.css">
 		<script src="https://cdn.bootcdn.net/ajax/libs/blueimp-md5/2.19.0/js/md5.min.js"></script>
 	</head>
 	<body>
-		<div class="body_view">
-			<div class="header_title clearfix">
-				<a class="logo fl" href="" target="view_window" style="user-select: none"></a>
-				<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-				<div style="font-weight: bolder;font-size: 0px;">
-					<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
-					<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
-					<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
-				</div>
+		<div class="header_title clearfix">
+			<a class="logo fl" href="" target="view_window" style="user-select: none"></a>
+			<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+			<div style="font-weight: bolder;font-size: 0px;">
+				<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
+				<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
+				<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
 			</div>
-			<div class="xianlu"></div>
-			<script src="reg.js"></script>
 		</div>
-		<div style="display:none;">
-			<script src="he_js_css_img/hm.js"></script>
-			<script>
-				var _hmt = _hmt || [];
-				(function() {
-					var hm = document.createElement("script");
-					hm.src = "https://hm.123.com/hm.js?1897ad017fa0eb9e1dcd420ea26be748";
-					var s = document.getElementsByTagName("script")[0]; 
-					s.parentNode.insertBefore(hm, s);
-				})();
-			</script>
-		</div>
-		<script src="he_js_css_img/jquery-3.6.0.min.js"></script>
-		<script>
-			$('.used_title_item').click(function() {
-				var index = $(this).index()
-				$('.used_title_item').removeClass('select')
-				$(this).addClass('select')
-				$('.used_item').removeClass('m_showUsed').addClass('m_none').eq(index).removeClass('m_none').addClass(
-					'm_showUsed')
-			})
-		</script>
+		<div class="menu-container"></div>
+		<script src="reg.js"></script>
+		<script src="tj.js"></script>
 	</body>
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>

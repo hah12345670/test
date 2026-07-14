@@ -72,10 +72,12 @@ document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("195期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【绿双蓝单蓝双】</font>开？00准<br><br>");
+
+
+
+document.writeln("196期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【62827.com高手榜查看】</font>开？00准<br><br>");
+
+document.writeln("195期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【绿双<span style=\'background-color: #FFFF00\'>蓝单</span>蓝双】</font>开马25准<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("194期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【绿单<span style=\"background-color: #FFFF00\">蓝双</span>绿双】</font>开蛇26准<br><br>");

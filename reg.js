@@ -70,6 +70,7 @@ function getMenuHtml() {
 			<div class="submenu">
 				<a href="view1.txt">数据分析</a>
 				<a href="kcb.txt">课程安排</a>
+				<a href="search.html">搜索引擎</a>
 				<a href="redbook.txt">笔记运营</a>
 			</div>
 		</div>
@@ -109,7 +110,6 @@ function getMenuHtml() {
 			<div class="menu-title">记录</div>
 			<div class="submenu">
 				<a href="work.html">工作记录</a>
-				<a href="search.html">搜索引擎</a>
 				<a href="k8_view.html">k8视图</a>
 				<a href="he7数据分析weekday_ngzsx.html">He7视图</a>
 				<a href="tongji.html">统计访问量</a>

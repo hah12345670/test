@@ -41,30 +41,7 @@
 		if (encryptedUser !== targetUserMd5 || encryptedPwd !== targetPwdMd5) {
 			// 强制重定向回登录页
 			// window.location.href = 'reg.html';
-			menuContainer.innerHTML = `
-				<style>
-					body {
-						font-family: sans-serif;
-						text-align: center;
-						padding-top: 100px;
-						background: #f4f6f9;
-					}
-					.container {
-						background: white;
-						display: block;
-						padding: 20px;
-						border-radius: 8px;
-						box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-					}
-					h1 {
-						color: #e74c3c;
-					}
-				</style>
-				<div class="container">
-					<h1>测试</h1>
-					<p>测试访问此界面。</p>
-				</div>
-			`;
+			menuContainer.innerHTML = getErrorHtml();
 		} else {
 			menuContainer.innerHTML = getMenuHtml();
 			bindMenuEvents(menuContainer);
@@ -106,4 +83,5 @@ function bindMenuEvents(container) {
 			});
 	});
 }
-eval(function(a,e,t,n,c,o){if(c=function(a){return a.toString(36)},0=="0".replace(0,c)){for(;t--;)o[c(t)]=n[t];n=[function(a){return o[a]||a}],c=function(){return"[0-24-79b-l]"},t=1}for(;t--;)n[t]&&(a=a.replace(new RegExp("\\b"+c(t)+"\\b","g"),n[t]));return a}('function getMenuHtml(){return`<link rel="stylesheet"1="tj.css"><0 4="5-7"><0 4="5-9">项目</0><0 4="b"><a 1="g.2">推荐网址</a><a 1="hek8.2">快乐8</a><a 1="hepl3.2">排列3</a><a 1="he3d.2">3D</a></0></0><0 4="5-7"><0 4="5-9">学习</0><0 4="b"><a 1="view1.f">数据分析</a><a 1="kcb.f">课程安排</a><a 1="search.2">搜索引擎</a><a 1="redbook.f">笔记运营</a></0></0><0 4="5-7"><0 4="5-9">娱乐</0><0 4="b"><a 1="pkp.2">游戏</a><a 1="xlr1.2">象数</a><a 1="scjx.2">时辰</a><a 1="2/djs_time/index.2">翻页倒计时</a><a 1="hx.2">节奏训练</a><a 1="hx1.2">呼吸放松法</a><a 1="qqnc.2">QQ农场</a></0></0><0 4="5-7"><0 4="5-9">工具</0><0 4="b"><a 1="md5.2">MD5加密</a><a 1="6://obfuscator.io/legacy-playground">d混淆加密(有概率可以)</a><a 1="h://i.esjson.c/jsformat.2">d加密压缩</a><a 1="6://jscompress.c/">d压缩</a>\x3c!--d混淆加密效果不明显--\x3e</0></0><0 4="5-7"><0 4="5-9">日常</0><0 4="b"><a 1="6://j.k.e/l/tcopen/">新浪体彩</a><a 1="6://j.k.e/l/fcopen">新浪福彩</a><a 1="6://m.17500.e/">工具</a><a 1="6://wannianrili.bmcx.c/">万年日历</a><a 1="h://zydx.top/">周易</a><a 1="6://i.chacewang.c/">寻策网</a><a 1="6://typhoon.slt.zj.gov.e/wap.htm#/">台风路径</a><a 1="6://m.chart.ydniu.c/zoushi/kl8_xjbzs/">快乐8走势图</a></0></0><0 4="5-7"><0 4="5-9">记录</0><0 4="b"><a 1="work.2">工作记录</a><a 1="k8_view.2">k8视图</a><a 1="g数据分析weekday_ngzsx.2">He7视图</a><a 1="tongji.2">统计访问量</a><a 1="gz.2">干支</a><a 1="xlr.2">小六壬</a></0></0>`}',0,22,"div|href|html||class|menu|https|item||title||submenu|com|JS|cn|txt|he7|http|www|lotto|sina|video".split("|"),0,{}));
+
+eval(function(a,e,t,n,o,r){if(o=function(a){return a.toString(36)},0=="0".replace(0,o)){for(;t--;)r[o(t)]=n[t];n=[function(a){return r[a]||a}],o=function(){return"[24-79b-lnoq-x]"},t=1}for(;t--;)n[t]&&(a=a.replace(new RegExp("\\b"+o(t)+"\\b","g"),n[t]));return a}('j getMenuHtml(){k`<link rel="stylesheet"4="tj.css"><2 6="7-b"><2 6="7-c">项目</2><2 6="d"><a 4="l.5">推荐网址</a><a 4="hek8.5">快乐8</a><a 4="hepl3.5">排列3</a><a 4="he3d.5">3D</a></2></2><2 6="7-b"><2 6="7-c">学习</2><2 6="d"><a 4="view1.h">数据分析</a><a 4="kcb.h">课程安排</a><a 4="search.5">搜索引擎</a><a 4="redbook.h">笔记运营</a></2></2><2 6="7-b"><2 6="7-c">娱乐</2><2 6="d"><a 4="pkp.5">游戏</a><a 4="xlr1.5">象数</a><a 4="scjx.5">时辰</a><a 4="5/djs_time/index.5">翻页倒计时</a><a 4="hx.5">节奏训练</a><a 4="hx1.5">呼吸放松法</a><a 4="qqnc.5">QQ农场</a></2></2><2 6="7-b"><2 6="7-c">工具</2><2 6="d"><a 4="md5.5">MD5加密</a><a 4="9://obfuscator.io/legacy-playground">f混淆加密(有概率可以)</a><a 4="n://o.esjson.e/jsformat.5">f加密压缩</a><a 4="9://jscompress.e/">f压缩</a>\x3c!--f混淆加密效果不明显--\x3e</2></2><2 6="7-b"><2 6="7-c">日常</2><2 6="d"><a 4="9://q.r.g/s/tcopen/">新浪体彩</a><a 4="9://q.r.g/s/fcopen">新浪福彩</a><a 4="9://m.17500.g/">工具</a><a 4="9://wannianrili.bmcx.e/">万年日历</a><a 4="n://zydx.t/">周易</a><a 4="9://o.chacewang.e/">寻策网</a><a 4="9://typhoon.slt.zj.gov.g/wap.htm#/">台风路径</a><a 4="9://m.chart.ydniu.e/zoushi/kl8_xjbzs/">快乐8走势图</a></2></2><2 6="7-b"><2 6="7-c">记录</2><2 6="d"><a 4="work.5">工作记录</a><a 4="k8_view.5">k8视图</a><a 4="l数据分析weekday_ngzsx.5">He7视图</a><a 4="tongji.5">统计访问量</a><a 4="gz.5">干支</a><a 4="xlr.5">小六壬</a></2></2>`}j getErrorHtml(){k`<u>body{font-family:sans-serif;text-align:center;v-t:100px;w:#f4f6f9}.x{w:white;display:block;v:20px;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.1)}i{color:#e74c3c}</u><2 6="x"><i>测试</i><p>测试访问此界面。</p></2>`}',0,34,"||div||href|html|class|menu||https||item|title|submenu|com|JS|cn|txt|h1|function|return|he7||http|www||lotto|sina|video|top|style|padding|background|container".split("|"),0,{}));

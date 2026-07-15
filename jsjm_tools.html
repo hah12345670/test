@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>极简 JS 自定义加密工具</title>
+	<style>
+		body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #f5f7fb; color: #333; }
+		h2 { color: #2c3e50; border-bottom: 2px solid #eaeefb; padding-bottom: 10px; }
+		textarea { width: 100%; height: 200px; padding: 12px; border: 1px solid #dcdfe6; border-radius: 6px; resize: vertical; font-family: monospace; box-sizing: border-box; margin-bottom: 15px; }
+		input[type="text"] { width: 100%; padding: 10px; border: 1px solid #dcdfe6; border-radius: 6px; box-sizing: border-box; margin-bottom: 15px; }
+		button { background: #409eff; color: white; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-size: 16px; font-weight: bold; width: 100%; }
+		button:hover { background: #66b1ff; }
+		.label { font-weight: bold; margin-bottom: 6px; display: block; color: #606266; }
+		.tips { background: #fdf6ec; color: #e6a23c; padding: 10px; border-radius: 4px; font-size: 13px; margin-bottom: 20px; border-left: 4px solid #e6a23c; }
+	</style>
+</head>
+<body>
+
+	<h2>🔑 JS 自定义「异或 + Base64」加密生成器</h2>
+	<div class="tips">提示：此工具完全在本地浏览器运行，不会上传您的代码和密钥，请放心使用。</div>
+
+	<label class="label">1. 请输入你原本的 JS 源码：</label>
+	<textarea id="rawCode" placeholder="在此粘贴你未加密的 JS 代码..."></textarea>
+
+	<label class="label">2. 自定义密钥（建议自己随便改一个复杂的词）：</label>
+	<input type="text" id="secretKey" value="MyCustomKey_2026_@!" placeholder="例如：MyCustomKey_2026">
+
+	<button onclick="handleEncrypt()">点击一键生成加密代码</button>
+
+	<h2 style="margin-top: 40px;">🎁 生成的加密结果：</h2>
+	<label class="label">直接复制下方整段代码，放到你网页的 &lt;body&gt; 底部即可：</label>
+	<textarea id="outputCode" readonly placeholder="加密后的代码将显示在这里..."></textarea>
+
+	<script>
+		function handleEncrypt() {
+			const rawCode = document.getElementById('rawCode').value.trim();
+			const key = document.getElementById('secretKey').value.trim();
+
+			if (!rawCode) {
+				alert('请输入源码！');
+				return;
+			}
+			if (!key) {
+				alert('请设置密钥！');
+				return;
+			}
+
+			// 1. 自定义 XOR 异或加密
+			let xorResult = '';
+			for (let i = 0; i < rawCode.length; i++) {
+				let charCode = rawCode.charCodeAt(i) ^ key.charCodeAt(i % key.length);
+				xorResult += String.fromCharCode(charCode);
+			}
+
+			// 2. 转换为 Base64 安全字符（经过 URI 编码防止中文字符乱码）
+			const base64Str = btoa(encodeURIComponent(xorResult));
+
+			// 3. 生成运行时自解密运行的模板代码
+			const finalTemplate = `<script>
+(function() {
+	// 混淆后的密文
+	const _0x_data = "${base64Str}";
+	// 解密密钥
+	const _0x_auth = "${key}";
+
+	function _0x_decode(str, key) {
+		const raw = decodeURIComponent(atob(str));
+		let decoded = '';
+		for (let i = 0; i < raw.length; i++) {
+			decoded += String.fromCharCode(raw.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+		}
+		return decoded;
+	}
+
+	try {
+		const realCode = _0x_decode(_0x_data, _0x_auth);
+		(new Function(realCode))();
+	} catch(e) {
+		console.warn("Permission Denied.");
+	}
+})();
+<\/script>`;
+
+			document.getElementById('outputCode').value = finalTemplate;
+		}
+	</script>
+</body>
+</html>

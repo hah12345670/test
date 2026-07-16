@@ -42,6 +42,17 @@ document.writeln("	</font><span style=\"background-color: #000000\"></font></spa
 document.writeln("  </tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("      <tr>");
+document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
+document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
+document.writeln("	196-200期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
+document.writeln("	02.09.13.23.25.38.44.45");
+document.writeln("	 </font>");
+document.writeln("	</font><span style=\"background-color: #000000\"></font></span></td>");
+document.writeln("  </tr>");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -75,7 +86,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 
 
 
-document.writeln("197期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【62827.com高手榜查看】</font>开？00准<br><br>");
+document.writeln("197期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【蓝单红双蓝双】</font>开？00准<br><br>");
 
 document.writeln("196期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【<span style=\'background-color: #FFFF00\'>绿单</span>绿双红单】</font>开龙39准<br><br>");
 

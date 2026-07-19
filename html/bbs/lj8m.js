@@ -78,35 +78,36 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【长凌公会】(三个半波)</font><br>");
+document.writeln("【六合鬼才】(单双三肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 
 
-document.writeln("200期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【来料中】</font>开？00准<br><br>");
-
-
-document.writeln("197期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【蓝单<span style=\'background-color: #FFFF00\'>红双</span>蓝双】</font>开猪08准<br><br>");
-
-document.writeln("196期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【<span style=\'background-color: #FFFF00\'>绿单</span>绿双红单】</font>开龙39准<br><br>");
-
-document.writeln("195期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【绿双<span style=\'background-color: #FFFF00\'>蓝单</span>蓝双】</font>开马25准<br><br>");
 document.writeln("");
+document.writeln("195期【单双中特】开蛇26中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【双数】</span> 主 【羊牛兔】<BR><BR>");
 document.writeln("");
-document.writeln("194期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【绿单<span style=\"background-color: #FFFF00\">蓝双</span>绿双】</font>开蛇26准<br><br>");
+document.writeln("195期【单双中特】开马25中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单数】</span> 主 【<span style=\"background-color: #FFFF00\">马</span>虎猴】<BR><BR>");
 document.writeln("");
-document.writeln("193期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【蓝双<span style=\"background-color: #FFFF00\">蓝单</span>绿双】</font>开狗09准<br><br>");
+document.writeln("196期【单双中特】开龙39中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单数】 </span>主 【<span style=\"background-color: #FFFF00\">龙</span>马猴】<BR><BR>");
 document.writeln("");
-document.writeln("192期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【红双<span style=\'background-color: #FFFF00\'>蓝单</span>蓝双】</font>开马25准<br><br>");
+document.writeln("197期【单双中特】开猪08中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【<span style=\"background-color: #FFFF00\">猪</span>羊兔】<BR><BR>");
 document.writeln("");
-document.writeln("191期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【<span style=\"background-color: #FFFF00\">红单</span>红双绿双】</font>开虎29准<br><br>");
+document.writeln("198期【单双中特】开鼠07中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【<span style=\"background-color: #FFFF00\">鼠</span>猴狗】<BR><BR>");
+document.writeln("	");
 document.writeln("");
-document.writeln("");
-document.writeln("190期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【红单<span style=\"background-color: #FFFF00\">绿双</span>红双】</font>开兔16准<br><br>");
-document.writeln("");
-
+document.writeln("199期【单双中特】开羊36中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【牛<span style=\"background-color: #FFFF00\">羊</span>猪】<BR><BR>");
+document.writeln("	");
+document.writeln("200期【单双中特】开？00中<BR>");
+document.writeln("【62827.com高手榜查看已更新】<BR><BR>");
+document.writeln("	");
 
 document.writeln("");
 document.writeln("		<br></font>		</font>	");

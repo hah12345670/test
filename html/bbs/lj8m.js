@@ -89,7 +89,7 @@ document.writeln("【双肖】 主 【蛇猪鸡】<BR><BR>");
 document.writeln("	");
 document.writeln("	");
 document.writeln("201期【单双中特】开？00中<BR>");
-document.writeln("【62827.com高手榜查看】<BR><BR>");
+document.writeln("【单肖】 主 【马虎狗】<BR><BR>");
 document.writeln("	");
 document.writeln("");
 document.writeln("		<br></font>		</font>	");

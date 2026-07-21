@@ -36,12 +36,30 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">202期必中18码：</font><font color=\'#FF0000\' size=\'2\'>17.29.41.03.15.27.21.33.45.06.18.42.13.25.37.11.23.35</font></li>");
-document.writeln("            	<li>202期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">17.29.41.03.15.27.21.33.45</font></li>");
-document.writeln("            	<li>202期必中①肖：<font color=\'#FF0000\' size=\'5\'>（虎-17.29.41）</font></li>");
-document.writeln("            	<li>202期必中③肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗</font></li>");
+document.writeln(" 	            <li><font size=\"2\">203期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.20.32.09.21.33.11.23.47.12.36.48.07.31.43.06.18.30</font></li>");
+document.writeln("            	<li>203期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">08.20.32.09.21.33.11.23.47</font></li>");
+document.writeln("            	<li>203期必中①肖：<font color=\'#FF0000\' size=\'5\'>（猪-08.20.32）</font></li>");
+document.writeln("            	<li>203期必中③肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴</font></li>");
+document.writeln("            	<li>203期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠牛</font></li>");
+document.writeln("            	<li>203期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>猪狗猴羊鼠牛马兔</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+
 document.writeln("            	<li>202期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗牛马猴</font></li>");
-document.writeln("            	<li>202期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗牛马猴兔羊</font></li>");
+document.writeln("            	<li>202期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>虎龙狗牛马猴<span style=\'background-color: #FFFF00\'>兔</span>羊</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

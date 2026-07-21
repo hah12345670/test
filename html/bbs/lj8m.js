@@ -65,10 +65,10 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" 202期:【六肖12码】开？00准<br>");
+document.writeln("203期:【六肖12码】开？00准<br>");
 document.writeln("<font color=\"#FF0000\">");
-document.writeln("六肖：马猴羊龙虎鸡<br>");
-document.writeln("25.49.11.23.22.46.03.39.17.29.22.34</font></p>");
+document.writeln("六肖：62827.com高手榜查看<br>");
+document.writeln("已更新</font></p>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");

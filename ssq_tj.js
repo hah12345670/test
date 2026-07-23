@@ -144,19 +144,31 @@ class LotteryModel {
 	}
 
 	static validateNumberRange(recommendations) {
+			let uniqueReds = new Set();
 			let totalRedsCount = 0;
-			let validRangeCount = 0;
+
 			for (let item of recommendations) {
 					for (let r of item.red) {
 							totalRedsCount += 1;
 							let n = parseInt(r, 10);
-							if (n >= 1 && n <= 33) validRangeCount += 1;
+							if (n >= 1 && n <= 33) {
+									uniqueReds.add(r); // 收集 1-33 范围内的不重复红球
+							}
 					}
 			}
+
 			if (totalRedsCount === 0) return [false, "推荐列表为空"];
-			let ratio = validRangeCount / totalRedsCount;
-			if (ratio < 1) return [false, `红球在1-33范围内的比例不足90%`];
-			return [true, `红球范围达标率: ${(ratio * 100).toFixed(1)}%`];
+
+			// 计算不重复红球占总红球池(33个)的比例
+			let ratio = uniqueReds.size / 33;
+
+			// 设定最低覆盖率阈值（例如 40%，即 5组里至少要有约 13 个以上不同的红球），设定在0.4到0.5之间比较合适
+			let minRatio = 0.5; 
+			if (ratio < minRatio) {
+					return [false, `红球总体覆盖率不足 ${(minRatio * 100).toFixed(0)}% (当前: ${(ratio * 100).toFixed(1)}%)`];
+			}
+			
+			return [true, `红球池覆盖率达标: ${(ratio * 100).toFixed(1)}% (不重复红球数: ${uniqueReds.size}/33)`];
 	}
 
 	validateRecentOverlap(reds) {

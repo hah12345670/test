@@ -8,10 +8,15 @@ document.writeln("");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("");
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">205期绝杀二肖:<font color=\"#FF0000\">【猴兔】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">204期绝杀二肖:<font color=\"#FF0000\">【猪兔】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">204期绝杀二肖:<font color=\"#FF0000\">【猪兔】</font>开:虎05准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
@@ -67,37 +72,6 @@ document.writeln("<font size=\"4\" face=\"微软雅黑\">196期绝杀二肖:<fon
 document.writeln("</td>");
 document.writeln("</tr>	");
 
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">194期绝杀二肖:<font color=\"#FF0000\">【猴狗】</font>开:蛇26准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">193期绝杀二肖:<font color=\"#FF0000\">【牛虎】</font>开:狗09准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">191期绝杀二肖:<font color=\"#FF0000\">【猪狗】</font>开:虎29准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">190期绝杀二肖:<font color=\"#FF0000\">【蛇猴】</font>开:兔16准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
-
-document.writeln("<tr>");
-document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">189期绝杀二肖:<font color=\"#FF0000\">【猴兔】</font>开:龙15准</font></strong>");
-document.writeln("</td>");
-document.writeln("</tr>	");
 
 
 

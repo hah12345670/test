@@ -158,7 +158,7 @@ class LotteryModel {
       }
       if (totalRedsCount === 0) return [false, "推荐列表为空"];
       let ratio = validRangeCount / totalRedsCount;
-      if (ratio < 0.97) return [false, `前区在1-35范围内的比例不足97%`];
+      if (ratio < 1) return [false, `前区在1-35范围内的比例不足97%`];
       return [true, `前区范围达标率: ${(ratio * 100).toFixed(1)}%`];
   }
 

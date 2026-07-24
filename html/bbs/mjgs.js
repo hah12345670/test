@@ -31,7 +31,8 @@ document.writeln("202期单双【<span style=\'background-color: #FFFF00\'>双�
 document.writeln("203期单双【双数+<span style=\'background-color: #FFFF00\'>马</span>狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("204期单双【<span style=\'background-color: #FFFF00\'>单数</span>+猪羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("205期单双【单数+鸡羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期单双【<span style=\'background-color: #FFFF00\'>单数</span>+鸡羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期单双【单数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -64,7 +65,8 @@ document.writeln("");
 document.writeln("202期家野【家禽+<span style=\'background-color: #FFFF00\'>兔</span>蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("203期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("204期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("205期家野【野兽+狗鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期家野【野兽+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -93,7 +95,8 @@ document.writeln("202期天地【地肖+马<span style=\'background-color: #FFFF
 document.writeln("203期天地【地肖+牛猪】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("204期天地【天肖+<span style=\'background-color: #FFFF00\'>虎</span>羊】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("205期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期天地【地肖+猴<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("206期天地【天肖+蛇虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -116,8 +119,9 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("205期前后【前肖+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("205期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 
+document.writeln("206期前后【前肖+狗猪】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -139,7 +143,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://65wz.xn--62-38bpqlfhehde8aav2oyb.xn--qxa6a:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://63dy.dh.xn--u9j6f5etbb5cc8mq305d.xn--q9jyb4c:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

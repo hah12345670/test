@@ -75,7 +75,7 @@ document.writeln("204期天【猪龙马猴】地【狗羊<span style=\'backgroun
 document.writeln("205期天【<span style=\'background-color: #FFFF00\'>龙</span>猴兔猪】地【鼠鸡狗虎】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("206期天【猪马龙兔】地【羊狗蛇虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("207期天【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("207期天【龙牛猴兔】地【虎狗鼠羊】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

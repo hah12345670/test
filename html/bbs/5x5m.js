@@ -31,6 +31,28 @@ document.writeln("");
 
 
 
+
+document.writeln("  <!--必中每期开始-->");
+document.writeln("<div class=\'bizhong22\'>");
+document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
+document.writeln("	<div class=\'bizhong22-box\'>");
+document.writeln("    	<div class=\'bizhong22-l\'>");
+document.writeln("        	<ul>");
+document.writeln("            	<li>209期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-8-9</font></li>");
+document.writeln("            	<li>209期必中五尾：<font color=\'#FF0000\' size=\'4\'>4-8-9-1-6</font></li>");
+document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.18.28.29.39.49.11.21.31.26.36.46</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>14.24.44.08.18.28.29.39.49</font></li>");
+document.writeln("");
+document.writeln("");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong22-foot\'>209期一尾一码：<font color=\'#FF0000\' size=\'6\'>（14）</font>单车变宝马~</div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
 document.writeln("  <!--必中每期开始-->");
 document.writeln("<div class=\'bizhong22\'>");
 document.writeln("	<div class=\'bizhong22-tit\'>弑神者（准准准！）15码中特</div>");
@@ -38,9 +60,8 @@ document.writeln("	<div class=\'bizhong22-box\'>");
 document.writeln("    	<div class=\'bizhong22-l\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>208期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-8-2</font></li>");
-document.writeln("            	<li>208期必中五尾：<font color=\'#FF0000\' size=\'4\'>5-8-2-6-9</font></li>");
-document.writeln("                <li>必中15码：<font color=\'#FF0000\' size=\'4\'>05.25.35.08.18.28.22.32.42.06.16.26.09.29.49</font></li>");
-document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>05.25.35.08.18.28.22.32.42</font></li>");
+document.writeln("            	<li>208期必中五尾：<font color=\'#FF0000\' size=\'4\'>5-8-2-6-<span style=\'background-color: #FFFF00\'>9</span></font></li>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("            </ul>");

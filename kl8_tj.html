@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>动态多维比例配置与方差系统</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f4f7f6;
+            padding: 10px;
+        }
+        h2 {
+            color: #333;
+            margin: 10px 0 15px 0;
+            font-size: 20px;
+            text-align: center;
+        }
+        .config-panel {
+            background-color: #fff;
+            padding: 12px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            margin-bottom: 12px;
+            width: 100%;
+            max-width: 950px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            font-size: 14px;
+            color: #444;
+        }
+        .config-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+            border-bottom: 1px dashed #eee;
+            padding-bottom: 8px;
+        }
+        .config-row:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        .config-title {
+            font-weight: bold;
+            color: #d9534f;
+            width: 100%;
+        }
+        @media (min-width: 600px) {
+            .config-title {
+                min-width: 140px;
+                width: auto;
+            }
+        }
+        .checkbox-label {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            background: #f8f9fa;
+            padding: 4px 8px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            font-size: 13px;
+        }
+        .checkbox-label input {
+            cursor: pointer;
+        }
+        button.action-btn {
+            padding: 12px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background-color: #d9534f;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 12px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            transition: background-color 0.2s;
+            width: 100%;
+            max-width: 950px;
+        }
+        button.action-btn:hover {
+            background-color: #c9302c;
+        }
+        .tip-box {
+            background-color: #fff;
+            padding: 10px 15px;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            margin-bottom: 15px;
+            text-align: center;
+            width: 100%;
+            max-width: 950px;
+        }
+        #result-tip {
+            font-size: 14px;
+            color: #d9534f;
+            font-weight: bold;
+            margin-bottom: 4px;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        #tier-tip {
+            font-size: 12px;
+            color: #0275d8;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        #group-detail-tip {
+            font-size: 12px;
+            color: #5bc0de;
+            margin-top: 4px;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        table {
+            border-collapse: collapse;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            min-width: 340px; 
+        }
+        td {
+            border: 1px solid #ddd;
+            width: 38px;
+            height: 38px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: bold;
+            color: #333;
+        }
+        @media (min-width: 768px) {
+            td {
+                width: 48px;
+                height: 48px;
+                font-size: 16px;
+            }
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .selected-target {
+            color: #d9534f !important;
+            background-color: #fff3cd !important;
+            border: 2px solid #f0ad4e !important;
+            font-size: 15px;
+        }
+        @media (min-width: 768px) {
+            .selected-target {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h2>动态多维比例配置与方差系统</h2>
+    
+    <!-- 动态生成的配置面板 -->
+    <div class="config-panel" id="configPanel"></div>
+
+    <button class="action-btn" onclick="generateByCheckedConfigs()">点击按勾选的配置项组合执行筛选</button>
+    
+    <div class="tip-box">
+        <div id="result-tip">提示：请勾选上方需要的配置选项，系统将动态抽取 6-8 个核心数字执行匹配</div>
+        <div id="tier-tip"></div>
+        <div id="group-detail-tip"></div>
+    </div>
+
+    <div class="table-container">
+        <table id="matrixTable">
+            <tbody id="tableBody"></tbody>
+        </table>
+    </div>
+
+    <script src="tj_sx.js"></script>
+    <script>
+        // ==================== 1. 标准已知条件分组源 ====================
+
+        // ==================== 2. 渲染配置面板 ====================
+        function renderConfigPanel(config) {
+            const panel = document.getElementById('configPanel');
+            panel.innerHTML = '';
+
+            for (let key in config.configOptions) {
+                let group = config.configOptions[key];
+                let row = document.createElement('div');
+                row.className = 'config-row';
+
+                let titleSpan = document.createElement('span');
+                titleSpan.className = 'config-title';
+                titleSpan.innerText = group.title + ':';
+                row.appendChild(titleSpan);
+
+                group.options.forEach((opt, idx) => {
+                    let label = document.createElement('label');
+                    label.className = 'checkbox-label';
+
+                    let input = document.createElement('input');
+                    input.type = 'checkbox';
+                    input.name = key;
+                    input.value = idx;
+
+                    let subName = (group.subNames && group.subNames[idx]) ? group.subNames[idx] : `选项${idx+1}`;
+                    let patternStr = opt.pattern.join(',');
+                    let displayText = `${subName}[${patternStr},${opt.threshold}]`;
+
+                    label.appendChild(input);
+                    label.appendChild(document.createTextNode(` ${displayText}`));
+                    row.appendChild(label);
+                });
+
+                panel.appendChild(row);
+            }
+        }
+
+        function pad(n) {
+            return n < 10 ? '0' + n : '' + n;
+        }
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function isPrime(n) {
+            if (n <= 1) return false;
+            for (let i = 2; i <= Math.sqrt(n); i++) {
+                if (n % i === 0) return false;
+            }
+            return true;
+        }
+
+        function getVariance(arr) {
+            if (arr.length === 0) return 0;
+            const mean = arr.reduce((a, b) => a + b, 0) / arr.length;
+            return arr.reduce((sum, val) => sum + Math.pow(val - mean, 2), 0) / arr.length;
+        }
+
+        function getQuadrant(r, c) {
+            let isTop = r < 4;
+            let isLeft = c < 5;
+            if (isTop && isLeft) return 1;
+            if (isTop && !isLeft) return 2;
+            if (!isTop && isLeft) return 3;
+            return 4;
+        }
+
+        function initSystem() {
+            renderConfigPanel(currentSystemConfig);
+            let tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            let currentNum = 1;
+            for (let r = 0; r < 8; r++) {
+                let tr = document.createElement('tr');
+                for (let c = 0; c < 10; c++) {
+                    let td = document.createElement('td');
+                    td.innerText = pad(currentNum++);
+                    tr.appendChild(td);
+                }
+                tbody.appendChild(tr);
+            }
+            document.getElementById('result-tip').innerText = "初始状态：显示 1-80 默认表格";
+            document.getElementById('group-detail-tip').innerText = "";
+        }
+
+        function generateByCheckedConfigs() {
+            let activeConfigOptions = currentSystemConfig.configOptions;
+            let checkedData = {};
+
+            for (let key in activeConfigOptions) {
+                let checkboxes = document.querySelectorAll(`input[name="${key}"]:checked`);
+                checkedData[key] = Array.from(checkboxes).map(el => activeConfigOptions[key].options[el.value]);
+            }
+
+            let matrix, validAvailableNums, stats, finalGroupMapping = [], attempts = 0;
+
+            while (true) {
+                attempts++;
+                let allNumbers = [];
+                for (let i = 1; i <= 80; i++) allNumbers.push(i);
+                shuffle(allNumbers);
+
+                matrix = [];
+                let idx = 0;
+                for (let r = 0; r < 8; r++) {
+                    let row = [];
+                    for (let c = 0; c < 10; c++) row.push(allNumbers[idx++]);
+                    matrix.push(row);
+                }
+
+                let hitTierCount = 0;
+                let currentAvailableNums = [];
+                let tempGroupDetails = [];
+
+                currentSystemConfig.knownDataGroups.forEach((group, groupIdx) => {
+                    let hitsInMatrix = group.filter(num => {
+                        for (let r = 0; r < 8; r++) {
+                            if (matrix[r].includes(num)) return true;
+                        }
+                        return false;
+                    });
+
+                    if (hitsInMatrix.length >= 1) {
+                        hitTierCount++;
+                        currentAvailableNums.push(...hitsInMatrix);
+                        tempGroupDetails.push({ tier: groupIdx, hits: hitsInMatrix });
+                    }
+                });
+
+                if (hitTierCount < 5 || currentAvailableNums.length < 6) {
+                    if (attempts > 40000) break;
+                    continue;
+                }
+
+                shuffle(currentAvailableNums);
+                let targetCount = Math.floor(Math.random() * 3) + 6; 
+                let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
+                if (samplePool.length < 6) continue;
+
+                let passedAllChecks = true;
+                let reportParts = [`命中段位总数: ${hitTierCount}段`];
+                let totalVarianceScore = 0;
+
+                for (let key in checkedData) {
+                    let checkedList = checkedData[key];
+                    if (checkedList.length === 0) continue;
+
+                    if (key === 'mod3') {
+                        let m3 = [0, 0, 0];
+                        samplePool.forEach(n => m3[n % 3]++);
+                        let matched = checkedList.some(conf => getVariance([...m3, conf.threshold]) <= conf.threshold * 2.5);
+                        let bestV = Math.min(...checkedList.map(conf => getVariance([...m3, conf.threshold])));
+                        totalVarianceScore += bestV;
+                        reportParts.push(`012路[${m3.join(':')}]`);
+                        if (!matched) passedAllChecks = false;
+                    } else if (key === 'oe') {
+                        let oe = [0, 0];
+                        samplePool.forEach(n => n % 2 === 0 ? oe[1]++ : oe[0]++);
+                        let matched = checkedList.some(conf => getVariance([...oe, conf.threshold]) <= conf.threshold * 2.5);
+                        let bestV = Math.min(...checkedList.map(conf => getVariance([...oe, conf.threshold])));
+                        totalVarianceScore += bestV;
+                        reportParts.push(`奇偶[${oe.join(':')}]`);
+                        if (!matched) passedAllChecks = false;
+                    } else if (key === 'range') {
+                        let rg = [0, 0, 0];
+                        samplePool.forEach(n => {
+                            if (n <= 29) rg[0]++;
+                            else if (n <= 59) rg[1]++;
+                            else rg[2]++;
+                        });
+                        let matched = checkedList.some(conf => getVariance([...rg, conf.threshold]) <= conf.threshold * 4.0);
+                        let bestV = Math.min(...checkedList.map(conf => getVariance([...rg, conf.threshold])));
+                        totalVarianceScore += bestV;
+                        reportParts.push(`三区[${rg.join(':')}]`);
+                        if (!matched) passedAllChecks = false;
+                    } else if (key === 'prime') {
+                        let pr = [0, 0];
+                        samplePool.forEach(n => isPrime(n) ? pr[0]++ : pr[1]++);
+                        let matched = checkedList.some(conf => getVariance([...pr, conf.threshold]) <= conf.threshold * 3.0);
+                        let bestV = Math.min(...checkedList.map(conf => getVariance([...pr, conf.threshold])));
+                        totalVarianceScore += bestV;
+                        reportParts.push(`质合[${pr.join(':')}]`);
+                        if (!matched) passedAllChecks = false;
+                    } else if (key === 'quad') {
+                        let qd = [0, 0, 0, 0];
+                        samplePool.forEach(n => {
+                            for (let r = 0; r < 8; r++) {
+                                for (let c = 0; c < 10; c++) {
+                                    if (matrix[r][c] === n) qd[getQuadrant(r, c) - 1]++;
+                                }
+                            }
+                        });
+                        let matched = checkedList.some(conf => getVariance([...qd, conf.threshold]) <= conf.threshold * 3.5);
+                        let bestV = Math.min(...checkedList.map(conf => getVariance([...qd, conf.threshold])));
+                        totalVarianceScore += bestV;
+                        reportParts.push(`象限[${qd.join(':')}]`);
+                        if (!matched) passedAllChecks = false;
+                    }
+                }
+
+                if (passedAllChecks || attempts > 40000) {
+                    validAvailableNums = samplePool;
+                    
+                    finalGroupMapping = [];
+                    currentSystemConfig.knownDataGroups.forEach((group, gIndex) => {
+                        let matchedInSample = group.filter(n => validAvailableNums.includes(n));
+                        // 修复了上一版中意外引入的语法错误
+                        if (matchedInSample.length > 0) {
+                            finalGroupMapping.push({ tier: gIndex, nums: matchedInSample });
+                        }
+                    });
+
+                    reportParts.push(`微观方差: <strong>${totalVarianceScore.toFixed(3)}</strong>`);
+                    stats = {
+                        desc: reportParts.join(' | '),
+                        iterations: attempts
+                    };
+                    break;
+                }
+            }
+
+            if (!validAvailableNums) {
+                alert("未能在规定次数内契合当前动态配置组合，请调整勾选项或重试。");
+                return;
+            }
+
+            let tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+
+            for (let r = 0; r < 8; r++) {
+                let tr = document.createElement('tr');
+                for (let c = 0; c < 10; c++) {
+                    let td = document.createElement('td');
+                    let val = matrix[r][c];
+                    td.innerText = pad(val);
+                    if (validAvailableNums.includes(val)) {
+                        td.classList.add('selected-target');
+                    }
+                    tr.appendChild(td);
+                }
+                tbody.appendChild(tr);
+            }
+
+            let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
+
+            let tierDistributionText = finalGroupMapping.map(item => {
+                let numsStr = item.nums.map(n => pad(n)).join(',');
+                return `[段${item.tier}: ${numsStr}]`;
+            }).join(' ');
+
+            document.getElementById('result-tip').innerHTML = 
+                `🎯 动态筛选抽取的 <strong>${validAvailableNums.length} 个核心数字</strong>：<span style="background:#fff3cd; padding:2px 4px; border:1px solid #f0ad4e;">[ ${formattedPicked} ]</span>`;
+
+            document.getElementById('tier-tip').innerHTML = 
+                `📊 <strong>动态校验报告：</strong> ${stats.desc} (迭代: ${stats.iterations}次)`;
+
+            document.getElementById('group-detail-tip').innerHTML = 
+                `📍 <strong>核心数字所在段位 (0-7段)：</strong> ${tierDistributionText}`;
+        }
+
+        window.onload = initSystem;
+    </script>
+
+</body>
+</html>

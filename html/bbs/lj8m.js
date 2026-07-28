@@ -48,7 +48,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://64dy.xn--u6jyg1eab0467bpwxebac.xn--q9jyb4c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -57,7 +57,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【多人来料】(天地四肖)</font><br>");
+document.writeln("【纸上谈彩】(才艺六肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -65,20 +65,14 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 
-document.writeln("198期天【猴马兔牛】地【<span style=\'background-color: #FFFF00\'>鼠</span>狗鸡羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("199期天【龙猪兔猴】地【鼠虎鸡<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("200期天【兔<span style=\'background-color: #FFFF00\'>龙</span>牛猪】地【羊狗虎鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("201期天【马猴<span style=\'background-color: #FFFF00\'>猪</span>兔】地【鼠鸡羊狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("202期天【龙猪<span style=\'background-color: #FFFF00\'>兔</span>猴】地【蛇鼠虎鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("203期天【<span style=\'background-color: #FFFF00\'>马</span>兔猴牛】地【虎鸡狗鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("204期天【猪龙马猴】地【狗羊<span style=\'background-color: #FFFF00\'>虎</span>鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("205期天【<span style=\'background-color: #FFFF00\'>龙</span>猴兔猪】地【鼠鸡狗虎】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("206期天【猪马龙兔】地【羊狗蛇虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("207期天【龙牛猴兔】地【虎狗<span style=\'background-color: #FFFF00\'>鼠</span>羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("209期天【62827.com首页查看】<font color=\"#FF0000\">√</font><br>	");
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("204期：【书画棋琴】琴<span style=\"background-color: #FFFF00\">书</span>=开：虎05准<br><br>");
+document.writeln("205期：【书画棋琴】棋<span style=\"background-color: #FFFF00\">书</span>=开：龙03准<br><br>");
+document.writeln("206期：【书画棋琴】<span style=\"background-color: #FFFF00\">画</span>书=开：猴47准<br><br>");
+document.writeln("207期：【书画棋琴】画<span style=\"background-color: #FFFF00\">棋</span>=开：鼠31准<br><br>");
+document.writeln("208期：【书画棋琴】书<span style=\"background-color: #FFFF00\">棋</span>=开：鼠19准<br><br>");
+document.writeln("209期：【书画棋琴】棋画=开：？00准<br><br>");
 
 document.writeln("");
 document.writeln("	");
@@ -107,13 +101,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://64dy.xn--u6jyg1eab0467bpwxebac.xn--q9jyb4c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62827.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://64dy.xn--u6jyg1eab0467bpwxebac.xn--q9jyb4c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://62dy.62827a.net:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://64dy.xn--u6jyg1eab0467bpwxebac.xn--q9jyb4c:8443/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62827.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");

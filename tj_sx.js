@@ -117,9 +117,9 @@ let currentSystemConfig = {
         "range": {
             "title": "\u4e09\u533a\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "\u4e00\u533a",
-                "\u4e8c\u533a",
-                "\u4e09\u533a"
+                "\u4e00\u533a1-29",
+                "\u4e8c\u533a30-59",
+                "\u4e09\u533a60-80"
             ],
             "options": [
                 {

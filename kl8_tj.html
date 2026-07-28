@@ -335,14 +335,33 @@
                     continue;
                 }
 
-                shuffle(currentAvailableNums);
-                let targetCount = Math.floor(Math.random() * 3) + 6; 
-                let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
-                if (samplePool.length < 6) continue;
+								// 1. 先随机抽样出 6-8 个核心数字
+								shuffle(currentAvailableNums);
+								let targetCount = Math.floor(Math.random() * 3) + 6; 
+								let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
+								if (samplePool.length < 6) continue;
 
-                let passedAllChecks = true;
-                let reportParts = [`命中段位总数: ${hitTierCount}段`];
-                let totalVarianceScore = 0;
+								// 2. 【新增校验】：检查这 6-8 个核心数字实际命中了多少个段位
+								let finalHitTierCount = 0;
+								let tempFinalGroupMapping = [];
+								currentSystemConfig.knownDataGroups.forEach((group, gIndex) => {
+										let matchedInSample = group.filter(n => samplePool.includes(n));
+										if (matchedInSample.length > 0) {
+												finalHitTierCount++; // 核心数字所在的段位计数
+												tempFinalGroupMapping.push({ tier: gIndex, nums: matchedInSample });
+										}
+								});
+
+								// 【核心修改点】：如果核心数字命中的段位少于 5 个，直接跳过，重新随机！
+								if (finalHitTierCount < 5) {
+										if (attempts > 40000) break;
+										continue;
+								}
+
+								// 3. 接下来才是你原本的多维方差/比例校验逻辑...
+								let passedAllChecks = true;
+								let reportParts = [`核心命中段位: ${finalHitTierCount}段`]; // 可以顺便把提示改得更精确
+								let totalVarianceScore = 0;
 
                 for (let key in checkedData) {
                     let checkedList = checkedData[key];

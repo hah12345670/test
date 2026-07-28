@@ -57,11 +57,11 @@ let currentSystemConfig = {
     ],
     "configOptions": {
         "mod3": {
-            "title": "012路比例配置",
+            "title": "012\u8def\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "0路",
-                "1路",
-                "2路"
+                "0\u8def",
+                "1\u8def",
+                "2\u8def"
             ],
             "options": [
                 {
@@ -90,10 +90,10 @@ let currentSystemConfig = {
             ]
         },
         "oe": {
-            "title": "奇偶比例配置",
+            "title": "\u5947\u5076\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "奇数",
-                "偶数"
+                "\u5947\u6570",
+                "\u5076\u6570"
             ],
             "options": [
                 {
@@ -115,11 +115,11 @@ let currentSystemConfig = {
             ]
         },
         "range": {
-            "title": "三区比例配置",
+            "title": "\u4e09\u533a\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "一区",
-                "二区",
-                "三区"
+                "\u4e00\u533a",
+                "\u4e8c\u533a",
+                "\u4e09\u533a"
             ],
             "options": [
                 {
@@ -146,10 +146,10 @@ let currentSystemConfig = {
             ]
         },
         "prime": {
-            "title": "质合比例配置",
+            "title": "\u8d28\u5408\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "质数",
-                "合数"
+                "\u8d28\u6570",
+                "\u5408\u6570"
             ],
             "options": [
                 {
@@ -171,12 +171,12 @@ let currentSystemConfig = {
             ]
         },
         "quad": {
-            "title": "象限比例配置",
+            "title": "\u8c61\u9650\u6bd4\u4f8b\u914d\u7f6e",
             "subNames": [
-                "一象限",
-                "二象限",
-                "三象限",
-                "四象限"
+                "\u4e00\u8c61\u9650",
+                "\u4e8c\u8c61\u9650",
+                "\u4e09\u8c61\u9650",
+                "\u56db\u8c61\u9650"
             ],
             "options": [
                 {

@@ -24,7 +24,7 @@ document.writeln("");
 document.writeln("      <tr>");
 document.writeln("    <td class=\'ymgg-tit1\' bgcolor=\"#FF0000\">");
 document.writeln("	<p align=\'center\'><font style=\"font-size: 16pt; font-weight: 700\">");
-document.writeln("	206-210期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
+document.writeln("211-215期特码:（五期必中）</font><font color=\"#FFFF00\"><span style=\"font-size: 16pt\"><br>");
 document.writeln("	</span><font style=\"font-size: 18pt; font-weight: 700\">");
 document.writeln("	02.09.13.23.25.38.44.45");
 document.writeln("	 </font>");
@@ -73,7 +73,8 @@ document.writeln("206期：【书画棋琴】<span style=\"background-color: #FF
 document.writeln("207期：【书画棋琴】画<span style=\"background-color: #FFFF00\">棋</span>=开：鼠31准<br><br>");
 document.writeln("208期：【书画棋琴】书<span style=\"background-color: #FFFF00\">棋</span>=开：鼠19准<br><br>");
 document.writeln("209期：【书画棋琴】棋<span style=\'background-color: #FFFF00\'>画</span>=开：猪08准<br><br>");
-document.writeln("210期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
+document.writeln("210期：【书画棋琴】琴<span style=\'background-color: #FFFF00\'>书</span>=开：马49准<br><br>");
+document.writeln("211期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
 
 
 document.writeln("");

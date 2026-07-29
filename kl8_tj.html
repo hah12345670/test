@@ -5,39 +5,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>动态多维比例配置与方差系统</title>
     <style>
+        :root {
+            --primary-color: #d9534f;
+            --primary-hover: #c9302c;
+            --bg-color: #f4f7f6;
+            --border-color: #ddd;
+            --card-bg: #fff;
+            --text-main: #333;
+        }
+
         * {
             box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
+
         body {
             font-family: Arial, sans-serif;
             display: flex;
             flex-direction: column;
             align-items: center;
             min-height: 100vh;
-            margin: 0;
-            background-color: #f4f7f6;
+            background-color: var(--bg-color);
             padding: 10px;
+            color: var(--text-main);
         }
+
         h2 {
-            color: #333;
-            margin: 10px 0 15px 0;
+            margin: 10px 0 15px;
             font-size: 20px;
             text-align: center;
         }
-        .config-panel {
-            background-color: #fff;
-            padding: 12px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-            margin-bottom: 12px;
+
+        .config-panel, .action-btn, .tip-box {
             width: 100%;
             max-width: 950px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .config-panel {
+            background-color: var(--card-bg);
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 12px;
             display: flex;
             flex-direction: column;
             gap: 10px;
             font-size: 14px;
             color: #444;
         }
+
         .config-row {
             display: flex;
             flex-wrap: wrap;
@@ -50,17 +67,13 @@
             border-bottom: none;
             padding-bottom: 0;
         }
+
         .config-title {
             font-weight: bold;
-            color: #d9534f;
+            color: var(--primary-color);
             width: 100%;
         }
-        @media (min-width: 600px) {
-            .config-title {
-                min-width: 140px;
-                width: auto;
-            }
-        }
+
         .checkbox-label {
             cursor: pointer;
             display: flex;
@@ -69,43 +82,41 @@
             background: #f8f9fa;
             padding: 4px 8px;
             border-radius: 4px;
-            border: 1px solid #ddd;
+            border: 1px solid var(--border-color);
             font-size: 13px;
         }
         .checkbox-label input {
             cursor: pointer;
         }
+
         button.action-btn {
             padding: 12px 20px;
             font-size: 16px;
             font-weight: bold;
             color: white;
-            background-color: #d9534f;
+            background-color: var(--primary-color);
             border: none;
             border-radius: 5px;
             cursor: pointer;
             margin-bottom: 12px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
             transition: background-color 0.2s;
-            width: 100%;
-            max-width: 950px;
         }
         button.action-btn:hover {
-            background-color: #c9302c;
+            background-color: var(--primary-hover);
         }
+
         .tip-box {
-            background-color: #fff;
+            background-color: var(--card-bg);
             padding: 10px 15px;
             border-radius: 6px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
             margin-bottom: 15px;
             text-align: center;
-            width: 100%;
-            max-width: 950px;
         }
+
         #result-tip {
             font-size: 14px;
-            color: #d9534f;
+            color: var(--primary-color);
             font-weight: bold;
             margin-bottom: 4px;
             line-height: 1.4;
@@ -124,6 +135,15 @@
             line-height: 1.4;
             word-break: break-all;
         }
+        #history-container {
+            font-size: 12px;
+            color: #666;
+            margin-top: 8px;
+            text-align: left;
+            border-top: 1px dashed #eee;
+            padding-top: 6px;
+        }
+
         .table-container {
             width: 100%;
             overflow-x: auto;
@@ -131,40 +151,50 @@
             display: flex;
             justify-content: center;
         }
+
         table {
             border-collapse: collapse;
-            background-color: #ffffff;
+            background-color: var(--card-bg);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
             overflow: hidden;
             min-width: 340px; 
         }
+
         td {
-            border: 1px solid #ddd;
+            border: 1px solid var(--border-color);
             width: 38px;
             height: 38px;
             text-align: center;
             font-size: 14px;
             font-weight: bold;
-            color: #333;
+            color: var(--text-main);
         }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .selected-target {
+            color: var(--primary-color) !important;
+            background-color: #fff3cd !important;
+            border: 2px solid #f0ad4e !important;
+            font-size: 15px;
+        }
+
+        @media (min-width: 600px) {
+            .config-title {
+                min-width: 140px;
+                width: auto;
+            }
+        }
+
         @media (min-width: 768px) {
             td {
                 width: 48px;
                 height: 48px;
                 font-size: 16px;
             }
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        .selected-target {
-            color: #d9534f !important;
-            background-color: #fff3cd !important;
-            border: 2px solid #f0ad4e !important;
-            font-size: 15px;
-        }
-        @media (min-width: 768px) {
             .selected-target {
                 font-size: 18px;
             }
@@ -175,7 +205,6 @@
 
     <h2>动态多维比例配置与方差系统</h2>
     
-    <!-- 动态生成的配置面板 -->
     <div class="config-panel" id="configPanel"></div>
 
     <button class="action-btn" onclick="generateByCheckedConfigs()">点击按勾选的配置项组合执行筛选</button>
@@ -184,6 +213,7 @@
         <div id="result-tip">提示：请勾选上方需要的配置选项，系统将动态抽取 6-8 个核心数字执行匹配</div>
         <div id="tier-tip"></div>
         <div id="group-detail-tip"></div>
+        <div id="history-container"></div>
     </div>
 
     <div class="table-container">
@@ -194,9 +224,8 @@
 
     <script src="tj_sx.js"></script>
     <script>
-        // ==================== 1. 标准已知条件分组源 ====================
+        let savedCoreNumbersHistory = [];
 
-        // ==================== 2. 渲染配置面板 ====================
         function renderConfigPanel(config) {
             const panel = document.getElementById('configPanel');
             panel.innerHTML = '';
@@ -286,6 +315,38 @@
             document.getElementById('group-detail-tip').innerText = "";
         }
 
+        function deleteHistoryItem(index) {
+            savedCoreNumbersHistory.splice(index, 1);
+            renderHistoryContainer();
+        }
+
+        function renderHistoryContainer() {
+            let historyContainer = document.getElementById('history-container');
+            if (!historyContainer) return;
+
+            if (savedCoreNumbersHistory.length === 0) {
+                historyContainer.innerHTML = ''; // 如果删光了或者刚开始，保持容器清空不显眼
+                return;
+            }
+
+            let htmlContent = `<div style="font-weight:bold; margin-bottom:6px; color:#333;">📜 历史保存记录 (${savedCoreNumbersHistory.length}条 - 按微观方差升序)：</div>`;
+            
+            savedCoreNumbersHistory.forEach((item, idx) => {
+                let rank = idx + 1;
+                htmlContent += `
+                    <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px dashed #eee; padding-bottom: 2px; margin-bottom: 4px; color: #888;">
+                            <span>排名 <strong>#${rank}</strong> (${item.time})</span>
+                            <button onclick="deleteHistoryItem(${idx})" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
+                        </div>
+                        <div>核心数字: <span style="color: var(--primary-color); font-weight: bold; word-break: break-all;">[${item.formatted}]</span></div>
+                        <div>微观方差: <span style="color: #0275d8; font-weight: bold;">${item.variance.toFixed(3)}</span></div>
+                        <div>覆盖段位(${item.tierCount}段): <span style="color: #5bc0de; font-weight: bold;">[${item.activeTiers}]</span></div>
+                    </div>`;
+            });
+            historyContainer.innerHTML = htmlContent;
+        }
+
         function generateByCheckedConfigs() {
             let activeConfigOptions = currentSystemConfig.configOptions;
             let checkedData = {};
@@ -313,9 +374,8 @@
 
                 let hitTierCount = 0;
                 let currentAvailableNums = [];
-                let tempGroupDetails = [];
 
-                currentSystemConfig.knownDataGroups.forEach((group, groupIdx) => {
+                currentSystemConfig.knownDataGroups.forEach((group) => {
                     let hitsInMatrix = group.filter(num => {
                         for (let r = 0; r < 8; r++) {
                             if (matrix[r].includes(num)) return true;
@@ -326,7 +386,6 @@
                     if (hitsInMatrix.length >= 1) {
                         hitTierCount++;
                         currentAvailableNums.push(...hitsInMatrix);
-                        tempGroupDetails.push({ tier: groupIdx, hits: hitsInMatrix });
                     }
                 });
 
@@ -335,33 +394,27 @@
                     continue;
                 }
 
-								// 1. 先随机抽样出 6-8 个核心数字
-								shuffle(currentAvailableNums);
-								let targetCount = Math.floor(Math.random() * 3) + 6; 
-								let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
-								if (samplePool.length < 6) continue;
+                shuffle(currentAvailableNums);
+                let targetCount = Math.floor(Math.random() * 3) + 6; 
+                let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
+                if (samplePool.length < 6) continue;
 
-								// 2. 【新增校验】：检查这 6-8 个核心数字实际命中了多少个段位
-								let finalHitTierCount = 0;
-								let tempFinalGroupMapping = [];
-								currentSystemConfig.knownDataGroups.forEach((group, gIndex) => {
-										let matchedInSample = group.filter(n => samplePool.includes(n));
-										if (matchedInSample.length > 0) {
-												finalHitTierCount++; // 核心数字所在的段位计数
-												tempFinalGroupMapping.push({ tier: gIndex, nums: matchedInSample });
-										}
-								});
+                let finalHitTierCount = 0;
+                currentSystemConfig.knownDataGroups.forEach((group) => {
+                    let matchedInSample = group.filter(n => samplePool.includes(n));
+                    if (matchedInSample.length > 0) {
+                        finalHitTierCount++;
+                    }
+                });
 
-								// 【核心修改点】：如果核心数字命中的段位少于 5 个，直接跳过，重新随机！
-								if (finalHitTierCount < 5) {
-										if (attempts > 40000) break;
-										continue;
-								}
+                if (finalHitTierCount < 5) {
+                    if (attempts > 40000) break;
+                    continue;
+                }
 
-								// 3. 接下来才是你原本的多维方差/比例校验逻辑...
-								let passedAllChecks = true;
-								let reportParts = [`核心命中段位: ${finalHitTierCount}段`]; // 可以顺便把提示改得更精确
-								let totalVarianceScore = 0;
+                let passedAllChecks = true;
+                let reportParts = [`核心命中段位: ${finalHitTierCount}段`];
+                let totalVarianceScore = 0;
 
                 for (let key in checkedData) {
                     let checkedList = checkedData[key];
@@ -371,16 +424,14 @@
                         let m3 = [0, 0, 0];
                         samplePool.forEach(n => m3[n % 3]++);
                         let matched = checkedList.some(conf => getVariance([...m3, conf.threshold]) <= conf.threshold * 2.5);
-                        let bestV = Math.min(...checkedList.map(conf => getVariance([...m3, conf.threshold])));
-                        totalVarianceScore += bestV;
+                        totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...m3, conf.threshold])));
                         reportParts.push(`012路[${m3.join(':')}]`);
                         if (!matched) passedAllChecks = false;
                     } else if (key === 'oe') {
                         let oe = [0, 0];
                         samplePool.forEach(n => n % 2 === 0 ? oe[1]++ : oe[0]++);
                         let matched = checkedList.some(conf => getVariance([...oe, conf.threshold]) <= conf.threshold * 2.5);
-                        let bestV = Math.min(...checkedList.map(conf => getVariance([...oe, conf.threshold])));
-                        totalVarianceScore += bestV;
+                        totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...oe, conf.threshold])));
                         reportParts.push(`奇偶[${oe.join(':')}]`);
                         if (!matched) passedAllChecks = false;
                     } else if (key === 'range') {
@@ -391,16 +442,14 @@
                             else rg[2]++;
                         });
                         let matched = checkedList.some(conf => getVariance([...rg, conf.threshold]) <= conf.threshold * 4.0);
-                        let bestV = Math.min(...checkedList.map(conf => getVariance([...rg, conf.threshold])));
-                        totalVarianceScore += bestV;
+                        totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...rg, conf.threshold])));
                         reportParts.push(`三区[${rg.join(':')}]`);
                         if (!matched) passedAllChecks = false;
                     } else if (key === 'prime') {
                         let pr = [0, 0];
                         samplePool.forEach(n => isPrime(n) ? pr[0]++ : pr[1]++);
                         let matched = checkedList.some(conf => getVariance([...pr, conf.threshold]) <= conf.threshold * 3.0);
-                        let bestV = Math.min(...checkedList.map(conf => getVariance([...pr, conf.threshold])));
-                        totalVarianceScore += bestV;
+                        totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...pr, conf.threshold])));
                         reportParts.push(`质合[${pr.join(':')}]`);
                         if (!matched) passedAllChecks = false;
                     } else if (key === 'quad') {
@@ -413,8 +462,7 @@
                             }
                         });
                         let matched = checkedList.some(conf => getVariance([...qd, conf.threshold]) <= conf.threshold * 3.5);
-                        let bestV = Math.min(...checkedList.map(conf => getVariance([...qd, conf.threshold])));
-                        totalVarianceScore += bestV;
+                        totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...qd, conf.threshold])));
                         reportParts.push(`象限[${qd.join(':')}]`);
                         if (!matched) passedAllChecks = false;
                     }
@@ -426,7 +474,6 @@
                     finalGroupMapping = [];
                     currentSystemConfig.knownDataGroups.forEach((group, gIndex) => {
                         let matchedInSample = group.filter(n => validAvailableNums.includes(n));
-                        // 修复了上一版中意外引入的语法错误
                         if (matchedInSample.length > 0) {
                             finalGroupMapping.push({ tier: gIndex, nums: matchedInSample });
                         }
@@ -464,6 +511,22 @@
             }
 
             let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
+            let varianceMatch = stats.desc.match(/微观方差:\s*<strong>([\d.]+)<\/strong>/);
+            let varianceVal = varianceMatch ? parseFloat(varianceMatch[1]) : 0.000;
+
+            let activeTiers = finalGroupMapping.map(item => `段${item.tier}`).join(', ');
+            let tierCount = finalGroupMapping.length;
+
+            savedCoreNumbersHistory.push({
+                time: new Date().toLocaleTimeString(),
+                formatted: formattedPicked,
+                variance: varianceVal,
+                tierCount: tierCount,
+                activeTiers: activeTiers
+            });
+
+            savedCoreNumbersHistory.sort((a, b) => a.variance - b.variance);
+            renderHistoryContainer();
 
             let tierDistributionText = finalGroupMapping.map(item => {
                 let numsStr = item.nums.map(n => pad(n)).join(',');
@@ -482,6 +545,5 @@
 
         window.onload = initSystem;
     </script>
-
 </body>
 </html>

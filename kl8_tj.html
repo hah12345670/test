@@ -225,6 +225,8 @@
     <script src="tj_sx.js"></script>
     <script>
         let savedCoreNumbersHistory = [];
+        let currentPage = 1;
+        const pageSize = 5; // 每页显示5条历史记录
 
         function renderConfigPanel(config) {
             const panel = document.getElementById('configPanel');
@@ -317,6 +319,17 @@
 
         function deleteHistoryItem(index) {
             savedCoreNumbersHistory.splice(index, 1);
+            const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+            if (currentPage > totalPages) {
+                currentPage = totalPages;
+            }
+            renderHistoryContainer();
+        }
+
+        function changePage(page) {
+            const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+            if (page < 1 || page > totalPages) return;
+            currentPage = page;
             renderHistoryContainer();
         }
 
@@ -325,25 +338,67 @@
             if (!historyContainer) return;
 
             if (savedCoreNumbersHistory.length === 0) {
-                historyContainer.innerHTML = ''; // 如果删光了或者刚开始，保持容器清空不显眼
+                historyContainer.innerHTML = ''; 
                 return;
             }
 
+            const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+            if (currentPage > totalPages) currentPage = totalPages;
+
             let htmlContent = `<div style="font-weight:bold; margin-bottom:6px; color:#333;">📜 历史保存记录 (${savedCoreNumbersHistory.length}条 - 按微观方差升序)：</div>`;
             
-            savedCoreNumbersHistory.forEach((item, idx) => {
-                let rank = idx + 1;
+            // 分页控件（中间最多动态显示前后共3个连续页码）
+            if (totalPages > 1) {
+                let pagesHtml = '';
+                
+                // 计算中间最多显示的3个页码范围
+                let startPage = Math.max(1, currentPage - 1);
+                let endPage = Math.min(totalPages, startPage + 2);
+                if (endPage - startPage < 2) {
+                    startPage = Math.max(1, endPage - 2);
+                }
+
+                for (let i = startPage; i <= endPage; i++) {
+                    if (i === currentPage) {
+                        pagesHtml += `<button style="background: var(--primary-color); color: white; border: 1px solid var(--primary-color); border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: bold; cursor: default;">${i}</button>`;
+                    } else {
+                        pagesHtml += `<button onclick="changePage(${i})" style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px; cursor: pointer;">${i}</button>`;
+                    }
+                }
+
+                htmlContent += `
+                    <div style="display: flex; justify-content: center; align-items: center; gap: 4px; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px dashed #eee; flex-wrap: wrap;">
+                        <button onclick="changePage(1)" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最	前</button>
+                        <button onclick="changePage(${currentPage - 1})" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">上一页</button>
+                        
+                        <div style="display: flex; gap: 3px; margin: 0 4px;">
+                            ${pagesHtml}
+                        </div>
+
+                        <button onclick="changePage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">下一页</button>
+                        <button onclick="changePage(${totalPages})" ${currentPage === totalPages ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最	后</button>
+                    </div>`;
+            }
+
+            const startIndex = (currentPage - 1) * pageSize;
+            const endIndex = startIndex + pageSize;
+            const pageItems = savedCoreNumbersHistory.slice(startIndex, endIndex);
+
+            pageItems.forEach((item, idx) => {
+                let absoluteIndex = startIndex + idx;
+                let rank = absoluteIndex + 1;
                 htmlContent += `
                     <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">
                         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px dashed #eee; padding-bottom: 2px; margin-bottom: 4px; color: #888;">
                             <span>排名 <strong>#${rank}</strong> (${item.time})</span>
-                            <button onclick="deleteHistoryItem(${idx})" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
+                            <button onclick="deleteHistoryItem(${absoluteIndex})" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
                         </div>
                         <div>核心数字: <span style="color: var(--primary-color); font-weight: bold; word-break: break-all;">[${item.formatted}]</span></div>
                         <div>微观方差: <span style="color: #0275d8; font-weight: bold;">${item.variance.toFixed(3)}</span></div>
                         <div>覆盖段位(${item.tierCount}段): <span style="color: #5bc0de; font-weight: bold;">[${item.activeTiers}]</span></div>
                     </div>`;
             });
+
             historyContainer.innerHTML = htmlContent;
         }
 
@@ -526,6 +581,8 @@
             });
 
             savedCoreNumbersHistory.sort((a, b) => a.variance - b.variance);
+            
+            currentPage = 1; 
             renderHistoryContainer();
 
             let tierDistributionText = finalGroupMapping.map(item => {

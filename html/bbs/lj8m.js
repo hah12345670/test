@@ -74,7 +74,8 @@ document.writeln("207期：【书画棋琴】画<span style=\"background-color: 
 document.writeln("208期：【书画棋琴】书<span style=\"background-color: #FFFF00\">棋</span>=开：鼠19准<br><br>");
 document.writeln("209期：【书画棋琴】棋<span style=\'background-color: #FFFF00\'>画</span>=开：猪08准<br><br>");
 document.writeln("210期：【书画棋琴】琴<span style=\'background-color: #FFFF00\'>书</span>=开：马49准<br><br>");
-document.writeln("211期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
+document.writeln("211期：【书画棋琴】画<span style=\'background-color: #FFFF00\'>书</span>=开：马01准<br><br>");
+document.writeln("212期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
 
 
 document.writeln("");

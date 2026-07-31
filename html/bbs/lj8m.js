@@ -48,7 +48,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://tk46.62827a.app:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -75,8 +75,8 @@ document.writeln("208期：【书画棋琴】书<span style=\"background-color: 
 document.writeln("209期：【书画棋琴】棋<span style=\'background-color: #FFFF00\'>画</span>=开：猪08准<br><br>");
 document.writeln("210期：【书画棋琴】琴<span style=\'background-color: #FFFF00\'>书</span>=开：马49准<br><br>");
 document.writeln("211期：【书画棋琴】画<span style=\'background-color: #FFFF00\'>书</span>=开：马01准<br><br>");
-document.writeln("212期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
-
+document.writeln("212期：【书画棋琴】书琴=开：牛06错<br><br>");
+document.writeln("213期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
 
 document.writeln("");
 document.writeln("	");
@@ -105,13 +105,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://tk46.62827a.app:8443/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62827.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://62dy.62827a.net:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://tk46.62827a.app:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://62dy.62827a.net:8443/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://tk46.62827a.app:8443/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62827.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");

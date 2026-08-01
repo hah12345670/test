@@ -295,3 +295,143 @@ body {
 .digits-row .box:nth-last-child(3) {
 	margin-left: 9px !important; 
 }
+
+/* 添加统计的样式 */
+.stats-panel-box {
+		background: #ffffff;
+		padding: 12px 15px;
+		border-radius: 12px;
+		box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+		margin-top: 20px;
+		width: 100%;
+		max-width: 700px;
+		box-sizing: border-box;
+		text-align: center;
+		font-family: Arial, sans-serif;
+}
+.stats-title {
+		font-size: 0.85rem;
+		color: #555;
+		margin-bottom: 8px;
+		font-weight: bold;
+}
+.stats-section-block {
+		margin-bottom: 10px;
+		border-bottom: 1px dashed #eee;
+		padding-bottom: 8px;
+}
+.stats-section-title {
+		font-size: 0.8rem;
+		color: #1976d2;
+		margin-bottom: 6px;
+		font-weight: bold;
+}
+.stats-sections-wrapper {
+		display: flex;
+		flex-direction: column;
+		gap: 5px;
+}
+.stats-row-group {
+		display: flex;
+		justify-content: center;
+		gap: 6px;
+		flex-wrap: wrap;
+}
+.stat-badge {
+		font-size: 0.75rem;
+		background: #f1f3f4;
+		color: #37474f;
+		padding: 3px 6px;
+		border-radius: 6px;
+		font-weight: bold;
+}
+.stat-badge b {
+		color: #2e7d32;
+}
+.stats-results-section {
+		padding-top: 4px;
+		margin-bottom: 10px;
+		border-bottom: 1px dashed #eee;
+		padding-bottom: 8px;
+}
+.stats-results-group {
+		display: flex;
+		justify-content: center;
+		gap: 8px;
+		flex-wrap: wrap;
+}
+.result-badge {
+		font-size: 0.75rem;
+		background: #e3f2fd;
+		color: #0d47a1;
+		padding: 3px 8px;
+		border-radius: 6px;
+		font-weight: bold;
+}
+.result-badge b {
+		color: #d32f2f;
+}
+.type-freq-container {
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+		text-align: left;
+}
+.type-freq-card {
+		background: #f8f9fa;
+		border: 1px solid #e9ecef;
+		border-radius: 8px;
+		padding: 8px 10px;
+}
+.type-freq-header {
+		font-size: 0.8rem;
+		color: #d32f2f;
+		font-weight: bold;
+		margin-bottom: 6px;
+		border-bottom: 1px solid #dee2e6;
+		padding-bottom: 3px;
+}
+.seg-line {
+		font-size: 0.75rem;
+		color: #495057;
+		margin-bottom: 4px;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px;
+		align-items: center;
+}
+.freq-badge {
+		font-size: 0.7rem;
+		background: #e8f5e9;
+		color: #2e7d32;
+		padding: 2px 5px;
+		border-radius: 4px;
+		font-weight: bold;
+}
+.freq-badge b {
+		color: #1b5e20;
+}
+/* 前 3 个推荐组合的外观样式 */
+.best-combos-box {
+		margin-top: 6px;
+		background: #fff3e0;
+		border: 1px solid #ffe0b2;
+		border-radius: 6px;
+		padding: 6px 8px;
+}
+.best-combos-title {
+		font-size: 0.75rem;
+		color: #e65100;
+		font-weight: bold;
+		margin-bottom: 4px;
+}
+.combo-item {
+		font-size: 0.7rem;
+		color: #bf360c;
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 2px;
+}
+.combo-item:last-child {
+		margin-bottom: 0;
+}

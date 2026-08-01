@@ -8,55 +8,15 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table width=\'100%\' id=\'table1\' cellspacing=\'3\' cellpadding=\'0\'>");
 
-
 document.writeln("    <!--开始-->   ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=25 >");
 document.writeln("		<p align=\"center\"><b>");
 document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（213期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（214期开？00）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		龙牛+22.34.46.09.21.45.13.25</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（211期开马01）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		<span style=\'background-color: #FFFF00\'>马</span>虎+10.34.46.07.31.43.16.40</font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（210期开马49）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		狗鼠+14.26.38.10.22.34.25.<span style=\'background-color: #FFFF00\'>49</span></font></b></td>");
-document.writeln("    </tr>      ");
-document.writeln("");
-document.writeln("    <!--开始-->   ");
-document.writeln("    <!--开始-->   ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=25 >");
-document.writeln("		<p align=\"center\"><b>");
-document.writeln("");
-document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-size: 16pt\">（209期开猪08）</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
-document.writeln("		</font>  ");
-document.writeln("		<font face=\'隶书\' size=\'5\'>");
-document.writeln("		<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">猪</span></font>猴+13.37.49.04.16.28.18.42</font></b></td>");
+document.writeln("		猪鼠+26.38.02.10.22.34.25.49</font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("");
 document.writeln("    <!--开始-->   ");

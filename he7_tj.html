@@ -257,11 +257,11 @@
             <!-- 位置修改及显示名数控制行 -->
             <div style="display: flex; align-items: center; justify-content: center; gap: 4px; margin-bottom: 6px; font-size: 10px; flex-wrap: wrap;">
                 <span style="color: #666;">组合(K):</span>
-                <input type="number" id="combo-k-input" min="1" max="12" value="5" style="width: 32px; text-align: center; font-size: 11px; padding: 1px; border: 1px solid #d9d9d9; border-radius: 3px;">
+                <input type="number" id="combo-k-input" min="1" max="12" value="7" style="width: 32px; text-align: center; font-size: 11px; padding: 1px; border: 1px solid #d9d9d9; border-radius: 3px;">
                 <span style="color: #666;">位置:</span>
                 <input type="text" id="combo-custom-input" placeholder="例如:1,2,3" style="width: 70px; font-size: 10px; padding: 1px 4px; border: 1px solid #d9d9d9; border-radius: 3px;">
                 <span style="color: #666;">显示名数:</span>
-                <input type="number" id="combo-show-count-input" min="1" max="462" value="3" style="width: 38px; text-align: center; font-size: 11px; padding: 1px; border: 1px solid #d9d9d9; border-radius: 3px;">
+                <input type="number" id="combo-show-count-input" min="1" max="495" value="1" style="width: 38px; text-align: center; font-size: 11px; padding: 1px; border: 1px solid #d9d9d9; border-radius: 3px;">
                 <button id="combo-update-btn" style="background: #1890ff; color: #fff; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">应用</button>
             </div>
             <div id="stat-pos-combo-container" style="display: flex; flex-direction: column; gap: 3px; font-size: 11px; color: #333;">
@@ -293,8 +293,8 @@
             const allPositions = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
             let userCustomPositions = null; 
-            let userK = 5; 
-            let showTopN = 3; // 组合显示名数默认1
+            let userK = 7; 
+            let showTopN = 1; // 组合显示名数默认1
             let posShowTopN = 5; // 落点位置显示名数默认改为3
 
             const kInput = document.getElementById('combo-k-input');

@@ -120,17 +120,7 @@
             cursor: pointer;
             margin-bottom: 12px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-            /* transition: background-color 0.2s; */
-            outline: none; /* 去除聚焦外框 */
-            -webkit-tap-highlight-color: transparent; /* 消除手机端点击阴影 */
-        }
-        button.action-btn:hover {
-            background-color: var(--primary-hover);
-        }
-        /* 核心：直接在样式上锁死，无论怎么点、怎么聚焦，颜色都保持不变，彻底告别残留 */
-        button.action-btn:active, 
-        button.action-btn:focus {
-            background-color: var(--primary-color) !important; 
+            transition: background-color 0.2s;
         }
 
         .tip-box {

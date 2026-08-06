@@ -495,7 +495,7 @@
                 });
 
                 if (hitTierCount < 5 || currentAvailableNums.length < userMin) {
-                    if (attempts > 40000) break;
+                    if (attempts > 20000) break;
                     continue;
                 }
 
@@ -515,7 +515,7 @@
                 });
 
                 if (finalHitTierCount < 5) {
-                    if (attempts > 40000) break;
+                    if (attempts > 20000) break;
                     continue;
                 }
 
@@ -575,7 +575,7 @@
                     }
                 }
 
-                if (passedAllChecks || attempts > 40000) {
+                if (passedAllChecks || attempts > 20000) {
                     validAvailableNums = samplePool;
                     
                     finalGroupMapping = [];

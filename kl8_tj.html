@@ -7,7 +7,7 @@
     <style>
         :root {
             --primary-color: #d9534f;
-            --primary-hover: #c9302c;
+            --primary-hover: #c9312c33;
             --bg-color: #f4f7f6;
             --border-color: #ddd;
             --card-bg: #fff;
@@ -87,6 +87,26 @@
         }
         .checkbox-label input {
             cursor: pointer;
+        }
+
+        /* 范围选择样式 */
+        .range-box {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: #f8f9fa;
+            padding: 4px 10px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            font-size: 13px;
+        }
+        .range-box input[type="number"] {
+            width: 50px;
+            padding: 2px 4px;
+            text-align: center;
+            border: 1px solid var(--border-color);
+            border-radius: 3px;
+            font-size: 13px;
         }
 
         button.action-btn {
@@ -210,7 +230,7 @@
     <button class="action-btn" onclick="generateByCheckedConfigs()">点击按勾选的配置项组合执行筛选</button>
     
     <div class="tip-box">
-        <div id="result-tip">提示：请勾选上方需要的配置选项，系统将动态抽取 6-8 个核心数字执行匹配</div>
+        <div id="result-tip">提示：请勾选上方需要的配置选项，系统将动态抽取设定数量的核心数字执行匹配</div>
         <div id="tier-tip"></div>
         <div id="group-detail-tip"></div>
         <div id="history-container"></div>
@@ -232,6 +252,7 @@
             const panel = document.getElementById('configPanel');
             panel.innerHTML = '';
 
+            // 1. 渲染原有的比例配置项
             for (let key in config.configOptions) {
                 let group = config.configOptions[key];
                 let row = document.createElement('div');
@@ -262,6 +283,26 @@
 
                 panel.appendChild(row);
             }
+
+            // 2. 新增：抽取范围配置行
+            let rangeRow = document.createElement('div');
+            rangeRow.className = 'config-row';
+
+            let rangeTitleSpan = document.createElement('span');
+            rangeTitleSpan.className = 'config-title';
+            rangeTitleSpan.innerText = '抽取数量范围:';
+            rangeRow.appendChild(rangeTitleSpan);
+
+            let rangeBox = document.createElement('div');
+            rangeBox.className = 'range-box';
+            rangeBox.innerHTML = `
+                <span>最小:</span>
+                <input type="number" id="minCount" value="6" min="1" max="20">
+                <span>最大:</span>
+                <input type="number" id="maxCount" value="8" min="1" max="20">
+            `;
+            rangeRow.appendChild(rangeBox);
+            panel.appendChild(rangeRow);
         }
 
         function pad(n) {
@@ -347,11 +388,8 @@
 
             let htmlContent = `<div style="font-weight:bold; margin-bottom:6px; color:#333;">📜 历史保存记录 (${savedCoreNumbersHistory.length}条 - 按微观方差升序)：</div>`;
             
-            // 分页控件（中间最多动态显示前后共3个连续页码）
             if (totalPages > 1) {
                 let pagesHtml = '';
-                
-                // 计算中间最多显示的3个页码范围
                 let startPage = Math.max(1, currentPage - 1);
                 let endPage = Math.min(totalPages, startPage + 2);
                 if (endPage - startPage < 2) {
@@ -368,7 +406,7 @@
 
                 htmlContent += `
                     <div style="display: flex; justify-content: center; align-items: center; gap: 4px; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px dashed #eee; flex-wrap: wrap;">
-                        <button onclick="changePage(1)" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最	前</button>
+                        <button onclick="changePage(1)" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最 前</button>
                         <button onclick="changePage(${currentPage - 1})" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">上一页</button>
                         
                         <div style="display: flex; gap: 3px; margin: 0 4px;">
@@ -376,7 +414,7 @@
                         </div>
 
                         <button onclick="changePage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">下一页</button>
-                        <button onclick="changePage(${totalPages})" ${currentPage === totalPages ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最	后</button>
+                        <button onclick="changePage(${totalPages})" ${currentPage === totalPages ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最 后</button>
                     </div>`;
             }
 
@@ -403,6 +441,15 @@
         }
 
         function generateByCheckedConfigs() {
+            // 获取用户输入的范围
+            let userMin = parseInt(document.getElementById('minCount').value) || 6;
+            let userMax = parseInt(document.getElementById('maxCount').value) || 8;
+            if (userMin > userMax) {
+                let temp = userMin;
+                userMin = userMax;
+                userMax = temp;
+            }
+
             let activeConfigOptions = currentSystemConfig.configOptions;
             let checkedData = {};
 
@@ -444,15 +491,17 @@
                     }
                 });
 
-                if (hitTierCount < 5 || currentAvailableNums.length < 6) {
+                if (hitTierCount < 5 || currentAvailableNums.length < userMin) {
                     if (attempts > 40000) break;
                     continue;
                 }
 
                 shuffle(currentAvailableNums);
-                let targetCount = Math.floor(Math.random() * 3) + 6; 
+                
+                // 使用用户自定义的范围随机抽取数量
+                let targetCount = Math.floor(Math.random() * (userMax - userMin + 1)) + userMin;
                 let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
-                if (samplePool.length < 6) continue;
+                if (samplePool.length < userMin) continue;
 
                 let finalHitTierCount = 0;
                 currentSystemConfig.knownDataGroups.forEach((group) => {

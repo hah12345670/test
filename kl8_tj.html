@@ -441,6 +441,9 @@
         }
 
         function generateByCheckedConfigs() {
+            // 💡 核心修复：让触发点击的按钮立即失焦，防止样式残留
+            event && event.target && event.target.blur();
+
             // 获取用户输入的范围
             let userMin = parseInt(document.getElementById('minCount').value) || 6;
             let userMax = parseInt(document.getElementById('maxCount').value) || 8;

@@ -47,7 +47,8 @@ document.writeln("216期单双【双数+<span style=\'background-color: #FFFF00\
 document.writeln("217期单双【<span style=\'background-color: #FFFF00\'>双数</span>+龙虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("218期单双【<span style=\'background-color: #FFFF00\'>单数</span>+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("219期单双【<span style=\'background-color: #FFFF00\'>单数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("220期单双【单数+鸡兔】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("220期单双【单数+鸡兔】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("221期单双【单数+牛猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -77,7 +78,9 @@ document.writeln("");
 
 document.writeln("218期家野【家禽+蛇<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("219期家野【家禽+兔<span style=\'background-color: #FFFF00\'>鼠</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("220期家野【野兽+狗猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("220期家野【野兽+狗猪】<font color=\"#FF0000\">×</font><br>	");
+
+document.writeln("221期家野【野兽+狗马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -128,7 +131,10 @@ document.writeln("217期天地【<span style=\'background-color: #FFFF00\'>地�
 
 document.writeln("218期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+兔猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("219期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("220期天地【天肖+蛇虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("220期天地【天肖+蛇虎】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("221期天地【天肖+虎羊】<font color=\"#FF0000\">√</font><br>	");
+
+
 
 document.writeln("		");
 document.writeln("");
@@ -149,7 +155,8 @@ document.writeln("");
 
 
 document.writeln("219期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("220期前后【前肖+猴猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("220期前后【前肖+猴猪】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("221期前后【前肖+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 
 
 

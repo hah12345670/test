@@ -26,8 +26,8 @@ document.writeln("217期王者六肖【龙羊兔猴狗马】×<br>");
 document.writeln("218期王者六肖【猪<span style=\'background-color: #FFFF00\'>虎</span>狗猴龙兔】√<br>");
 document.writeln("219期王者六肖【狗兔羊鸡蛇牛】×<br>");
 
-document.writeln("220期王者六肖【羊鸡牛鼠狗蛇】√<br>");
-
+document.writeln("220期王者六肖【<span style=\'background-color: #FFFF00\'>羊</span>鸡牛鼠狗蛇】√<br>");
+document.writeln("221期王者六肖【兔虎蛇鼠狗羊】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -54,13 +54,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
 
-document.writeln("212-213期￥马龙猪鼠<span style=\'background-color: #FFFF00\'>牛</span>猴蛇￥212期√<br>");
-document.writeln("213-214期￥鸡龙蛇鼠猪<span style=\'background-color: #FFFF00\'>猴</span>马￥213期√<br>");
-document.writeln("214-215期￥龙猴<span style=\'background-color: #FFFF00\'>兔</span>鼠羊狗马￥214期√<br>");
-document.writeln("215-216期￥猪狗鸡牛猴龙虎￥000期√<br>");
-document.writeln("217-218期￥鸡猪羊<span style=\'background-color: #FFFF00\'>蛇</span>龙猴狗￥217期√<br>");
-document.writeln("218-219期￥羊猴猪狗龙兔牛￥000期√<br>");
-document.writeln("220-221期￥马猪虎鸡猴羊狗￥000期√<br>");
+document.writeln("220-221期￥马猪虎鸡猴<span style=\'background-color: #FFFF00\'>羊</span>狗￥220期√<br>");
+document.writeln("221-222期￥狗牛鸡龙猴鼠羊￥000期√<br>");
 
 document.writeln("	");
 document.writeln("		<br></font>	");
@@ -95,7 +90,9 @@ document.writeln("216期【野兽：龙虎蛇兔】开马37×<br>");
 document.writeln("217期【家禽：马羊狗猪】开蛇26×<br>");
 document.writeln("218期【野兽：龙猴<span style=\'background-color: #FFFF00\'>虎</span>鼠】开虎17√<br>");
 document.writeln("219期【家禽：牛羊马狗】开鼠43×<br>");
-document.writeln("220期【野兽：龙蛇猴虎】开？00√<br>");
+document.writeln("220期【野兽：龙蛇猴虎】开羊48×<br>");
+document.writeln("221期【野兽：龙虎猴兔】开？00√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -125,8 +122,9 @@ document.writeln("216期【<span style=\'background-color: #FFFF00\'>马</span>�
 document.writeln("217期【鸡猴马兔牛虎狗<span style=\'background-color: #FFFF00\'>蛇</span>猪】开蛇26√<br>");
 document.writeln("218期【蛇猪<span style=\'background-color: #FFFF00\'>虎</span>龙猴马鼠鸡羊】开虎17√<br>");
 document.writeln("219期【虎蛇猴兔猪鸡狗羊牛】开鼠43×<br>");
-document.writeln("220期【兔猪鼠蛇牛龙马狗羊】开？00√<br>");
+document.writeln("220期【兔猪鼠蛇牛龙马狗羊】开羊48√<br>");
 
+document.writeln("221期【马虎猴狗鸡牛兔蛇龙】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

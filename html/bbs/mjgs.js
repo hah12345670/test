@@ -49,7 +49,9 @@ document.writeln("218期单双【<span style=\'background-color: #FFFF00\'>单�
 document.writeln("219期单双【<span style=\'background-color: #FFFF00\'>单数</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("220期单双【单数+鸡兔】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("221期单双【<span style=\'background-color: #FFFF00\'>单数</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("222期单双【单数+牛鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("222期单双【单数+牛鸡】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("223期单双【单数+猪鸡】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 document.writeln("");
@@ -83,7 +85,8 @@ document.writeln("220期家野【野兽+狗猪】<font color=\"#FF0000\">×</fon
 
 document.writeln("221期家野【野兽+狗<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("222期家野【家禽+兔猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("222期家野【家禽+兔猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("223期家野【野兽+猪马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -136,7 +139,8 @@ document.writeln("219期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("220期天地【天肖+蛇虎】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("221期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("222期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("222期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期天地【地肖+猴马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("		");
@@ -157,7 +161,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
 
-document.writeln("222期前后【前肖+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("222期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("223期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -177,7 +182,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://47-hg.www-62827a.cc:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://6233-cc.www62827a.app:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

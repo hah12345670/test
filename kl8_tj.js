@@ -1,6 +1,7 @@
 let savedCoreNumbersHistory = [];
 let currentPage = 1;
 const pageSize = 5; // 每页显示5条历史记录
+let selectedTiers = []; // 存储当前选中的段位数组，如 ['0', '2', '5']，为空时表示选择"全部"
 
 function renderConfigPanel(config) {
     const panel = document.getElementById('configPanel');
@@ -132,9 +133,19 @@ function initSystem() {
     document.getElementById('group-detail-tip').innerText = "";
 }
 
-function deleteHistoryItem(index) {
-    savedCoreNumbersHistory.splice(index, 1);
-    const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+// 检查条目是否契合多选段位条件 (修改为 "且" 关系：必须同时包含所有选中的段位)
+function isItemMatchingTiers(item) {
+    if (selectedTiers.length === 0) return true; // 未选任何具体段位时显示全部
+    return selectedTiers.every(t => item.activeTiers.includes(`段${t}`));
+}
+
+// 按照 ID 进行安全删除
+function deleteHistoryItem(id) {
+    savedCoreNumbersHistory = savedCoreNumbersHistory.filter(item => item.id !== id);
+    
+    let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
+
+    const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
     if (currentPage > totalPages) {
         currentPage = totalPages;
     }
@@ -142,9 +153,27 @@ function deleteHistoryItem(index) {
 }
 
 function changePage(page) {
-    const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+    let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
+
+    const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
     if (page < 1 || page > totalPages) return;
     currentPage = page;
+    renderHistoryContainer();
+}
+
+// 切换/多选段位触发函数
+function toggleTierFilter(tier) {
+    if (tier === 'all') {
+        selectedTiers = []; // 清空选中，归位到全部
+    } else {
+        let index = selectedTiers.indexOf(tier);
+        if (index > -1) {
+            selectedTiers.splice(index, 1); // 再次点击取消选中
+        } else {
+            selectedTiers.push(tier); // 选中段位
+        }
+    }
+    currentPage = 1; // 切换筛选重置到第 1 页
     renderHistoryContainer();
 }
 
@@ -157,11 +186,43 @@ function renderHistoryContainer() {
         return;
     }
 
-    const totalPages = Math.ceil(savedCoreNumbersHistory.length / pageSize) || 1;
+    // 根据多选选中的段位过滤历史记录 ("且" 逻辑)
+    let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
+
+    const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
 
-    let htmlContent = `<div style="font-weight:bold; margin-bottom:6px; color:#333;">📜 历史保存记录 (${savedCoreNumbersHistory.length}条 - 按微观方差升序)：</div>`;
-    
+    // 构建多选段位（0-8）按钮组
+    let isAllSelected = selectedTiers.length === 0;
+    let buttonsHtml = `
+        <button onclick="toggleTierFilter('all')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; cursor: pointer; transition: all 0.2s; border: 1px solid ${isAllSelected ? 'var(--primary-color)' : '#ddd'}; background: ${isAllSelected ? 'var(--primary-color)' : '#fff'}; color: ${isAllSelected ? '#fff' : '#555'};">全部</button>
+    `;
+
+    for (let i = 0; i <= 8; i++) {
+        let isSelected = selectedTiers.includes(`${i}`);
+        buttonsHtml += `
+            <button onclick="toggleTierFilter('${i}')" style="padding: 2px 6px; border-radius: 4px; font-size: 11px; cursor: pointer; transition: all 0.2s; border: 1px solid ${isSelected ? '#0275d8' : '#ddd'}; background: ${isSelected ? '#0275d8' : '#fff'}; color: ${isSelected ? '#fff' : '#555'}; font-weight: ${isSelected ? 'bold' : 'normal'};">段${i}</button>
+        `;
+    }
+
+    let htmlContent = `
+        <div style="margin-bottom: 8px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; flex-wrap: wrap; gap: 6px;">
+                <div style="font-weight:bold; color:#333;">📜 历史保存记录 (${filteredHistory.length}/${savedCoreNumbersHistory.length}条)：</div>
+            </div>
+            <div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap; background: #f8f9fa; padding: 6px 8px; border-radius: 6px; border: 1px solid #eee;">
+                <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔍 多选段位(需同时包含):</span>
+                ${buttonsHtml}
+            </div>
+        </div>`;
+
+    if (filteredHistory.length === 0) {
+        let selectedText = selectedTiers.map(t => `段${t}`).join(' + ');
+        htmlContent += `<div style="text-align: center; color: #999; padding: 15px 0; font-size: 12px; background: #fafafa; border: 1px dashed #ddd; border-radius: 6px;">未检索到同时包含 [${selectedText}] 的历史保存记录</div>`;
+        historyContainer.innerHTML = htmlContent;
+        return;
+    }
+
     if (totalPages > 1) {
         let pagesHtml = '';
         let startPage = Math.max(1, currentPage - 1);
@@ -194,19 +255,20 @@ function renderHistoryContainer() {
 
     const startIndex = (currentPage - 1) * pageSize;
     const endIndex = startIndex + pageSize;
-    const pageItems = savedCoreNumbersHistory.slice(startIndex, endIndex);
+    const pageItems = filteredHistory.slice(startIndex, endIndex);
 
     pageItems.forEach((item, idx) => {
         let absoluteIndex = startIndex + idx;
         let rank = absoluteIndex + 1;
+        let iterText = item.iterations ? ` (迭代: ${item.iterations}次)` : '';
         htmlContent += `
             <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">
                 <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px dashed #eee; padding-bottom: 2px; margin-bottom: 4px; color: #888;">
                     <span>排名 <strong>#${rank}</strong> (${item.time})</span>
-                    <button onclick="deleteHistoryItem(${absoluteIndex})" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
+                    <button onclick="deleteHistoryItem('${item.id}')" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
                 </div>
                 <div>核心数字: <span style="color: var(--primary-color); font-weight: bold; word-break: break-all;">[${item.formatted}]</span></div>
-                <div>微观方差: <span style="color: #0275d8; font-weight: bold;">${item.variance.toFixed(3)}</span></div>
+                <div>微观方差: <span style="color: #0275d8; font-weight: bold;">${item.variance.toFixed(3)}${iterText}</span></div>
                 <div>覆盖段位(${item.tierCount}段): <span style="color: #5bc0de; font-weight: bold;">[${item.activeTiers}]</span></div>
             </div>`;
     });
@@ -215,7 +277,6 @@ function renderHistoryContainer() {
 }
 
 function generateByCheckedConfigs() {
-    // 获取用户输入的抽取数量范围
     let userMin = parseInt(document.getElementById('minCount').value) || 6;
     let userMax = parseInt(document.getElementById('maxCount').value) || 8;
     if (userMin > userMax) {
@@ -224,7 +285,6 @@ function generateByCheckedConfigs() {
         userMax = temp;
     }
 
-    // 获取用户输入的段位数量范围
     let userMinTier = parseInt(document.getElementById('minTier').value) || 1;
     let userMaxTier = parseInt(document.getElementById('maxTier').value) || 8;
     if (userMinTier > userMaxTier) {
@@ -274,7 +334,6 @@ function generateByCheckedConfigs() {
             }
         });
 
-        // 使用动态获取的 userMinTier 代替硬编码
         if (hitTierCount < userMinTier || currentAvailableNums.length < userMin) {
             if (attempts > 20000) break;
             continue;
@@ -294,7 +353,6 @@ function generateByCheckedConfigs() {
             }
         });
 
-        // 使用动态获取的段位范围进行校验
         if (finalHitTierCount < userMinTier || finalHitTierCount > userMaxTier) {
             if (attempts > 20000) break;
             continue;
@@ -406,9 +464,11 @@ function generateByCheckedConfigs() {
     let tierCount = finalGroupMapping.length;
 
     savedCoreNumbersHistory.push({
+        id: 'hist_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
         time: new Date().toLocaleTimeString(),
         formatted: formattedPicked,
         variance: varianceVal,
+        iterations: stats.iterations,
         tierCount: tierCount,
         activeTiers: activeTiers
     });

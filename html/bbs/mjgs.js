@@ -27,7 +27,10 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-document.writeln("225期单双【双数+马鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("225期单双【双数+<span style=\'background-color: #FFFF00\'>马</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("226期单双【单数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
+
 
 
 
@@ -56,7 +59,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("225期家野【野兽+猪牛】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("226期家野【家禽+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("");
 document.writeln("");
@@ -111,8 +115,8 @@ document.writeln("221期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("222期天地【天肖+<span style=\'background-color: #FFFF00\'>蛇</span>羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("223期天地【地肖+<span style=\'background-color: #FFFF00\'>猴</span>马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("224期天地【天肖+虎<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("225期天地【天肖+虎鸡】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("225期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("226期天地【地肖+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("		");
@@ -132,10 +136,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("224期前后【前肖+猴<span style=\'background-color: #FFFF00\'>狗</span>】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("225期前后【前肖+猪猴】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("226期前后【后肖+鼠牛】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -153,7 +155,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://6233-cc.www62827a.app:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://ss-62.www62827a.app:8443/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

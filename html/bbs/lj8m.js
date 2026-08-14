@@ -98,7 +98,9 @@ document.writeln("222期：【书画棋琴】棋书=开：蛇26错<br><br>");
 document.writeln("223期：【书画棋琴】琴<span style=\'background-color: #FFFF00\'>画</span>=开：猴23准<br><br>");
 document.writeln("224期：【书画棋琴】画<span style=\'background-color: #FFFF00\'>棋</span>=开：狗09准<br><br>");
 document.writeln("225期：【书画棋琴】棋琴=开：马01错<br><br>");
-document.writeln("226期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
+document.writeln("226期：【书画棋琴】<span style=\'background-color: #FFFF00\'>书</span>画=开：虎17准<br><br>");
+document.writeln("227期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
+
 
 document.writeln("");
 document.writeln("	");

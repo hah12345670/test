@@ -27,7 +27,7 @@ function renderConfigPanel(config) {
             input.name = key;
             input.value = idx;
 
-            let subName = (group.subNames && group.subNames[idx]) ? group.subNames[idx] : `选项${idx+1}`;
+            let subName = (group.subNames && group.subNames[idx]) ? group.subNames[idx] : `选项${idx + 1}`;
             let patternStr = opt.pattern.join(',');
             let displayText = `${subName}[${patternStr},${opt.threshold}]`;
 
@@ -78,6 +78,57 @@ function renderConfigPanel(config) {
     `;
     tierRangeRow.appendChild(tierRangeBox);
     panel.appendChild(tierRangeRow);
+
+    // 4. 新增：批量自动筛选配置行
+    let batchRow = document.createElement('div');
+    batchRow.className = 'config-row';
+    batchRow.style.marginTop = '10px';
+    batchRow.style.borderTop = '1px dashed #ccc';
+    batchRow.style.paddingTop = '10px';
+
+    let batchTitleSpan = document.createElement('span');
+    batchTitleSpan.className = 'config-title';
+    batchTitleSpan.innerText = '自动连续筛选:';
+    batchRow.appendChild(batchTitleSpan);
+
+    let batchBox = document.createElement('div');
+    batchBox.className = 'range-box';
+    batchBox.innerHTML = `
+        <span>次数:</span>
+        <input type="number" id="batchCount" value="100" min="1" max="1000" style="width: 70px;">
+        <button id="batchBtn" onclick="batchGenerate()" style="margin-left: 10px; padding: 4px 12px; background: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">开始批量筛选</button>
+    `;
+    batchRow.appendChild(batchBox);
+    panel.appendChild(batchRow);
+}
+
+// 新增：批量执行逻辑（异步防止浏览器卡死）
+async function batchGenerate() {
+    let count = parseInt(document.getElementById('batchCount').value) || 100;
+    let btn = document.getElementById('batchBtn');
+    
+    // 防止重复点击，按钮进入执行中状态
+    let originalText = btn.innerText;
+    let originalColor = btn.style.background;
+    btn.disabled = true;
+    btn.style.background = '#6c757d';
+    btn.style.cursor = 'not-allowed';
+
+    for(let i = 0; i < count; i++) {
+        btn.innerText = `筛选中 (${i + 1}/${count})...`;
+        
+        // 暂停 0 毫秒，将控制权短暂交还给浏览器，强制更新 UI 进度并防止页面假死
+        await new Promise(resolve => setTimeout(resolve, 0));
+        
+        // 调用原有的核心逻辑，相当于用户手动点了一下
+        generateByCheckedConfigs();
+    }
+
+    // 恢复按钮状态
+    btn.innerText = originalText;
+    btn.style.background = originalColor;
+    btn.disabled = false;
+    btn.style.cursor = 'pointer';
 }
 
 function pad(n) {
@@ -142,7 +193,7 @@ function isItemMatchingTiers(item) {
 // 按照 ID 进行安全删除
 function deleteHistoryItem(id) {
     savedCoreNumbersHistory = savedCoreNumbersHistory.filter(item => item.id !== id);
-    
+
     let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
 
     const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
@@ -182,7 +233,7 @@ function renderHistoryContainer() {
     if (!historyContainer) return;
 
     if (savedCoreNumbersHistory.length === 0) {
-        historyContainer.innerHTML = ''; 
+        historyContainer.innerHTML = '';
         return;
     }
 
@@ -243,7 +294,7 @@ function renderHistoryContainer() {
             <div style="display: flex; justify-content: center; align-items: center; gap: 4px; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px dashed #eee; flex-wrap: wrap;">
                 <button onclick="changePage(1)" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">最 前</button>
                 <button onclick="changePage(${currentPage - 1})" ${currentPage === 1 ? 'disabled style="opacity: 0.5; cursor: not-allowed;"' : 'style="cursor: pointer;"'} style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px;">上一页</button>
-                
+
                 <div style="display: flex; gap: 3px; margin: 0 4px;">
                     ${pagesHtml}
                 </div>
@@ -340,7 +391,7 @@ function generateByCheckedConfigs() {
         }
 
         shuffle(currentAvailableNums);
-        
+
         let targetCount = Math.floor(Math.random() * (userMax - userMin + 1)) + userMin;
         let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
         if (samplePool.length < userMin) continue;
@@ -416,7 +467,7 @@ function generateByCheckedConfigs() {
 
         if (passedAllChecks || attempts > 20000) {
             validAvailableNums = samplePool;
-            
+
             finalGroupMapping = [];
             currentSystemConfig.knownDataGroups.forEach((group, gIndex) => {
                 let matchedInSample = group.filter(n => validAvailableNums.includes(n));
@@ -435,7 +486,7 @@ function generateByCheckedConfigs() {
     }
 
     if (!validAvailableNums) {
-        alert("未能在规定次数内契合当前动态配置组合，请调整勾选项或重试。");
+        console.warn("单次筛选未能在 20000 次内契合，跳过此条记录");
         return;
     }
 
@@ -474,8 +525,8 @@ function generateByCheckedConfigs() {
     });
 
     savedCoreNumbersHistory.sort((a, b) => a.variance - b.variance);
-    
-    currentPage = 1; 
+
+    currentPage = 1;
     renderHistoryContainer();
 
     let tierDistributionText = finalGroupMapping.map(item => {
@@ -483,13 +534,13 @@ function generateByCheckedConfigs() {
         return `[段${item.tier}: ${numsStr}]`;
     }).join(' ');
 
-    document.getElementById('result-tip').innerHTML = 
+    document.getElementById('result-tip').innerHTML =
         `🎯 动态筛选抽取的 <strong>${validAvailableNums.length} 个核心数字</strong>：<span style="background:#fff3cd; padding:2px 4px; border:1px solid #f0ad4e;">[ ${formattedPicked} ]</span>`;
 
-    document.getElementById('tier-tip').innerHTML = 
+    document.getElementById('tier-tip').innerHTML =
         `📊 <strong>动态校验报告：</strong> ${stats.desc} (迭代: ${stats.iterations}次)`;
 
-    document.getElementById('group-detail-tip').innerHTML = 
+    document.getElementById('group-detail-tip').innerHTML =
         `📍 <strong>核心数字所在段位 (0-7段)：</strong> ${tierDistributionText}`;
 }
 

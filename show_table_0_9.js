@@ -232,7 +232,7 @@ function updateEmbeddedStats() {
 					comboArray.sort((a, b) => b.count - a.count);
 
 					// 取前 3 个组合（如果不足3个则有几个显示几个）
-					let top3Combos = comboArray.slice(0, 3);
+					let top3Combos = comboArray.slice(0, 13);
 
 					typeFreqHtml += `<div class="best-combos-box">`;
 					typeFreqHtml += `<div class="best-combos-title">🔥 概率最高的前 3 个组合 (第1-3段 / 第4-6段 / 第7-9段)：</div>`;

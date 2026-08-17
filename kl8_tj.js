@@ -2,9 +2,14 @@ let savedCoreNumbersHistory = [];
 let currentPage = 1;
 const pageSize = 5; // 每页显示5条历史记录
 let selectedTiers = []; // 存储当前选中的段位数组，如 ['0', '2', '5']，为空时表示选择"全部"
+let selectedSorts = ['varianceAsc', 'iterDesc']; // 多选排序规则数组，默认同时勾选两者
 
+/**
+ * 渲染顶部配置面板
+ */
 function renderConfigPanel(config) {
     const panel = document.getElementById('configPanel');
+    if (!panel) return;
     panel.innerHTML = '';
 
     // 1. 渲染原有的比例配置项
@@ -79,7 +84,7 @@ function renderConfigPanel(config) {
     tierRangeRow.appendChild(tierRangeBox);
     panel.appendChild(tierRangeRow);
 
-    // 4. 新增：批量自动筛选配置行
+    // 4. 批量自动筛选配置行
     let batchRow = document.createElement('div');
     batchRow.className = 'config-row';
     batchRow.style.marginTop = '10px';
@@ -102,12 +107,13 @@ function renderConfigPanel(config) {
     panel.appendChild(batchRow);
 }
 
-// 新增：批量执行逻辑（异步防止浏览器卡死）
+/**
+ * 批量执行异步逻辑（防止浏览器 UI 卡死）
+ */
 async function batchGenerate() {
     let count = parseInt(document.getElementById('batchCount').value) || 100;
     let btn = document.getElementById('batchBtn');
     
-    // 防止重复点击，按钮进入执行中状态
     let originalText = btn.innerText;
     let originalColor = btn.style.background;
     btn.disabled = true;
@@ -116,15 +122,10 @@ async function batchGenerate() {
 
     for(let i = 0; i < count; i++) {
         btn.innerText = `筛选中 (${i + 1}/${count})...`;
-        
-        // 暂停 0 毫秒，将控制权短暂交还给浏览器，强制更新 UI 进度并防止页面假死
         await new Promise(resolve => setTimeout(resolve, 0));
-        
-        // 调用原有的核心逻辑，相当于用户手动点了一下
         generateByCheckedConfigs();
     }
 
-    // 恢复按钮状态
     btn.innerText = originalText;
     btn.style.background = originalColor;
     btn.disabled = false;
@@ -166,9 +167,18 @@ function getQuadrant(r, c) {
     return 4;
 }
 
+/**
+ * 初始化系统
+ */
 function initSystem() {
+    if (typeof currentSystemConfig === 'undefined') {
+        console.error("未找到 currentSystemConfig，请确保 tj_sx.js 已在 kl8_tj.js 之前加载！");
+        return;
+    }
     renderConfigPanel(currentSystemConfig);
     let tbody = document.getElementById('tableBody');
+    if (!tbody) return;
+    
     tbody.innerHTML = '';
     let currentNum = 1;
     for (let r = 0; r < 8; r++) {
@@ -184,13 +194,13 @@ function initSystem() {
     document.getElementById('group-detail-tip').innerText = "";
 }
 
-// 检查条目是否契合多选段位条件 (修改为 "且" 关系：必须同时包含所有选中的段位)
+// 检查条目是否契合多选段位条件 (必须同时包含所有选中的段位)
 function isItemMatchingTiers(item) {
-    if (selectedTiers.length === 0) return true; // 未选任何具体段位时显示全部
+    if (selectedTiers.length === 0) return true;
     return selectedTiers.every(t => item.activeTiers.includes(`段${t}`));
 }
 
-// 按照 ID 进行安全删除
+// 安全删除历史记录项
 function deleteHistoryItem(id) {
     savedCoreNumbersHistory = savedCoreNumbersHistory.filter(item => item.id !== id);
 
@@ -215,19 +225,34 @@ function changePage(page) {
 // 切换/多选段位触发函数
 function toggleTierFilter(tier) {
     if (tier === 'all') {
-        selectedTiers = []; // 清空选中，归位到全部
+        selectedTiers = [];
     } else {
         let index = selectedTiers.indexOf(tier);
         if (index > -1) {
-            selectedTiers.splice(index, 1); // 再次点击取消选中
+            selectedTiers.splice(index, 1);
         } else {
-            selectedTiers.push(tier); // 选中段位
+            selectedTiers.push(tier);
         }
     }
-    currentPage = 1; // 切换筛选重置到第 1 页
+    currentPage = 1;
     renderHistoryContainer();
 }
 
+// 切换排序勾选状态（支持多选）
+function toggleSortMode(mode) {
+    let index = selectedSorts.indexOf(mode);
+    if (index > -1) {
+        selectedSorts.splice(index, 1); // 取消勾选
+    } else {
+        selectedSorts.push(mode); // 勾选
+    }
+    currentPage = 1; // 重置到第 1 页
+    renderHistoryContainer();
+}
+
+/**
+ * 渲染历史记录区域
+ */
 function renderHistoryContainer() {
     let historyContainer = document.getElementById('history-container');
     if (!historyContainer) return;
@@ -237,33 +262,76 @@ function renderHistoryContainer() {
         return;
     }
 
-    // 根据多选选中的段位过滤历史记录 ("且" 逻辑)
+    // 1. 段位过滤
     let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
+
+    // 2. 多选排序逻辑 (固定微观方差升序优先级最高)
+    filteredHistory.sort((a, b) => {
+        let hasVariance = selectedSorts.includes('varianceAsc');
+        let hasIter = selectedSorts.includes('iterDesc');
+
+        if (hasVariance && hasIter) {
+            // 【两者均选】微观方差优先 (升序)；方差相同时按迭代次数 (降序)
+            if (a.variance !== b.variance) {
+                return a.variance - b.variance;
+            }
+            return b.iterations - a.iterations;
+        } else if (hasVariance) {
+            // 【仅选微观方差升序】
+            return a.variance - b.variance;
+        } else if (hasIter) {
+            // 【仅选迭代次数降序】
+            return b.iterations - a.iterations;
+        }
+        return 0; // 【均未选】按原逻辑相对顺序
+    });
 
     const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
 
     // 构建多选段位（0-8）按钮组
     let isAllSelected = selectedTiers.length === 0;
-    let buttonsHtml = `
+    let tierButtonsHtml = `
         <button onclick="toggleTierFilter('all')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; cursor: pointer; transition: all 0.2s; border: 1px solid ${isAllSelected ? 'var(--primary-color)' : '#ddd'}; background: ${isAllSelected ? 'var(--primary-color)' : '#fff'}; color: ${isAllSelected ? '#fff' : '#555'};">全部</button>
     `;
 
     for (let i = 0; i <= 8; i++) {
         let isSelected = selectedTiers.includes(`${i}`);
-        buttonsHtml += `
+        tierButtonsHtml += `
             <button onclick="toggleTierFilter('${i}')" style="padding: 2px 6px; border-radius: 4px; font-size: 11px; cursor: pointer; transition: all 0.2s; border: 1px solid ${isSelected ? '#0275d8' : '#ddd'}; background: ${isSelected ? '#0275d8' : '#fff'}; color: ${isSelected ? '#fff' : '#555'}; font-weight: ${isSelected ? 'bold' : 'normal'};">段${i}</button>
         `;
     }
+
+    // 构建可多选的排序按钮 UI
+    let sortOptions = [
+        { key: 'varianceAsc', label: '微观方差 ↑' },
+        { key: 'iterDesc', label: '迭代次数 ↓' }
+    ];
+
+    let sortButtonsHtml = '';
+    sortOptions.forEach(opt => {
+        let isSelected = selectedSorts.includes(opt.key);
+        sortButtonsHtml += `
+            <button onclick="toggleSortMode('${opt.key}')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; cursor: pointer; transition: all 0.2s; border: 1px solid ${isSelected ? '#28a745' : '#ddd'}; background: ${isSelected ? '#28a745' : '#fff'}; color: ${isSelected ? '#fff' : '#555'}; font-weight: ${isSelected ? 'bold' : 'normal'};">
+                ${isSelected ? '✓ ' : ''}${opt.label}
+            </button>
+        `;
+    });
 
     let htmlContent = `
         <div style="margin-bottom: 8px;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; flex-wrap: wrap; gap: 6px;">
                 <div style="font-weight:bold; color:#333;">📜 历史保存记录 (${filteredHistory.length}/${savedCoreNumbersHistory.length}条)：</div>
             </div>
-            <div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap; background: #f8f9fa; padding: 6px 8px; border-radius: 6px; border: 1px solid #eee;">
-                <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔍 多选段位(需同时包含):</span>
-                ${buttonsHtml}
+            <div style="display: flex; flex-direction: column; gap: 6px; background: #f8f9fa; padding: 6px 8px; border-radius: 6px; border: 1px solid #eee;">
+                <div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap;">
+                    <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔍 多选段位(需同时包含):</span>
+                    ${tierButtonsHtml}
+                </div>
+                <div style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap; border-top: 1px dashed #e0e0e0; padding-top: 6px;">
+                    <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔃 多选排序规则:</span>
+                    ${sortButtonsHtml}
+                </div>
             </div>
         </div>`;
 
@@ -327,6 +395,9 @@ function renderHistoryContainer() {
     historyContainer.innerHTML = htmlContent;
 }
 
+/**
+ * 核心筛选算法逻辑
+ */
 function generateByCheckedConfigs() {
     let userMin = parseInt(document.getElementById('minCount').value) || 6;
     let userMax = parseInt(document.getElementById('maxCount').value) || 8;
@@ -523,8 +594,6 @@ function generateByCheckedConfigs() {
         tierCount: tierCount,
         activeTiers: activeTiers
     });
-
-    savedCoreNumbersHistory.sort((a, b) => a.variance - b.variance);
 
     currentPage = 1;
     renderHistoryContainer();

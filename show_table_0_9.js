@@ -203,7 +203,7 @@ function updateEmbeddedStats() {
 	}
 	document.getElementById('statsResultsGroup').innerHTML = resHtml;
 
-	// 渲染：各类型分段频次及前 3 大概率组合推荐
+	// 渲染：各类型分段频次及组合分布
 	let typeFreqHtml = '';
 	if (sortedKeys.length === 0) {
 			typeFreqHtml = `<div style="text-align: center; font-size: 0.75rem; color: #666;">暂无有效数据</div>`;
@@ -231,17 +231,23 @@ function updateEmbeddedStats() {
 					}
 					comboArray.sort((a, b) => b.count - a.count);
 
-					// 取前 3 个组合（如果不足3个则有几个显示几个）
-					let top3Combos = comboArray.slice(0, 13);
-
 					typeFreqHtml += `<div class="best-combos-box">`;
-					typeFreqHtml += `<div class="best-combos-title">🔥 概率最高的前 3 个组合 (第1-3段 / 第4-6段 / 第7-9段)：</div>`;
-					if (top3Combos.length === 0) {
+					typeFreqHtml += `<div class="best-combos-title">🔥 组合分布 (第1-3段 / 第4-6段 / 第7-9段)：</div>`;
+					if (comboArray.length === 0) {
 							typeFreqHtml += `<div class="combo-item"><span>暂无组合数据</span></div>`;
 					} else {
-							top3Combos.forEach((item, idx) => {
+							comboArray.forEach((item, idx) => {
 									let pct = data.totalRows > 0 ? ((item.count / data.totalRows) * 100).toFixed(1) : 0;
-									typeFreqHtml += `<div class="combo-item"><span><b>No.${idx + 1}</b> [ ${item.combo} ]</span><span>出现 <b>${item.count}</b> 次 (<b>${pct}%</b>)</span></div>`;
+									// 第4名开始显示分割标题
+									if (idx === 3) {
+											typeFreqHtml += `<div style="font-size: 0.7rem; color: #888; margin-top: 6px; border-top: 1px dashed #ddd; padding-top: 4px;">其余组合：</div>`;
+									}
+									// 前3名正常显示，第4名及以后以 60% 透明度置灰显示
+									if (idx < 3) {
+											typeFreqHtml += `<div class="combo-item"><span><b>No.${idx + 1}</b> [ ${item.combo} ]</span><span>出现 <b>${item.count}</b> 次 (<b>${pct}%</b>)</span></div>`;
+									} else {
+											typeFreqHtml += `<div class="combo-item" style="opacity: 0.6;"><span>No.${idx + 1} [ ${item.combo} ]</span><span>出现 ${item.count} 次 (${pct}%)</span></div>`;
+									}
 							});
 					}
 					typeFreqHtml += `</div>`;

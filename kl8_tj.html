@@ -216,6 +216,61 @@
                 font-size: 18px;
             }
         }
+
+        /* --- 底部数据统计表专属样式 --- */
+        .stat-section-wrapper {
+            width: 100%;
+            max-width: 950px;
+            margin-top: 10px;
+        }
+        .stat-table-container {
+            width: 100%;
+            overflow-x: auto;
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            -webkit-overflow-scrolling: touch;
+        }
+        .stat-table {
+            width: 100%;
+            min-width: 600px;
+            border-collapse: collapse;
+            text-align: center;
+            font-size: 13px;
+        }
+        .stat-table th, .stat-table td {
+            border: 1px solid var(--border-color);
+            padding: 8px 4px;
+            white-space: nowrap;
+            width: auto;
+            height: auto;
+        }
+        .stat-table th {
+            background-color: var(--primary-color);
+            color: #fff;
+            font-weight: bold;
+        }
+        .stat-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        
+        /* 交集数组列强制单行显示 */
+        .stat-table td.intersection-cell {
+            white-space: nowrap;
+            font-size: 12px;
+            color: #d9534f;
+            text-align: center;
+            padding: 6px 8px;
+        }
+
+        @media (max-width: 767px) {
+            .stat-table {
+                font-size: 12px;
+            }
+            .stat-table th, .stat-table td {
+                padding: 6px 4px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -239,7 +294,31 @@
         <div id="history-container"></div>
     </div>
 
-    <script src="tj_sx.js"></script>
-    <script src="kl8_tj.js"></script><script src="tracker.js"></script>
+    <!-- 底部整合区域：多维指标统计模块 -->
+    <div class="stat-section-wrapper">
+        <h2>历史交集多维指标统计</h2>
+        <div class="stat-table-container">
+            <table class="stat-table" id="statResultTable">
+                <thead>
+                    <tr>
+                        <th>期号</th>
+                        <th>个数</th>
+                        <th>交集数组</th>
+                        <th>012路比<br><small>(0:1:2)</small></th>
+                        <th>奇偶比<br><small>(奇:偶)</small></th>
+                        <th>三区比<br><small>(一:二:三)</small></th>
+                        <th>质合比<br><small>(质:合)</small></th>
+                        <th>象限比<br><small>(Q1:Q2:Q3:Q4)</small></th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="tj_sx.js"></script><script src="kl8_tj.js"></script>
+    <script src="tj_sx1.js"></script><script src="kl8_tj1.js"></script>
+    <script src="tracker.js"></script>
+
 </body>
 </html>

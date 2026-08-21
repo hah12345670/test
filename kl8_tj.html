@@ -43,16 +43,38 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
         }
 
+        /* 折叠面板专属样式 */
         .config-panel {
             background-color: var(--card-bg);
-            padding: 12px;
             border-radius: 8px;
             margin-bottom: 12px;
+            border: 1px solid var(--border-color);
+            font-size: 14px;
+            color: #444;
+            overflow: hidden;
+        }
+
+        .config-summary {
+            font-size: 15px;
+            font-weight: bold;
+            color: var(--primary-color);
+            padding: 12px;
+            background-color: #f8f9fa;
+            cursor: pointer;
+            user-select: none;
+            outline: none;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .config-summary:hover {
+            background-color: #eef2f7;
+        }
+
+        .config-content {
+            padding: 12px;
             display: flex;
             flex-direction: column;
             gap: 10px;
-            font-size: 14px;
-            color: #444;
         }
 
         .config-row {
@@ -277,7 +299,11 @@
 
     <h2>动态多维比例配置与方差系统</h2>
     
-    <div class="config-panel" id="configPanel"></div>
+    <!-- 改为原生折叠组件 details/summary，默认收起（如需默认展开，可添加 open 属性，如 <details class="config-panel" open>） -->
+    <details class="config-panel">
+        <summary class="config-summary">⚙️ 配置参数设置</summary>
+        <div class="config-content" id="configPanel"></div>
+    </details>
 
     <button class="action-btn" onclick="generateByCheckedConfigs()">点击按勾选的配置项组合执行筛选</button>
     
@@ -296,7 +322,6 @@
 
     <!-- 底部整合区域：多维指标统计模块 -->
     <div class="stat-section-wrapper">
-        <h2>历史交集多维指标统计</h2>
         <div class="stat-table-container">
             <table class="stat-table" id="statResultTable">
                 <thead>

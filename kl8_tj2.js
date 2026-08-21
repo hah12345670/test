@@ -34,7 +34,7 @@
       '四象限': [46, 47, 48, 49, 50, 56, 57, 58, 59, 60, 66, 67, 68, 69, 70, 76, 77, 78, 79, 80]
   };
 
-  // 自动注入移动端自适应 CSS 样式
+  // 自动注入移动端自适应 CSS 样式与折叠面板样式
   function injectResponsiveStyles() {
       if (document.querySelector('#predResponsiveStyle')) return;
       const style = document.createElement('style');
@@ -50,6 +50,24 @@
           #predResultContainer {
               overflow-x: auto !important;
               -webkit-overflow-scrolling: touch;
+          }
+          /* 折叠面板标题摘要样式 */
+          .pred-summary {
+              font-size: 14px;
+              font-weight: bold;
+              color: #1e7e34;
+              cursor: pointer;
+              user-select: none;
+              outline: none;
+              display: flex;
+              flex-wrap: wrap;
+              align-items: center;
+              justify-content: space-between;
+              gap: 4px;
+              padding: 4px 2px;
+          }
+          .pred-summary:hover {
+              color: #28a745;
           }
           @media screen and (max-width: 768px) {
               #predIndicatorCheckboxGroup label {
@@ -156,31 +174,34 @@
       });
   }
 
-  // 渲染页面 UI
+  // 渲染页面 UI（外层替换为 details 折叠容器）
   function renderPredictionUI(container) {
       let html = `
-          <div style="border: 2px solid #28a745; background: #fcfdfc; padding: 10px; border-radius: 6px; box-sizing: border-box; width: 100%;">
+          <details style="border: 2px solid #28a745; background: #fcfdfc; padding: 10px; border-radius: 6px; box-sizing: border-box; width: 100%;">
               
-              <!-- 标题区 -->
-              <div style="font-size: 14px; font-weight: bold; color: #1e7e34; margin-bottom: 8px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px;">
-                  <span>今日预测数据多维筛选</span>
+              <!-- 折叠标题区（默认展开；如需默认收起，请移除上面的 details 中的 open 属性） -->
+              <summary class="pred-summary">
+                  <span>🎯 今日预测数据多维筛选</span>
                   <span id="predDataStatus" style="font-size: 11px; font-weight: normal; color: #666;"></span>
-              </div>
+              </summary>
 
-              <!-- 复选框区 -->
-              <div id="predIndicatorCheckboxGroup" style="background: #eef9f1; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; box-sizing: border-box; width: 100%;">
-                  ${PREDICTION_INDICATORS.map(ind => `
-                      <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; user-select: none; margin: 0; white-space: nowrap;">
-                          <input type="checkbox" data-pred-ind="true" value="${ind}" style="margin: 0 3px 0 0; vertical-align: middle; width: 14px; height: 14px;">
-                          <span>${ind}</span>
-                      </label>
-                  `).join('')}
-                  <button id="resetPredCheckboxBtn" type="button" style="margin-left: auto; font-size: 12px; padding: 2px 8px; cursor: pointer; background: #dc3545; color: #fff; border: none; border-radius: 3px; line-height: 1.2; flex-shrink: 0;">清空已选</button>
-              </div>
+              <!-- 折叠展开后的内容区 -->
+              <div style="margin-top: 8px;">
+                  <!-- 复选框区 -->
+                  <div id="predIndicatorCheckboxGroup" style="background: #eef9f1; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; box-sizing: border-box; width: 100%;">
+                      ${PREDICTION_INDICATORS.map(ind => `
+                          <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; user-select: none; margin: 0; white-space: nowrap;">
+                              <input type="checkbox" data-pred-ind="true" value="${ind}" style="margin: 0 3px 0 0; vertical-align: middle; width: 14px; height: 14px;">
+                              <span>${ind}</span>
+                          </label>
+                      `).join('')}
+                      <button id="resetPredCheckboxBtn" type="button" style="margin-left: auto; font-size: 12px; padding: 2px 8px; cursor: pointer; background: #dc3545; color: #fff; border: none; border-radius: 3px; line-height: 1.2; flex-shrink: 0;">清空已选</button>
+                  </div>
 
-              <!-- 结果展示区 -->
-              <div id="predResultContainer" style="display: none; margin-top: 10px; width: 100%; box-sizing: border-box;"></div>
-          </div>
+                  <!-- 结果展示区 -->
+                  <div id="predResultContainer" style="display: none; margin-top: 10px; width: 100%; box-sizing: border-box;"></div>
+              </div>
+          </details>
       `;
 
       container.innerHTML = html;

@@ -3,7 +3,7 @@
     'use strict';
 
     // =========================================================================
-    // 1. 基础判断工具函数 (局限于内部作用域)
+    // 1. 基础判断工具函数 (局限于内部作用域) - 未改动
     // =========================================================================
     const checkPrime = num => {
         if (num < 2) return false;
@@ -76,7 +76,7 @@
     }
 
     // =========================================================================
-    // 2. 生成 Top 榜单有效组合
+    // 2. 生成 Top 榜单有效组合 - 未改动
     // =========================================================================
     function getValidComboSubsets(arr, minSize = 2, maxSize = 5) {
         const results = [];
@@ -123,7 +123,7 @@
 
     let cachedIntersections = [];
 
-    function calculateCombosByThreshold(minCount = 5) {
+    function calculateCombosByThreshold(minCount = 5, orderParam = 'desc') {
         const validCombos = getValidComboSubsets(ALL_INDICATORS, 2, 5);
         const comboStatsMap = new Map();
 
@@ -152,7 +152,7 @@
             });
         });
 
-        const comboList = Array.from(comboStatsMap.values());
+        let comboList = Array.from(comboStatsMap.values());
 
         comboList.sort((a, b) => {
             if (b.comboSize !== a.comboSize) return b.comboSize - a.comboSize;
@@ -160,11 +160,19 @@
             return b.maxMatchCount - a.maxMatchCount;
         });
 
+        comboList.forEach((item, idx) => {
+            item.originalRank = idx + 1;
+        });
+
+        if (orderParam === 'asc') {
+            comboList.reverse();
+        }
+
         return comboList;
     }
 
     // =========================================================================
-    // 3. 手动复选框筛选计算逻辑
+    // 3. 手动复选框筛选计算逻辑 - 未改动
     // =========================================================================
     function calculateManualCustomSelection(selectedIndicators) {
         if (!selectedIndicators || selectedIndicators.length === 0) return [];
@@ -233,7 +241,7 @@
     }
 
     // =========================================================================
-    // 4. 渲染 UI 面板与交互绑定
+    // 4. 渲染 UI 面板与交互绑定 (默认折叠收起)
     // =========================================================================
     function handleCheckboxChange() {
         const checked = Array.from(document.querySelectorAll('input[name="customIndicator"]:checked')).map(cb => cb.value);
@@ -291,7 +299,11 @@
         resultBox.innerHTML = html;
     }
 
-    function renderTopComboTable(topN = 10, minCount = 5) {
+    let currentSortOrder = 'desc';
+
+    function renderTopComboTable(topN = 10, minCount = 5, sortOrder = currentSortOrder) {
+        currentSortOrder = sortOrder;
+
         let topContainer = document.querySelector('#topIndicatorContainer');
         if (!topContainer) {
             const targetTable = document.querySelector('#statResultTable');
@@ -308,7 +320,7 @@
             insertTarget.parentNode.insertBefore(topContainer, insertTarget);
         }
 
-        const currentComboList = calculateCombosByThreshold(minCount);
+        const currentComboList = calculateCombosByThreshold(minCount, currentSortOrder);
         const totalMax = currentComboList.length;
 
         let validTopN = parseInt(topN, 10);
@@ -325,6 +337,26 @@
                     box-sizing: border-box;
                     width: 100%;
                 }
+                .m-fold-details {
+                    border: 1px solid #e9ecef;
+                    border-radius: 6px;
+                    margin-bottom: 10px;
+                    background: #fff;
+                }
+                .m-fold-summary {
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #333;
+                    padding: 8px 12px;
+                    background: #f8f9fa;
+                    cursor: pointer;
+                    user-select: none;
+                    border-radius: 6px;
+                    outline: none;
+                }
+                .m-fold-summary:hover {
+                    background: #eef2f7;
+                }
                 .m-checkbox-group {
                     display: flex;
                     flex-wrap: wrap;
@@ -332,6 +364,7 @@
                     padding: 10px;
                     background: #f8f9fa;
                     border-radius: 6px;
+                    margin-top: 8px;
                     margin-bottom: 12px;
                     border: 1px solid #e9ecef;
                 }
@@ -365,6 +398,14 @@
                     border-radius: 4px;
                     text-align: center;
                     font-size: 13px;
+                }
+                .m-combo-select {
+                    padding: 5px;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                    font-size: 12px;
+                    background-color: #fff;
+                    cursor: pointer;
                 }
                 .m-combo-btn {
                     padding: 5px 12px;
@@ -402,47 +443,59 @@
             </style>
 
             <div class="m-combo-card">
-                <div style="font-size:14px; font-weight:bold; color:#333; margin-bottom:6px;">
-                    🛠️ 多维度交集筛选
-                </div>
-                <div class="m-checkbox-group" id="indicatorCheckboxGroup">
-                    ${ALL_INDICATORS.map(ind => `
-                        <label class="m-checkbox-item">
-                            <input type="checkbox" name="customIndicator" value="${ind}"> ${ind}
-                        </label>
-                    `).join('')}
-                    <button id="resetCheckboxBtn" style="margin-left:auto; font-size:12px; padding:2px 8px; cursor:pointer;">清空已选</button>
-                </div>
+                <!-- 1. 今日预测数据多维交集筛选（默认收起） -->
+                <details class="m-fold-details">
+                    <summary class="m-fold-summary">🛠️ 多维度交集筛选</summary>
+                    <div style="padding: 10px;">
+                        <div class="m-checkbox-group" id="indicatorCheckboxGroup">
+                            ${ALL_INDICATORS.map(ind => `
+                                <label class="m-checkbox-item">
+                                    <input type="checkbox" name="customIndicator" value="${ind}"> ${ind}
+                                </label>
+                            `).join('')}
+                            <button id="resetCheckboxBtn" style="margin-left:auto; font-size:12px; padding:2px 8px; cursor:pointer;">清空已选</button>
+                        </div>
 
-                <div id="manualResultContainer" style="display:none; margin-bottom:15px; border-bottom:2px dashed #007bff; padding-bottom:12px;"></div>
-
-                <div class="m-combo-header">
-                    <h3 style="margin:0; color:#333; font-size:16px;">🔥 全历史交集【多维组合筛选】</h3>
-                    
-                    <div class="m-combo-search">
-                        <label style="font-size:12px; color:#555; font-weight:bold;">数字门槛 >=</label>
-                        <input type="number" id="minCountInput" value="${minCount}" min="1" max="20" class="m-combo-input">
-                        <span style="font-size:12px; color:#555;">个</span>
-
-                        <label style="font-size:12px; color:#555; font-weight:bold; margin-left:5px;">Top 数量:</label>
-                        <input type="number" id="topNInput" value="${validTopN}" min="1" max="${totalMax || 1}" class="m-combo-input" style="width:55px;">
-
-                        <button id="searchTopBtn" class="m-combo-btn">查询</button>
-                        <span style="font-size:11px; color:#888;">(当前上限:<strong style="color:#d9534f;">${totalMax}</strong>)</span>
+                        <div id="manualResultContainer" style="display:none; margin-bottom:15px; border-bottom:2px dashed #007bff; padding-bottom:12px;"></div>
                     </div>
-                </div>
+                </details>
 
-                <p style="font-size:11px; color:#666; margin:0 0 10px 0; line-height:1.4;">
-                    门槛：单期满足 <strong>≥ ${minCount}个</strong> | 排序：<strong>组合维度数</strong> ＞ <strong>出现次数</strong> ＞ <strong>最多交集数</strong>
-                </p>
+                <!-- 2. 全历史交集【多维组合筛选】（默认收起） -->
+                <details class="m-fold-details">
+                    <summary class="m-fold-summary">🔥 全历史交集【多维组合筛选】</summary>
+                    <div style="padding: 10px;">
+                        <div class="m-combo-header">
+                            <div class="m-combo-search">
+                                <label style="font-size:12px; color:#555; font-weight:bold;">数字门槛 >=</label>
+                                <input type="number" id="minCountInput" value="${minCount}" min="1" max="20" class="m-combo-input">
+                                <span style="font-size:12px; color:#555;">个</span>
+
+                                <label style="font-size:12px; color:#555; font-weight:bold; margin-left:5px;">Top 数量:</label>
+                                <input type="number" id="topNInput" value="${validTopN}" min="1" max="${totalMax || 1}" class="m-combo-input" style="width:55px;">
+
+                                <select id="sortOrderSelect" class="m-combo-select">
+                                    <option value="desc" ${currentSortOrder === 'desc' ? 'selected' : ''}>高到低 (降序)</option>
+                                    <option value="asc" ${currentSortOrder === 'asc' ? 'selected' : ''}>低到高 (升序)</option>
+                                </select>
+
+                                <button id="searchTopBtn" class="m-combo-btn">查询</button>
+                                <span style="font-size:11px; color:#888;">(当前上限:<strong style="color:#d9534f;">${totalMax}</strong>)</span>
+                            </div>
+                        </div>
+
+                        <p style="font-size:11px; color:#666; margin:0 0 10px 0; line-height:1.4;">
+                            门槛：单期满足 <strong>≥ ${minCount}个</strong> | 排序：<strong>组合维度数</strong> ＞ <strong>出现次数</strong> ＞ <strong>最多交集数</strong> (${currentSortOrder === 'desc' ? '降序' : '升序'})
+                        </p>
         `;
 
         if (totalMax === 0) {
             html += `
-                <div style="padding:15px; background:#fff3cd; border:1px solid #ffeeba; color:#856404; border-radius:6px; font-size:13px; text-align:center;">
-                    <strong>提示：</strong>历史交集中未找到通过组合筛选后交集数字个数 <strong>≥ ${minCount}</strong> 个的形态。
-                </div></div>
-            `;
+                        <div style="padding:15px; background:#fff3cd; border:1px solid #ffeeba; color:#856404; border-radius:6px; font-size:13px; text-align:center;">
+                            <strong>提示：</strong>历史交集中未找到通过组合筛选后交集数字个数 <strong>≥ ${minCount}</strong> 个的形态。
+                        </div>
+                    </div>
+                </details>
+            </div>`;
             topContainer.innerHTML = html;
             bindEvents();
             return;
@@ -452,24 +505,24 @@
         const displayList = currentComboList.slice(0, validTopN);
 
         html += `
-                <div class="m-table-wrapper">
-                    <table border="1" borderColor="#e5e5e5" class="m-combo-table">
-                        <thead>
-                            <tr style="background-color: #f4f7fa;">
-                                <th>排名</th>
-                                <th style="text-align:left;">维度组合条件</th>
-                                <th>维度数</th>
-                                <th>出现次数</th>
-                                <th>单期最多交集数</th>
-                            </tr>
-                        </thead>
-                        <tbody>
+                        <div class="m-table-wrapper">
+                            <table border="1" borderColor="#e5e5e5" class="m-combo-table">
+                                <thead>
+                                    <tr style="background-color: #f4f7fa;">
+                                        <th>排名</th>
+                                        <th style="text-align:left;">维度组合条件</th>
+                                        <th>维度数</th>
+                                        <th>出现次数</th>
+                                        <th>单期最多交集数</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
         `;
 
-        displayList.forEach((item, index) => {
+        displayList.forEach((item) => {
             html += `
                 <tr>
-                    <td><strong>${index + 1}</strong></td>
+                    <td><strong>${item.originalRank}</strong></td>
                     <td style="text-align:left; color:#1a0dab; font-weight:bold;">${item.comboStr}</td>
                     <td style="background-color:#f0f7ff; color:#0056b3;"><strong>${item.comboSize} 维</strong></td>
                     <td style="color:#d9534f;"><strong>${item.historyHitTimes}</strong></td>
@@ -478,7 +531,7 @@
             `;
         });
 
-        html += '</tbody></table></div></div>';
+        html += '</tbody></table></div></div></details></div>';
         topContainer.innerHTML = html;
         bindEvents();
 
@@ -486,11 +539,15 @@
             const doSearch = () => {
                 const topVal = document.querySelector('#topNInput').value;
                 const minVal = document.querySelector('#minCountInput').value;
-                renderTopComboTable(topVal, minVal);
+                const sortOrder = document.querySelector('#sortOrderSelect').value;
+                renderTopComboTable(topVal, minVal, sortOrder);
             };
 
             const searchBtn = document.querySelector('#searchTopBtn');
             if (searchBtn) searchBtn.addEventListener('click', doSearch);
+
+            const sortSelect = document.querySelector('#sortOrderSelect');
+            if (sortSelect) sortSelect.addEventListener('change', doSearch);
 
             const checkboxes = document.querySelectorAll('input[name="customIndicator"]');
             checkboxes.forEach(cb => {
@@ -508,7 +565,7 @@
     }
 
     // =========================================================================
-    // 5. 主渲染流程
+    // 5. 主渲染流程 - 未改动
     // =========================================================================
     function renderStatTable() {
         const tbody = document.querySelector('#statResultTable tbody');
@@ -564,10 +621,10 @@
             tbody.appendChild(row);
         });
 
-        renderTopComboTable(10, 5);
+        renderTopComboTable(10, 5, currentSortOrder);
     }
 
-    // 安全的 DOM 绑定与对外暴露
+    // 安全的 DOM 绑定与对外暴露 - 未改动
     function init() {
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', renderStatTable);
@@ -576,7 +633,7 @@
         }
     }
 
-    // 暴露为唯一的全局名 API，避免函数名互相覆盖
+    // 暴露为唯一的全局名 API，避免函数名互相覆盖 - 未改动
     global.IndicatorStatModule = {
         init: init,
         renderStatTable: renderStatTable,
@@ -584,7 +641,7 @@
         calculateManualCustomSelection: calculateManualCustomSelection
     };
 
-    // 自动初始化
+    // 自动初始化 - 未改动
     init();
 
 })(typeof window !== 'undefined' ? window : this);

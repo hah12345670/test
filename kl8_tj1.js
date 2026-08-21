@@ -1,5 +1,3 @@
-// kl8_tj1.js - 快乐8历史交集14维度组合筛选（含自选维度手动筛选）
-
 // 1. 基础判断工具函数
 const checkPrime = num => {
     if (num < 2) return false;
@@ -44,8 +42,8 @@ const ALL_INDICATORS = [
     '象限一', '象限二', '象限三', '象限四'
 ];
 
-// 3. 生成有效组合（排他逻辑剔除）
-function getValidComboSubsets(arr, minSize = 2) {
+// 3. 生成有效组合（防卡死剪枝逻辑）
+function getValidComboSubsets(arr, minSize = 2, maxSize = 5) {
     const results = [];
     function hasConflict(combo) {
         const has = item => combo.includes(item);
@@ -62,6 +60,8 @@ function getValidComboSubsets(arr, minSize = 2) {
         if (current.length >= minSize) {
             if (!hasConflict(current)) results.push([...current]);
         }
+        if (current.length >= maxSize) return;
+
         for (let i = start; i < arr.length; i++) {
             current.push(arr[i]);
             backtrack(i + 1, current);
@@ -77,7 +77,7 @@ let cachedIntersections = [];
 
 // 4. 根据指定的数字门槛（minCount）计算组合（自动 Top 榜）
 function calculateCombosByThreshold(minCount = 5) {
-    const validCombos = getValidComboSubsets(ALL_INDICATORS, 2);
+    const validCombos = getValidComboSubsets(ALL_INDICATORS, 2, 5);
     const comboStatsMap = new Map();
 
     cachedIntersections.forEach(intersection => {
@@ -118,11 +118,10 @@ function calculateCombosByThreshold(minCount = 5) {
     return comboList;
 }
 
-// 5. 手动复选框筛选计算逻辑（使用 knownDataGroups 与全维度交集）
+// 5. 手动复选框筛选计算逻辑
 function calculateManualCustomSelection(selectedIndicators) {
     if (!selectedIndicators || selectedIndicators.length === 0) return [];
 
-    // 获取数据源：优先使用全局 knownDataGroups，若不存在则回退至 rawDataArray/cachedIntersections
     const dataSource = (typeof knownDataGroups !== 'undefined' && knownDataGroups.length > 0)
         ? knownDataGroups
         : (typeof rawDataArray !== 'undefined' ? rawDataArray : []);
@@ -133,7 +132,6 @@ function calculateManualCustomSelection(selectedIndicators) {
         let periodCode = '';
         let intersection = [];
 
-        // 兼容 knownDataGroups [期号, [数字组1], [数字组2]] 格式
         if (Array.isArray(item)) {
             periodCode = item[0] ? String(item[0]).slice(0, 3) : '';
             if (item[1] && item[2]) {
@@ -144,7 +142,6 @@ function calculateManualCustomSelection(selectedIndicators) {
             }
         }
 
-        // 在已知交集中，再过滤满足所有勾选维度的数字
         const matchedNums = intersection.filter(num =>
             selectedIndicators.every(ind => matchIndicator(num, ind))
         );
@@ -190,16 +187,24 @@ function calculateManualCustomSelection(selectedIndicators) {
     return results;
 }
 
-// 6. 渲染 UI 面板（包含复选框与 Top 统计表）
+// 6. 渲染 UI 面板（修正节点挂载逻辑）
 function renderTopComboTable(topN = 10, minCount = 5) {
     let topContainer = document.querySelector('#topIndicatorContainer');
     if (!topContainer) {
         const targetTable = document.querySelector('#statResultTable');
         if (!targetTable) return;
+        
         topContainer = document.createElement('div');
         topContainer.id = 'topIndicatorContainer';
         topContainer.style.marginBottom = '15px';
-        targetTable.parentNode.insertBefore(topContainer, targetTable);
+        
+        // 【关键修正点】避免破损原有表格的外层包裹容器（如 .table-responsive）
+        // 如果 targetTable 的父级不是 body/main，找到最高级独立包装容器再进行 insert
+        let insertTarget = targetTable;
+        if (targetTable.parentElement && targetTable.parentElement.tagName !== 'BODY') {
+            insertTarget = targetTable.parentElement;
+        }
+        insertTarget.parentNode.insertBefore(topContainer, insertTarget);
     }
 
     const currentComboList = calculateCombosByThreshold(minCount);
@@ -217,6 +222,7 @@ function renderTopComboTable(topN = 10, minCount = 5) {
                 border-radius: 8px;
                 box-shadow: 0 2px 6px rgba(0,0,0,0.04);
                 box-sizing: border-box;
+                width: 100%;
             }
             .m-checkbox-group {
                 display: flex;
@@ -267,15 +273,10 @@ function renderTopComboTable(topN = 10, minCount = 5) {
                 border-radius: 4px;
                 font-size: 13px;
                 cursor: pointer;
-                touch-action: manipulation;
-            }
-            .m-combo-btn-danger {
-                background: #dc3545;
             }
             .m-table-wrapper {
                 width: 100%;
                 overflow-x: auto;
-                -webkit-overflow-scrolling: touch;
                 border-radius: 4px;
             }
             .m-combo-table {
@@ -311,7 +312,7 @@ function renderTopComboTable(topN = 10, minCount = 5) {
                 <button id="resetCheckboxBtn" style="margin-left:auto; font-size:12px; padding:2px 8px; cursor:pointer;">清空已选</button>
             </div>
 
-            <!-- 自定义筛选结果显示区域 (仅在勾选时渲染) -->
+            <!-- 自定义筛选结果显示区域 -->
             <div id="manualResultContainer" style="display:none; margin-bottom:15px; border-bottom:2px dashed #007bff; padding-bottom:12px;"></div>
 
             <!-- Top 排名控制栏 -->
@@ -382,27 +383,28 @@ function renderTopComboTable(topN = 10, minCount = 5) {
     bindEvents();
 
     function bindEvents() {
+        // 【关键修正点】移除键盘 keyup 防手势冲突锁定，仅保留按钮显式触发
         const doSearch = () => {
             const topVal = document.querySelector('#topNInput').value;
             const minVal = document.querySelector('#minCountInput').value;
             renderTopComboTable(topVal, minVal);
         };
 
-        document.querySelector('#searchTopBtn').addEventListener('click', doSearch);
-        document.querySelector('#topNInput').addEventListener('keyup', e => e.key === 'Enter' && doSearch());
-        document.querySelector('#minCountInput').addEventListener('keyup', e => e.key === 'Enter' && doSearch());
+        const searchBtn = document.querySelector('#searchTopBtn');
+        if (searchBtn) searchBtn.addEventListener('click', doSearch);
 
-        // 监听 14 个复选框点击事件
         const checkboxes = document.querySelectorAll('input[name="customIndicator"]');
         checkboxes.forEach(cb => {
             cb.addEventListener('change', handleCheckboxChange);
         });
 
-        // 重置按钮
-        document.querySelector('#resetCheckboxBtn').addEventListener('click', () => {
-            checkboxes.forEach(cb => cb.checked = false);
-            handleCheckboxChange();
-        });
+        const resetBtn = document.querySelector('#resetCheckboxBtn');
+        if (resetBtn) {
+            resetBtn.addEventListener('click', () => {
+                checkboxes.forEach(cb => cb.checked = false);
+                handleCheckboxChange();
+            });
+        }
     }
 }
 

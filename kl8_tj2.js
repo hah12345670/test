@@ -1,27 +1,37 @@
 /**
  * =========================================================================
- * 扩展模块：今日预测数据14维度筛选
+ * 扩展模块：今日预测数据维度 + 0-8段筛选 (已修正象限网格定义)
  * 说明：自带完整指标定义与底层判断逻辑
  * =========================================================================
  */
 
  (function () {
-  // 内部硬编码完整 14 维度列表，不再依赖外部 ALL_INDICATORS
+  // 1. 维度指标定义：14维度 + 0-8段（9个段位）
   const PREDICTION_INDICATORS = [
       '0路', '1路', '2路',
       '奇数', '偶数',
       '一区', '二区', '三区',
       '质数', '合数',
-      '一象限', '二象限', '三象限', '四象限'
+      '一象限', '二象限', '三象限', '四象限',
+      '0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段'
   ];
 
-  // 维度分组定义
+  // 2. 维度分组定义
   const CATEGORY_MAP = {
       '012路': ['0路', '1路', '2路'],
       '奇偶': ['奇数', '偶数'],
       '三区': ['一区', '二区', '三区'],
       '质合': ['质数', '合数'],
-      '象限': ['一象限', '二象限', '三象限', '四象限']
+      '象限': ['一象限', '二象限', '三象限', '四象限'],
+      '段位': ['0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段']
+  };
+
+  // 预置象限号码集合（基于 8x10 网格划分）
+  const QUADRANT_MAP = {
+      '一象限': [6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 26, 27, 28, 29, 30, 36, 37, 38, 39, 40],
+      '二象限': [1, 2, 3, 4, 5, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 31, 32, 33, 34, 35],
+      '三象限': [41, 42, 43, 44, 45, 51, 52, 53, 54, 55, 61, 62, 63, 64, 65, 71, 72, 73, 74, 75],
+      '四象限': [46, 47, 48, 49, 50, 56, 57, 58, 59, 60, 66, 67, 68, 69, 70, 76, 77, 78, 79, 80]
   };
 
   // 自动注入移动端自适应 CSS 样式
@@ -54,25 +64,24 @@
       document.head.appendChild(style);
   }
 
-  // 1. 初始化预测面板容器
+  // 初始化预测面板容器
   function initPredictionPanel() {
-    injectResponsiveStyles();
+      injectResponsiveStyles();
 
-    const parentContainer = document.querySelector('#topIndicatorContainer') || document.body;
-    if (!parentContainer) return;
+      const parentContainer = document.querySelector('#topIndicatorContainer') || document.body;
+      if (!parentContainer) return;
 
-    if (document.querySelector('#predictionPanelContainer')) return;
+      if (document.querySelector('#predictionPanelContainer')) return;
 
-    const predContainer = document.createElement('div');
-    predContainer.id = 'predictionPanelContainer';
-    // 注意：这里将原先的 overflow:hidden 改为了 overflow:visible
-    predContainer.style.cssText = 'margin-bottom:15px; width:100%; box-sizing:border-box; overflow:visible;';
+      const predContainer = document.createElement('div');
+      predContainer.id = 'predictionPanelContainer';
+      predContainer.style.cssText = 'margin-bottom:15px; width:100%; box-sizing:border-box; overflow:visible;';
 
-    parentContainer.parentNode.insertBefore(predContainer, parentContainer);
-    renderPredictionUI(predContainer);
-}
+      parentContainer.parentNode.insertBefore(predContainer, parentContainer);
+      renderPredictionUI(predContainer);
+  }
 
-  // 2. 判断质数 (01-80)
+  // 判断质数 (01-80)
   function isPrimeNum(num) {
       const n = parseInt(num, 10);
       if (isNaN(n) || n <= 1) return false;
@@ -80,17 +89,17 @@
       return primeArr.includes(n);
   }
 
-  // 3. 底层精确核对单个号码是否匹配单个指标
+  // 3. 底层精确核对单个号码（包含修正后的象限逻辑与段位逻辑）
   function checkSingleRule(num, indName) {
       const n = parseInt(num, 10);
       if (isNaN(n)) return false;
 
       switch (indName) {
-          // 象限 (1-80平分为4个象限，每个象限20个号)
-          case '一象限': return n >= 1 && n <= 20;
-          case '二象限': return n >= 21 && n <= 40;
-          case '三象限': return n >= 41 && n <= 60;
-          case '四象限': return n >= 61 && n <= 80;
+          // 修正后的网格象限判定
+          case '一象限': return QUADRANT_MAP['一象限'].includes(n);
+          case '二象限': return QUADRANT_MAP['二象限'].includes(n);
+          case '三象限': return QUADRANT_MAP['三象限'].includes(n);
+          case '四象限': return QUADRANT_MAP['四象限'].includes(n);
 
           // 012路
           case '0路': return n % 3 === 0;
@@ -101,7 +110,7 @@
           case '奇数': return n % 2 !== 0;
           case '偶数': return n % 2 === 0;
 
-          // 三区 (1-80分为：1-29, 30-59, 60-80)
+          // 三区
           case '一区': return n >= 1 && n <= 29;
           case '二区': return n >= 30 && n <= 59;
           case '三区': return n >= 60 && n <= 80;
@@ -110,15 +119,25 @@
           case '质数': return isPrimeNum(n);
           case '合数': return n > 1 && !isPrimeNum(n);
 
+          // 0-8段（对应 1-9 组）
+          case '0段': return n >= 1 && n <= 9;
+          case '1段': return n >= 10 && n <= 19;
+          case '2段': return n >= 20 && n <= 29;
+          case '3段': return n >= 30 && n <= 39;
+          case '4段': return n >= 40 && n <= 49;
+          case '5段': return n >= 50 && n <= 59;
+          case '6段': return n >= 60 && n <= 69;
+          case '7段': return n >= 70 && n <= 79;
+          case '8段': return n === 80;
+
           default: return false;
       }
   }
 
-  // 4. 判断号码是否符合选中的所有维度（组内 OR，组间 AND）
+  // 判断号码是否符合选中的所有维度（组内 OR，组间 AND）
   function isMatchedBySelected(num, checkedArray) {
       if (checkedArray.length === 0) return false;
 
-      // 整理勾选了哪些大维度的哪些小项
       const selectedGroupMap = {};
       checkedArray.forEach(ind => {
           for (const [catName, items] of Object.entries(CATEGORY_MAP)) {
@@ -130,25 +149,25 @@
           }
       });
 
-      // 维度间（组间）交集 AND
+      // 组间 AND
       return Object.values(selectedGroupMap).every(itemArr => {
-          // 维度内（组内）并集 OR
+          // 组内 OR
           return itemArr.some(ind => checkSingleRule(num, ind));
       });
   }
 
-  // 5. 渲染页面结构
+  // 渲染页面 UI
   function renderPredictionUI(container) {
       let html = `
           <div style="border: 2px solid #28a745; background: #fcfdfc; padding: 10px; border-radius: 6px; box-sizing: border-box; width: 100%;">
               
               <!-- 标题区 -->
               <div style="font-size: 14px; font-weight: bold; color: #1e7e34; margin-bottom: 8px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px;">
-                  <span>🔮 今日预测数据14维度筛选</span>
+                  <span>今日预测数据多维筛选</span>
                   <span id="predDataStatus" style="font-size: 11px; font-weight: normal; color: #666;"></span>
               </div>
 
-              <!-- 14维度复选框区 (使用独特类名和 dataset 隔离) -->
+              <!-- 复选框区 -->
               <div id="predIndicatorCheckboxGroup" style="background: #eef9f1; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; box-sizing: border-box; width: 100%;">
                   ${PREDICTION_INDICATORS.map(ind => `
                       <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; user-select: none; margin: 0; white-space: nowrap;">
@@ -177,7 +196,7 @@
       return null;
   }
 
-  // 6. 数据状态提示
+  // 数据状态提示
   function updateDataStatus() {
       const statusEl = document.querySelector('#predDataStatus');
       if (!statusEl) return;
@@ -190,12 +209,12 @@
       }
   }
 
-  // 7. 事件绑定
+  // 事件绑定
   function bindPredictionEvents() {
       const checkboxes = document.querySelectorAll('input[data-pred-ind="true"]');
       checkboxes.forEach(cb => {
           cb.addEventListener('click', (e) => {
-              e.stopPropagation(); // 阻止点击冒泡
+              e.stopPropagation();
           });
           cb.addEventListener('change', (e) => {
               e.stopPropagation();
@@ -213,7 +232,7 @@
       }
   }
 
-  // 8. 过滤并输出结果
+  // 过滤并输出结果
   function handlePredCheckboxChange() {
       const checkedBoxs = Array.from(document.querySelectorAll('input[data-pred-ind="true"]:checked'));
       const checkedIndicators = checkedBoxs.map(cb => cb.value);
@@ -240,7 +259,6 @@
       let groupResultsHTML = '';
 
       groups.forEach((groupNums, idx) => {
-          // 对每组中的号码逐个筛查
           const matchedInGroup = groupNums.filter(num => isMatchedBySelected(num, checkedIndicators));
           totalMatchedNums.push(...matchedInGroup);
 
@@ -259,7 +277,6 @@
           `;
       });
 
-      // 针对筛选出来的去重号码进行14维度的比例汇总
       const uniqueMatchedNums = Array.from(new Set(totalMatchedNums));
       
       let r0 = 0, r1 = 0, r2 = 0;
@@ -268,31 +285,28 @@
       let prime = 0, composite = 0;
       let q1 = 0, q2 = 0, q3 = 0, q4 = 0;
 
+      // 结果卡片统计
       uniqueMatchedNums.forEach(num => {
           const n = parseInt(num, 10);
           if (isNaN(n)) return;
 
-          // 012路
           if (n % 3 === 0) r0++;
           else if (n % 3 === 1) r1++;
           else r2++;
 
-          // 奇偶
           n % 2 !== 0 ? odd++ : even++;
 
-          // 三区
           if (n <= 29) z1++;
           else if (n <= 59) z2++;
           else z3++;
 
-          // 质合
           isPrimeNum(n) ? prime++ : composite++;
 
-          // 象限
-          if (n >= 1 && n <= 20) q1++;
-          else if (n >= 21 && n <= 40) q2++;
-          else if (n >= 41 && n <= 60) q3++;
-          else if (n >= 61 && n <= 80) q4++;
+          // 根据正确网格修正统计
+          if (QUADRANT_MAP['一象限'].includes(n)) q1++;
+          else if (QUADRANT_MAP['二象限'].includes(n)) q2++;
+          else if (QUADRANT_MAP['三象限'].includes(n)) q3++;
+          else if (QUADRANT_MAP['四象限'].includes(n)) q4++;
       });
 
       resultBox.style.display = 'block';
@@ -305,7 +319,6 @@
           { label: '象限', val: `${q1}:${q2}:${q3}:${q4}` }
       ];
 
-      // 针对移动端优化统计卡片的宽度和间距
       let statsHTML = stats.map(item => `
           <div style="flex: 1 1 40px; min-width: 44px; background: #f8fcf9; border: 1px solid #d4edda; border-radius: 4px; padding: 3px 2px; text-align: center; box-sizing: border-box;">
               <div style="font-size: 10px; color: #1e7e34; margin-bottom: 2px; white-space: nowrap;">${item.label}</div>

@@ -403,7 +403,7 @@
 
             <div class="m-combo-card">
                 <div style="font-size:14px; font-weight:bold; color:#333; margin-bottom:6px;">
-                    🛠️ 自定义14维度交集筛选
+                    🛠️ 多维度交集筛选
                 </div>
                 <div class="m-checkbox-group" id="indicatorCheckboxGroup">
                     ${ALL_INDICATORS.map(ind => `
@@ -417,7 +417,7 @@
                 <div id="manualResultContainer" style="display:none; margin-bottom:15px; border-bottom:2px dashed #007bff; padding-bottom:12px;"></div>
 
                 <div class="m-combo-header">
-                    <h3 style="margin:0; color:#333; font-size:16px;">🔥 全历史交集【多维组合筛选】排名</h3>
+                    <h3 style="margin:0; color:#333; font-size:16px;">🔥 全历史交集【多维组合筛选】</h3>
                     
                     <div class="m-combo-search">
                         <label style="font-size:12px; color:#555; font-weight:bold;">数字门槛 >=</label>

@@ -75,8 +75,13 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("233期:<font color=\"#0000FF\">（波色+八码）</font>开:？00<br>");
+document.writeln("234期:<font color=\"#0000FF\">（波色+八码）</font>开:？00<br>");
 document.writeln("<font color=\"#FF0000\">【62827.com高手榜查看】√</font><br>");
+document.writeln("===================<br>");
+
+document.writeln("");
+document.writeln("233期:<font color=\"#0000FF\">（波色+八码）</font>开:鼠07<br>");
+document.writeln("<font color=\"#FF0000\">【蓝波+绿双】×</font><br>");
 document.writeln("===================<br>");
 
 document.writeln("");

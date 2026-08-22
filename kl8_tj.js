@@ -158,13 +158,22 @@ function getVariance(arr) {
     return arr.reduce((sum, val) => sum + Math.pow(val - mean, 2), 0) / arr.length;
 }
 
-function getQuadrant(r, c) {
-    let isTop = r < 4;
-    let isLeft = c < 5;
-    if (isTop && isLeft) return 1;
-    if (isTop && !isLeft) return 2;
-    if (!isTop && isLeft) return 3;
-    return 4;
+/**
+ * 固定 8x10 标准物理坐标象限推导函数：
+ * 1象限：右上 (06-10, 16-20, 26-30, 36-40)
+ * 2象限：左上 (01-05, 11-15, 21-25, 31-35)
+ * 3象限：左下 (41-45, 51-55, 61-65, 71-75)
+ * 4象限：右下 (46-50, 56-60, 66-70, 76-80)
+ */
+function getNumQuadrant(num) {
+    let r = Math.floor((num - 1) / 10); // 行 (0~7)
+    let c = (num - 1) % 10;             // 列 (0~9)
+    let isTop = r < 4;    // 0~3 行为上半区
+    let isLeft = c < 5;   // 0~4 列为左半区
+    if (isTop && !isLeft) return 1;  // 右上 -> 1象限
+    if (isTop && isLeft) return 2;   // 左上 -> 2象限
+    if (!isTop && isLeft) return 3;  // 左下 -> 3象限
+    return 4;                        // 右下 -> 4象限
 }
 
 /**
@@ -190,8 +199,10 @@ function initSystem() {
         }
         tbody.appendChild(tr);
     }
-    document.getElementById('result-tip').innerText = "初始状态：显示 1-80 默认表格";
-    document.getElementById('group-detail-tip').innerText = "";
+    let tipEl = document.getElementById('result-tip');
+    if (tipEl) tipEl.innerText = "初始状态：显示 1-80 默认表格";
+    let detailEl = document.getElementById('group-detail-tip');
+    if (detailEl) detailEl.innerText = "";
 }
 
 // 检查条目是否契合多选段位条件 (必须同时包含所有选中的段位)
@@ -292,7 +303,7 @@ function renderHistoryContainer() {
     // 构建多选段位（0-8）按钮组
     let isAllSelected = selectedTiers.length === 0;
     let tierButtonsHtml = `
-        <button onclick="toggleTierFilter('all')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; cursor: pointer; transition: all 0.2s; border: 1px solid ${isAllSelected ? 'var(--primary-color)' : '#ddd'}; background: ${isAllSelected ? 'var(--primary-color)' : '#fff'}; color: ${isAllSelected ? '#fff' : '#555'};">全部</button>
+        <button onclick="toggleTierFilter('all')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; cursor: pointer; transition: all 0.2s; border: 1px solid ${isAllSelected ? 'var(--primary-color, #007bff)' : '#ddd'}; background: ${isAllSelected ? 'var(--primary-color, #007bff)' : '#fff'}; color: ${isAllSelected ? '#fff' : '#555'};">全部</button>
     `;
 
     for (let i = 0; i <= 8; i++) {
@@ -352,7 +363,7 @@ function renderHistoryContainer() {
 
         for (let i = startPage; i <= endPage; i++) {
             if (i === currentPage) {
-                pagesHtml += `<button style="background: var(--primary-color); color: white; border: 1px solid var(--primary-color); border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: bold; cursor: default;">${i}</button>`;
+                pagesHtml += `<button style="background: var(--primary-color, #007bff); color: white; border: 1px solid var(--primary-color, #007bff); border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: bold; cursor: default;">${i}</button>`;
             } else {
                 pagesHtml += `<button onclick="changePage(${i})" style="background: #f8f9fa; border: 1px solid #ddd; border-radius: 3px; padding: 2px 6px; font-size: 11px; cursor: pointer;">${i}</button>`;
             }
@@ -384,9 +395,9 @@ function renderHistoryContainer() {
             <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">
                 <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px dashed #eee; padding-bottom: 2px; margin-bottom: 4px; color: #888;">
                     <span>排名 <strong>#${rank}</strong> (${item.time})</span>
-                    <button onclick="deleteHistoryItem('${item.id}')" style="background: var(--primary-color); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
+                    <button onclick="deleteHistoryItem('${item.id}')" style="background: var(--primary-color, #d9534f); color: white; border: none; border-radius: 3px; padding: 2px 6px; font-size: 10px; cursor: pointer;">删除</button>
                 </div>
-                <div>核心数字: <span style="color: var(--primary-color); font-weight: bold; word-break: break-all;">[${item.formatted}]</span></div>
+                <div>核心数字: <span style="color: var(--primary-color, #d9534f); font-weight: bold; word-break: break-all;">[${item.formatted}]</span></div>
                 <div>微观方差: <span style="color: #0275d8; font-weight: bold;">${item.variance.toFixed(3)}${iterText}</span></div>
                 <div>覆盖段位(${item.tierCount}段): <span style="color: #5bc0de; font-weight: bold;">[${item.activeTiers}]</span></div>
             </div>`;
@@ -396,7 +407,7 @@ function renderHistoryContainer() {
 }
 
 /**
- * 核心筛选算法逻辑
+ * 核心筛选算法逻辑（已强化空间几何均衡度与性能控制）
  */
 function generateByCheckedConfigs() {
     let userMin = parseInt(document.getElementById('minCount').value) || 6;
@@ -425,48 +436,45 @@ function generateByCheckedConfigs() {
 
     let matrix, validAvailableNums, stats, finalGroupMapping = [], attempts = 0;
 
+    // 默认标准走势图物理 8x10 棋盘矩阵
+    matrix = [];
+    let curNum = 1;
+    for (let r = 0; r < 8; r++) {
+        let row = [];
+        for (let c = 0; c < 10; c++) row.push(curNum++);
+        matrix.push(row);
+    }
+
     while (true) {
         attempts++;
-        let allNumbers = [];
-        for (let i = 1; i <= 80; i++) allNumbers.push(i);
-        shuffle(allNumbers);
-
-        matrix = [];
-        let idx = 0;
-        for (let r = 0; r < 8; r++) {
-            let row = [];
-            for (let c = 0; c < 10; c++) row.push(allNumbers[idx++]);
-            matrix.push(row);
-        }
-
-        let hitTierCount = 0;
+        
+        // 1. 获取包含有效段位的可用号码池
         let currentAvailableNums = [];
+        let hitTierCount = 0;
 
         currentSystemConfig.knownDataGroups.forEach((group) => {
-            let hitsInMatrix = group.filter(num => {
-                for (let r = 0; r < 8; r++) {
-                    if (matrix[r].includes(num)) return true;
-                }
-                return false;
-            });
-
-            if (hitsInMatrix.length >= 1) {
+            if (group && group.length > 0) {
                 hitTierCount++;
-                currentAvailableNums.push(...hitsInMatrix);
+                currentAvailableNums.push(...group);
             }
         });
 
-        if (hitTierCount < userMinTier || currentAvailableNums.length < userMin) {
+        // 如果可用号码池不够，使用 1-80 全号池补齐
+        if (currentAvailableNums.length < userMin) {
+            currentAvailableNums = Array.from({ length: 80 }, (_, i) => i + 1);
+        }
+
+        // 随机洗牌并提取目标数量号码
+        let shuffledNums = shuffle([...new Set(currentAvailableNums)]);
+        let targetCount = Math.floor(Math.random() * (userMax - userMin + 1)) + userMin;
+        let samplePool = shuffledNums.slice(0, Math.min(targetCount, shuffledNums.length)).sort((a, b) => a - b);
+
+        if (samplePool.length < userMin) {
             if (attempts > 20000) break;
             continue;
         }
 
-        shuffle(currentAvailableNums);
-
-        let targetCount = Math.floor(Math.random() * (userMax - userMin + 1)) + userMin;
-        let samplePool = currentAvailableNums.slice(0, Math.min(targetCount, currentAvailableNums.length));
-        if (samplePool.length < userMin) continue;
-
+        // 2. 校验段位命中数
         let finalHitTierCount = 0;
         currentSystemConfig.knownDataGroups.forEach((group) => {
             let matchedInSample = group.filter(n => samplePool.includes(n));
@@ -480,6 +488,7 @@ function generateByCheckedConfigs() {
             continue;
         }
 
+        // 3. 多指标离散度与空间均衡度校验
         let passedAllChecks = true;
         let reportParts = [`核心命中段位: ${finalHitTierCount}段`];
         let totalVarianceScore = 0;
@@ -495,6 +504,7 @@ function generateByCheckedConfigs() {
                 totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...m3, conf.threshold])));
                 reportParts.push(`012路[${m3.join(':')}]`);
                 if (!matched) passedAllChecks = false;
+
             } else if (key === 'oe') {
                 let oe = [0, 0];
                 samplePool.forEach(n => n % 2 === 0 ? oe[1]++ : oe[0]++);
@@ -502,6 +512,7 @@ function generateByCheckedConfigs() {
                 totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...oe, conf.threshold])));
                 reportParts.push(`奇偶[${oe.join(':')}]`);
                 if (!matched) passedAllChecks = false;
+
             } else if (key === 'range') {
                 let rg = [0, 0, 0];
                 samplePool.forEach(n => {
@@ -513,6 +524,7 @@ function generateByCheckedConfigs() {
                 totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...rg, conf.threshold])));
                 reportParts.push(`三区[${rg.join(':')}]`);
                 if (!matched) passedAllChecks = false;
+
             } else if (key === 'prime') {
                 let pr = [0, 0];
                 samplePool.forEach(n => isPrime(n) ? pr[0]++ : pr[1]++);
@@ -520,16 +532,20 @@ function generateByCheckedConfigs() {
                 totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...pr, conf.threshold])));
                 reportParts.push(`质合[${pr.join(':')}]`);
                 if (!matched) passedAllChecks = false;
+
             } else if (key === 'quad') {
+                // 【核心优化】：基于固定物理盘面的 4 象限几何分布校验
                 let qd = [0, 0, 0, 0];
                 samplePool.forEach(n => {
-                    for (let r = 0; r < 8; r++) {
-                        for (let c = 0; c < 10; c++) {
-                            if (matrix[r][c] === n) qd[getQuadrant(r, c) - 1]++;
-                        }
-                    }
+                    let quadIdx = getNumQuadrant(n) - 1;
+                    qd[quadIdx]++;
                 });
-                let matched = checkedList.some(conf => getVariance([...qd, conf.threshold]) <= conf.threshold * 3.5);
+
+                // 防扎堆控制：单象限不能超过选中总数的一半（如 7 个号单象限最多 4 个）
+                let maxQuadCount = Math.max(...qd);
+                let isNotCrowded = maxQuadCount <= Math.ceil(samplePool.length / 2);
+
+                let matched = checkedList.some(conf => getVariance([...qd, conf.threshold]) <= conf.threshold * 3.5) && isNotCrowded;
                 totalVarianceScore += Math.min(...checkedList.map(conf => getVariance([...qd, conf.threshold])));
                 reportParts.push(`象限[${qd.join(':')}]`);
                 if (!matched) passedAllChecks = false;
@@ -561,23 +577,26 @@ function generateByCheckedConfigs() {
         return;
     }
 
+    // 4. 动态更新 UI 走势网格图
     let tbody = document.getElementById('tableBody');
-    tbody.innerHTML = '';
-
-    for (let r = 0; r < 8; r++) {
-        let tr = document.createElement('tr');
-        for (let c = 0; c < 10; c++) {
-            let td = document.createElement('td');
-            let val = matrix[r][c];
-            td.innerText = pad(val);
-            if (validAvailableNums.includes(val)) {
-                td.classList.add('selected-target');
+    if (tbody) {
+        tbody.innerHTML = '';
+        for (let r = 0; r < 8; r++) {
+            let tr = document.createElement('tr');
+            for (let c = 0; c < 10; c++) {
+                let td = document.createElement('td');
+                let val = matrix[r][c];
+                td.innerText = pad(val);
+                if (validAvailableNums.includes(val)) {
+                    td.classList.add('selected-target');
+                }
+                tr.appendChild(td);
             }
-            tr.appendChild(td);
+            tbody.appendChild(tr);
         }
-        tbody.appendChild(tr);
     }
 
+    // 5. 保存并渲染历史记录
     let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
     let varianceMatch = stats.desc.match(/微观方差:\s*<strong>([\d.]+)<\/strong>/);
     let varianceVal = varianceMatch ? parseFloat(varianceMatch[1]) : 0.000;
@@ -598,19 +617,26 @@ function generateByCheckedConfigs() {
     currentPage = 1;
     renderHistoryContainer();
 
+    // 6. 更新结果文本提示
     let tierDistributionText = finalGroupMapping.map(item => {
         let numsStr = item.nums.map(n => pad(n)).join(',');
         return `[段${item.tier}: ${numsStr}]`;
     }).join(' ');
 
-    document.getElementById('result-tip').innerHTML =
-        `🎯 动态筛选抽取的 <strong>${validAvailableNums.length} 个核心数字</strong>：<span style="background:#fff3cd; padding:2px 4px; border:1px solid #f0ad4e;">[ ${formattedPicked} ]</span>`;
+    let resultTip = document.getElementById('result-tip');
+    if (resultTip) {
+        resultTip.innerHTML = `🎯 动态筛选抽取的 <strong>${validAvailableNums.length} 个核心数字</strong>：<span style="background:#fff3cd; padding:2px 4px; border:1px solid #f0ad4e;">[ ${formattedPicked} ]</span>`;
+    }
 
-    document.getElementById('tier-tip').innerHTML =
-        `📊 <strong>动态校验报告：</strong> ${stats.desc} (迭代: ${stats.iterations}次)`;
+    let tierTip = document.getElementById('tier-tip');
+    if (tierTip) {
+        tierTip.innerHTML = `📊 <strong>动态校验报告：</strong> ${stats.desc} (迭代: ${stats.iterations}次)`;
+    }
 
-    document.getElementById('group-detail-tip').innerHTML =
-        `📍 <strong>核心数字所在段位 (0-7段)：</strong> ${tierDistributionText}`;
+    let groupDetailTip = document.getElementById('group-detail-tip');
+    if (groupDetailTip) {
+        groupDetailTip.innerHTML = `📍 <strong>核心数字所在段位 (0-7段)：</strong> ${tierDistributionText}`;
+    }
 }
 
 window.onload = initSystem;

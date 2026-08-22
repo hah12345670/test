@@ -134,7 +134,7 @@
     // =========================================================================
     let cachedValidCombos = null;
 
-    function getValidComboSubsets(arr, minSize = 2, maxSize = 5) {
+    function getValidComboSubsets(arr, minSize = 2, maxSize = ALL_INDICATORS.length) {
         if (cachedValidCombos) return cachedValidCombos;
 
         const results = [];
@@ -183,7 +183,7 @@
     let cachedIntersections = [];
 
     function calculateCombosByThreshold(minCount = 5, orderParam = 'desc') {
-        const validCombos = getValidComboSubsets(ALL_INDICATORS, 2, 5);
+        const validCombos = getValidComboSubsets(ALL_INDICATORS, 2, ALL_INDICATORS.length);
         const comboStatsMap = new Map();
 
         cachedIntersections.forEach(intersection => {
@@ -215,15 +215,15 @@
 
         const comboList = Array.from(comboStatsMap.values());
 
-        // 新的排序规则：
+        // 排序规则微调：
         // 1. 组合组数 (groupCount) 降序
         // 2. 出现次数 (historyHitTimes) 降序
-        // 3. 维度总数 (comboSize) 降序
+        // 3. 维度总数 (comboSize) 升序（从低维到高维）
         // 4. 最多交集数 (maxMatchCount) 降序
         comboList.sort((a, b) => {
             if (b.groupCount !== a.groupCount) return b.groupCount - a.groupCount;
             if (b.historyHitTimes !== a.historyHitTimes) return b.historyHitTimes - a.historyHitTimes;
-            if (b.comboSize !== a.comboSize) return b.comboSize - a.comboSize;
+            if (a.comboSize !== b.comboSize) return a.comboSize - b.comboSize; // 修改：升序排列
             return b.maxMatchCount - a.maxMatchCount;
         });
 
@@ -475,7 +475,7 @@
                 <!-- 自定义折叠面板 2 -->
                 <div class="m-fold-box">
                     <div class="m-fold-header" id="foldHeader2">
-                        <span>🔥 全历史交集【多维组合筛选】</span>
+                        <span>🔥 全历史交集【多维组合】</span>
                         <span class="m-fold-icon" id="foldIcon2">▶</span>
                     </div>
                     <div class="m-fold-body" id="foldBody2">
@@ -498,7 +498,7 @@
                         </div>
 
                         <p style="font-size:11px; color:#666; margin:0 0 10px 0; line-height:1.4;">
-                            门槛：单期满足 <strong>≥ ${minCount}个</strong> | 排序：<strong>组合组数</strong> ＞ <strong>出现次数</strong> ＞ <strong>维度总数</strong> ＞ <strong>最多交集数</strong>
+                            门槛：单期满足 <strong>≥ ${minCount}个</strong> | 排序：<strong>组合组数</strong> ＞ <strong>出现次数</strong> ＞ <strong>维度总数(升序)</strong> ＞ <strong>最多交集数</strong>
                         </p>
 
                         <div class="m-table-wrapper">
@@ -531,7 +531,7 @@
                 const icon = document.querySelector(iconId);
                 
                 if (header && body) {
-                    let isFirstOpen = true; // 记录是否为首次展开
+                    let isFirstOpen = true;
 
                     header.onclick = function (e) {
                         if (e) {
@@ -539,22 +539,19 @@
                             e.stopPropagation();
                         }
 
-                        // 1. 获取点击瞬间精确的滚动深度（兼容全部浏览器及 Webview）
                         const targetY = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-
                         const isHidden = body.style.display === '' || body.style.display === 'none';
 
                         if (isHidden) {
                             body.style.display = 'block';
                             if (icon) icon.textContent = '▼';
 
-                            // 2. 如果是首次展开，DOM 尺寸剧变容易引发浏览器的 Layout Shift。用 rAF + setTimeout 双重拉回
                             if (isFirstOpen) {
                                 requestAnimationFrame(() => {
                                     window.scrollTo(0, targetY);
                                     setTimeout(() => {
                                         window.scrollTo(0, targetY);
-                                        isFirstOpen = false; // 标记首次完成
+                                        isFirstOpen = false;
                                     }, 0);
                                 });
                             } else {

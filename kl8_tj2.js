@@ -6,14 +6,18 @@
  */
 
 (function () {
-  // 1. 维度指标定义：14维度 + 0-8段（9个段位）
+  // 生成 01-80 号码数组
+  const NUMBERS_01_TO_80 = Array.from({ length: 80 }, (_, i) => String(i + 1).padStart(2, '0'));
+
+  // 1. 维度指标定义：14维度 + 0-8段（9个段位） + 01-80号码
   const PREDICTION_INDICATORS = [
       '0路', '1路', '2路',
       '奇数', '偶数',
       '一区', '二区', '三区',
       '质数', '合数',
       '一象限', '二象限', '三象限', '四象限',
-      '0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段'
+      '0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段',
+      ...NUMBERS_01_TO_80
   ];
 
   // 2. 维度分组定义
@@ -23,7 +27,8 @@
       '三区': ['一区', '二区', '三区'],
       '质合': ['质数', '合数'],
       '象限': ['一象限', '二象限', '三象限', '四象限'],
-      '段位': ['0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段']
+      '段位': ['0段', '1段', '2段', '3段', '4段', '5段', '6段', '7段', '8段'],
+      '号码': NUMBERS_01_TO_80
   };
 
   // 预置象限号码集合（基于 8x10 网格划分）
@@ -112,6 +117,11 @@
       const n = parseInt(num, 10);
       if (isNaN(n)) return false;
 
+      // 增加对 01-80 具体号码值的直选匹配
+      if (NUMBERS_01_TO_80.includes(indName)) {
+          return n === parseInt(indName, 10);
+      }
+
       switch (indName) {
           // 修正后的网格象限判定
           case '一象限': return QUADRANT_MAP['一象限'].includes(n);
@@ -176,6 +186,9 @@
 
   // 渲染页面 UI（外层替换为 details 折叠容器）
   function renderPredictionUI(container) {
+      // 拆分普通维度和 01-80 号码维度
+      const generalIndicators = PREDICTION_INDICATORS.filter(ind => !NUMBERS_01_TO_80.includes(ind));
+
       let html = `
           <details style="border: 2px solid #28a745; background: #fcfdfc; padding: 10px; border-radius: 6px; box-sizing: border-box; width: 100%;">
               
@@ -188,14 +201,29 @@
               <!-- 折叠展开后的内容区 -->
               <div style="margin-top: 8px;">
                   <!-- 复选框区 -->
-                  <div id="predIndicatorCheckboxGroup" style="background: #eef9f1; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; box-sizing: border-box; width: 100%;">
-                      ${PREDICTION_INDICATORS.map(ind => `
-                          <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; user-select: none; margin: 0; white-space: nowrap;">
-                              <input type="checkbox" data-pred-ind="true" value="${ind}" style="margin: 0 3px 0 0; vertical-align: middle; width: 14px; height: 14px;">
-                              <span>${ind}</span>
-                          </label>
-                      `).join('')}
-                      <button id="resetPredCheckboxBtn" type="button" style="margin-left: auto; font-size: 12px; padding: 2px 8px; cursor: pointer; background: #dc3545; color: #fff; border: none; border-radius: 3px; line-height: 1.2; flex-shrink: 0;">清空已选</button>
+                  <div id="predIndicatorCheckboxGroup" style="background: #eef9f1; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; display: flex; flex-direction: column; gap: 8px; box-sizing: border-box; width: 100%;">
+                      
+                      <!-- 上部分：常规维度 + 清空按钮 -->
+                      <div style="display: flex; flex-wrap: wrap; gap: 6px 8px; align-items: center; width: 100%;">
+                          ${generalIndicators.map(ind => `
+                              <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; user-select: none; margin: 0; white-space: nowrap;">
+                                  <input type="checkbox" data-pred-ind="true" value="${ind}" style="margin: 0 3px 0 0; vertical-align: middle; width: 14px; height: 14px;">
+                                  <span>${ind}</span>
+                              </label>
+                          `).join('')}
+                          <button id="resetPredCheckboxBtn" type="button" style="margin-left: auto; font-size: 12px; padding: 2px 8px; cursor: pointer; background: #dc3545; color: #fff; border: none; border-radius: 3px; line-height: 1.2; flex-shrink: 0;">清空已选</button>
+                      </div>
+
+                      <!-- 下部分：01-80 号码区（精确定制 10 列网格） -->
+                      <div style="display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px 2px; border-top: 1px dashed #c3e6cb; padding-top: 8px; width: 100%; box-sizing: border-box;">
+                          ${NUMBERS_01_TO_80.map(num => `
+                              <label style="font-size: 12px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; user-select: none; margin: 0; white-space: nowrap;">
+                                  <input type="checkbox" data-pred-ind="true" value="${num}" style="margin: 0 2px 0 0; vertical-align: middle; width: 13px; height: 13px;">
+                                  <span>${num}</span>
+                              </label>
+                          `).join('')}
+                      </div>
+
                   </div>
 
                   <!-- 结果展示区 -->
@@ -347,10 +375,14 @@
           </div>
       `).join('');
 
+      // 过滤掉具体数字（01-80），仅保留维度条件进行展示
+      const displayIndicators = checkedIndicators.filter(ind => !NUMBERS_01_TO_80.includes(ind));
+      const conditionStr = displayIndicators.length > 0 ? displayIndicators.join('、') : '指定号码';
+
       let html = `
           <div style="background: #fff; border: 1px solid #c3e6cb; padding: 8px; border-radius: 4px; box-sizing: border-box; width: 100%;">
               <div style="font-size: 13px; font-weight: bold; color: #1e7e34; margin-bottom: 6px; word-break: break-all;">
-                  🎯 筛选结果 (已选条件：<span style="color: #28a745;">${checkedIndicators.join('、')}</span> | 共符合 <span style="color: #d9534f;">${uniqueMatchedNums.length}</span> 个独立号码)
+                  🎯 筛选结果 (已选条件：<span style="color: #28a745;">${conditionStr}</span> | 共符合 <span style="color: #d9534f;">${uniqueMatchedNums.length}</span> 个独立号码)
               </div>
 
               <!-- 分组号码列表区 -->

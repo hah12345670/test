@@ -76,7 +76,7 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("234期:<font color=\"#0000FF\">（波色+八码）</font>开:？00<br>");
-document.writeln("<font color=\"#FF0000\">【62827.com高手榜查看】√</font><br>");
+document.writeln("<font color=\"#FF0000\">【红波+蓝双】√</font><br>");
 document.writeln("===================<br>");
 
 document.writeln("");

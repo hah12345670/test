@@ -145,50 +145,14 @@
             transition: background-color 0.2s;
         }
 
-        .tip-box {
-            background-color: var(--card-bg);
-            padding: 10px 15px;
-            border-radius: 6px;
-            margin-bottom: 15px;
-            text-align: center;
-        }
-
-        #result-tip {
-            font-size: 14px;
-            color: var(--primary-color);
-            font-weight: bold;
-            margin-bottom: 4px;
-            line-height: 1.4;
-            word-break: break-all;
-        }
-        #tier-tip {
-            font-size: 12px;
-            color: #0275d8;
-            line-height: 1.4;
-            word-break: break-all;
-        }
-        #group-detail-tip {
-            font-size: 12px;
-            color: #5bc0de;
-            margin-top: 4px;
-            line-height: 1.4;
-            word-break: break-all;
-        }
-        #history-container {
-            font-size: 12px;
-            color: #666;
-            margin-top: 8px;
-            text-align: left;
-            border-top: 1px dashed #eee;
-            padding-top: 6px;
-        }
-
+        /* 【防抖关键点 1】为表格容器锁死最小高度，防止清空数据时页面坍塌 */
         .table-container {
             width: 100%;
             overflow-x: auto;
             margin-bottom: 20px;
             display: flex;
             justify-content: center;
+            min-height: 310px;
         }
 
         table {
@@ -237,6 +201,53 @@
             .selected-target {
                 font-size: 18px;
             }
+            /* PC 端调大对应最小高度 */
+            .table-container {
+                min-height: 390px;
+            }
+        }
+
+        /* 【防抖关键点 2】为提示框锁死最小高度 */
+        .tip-box {
+            background-color: var(--card-bg);
+            padding: 10px 15px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+            text-align: center;
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        #result-tip {
+            font-size: 14px;
+            color: var(--primary-color);
+            font-weight: bold;
+            margin-bottom: 4px;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        #tier-tip {
+            font-size: 12px;
+            color: #0275d8;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        #group-detail-tip {
+            font-size: 12px;
+            color: #5bc0de;
+            margin-top: 4px;
+            line-height: 1.4;
+            word-break: break-all;
+        }
+        #history-container {
+            font-size: 12px;
+            color: #666;
+            margin-top: 8px;
+            text-align: left;
+            border-top: 1px dashed #eee;
+            padding-top: 6px;
         }
 
         /* --- 底部数据统计表专属样式 --- */
@@ -244,6 +255,7 @@
             width: 100%;
             max-width: 950px;
             margin-top: 10px;
+            min-height: 150px;
         }
         .stat-table-container {
             width: 100%;
@@ -276,7 +288,6 @@
             background-color: #f9f9f9;
         }
         
-        /* 交集数组列强制单行显示 */
         .stat-table td.intersection-cell {
             white-space: nowrap;
             font-size: 12px;
@@ -299,7 +310,6 @@
 
     <h2>动态多维比例配置与方差系统</h2>
     
-    <!-- 改为原生折叠组件 details/summary，默认收起（如需默认展开，可添加 open 属性，如 <details class="config-panel" open>） -->
     <details class="config-panel">
         <summary class="config-summary">⚙️ 配置参数设置</summary>
         <div class="config-content" id="configPanel"></div>
@@ -307,12 +317,14 @@
 
     <button class="action-btn" onclick="generateByCheckedConfigs()">点击按勾选的配置项组合执行筛选</button>
     
+    <!-- 表格恢复在上 -->
     <div class="table-container">
         <table id="matrixTable">
             <tbody id="tableBody"></tbody>
         </table>
     </div>
 
+    <!-- 提示框恢复在下 -->
     <div class="tip-box">
         <div id="result-tip">提示：请勾选上方需要的配置选项，系统将动态抽取设定数量的核心数字执行匹配</div>
         <div id="tier-tip"></div>

@@ -5,6 +5,35 @@ let selectedTiers = []; // 存储当前选中的段位数组，如 ['0', '2', '5
 let selectedSorts = ['varianceAsc', 'iterDesc']; // 多选排序规则数组，默认同时勾选两者
 
 /**
+ * 监听已知段位选择状态，动态控制“段位数量范围”输入框的启用/禁用
+ */
+function updateTierRangeInputStatus() {
+    let checkedTierBoxes = document.querySelectorAll('input[name="knownTierSelect"]:checked');
+    let isAnyTierChecked = checkedTierBoxes.length > 0;
+
+    let minTierInput = document.getElementById('minTier');
+    let maxTierInput = document.getElementById('maxTier');
+    let tierRangeBox = document.getElementById('tierRangeBox');
+
+    if (minTierInput && maxTierInput) {
+        minTierInput.disabled = isAnyTierChecked;
+        maxTierInput.disabled = isAnyTierChecked;
+    }
+
+    if (tierRangeBox) {
+        if (isAnyTierChecked) {
+            tierRangeBox.style.opacity = '0.5';
+            tierRangeBox.style.cursor = 'not-allowed';
+            tierRangeBox.title = '已选择特定已知段位，段位数量范围限制已自动失效';
+        } else {
+            tierRangeBox.style.opacity = '1.0';
+            tierRangeBox.style.cursor = 'default';
+            tierRangeBox.title = '';
+        }
+    }
+}
+
+/**
  * 渲染顶部配置面板
  */
 function renderConfigPanel(config) {
@@ -44,7 +73,49 @@ function renderConfigPanel(config) {
         panel.appendChild(row);
     }
 
-    // 2. 抽取范围配置行
+    // 2. 已知数据段位勾选行 (0-8段，默认全不勾选)
+    if (config.knownDataGroups) {
+        let tierSelectRow = document.createElement('div');
+        tierSelectRow.className = 'config-row';
+
+        let tierTitleSpan = document.createElement('span');
+        tierTitleSpan.className = 'config-title';
+        tierTitleSpan.innerText = '已知段位选择:';
+        tierSelectRow.appendChild(tierTitleSpan);
+
+        // 支持最高到8段（下标0-8，共9个可能的段位）
+        for (let i = 0; i <= 8; i++) {
+            let groupData = config.knownDataGroups[i];
+            let hasData = groupData && groupData.length > 0;
+
+            let label = document.createElement('label');
+            label.className = 'checkbox-label';
+            if (!hasData) {
+                label.style.color = '#ccc';
+                label.style.cursor = 'not-allowed';
+            }
+
+            let input = document.createElement('input');
+            input.type = 'checkbox';
+            input.name = 'knownTierSelect';
+            input.value = i;
+            input.checked = false; // 默认不勾选
+
+            if (!hasData) {
+                input.disabled = true; // 空数组禁用
+            } else {
+                // 添加点击切换事件，实时更新段位数量范围框状态
+                input.addEventListener('change', updateTierRangeInputStatus);
+            }
+
+            label.appendChild(input);
+            label.appendChild(document.createTextNode(` 段${i}${hasData ? `(${groupData.length}个)` : '(空)'}`));
+            tierSelectRow.appendChild(label);
+        }
+        panel.appendChild(tierSelectRow);
+    }
+
+    // 3. 抽取范围配置行
     let rangeRow = document.createElement('div');
     rangeRow.className = 'config-row';
 
@@ -64,7 +135,7 @@ function renderConfigPanel(config) {
     rangeRow.appendChild(rangeBox);
     panel.appendChild(rangeRow);
 
-    // 3. 段位数量范围配置行
+    // 4. 段位数量范围配置行
     let tierRangeRow = document.createElement('div');
     tierRangeRow.className = 'config-row';
 
@@ -75,6 +146,7 @@ function renderConfigPanel(config) {
 
     let tierRangeBox = document.createElement('div');
     tierRangeBox.className = 'range-box';
+    tierRangeBox.id = 'tierRangeBox';
     tierRangeBox.innerHTML = `
         <span>最小段位:</span>
         <input type="number" id="minTier" value="5" min="1" max="8">
@@ -84,7 +156,7 @@ function renderConfigPanel(config) {
     tierRangeRow.appendChild(tierRangeBox);
     panel.appendChild(tierRangeRow);
 
-    // 4. 批量自动筛选配置行
+    // 5. 批量自动筛选配置行
     let batchRow = document.createElement('div');
     batchRow.className = 'config-row';
     batchRow.style.marginTop = '10px';
@@ -105,6 +177,9 @@ function renderConfigPanel(config) {
     `;
     batchRow.appendChild(batchBox);
     panel.appendChild(batchRow);
+
+    // 初始化交互UI状态
+    updateTierRangeInputStatus();
 }
 
 /**
@@ -205,10 +280,15 @@ function initSystem() {
     if (detailEl) detailEl.innerText = "";
 }
 
-// 检查条目是否契合多选段位条件 (必须同时包含所有选中的段位)
+/**
+ * 检查历史条目是否契合选中的段位条件
+ */
 function isItemMatchingTiers(item) {
-    if (selectedTiers.length === 0) return true;
-    return selectedTiers.every(t => item.activeTiers.includes(`段${t}`));
+    if (selectedTiers.length === 0) return true; 
+    if (!item.activeTiers) return false;
+
+    let itemTierArray = item.activeTiers.match(/\d+/g) || [];
+    return selectedTiers.some(t => itemTierArray.includes(String(t)));
 }
 
 // 安全删除历史记录项
@@ -253,11 +333,11 @@ function toggleTierFilter(tier) {
 function toggleSortMode(mode) {
     let index = selectedSorts.indexOf(mode);
     if (index > -1) {
-        selectedSorts.splice(index, 1); // 取消勾选
+        selectedSorts.splice(index, 1);
     } else {
-        selectedSorts.push(mode); // 勾选
+        selectedSorts.push(mode);
     }
-    currentPage = 1; // 重置到第 1 页
+    currentPage = 1;
     renderHistoryContainer();
 }
 
@@ -273,34 +353,28 @@ function renderHistoryContainer() {
         return;
     }
 
-    // 1. 段位过滤
     let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
 
-    // 2. 多选排序逻辑 (固定微观方差升序优先级最高)
     filteredHistory.sort((a, b) => {
         let hasVariance = selectedSorts.includes('varianceAsc');
         let hasIter = selectedSorts.includes('iterDesc');
 
         if (hasVariance && hasIter) {
-            // 【两者均选】微观方差优先 (升序)；方差相同时按迭代次数 (降序)
             if (a.variance !== b.variance) {
                 return a.variance - b.variance;
             }
             return b.iterations - a.iterations;
         } else if (hasVariance) {
-            // 【仅选微观方差升序】
             return a.variance - b.variance;
         } else if (hasIter) {
-            // 【仅选迭代次数降序】
             return b.iterations - a.iterations;
         }
-        return 0; // 【均未选】按原逻辑相对顺序
+        return 0;
     });
 
     const totalPages = Math.ceil(filteredHistory.length / pageSize) || 1;
     if (currentPage > totalPages) currentPage = totalPages;
 
-    // 构建多选段位（0-8）按钮组
     let isAllSelected = selectedTiers.length === 0;
     let tierButtonsHtml = `
         <button onclick="toggleTierFilter('all')" style="padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: bold; cursor: pointer; transition: all 0.2s; border: 1px solid ${isAllSelected ? 'var(--primary-color, #007bff)' : '#ddd'}; background: ${isAllSelected ? 'var(--primary-color, #007bff)' : '#fff'}; color: ${isAllSelected ? '#fff' : '#555'};">全部</button>
@@ -313,7 +387,6 @@ function renderHistoryContainer() {
         `;
     }
 
-    // 构建可多选的排序按钮 UI
     let sortOptions = [
         { key: 'varianceAsc', label: '微观方差 ↑' },
         { key: 'iterDesc', label: '迭代次数 ↓' }
@@ -336,7 +409,7 @@ function renderHistoryContainer() {
             </div>
             <div style="display: flex; flex-direction: column; gap: 6px; background: #f8f9fa; padding: 6px 8px; border-radius: 6px; border: 1px solid #eee;">
                 <div style="display: flex; align-items: center; gap: 4px; flex-wrap: wrap;">
-                    <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔍 多选段位(需同时包含):</span>
+                    <span style="font-size: 12px; font-weight: bold; color: #555; margin-right: 2px;">🔍 筛选段位:</span>
                     ${tierButtonsHtml}
                 </div>
                 <div style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap; border-top: 1px dashed #e0e0e0; padding-top: 6px;">
@@ -347,8 +420,8 @@ function renderHistoryContainer() {
         </div>`;
 
     if (filteredHistory.length === 0) {
-        let selectedText = selectedTiers.map(t => `段${t}`).join(' + ');
-        htmlContent += `<div style="text-align: center; color: #999; padding: 15px 0; font-size: 12px; background: #fafafa; border: 1px dashed #ddd; border-radius: 6px;">未检索到同时包含 [${selectedText}] 的历史保存记录</div>`;
+        let selectedText = selectedTiers.map(t => `段${t}`).join(' / ');
+        htmlContent += `<div style="text-align: center; color: #999; padding: 15px 0; font-size: 12px; background: #fafafa; border: 1px dashed #ddd; border-radius: 6px;">未检索到包含 [${selectedText}] 的历史保存记录</div>`;
         historyContainer.innerHTML = htmlContent;
         return;
     }
@@ -407,7 +480,7 @@ function renderHistoryContainer() {
 }
 
 /**
- * 核心筛选算法逻辑（已强化空间几何均衡度与性能控制）
+ * 核心筛选算法逻辑
  */
 function generateByCheckedConfigs() {
     let userMin = parseInt(document.getElementById('minCount').value) || 6;
@@ -434,6 +507,11 @@ function generateByCheckedConfigs() {
         checkedData[key] = Array.from(checkboxes).map(el => activeConfigOptions[key].options[el.value]);
     }
 
+    // 获取面板中已被勾选的段位集合
+    let checkedTierBoxes = document.querySelectorAll('input[name="knownTierSelect"]:checked');
+    let allowedTierIndices = Array.from(checkedTierBoxes).map(el => parseInt(el.value));
+    let hasCheckedTiers = allowedTierIndices.length > 0; // 标记是否选择了特定已知段位
+
     let matrix, validAvailableNums, stats, finalGroupMapping = [], attempts = 0;
 
     // 默认标准走势图物理 8x10 棋盘矩阵
@@ -450,12 +528,13 @@ function generateByCheckedConfigs() {
         
         // 1. 获取包含有效段位的可用号码池
         let currentAvailableNums = [];
-        let hitTierCount = 0;
 
-        currentSystemConfig.knownDataGroups.forEach((group) => {
+        // 如果用户有勾选特定段位，仅从勾选的段位中提取号码；若均未勾选，则使用已知段位全部号码
+        currentSystemConfig.knownDataGroups.forEach((group, gIdx) => {
             if (group && group.length > 0) {
-                hitTierCount++;
-                currentAvailableNums.push(...group);
+                if (!hasCheckedTiers || allowedTierIndices.includes(gIdx)) {
+                    currentAvailableNums.push(...group);
+                }
             }
         });
 
@@ -474,23 +553,35 @@ function generateByCheckedConfigs() {
             continue;
         }
 
-        // 2. 校验段位命中数
-        let finalHitTierCount = 0;
-        currentSystemConfig.knownDataGroups.forEach((group) => {
-            let matchedInSample = group.filter(n => samplePool.includes(n));
-            if (matchedInSample.length > 0) {
-                finalHitTierCount++;
-            }
-        });
+        // 2. 校验段位命中数（若勾选了特定段位，“段位数量范围”失效，跳过此校验）
+        if (!hasCheckedTiers) {
+            let finalHitTierCount = 0;
+            currentSystemConfig.knownDataGroups.forEach((group) => {
+                let matchedInSample = group.filter(n => samplePool.includes(n));
+                if (matchedInSample.length > 0) {
+                    finalHitTierCount++;
+                }
+            });
 
-        if (finalHitTierCount < userMinTier || finalHitTierCount > userMaxTier) {
-            if (attempts > 20000) break;
-            continue;
+            if (finalHitTierCount < userMinTier || finalHitTierCount > userMaxTier) {
+                if (attempts > 20000) break;
+                continue;
+            }
         }
 
         // 3. 多指标离散度与空间均衡度校验
         let passedAllChecks = true;
-        let reportParts = [`核心命中段位: ${finalHitTierCount}段`];
+        let reportParts = [];
+        
+        // 计算实际命中的段位数用于展示
+        let currentHitTierCount = 0;
+        currentSystemConfig.knownDataGroups.forEach((group) => {
+            if (group && group.some(n => samplePool.includes(n))) {
+                currentHitTierCount++;
+            }
+        });
+        reportParts.push(`核心命中段位: ${currentHitTierCount}段${hasCheckedTiers ? '(已指定段位范围)' : ''}`);
+
         let totalVarianceScore = 0;
 
         for (let key in checkedData) {
@@ -534,14 +625,12 @@ function generateByCheckedConfigs() {
                 if (!matched) passedAllChecks = false;
 
             } else if (key === 'quad') {
-                // 【核心优化】：基于固定物理盘面的 4 象限几何分布校验
                 let qd = [0, 0, 0, 0];
                 samplePool.forEach(n => {
                     let quadIdx = getNumQuadrant(n) - 1;
                     qd[quadIdx]++;
                 });
 
-                // 防扎堆控制：单象限不能超过选中总数的一半（如 7 个号单象限最多 4 个）
                 let maxQuadCount = Math.max(...qd);
                 let isNotCrowded = maxQuadCount <= Math.ceil(samplePool.length / 2);
 

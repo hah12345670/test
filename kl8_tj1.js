@@ -182,7 +182,8 @@
 
     let cachedIntersections = [];
 
-    function calculateCombosByThreshold(minCount = 5, orderParam = 'desc') {
+    // 计算指定门槛下的数据组合
+    function calculateCombosByThreshold(minCount = 5, minHits = 7, orderParam = 'desc') {
         const validCombos = getValidComboSubsets(ALL_INDICATORS, 2, ALL_INDICATORS.length);
         const comboStatsMap = new Map();
 
@@ -213,17 +214,14 @@
             });
         });
 
-        const comboList = Array.from(comboStatsMap.values());
+        // 根据 minHits (出现次数门槛) 进行过滤
+        const comboList = Array.from(comboStatsMap.values()).filter(item => item.historyHitTimes >= minHits);
 
-        // 排序规则微调：
-        // 1. 组合组数 (groupCount) 降序
-        // 2. 出现次数 (historyHitTimes) 降序
-        // 3. 维度总数 (comboSize) 升序（从低维到高维）
-        // 4. 最多交集数 (maxMatchCount) 降序
+        // 排序规则
         comboList.sort((a, b) => {
             if (b.groupCount !== a.groupCount) return b.groupCount - a.groupCount;
             if (b.historyHitTimes !== a.historyHitTimes) return b.historyHitTimes - a.historyHitTimes;
-            if (a.comboSize !== b.comboSize) return a.comboSize - b.comboSize; // 修改：升序排列
+            if (a.comboSize !== b.comboSize) return a.comboSize - b.comboSize;
             return b.maxMatchCount - a.maxMatchCount;
         });
 
@@ -335,13 +333,13 @@
 
     let currentSortOrder = 'desc';
 
-    function updateTopTableOnly(topN, minCount, sortOrder) {
+    function updateTopTableOnly(topN, minCount, minHits, sortOrder) {
         currentSortOrder = sortOrder;
         const tbody = document.querySelector('#topComboTableBody');
         const maxSpan = document.querySelector('#maxLimitSpan');
         if (!tbody) return;
 
-        const currentComboList = calculateCombosByThreshold(minCount, currentSortOrder);
+        const currentComboList = calculateCombosByThreshold(minCount, minHits, currentSortOrder);
         const totalMax = currentComboList.length;
 
         if (maxSpan) maxSpan.textContent = totalMax;
@@ -372,8 +370,11 @@
         tbody.innerHTML = html;
     }
 
-    function renderTopComboTable(topN = 10, minCount = 5, sortOrder = currentSortOrder) {
+    function renderTopComboTable(topN = 10, minCount = 5, minHits = 7, sortOrder = currentSortOrder) {
         currentSortOrder = sortOrder;
+
+        // 计算动态最大历史期数上限
+        const dynamicMaxHits = cachedIntersections.length || 999;
 
         let topContainer = document.querySelector('#topIndicatorContainer');
         if (!topContainer) {
@@ -390,7 +391,10 @@
             }
             insertTarget.parentNode.insertBefore(topContainer, insertTarget);
         } else {
-            updateTopTableOnly(topN, minCount, sortOrder);
+            // 如果已存在容器，同步更新 max 属性
+            const minHitsInput = document.querySelector('#minHitsInput');
+            if (minHitsInput) minHitsInput.setAttribute('max', dynamicMaxHits);
+            updateTopTableOnly(topN, minCount, minHits, sortOrder);
             return;
         }
 
@@ -438,7 +442,7 @@
                 .m-checkbox-item input { margin-right: 4px; cursor: pointer; }
                 .m-combo-header { display: flex; flex-direction: column; gap: 8px; margin-bottom: 10px; }
                 .m-combo-search { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-                .m-combo-input { width: 50px; padding: 5px; border: 1px solid #ccc; border-radius: 4px; text-align: center; font-size: 13px; }
+                .m-combo-input { width: 45px; padding: 5px; border: 1px solid #ccc; border-radius: 4px; text-align: center; font-size: 13px; }
                 .m-combo-btn { padding: 5px 12px; background: #007bff; color: #fff; border: none; border-radius: 4px; font-size: 13px; cursor: pointer; }
                 .m-order-toggle-btn { padding: 5px 10px; background: #6c757d; color: #fff; border: none; border-radius: 4px; font-size: 12px; cursor: pointer; }
                 .m-order-toggle-btn:hover { background: #5a6268; }
@@ -485,8 +489,13 @@
                                 <input type="number" id="minCountInput" value="${minCount}" min="1" max="20" class="m-combo-input">
                                 <span style="font-size:12px; color:#555;">个</span>
 
+                                <label style="font-size:12px; color:#555; font-weight:bold; margin-left:5px;">出现次数 >=</label>
+                                <!-- max 动态绑定当前历史总期数 dynamicMaxHits -->
+                                <input type="number" id="minHitsInput" value="${minHits}" min="1" max="${dynamicMaxHits}" class="m-combo-input">
+                                <span style="font-size:12px; color:#555;">次</span>
+
                                 <label style="font-size:12px; color:#555; font-weight:bold; margin-left:5px;">Top 数量:</label>
-                                <input type="number" id="topNInput" value="${topN}" min="1" max="999" class="m-combo-input" style="width:55px;">
+                                <input type="number" id="topNInput" value="${topN}" min="1" max="999" class="m-combo-input" style="width:50px;">
 
                                 <button id="toggleSortOrderBtn" type="button" class="m-order-toggle-btn">
                                     排序: <span id="sortTextSpan">${currentSortOrder === 'desc' ? '高到低 ↓' : '低到高 ↑'}</span>
@@ -498,7 +507,7 @@
                         </div>
 
                         <p style="font-size:11px; color:#666; margin:0 0 10px 0; line-height:1.4;">
-                            门槛：单期满足 <strong>≥ ${minCount}个</strong> | 排序：<strong>组合组数</strong> ＞ <strong>出现次数</strong> ＞ <strong>维度总数(升序)</strong> ＞ <strong>最多交集数</strong>
+                            门槛：单期满足 <strong>≥ ${minCount}个</strong> | 出现次数 <strong>≥ ${minHits}次</strong> | 排序：<strong>组合组数</strong> ＞ <strong>出现次数</strong> ＞ <strong>维度总数(升序)</strong> ＞ <strong>最多交集数</strong>
                         </p>
 
                         <div class="m-table-wrapper">
@@ -520,11 +529,11 @@
             </div>`;
 
         topContainer.innerHTML = html;
-        updateTopTableOnly(topN, minCount, currentSortOrder);
+        updateTopTableOnly(topN, minCount, minHits, currentSortOrder);
         bindEvents();
 
         function bindEvents() {
-            // 抗抖动、强行锁定视口的折叠核心逻辑
+            // 折叠逻辑
             const setupFold = (headerId, bodyId, iconId) => {
                 const header = document.querySelector(headerId);
                 const body = document.querySelector(bodyId);
@@ -574,12 +583,13 @@
             const doSearch = (overrideOrder) => {
                 const topVal = document.querySelector('#topNInput').value;
                 const minVal = document.querySelector('#minCountInput').value;
+                const hitsVal = document.querySelector('#minHitsInput').value;
                 const order = overrideOrder !== undefined ? overrideOrder : currentSortOrder;
                 
                 const span = document.querySelector('#sortTextSpan');
                 if (span) span.textContent = order === 'desc' ? '高到低 ↓' : '低到高 ↑';
 
-                updateTopTableOnly(topVal, minVal, order);
+                updateTopTableOnly(topVal, minVal, hitsVal, order);
             };
 
             const searchBtn = document.querySelector('#searchTopBtn');
@@ -652,7 +662,7 @@
 
         tbody.appendChild(fragment);
 
-        renderTopComboTable(10, 5, currentSortOrder);
+        renderTopComboTable(10, 5, 7, currentSortOrder);
     }
 
     function init() {

@@ -245,10 +245,10 @@ function getNumQuadrant(num) {
     let c = (num - 1) % 10;             // 列 (0~9)
     let isTop = r < 4;    // 0~3 行为上半区
     let isLeft = c < 5;   // 0~4 列为左半区
-    if (isTop && !isLeft) return 1;  // 右上 -> 1象限
-    if (isTop && isLeft) return 2;   // 左上 -> 2象限
-    if (!isTop && isLeft) return 3;  // 左下 -> 3象限
-    return 4;                        // 右下 -> 4象限
+    if (isTop && !isLeft) return 1;   // 右上 -> 1象限
+    if (isTop && isLeft) return 2;    // 左上 -> 2象限
+    if (!isTop && isLeft) return 3;   // 左下 -> 3象限
+    return 4;                         // 右下 -> 4象限
 }
 
 /**
@@ -281,14 +281,21 @@ function initSystem() {
 }
 
 /**
- * 检查历史条目是否契合选中的段位条件
+ * 检查历史条目是否契合底部选中的段位条件（AND 逻辑：必须同时包含所有勾选的段位）
  */
 function isItemMatchingTiers(item) {
     if (selectedTiers.length === 0) return true; 
-    if (!item.activeTiers) return false;
+    if (!item.formatted) return false;
 
-    let itemTierArray = item.activeTiers.match(/\d+/g) || [];
-    return selectedTiers.some(t => itemTierArray.includes(String(t)));
+    let itemNums = item.formatted.split(',').map(s => parseInt(s.trim())).filter(n => !isNaN(n));
+    let itemTierSet = new Set();
+    itemNums.forEach(n => {
+        let tierIndex = (n === 80) ? 8 : Math.floor(n / 10);
+        itemTierSet.add(String(tierIndex));
+    });
+
+    // 改用 every，确保历史记录同时包含了所有勾选的段位
+    return selectedTiers.every(t => itemTierSet.has(String(t)));
 }
 
 // 安全删除历史记录项
@@ -313,16 +320,17 @@ function changePage(page) {
     renderHistoryContainer();
 }
 
-// 切换/多选段位触发函数
+// 切换/多选历史筛选段位触发函数
 function toggleTierFilter(tier) {
     if (tier === 'all') {
         selectedTiers = [];
     } else {
-        let index = selectedTiers.indexOf(tier);
+        let strTier = String(tier);
+        let index = selectedTiers.indexOf(strTier);
         if (index > -1) {
             selectedTiers.splice(index, 1);
         } else {
-            selectedTiers.push(tier);
+            selectedTiers.push(strTier);
         }
     }
     currentPage = 1;
@@ -420,8 +428,8 @@ function renderHistoryContainer() {
         </div>`;
 
     if (filteredHistory.length === 0) {
-        let selectedText = selectedTiers.map(t => `段${t}`).join(' / ');
-        htmlContent += `<div style="text-align: center; color: #999; padding: 15px 0; font-size: 12px; background: #fafafa; border: 1px dashed #ddd; border-radius: 6px;">未检索到包含 [${selectedText}] 的历史保存记录</div>`;
+        let selectedText = selectedTiers.map(t => `段${t}`).join(' 且 ');
+        htmlContent += `<div style="text-align: center; color: #999; padding: 15px 0; font-size: 12px; background: #fafafa; border: 1px dashed #ddd; border-radius: 6px;">未检索到同时包含 [${selectedText}] 的历史保存记录</div>`;
         historyContainer.innerHTML = htmlContent;
         return;
     }
@@ -507,14 +515,12 @@ function generateByCheckedConfigs() {
         checkedData[key] = Array.from(checkboxes).map(el => activeConfigOptions[key].options[el.value]);
     }
 
-    // 获取面板中已被勾选的段位集合
     let checkedTierBoxes = document.querySelectorAll('input[name="knownTierSelect"]:checked');
     let allowedTierIndices = Array.from(checkedTierBoxes).map(el => parseInt(el.value));
-    let hasCheckedTiers = allowedTierIndices.length > 0; // 标记是否选择了特定已知段位
+    let hasCheckedTiers = allowedTierIndices.length > 0;
 
     let matrix, validAvailableNums, stats, finalGroupMapping = [], attempts = 0;
 
-    // 默认标准走势图物理 8x10 棋盘矩阵
     matrix = [];
     let curNum = 1;
     for (let r = 0; r < 8; r++) {
@@ -526,10 +532,8 @@ function generateByCheckedConfigs() {
     while (true) {
         attempts++;
         
-        // 1. 获取包含有效段位的可用号码池
         let currentAvailableNums = [];
 
-        // 如果用户有勾选特定段位，仅从勾选的段位中提取号码；若均未勾选，则使用已知段位全部号码
         currentSystemConfig.knownDataGroups.forEach((group, gIdx) => {
             if (group && group.length > 0) {
                 if (!hasCheckedTiers || allowedTierIndices.includes(gIdx)) {
@@ -538,12 +542,10 @@ function generateByCheckedConfigs() {
             }
         });
 
-        // 如果可用号码池不够，使用 1-80 全号池补齐
         if (currentAvailableNums.length < userMin) {
             currentAvailableNums = Array.from({ length: 80 }, (_, i) => i + 1);
         }
 
-        // 随机洗牌并提取目标数量号码
         let shuffledNums = shuffle([...new Set(currentAvailableNums)]);
         let targetCount = Math.floor(Math.random() * (userMax - userMin + 1)) + userMin;
         let samplePool = shuffledNums.slice(0, Math.min(targetCount, shuffledNums.length)).sort((a, b) => a - b);
@@ -553,7 +555,6 @@ function generateByCheckedConfigs() {
             continue;
         }
 
-        // 2. 校验段位命中数（若勾选了特定段位，“段位数量范围”失效，跳过此校验）
         if (!hasCheckedTiers) {
             let finalHitTierCount = 0;
             currentSystemConfig.knownDataGroups.forEach((group) => {
@@ -569,11 +570,9 @@ function generateByCheckedConfigs() {
             }
         }
 
-        // 3. 多指标离散度与空间均衡度校验
         let passedAllChecks = true;
         let reportParts = [];
         
-        // 计算实际命中的段位数用于展示
         let currentHitTierCount = 0;
         currentSystemConfig.knownDataGroups.forEach((group) => {
             if (group && group.some(n => samplePool.includes(n))) {
@@ -666,7 +665,6 @@ function generateByCheckedConfigs() {
         return;
     }
 
-    // 4. 动态更新 UI 走势网格图
     let tbody = document.getElementById('tableBody');
     if (tbody) {
         tbody.innerHTML = '';
@@ -685,13 +683,18 @@ function generateByCheckedConfigs() {
         }
     }
 
-    // 5. 保存并渲染历史记录
     let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
     let varianceMatch = stats.desc.match(/微观方差:\s*<strong>([\d.]+)<\/strong>/);
     let varianceVal = varianceMatch ? parseFloat(varianceMatch[1]) : 0.000;
 
-    let activeTiers = finalGroupMapping.map(item => `段${item.tier}`).join(', ');
-    let tierCount = finalGroupMapping.length;
+    let hitTierSet = new Set();
+    validAvailableNums.forEach(n => {
+        let tIdx = (n === 80) ? 8 : Math.floor(n / 10);
+        hitTierSet.add(tIdx);
+    });
+    let sortedTiers = Array.from(hitTierSet).sort((a, b) => a - b);
+    let activeTiers = sortedTiers.map(t => `段${t}`).join(', ');
+    let tierCount = sortedTiers.length;
 
     savedCoreNumbersHistory.push({
         id: 'hist_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
@@ -706,7 +709,6 @@ function generateByCheckedConfigs() {
     currentPage = 1;
     renderHistoryContainer();
 
-    // 6. 更新结果文本提示
     let tierDistributionText = finalGroupMapping.map(item => {
         let numsStr = item.nums.map(n => pad(n)).join(',');
         return `[段${item.tier}: ${numsStr}]`;

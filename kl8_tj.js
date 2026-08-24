@@ -2,7 +2,7 @@ let savedCoreNumbersHistory = [];
 let currentPage = 1;
 const pageSize = 5; // 每页显示5条历史记录
 let selectedTiers = []; // 存储当前选中的段位数组，如 ['0', '2', '5']，为空时表示选择"全部"
-let selectedSorts = ['varianceAsc', 'iterDesc']; // 多选排序规则数组，默认同时勾选两者
+let selectedSorts = ['varianceAsc', 'iterDesc', 'freqDesc']; // 默认同时勾选方差升序、迭代次数降序、出现频率降序
 
 /**
  * 监听已知段位选择状态，动态控制“段位数量范围”输入框的启用/禁用
@@ -294,7 +294,6 @@ function isItemMatchingTiers(item) {
         itemTierSet.add(String(tierIndex));
     });
 
-    // 改用 every，确保历史记录同时包含了所有勾选的段位
     return selectedTiers.every(t => itemTierSet.has(String(t)));
 }
 
@@ -366,16 +365,30 @@ function renderHistoryContainer() {
     filteredHistory.sort((a, b) => {
         let hasVariance = selectedSorts.includes('varianceAsc');
         let hasIter = selectedSorts.includes('iterDesc');
+        let hasFreq = selectedSorts.includes('freqDesc');
 
-        if (hasVariance && hasIter) {
-            if (a.variance !== b.variance) {
-                return a.variance - b.variance;
-            }
+        let freqA = a.frequency || 1;
+        let freqB = b.frequency || 1;
+
+        if (hasVariance && hasIter && hasFreq) {
+            if (a.variance !== b.variance) return a.variance - b.variance;
+            if (freqA !== freqB) return freqB - freqA;
+            return b.iterations - a.iterations;
+        } else if (hasVariance && hasFreq) {
+            if (a.variance !== b.variance) return a.variance - b.variance;
+            return freqB - freqA;
+        } else if (hasIter && hasFreq) {
+            if (freqA !== freqB) return freqB - freqA;
+            return b.iterations - a.iterations;
+        } else if (hasVariance && hasIter) {
+            if (a.variance !== b.variance) return a.variance - b.variance;
             return b.iterations - a.iterations;
         } else if (hasVariance) {
             return a.variance - b.variance;
         } else if (hasIter) {
             return b.iterations - a.iterations;
+        } else if (hasFreq) {
+            return freqB - freqA;
         }
         return 0;
     });
@@ -397,7 +410,8 @@ function renderHistoryContainer() {
 
     let sortOptions = [
         { key: 'varianceAsc', label: '微观方差 ↑' },
-        { key: 'iterDesc', label: '迭代次数 ↓' }
+        { key: 'iterDesc', label: '迭代次数 ↓' },
+        { key: 'freqDesc', label: '出现频率 ↓' }
     ];
 
     let sortButtonsHtml = '';
@@ -471,7 +485,9 @@ function renderHistoryContainer() {
     pageItems.forEach((item, idx) => {
         let absoluteIndex = startIndex + idx;
         let rank = absoluteIndex + 1;
-        let iterText = item.iterations ? ` (迭代: ${item.iterations}次)` : '';
+        let freqCount = item.frequency || 1;
+        let iterText = item.iterations ? ` (迭代: ${item.iterations}次 | 出现频率: ${freqCount}次)` : ` (出现频率: ${freqCount}次)`;
+        
         htmlContent += `
             <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">
                 <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px dashed #eee; padding-bottom: 2px; margin-bottom: 4px; color: #888;">
@@ -684,6 +700,10 @@ function generateByCheckedConfigs() {
     }
 
     let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
+    
+    // --- 去重逻辑及频率更新 ---
+    let existingItem = savedCoreNumbersHistory.find(item => item.formatted === formattedPicked);
+
     let varianceMatch = stats.desc.match(/微观方差:\s*<strong>([\d.]+)<\/strong>/);
     let varianceVal = varianceMatch ? parseFloat(varianceMatch[1]) : 0.000;
 
@@ -696,17 +716,24 @@ function generateByCheckedConfigs() {
     let activeTiers = sortedTiers.map(t => `段${t}`).join(', ');
     let tierCount = sortedTiers.length;
 
-    savedCoreNumbersHistory.push({
-        id: 'hist_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
-        time: new Date().toLocaleTimeString(),
-        formatted: formattedPicked,
-        variance: varianceVal,
-        iterations: stats.iterations,
-        tierCount: tierCount,
-        activeTiers: activeTiers
-    });
+    if (existingItem) {
+        existingItem.frequency = (existingItem.frequency || 1) + 1;
+        existingItem.time = new Date().toLocaleTimeString();
+        existingItem.iterations = stats.iterations;
+    } else {
+        savedCoreNumbersHistory.push({
+            id: 'hist_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+            time: new Date().toLocaleTimeString(),
+            formatted: formattedPicked,
+            variance: varianceVal,
+            iterations: stats.iterations,
+            tierCount: tierCount,
+            activeTiers: activeTiers,
+            frequency: 1
+        });
+        currentPage = 1;
+    }
 
-    currentPage = 1;
     renderHistoryContainer();
 
     let tierDistributionText = finalGroupMapping.map(item => {

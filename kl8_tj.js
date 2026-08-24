@@ -371,9 +371,9 @@ function renderHistoryContainer() {
         let freqB = b.frequency || 1;
 
         if (hasVariance && hasIter && hasFreq) {
-            if (a.variance !== b.variance) return a.variance - b.variance;
-            if (freqA !== freqB) return freqB - freqA;
-            return b.iterations - a.iterations;
+            if (a.variance !== b.variance) return a.variance - b.variance;                 // 1. 微观方差升序
+            if (a.iterations !== b.iterations) return b.iterations - a.iterations;         // 2. 迭代次数降序
+            return freqB - freqA;                                                          // 3. 出现频率降序
         } else if (hasVariance && hasFreq) {
             if (a.variance !== b.variance) return a.variance - b.variance;
             return freqB - freqA;
@@ -408,6 +408,7 @@ function renderHistoryContainer() {
         `;
     }
 
+    // 排序按钮顺序调整为：方差 -> 迭代 -> 频率（与新的优先级顺序视觉对齐）
     let sortOptions = [
         { key: 'varianceAsc', label: '微观方差 ↑' },
         { key: 'iterDesc', label: '迭代次数 ↓' },

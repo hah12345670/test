@@ -487,7 +487,7 @@ function renderHistoryContainer() {
         let absoluteIndex = startIndex + idx;
         let rank = absoluteIndex + 1;
         let freqCount = item.frequency || 1;
-        let iterText = item.iterations ? ` (迭代: ${item.iterations}次 | 出现频率: ${freqCount}次)` : ` (出现频率: ${freqCount}次)`;
+        let iterText = item.iterations ? ` (迭代: ${item.iterations}次 | 频率: ${freqCount}次)` : ` (频率: ${freqCount}次)`;
         
         htmlContent += `
             <div style="background: #fafafa; border: 1px solid #eee; border-radius: 6px; padding: 6px 10px; margin: 6px 0; font-family: monospace; font-size: 12px; line-height: 1.6; position: relative;">

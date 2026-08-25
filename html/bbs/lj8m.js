@@ -51,7 +51,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 
-document.writeln("237期:<font color=\"#800000\">六肖中特</font><font size=\"4\"><span style=\"background-color: #FF0000\">【62827.com高手榜查看】</span></font>开：<font color=\"#ff0000\">？00</font>准<br>");
+document.writeln("237期:<font color=\"#800000\">六肖中特</font><font size=\"4\"><span style=\"background-color: #FF0000\">【蛇龙虎鼠鸡马】</span></font>开：<font color=\"#ff0000\">？00</font>准<br>");
 
 document.writeln("236期:<font color=\"#800000\">六肖中特</font><font size=\"4\"><span style=\"background-color: #FF0000\">【马鸡龙羊<span style=\'background-color: #FFFF00\'>猴</span>虎】</span></font>开：<font color=\"#ff0000\">猴11</font>准<br>");
 document.writeln("235期:<font color=\"#800000\">六肖中特</font><font size=\"4\"><span style=\"background-color: #FF0000\">【猴虎蛇牛兔鼠】</span></font>开：<font color=\"#ff0000\">猪32</font>错<br>");

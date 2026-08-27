@@ -28,8 +28,7 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("238期单双【双数+马狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("239期单双【单数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -65,8 +64,8 @@ document.writeln("234期家野【<span style=\'background-color: #FFFF00\'>野�
 document.writeln("235期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("236期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+狗牛】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("237期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("238期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("238期家野【家禽+龙<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期家野【家禽+虎猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -136,8 +135,8 @@ document.writeln("234期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("235期天地【地肖+猴马】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("236期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊鸡】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("237期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴兔】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("238期天地【地肖+猪龙】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("238期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期天地【地肖+龙猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("		");
@@ -157,8 +156,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("238期前后【前肖+鸡猪】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("238期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+鸡猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("239期前后【后肖+蛇牛】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

@@ -27,10 +27,8 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-
-document.writeln("239期单双【<span style=\'background-color: #FFFF00\'>单数</span>+羊蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("240期单双【双数+马猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("241期单双【单数+牛蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("241期单双【<span style=\'background-color: #FFFF00\'>单数</span>+牛蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("242期单双【双数+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -72,7 +70,8 @@ document.writeln("238期家野【家禽+龙<span style=\'background-color: #FFFF
 document.writeln("239期家野【家禽+<span style=\'background-color: #FFFF00\'>虎</span>猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("240期家野【家禽+虎蛇】<font color=\"#FF0000\">×</font><br>	");
 
-document.writeln("241期家野【家禽+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("241期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("242期家野【野兽+狗马】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -146,8 +145,8 @@ document.writeln("237期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("238期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猪龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("239期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("240期天地【地肖+牛猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("241期天地【天肖+虎羊】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("241期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("242期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -165,7 +164,9 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 13pt\'>");
 document.writeln("");
 
-document.writeln("241期前后【前肖+猴狗】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("242期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("");
 document.writeln("	");

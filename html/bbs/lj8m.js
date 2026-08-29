@@ -43,21 +43,23 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【天下无敌】(四肖中特)</font><br>");
+document.writeln("【纸上谈彩】(才艺六肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
 
+document.writeln("235期：【书画棋琴】<span style=\"background-color: #FFFF00\">画</span>书=开：猪32准<br><br>");
+document.writeln("236期：【书画棋琴】<span style=\"background-color: #FFFF00\">画</span>棋=开：猴11准<br><br>");
+document.writeln("237期：【书画棋琴】<span style=\"background-color: #FFFF00\">画</span>琴=开：羊12准<br><br>");
+document.writeln("238期：【书画棋琴】<span style=\"background-color: #FFFF00\">书</span>琴=开：虎17准<br><br>");
+document.writeln("239期：【书画棋琴】<span style=\"background-color: #FFFF00\">书</span>棋=开：虎05准<br><br>");
+document.writeln("240期：【书画棋琴】<span style=\"background-color: #FFFF00\">书</span>琴=开：龙27准<br><br>");
+document.writeln("241期：【书画棋琴】画<span style=\'background-color: #FFFF00\'>书</span>=开：马49准<br><br>");
+document.writeln("242期：【书画棋琴】62827.com高手榜查看=开：？00准<br><br>");
+
 document.writeln("");
-document.writeln("235期</font>【<font color=\"#009933\">四肖中特</font>】〖<span style=\"background-color: #FFFF00\">猪</span>狗鸡龙〗开:<font color=\"#FF0000\">猪32</font>准<br><br>");
-document.writeln("236期</font>【<font color=\"#009933\">四肖中特</font>】〖<span style=\"background-color: #FFFF00\">猴</span>鼠鸡羊〗开:<font color=\"#FF0000\">猴11</font>准<br><br>");
-document.writeln("237期</font>【<font color=\"#009933\">四肖中特</font>】〖马<span style=\"background-color: #FFFF00\">羊</span>猪狗〗开:<font color=\"#FF0000\">羊12</font>准<br><br>");
-document.writeln("238期</font>【<font color=\"#009933\">四肖中特</font>】〖鸡猪马<span style=\'background-color: #FFFF00\'>虎</span>〗开:<font color=\"#FF0000\">虎17</font>准<br><br>");
-document.writeln("239期</font>【<font color=\"#009933\">四肖中特</font>】〖猴马龙狗〗开:<font color=\"#FF0000\">虎05</font>错<br><br>");
-document.writeln("240期</font>【<font color=\"#009933\">四肖中特</font>】〖马蛇牛<span style=\'background-color: #FFFF00\'>龙</span>〗开:<font color=\"#FF0000\">龙27</font>准<br><br>");
-document.writeln("241期</font>【<font color=\"#009933\">四肖中特</font>】〖62827.com高手榜查看〗开:<font color=\"#FF0000\">？00</font>准<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

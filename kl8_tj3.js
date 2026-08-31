@@ -38,7 +38,6 @@
             container = document.createElement('div');
             container.id = 'myIntervalContainer';
             
-            // 插入到现有其他统计模块的后面
             const existingStat = document.querySelector('.stat-section-wrapper');
             if (existingStat && existingStat.parentNode) {
                 existingStat.parentNode.insertBefore(container, existingStat.nextSibling);
@@ -90,7 +89,6 @@
             const zState = getZState(zScore);
             const stability = getStabilityState(cv);
 
-            // 计算新增的合理复合指标 CVS (Comprehensive Volatility Score)
             const cvs = avg > 0 ? (currentInterval / avg) * cv : 0;
             let cvsState = '常态';
             let cvsColor = '#333';
@@ -102,6 +100,24 @@
                 cvsColor = '#28a745';
             }
 
+            let zWeight = Math.max(0, 1.5 - Math.abs(zScore)); 
+            let stabilityWeight = Math.max(0.2, 1.8 - cv);     
+            let avgWeight = Math.min(1.5, Math.max(0.5, avg / 25)); 
+            let penalty = Math.abs(zScore) > 1.5 ? 0.6 : 1.0; 
+            let compositeScore = (zWeight * 45 + stabilityWeight * 35 + avgWeight * 20) * penalty;
+            if (currentInterval === 0) compositeScore += 10; 
+
+            compositeScore = Math.min(100, Math.max(5, compositeScore));
+
+            let scoreState = '观望';
+            if (compositeScore >= 82) {
+                scoreState = '极佳'; 
+            } else if (compositeScore >= 68) {
+                scoreState = '优质'; 
+            } else if (compositeScore >= 50) {
+                scoreState = '活跃'; 
+            }
+
             stats[num] = {
                 current: currentInterval,
                 average: avg.toFixed(1),
@@ -111,6 +127,8 @@
                 zScoreFormatted: `${zScore > 0 ? '+' : ''}${zScore.toFixed(2)} (${zState})`,
                 cvsFormatted: `${cvs.toFixed(2)} (${cvsState})`,
                 cvsColor: cvsColor,
+                scoreFormatted: `${compositeScore.toFixed(1)}分 (${scoreState})`,
+                scoreVal: compositeScore,
                 rawZ: zScore,
                 history: rawIntervals
             };
@@ -122,11 +140,11 @@
             const curText = `${cur}`;
             const curColor = cur === 0 ? 'color: #28a745; font-weight: bold;' : (cur <= 3 ? 'color: #d9534f; font-weight: bold;' : 'color: #333;');
             
-            // 完整显示所有开出间隔明细
             const historyText = data.history.length > 0 ? data.history.join(', ') : '暂无更多历史';
             
             const zVal = data.rawZ;
             const zScoreColor = zVal > 1.5 ? 'color: #d9534f; font-weight: bold;' : (zVal < -1.5 ? 'color: #28a745; font-weight: bold;' : 'color: #333;');
+            const scoreColorStyle = data.scoreVal >= 82 ? 'color: #28a745; font-weight: bold;' : (data.scoreVal >= 68 ? 'color: #007bff; font-weight: bold;' : 'color: #333;');
 
             return `
                 <tr>
@@ -137,6 +155,7 @@
                     <td style="padding: 6px 8px; text-align: center; color: ${data.stabilityColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.stabilityText}</td>
                     <td style="padding: 6px 8px; text-align: center; ${zScoreColor} font-weight: bold; border-bottom: 1px solid #eee;">${data.zScoreFormatted}</td>
                     <td style="padding: 6px 8px; text-align: center; color: ${data.cvsColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.cvsFormatted}</td>
+                    <td style="padding: 6px 8px; text-align: center; ${scoreColorStyle} border-bottom: 1px solid #eee;">${data.scoreFormatted}</td>
                     <td style="padding: 6px 8px; text-align: left; color: #555; font-size: 11px; border-bottom: 1px solid #eee; word-break: break-all; white-space: normal;" title="${data.history.join(', ')}">${historyText}</td>
                 </tr>
             `;
@@ -146,7 +165,7 @@
             <style>
                 #myIntervalContainer {
                     width: 100%;
-                    max-width: 1100px;
+                    max-width: 1200px;
                     margin: 10px auto 0 auto;
                     box-sizing: border-box;
                 }
@@ -161,7 +180,7 @@
                 }
                 #myIntervalContainer .stat-table {
                     width: 100%;
-                    min-width: 900px;
+                    min-width: 1020px;
                     border-collapse: collapse;
                     border-spacing: 0;
                 }
@@ -175,23 +194,27 @@
                 <table class="stat-table">
                     <thead>
                         <tr style="background-color: #f8f9fa;">
-                            <th style="width: 6%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
-                            <th style="width: 9%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">当前间隔</th>
-                            <th style="width: 9%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">平均间隔</th>
-                            <th style="width: 9%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">样本方差</th>
-                            <th style="width: 12%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
+                            <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
+                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">当前间隔</th>
+                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">平均间隔</th>
+                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">样本方差</th>
+                            <th style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
                                 稳定性
                                 <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
                             </th>
-                            <th style="width: 16%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
+                            <th style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
                                 偏移(Z)
                                 <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&gt;2极冷|&lt;-1.5极热)</div>
                             </th>
-                            <th style="width: 16%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
+                            <th style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
                                 综合动量(CVS)
                                 <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&gt;1.8爆发临界)</div>
                             </th>
-                            <th style="width: 23%; padding: 8px 4px; text-align: left; border-bottom: 2px solid #dee2e6;">历史间隔</th>
+                            <th style="width: 13%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
+                                综合评分(CS)
+                                <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(结合均值/Z/稳定性)</div>
+                            </th>
+                            <th style="width: 17%; padding: 8px 4px; text-align: left; border-bottom: 2px solid #dee2e6;">历史间隔</th>
                         </tr>
                     </thead>
                     <tbody>

@@ -205,6 +205,7 @@
                     max-width: 1200px;
                     margin: 10px auto 0 auto;
                     box-sizing: border-box;
+                    height: auto !important;
                 }
                 #myIntervalContainer .stat-header-bar {
                     display: flex;
@@ -231,20 +232,22 @@
                 }
                 #myIntervalContainer .stat-table-wrapper {
                     transition: max-height 0.3s ease;
-                    overflow: hidden;
-                    max-height: 2000px;
+                    overflow: visible !important; /* 微调：避免高度被意外裁剪隐藏 */
+                    max-height: none !important;  /* 微调：取消硬性高度上限限制 */
+                    height: auto !important;
                 }
                 #myIntervalContainer .stat-table-wrapper.collapsed {
                     max-height: 0 !important;
+                    overflow: hidden !important;
                 }
                 #myIntervalContainer .stat-table-container {
                     width: 100%;
                     overflow-x: auto;
+                    overflow-y: visible;
                     background-color: var(--card-bg, #fff);
                     border-radius: 8px;
                     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
                     -webkit-overflow-scrolling: touch;
-                    touch-action: pan-x;
                 }
                 #myIntervalContainer .stat-table {
                     width: 100%;
@@ -293,8 +296,7 @@
                                     样本方差 ${getArrow('varianceVal')}
                                 </th>
                                 <th class="sortable-th" style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('stabilityVal');">
-                                    稳定性 ${getArrow('stabilityVal')}
-                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
+                                    稳定性 ${getArrow('stabilityVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
                                 </th>
                                 <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('zScoreVal');">
                                     偏移(Z) ${getArrow('zScoreVal')}

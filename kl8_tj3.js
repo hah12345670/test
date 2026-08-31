@@ -232,8 +232,8 @@
                 }
                 #myIntervalContainer .stat-table-wrapper {
                     transition: max-height 0.3s ease;
-                    overflow: visible !important; /* 微调：避免高度被意外裁剪隐藏 */
-                    max-height: none !important;  /* 微调：取消硬性高度上限限制 */
+                    overflow: visible !important; 
+                    max-height: none !important;  
                     height: auto !important;
                 }
                 #myIntervalContainer .stat-table-wrapper.collapsed {
@@ -296,7 +296,8 @@
                                     样本方差 ${getArrow('varianceVal')}
                                 </th>
                                 <th class="sortable-th" style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('stabilityVal');">
-                                    稳定性 ${getArrow('stabilityVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
+                                    稳定性 ${getArrow('stabilityVal')}
+                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
                                 </th>
                                 <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('zScoreVal');">
                                     偏移(Z) ${getArrow('zScoreVal')}
@@ -344,13 +345,16 @@
             const existingIndex = sortQueue.findIndex(item => item.field === field);
             if (existingIndex !== -1) {
                 let currentOrder = sortQueue[existingIndex].order;
-                if (currentOrder === 'asc') {
-                    sortQueue[existingIndex].order = 'desc';
+                if (currentOrder === 'desc') {
+                    // 降序 -> 变为升序
+                    sortQueue[existingIndex].order = 'asc';
                 } else {
+                    // 升序 -> 取消该字段排序（恢复默认）
                     sortQueue.splice(existingIndex, 1);
                 }
             } else {
-                sortQueue.push({ field: field, order: 'asc' });
+                // 不存在 -> 首次点击直接为降序
+                sortQueue.push({ field: field, order: 'desc' });
             }
             this._sortQueue = sortQueue;
             this.render();

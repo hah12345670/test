@@ -26,6 +26,8 @@
         return { text: '剧烈', color: '#d9534f' };              
     }
 
+    let sortQueue = [];
+
     function renderIntervalModule(externalData) {
         const dataSource = externalData || (typeof rawDataArray !== 'undefined' ? rawDataArray : null);
         
@@ -101,7 +103,7 @@
             }
 
             let zWeight = Math.max(0, 1.5 - Math.abs(zScore)); 
-            let stabilityWeight = Math.max(0.2, 1.8 - cv);     
+            let stabilityWeight = Math.max(0.2, 1.8 - cv);    
             let avgWeight = Math.min(1.5, Math.max(0.5, avg / 25)); 
             let penalty = Math.abs(zScore) > 1.5 ? 0.6 : 1.0; 
             let compositeScore = (zWeight * 45 + stabilityWeight * 35 + avgWeight * 20) * penalty;
@@ -119,22 +121,43 @@
             }
 
             stats[num] = {
+                num: num,
                 current: currentInterval,
+                averageVal: avg,
                 average: avg.toFixed(1),
+                varianceVal: variance,
                 variance: variance.toFixed(1),
+                stabilityVal: cv, 
                 stabilityText: `${cv.toFixed(2)}(${stability.text})`,
                 stabilityColor: stability.color,
+                zScoreVal: zScore,
                 zScoreFormatted: `${zScore > 0 ? '+' : ''}${zScore.toFixed(2)} (${zState})`,
+                cvsVal: cvs,
                 cvsFormatted: `${cvs.toFixed(2)} (${cvsState})`,
                 cvsColor: cvsColor,
                 scoreFormatted: `${compositeScore.toFixed(1)}分 (${scoreState})`,
-                scoreVal: compositeScore,
+                scoreVal: compositeScore, 
                 rawZ: zScore,
                 history: rawIntervals
             };
         });
 
-        const tableRowsHTML = targetNums.map(num => {
+        let sortedNums = [...targetNums];
+        if (sortQueue.length > 0) {
+            sortedNums.sort((a, b) => {
+                for (let item of sortQueue) {
+                    let valA = stats[a][item.field];
+                    let valB = stats[b][item.field];
+                    let diff = item.order === 'asc' ? valA - valB : valB - valA;
+                    if (diff !== 0) {
+                        return diff;
+                    }
+                }
+                return 0;
+            });
+        }
+
+        const tableRowsHTML = sortedNums.map(num => {
             const data = stats[num];
             const cur = data.current;
             const curText = `${cur}`;
@@ -161,6 +184,39 @@
             `;
         }).join('');
 
+        const getArrow = (field) => {
+            const index = sortQueue.findIndex(item => item.field === field);
+            if (index === -1) {
+                return '<span style="color: #ccc; font-size: 10px; margin-left: 3px;">↕</span>';
+            }
+            const item = sortQueue[index];
+            const arrowSymbol = item.order === 'asc' ? '▲' : '▼';
+            const priorityTag = sortQueue.length > 1 ? `<sub style="font-size:8px; color:#007bff; font-weight:bold;">#${index + 1}</sub>` : '';
+            return `<span style="color: #007bff; font-size: 10px; margin-left: 3px;">${arrowSymbol}</span>${priorityTag}`;
+        };
+
+        const handleSortClick = (field) => {
+            const mod = window.IntervalStatModule;
+            const existingIndex = sortQueue.findIndex(item => item.field === field);
+
+            if (existingIndex !== -1) {
+                let currentOrder = sortQueue[existingIndex].order;
+                if (currentOrder === 'asc') {
+                    sortQueue[existingIndex].order = 'desc';
+                } else {
+                    sortQueue.splice(existingIndex, 1);
+                }
+            } else {
+                sortQueue.push({ field: field, order: 'asc' });
+            }
+
+            mod._sortQueue = sortQueue;
+            mod.render();
+        };
+
+        const existingWrapper = document.getElementById('intervalTableWrapper');
+        const isCurrentlyCollapsed = existingWrapper ? existingWrapper.classList.contains('collapsed') : true;
+
         container.innerHTML = `
             <style>
                 #myIntervalContainer {
@@ -168,6 +224,37 @@
                     max-width: 1200px;
                     margin: 10px auto 0 auto;
                     box-sizing: border-box;
+                }
+                #myIntervalContainer .stat-header-bar {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 8px;
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #333;
+                    background-color: #f8f9fa;
+                    padding: 8px 12px;
+                    border-radius: 6px;
+                    cursor: pointer;
+                    user-select: none;
+                    border: 1px solid #e9ecef;
+                }
+                #myIntervalContainer .stat-header-bar:hover {
+                    background-color: #f1f3f5;
+                }
+                #myIntervalContainer .toggle-arrow {
+                    font-size: 12px;
+                    color: #666;
+                    transition: transform 0.3s ease;
+                }
+                #myIntervalContainer .stat-table-wrapper {
+                    transition: max-height 0.3s ease;
+                    overflow: hidden;
+                    max-height: 2000px;
+                }
+                #myIntervalContainer .stat-table-wrapper.collapsed {
+                    max-height: 0 !important;
                 }
                 #myIntervalContainer .stat-table-container {
                     width: 100%;
@@ -188,39 +275,64 @@
                 #myIntervalContainer .stat-table td {
                     box-sizing: border-box;
                 }
+                #myIntervalContainer .sortable-th {
+                    cursor: pointer;
+                    user-select: none;
+                }
+                #myIntervalContainer .sortable-th:hover {
+                    background-color: #eceff1;
+                }
             </style>
-            <div style="font-size: 14px; font-weight: bold; margin-bottom: 8px; color: #333;">📊 全号 (01-80) 统计</div>
-            <div class="stat-table-container">
-                <table class="stat-table">
-                    <thead>
-                        <tr style="background-color: #f8f9fa;">
-                            <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
-                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">当前间隔</th>
-                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">平均间隔</th>
-                            <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">样本方差</th>
-                            <th style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
-                                稳定性
-                                <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
-                            </th>
-                            <th style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
-                                偏移(Z)
-                                <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&gt;2极冷|&lt;-1.5极热)</div>
-                            </th>
-                            <th style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
-                                综合动量(CVS)
-                                <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(&gt;1.8爆发临界)</div>
-                            </th>
-                            <th style="width: 13%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">
-                                综合评分(CS)
-                                <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; white-space: nowrap;">(结合均值/Z/稳定性)</div>
-                            </th>
-                            <th style="width: 17%; padding: 8px 4px; text-align: left; border-bottom: 2px solid #dee2e6;">历史间隔</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        ${tableRowsHTML}
-                    </tbody>
-                </table>
+            <div class="stat-header-bar" onclick="
+                const wrapper = document.getElementById('intervalTableWrapper');
+                const arrow = document.getElementById('toggleArrow');
+                wrapper.classList.toggle('collapsed');
+                if (wrapper.classList.contains('collapsed')) {
+                    arrow.style.transform = 'rotate(0deg)';
+                } else {
+                    arrow.style.transform = 'rotate(90deg)';
+                }
+            ">
+                <span>📊 全号 (01-80) 统计</span>
+                <span class="toggle-arrow" id="toggleArrow" style="transform: rotate(${isCurrentlyCollapsed ? '0deg' : '90deg'});">▶</span>
+            </div>
+            <div class="stat-table-wrapper ${isCurrentlyCollapsed ? 'collapsed' : ''}" id="intervalTableWrapper">
+                <div class="stat-table-container">
+                    <table class="stat-table">
+                        <thead>
+                            <tr style="background-color: #f8f9fa;">
+                                <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
+                                <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">当前间隔</th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('averageVal');">
+                                    平均间隔 ${getArrow('averageVal')}
+                                </th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('varianceVal');">
+                                    样本方差 ${getArrow('varianceVal')}
+                                </th>
+                                <th class="sortable-th" style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('stabilityVal');">
+                                    稳定性 ${getArrow('stabilityVal')}
+                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
+                                </th>
+                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('zScoreVal');">
+                                    偏移(Z) ${getArrow('zScoreVal')}
+                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&gt;2极冷|&gt;1偏冷)<br>(正常|-0.8~-1.5偏热|&lt;-1.5极热)</div>
+                                </th>
+                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('cvsVal');">
+                                    综合动量(CVS) ${getArrow('cvsVal')}
+                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.4持续活跃)<br>(&gt;1.8爆发临界)</div>
+                                </th>
+                                <th class="sortable-th" style="width: 13%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('scoreVal');">
+                                    综合评分(CS) ${getArrow('scoreVal')}
+                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(均值/Z/稳定性)</div>
+                                </th>
+                                <th style="width: 17%; padding: 8px 4px; text-align: left; border-bottom: 2px solid #dee2e6;">历史间隔</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${tableRowsHTML}
+                        </tbody>
+                    </table>
+                </div>
             </div>
         `;
         return true;
@@ -229,17 +341,36 @@
     let retryCount = 0;
     const maxRetries = 50;
     const timer = setInterval(() => {
-        retryCount++;
         if (renderIntervalModule() || retryCount >= maxRetries) {
             clearInterval(timer);
             if (retryCount >= maxRetries) {
                 console.warn("数据加载超时：未检测到有效的 rawDataArray 数据源。");
             }
         }
+        retryCount++;
     }, 300);
 
     global.IntervalStatModule = {
-        render: renderIntervalModule
+        render: function(externalData) {
+            if (this._sortQueue !== undefined) sortQueue = this._sortQueue;
+            return renderIntervalModule(externalData);
+        },
+        _sortClickHandler: function(field) {
+            const existingIndex = sortQueue.findIndex(item => item.field === field);
+            if (existingIndex !== -1) {
+                let currentOrder = sortQueue[existingIndex].order;
+                if (currentOrder === 'asc') {
+                    sortQueue[existingIndex].order = 'desc';
+                } else {
+                    sortQueue.splice(existingIndex, 1);
+                }
+            } else {
+                sortQueue.push({ field: field, order: 'asc' });
+            }
+            this._sortQueue = sortQueue;
+            this.render();
+        },
+        _sortQueue: []
     };
 
 })(window);

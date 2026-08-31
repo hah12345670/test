@@ -21,12 +21,13 @@
     }
 
     function getStabilityState(cv) {
-        if (cv < 0.8) return { text: '稳定', color: '#28a745' };      
-        if (cv <= 1.5) return { text: '正常', color: '#333' };      
-        return { text: '剧烈', color: '#d9534f' };              
+        if (cv < 0.8) return { text: '稳定', color: '#28a745' };
+        if (cv <= 1.5) return { text: '正常', color: '#333' };
+        return { text: '剧烈', color: '#d9534f' };
     }
 
     let sortQueue = [];
+    let selectedNums = new Set(); 
 
     function renderIntervalModule(externalData) {
         const dataSource = externalData || (typeof rawDataArray !== 'undefined' ? rawDataArray : null);
@@ -168,9 +169,12 @@
             const zVal = data.rawZ;
             const zScoreColor = zVal > 1.5 ? 'color: #d9534f; font-weight: bold;' : (zVal < -1.5 ? 'color: #28a745; font-weight: bold;' : 'color: #333;');
             const scoreColorStyle = data.scoreVal >= 82 ? 'color: #28a745; font-weight: bold;' : (data.scoreVal >= 68 ? 'color: #007bff; font-weight: bold;' : 'color: #333;');
+            
+            const isSelected = selectedNums.has(num);
+            const rowClass = isSelected ? 'stat-row selected-row' : 'stat-row';
 
             return `
-                <tr>
+                <tr class="${rowClass}" data-num="${num}" onclick="window.IntervalStatModule._rowClickHandler('${num}')">
                     <td style="padding: 6px 8px; text-align: center; font-weight: bold; color: #007bff; border-bottom: 1px solid #eee;">${num}</td>
                     <td style="padding: 6px 8px; text-align: center; ${curColor} border-bottom: 1px solid #eee;">${curText}</td>
                     <td style="padding: 6px 8px; text-align: center; color: #333; border-bottom: 1px solid #eee;">${data.average}</td>
@@ -230,6 +234,26 @@
                     color: #666;
                     transition: transform 0.3s ease;
                 }
+                /* 表格展开区域内的顶部操作栏 */
+                #myIntervalContainer .table-toolbar {
+                    display: flex;
+                    justify-content: flex-end;
+                    margin-bottom: 6px;
+                }
+                #myIntervalContainer .reset-btn {
+                    font-size: 12px;
+                    padding: 3px 10px;
+                    background-color: #fff;
+                    border: 1px solid #ced4da;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    color: #495057;
+                    transition: background-color 0.2s;
+                }
+                #myIntervalContainer .reset-btn:hover {
+                    background-color: #e9ecef;
+                    color: #212529;
+                }
                 #myIntervalContainer .stat-table-wrapper {
                     transition: max-height 0.3s ease;
                     overflow: visible !important; 
@@ -266,6 +290,15 @@
                 #myIntervalContainer .sortable-th:hover {
                     background-color: #eceff1;
                 }
+                #myIntervalContainer .stat-row {
+                    cursor: pointer;
+                }
+                #myIntervalContainer .stat-row:hover {
+                    background-color: #f8f9fa;
+                }
+                #myIntervalContainer .stat-row.selected-row {
+                    background-color: #e2f0d9 !important;
+                }
             </style>
             <div class="stat-header-bar" onclick="
                 const wrapper = document.getElementById('intervalTableWrapper');
@@ -281,6 +314,9 @@
                 <span class="toggle-arrow" id="toggleArrow" style="transform: rotate(${isCurrentlyCollapsed ? '0deg' : '90deg'});">▶</span>
             </div>
             <div class="stat-table-wrapper ${isCurrentlyCollapsed ? 'collapsed' : ''}" id="intervalTableWrapper">
+                <div class="table-toolbar">
+                    <button class="reset-btn" onclick="window.IntervalStatModule.resetDefault();">↺ 重置</button>
+                </div>
                 <div class="stat-table-container">
                     <table class="stat-table">
                         <thead>
@@ -346,18 +382,35 @@
             if (existingIndex !== -1) {
                 let currentOrder = sortQueue[existingIndex].order;
                 if (currentOrder === 'desc') {
-                    // 降序 -> 变为升序
                     sortQueue[existingIndex].order = 'asc';
                 } else {
-                    // 升序 -> 取消该字段排序（恢复默认）
                     sortQueue.splice(existingIndex, 1);
                 }
             } else {
-                // 不存在 -> 首次点击直接为降序
                 sortQueue.push({ field: field, order: 'desc' });
             }
             this._sortQueue = sortQueue;
             this.render();
+        },
+        _rowClickHandler: function(num) {
+            if (selectedNums.has(num)) {
+                selectedNums.delete(num);
+            } else {
+                selectedNums.add(num); 
+            }
+            const row = document.querySelector(`#myIntervalContainer tr[data-num="${num}"]`);
+            if (row) {
+                row.classList.toggle('selected-row', selectedNums.has(num));
+            }
+        },
+        resetDefault: function() {
+            sortQueue = [];
+            this._sortQueue = [];
+            selectedNums.clear();
+            this.render();
+        },
+        getSelectedNums: function() {
+            return Array.from(selectedNums);
         },
         _sortQueue: []
     };

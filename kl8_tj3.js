@@ -195,25 +195,6 @@
             return `<span style="color: #007bff; font-size: 10px; margin-left: 3px;">${arrowSymbol}</span>${priorityTag}`;
         };
 
-        const handleSortClick = (field) => {
-            const mod = window.IntervalStatModule;
-            const existingIndex = sortQueue.findIndex(item => item.field === field);
-
-            if (existingIndex !== -1) {
-                let currentOrder = sortQueue[existingIndex].order;
-                if (currentOrder === 'asc') {
-                    sortQueue[existingIndex].order = 'desc';
-                } else {
-                    sortQueue.splice(existingIndex, 1);
-                }
-            } else {
-                sortQueue.push({ field: field, order: 'asc' });
-            }
-
-            mod._sortQueue = sortQueue;
-            mod.render();
-        };
-
         const existingWrapper = document.getElementById('intervalTableWrapper');
         const isCurrentlyCollapsed = existingWrapper ? existingWrapper.classList.contains('collapsed') : true;
 
@@ -302,7 +283,9 @@
                         <thead>
                             <tr style="background-color: #f8f9fa;">
                                 <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
-                                <th style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">当前间隔</th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('current');">
+                                    当前间隔 ${getArrow('current')}
+                                </th>
                                 <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('averageVal');">
                                     平均间隔 ${getArrow('averageVal')}
                                 </th>

@@ -158,7 +158,7 @@
             });
         }
 
-        const tableRowsHTML = sortedNums.map(num => {
+        const tableRowsHTML = sortedNums.map((num, index) => {
             const data = stats[num];
             const cur = data.current;
             const curText = `${cur}`;
@@ -175,6 +175,7 @@
 
             return `
                 <tr class="${rowClass}" data-num="${num}" onclick="window.IntervalStatModule._rowClickHandler('${num}')">
+                    <td style="padding: 6px 8px; text-align: center; color: #666; border-bottom: 1px solid #eee;">${index + 1}</td>
                     <td style="padding: 6px 8px; text-align: center; font-weight: bold; color: #007bff; border-bottom: 1px solid #eee;">${num}</td>
                     <td style="padding: 6px 8px; text-align: center; ${curColor} border-bottom: 1px solid #eee;">${curText}</td>
                     <td style="padding: 6px 8px; text-align: center; color: #333; border-bottom: 1px solid #eee;">${data.average}</td>
@@ -234,7 +235,6 @@
                     color: #666;
                     transition: transform 0.3s ease;
                 }
-                /* 表格展开区域内的顶部操作栏 */
                 #myIntervalContainer .table-toolbar {
                     display: flex;
                     justify-content: flex-end;
@@ -275,7 +275,7 @@
                 }
                 #myIntervalContainer .stat-table {
                     width: 100%;
-                    min-width: 1020px;
+                    min-width: 1060px;
                     border-collapse: collapse;
                     border-spacing: 0;
                 }
@@ -321,7 +321,8 @@
                     <table class="stat-table">
                         <thead>
                             <tr style="background-color: #f8f9fa;">
-                                <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">号码</th>
+                                <th style="width: 4%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">序列</th>
+                                <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">数字</th>
                                 <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('current');">
                                     当前间隔 ${getArrow('current')}
                                 </th>

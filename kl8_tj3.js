@@ -321,7 +321,7 @@
                     <table class="stat-table">
                         <thead>
                             <tr style="background-color: #f8f9fa;">
-                                <th style="width: 4%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">序列</th>
+                                <th style="width: 4%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">序号</th>
                                 <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">数字</th>
                                 <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('current');">
                                     当前间隔 ${getArrow('current')}

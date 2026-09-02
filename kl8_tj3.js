@@ -49,6 +49,11 @@
             }
         }
 
+        // 记录重新渲染前的滚动条位置，防止刷新后视角跳动
+        const tableContainerElem = container.querySelector('.stat-table-container');
+        const scrollLeft = tableContainerElem ? tableContainerElem.scrollLeft : 0;
+        const scrollTop = tableContainerElem ? tableContainerElem.scrollTop : 0;
+
         const targetNums = Array.from({ length: 80 }, (_, i) => String(i + 1).padStart(2, '0'));
         const hitIndicesMap = {};
         targetNums.forEach(num => hitIndicesMap[num] = []);
@@ -358,6 +363,14 @@
                 </div>
             </div>
         `;
+
+        // 渲染完成后，精准恢复原本的滚动条位置，彻底解决点击排序后视角被弹开的问题
+        const newTableContainerElem = container.querySelector('.stat-table-container');
+        if (newTableContainerElem) {
+            newTableContainerElem.scrollLeft = scrollLeft;
+            newTableContainerElem.scrollTop = scrollTop;
+        }
+
         return true;
     }
 

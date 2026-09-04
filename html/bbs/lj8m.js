@@ -51,7 +51,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 document.writeln("");
-document.writeln("247期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【62827.com首页查看】</font>开？00准<br><br>");
+document.writeln("247期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【蓝单绿单绿双】</font>开？00准<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("246期<font color=\"#0000FF\">【三个半波】</font>=<font color=\"#FF0000\">【红单蓝单蓝双】</font>开牛30错<br><br>");

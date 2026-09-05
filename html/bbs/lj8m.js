@@ -49,9 +49,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
+
+
+
+document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">248期【行数中特】开？00</font></b><br>");
-document.writeln("必中:【土木火行】<br>");
+document.writeln(" <b><font color=\"#0000FF\">249期【行数中特】开？00</font></b><br>");
+document.writeln("必中:【62827.com高手榜查看】<br>");
+document.writeln("");
+
+document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
+document.writeln(" <b><font color=\"#0000FF\">248期【行数中特】开猪20</font></b><br>");
+document.writeln("必中:【<span style=\'background-color: #FFFF00\'>土</span>木火行】<br>");
 document.writeln("");
 document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
 document.writeln(" <b><font color=\"#0000FF\">247期【行数中特】开兔40</font></b><br>");

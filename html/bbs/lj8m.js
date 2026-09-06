@@ -43,7 +43,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【本站推荐】(三行中特)</font><br>");
+document.writeln("【琵琶王子】(必中三肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -51,46 +51,23 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">249期【行数中特】开？00</font></b><br>");
-document.writeln("必中:【62827.com高手榜查看】<br>");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("246期必中三肖<font color=\"#FF0000\">【羊鸡猴】防【马<span style=\"background-color: #FFFF00\">牛</span>】</font>开牛30√</font><BR><BR>");
 document.writeln("");
-
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">248期【行数中特】开猪20</font></b><br>");
-document.writeln("必中:【<span style=\'background-color: #FFFF00\'>土</span>木火行】<br>");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">247期【行数中特】开兔40</font></b><br>");
-document.writeln("必中:【土木<span style=\"background-color: #FFFF00\">火</span>行】<br>");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("247期必中三肖<font color=\"#FF0000\">【<span style=\"background-color: #FFFF00\">兔</span>马鸡】防【猪羊】</font>开兔40√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">246期【行数中特】开牛30</font></b><br>");
-document.writeln("必中:【金火<span style=\"background-color: #FFFF00\">水</span>行】<br>");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("248期必中三肖<font color=\"#FF0000\">【<span style=\"background-color: #FFFF00\">猪</span>牛马】防【兔羊】</font>开猪20√</font><BR><BR>");
+document.writeln("");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("249期必中三肖<font color=\"#FF0000\">【蛇狗虎】防【<span style=\"background-color: #FFFF00\">猴</span>龙】</font>开猴23√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">245期【行数中特】开牛18</font></b><br>");
-document.writeln("必中:【木<span style=\"background-color: #FFFF00\">火</span>土行】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">244期【行数中特】开鸡46</font></b><br>");
-document.writeln("必中:【土<span style=\"background-color: #FFFF00\">木</span>水行】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">243期【行数中特】开狗21</font></b><br>");
-document.writeln("必中:【火<span style=\"background-color: #FFFF00\">土</span>水行】<br>");
-document.writeln("");
-document.writeln("");
-document.writeln("<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\">");
-document.writeln(" <b><font color=\"#0000FF\">242期【行数中特】开狗09</font></b><br>");
-document.writeln("必中:【土<span style=\"background-color: #FFFF00\">木</span>金行】<br>");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("250期必中三肖<font color=\"#FF0000\">【龙羊狗】防【蛇鸡】</font>开？00√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -228,7 +228,7 @@
                 wrapper.classList.toggle('collapsed');
                 arrow.style.transform = wrapper.classList.contains('collapsed') ? 'rotate(0deg)' : 'rotate(90deg)';
             ">
-                <span>📊 多维度特征统计</span>
+                <span>🧊 多维度特征统计</span>
                 <span class="toggle-arrow" id="toggleArrow1" style="transform: rotate(${isCollapsed ? '0deg' : '90deg'});">▶</span>
             </div>
             <div class="stat-table-wrapper ${isCollapsed ? 'collapsed' : ''}" id="intervalTableWrapper1">

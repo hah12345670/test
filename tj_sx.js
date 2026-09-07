@@ -1,48 +1,51 @@
 let currentSystemConfig = {
     "knownDataGroups": [
         [
-            4,
+            3,
             5
         ],
         [
             10,
             12,
-            15,
+            14,
             18
         ],
         [
-            21,
+            20,
             22,
-            24
+            24,
+            29
         ],
         [
             30,
-            31,
             32,
-            37
+            37,
+            38
         ],
         [
-            41,
             42,
-            46,
+            43,
             47,
-            48
+            49
         ],
         [
             50,
+            51,
             53,
-            55,
             56,
-            57
+            57,
+            58
         ],
         [
-            61,
-            65,
-            68
+            60,
+            62,
+            63,
+            66,
+            67,
+            69
         ],
         [
             71,
-            72,
             73,
             74,
             78
@@ -62,10 +65,11 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
+                        2,
                         3,
                         4
                     ],
-                    "threshold": 1.2
+                    "threshold": 1.24
                 },
                 {
                     "pattern": [
@@ -73,14 +77,14 @@ let currentSystemConfig = {
                         3,
                         4
                     ],
-                    "threshold": 1.42
+                    "threshold": 1.36
                 },
                 {
                     "pattern": [
                         3,
                         4
                     ],
-                    "threshold": 0.84
+                    "threshold": 1.08
                 }
             ]
         },
@@ -97,7 +101,7 @@ let currentSystemConfig = {
                         5,
                         6
                     ],
-                    "threshold": 1.2
+                    "threshold": 1.4
                 },
                 {
                     "pattern": [
@@ -119,10 +123,11 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
+                        2,
                         3,
                         4
                     ],
-                    "threshold": 0.8
+                    "threshold": 0.92
                 },
                 {
                     "pattern": [
@@ -130,7 +135,7 @@ let currentSystemConfig = {
                         4,
                         5
                     ],
-                    "threshold": 1.4
+                    "threshold": 1.48
                 },
                 {
                     "pattern": [
@@ -153,15 +158,14 @@ let currentSystemConfig = {
                         2,
                         3
                     ],
-                    "threshold": 0.56
+                    "threshold": 0.68
                 },
                 {
                     "pattern": [
                         6,
-                        7,
-                        8
+                        7
                     ],
-                    "threshold": 1.04
+                    "threshold": 1.12
                 }
             ]
         },
@@ -179,21 +183,21 @@ let currentSystemConfig = {
                         2,
                         3
                     ],
-                    "threshold": 0.62
+                    "threshold": 0.68
                 },
                 {
                     "pattern": [
                         2,
                         3
                     ],
-                    "threshold": 0.92
+                    "threshold": 0.8
                 },
                 {
                     "pattern": [
                         2,
                         3
                     ],
-                    "threshold": 0.9
+                    "threshold": 1.0
                 },
                 {
                     "pattern": [

@@ -206,7 +206,7 @@
             <style>
                 #myIntervalContainer { width: 100%; max-width: 1200px; margin: 10px auto 0 auto; box-sizing: border-box; height: auto !important; }
                 #myIntervalContainer .stat-header-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; font-weight: bold; color: #333; background-color: #f8f9fa; padding: 8px 12px; border-radius: 6px; cursor: pointer; user-select: none; border: 1px solid #e9ecef; }
-                #myIntervalContainer .stat-header-bar:hover { background-color: #f1f3f5; }
+                #myIntervalContainer .stat-header-bar:hover { background-color: #eef2f7; }
                 #myIntervalContainer .toggle-arrow { font-size: 12px; color: #666; transition: transform 0.3s ease; }
                 #myIntervalContainer .table-toolbar { display: flex; justify-content: flex-end; margin-bottom: 6px; }
                 #myIntervalContainer .reset-btn { font-size: 12px; padding: 3px 10px; background-color: #fff; border: 1px solid #ced4da; border-radius: 4px; cursor: pointer; color: #495057; transition: background-color 0.2s; }

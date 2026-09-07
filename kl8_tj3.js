@@ -49,7 +49,6 @@
             }
         }
 
-        // 记录重新渲染前的滚动条位置，防止刷新后视角跳动
         const tableContainerElem = container.querySelector('.stat-table-container');
         const scrollLeft = tableContainerElem ? tableContainerElem.scrollLeft : 0;
         const scrollTop = tableContainerElem ? tableContainerElem.scrollTop : 0;
@@ -166,23 +165,18 @@
         const tableRowsHTML = sortedNums.map((num, index) => {
             const data = stats[num];
             const cur = data.current;
-            const curText = `${cur}`;
             const curColor = cur === 0 ? 'color: #28a745; font-weight: bold;' : (cur <= 3 ? 'color: #d9534f; font-weight: bold;' : 'color: #333;');
-            
             const historyText = data.history.length > 0 ? data.history.join(', ') : '暂无更多历史';
-            
             const zVal = data.rawZ;
             const zScoreColor = zVal > 1.5 ? 'color: #d9534f; font-weight: bold;' : (zVal < -1.5 ? 'color: #28a745; font-weight: bold;' : 'color: #333;');
             const scoreColorStyle = data.scoreVal >= 82 ? 'color: #28a745; font-weight: bold;' : (data.scoreVal >= 68 ? 'color: #007bff; font-weight: bold;' : 'color: #333;');
-            
             const isSelected = selectedNums.has(num);
-            const rowClass = isSelected ? 'stat-row selected-row' : 'stat-row';
 
             return `
-                <tr class="${rowClass}" data-num="${num}" onclick="window.IntervalStatModule._rowClickHandler('${num}')">
+                <tr class="stat-row ${isSelected ? 'selected-row' : ''}" data-num="${num}" onclick="window.IntervalStatModule._rowClickHandler('${num}')">
                     <td style="padding: 6px 8px; text-align: center; color: #666; border-bottom: 1px solid #eee;">${index + 1}</td>
                     <td style="padding: 6px 8px; text-align: center; font-weight: bold; color: #007bff; border-bottom: 1px solid #eee;">${num}</td>
-                    <td style="padding: 6px 8px; text-align: center; ${curColor} border-bottom: 1px solid #eee;">${curText}</td>
+                    <td style="padding: 6px 8px; text-align: center; ${curColor} border-bottom: 1px solid #eee;">${cur}</td>
                     <td style="padding: 6px 8px; text-align: center; color: #333; border-bottom: 1px solid #eee;">${data.average}</td>
                     <td style="padding: 6px 8px; text-align: center; color: #666; border-bottom: 1px solid #eee;">${data.variance}</td>
                     <td style="padding: 6px 8px; text-align: center; color: ${data.stabilityColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.stabilityText}</td>
@@ -210,110 +204,29 @@
 
         container.innerHTML = `
             <style>
-                #myIntervalContainer {
-                    width: 100%;
-                    max-width: 1200px;
-                    margin: 10px auto 0 auto;
-                    box-sizing: border-box;
-                    height: auto !important;
-                }
-                #myIntervalContainer .stat-header-bar {
-                    display: flex;
-                    justify-content: space-between;
-                    align-items: center;
-                    margin-bottom: 8px;
-                    font-size: 14px;
-                    font-weight: bold;
-                    color: #333;
-                    background-color: #f8f9fa;
-                    padding: 8px 12px;
-                    border-radius: 6px;
-                    cursor: pointer;
-                    user-select: none;
-                    border: 1px solid #e9ecef;
-                }
-                #myIntervalContainer .stat-header-bar:hover {
-                    background-color: #f1f3f5;
-                }
-                #myIntervalContainer .toggle-arrow {
-                    font-size: 12px;
-                    color: #666;
-                    transition: transform 0.3s ease;
-                }
-                #myIntervalContainer .table-toolbar {
-                    display: flex;
-                    justify-content: flex-end;
-                    margin-bottom: 6px;
-                }
-                #myIntervalContainer .reset-btn {
-                    font-size: 12px;
-                    padding: 3px 10px;
-                    background-color: #fff;
-                    border: 1px solid #ced4da;
-                    border-radius: 4px;
-                    cursor: pointer;
-                    color: #495057;
-                    transition: background-color 0.2s;
-                }
-                #myIntervalContainer .reset-btn:hover {
-                    background-color: #e9ecef;
-                    color: #212529;
-                }
-                #myIntervalContainer .stat-table-wrapper {
-                    transition: max-height 0.3s ease;
-                    overflow: visible !important; 
-                    max-height: none !important;  
-                    height: auto !important;
-                }
-                #myIntervalContainer .stat-table-wrapper.collapsed {
-                    max-height: 0 !important;
-                    overflow: hidden !important;
-                }
-                #myIntervalContainer .stat-table-container {
-                    width: 100%;
-                    overflow-x: auto;
-                    overflow-y: visible;
-                    background-color: var(--card-bg, #fff);
-                    border-radius: 8px;
-                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-                    -webkit-overflow-scrolling: touch;
-                }
-                #myIntervalContainer .stat-table {
-                    width: 100%;
-                    min-width: 1060px;
-                    border-collapse: collapse;
-                    border-spacing: 0;
-                }
-                #myIntervalContainer .stat-table th, 
-                #myIntervalContainer .stat-table td {
-                    box-sizing: border-box;
-                }
-                #myIntervalContainer .sortable-th {
-                    cursor: pointer;
-                    user-select: none;
-                }
-                #myIntervalContainer .sortable-th:hover {
-                    background-color: #eceff1;
-                }
-                #myIntervalContainer .stat-row {
-                    cursor: pointer;
-                }
-                #myIntervalContainer .stat-row:hover {
-                    background-color: #f8f9fa;
-                }
-                #myIntervalContainer .stat-row.selected-row {
-                    background-color: #e2f0d9 !important;
-                }
+                #myIntervalContainer { width: 100%; max-width: 1200px; margin: 10px auto 0 auto; box-sizing: border-box; height: auto !important; }
+                #myIntervalContainer .stat-header-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; font-weight: bold; color: #333; background-color: #f8f9fa; padding: 8px 12px; border-radius: 6px; cursor: pointer; user-select: none; border: 1px solid #e9ecef; }
+                #myIntervalContainer .stat-header-bar:hover { background-color: #f1f3f5; }
+                #myIntervalContainer .toggle-arrow { font-size: 12px; color: #666; transition: transform 0.3s ease; }
+                #myIntervalContainer .table-toolbar { display: flex; justify-content: flex-end; margin-bottom: 6px; }
+                #myIntervalContainer .reset-btn { font-size: 12px; padding: 3px 10px; background-color: #fff; border: 1px solid #ced4da; border-radius: 4px; cursor: pointer; color: #495057; transition: background-color 0.2s; }
+                #myIntervalContainer .reset-btn:hover { background-color: #e9ecef; color: #212529; }
+                #myIntervalContainer .stat-table-wrapper { transition: max-height 0.3s ease; overflow: visible !important; max-height: none !important; height: auto !important; }
+                #myIntervalContainer .stat-table-wrapper.collapsed { max-height: 0 !important; overflow: hidden !important; }
+                #myIntervalContainer .stat-table-container { width: 100%; overflow-x: auto; overflow-y: visible; background-color: var(--card-bg, #fff); border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05); -webkit-overflow-scrolling: touch; }
+                #myIntervalContainer .stat-table { width: 100%; min-width: 1060px; border-collapse: collapse; border-spacing: 0; }
+                #myIntervalContainer .stat-table th, #myIntervalContainer .stat-table td { box-sizing: border-box; }
+                #myIntervalContainer .sortable-th { cursor: pointer; user-select: none; }
+                #myIntervalContainer .sortable-th:hover { background-color: #eceff1; }
+                #myIntervalContainer .stat-row { cursor: pointer; }
+                #myIntervalContainer .stat-row:hover { background-color: #f8f9fa; }
+                #myIntervalContainer .stat-row.selected-row { background-color: #e2f0d9 !important; }
             </style>
             <div class="stat-header-bar" onclick="
                 const wrapper = document.getElementById('intervalTableWrapper');
                 const arrow = document.getElementById('toggleArrow');
                 wrapper.classList.toggle('collapsed');
-                if (wrapper.classList.contains('collapsed')) {
-                    arrow.style.transform = 'rotate(0deg)';
-                } else {
-                    arrow.style.transform = 'rotate(90deg)';
-                }
+                arrow.style.transform = wrapper.classList.contains('collapsed') ? 'rotate(0deg)' : 'rotate(90deg)';
             ">
                 <span>📊 全号 (01-80) 统计</span>
                 <span class="toggle-arrow" id="toggleArrow" style="transform: rotate(${isCurrentlyCollapsed ? '0deg' : '90deg'});">▶</span>
@@ -328,31 +241,13 @@
                             <tr style="background-color: #f8f9fa;">
                                 <th style="width: 4%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">序号</th>
                                 <th style="width: 5%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;">数字</th>
-                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('current');">
-                                    当前间隔 ${getArrow('current')}
-                                </th>
-                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('averageVal');">
-                                    平均间隔 ${getArrow('averageVal')}
-                                </th>
-                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('varianceVal');">
-                                    样本方差 ${getArrow('varianceVal')}
-                                </th>
-                                <th class="sortable-th" style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('stabilityVal');">
-                                    稳定性 ${getArrow('stabilityVal')}
-                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div>
-                                </th>
-                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('zScoreVal');">
-                                    偏移(Z) ${getArrow('zScoreVal')}
-                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&gt;2极冷|&gt;1偏冷)<br>(正常|-0.8~-1.5偏热|&lt;-1.5极热)</div>
-                                </th>
-                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('cvsVal');">
-                                    综合动量(CVS) ${getArrow('cvsVal')}
-                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.4持续活跃)<br>(&gt;1.8爆发临界)</div>
-                                </th>
-                                <th class="sortable-th" style="width: 13%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('scoreVal');">
-                                    综合评分(CS) ${getArrow('scoreVal')}
-                                    <div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(均值/Z/稳定性)</div>
-                                </th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('current');">当前间隔 ${getArrow('current')}</th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('averageVal');">平均间隔 ${getArrow('averageVal')}</th>
+                                <th class="sortable-th" style="width: 8%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('varianceVal');">样本方差 ${getArrow('varianceVal')}</th>
+                                <th class="sortable-th" style="width: 11%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('stabilityVal');">稳定性 ${getArrow('stabilityVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.8稳定|&gt;1.5剧烈)</div></th>
+                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('zScoreVal');">偏移(Z) ${getArrow('zScoreVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&gt;2极冷|&gt;1偏冷)<br>(正常|-0.8~-1.5偏热|&lt;-1.5极热)</div></th>
+                                <th class="sortable-th" style="width: 15%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('cvsVal');">综合动量(CVS) ${getArrow('cvsVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(&lt;0.4持续活跃)<br>(&gt;1.8爆发临界)</div></th>
+                                <th class="sortable-th" style="width: 13%; padding: 8px 4px; text-align: center; border-bottom: 2px solid #dee2e6;" onclick="event.stopPropagation(); window.IntervalStatModule._sortClickHandler('scoreVal');">综合评分(CS) ${getArrow('scoreVal')}<div style="font-size: 9px; font-weight: normal; color: #666; margin-top: 2px; line-height: 1.2;">(均值/Z/稳定性)</div></th>
                                 <th style="width: 17%; padding: 8px 4px; text-align: left; border-bottom: 2px solid #dee2e6;">历史间隔</th>
                             </tr>
                         </thead>
@@ -364,7 +259,6 @@
             </div>
         `;
 
-        // 渲染完成后，精准恢复原本的滚动条位置，彻底解决点击排序后视角被弹开的问题
         const newTableContainerElem = container.querySelector('.stat-table-container');
         if (newTableContainerElem) {
             newTableContainerElem.scrollLeft = scrollLeft;
@@ -374,17 +268,28 @@
         return true;
     }
 
-    let retryCount = 0;
-    const maxRetries = 50;
-    const timer = setInterval(() => {
-        if (renderIntervalModule() || retryCount >= maxRetries) {
-            clearInterval(timer);
-            if (retryCount >= maxRetries) {
-                console.warn("数据加载超时：未检测到有效的 rawDataArray 数据源。");
+    // 优化：结合 DOMContentLoaded 事件与限次安全的轮询检测机制
+    function initModule() {
+        if (renderIntervalModule()) return;
+        
+        let retryCount = 0;
+        const maxRetries = 50;
+        const timer = setInterval(() => {
+            if (renderIntervalModule() || retryCount >= maxRetries) {
+                clearInterval(timer);
+                if (retryCount >= maxRetries) {
+                    console.warn("数据加载超时：未检测到有效的 rawDataArray 数据源。");
+                }
             }
-        }
-        retryCount++;
-    }, 300);
+            retryCount++;
+        }, 300);
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initModule);
+    } else {
+        initModule();
+    }
 
     global.IntervalStatModule = {
         render: function(externalData) {

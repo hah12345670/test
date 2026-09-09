@@ -363,32 +363,25 @@ function renderHistoryContainer() {
     let filteredHistory = savedCoreNumbersHistory.filter(isItemMatchingTiers);
 
     filteredHistory.sort((a, b) => {
-        let hasVariance = selectedSorts.includes('varianceAsc');
-        let hasIter = selectedSorts.includes('iterDesc');
-        let hasFreq = selectedSorts.includes('freqDesc');
+        if (selectedSorts.length === 0) return 0;
 
-        let freqA = a.frequency || 1;
-        let freqB = b.frequency || 1;
+        for (let i = 0; i < selectedSorts.length; i++) {
+            let sortKey = selectedSorts[i];
+            let result = 0;
 
-        if (hasVariance && hasIter && hasFreq) {
-            if (a.variance !== b.variance) return a.variance - b.variance;                 // 1. 微观方差升序
-            if (a.iterations !== b.iterations) return b.iterations - a.iterations;         // 2. 迭代次数降序
-            return freqB - freqA;                                                          // 3. 出现频率降序
-        } else if (hasVariance && hasFreq) {
-            if (a.variance !== b.variance) return a.variance - b.variance;
-            return freqB - freqA;
-        } else if (hasIter && hasFreq) {
-            if (freqA !== freqB) return freqB - freqA;
-            return b.iterations - a.iterations;
-        } else if (hasVariance && hasIter) {
-            if (a.variance !== b.variance) return a.variance - b.variance;
-            return b.iterations - a.iterations;
-        } else if (hasVariance) {
-            return a.variance - b.variance;
-        } else if (hasIter) {
-            return b.iterations - a.iterations;
-        } else if (hasFreq) {
-            return freqB - freqA;
+            if (sortKey === 'varianceAsc') {
+                result = a.variance - b.variance;
+            } else if (sortKey === 'iterDesc') {
+                result = b.iterations - a.iterations;
+            } else if (sortKey === 'freqDesc') {
+                let freqA = a.frequency || 1;
+                let freqB = b.frequency || 1;
+                result = freqB - freqA;
+            }
+
+            if (result !== 0) {
+                return result;
+            }
         }
         return 0;
     });
@@ -408,7 +401,6 @@ function renderHistoryContainer() {
         `;
     }
 
-    // 排序按钮顺序调整为：方差 -> 迭代 -> 频率（与新的优先级顺序视觉对齐）
     let sortOptions = [
         { key: 'varianceAsc', label: '微观方差 ↑' },
         { key: 'iterDesc', label: '迭代次数 ↓' },
@@ -702,7 +694,6 @@ function generateByCheckedConfigs() {
 
     let formattedPicked = validAvailableNums.map(n => pad(n)).sort().join(', ');
     
-    // --- 去重逻辑及频率更新 ---
     let existingItem = savedCoreNumbersHistory.find(item => item.formatted === formattedPicked);
 
     let varianceMatch = stats.desc.match(/微观方差:\s*<strong>([\d.]+)<\/strong>/);

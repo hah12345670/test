@@ -76,7 +76,11 @@ document.writeln("251期必中三肖<font color=\"#FF0000\">【狗鸡猪】防�
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");
-document.writeln("252期必中三肖<font color=\"#FF0000\">【62827.com首页查看】</font>开？00√</font><BR><BR>");
+document.writeln("252期必中三肖<font color=\"#FF0000\">【牛猴鼠】防【蛇兔】</font>开鸡22×</font><BR><BR>");
+document.writeln("");
+document.writeln("");
+document.writeln("<font style=\"font-size: 14pt\">");
+document.writeln("253期必中三肖<font color=\"#FF0000\">【62827.com首页查看】</font>开？00√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

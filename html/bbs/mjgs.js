@@ -29,7 +29,9 @@ document.writeln("");
 
 document.writeln("252期单双【单数+牛<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("253期单双【双数+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("253期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("254期单双【单数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+
 
 document.writeln("");
 document.writeln("");
@@ -64,7 +66,8 @@ document.writeln("249期家野【<span style=\'background-color: #FFFF00\'>野�
 document.writeln("250期家野【家禽+龙猴】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("251期家野【野兽+羊<span style=\'background-color: #FFFF00\'>牛</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("252期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("253期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("253期家野【家禽+龙虎】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("254期家野【家禽+猴兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -87,7 +90,8 @@ document.writeln("249期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("250期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("251期天地【地肖+龙猴】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("252期天地【天肖+蛇狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("253期天地【天肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("253期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("254期天地【地肖+马猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -109,7 +113,8 @@ document.writeln("");
 
 document.writeln("251期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("252期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("253期前后【后肖+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("253期前后【后肖+<span style=\'background-color: #FFFF00\'>兔</span>鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("254期前后【后肖+鼠虎】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -128,7 +133,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://dy82rec.ww-62827a.com/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://uu62-d.wwww-62827a.com/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

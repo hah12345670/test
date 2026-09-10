@@ -28,6 +28,26 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">254期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.28.40.07.31.43.08.20.44.02.14.26.06.18.30.21.33.45</font></li>");
+document.writeln("            	<li>254期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">04.28.40.07.31.43.08.20.44</font></li>");
+document.writeln("            	<li>254期必中①肖：<font color=\'#FF0000\' size=\'5\'>（兔-04.28.40）</font></li>");
+document.writeln("            	<li>254期必中③肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪</font></li>");
+document.writeln("            	<li>254期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪蛇牛狗</font></li>");
+document.writeln("            	<li>254期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>兔鼠猪蛇牛狗虎猴</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -36,12 +56,12 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">253期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.27.39.01.25.37.04.16.40.02.14.26.06.30.42.07.31.43</font></li>");
-document.writeln("            	<li>253期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">15.27.39.01.25.37.04.16.40</font></li>");
+document.writeln(" 	            <li><font size=\"2\">253期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.27.39.01.25.37.04.<span style=\'background-color: #FFFF00\'>16</span>.40.02.14.26.06.30.42.07.31.43</font></li>");
+document.writeln("            	<li>253期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">15.27.39.01.25.37.04.<span style=\'background-color: #FFFF00\'>16</span>.40</font></li>");
 document.writeln("            	<li>253期必中①肖：<font color=\'#FF0000\' size=\'5\'>（龙-15.27.39）</font></li>");
-document.writeln("            	<li>253期必中③肖：<font color=\'#FF0000\' size=\'4\'>龙马兔</font></li>");
-document.writeln("            	<li>253期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>龙马兔蛇牛鼠</font></li>");
-document.writeln("            	<li>253期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>龙马兔蛇牛鼠鸡羊</font></li>");
+document.writeln("            	<li>253期必中③肖：<font color=\'#FF0000\' size=\'4\'>龙马<span style=\'background-color: #FFFF00\'>兔</span></font></li>");
+document.writeln("            	<li>253期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>龙马<span style=\'background-color: #FFFF00\'>兔</span>蛇牛鼠</font></li>");
+document.writeln("            	<li>253期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>龙马<span style=\'background-color: #FFFF00\'>兔</span>蛇牛鼠鸡羊</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

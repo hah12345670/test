@@ -1,7 +1,6 @@
 ﻿document.writeln("");
 
 
-
 document.writeln("<!--开始-->");
 document.writeln("<table border=\'1\' width=\'100%\'>");
 document.writeln("    <tbody>");
@@ -9,7 +8,7 @@ document.writeln("    </tbody>");
 document.writeln("    <tbody>");
 document.writeln("    <tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' bgcolor=\'#0000ff\' width=\'98%\' height=\'35\'>");
-document.writeln("		<span style=\'color: #FFFFFF; font-weight:700\'><font size=\'4\'>253期澳门码神一肖一码大公开</font></span></td>");
+document.writeln("		<span style=\'color: #FFFFFF; font-weight:700\'><font size=\'4\'>254期澳门码神一肖一码大公开</font></span></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -17,7 +16,7 @@ document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\'color:#00f; font-weight:700\'>特码</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
 document.writeln("		<b>");
 document.writeln("		<font color=\"#FF0000\" style=\"font-size: 11pt\">");
-document.writeln("		08.20.32.13.25.49.03.15.27.11.23.47.09.21.45</font></b></td>");
+document.writeln("		08.20.32.10.34.46.06.18.30.01.37.49.03.15.39</font></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
@@ -27,30 +26,31 @@ document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">三肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪马龙</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪鸡牛</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">五肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪马龙猴狗</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪鸡牛马龙</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">七肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪马龙猴狗牛羊</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪鸡牛马龙猴虎</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td align=\'center\' width=\'17%\' height=\'35\'>");
 document.writeln("		<span style=\"font-size: 12pt; color: #00f; font-weight: 700\">九肖</span></td><td style=\'text-align:left\' align=\'center\' width=\'65%\' height=\'35\'>");
-document.writeln("		<b><span style=\"font-size: 12pt\">猪马龙猴狗牛羊虎鼠</span></b></td>");
+document.writeln("		<b><span style=\"font-size: 12pt\">猪鸡牛马龙猴虎兔羊</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("	<tr>");
 document.writeln("        <td colspan=\'2\' align=\'center\' width=\'82%\' height=\'35\'><b>");
-document.writeln("		<span style=\"font-size: 12pt; color: #00f\">253期</span><span style=\'color:red; font-size:12pt\'>一肖一码</span><span style=\"font-size: 12pt; color: #000\">中奖</span></b></td>");
+document.writeln("		<span style=\"font-size: 12pt; color: #00f\">254期</span><span style=\'color:red; font-size:12pt\'>一肖一码</span><span style=\"font-size: 12pt; color: #000\">中奖</span></b></td>");
 document.writeln("    </tr>");
 document.writeln("    </tbody> ");
 document.writeln("</table>");
 document.writeln("<!--结束-->");
+
 
 document.writeln("<!--开始-->");
 document.writeln("<table border=\'1\' width=\'100%\'>");

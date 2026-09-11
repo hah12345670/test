@@ -51,7 +51,8 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 document.writeln("");
-document.writeln("254期【单数+猪羊】开？00准<br>");
+document.writeln("255期【62827.com高手榜查看】开？00准<br>");
+document.writeln("254期【单数+猪羊】开蛇02错<br>");
 document.writeln("253期【<span style=\"background-color: #FFFF00\">双数</span>+马龙】开兔16准<br>");
 document.writeln("252期【<span style=\"background-color: #FFFF00\">双数</span>+猴鼠】开鸡22准<br>");
 document.writeln("251期【<span style=\"background-color: #FFFF00\">双数</span>+龙马】开牛30准<br>");

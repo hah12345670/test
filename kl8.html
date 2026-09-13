@@ -1,30 +1,133 @@
-<!DOCTYPE html><title>快乐8 基础 模型</title><style></style><script src="arr_kl8.js"></script>
-		<hr><div id="showdata"></div>
-		<script>
-		show_arr(arr_kl8);
-		function show_arr(arr1){
-			let str = '';
-			for (var i = 0; i < arr1.length; i++) {
-				str += '<pre>' + arr1[i] + '</pre>';
-			}
-			document.getElementById("showdata").innerHTML = str;
-		}
-		</script>
-		
-		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		<div style="font-weight: bolder;font-size: 0px;">
-			<span id="busuanzi_container_site_uv"><span id="busuanzi_value_site_uv"></span></span>, 
-			<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>, 
-			<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span></span>
-		</div>
-		<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0"/> -->
-		
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-17W024N6QS"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'G-17W024N6QS');
-		</script>
-		
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>快乐8 基础 模型</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --success: #16a34a;
+            --bg: #f8fafc;
+            --card: #fff;
+            --text: #334155;
+            --border: #e2e8f0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 12px;
+            line-height: 1.5;
+        }
+        #wakeLockBtn {
+            width: 100%;
+            padding: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #fff;
+            background: var(--primary);
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+            transition: background 0.2s;
+        }
+        #wakeLockBtn.active { background: var(--success); }
+        hr { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+        #showdata { display: flex; flex-direction: column; gap: 8px; }
+        .data-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px;
+            margin: 0;
+            white-space: pre-wrap;
+            word-break: break-all;
+            font-family: inherit;
+            font-size: 0.9rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        .hit-num {
+            background: #fee2e2;
+            color: #dc2626;
+            font-weight: bold;
+            padding: 0 4px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <button id="wakeLockBtn" onclick="toggleWakeLock()">开启屏幕常亮</button>
+    <hr>
+    <div id="showdata"></div><script src="arr_kl8.js"></script>
+    <script>
+        const escapeHTML = str => str.replace(/[&<>'"]/g, t => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[t]));
+
+        function renderData(arr) {
+            if (!Array.isArray(arr)) return;
+            const container = document.getElementById("showdata");
+            const fragment = document.createDocumentFragment();
+
+            arr.forEach((line, i) => {
+                const pre = document.createElement('pre');
+                pre.className = 'data-card';
+
+                if (line?.includes('推荐') && arr[i + 1]) {
+                    const drawSet = new Set((arr[i + 1].match(/\d+/g) || []).map(n => parseInt(n, 10)));
+                    const processed = line.replace(/(\d+)/g, (m, n) => drawSet.has(parseInt(n, 10)) ? `___H_${n}_H___` : m);
+                    pre.innerHTML = escapeHTML(processed).replace(/___H_(\d+)_H___/g, '<span class="hit-num">$1</span>');
+                } else {
+                    pre.textContent = line || '';
+                }
+                fragment.appendChild(pre);
+            });
+
+            container.innerHTML = '';
+            container.appendChild(fragment);
+        }
+
+        if (typeof arr_kl8 !== 'undefined') {
+            renderData(arr_kl8);
+        } else {
+            document.getElementById("showdata").innerHTML = '<div class="data-card">未检测到数据源 arr_kl8.js</div>';
+        }
+
+        let wakeLock = null;
+
+        async function toggleWakeLock() {
+            const btn = document.getElementById("wakeLockBtn");
+            if (wakeLock) {
+                try { await wakeLock.release(); } finally { wakeLock = null; }
+                return;
+            }
+
+            try {
+                if (!('wakeLock' in navigator)) return alert("当前浏览器不支持屏幕常亮功能");
+                wakeLock = await navigator.wakeLock.request('screen');
+                btn.innerText = "屏幕常亮已生效 (点击关闭)";
+                btn.classList.add("active");
+                
+                wakeLock.addEventListener('release', () => {
+                    wakeLock = null;
+                    btn.innerText = "开启屏幕常亮";
+                    btn.classList.remove("active");
+                }, { once: true });
+            } catch (err) {
+                wakeLock = null;
+                btn.innerText = "开启屏幕常亮";
+                btn.classList.remove("active");
+            }
+        }
+
+        document.addEventListener('visibilitychange', async () => {
+            if (wakeLock && document.visibilityState === 'visible') {
+                try { wakeLock = await navigator.wakeLock.request('screen'); } catch (e) {}
+            }
+        });
+    </script>
+    <script src="tracker.js"></script>
+</body>
+</html>

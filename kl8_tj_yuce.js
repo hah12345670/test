@@ -306,22 +306,43 @@
 
       let totalMatchedNums = [];
       let groupResultsHTML = '';
+      let allGroups1to9Matched = []; // 用于收集第 1-9 组匹配的号码
 
       groups.forEach((groupNums, idx) => {
           const matchedInGroup = groupNums.filter(num => isMatchedBySelected(num, checkedIndicators));
           totalMatchedNums.push(...matchedInGroup);
 
+          // 收集第 1 到第 9 组（idx 从 0 到 8）的匹配号码
+          if (idx <= 8) {
+              allGroups1to9Matched.push(...matchedInGroup);
+          }
+
           const displayStr = matchedInGroup.length > 0 
               ? `[ ${matchedInGroup.join(', ')} ]` 
               : `<span style="color: #aaa;">[ ]</span>`;
 
-          groupResultsHTML += `
-              <div style="padding: 6px 0; border-bottom: 1px dashed #e5e5e5; font-size: 12px; display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 4px; box-sizing: border-box;">
-                  <div style="display: flex; align-items: flex-start; flex: 1; min-width: 140px; word-break: break-all;">
-                      <span style="color: #666; font-weight: bold; width: 48px; flex-shrink: 0;">第 ${idx + 1} 组:</span>
-                      <span style="color: #1a0dab; font-weight: bold; font-family: monospace; word-break: break-all;">${displayStr}</span>
+          let integrationRowHTML = '';
+          // 当处理到第 9 组 (idx === 8) 时，生成独立换行展示区块
+          if (idx === 8) {
+              const unique1to9 = Array.from(new Set(allGroups1to9Matched));
+              integrationRowHTML = `
+                  <div style="width: 100%; margin-top: 4px; padding-top: 4px; border-top: 1px dotted #ccc; font-size: 11px; color: #007bff; font-family: monospace; display: flex; justify-content: space-between; align-items: center;">
+                      <span><strong>第 1-9 组：</strong>${unique1to9.length > 0 ? unique1to9.join(', ') : '无'}</span>
+                      <span style="color: #d9534f; font-weight: bold; flex-shrink: 0; margin-left: 8px;">(共 ${unique1to9.length} 个)</span>
                   </div>
-                  <span style="color: #d9534f; font-size: 11px; white-space: nowrap; flex-shrink: 0; margin-left: auto;">符合 ${matchedInGroup.length} 个</span>
+              `;
+          }
+
+          groupResultsHTML += `
+              <div style="padding: 6px 0; border-bottom: 1px dashed #e5e5e5; font-size: 12px; display: flex; flex-direction: column; box-sizing: border-box;">
+                  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 4px; width: 100%;">
+                      <div style="display: flex; align-items: flex-start; flex: 1; min-width: 140px; word-break: break-all;">
+                          <span style="color: #666; font-weight: bold; width: 48px; flex-shrink: 0;">第 ${idx + 1} 组:</span>
+                          <span style="color: #1a0dab; font-weight: bold; font-family: monospace; word-break: break-all;">${displayStr}</span>
+                      </div>
+                      <span style="color: #d9534f; font-size: 11px; white-space: nowrap; flex-shrink: 0; margin-left: auto;">符合 ${matchedInGroup.length} 个</span>
+                  </div>
+                  ${integrationRowHTML}
               </div>
           `;
       });

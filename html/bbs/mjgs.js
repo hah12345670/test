@@ -27,11 +27,7 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
-document.writeln("252期单双【单数+牛<span style=\'background-color: #FFFF00\'>鸡</span>】<font color=\"#FF0000\">√</font><br>	");
-
-document.writeln("253期单双【<span style=\'background-color: #FFFF00\'>双数</span>+鼠龙】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("254期单双【单数+羊鸡】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("255期单双【单数+羊鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期单双【单数+牛猪】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -59,7 +55,8 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("255期家野【野兽+鸡猪】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("255期家野【野兽+鸡<span style=\'background-color: #FFFF00\'>猪</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期家野【野兽+鸡狗】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -80,7 +77,8 @@ document.writeln("	<span style=\'font-size: 13pt\'>");
 
 document.writeln("253期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("254期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+马猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("255期天地【天肖+羊虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("255期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+羊虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("256期天地【天肖+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -104,7 +102,8 @@ document.writeln("251期前后【<span style=\'background-color: #FFFF00\'>前�
 document.writeln("252期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("253期前后【后肖+<span style=\'background-color: #FFFF00\'>兔</span>鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("254期前后【后肖+鼠虎】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("255期前后【前肖+羊猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("255期前后【前肖+羊猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("256期前后【后肖+鼠兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -123,7 +122,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://uu62-d.wwww-62827a.com/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://8-d3y.wwwww-62827a.com/#62827\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62827b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

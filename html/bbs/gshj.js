@@ -17,7 +17,7 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("255期王者六肖【马狗龙猴鸡鼠】√<br>");
+document.writeln("256期王者六肖【狗猴羊鸡龙马】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -91,8 +91,8 @@ document.writeln("251期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("252期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛猪狗羊】开鸡22√<br>");
 document.writeln("253期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴<span style=\'background-color: #FFFF00\'>兔</span>蛇】开兔16√<br>");
 document.writeln("254期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙<span style=\'background-color: #FFFF00\'>蛇</span>虎猴】开蛇02√<br>");
-document.writeln("255期【野兽：龙猴虎兔】开？00√<br>");
-
+document.writeln("255期【野兽：龙猴虎兔】开猪44×<br>");
+document.writeln("256期【野兽：龙虎猴兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -118,17 +118,12 @@ document.writeln("		<font color=\'#FF0000\' face=\'微软雅黑\' style=\"font-s
 document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
-document.writeln("246期【鸡鼠猪狗蛇猴龙羊<span style=\'background-color: #FFFF00\'>牛</span>】开牛30√<br>");
-document.writeln("247期【龙虎狗<span style=\'background-color: #FFFF00\'>兔</span>猪猴马羊鸡】开兔40√<br>");
-document.writeln("248期【龙马蛇鸡狗猴鼠<span style=\'background-color: #FFFF00\'>猪</span>牛】开猪20√<br>");
-document.writeln("249期【鸡蛇虎兔马羊猪龙狗】开猴23×<br>");
-document.writeln("250期【虎猴马牛猪兔龙狗羊】开蛇14×<br>");
 document.writeln("251期【龙兔蛇羊猪马鼠虎<span style=\'background-color: #FFFF00\'>牛</span>】开牛30√<br>");
 document.writeln("252期【<span style=\'background-color: #FFFF00\'>鸡</span>虎兔龙马猪鼠羊猴】开鸡22√<br>");
 document.writeln("253期【狗牛龙鼠蛇马<span style=\'background-color: #FFFF00\'>兔</span>羊虎】开兔16√<br>");
 document.writeln("254期【狗羊猪龙猴牛<span style=\'background-color: #FFFF00\'>蛇</span>虎马】开蛇02√<br>");
-document.writeln("255期【牛兔羊龙鼠虎猪蛇猴】开？00√<br>");
-
+document.writeln("255期【牛兔羊龙鼠虎<span style=\'background-color: #FFFF00\'>猪</span>蛇猴】开猪44√<br>");
+document.writeln("256期【羊马鼠龙兔虎蛇猴鸡】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

@@ -12,6 +12,23 @@
         return { avg, variance, stdDev, cv };
     }
 
+    function calculatePearson(x, y) {
+        const n = x.length;
+        if (n === 0) return 0;
+        const meanX = x.reduce((a, b) => a + b, 0) / n;
+        const meanY = y.reduce((a, b) => a + b, 0) / n;
+        let numerator = 0, denomX = 0, denomY = 0;
+        for (let i = 0; i < n; i++) {
+            const diffX = x[i] - meanX;
+            const diffY = y[i] - meanY;
+            numerator += diffX * diffY;
+            denomX += diffX * diffX;
+            denomY += diffY * diffY;
+        }
+        const denom = Math.sqrt(denomX * denomY);
+        return denom === 0 ? 0 : numerator / denom;
+    }
+
     function getZState(zScore) {
         if (zScore > 2.0) return '偏多';
         if (zScore > 1.0) return '略多';
@@ -59,13 +76,15 @@
     let sortQueue1 = [];
     let selectedCategories1 = new Set(); 
     let styleInjected = false;
+    let globalCorrelationMatrix = {}; 
+    let globalCategoryCounts = {};   
 
     function injectStyles() {
         if (styleInjected || document.getElementById('myIntervalStyle1')) return;
         const style = document.createElement('style');
         style.id = 'myIntervalStyle1';
         style.textContent = `
-            #myIntervalContainer1 { width: 100%; max-width: 1200px; margin: 15px auto 0; box-sizing: border-box; height: auto !important; }
+            #myIntervalContainer1 { width: 100%; max-width: 1350px; margin: 15px auto 0; box-sizing: border-box; height: auto !important; }
             #myIntervalContainer1 .stat-header-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; font-weight: bold; color: #333; background-color: #f8f9fa; padding: 8px 12px; border-radius: 6px; cursor: pointer; user-select: none; border: 1px solid #e9dbe7; }
             #myIntervalContainer1 .stat-header-bar:hover { background-color: #eef2f7; }
             #myIntervalContainer1 .toggle-arrow { font-size: 12px; color: #666; transition: transform 0.3s ease; }
@@ -74,7 +93,7 @@
             #myIntervalContainer1 .stat-table-wrapper { transition: max-height 0.3s ease; overflow: visible !important; max-height: none !important; height: auto !important; }
             #myIntervalContainer1 .stat-table-wrapper.collapsed { max-height: 0 !important; overflow: hidden !important; }
             #myIntervalContainer1 .stat-table-container { width: 100%; overflow-x: auto; overflow-y: visible; background-color: var(--card-bg, #fff); border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-            #myIntervalContainer1 .stat-table { width: 100%; min-width: 980px; border-collapse: collapse; }
+            #myIntervalContainer1 .stat-table { width: 100%; min-width: 1180px; border-collapse: collapse; }
             #myIntervalContainer1 .sortable-th { cursor: pointer; user-select: none; }
             #myIntervalContainer1 .sortable-th:hover { background-color: #eceff1; }
             #myIntervalContainer1 .stat-row { cursor: pointer; }
@@ -87,10 +106,7 @@
 
     function renderIntervalModule1(externalData) {
         const dataSource = externalData || (typeof rawDataArray !== 'undefined' ? rawDataArray : null);
-        
-        if (!dataSource || !Array.isArray(dataSource) || dataSource.length === 0) {
-            return false; 
-        }
+        if (!dataSource || !Array.isArray(dataSource) || dataSource.length === 0) return false; 
 
         injectStyles();
 
@@ -111,7 +127,6 @@
         const scrollTop = tableContainerElem ? tableContainerElem.scrollTop : 0;
         const totalRows = dataSource.length;
 
-        // 预处理缓存：提前计算每行的交集数据，避免在分类循环中重复进行昂贵的 Set 操作
         const rowIntersections = new Array(totalRows);
         for (let i = 0; i < totalRows; i++) {
             const row = dataSource[i];
@@ -124,11 +139,15 @@
         }
 
         const rawCategoryData = {};
+        globalCategoryCounts = {}; 
+
         categoryDefinitions.forEach(cat => {
             const countsArr = new Array(totalRows);
             for (let i = 0; i < totalRows; i++) {
                 countsArr[i] = rowIntersections[i].filter(n => cat.check(n)).length;
             }
+
+            globalCategoryCounts[cat.id] = countsArr; 
 
             const historyCounts = [...countsArr].reverse();
             const { avg, variance, stdDev, cv } = calculateStats(countsArr);
@@ -144,6 +163,17 @@
                 cvsHistory: countsArr.map(cnt => avg > 0 ? (cnt / avg) * cv : 0)
             };
         });
+
+        globalCorrelationMatrix = {};
+        const catIds = categoryDefinitions.map(c => c.id);
+        for (let i = 0; i < catIds.length; i++) {
+            globalCorrelationMatrix[catIds[i]] = {};
+            for (let j = 0; j < catIds.length; j++) {
+                const id1 = catIds[i];
+                const id2 = catIds[j];
+                globalCorrelationMatrix[id1][id2] = calculatePearson(globalCategoryCounts[id1], globalCategoryCounts[id2]);
+            }
+        }
 
         const stats = {};
         categoryDefinitions.forEach(cat => {
@@ -166,6 +196,39 @@
 
             let scoreState = compositeScore >= 85 ? '极佳' : (compositeScore >= 72 ? '优质' : (compositeScore >= 60 ? '活跃' : '观望'));
 
+            // 关联特征计算列表
+            const corrMap = globalCorrelationMatrix[cat.id] || {};
+            const correlationsList = [];
+            for (let otherId in corrMap) {
+                if (otherId !== cat.id) {
+                    const corrVal = corrMap[otherId];
+                    if (!isNaN(corrVal)) {
+                        const foundOther = categoryDefinitions.find(c => c.id === otherId);
+                        correlationsList.push({
+                            name: foundOther ? foundOther.name : otherId,
+                            val: corrVal,
+                            absVal: Math.abs(corrVal)
+                        });
+                    }
+                }
+            }
+
+            // 前3关联（绝对值从大到小）
+            const correlationsDesc = [...correlationsList].sort((a, b) => b.absVal - a.absVal);
+            const top3 = correlationsDesc.slice(0, 3);
+            const topCorrFormatted = top3.length > 0 
+                ? top3.map(item => `${item.name}(${item.val > 0 ? '+' : ''}${item.val.toFixed(2)})`).join('<br>') 
+                : '暂无';
+            const maxCorrValNum = top3.length > 0 ? top3[0].absVal : 0;
+
+            // 最不关联前3（绝对值从小到大）
+            const correlationsAsc = [...correlationsList].sort((a, b) => a.absVal - b.absVal);
+            const bottom3 = correlationsAsc.slice(0, 3);
+            const bottomCorrFormatted = bottom3.length > 0 
+                ? bottom3.map(item => `${item.name}(${item.val > 0 ? '+' : ''}${item.val.toFixed(2)})`).join('<br>') 
+                : '暂无';
+            const minCorrValNum = bottom3.length > 0 ? bottom3[0].absVal : 0;
+
             stats[cat.id] = {
                 id: cat.id, name: cat.name,
                 averageVal: item.avg, average: item.avg.toFixed(1),
@@ -174,7 +237,9 @@
                 zScoreVal: item.zScore, zScoreFormatted: `${item.zScore > 0 ? '+' : ''}${item.zScore.toFixed(2)} (${item.zState})`,
                 cvsVal: item.currentCvs, cvsFormatted: `${item.currentCvs.toFixed(2)} (${cvsState})`, cvsColor: cvsColor,
                 scoreFormatted: `${compositeScore.toFixed(1)}分 (${scoreState})`, scoreVal: compositeScore, 
-                rawZ: item.zScore, history: item.historyCounts
+                rawZ: item.zScore, history: item.historyCounts,
+                maxCorrVal: maxCorrValNum, topCorrFormatted: topCorrFormatted,
+                minCorrVal: minCorrValNum, bottomCorrFormatted: bottomCorrFormatted
             };
         });
 
@@ -205,6 +270,8 @@
                     <td style="padding: 6px 8px; text-align: center; color: ${zColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.zScoreFormatted}</td>
                     <td style="padding: 6px 8px; text-align: center; color: ${data.cvsColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.cvsFormatted}</td>
                     <td style="padding: 6px 8px; text-align: center; color: ${sColor}; font-weight: bold; border-bottom: 1px solid #eee;">${data.scoreFormatted}</td>
+                    <td style="padding: 6px 8px; text-align: center; color: #555; font-size: 11px; border-bottom: 1px solid #eee; line-height: 1.4;">${data.topCorrFormatted}</td>
+                    <td style="padding: 6px 8px; text-align: center; color: #555; font-size: 11px; border-bottom: 1px solid #eee; line-height: 1.4;">${data.bottomCorrFormatted}</td>
                     <td style="padding: 6px 8px; text-align: left; color: #555; font-size: 11px; border-bottom: 1px solid #eee; word-break: break-all; white-space: normal;" title="${data.history.join(', ')}">${data.history.length > 0 ? data.history.join(', ') : '暂无历史'}</td>
                 </tr>
             `;
@@ -239,23 +306,29 @@
                     <table class="stat-table">
                         <thead>
                             <tr style="background-color: #f8f9fa;">
-                                <th style="width: 5%; text-align: center;">序号</th>
+                                <th style="width: 4%; text-align: center;">序号</th>
                                 <th style="width: 8%; text-align: left; padding-left: 12px;">特征维度</th>
-                                <th class="sortable-th" style="width: 8%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('averageVal');">平均个数 ${getArrow('averageVal')}</th>
-                                <th class="sortable-th" style="width: 8%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('varianceVal');">样本方差 ${getArrow('varianceVal')}</th>
-                                <th class="sortable-th" style="width: 12%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('stabilityVal');">
+                                <th class="sortable-th" style="width: 6%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('averageVal');">平均个数 ${getArrow('averageVal')}</th>
+                                <th class="sortable-th" style="width: 6%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('varianceVal');">样本方差 ${getArrow('varianceVal')}</th>
+                                <th class="sortable-th" style="width: 10%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('stabilityVal');">
                                     稳定性<br><span style="font-size: 10px; font-weight: normal; color: #666;">(&lt;0.5稳 0.5-1.0常 &gt;1.0大)<br>CV = 标准差 / 均值<br><b style="color:#28a745;">最优: 稳定 (&lt;0.5)</b></span> ${getArrow('stabilityVal')}
                                 </th>
-                                <th class="sortable-th" style="width: 13%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('zScoreVal');">
+                                <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('zScoreVal');">
                                     偏移(Z)<br><span style="font-size: 10px; font-weight: normal; color: #666;">(&lt;-1.5少 -1.5~-0.8略少 常 1.0~2.0略多 &gt;2.0多)<br>Z = (最新 - 均值) / 标准差<br><b style="color:#28a745;">最优: 正常 (Z接近0)</b></span> ${getArrow('zScoreVal')}
                                 </th>
-                                <th class="sortable-th" style="width: 13%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('cvsVal');">
+                                <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('cvsVal');">
                                     综合动量(CVS)<br><span style="font-size: 10px; font-weight: normal; color: #666;">(动态阈值: 均值±1.0σ)<br>CVS = (最新 / 均值) × CV<br><b style="color:#28a745;">最优: 偏高 (&gt; 均值+1.0σ)</b></span> ${getArrow('cvsVal')}
                                 </th>
-                                <th class="sortable-th" style="width: 12%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('scoreVal');">
+                                <th class="sortable-th" style="width: 10%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('scoreVal');">
                                     评分(CS)<br><span style="font-size: 10px; font-weight: normal; color: #666;">(&lt;60观望 60活 72优 85极)<br>CS = 综合加权 × 惩罚系数<br><b style="color:#28a745;">最优: 极佳 (≥85分)</b></span> ${getArrow('scoreVal')}
                                 </th>
-                                <th style="width: 21%; text-align: left;">历史个数</th>
+                                <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('maxCorrVal');">
+                                    前3关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(防同质化)<br><b style="color:#28a745;">最优: 强关联 (|r|最大)</b></span> ${getArrow('maxCorrVal')}
+                                </th>
+                                <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('minCorrVal');">
+                                    前3不关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(找互补组合)<br><b style="color:#28a745;">最优: 最独立 (接近0)</b></span> ${getArrow('minCorrVal')}
+                                </th>
+                                <th style="width: 12%; text-align: left;">历史个数</th>
                             </tr>
                         </thead>
                         <tbody>${tableRowsHTML}</tbody>
@@ -329,6 +402,15 @@
             navigator.clipboard.writeText(arr.join(', ')).then(() => {
                 alert(`已成功复制 ${arr.length} 个特征维度：\n${arr.join(', ')}`);
             });
+        },
+        getCorrelationMatrix: function() {
+            return globalCorrelationMatrix;
+        },
+        getCorrelationsFor: function(catId) {
+            if (!globalCorrelationMatrix[catId]) return [];
+            return Object.entries(globalCorrelationMatrix[catId])
+                .map(([id, val]) => ({ id, name: categoryDefinitions.find(c => c.id === id)?.name || id, correlation: val }))
+                .sort((a, b) => b.correlation - a.correlation);
         },
         _sortQueue: []
     };

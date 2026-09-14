@@ -221,7 +221,7 @@
                 : '暂无';
             const maxCorrValNum = top3.length > 0 ? top3[0].absVal : 0;
 
-            // 最不关联前3（绝对值从小到大）
+            // 前3不关联（绝对值从小到大）
             const correlationsAsc = [...correlationsList].sort((a, b) => a.absVal - b.absVal);
             const bottom3 = correlationsAsc.slice(0, 3);
             const bottomCorrFormatted = bottom3.length > 0 
@@ -323,10 +323,10 @@
                                     评分(CS)<br><span style="font-size: 10px; font-weight: normal; color: #666;">(&lt;60观望 60活 72优 85极)<br>CS = 综合加权 × 惩罚系数<br><b style="color:#28a745;">最优: 极佳 (≥85分)</b></span> ${getArrow('scoreVal')}
                                 </th>
                                 <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('maxCorrVal');">
-                                    前3关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(防同质化)<br><b style="color:#28a745;">最优: 强关联 (|r|最大)</b></span> ${getArrow('maxCorrVal')}
+                                    关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(防同质化)<br><b style="color:#28a745;">最优: 强关联 (|r|最大)</b></span> ${getArrow('maxCorrVal')}
                                 </th>
                                 <th class="sortable-th" style="width: 11%; text-align: center;" onclick="event.stopPropagation(); window.IntervalStatModule1._sortClickHandler('minCorrVal');">
-                                    前3不关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(找互补组合)<br><b style="color:#28a745;">最优: 最独立 (接近0)</b></span> ${getArrow('minCorrVal')}
+                                    不关联特征<br><span style="font-size: 10px; font-weight: normal; color: #666;">(找互补组合)<br><b style="color:#28a745;">最优: 最独立 (接近0)</b></span> ${getArrow('minCorrVal')}
                                 </th>
                                 <th style="width: 12%; text-align: left;">历史个数</th>
                             </tr>

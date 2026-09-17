@@ -54,7 +54,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("	<p style=\"border-bottom:solid 1px #ffeda4;padding:8px 0;\" align=\"center\">");
-document.writeln(" <b>259期:【六肖12码】开？00准<br>");
+document.writeln(" <b>260期:【六肖12码】开？00准<br>");
 document.writeln("<font color=\"#FF0000\">");
 document.writeln("六肖：62827.com高手榜查看<br>");
 document.writeln("12码：已更新</font></b></p>");

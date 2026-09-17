@@ -9,10 +9,16 @@ document.writeln("<table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("");
 
 
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">261期绝杀二肖:<font color=\"#FF0000\">【牛虎】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">260期绝杀二肖:<font color=\"#FF0000\">【猴狗】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">260期绝杀二肖:<font color=\"#FF0000\">【猴狗】</font>开:猪20准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 document.writeln("<tr>");

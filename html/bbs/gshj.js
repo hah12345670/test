@@ -21,8 +21,8 @@ document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 document.writeln("259期王者六肖【<span style=\'background-color: #FFFF00\'>鸡</span>兔牛龙猪羊】√<br>");
 document.writeln("260期王者六肖【羊马兔蛇<span style=\'background-color: #FFFF00\'>猪</span>猴】√<br>");
 document.writeln("261期王者六肖【龙狗鼠<span style=\'background-color: #FFFF00\'>羊</span>鸡马】√<br>");
-document.writeln("262期王者六肖【蛇鼠虎兔鸡猴】√<br>");
-
+document.writeln("262期王者六肖【蛇鼠虎兔鸡猴】×<br>");
+document.writeln("263期王者六肖【猴羊兔蛇龙马】√<br>");
 
 
 document.writeln("		");
@@ -68,7 +68,9 @@ document.writeln("255-256期￥羊猴虎蛇兔狗牛￥000期√<br>");
 document.writeln("257-258期￥牛羊龙猪虎<span style=\'background-color: #FFFF00\'>鸡</span>马￥258期√<br>");
 document.writeln("259-260期￥鼠猴羊兔牛<span style=\'background-color: #FFFF00\'>鸡</span>狗￥259期√<br>");
 document.writeln("260-261期￥猴<span style=\'background-color: #FFFF00\'>猪</span>羊马龙牛兔￥260期√<br>");
-document.writeln("261-262期￥鼠鸡牛猪兔马狗￥000期√<br>");
+document.writeln("261-262期￥鼠鸡<span style=\'background-color: #FFFF00\'>牛</span>猪兔马狗￥262期√<br>");
+document.writeln("263-264期￥蛇狗牛鸡虎龙兔￥000期√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -97,8 +99,8 @@ document.writeln("259期【家禽：羊<span style=\'background-color: #FFFF00\'
 document.writeln("260期【家禽：狗<span style=\'background-color: #FFFF00\'>猪</span>马羊】开猪20√<br>");
 
 document.writeln("261期【家禽：牛<span style=\'background-color: #FFFF00\'>羊</span>狗猪】开羊24√<br>");
-document.writeln("262期【家禽：鸡猪马狗】开？00√<br>");
-
+document.writeln("262期【<span style=\'background-color: #FFFF00\'>家禽</span>：鸡猪马狗】开牛30√<br>");
+document.writeln("263期【家禽：牛猪狗羊】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -135,7 +137,10 @@ document.writeln("258期【猪龙虎马<span style=\'background-color: #FFFF00\'
 document.writeln("259期【马虎鼠猪兔狗<span style=\'background-color: #FFFF00\'>鸡</span>牛羊】开鸡22√<br>");
 document.writeln("260期【<span style=\'background-color: #FFFF00\'>猪</span>龙马猴虎鼠蛇兔牛】开猪20√<br>");
 document.writeln("261期【猴龙马鼠兔鸡虎<span style=\'background-color: #FFFF00\'>羊</span>狗】开羊24√<br>");
-document.writeln("262期【虎鼠猪羊蛇龙猴鸡马】开？00√<br>");
+document.writeln("262期【虎鼠猪羊蛇龙猴鸡马】开牛30×<br>");
+document.writeln("263期【猴猪龙蛇狗鼠马兔虎】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

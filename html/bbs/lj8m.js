@@ -75,7 +75,7 @@ document.writeln("<font style=\"font-size: 14pt\">");
 document.writeln("262期必中三肖<font color=\"#FF0000\">【蛇鸡虎】防【龙马】</font>开牛30×</font><BR><BR>");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");
-document.writeln("263期必中三肖<font color=\"#FF0000\">【62827.com高手榜查看，已更新】</font>开？00√</font><BR><BR>");
+document.writeln("264期必中三肖<font color=\"#FF0000\">【62827.com高手榜查看，已更新】</font>开？00√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

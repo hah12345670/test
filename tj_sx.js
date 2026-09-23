@@ -2,45 +2,46 @@ let currentSystemConfig = {
     "knownDataGroups": [
         [
             1,
-            2,
             3,
             5,
+            6,
             7,
             9
         ],
         [
-            10,
-            14,
+            11,
+            13,
+            15,
+            16,
             18
         ],
         [
-            25,
-            26
+            22,
+            26,
+            29
         ],
         [
             30,
-            31,
-            34,
+            33,
             35,
-            36
+            36,
+            39
         ],
         [
-            41,
+            42,
             46,
-            47,
-            49
+            48
         ],
         [
             50,
             51,
-            52,
-            53,
             55,
-            58
+            58,
+            59
         ],
         [
-            61,
             62,
+            63,
             66,
             68,
             69
@@ -64,24 +65,23 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
-                        2,
-                        3
+                        1,
+                        2
                     ],
-                    "threshold": 0.74
+                    "threshold": 0.76
                 },
                 {
                     "pattern": [
-                        2,
                         3
                     ],
-                    "threshold": 0.74
+                    "threshold": 0.6
                 },
                 {
                     "pattern": [
                         3,
                         4
                     ],
-                    "threshold": 0.8
+                    "threshold": 0.96
                 }
             ]
         },
@@ -94,18 +94,18 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
-                        4,
-                        5
-                    ],
-                    "threshold": 0.94
-                },
-                {
-                    "pattern": [
                         3,
                         4,
                         5
                     ],
-                    "threshold": 1.12
+                    "threshold": 1.04
+                },
+                {
+                    "pattern": [
+                        4,
+                        5
+                    ],
+                    "threshold": 1.2
                 }
             ]
         },
@@ -122,21 +122,21 @@ let currentSystemConfig = {
                         2,
                         3
                     ],
-                    "threshold": 0.68
+                    "threshold": 0.76
                 },
                 {
                     "pattern": [
                         3,
                         4
                     ],
-                    "threshold": 0.9
+                    "threshold": 0.96
                 },
                 {
                     "pattern": [
                         2,
                         3
                     ],
-                    "threshold": 0.84
+                    "threshold": 0.9
                 }
             ]
         },
@@ -149,17 +149,18 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
+                        2,
                         3,
                         4
                     ],
-                    "threshold": 0.8
+                    "threshold": 1.04
                 },
                 {
                     "pattern": [
                         5,
                         6
                     ],
-                    "threshold": 1.0
+                    "threshold": 1.2
                 }
             ]
         },
@@ -177,28 +178,28 @@ let currentSystemConfig = {
                         1,
                         2
                     ],
+                    "threshold": 0.94
+                },
+                {
+                    "pattern": [
+                        2,
+                        3
+                    ],
+                    "threshold": 0.6
+                },
+                {
+                    "pattern": [
+                        2,
+                        3
+                    ],
                     "threshold": 0.88
                 },
                 {
                     "pattern": [
-                        1,
-                        2
-                    ],
-                    "threshold": 0.52
-                },
-                {
-                    "pattern": [
                         2,
                         3
                     ],
-                    "threshold": 0.68
-                },
-                {
-                    "pattern": [
-                        2,
-                        3
-                    ],
-                    "threshold": 1.0
+                    "threshold": 1.04
                 }
             ]
         }

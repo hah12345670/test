@@ -51,9 +51,12 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 
+document.writeln("267期【单双中特】开？00中<BR>");
+document.writeln("【62827.com高手榜查看，已更新】<BR><BR>");
+
 
 document.writeln("266期【单双中特】开？00中<BR>");
-document.writeln("【62827.com高手榜查看，已更新】<BR><BR>");
+document.writeln("<span style=\'background-color: #FFFF00\'>【双肖】</span> 主 【蛇<span style=\'background-color: #FFFF00\'>猪</span>牛】<BR><BR>");
 
 document.writeln("265期【单双中特】开马49中<BR>");
 document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【龙狗猴】<BR><BR>");

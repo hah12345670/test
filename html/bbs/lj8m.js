@@ -52,7 +52,7 @@ document.writeln("");
 document.writeln("");
 
 document.writeln("267期【单双中特】开？00中<BR>");
-document.writeln("【62827.com高手榜查看，已更新】<BR><BR>");
+document.writeln("【单肖】 主 【龙鼠猴】<BR><BR>");
 
 
 document.writeln("266期【单双中特】开？00中<BR>");

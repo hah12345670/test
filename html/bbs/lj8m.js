@@ -43,45 +43,24 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【六合鬼才】(单双三肖)</font><br>");
+document.writeln("【中奖小哥】(公式五肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
 document.writeln("");
-
-document.writeln("269期【单双中特】开？00中<BR>");
-document.writeln("【62827.com高手榜查看，已更新】<BR><BR>");
-
-document.writeln("268期【单双中特】开兔40中<BR>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【双肖】</span> 主 【羊蛇鸡】<BR><BR>");
-
-document.writeln("267期【单双中特】开兔40错<BR>");
-document.writeln("【单肖】 主 【龙鼠猴】<BR><BR>");
-
-
-document.writeln("266期【单双中特】开猪08中<BR>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【双肖】</span> 主 【蛇<span style=\'background-color: #FFFF00\'>猪</span>牛】<BR><BR>");
-
-document.writeln("265期【单双中特】开马49中<BR>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【龙狗猴】<BR><BR>");
-document.writeln("																																		");
-document.writeln("264期【单双中特】开狗21中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【<span style=\"background-color: #FFFF00\">狗</span>马猴】<BR><BR>");
-document.writeln("																													");
-document.writeln("																																		");
-document.writeln("263期【单双中特】开狗09中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【马猴<span style=\"background-color: #FFFF00\">狗</span>】<BR><BR>");
-document.writeln("			");
-document.writeln("262期【单双中特】开牛30中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【<span style=\"background-color: #FFFF00\">牛</span>猪兔】<BR><BR>");
-document.writeln("								");
-document.writeln("																																				");
-document.writeln("261期【单双中特】开羊24中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【蛇<span style=\"background-color: #FFFF00\">羊</span>兔】<BR><BR>");
-document.writeln("										");
 document.writeln("");
+document.writeln("265期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【虎<span style=\"background-color: #FFFF00\">马</span>鸡狗猴】</font>开：马49对<br>");
+document.writeln("														");
+document.writeln("266期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【羊牛鼠鸡<span style=\"background-color: #FFFF00\">猪</span>】</font>开：猪08对<br>");
+document.writeln("														");
+document.writeln("267期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【龙狗蛇<span style=\"background-color: #FFFF00\">兔</span>鸡】</font>开：兔40对<br>");
+document.writeln("														");
+document.writeln("268期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【猪<span style=\"background-color: #FFFF00\">兔</span>虎鼠马】</font>开：兔40对<br>");
+document.writeln("269期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【<span style=\'background-color: #FFFF00\'>鸡</span>虎猴马狗】</font>开：鸡22对<br>");
+document.writeln("270期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【62827.com高手榜查看】</font>开：？00对<br>");
+
 document.writeln("");
 document.writeln("");
 document.writeln("	");

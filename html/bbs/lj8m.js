@@ -59,7 +59,8 @@ document.writeln("267期:<span style=\"background-color: #FFCC66\">公式</span>
 document.writeln("														");
 document.writeln("268期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【猪<span style=\"background-color: #FFFF00\">兔</span>虎鼠马】</font>开：兔40对<br>");
 document.writeln("269期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【<span style=\'background-color: #FFFF00\'>鸡</span>虎猴马狗】</font>开：鸡22对<br>");
-document.writeln("270期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【62827.com高手榜查看】</font>开：？00对<br>");
+document.writeln("270期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【龙鸡猴<span style=\'background-color: #FFFF00\'>鼠</span>蛇】</font>开：鼠19对<br>");
+document.writeln("271期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【62827.com高手榜查看，已更新】</font>开：？00对<br>");
 
 document.writeln("");
 document.writeln("");

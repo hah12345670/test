@@ -43,7 +43,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【中奖小哥】(公式五肖)</font><br>");
+document.writeln("【神秘男子】(三肖中特)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -51,17 +51,16 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("265期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【虎<span style=\"background-color: #FFFF00\">马</span>鸡狗猴】</font>开：马49对<br>");
-document.writeln("														");
-document.writeln("266期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【羊牛鼠鸡<span style=\"background-color: #FFFF00\">猪</span>】</font>开：猪08对<br>");
-document.writeln("														");
-document.writeln("267期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【龙狗蛇<span style=\"background-color: #FFFF00\">兔</span>鸡】</font>开：兔40对<br>");
-document.writeln("														");
-document.writeln("268期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【猪<span style=\"background-color: #FFFF00\">兔</span>虎鼠马】</font>开：兔40对<br>");
-document.writeln("269期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【<span style=\'background-color: #FFFF00\'>鸡</span>虎猴马狗】</font>开：鸡22对<br>");
-document.writeln("270期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【龙鸡猴<span style=\'background-color: #FFFF00\'>鼠</span>蛇】</font>开：鼠19对<br>");
-document.writeln("271期:<span style=\"background-color: #FFCC66\">公式</span>五肖<font color=\"#FF0000\">【62827.com高手榜查看，已更新】</font>开：？00对<br>");
-
+document.writeln("272期三肖中特<b><font size=\"5\">【62827.com高手榜查看】</font></b>开:？00准 <br>	");
+document.writeln("271期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">猴</span>鼠虎】</font></b>开:猴35准 <br>	");
+document.writeln("");
+document.writeln("270期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">鼠</span>兔猪】</font></b>开:鼠19准 <br>	");
+document.writeln("");
+document.writeln("269期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">鸡</span>猴猪】</font></b>开:鸡22准 <br>	");
+document.writeln("");
+document.writeln("268期三肖中特<b><font size=\"5\">【牛蛇<span style=\"background-color: #FFFF00\">兔</span>】</font></b>开:兔40准 <br>	");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

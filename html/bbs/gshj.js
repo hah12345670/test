@@ -18,8 +18,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 document.writeln("269期王者六肖【龙牛猪<span style=\'background-color: #FFFF00\'>鸡</span>蛇羊】√<br>");
-document.writeln("270期王者六肖【马猪蛇兔龙虎】√<br>");
-
+document.writeln("270期王者六肖【马猪蛇兔龙虎】×<br>");
+document.writeln("271期王者六肖【狗马羊兔牛猴】√<br>");
 
 
 document.writeln("		");
@@ -56,7 +56,9 @@ document.writeln("265-266期￥牛猴鼠狗兔<span style=\'background-color: #F
 document.writeln("266-267期￥鸡龙羊牛<span style=\'background-color: #FFFF00\'>猪</span>鼠狗￥266期√<br>");
 document.writeln("267-268期￥鸡<span style=\'background-color: #FFFF00\'>兔</span>龙鼠羊蛇虎￥267期√<br>");
 document.writeln("268-269期￥龙羊蛇狗<span style=\'background-color: #FFFF00\'>兔</span>猪马￥268期√<br>");
-document.writeln("269-270期￥虎兔马羊鼠牛狗￥000期√<br>");
+document.writeln("269-270期￥虎兔马羊<span style=\'background-color: #FFFF00\'>鼠</span>牛狗￥270期√<br>");
+document.writeln("271-272期￥兔猴狗猪虎牛鸡￥000期√<br>");
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -93,8 +95,8 @@ document.writeln("266期【野兽：蛇虎猴兔】开猪08×<br>");
 document.writeln("267期【家禽：马猪狗鸡】开兔40×<br>");
 document.writeln("268期【<span style=\'background-color: #FFFF00\'>野兽</span>：虎龙蛇猴】开兔40√<br>");
 document.writeln("269期【<span style=\'background-color: #FFFF00\'>家禽</span>：牛羊马猪】开鸡22√<br>");
-document.writeln("270期【野兽：蛇虎兔猴】开？00√<br>");
-
+document.writeln("270期【<span style=\'background-color: #FFFF00\'>野兽</span>：蛇虎兔猴】开鼠19√<br>");
+document.writeln("271期【家禽：牛羊马猪】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -138,7 +140,10 @@ document.writeln("266期【鼠羊猴兔龙狗鸡<span style=\'background-color: 
 document.writeln("267期【<span style=\'background-color: #FFFF00\'>兔</span>马鼠牛鸡龙猴羊狗】开兔40√<br>");
 document.writeln("268期【虎牛狗龙鸡猴羊<span style=\'background-color: #FFFF00\'>兔</span>鼠】开兔40√<br>");
 document.writeln("269期【猪<span style=\'background-color: #FFFF00\'>鸡</span>猴羊狗马虎牛鼠】开鸡22√<br>");
-document.writeln("270期【猴马猪虎龙牛兔狗羊】开？00√<br>");
+document.writeln("270期【猴马猪虎龙牛兔狗羊】开鼠19×<br>");
+document.writeln("271期【鸡牛猴蛇虎鼠猪兔马】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

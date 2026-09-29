@@ -51,7 +51,8 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("272期三肖中特<b><font size=\"5\">【羊猴狗】</font></b>开:？00准 <br>	");
+document.writeln("273期三肖中特<b><font size=\"5\">【62827.com高手榜查看】</font></b>开:？00准 <br>	");
+document.writeln("272期三肖中特<b><font size=\"5\">【羊猴狗】</font></b>开:蛇02错 <br>	");
 document.writeln("271期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">猴</span>鼠虎】</font></b>开:猴35准 <br>	");
 document.writeln("");
 document.writeln("270期三肖中特<b><font size=\"5\">【<span style=\"background-color: #FFFF00\">鼠</span>兔猪】</font></b>开:鼠19准 <br>	");

@@ -27,8 +27,8 @@ document.writeln("274期王者六肖【鸡兔猴虎鼠龙】×<br>");
 document.writeln("275期王者六肖【狗龙马<span style=\'background-color: #FFFF00\'>虎</span>牛鸡】√<br>");
 document.writeln("276期王者六肖【猪猴马龙<span style=\'background-color: #FFFF00\'>蛇</span>鸡】√<br>");
 document.writeln("277期王者六肖【龙鼠蛇虎牛狗】×<br>");
-document.writeln("278期王者六肖【蛇龙鸡兔猴马】√<br>");
-
+document.writeln("278期王者六肖【<span style=\'background-color: #FFFF00\'>蛇</span>龙鸡兔猴马】√<br>");
+document.writeln("279期王者六肖【猴蛇牛狗马羊】√<br>");
 
 
 document.writeln("		");
@@ -71,7 +71,8 @@ document.writeln("272-273期￥鸡马牛<span style=\'background-color: #FFFF00\
 document.writeln("273-274期￥猪牛狗猴鼠羊<span style=\'background-color: #FFFF00\'>虎</span>￥273期√<br>");
 document.writeln("274-275期￥鼠鸡<span style=\'background-color: #FFFF00\'>狗</span>龙猴马虎￥274期√<br>");
 document.writeln("275-276期￥兔<span style=\'background-color: #FFFF00\'>蛇</span>牛羊马狗鼠￥276期√<br>");
-document.writeln("277-278期￥羊龙蛇马兔猪牛￥000期√<br>");
+document.writeln("277-278期￥羊龙<span style=\'background-color: #FFFF00\'>蛇</span>马兔猪牛￥278期√<br>");
+document.writeln("279-280期￥马龙猴鼠羊兔牛￥000期√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -117,8 +118,8 @@ document.writeln("274期【野兽：龙蛇猴兔】开狗33×<br>");
 document.writeln("275期【野兽：龙猴兔<span style=\'background-color: #FFFF00\'>虎</span>】开虎17√<br>");
 document.writeln("276期【野兽：猴虎龙<span style=\'background-color: #FFFF00\'>蛇</span>】开蛇14√<br>");
 document.writeln("277期【野兽：<span style=\'background-color: #FFFF00\'>猴</span>虎鼠兔】开猴11√<br>");
-document.writeln("278期【家禽：马羊鸡狗】开？00√<br>");
-
+document.writeln("278期【家禽：马羊鸡狗】开蛇02×<br>");
+document.writeln("279期【野兽：龙猴虎兔】开？00√<br>");
 
 
 
@@ -172,7 +173,8 @@ document.writeln("274期【牛虎鸡鼠兔猪猴<span style=\'background-color: 
 document.writeln("275期【鼠牛<span style=\'background-color: #FFFF00\'>虎</span>羊狗鸡兔蛇马】开虎17√<br>");
 document.writeln("276期【龙鼠<span style=\'background-color: #FFFF00\'>蛇</span>牛虎羊兔鸡猴】开蛇14√<br>");
 document.writeln("277期【狗蛇猪龙<span style=\'background-color: #FFFF00\'>猴</span>羊牛兔鸡】开猴11√<br>");
-document.writeln("278期【蛇羊马鼠猴虎鸡龙猪】开？00√<br>");
+document.writeln("278期【<span style=\'background-color: #FFFF00\'>蛇</span>羊马鼠猴虎鸡龙猪】开蛇02√<br>");
+document.writeln("279期【龙虎马兔羊鸡狗牛蛇】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

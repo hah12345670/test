@@ -53,7 +53,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");
-document.writeln("279期必中三肖<font color=\"#FF0000\">【鼠兔猪】防【狗龙】</font>开？00√</font><BR><BR>");
+document.writeln("280期必中三肖<font color=\"#FF0000\">【62827.com高手榜查看】</font>开？00√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");

@@ -11,7 +11,7 @@
             --bg: #f8fafc;
             --card: #fff;
             --text: #334155;
-            --border: #e2e8f0;
+            --border: #94a3b8; /* 网格与边框颜色 */
         }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -36,6 +36,8 @@
         }
         #wakeLockBtn.active { background: var(--success); }
         hr { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+        
+        /* 基础模型数据区 */
         #showdata { display: flex; flex-direction: column; gap: 8px; }
         .data-card {
             background: var(--card);
@@ -49,39 +51,113 @@
             font-size: 0.9rem;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
         }
-        .hit-num {
+
+        /* 辅助表格样式 */
+        .table-container {
+            margin-top: 16px;
+            overflow-x: auto;
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        .section-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--primary);
+            margin: 16px 0 8px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+            text-align: center;
+        }
+        th, td {
+            padding: 9px 10px;
+            border: 1px solid var(--border);
+            white-space: nowrap;
+        }
+        th {
+            background: #cbd5e1;
+            font-weight: 700;
+            color: #0f172a;
+        }
+        tfoot tr td {
+            background: #e2e8f0;
+            font-weight: 600;
+            color: var(--primary);
+            border-top: 2px solid var(--border);
+        }
+
+        /* 规则字局部高亮样式 */
+        .rule-match {
             background: #fee2e2;
             color: #dc2626;
             font-weight: bold;
-            padding: 0 4px;
-            border-radius: 4px;
-            display: inline-block;
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+        .sub-rate {
+            font-size: 0.75rem;
+            color: #475569;
+            display: block;
+            margin-top: 2px;
+            font-weight: 500;
         }
     </style>
 </head>
 <body>
     <button id="wakeLockBtn" onclick="toggleWakeLock()">开启屏幕常亮</button>
     <hr>
-    <div id="showdata"></div><script src="arr_kl8.js"></script>
-    <script>
-        const escapeHTML = str => str.replace(/[&<>'"]/g, t => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[t]));
+    
+    <!-- 快乐8 基础模型数据展示区 -->
+    <div id="showdata"></div>
 
+    <!-- arr_he7 表格展示区 -->
+    <div id="he7-section" style="display:none;">
+        <div class="section-title"></div>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>序号</th>
+                        <th>期数</th>
+                        <th colspan="2">推荐3-2</th>
+                        <th colspan="2">推荐1-5</th>
+                        <th colspan="2">推荐5-5</th>
+                        <th>规则</th>
+                    </tr>
+                </thead>
+                <tbody id="he7-body"></tbody>
+                <tfoot id="he7-foot"></tfoot>
+            </table>
+        </div>
+    </div>
+    
+    <script src="arr_kl8.js"></script>
+    <script>
+        const escapeHTML = str => str.replace(/[&<>'"]/g, t => ({'&':'&amp;','<':'&lt;','>':'&gt;','\'':'&#39;','"':'&quot;'}[t]));
+
+        // 局部高亮匹配的文字
+        function highlightMatch(text, keyword) {
+            const safeText = escapeHTML(text);
+            const safeKeyword = escapeHTML(keyword);
+            const escapedKeyword = safeKeyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp(`(${escapedKeyword})`, 'g');
+            return safeText.replace(regex, '<span class="rule-match">$1</span>');
+        }
+
+        // 1. 渲染 快乐8 基础模型数据
         function renderData(arr) {
             if (!Array.isArray(arr)) return;
             const container = document.getElementById("showdata");
             const fragment = document.createDocumentFragment();
 
-            arr.forEach((line, i) => {
+            arr.forEach((line) => {
                 const pre = document.createElement('pre');
                 pre.className = 'data-card';
-
-                if (line?.includes('推荐') && arr[i + 1]) {
-                    const drawSet = new Set((arr[i + 1].match(/\d+/g) || []).map(n => parseInt(n, 10)));
-                    const processed = line.replace(/(\d+)/g, (m, n) => drawSet.has(parseInt(n, 10)) ? `___H_${n}_H___` : m);
-                    pre.innerHTML = escapeHTML(processed).replace(/___H_(\d+)_H___/g, '<span class="hit-num">$1</span>');
-                } else {
-                    pre.textContent = line || '';
-                }
+                pre.textContent = line || '';
                 fragment.appendChild(pre);
             });
 
@@ -89,12 +165,127 @@
             container.appendChild(fragment);
         }
 
+        // 2. 渲染 arr_he7 表格数据及合并后的正确率统计
+        function renderHe7(arr) {
+            if (!Array.isArray(arr) || arr.length === 0) return;
+            
+            document.getElementById("he7-section").style.display = "block";
+            const tbody = document.getElementById("he7-body");
+            const tfoot = document.getElementById("he7-foot");
+            tbody.innerHTML = '';
+            tfoot.innerHTML = '';
+
+            const fragment = document.createDocumentFragment();
+            
+            const matchCounts = [0, 0, 0, 0, 0, 0, 0];
+            const validTotals = [0, 0, 0, 0, 0, 0, 0];
+
+            let combo32Hits = 0, combo32Valid = 0;
+            let combo15Hits = 0, combo15Valid = 0;
+            let combo55Hits = 0, combo55Valid = 0;
+
+            arr.forEach((row, rowIndex) => {
+                const tr = document.createElement('tr');
+                const ruleText = row[7] || ''; 
+
+                const isMatch = (val) => val !== '' && ruleText !== '' && val.includes(ruleText);
+
+                const c1 = row[1] !== undefined ? String(row[1]) : '';
+                const c2 = row[2] !== undefined ? String(row[2]) : '';
+                if ((c1 !== '' || c2 !== '') && ruleText !== '') {
+                    combo32Valid++;
+                    if (isMatch(c1) || isMatch(c2)) combo32Hits++;
+                }
+
+                const c3 = row[3] !== undefined ? String(row[3]) : '';
+                const c4 = row[4] !== undefined ? String(row[4]) : '';
+                if ((c3 !== '' || c4 !== '') && ruleText !== '') {
+                    combo15Valid++;
+                    if (isMatch(c3) || isMatch(c4)) combo15Hits++;
+                }
+
+                const c5 = row[5] !== undefined ? String(row[5]) : '';
+                const c6 = row[6] !== undefined ? String(row[6]) : '';
+                if ((c5 !== '' || c6 !== '') && ruleText !== '') {
+                    combo55Valid++;
+                    if (isMatch(c5) || isMatch(c6)) combo55Hits++;
+                }
+
+                // 列 1: 序号
+                const tdIndex = document.createElement('td');
+                tdIndex.textContent = rowIndex + 1;
+                tr.appendChild(tdIndex);
+
+                for (let i = 0; i < 8; i++) {
+                    const td = document.createElement('td');
+                    const cellValue = row[i] !== undefined ? String(row[i]) : '';
+
+                    if (i >= 1 && i <= 6) {
+                        if (cellValue !== '' && ruleText !== '') {
+                            validTotals[i]++;
+                            if (isMatch(cellValue)) {
+                                td.innerHTML = highlightMatch(cellValue, ruleText);
+                                matchCounts[i]++;
+                            } else {
+                                td.textContent = cellValue;
+                            }
+                        } else {
+                            td.textContent = cellValue;
+                        }
+                    } else {
+                        td.textContent = cellValue;
+                    }
+                    tr.appendChild(td);
+                }
+                fragment.appendChild(tr);
+            });
+            tbody.appendChild(fragment);
+
+            const footTr = document.createElement('tr');
+            
+            const rate32 = combo32Valid > 0 ? ((combo32Hits / combo32Valid) * 100).toFixed(1) : '0.0';
+            const rate15 = combo15Valid > 0 ? ((combo15Hits / combo15Valid) * 100).toFixed(1) : '0.0';
+            const rate55 = combo55Valid > 0 ? ((combo55Hits / combo55Valid) * 100).toFixed(1) : '0.0';
+
+            const getSingleStr = (i) => {
+                const total = validTotals[i];
+                const hits = matchCounts[i];
+                const rate = total > 0 ? ((hits / total) * 100).toFixed(1) : '0.0';
+                return `${hits}/${total} (${rate}%)`;
+            };
+
+            // 将序号和期数两列在底部合并，显示“正确率”
+            footTr.innerHTML = `
+                <td colspan="2">正确率</td>
+                <td colspan="2">
+                    单列: ${getSingleStr(1)} / ${getSingleStr(2)}<br>
+                    <span class="sub-rate">3+2 组合: ${combo32Hits}/${combo32Valid} (${rate32}%)</span>
+                </td>
+                <td colspan="2">
+                    单列: ${getSingleStr(3)} / ${getSingleStr(4)}<br>
+                    <span class="sub-rate">1+5 组合: ${combo15Hits}/${combo15Valid} (${rate15}%)</span>
+                </td>
+                <td colspan="2">
+                    单列: ${getSingleStr(5)} / ${getSingleStr(6)}<br>
+                    <span class="sub-rate">5+5 组合: ${combo55Hits}/${combo55Valid} (${rate55}%)</span>
+                </td>
+                <td>-</td>
+            `;
+            tfoot.appendChild(footTr);
+        }
+
+        // 初始化数据加载
         if (typeof arr_kl8 !== 'undefined') {
             renderData(arr_kl8);
         } else {
             document.getElementById("showdata").innerHTML = '<div class="data-card">未检测到数据源 arr_kl8.js</div>';
         }
 
+        if (typeof arr_he7 !== 'undefined') {
+            renderHe7(arr_he7);
+        }
+
+        // 屏幕常亮逻辑
         let wakeLock = null;
 
         async function toggleWakeLock() {

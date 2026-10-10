@@ -188,25 +188,28 @@
                 const tr = document.createElement('tr');
                 const ruleText = row[7] || ''; 
 
-                const isMatch = (val) => val !== '' && ruleText !== '' && val.includes(ruleText);
+                // 微调处：当规则是 "-" 或空时，视为无效规则，不纳入统计
+                const isValidRule = ruleText !== '' && ruleText !== '-';
+
+                const isMatch = (val) => val !== '' && isValidRule && val.includes(ruleText);
 
                 const c1 = row[1] !== undefined ? String(row[1]) : '';
                 const c2 = row[2] !== undefined ? String(row[2]) : '';
-                if ((c1 !== '' || c2 !== '') && ruleText !== '') {
+                if ((c1 !== '' || c2 !== '') && isValidRule) {
                     combo32Valid++;
                     if (isMatch(c1) || isMatch(c2)) combo32Hits++;
                 }
 
                 const c3 = row[3] !== undefined ? String(row[3]) : '';
                 const c4 = row[4] !== undefined ? String(row[4]) : '';
-                if ((c3 !== '' || c4 !== '') && ruleText !== '') {
+                if ((c3 !== '' || c4 !== '') && isValidRule) {
                     combo15Valid++;
                     if (isMatch(c3) || isMatch(c4)) combo15Hits++;
                 }
 
                 const c5 = row[5] !== undefined ? String(row[5]) : '';
                 const c6 = row[6] !== undefined ? String(row[6]) : '';
-                if ((c5 !== '' || c6 !== '') && ruleText !== '') {
+                if ((c5 !== '' || c6 !== '') && isValidRule) {
                     combo55Valid++;
                     if (isMatch(c5) || isMatch(c6)) combo55Hits++;
                 }
@@ -221,7 +224,7 @@
                     const cellValue = row[i] !== undefined ? String(row[i]) : '';
 
                     if (i >= 1 && i <= 6) {
-                        if (cellValue !== '' && ruleText !== '') {
+                        if (cellValue !== '' && isValidRule) {
                             validTotals[i]++;
                             if (isMatch(cellValue)) {
                                 td.innerHTML = highlightMatch(cellValue, ruleText);

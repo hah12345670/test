@@ -51,7 +51,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");
-document.writeln("283期必中三肖<font color=\"#FF0000\">【62827.com高手榜查看】</font>开？00√</font><BR><BR>");
+document.writeln("283期必中三肖<font color=\"#FF0000\">【龙羊狗】防【蛇鸡】</font>开？00√</font><BR><BR>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font style=\"font-size: 14pt\">");

@@ -28,6 +28,27 @@ document.writeln("<div class=\'box\'>");
 
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong333\'>");
+document.writeln("	<div class=\'bizhong333-tit\'>");
+document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font></div>");
+document.writeln("	<div class=\'bizhong333-box\'>");
+document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">287期必中18码：</font><font color=\'#FF0000\' size=\'2\'>13.25.37.09.21.33.06.18.30.05.17.29.14.26.38.07.31.43</font></li>");
+document.writeln("            	<li>287期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">13.25.37.09.21.33.06.18.30</font></li>");
+document.writeln("            	<li>287期必中①肖：<font color=\'#FF0000\' size=\'5\'>（马-13.25.37）</font></li>");
+document.writeln("            	<li>287期必中③肖：<font color=\'#FF0000\' size=\'4\'>马狗牛</font></li>");
+document.writeln("            	<li>287期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马狗牛虎蛇鼠</font></li>");
+document.writeln("            	<li>287期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马狗牛虎蛇鼠龙猴</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong333\'>");
@@ -36,12 +57,9 @@ document.writeln("		<font size=\"5\">（余生有钱）推荐一肖三码</font>
 document.writeln("	<div class=\'bizhong333-box\'>");
 document.writeln("    	<div class=\'bizhong333-l\' style=\"background-color: #FFFFFF\">");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">286期必中18码：</font><font color=\'#FF0000\' size=\'2\'>13.37.49.03.15.39.11.23.35.09.21.33.07.19.31.06.18.42</font></li>");
-document.writeln("            	<li>286期必中⑨码：<font color=\'#FF0000\' style=\"font-size: 14pt\">13.37.49.03.15.39.11.23.35</font></li>");
-document.writeln("            	<li>286期必中①肖：<font color=\'#FF0000\' size=\'5\'>（马-13.37.49）</font></li>");
-document.writeln("            	<li>286期必中③肖：<font color=\'#FF0000\' size=\'4\'>马龙猴</font></li>");
+
 document.writeln("            	<li>286期必中⑥肖：<font color=\'#FF0000\' size=\'4\'>马龙猴狗鼠牛</font></li>");
-document.writeln("            	<li>286期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马龙猴狗鼠牛虎羊</font></li>");
+document.writeln("            	<li>286期必中⑧肖：<font color=\'#FF0000\' size=\'4\'>马龙猴狗鼠牛虎<span style=\'background-color: #FFFF00\'>羊</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");

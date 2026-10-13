@@ -23,7 +23,10 @@ document.writeln("283期王者六肖【兔猪狗马虎羊】×<br>");
 
 document.writeln("284期王者六肖【牛鼠<span style=\'background-color: #FFFF00\'>猪</span>虎羊马】√<br>");
 document.writeln("285期王者六肖【狗兔羊鸡蛇牛】×<br>");
-document.writeln("286期王者六肖【猪虎狗猴龙兔】√<br>");
+document.writeln("286期王者六肖【猪虎狗猴龙兔】×<br>");
+document.writeln("287期王者六肖【兔虎蛇鼠狗羊】√<br>");
+
+
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -101,8 +104,8 @@ document.writeln("282期【<span style=\'background-color: #FFFF00\'>野兽</spa
 document.writeln("283期【<span style=\'background-color: #FFFF00\'>家禽</span>：马羊狗猪】开牛18√<br>");
 document.writeln("284期【野兽：龙虎蛇兔】开猪32×<br>");
 document.writeln("285期【家禽：牛羊马狗】开鼠19×<br>");
-document.writeln("286期【野兽：龙猴虎鼠】开？00√<br>");
-
+document.writeln("286期【野兽：龙猴虎鼠】开羊24×<br>");
+document.writeln("287期【野兽：龙虎猴兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -129,8 +132,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("286期【羊虎龙猪猴马牛鸡兔】开？00√<br>");
-
+document.writeln("286期【<span style=\'background-color: #FFFF00\'>羊</span>虎龙猪猴马牛鸡兔】开羊24√<br>");
+document.writeln("287期【马虎猴狗鸡牛兔蛇龙】开？00√<br>");
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");

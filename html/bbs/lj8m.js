@@ -51,8 +51,11 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 document.writeln("");
 
-document.writeln("　<br>287期〖顶尖⑥肖〗 开:？00中<br>");
+document.writeln("　<br>288期〖顶尖⑥肖〗 开:？00中<br>");
 document.writeln("【 62827.com高手榜查看 】<br>																	");
+document.writeln("			");
+document.writeln("　<br>287期〖顶尖⑥肖〗 开:猪08错<br>");
+document.writeln("【 蛇 虎 狗 龙 鸡 兔 】<br>																	");
 document.writeln("			");
 document.writeln("　<br>286期〖顶尖⑥肖〗 开:羊24错<br>");
 document.writeln("【 龙 鼠 狗 马 猴 牛 】<br>																	");

@@ -18,7 +18,7 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("288期王者六肖【羊鸡牛鼠狗蛇】√<br>");
+document.writeln("289期王者六肖【兔牛龙猴鸡鼠】√<br>");
 
 
 document.writeln("		");
@@ -95,7 +95,10 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("288期【野兽：龙蛇猴虎】开？00√<br>");
+
+document.writeln("289期【野兽：龙蛇猴虎】开？00√<br>");
+
+
 
 document.writeln("		<br></font>	");
 document.writeln("		</b></td>");
@@ -121,8 +124,8 @@ document.writeln("		");
 document.writeln("		<font face=\'微软雅黑\' style=\"font-size: 14pt\">");
 
 
-document.writeln("288期【兔猪鼠蛇牛龙马狗羊】开？00√<br>");
-
+document.writeln("288期【兔猪鼠蛇牛龙<span style=\'background-color: #FFFF00\'>马</span>狗羊】开马25√<br>");
+document.writeln("289期【蛇猴兔羊猪狗牛鸡鼠】开？00√<br>");
 
 
 

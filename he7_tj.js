@@ -5,7 +5,7 @@ const allRowDataObjs = [];
 const selectedNumbers = new Set();
 const container = document.getElementById('data-container');
 
-rawData.forEach(item => {
+rawData.slice(0, 31).forEach(item => {
 		const rowDiv = document.createElement('div');
 		rowDiv.className = 'row';
 

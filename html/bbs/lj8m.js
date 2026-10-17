@@ -1,4 +1,6 @@
 ﻿document.writeln("");
+
+
 document.writeln("<!--开始-->");
 document.writeln("<style>");
 document.writeln(".bzlx { font-size: 18px; text-align: center;white-space: normal; background: #fff;}");
@@ -64,7 +66,9 @@ document.writeln("");
 document.writeln("286期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《1<span style=\"background-color: #FFFF00\">2</span>3头》</font>开：羊24对<br>");
 document.writeln("287期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《<span style=\"background-color: #FFFF00\">0</span>13头》</font>开：猪08对<br>");
 document.writeln("288期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《431头》</font>开：马25错<br>");
-document.writeln("289期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《034头》</font>开：？00对<br>");
+document.writeln("289期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《0<span style=\'background-color: #FFFF00\'>3</span>4头》</font>开：蛇38对<br>");
+document.writeln("290期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《62827.com高手榜查看》</font>开：？00对<br>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("	");
@@ -109,4 +113,9 @@ document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("<script src=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/bbs/dstg4.js\"></script>");
+
+
+
+
+
 document.writeln("");

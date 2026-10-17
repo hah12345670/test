@@ -20,7 +20,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<script src=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/bbs/66xx.js\"></script>");
+document.writeln("<script src=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/bbs/66xx.js\"></script>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -67,7 +67,8 @@ document.writeln("286期<font color=\"#008000\">【三头爆特】</font><font c
 document.writeln("287期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《<span style=\"background-color: #FFFF00\">0</span>13头》</font>开：猪08对<br>");
 document.writeln("288期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《431头》</font>开：马25错<br>");
 document.writeln("289期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《0<span style=\'background-color: #FFFF00\'>3</span>4头》</font>开：蛇38对<br>");
-document.writeln("290期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《62827.com高手榜查看》</font>开：？00对<br>");
+document.writeln("290期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《231头》</font>开：兔40错<br>");
+document.writeln("291期<font color=\"#008000\">【三头爆特】</font><font color=\"#FF0000\">《62827.com高手榜查看》</font>开：？00对<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -97,13 +98,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62827.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62827.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
@@ -112,8 +113,8 @@ document.writeln("</table>");
 document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("<script src=\"https://zl62-12.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/bbs/dstg4.js\"></script>");
-
+document.writeln("<script src=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/bbs/dstg4.js\"></script>");
+document.writeln("<script src=\"https://yy62-17.xn--7dcaaao0abcca8g4aaddcyi6d1j6aecbbhbd01aoa.xn--gecrj9c/js/773388db.js\"></script>");
 
 
 

@@ -28,7 +28,9 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("292期单双【双数+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("293期单双【双数+狗马】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("292期单双【<span style=\'background-color: #FFFF00\'>双数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -68,7 +70,8 @@ document.writeln("289期家野【<span style=\'background-color: #FFFF00\'>野�
 document.writeln("290期家野【家禽+<span style=\'background-color: #FFFF00\'>兔</span>猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("291期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+猪牛】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("292期家野【野兽+牛羊】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("292期家野【野兽+牛<span style=\'background-color: #FFFF00\'>羊</span>】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("293期家野【家禽+蛇猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -101,8 +104,8 @@ document.writeln("289期天地【<span style=\'background-color: #FFFF00\'>地�
 document.writeln("290期天地【<span style=\'background-color: #FFFF00\'>天肖</span>+蛇羊】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("291期天地【天肖+<span style=\'background-color: #FFFF00\'>虎</span>鸡】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("292期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("292期天地【天肖+虎狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("293期天地【天肖+鸡蛇】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -128,8 +131,8 @@ document.writeln("288期前后【前肖+猴猪】<font color=\"#FF0000\">×</fon
 document.writeln("289期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("290期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+马羊】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("291期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猪猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("292期前后【前肖+猴狗】<font color=\"#FF0000\">√</font><br>	");
-
+document.writeln("292期前后【前肖+猴狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("293期前后【前肖+狗猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

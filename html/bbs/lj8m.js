@@ -53,9 +53,14 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com�
 document.writeln("");
 
 
+
 document.writeln("");
 document.writeln("																							");
-document.writeln("294期『敢当⑵波』开:？00准<br>");
+document.writeln("295期『敢当⑵波』开:？00准<br>");
+document.writeln("〔62827.com高手榜查看〕<br><br>");
+document.writeln("		
+document.writeln("																							");
+document.writeln("294期『敢当⑵波』开:兔28错<br>");
 document.writeln("〔蓝波红波〕<br><br>");
 document.writeln("								
 document.writeln("																							");

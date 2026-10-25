@@ -54,8 +54,12 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("297期『敢当⑵波』开:？00准<br>");
-document.writeln("〔红波蓝波〕<br><br>");
+document.writeln("298期『敢当⑵波』开:？00准<br>");
+document.writeln("〔62827.com高手榜查看〕<br><br>");
+document.writeln("		
+document.writeln("");
+document.writeln("297期『敢当⑵波』开:马13准<br>");
+document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>蓝波〕<br><br>");
 document.writeln("		
 document.writeln("");
 document.writeln("296期『敢当⑵波』开:猴23准<br>");

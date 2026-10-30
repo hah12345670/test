@@ -55,8 +55,14 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("302期『敢当⑵波』开:？00准<br>");
-document.writeln("〔红波绿波〕<br><br>");
+document.writeln("303期『敢当⑵波』开:？00准<br>");
+document.writeln("〔62827.com高手榜查看〕<br><br>");
+document.writeln("		
+
+
+document.writeln("");
+document.writeln("302期『敢当⑵波』开:狗45准<br>");
+document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>绿波〕<br><br>");
 document.writeln("		
 
 

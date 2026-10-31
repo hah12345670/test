@@ -52,11 +52,16 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("304期『敢当⑵波』开:？00准<br>");
+document.writeln("〔红波绿波〕<br><br>");
+document.writeln("		
+
 
 
 document.writeln("");
-document.writeln("303期『敢当⑵波』开:？00准<br>");
-document.writeln("〔绿波蓝波〕<br><br>");
+document.writeln("303期『敢当⑵波』开:虎17准<br>");
+document.writeln("〔<span style=\'background-color: #FFFF00\'>绿波</span>蓝波〕<br><br>");
 document.writeln("		
 
 

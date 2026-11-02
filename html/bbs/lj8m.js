@@ -20,7 +20,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<script src=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
+document.writeln("<script src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -51,91 +51,75 @@ document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62827.com首页查看</font><br><br>");
 document.writeln("");
-
 document.writeln("");
-document.writeln("306期『敢当⑵波』开:？00准<br>");
-document.writeln("〔蓝波绿波〕<br><br>");
-document.writeln("		
+document.writeln("307期『敢当⑵波』开:？00准<br>");
+document.writeln("〔62827.com高手榜查看〕<br><br>");
+document.writeln("");
+document.writeln("306期『敢当⑵波』开:龙15准<br>");
+document.writeln("〔<span style=\'background-color: #FFFF00\'>蓝波</span>绿波〕<br><br>");
 document.writeln("");
 document.writeln("305期『敢当⑵波』开:蛇26准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>蓝波</span>绿波〕<br><br>");
-document.writeln("		
 
 document.writeln("");
 document.writeln("304期『敢当⑵波』开:狗21准<br>");
 document.writeln("〔红波<span style=\'background-color: #FFFF00\'>绿波</span>〕<br><br>");
-document.writeln("		
 
 
 
 document.writeln("");
 document.writeln("303期『敢当⑵波』开:虎17准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>绿波</span>蓝波〕<br><br>");
-document.writeln("		
 
 
 document.writeln("");
 document.writeln("302期『敢当⑵波』开:狗45准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>绿波〕<br><br>");
-document.writeln("		
-
 
 document.writeln("");
 document.writeln("301期『敢当⑵波』开:虎17准<br>");
 document.writeln("〔蓝波<span style=\'background-color: #FFFF00\'>绿波</span>〕<br><br>");
-document.writeln("		
 
 document.writeln("");
 document.writeln("300期『敢当⑵波』开:蛇38准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>绿波</span>蓝波〕<br><br>");
-document.writeln("		
 
-document.writeln("");
 document.writeln("299期『敢当⑵波』开:猴23准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>绿波〕<br><br>");
-document.writeln("		
-
-document.writeln("");
 document.writeln("298期『敢当⑵波』开:猪08准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>绿波〕<br><br>");
-document.writeln("		
+
+
+
 document.writeln("");
 document.writeln("297期『敢当⑵波』开:马13准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>蓝波〕<br><br>");
-document.writeln("		
 document.writeln("");
 document.writeln("296期『敢当⑵波』开:猴23准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>红波</span>蓝波〕<br><br>");
-document.writeln("		
 document.writeln("	");
 document.writeln("295期『敢当⑵波』开:马25准<br>");
 document.writeln("〔绿波<span style=\'background-color: #FFFF00\'>蓝波</span>〕<br><br>");
-document.writeln("		
 document.writeln("");
 document.writeln("294期『敢当⑵波』开:兔28错<br>");
 document.writeln("〔蓝波红波〕<br><br>");
-document.writeln("								
-document.writeln("																							");
 document.writeln("293期『敢当⑵波』开:虎05准<br>");
 document.writeln("〔<span style=\'background-color: #FFFF00\'>绿波</span>红波〕<br><br>");
-document.writeln("																							");
 document.writeln("292期『敢当⑵波』开:羊36准<br>");
 document.writeln("〔<span style=\"background-color: #FFFF00\">蓝波</span>绿波〕<br><br>");
-document.writeln("																							");
 document.writeln("291期『敢当⑵波』开:虎17准<br>");
 document.writeln("〔<span style=\"background-color: #FFFF00\">绿波</span>红波〕<br><br>");
-document.writeln("							");
-document.writeln("																											");
+
+
 document.writeln("290期『敢当⑵波』开:兔40准<br>");
 document.writeln("〔<span style=\"background-color: #FFFF00\">红波</span>绿波〕<br><br>");
 document.writeln("																				");
 document.writeln("289期『敢当⑵波』开:蛇38准<br>");
 document.writeln("〔蓝波<span style=\"background-color: #FFFF00\">绿波</span>〕<br><br>");
 document.writeln("				");
-document.writeln("");
 document.writeln("	288期『敢当⑵波』开:马25准<br>");
 document.writeln("〔<span style=\"background-color: #FFFF00\">蓝波</span>红波〕<br><br>");
-document.writeln("																								");
+
 document.writeln("287期『敢当⑵波』开:猪08错<br>");
 document.writeln("〔蓝波绿波〕<br><br>");
 document.writeln("						");
@@ -214,13 +198,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62827.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62827.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
@@ -229,8 +213,8 @@ document.writeln("</table>");
 document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("<script src=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
-document.writeln("<script src=\"https://ir62d-28.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/js/773388db.js\"></script>");
+document.writeln("<script src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
+document.writeln("<script src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/js/773388db.js\"></script>");
 
 
 

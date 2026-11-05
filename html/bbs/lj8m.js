@@ -54,7 +54,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("309期『敢当⑵波』开:？00准<br>");
-document.writeln("〔62827.com高手榜查看〕<br><br>");
+document.writeln("〔红波绿波〕<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

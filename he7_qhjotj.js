@@ -167,6 +167,128 @@ window.addEventListener('DOMContentLoaded', () => {
 				killTextEl.textContent = killPosList || "无";
 		}
 
+		/**
+		 * 新增的独立方法：三维交叉智能动态推荐
+		 * @param {Array} positionScores - 已经排好序的 12 个位置评分数组
+		 * @param {number} goldenCount - 主攻推荐数量（默认5位）
+		 * @param {number} defendCount - 防守推荐数量（默认5位）
+		 */
+		// 【完全独立的独立方法】内部自动统计 posCounts 并打印日志
+		function logThreeDimensionalRecommendation(goldenCount = 5, defendCount = 5) {
+				// 1. 获取最新生肖映射
+				const latestZodiacs = (typeof getLatestRowZodiacs === 'function') ? getLatestRowZodiacs() : {};
+
+				let posCounts = {};
+				let posTempCounts = {}; 
+
+				for(let i=1; i<=12; i++) {
+						posCounts[i] = 0;
+						posTempCounts[i] = { hot: 0, warm: 0, cold: 0 };
+				}
+
+				const rows = Array.from(document.querySelectorAll('.row')).filter(row => row.style.display !== 'none');
+
+				// 2. 统计各位置命中次数与冷热属性
+				rows.forEach(row => {
+						const ruleBox = row.querySelector('.rule-box');
+						if (!ruleBox) return;
+						const ruleValue = ruleBox.textContent.trim();
+
+						if (ruleValue === '?' || !ruleValue) return;
+
+						const numBoxes = row.querySelectorAll('.num-box');
+						if (numBoxes.length === 12) {
+								numBoxes.forEach((box, index) => {
+										if (box.textContent.trim() === ruleValue) {
+												const posKey = index + 1;
+												posCounts[posKey]++;
+
+												if (box.classList.contains('hot')) posTempCounts[posKey].hot++;
+												else if (box.classList.contains('warm')) posTempCounts[posKey].warm++;
+												else if (box.classList.contains('cold')) posTempCounts[posKey].cold++;
+										}
+								});
+						}
+				});
+
+				// 3. 基础分布与大盘趋势分析
+				let frontHits = 0, backHits = 0;
+				let oddHits = 0, evenHits = 0;
+
+				for (let pos = 1; pos <= 12; pos++) {
+						const count = posCounts[pos];
+						if (pos <= 6) frontHits += count;
+						else backHits += count;
+
+						if (pos % 2 !== 0) oddHits += count;
+						else evenHits += count;
+				}
+
+				const isFrontDominant = frontHits >= backHits;
+				const isOddDominant = oddHits >= evenHits;
+
+				// 4. 评分与排序
+				let positionScores = [];
+
+				for (let pos = 1; pos <= 12; pos++) {
+						let score = posCounts[pos] * 1.5;
+
+						const isPosFront = pos <= 6;
+						if (isPosFront === isFrontDominant) score += 2;
+
+						const isPosOdd = (pos % 2 !== 0);
+						if (isPosOdd === isOddDominant) score += 2;
+
+						const hotRatio = posCounts[pos] > 0 ? (posTempCounts[pos].hot / posCounts[pos]) : 0;
+						score += hotRatio * 3;
+
+						let tempAttr = "温";
+						if (posTempCounts[pos].hot >= posTempCounts[pos].warm && posTempCounts[pos].hot >= posTempCounts[pos].cold) {
+								tempAttr = "热";
+						} else if (posTempCounts[pos].cold > posTempCounts[pos].warm && posTempCounts[pos].cold > posTempCounts[pos].hot) {
+								tempAttr = "冷";
+						}
+
+						const spaceAttr = isPosFront ? "前" : "后";
+						const parityAttr = isPosOdd ? "奇" : "偶";
+						
+						const zodiacName = latestZodiacs[pos] || `位${pos}`;
+						const attrText = `位${pos}-${zodiacName} [${tempAttr}|${spaceAttr}|${parityAttr}](${posCounts[pos]}次)`;
+
+						positionScores.push({ pos, score, hits: posCounts[pos], attrText });
+				}
+
+				positionScores.sort((a, b) => {
+						if (b.score !== a.score) return b.score - a.score;
+						return a.pos - b.pos;
+				});
+
+				// 5. 打印控制台日志
+				// const goldenList = positionScores.slice(0, goldenCount);
+				// const defendList = positionScores.slice(goldenCount, goldenCount + defendCount);
+				const goldenNames = positionScores.slice(0, goldenCount).map(item => {
+						const parts = item.attrText.split("-"); // 以 "-" 分割
+						if (parts.length > 1) {
+								// 拿 "-" 后面的第一部分，并只取它的第一个字符（或者按空格切开取首个词）
+								return parts[1].trim().charAt(0); 
+						}
+						return "";
+				}).join("");
+				const defendNames = positionScores.slice(goldenCount, goldenCount + defendCount).map(item => {
+						const parts = item.attrText.split("-");
+						if (parts.length > 1) {
+								return parts[1].trim().charAt(0);
+						}
+						return "";
+				}).join("");
+
+				console.log(`主攻推荐${goldenCount}：${goldenNames}`);
+				console.log(`防守推荐${defendCount}：${defendNames}`);
+
+				// return positionScores;
+		}
+		logThreeDimensionalRecommendation();
+
 		const observer = new MutationObserver(calcAllAndRecommend);
 		observer.observe(topContainer, { childList: true, subtree: true });
 

@@ -282,8 +282,8 @@ window.addEventListener('DOMContentLoaded', () => {
 						return "";
 				}).join("");
 
-				console.log(`主攻推荐${goldenCount}：${goldenNames}`);
-				console.log(`防守推荐${defendCount}：${defendNames}`);
+				console.log(`${goldenCount}：${goldenNames}`);
+				console.log(`${defendCount}：${defendNames}`);
 
 				// return positionScores;
 		}

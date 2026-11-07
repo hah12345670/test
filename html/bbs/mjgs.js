@@ -28,7 +28,9 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("310期单双【双数+马猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("311期单双【双数+虎猴】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("310期单双【<span style=\'background-color: #FFFF00\'>双数</span>+马猴】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("309期单双【单数+龙<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
 
@@ -90,7 +92,8 @@ document.writeln("306期家野【家禽+<span style=\'background-color: #FFFF00\
 document.writeln("307期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("308期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+虎蛇】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("309期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔虎】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("310期家野【野兽+狗马】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("310期家野【野兽+狗马】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("311期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("");
@@ -129,7 +132,8 @@ document.writeln("307期天地【<span style=\'background-color: #FFFF00\'>天�
 document.writeln("308期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+牛猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("309期天地【地肖+龙<span style=\'background-color: #FFFF00\'>马</span>】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("310期天地【天肖+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("310期天地【天肖+虎狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("311期天地【地肖+猴龙】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -160,7 +164,8 @@ document.writeln("306期前后【<span style=\'background-color: #FFFF00\'>前�
 document.writeln("307期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("308期前后【<span style=\'background-color: #FFFF00\'>后肖</span>+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("309期前后【前肖+猪狗】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("310期前后【前肖+马狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("310期前后【前肖+马狗】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("311期前后【前肖+羊马】<font color=\"#FF0000\">√</font><br>	");
 
 
 

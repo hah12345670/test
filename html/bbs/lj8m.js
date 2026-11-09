@@ -54,8 +54,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("313期『敢当⑵波』开:？00准<br>");
-document.writeln("〔62853.com首页查看〕<br><br>");
+document.writeln("");
+document.writeln("314期『敢当⑵波』开:？00准<br>");
+document.writeln("〔62853.com高手榜查看〕<br><br>");
+document.writeln("");
+document.writeln("");
+document.writeln("313期『敢当⑵波』开:鼠43准<br>");
+document.writeln("〔红波<span style=\'background-color: #FFFF00\'>绿波</span>〕<br><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -173,7 +178,7 @@ document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("<script src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
-document.writeln("<script src=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/js/773388db.js\"></script>");
+
 
 
 

@@ -29,8 +29,9 @@ document.writeln("");
 
 
 
+document.writeln("314期单双【单数+羊蛇】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("313期单双【双数+虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("313期单双【双数+虎狗】<font color=\"#FF0000\">×</font><br>	");
 
 
 document.writeln("312期单双【<span style=\'background-color: #FFFF00\'>双数</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
@@ -102,7 +103,8 @@ document.writeln("309期家野【<span style=\'background-color: #FFFF00\'>家�
 document.writeln("310期家野【野兽+狗马】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("311期家野【<span style=\'background-color: #FFFF00\'>家禽</span>+兔虎】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("312期家野【<span style=\'background-color: #FFFF00\'>野兽</span>+牛猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期家野【家禽+兔虎】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("313期家野【家禽+兔虎】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("314期家野【家禽+虎猴】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");
@@ -145,7 +147,8 @@ document.writeln("309期天地【地肖+龙<span style=\'background-color: #FFFF
 document.writeln("310期天地【天肖+虎狗】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("311期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+猴龙】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("312期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期天地【天肖+虎鸡】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("313期天地【天肖+虎鸡】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("314期天地【地肖+龙马】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -168,7 +171,9 @@ document.writeln("");
 
 
 document.writeln("312期前后【后肖+牛<span style=\'background-color: #FFFF00\'>蛇</span>】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("313期前后【后肖+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("313期前后【后肖+<span style=\'background-color: #FFFF00\'>鼠</span>龙】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("314期前后【后肖+虎兔】<font color=\"#FF0000\">√</font><br>	");
 
 
 document.writeln("");

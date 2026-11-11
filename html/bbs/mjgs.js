@@ -197,7 +197,7 @@ document.writeln("	</div>");
 document.writeln("	");
 document.writeln("			<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><font style=\'font-size: 16pt\'>");
 document.writeln("				<strong>");
-document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://cy62-8.xn--7dcgarad5dtat8jta3k.xn--gecrj9c:8443/#62853\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62853b.com</span></font></a></strong></tr></table>");
+document.writeln("				<a target=\"_blank\" style=\"text-decoration: none\" href=\"https://dyic62-11.xn--7dcajtb1ecof4a6ibcg0nh.xn--gecrj9c/#62102\"><span style=font-family:楷体;color:#00f>更多好料请关注</span><font color=\'#FF0000\'><span style=font-family:楷体;font-size:17pt;>62102b.com</span></font></a></strong></tr></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("	");

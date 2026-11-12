@@ -54,7 +54,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("316期『诸葛③肖』〔62102.com高手榜查看〕开:？00准<br>");
+document.writeln("316期『诸葛③肖』〔牛猴鸡〕开:？00准<br>");
 document.writeln("		
 document.writeln("");
 document.writeln("315期『诸葛③肖』〔蛇猴鼠〕开:羊48错<br>");

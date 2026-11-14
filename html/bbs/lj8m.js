@@ -53,7 +53,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到32569.com�
 document.writeln("");
 document.writeln("");
 
-document.writeln("318期绝杀<font color=\"#0033CC\" size=\"5\">【32569.com首页查看】</font>开？00准<br>");
+document.writeln("318期绝杀<font color=\"#0033CC\" size=\"5\">【牛猴蛇】</font>开？00准<br>");
 
 document.writeln("317期绝杀<font color=\"#0033CC\" size=\"5\">【狗猪牛】</font>开蛇26准<br>");
 

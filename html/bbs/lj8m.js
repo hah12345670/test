@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://afd11-2.xn--7dcaaa1ba8dta2cwgbdbd.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://cld11-10.773388a.app/773388.app#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -45,29 +45,65 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【神算诸葛】(诸葛③肖)</font><br>");
+document.writeln("【天机网32569.com】(绝杀三肖)</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62102.com首页查看</font><br><br>");
+document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到32569.com首页查看</font><br><br>");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("316期『诸葛③肖』〔牛猴鸡〕开:？00准<br>");
-document.writeln("		
-document.writeln("");
-document.writeln("315期『诸葛③肖』〔蛇猴鼠〕开:羊48错<br>");
-document.writeln("																				");
-document.writeln("314期『诸葛③肖』〔<span style=\"background-color: #FFFF00\">鼠</span>猪蛇〕开:鼠31准<br>");
-document.writeln("");
-document.writeln("																									");
-document.writeln("313期『诸葛③肖』〔猴<span style=\"background-color: #FFFF00\">鼠</span>猪〕开:鼠43准<br>");
-document.writeln("");
-document.writeln("																									");
-document.writeln("312期『诸葛③肖』〔<span style=\"background-color: #FFFF00\">蛇</span>羊龙〕开:蛇38准<br>");
 document.writeln("");
 
+document.writeln("318期绝杀<font color=\"#0033CC\" size=\"5\">【32569.com首页查看】</font>开？00准<br>");
+
+document.writeln("317期绝杀<font color=\"#0033CC\" size=\"5\">【狗猪牛】</font>开蛇26准<br>");
+
+
+document.writeln("316期绝杀<font color=\"#0033CC\" size=\"5\">【马鼠羊】</font>开龙03准<br>");
+
+document.writeln("315期绝杀<font color=\"#0033CC\" size=\"5\">【马蛇鸡】</font>开羊48准<br>");
+
+document.writeln("314期绝杀<font color=\"#0033CC\" size=\"5\">【龙虎蛇】</font>开鼠31准<br>");
+
+document.writeln("313期绝杀<font color=\"#0033CC\" size=\"5\">【鸡猴虎】</font>开鼠43准<br>");
+
+
+document.writeln("312期绝杀<font color=\"#0033CC\" size=\"5\">【虎鸡兔】</font>开蛇38准<br>");
+
+document.writeln("311期绝杀<font color=\"#0033CC\" size=\"5\">【鼠龙虎】</font>开鸡34准<br>");
+
+document.writeln("310期绝杀<font color=\"#0033CC\" size=\"5\">【狗马龙】</font>开鸡46准<br>");
+
+document.writeln("309期绝杀<font color=\"#0033CC\" size=\"5\">【狗猪兔】</font>开马13准<br>");
+
+document.writeln("308期绝杀<font color=\"#0033CC\" size=\"5\">【狗羊虎】</font>开鸡46准<br>");
+
+document.writeln("307期绝杀<font color=\"#0033CC\" size=\"5\">【蛇猪虎】</font>开牛42准<br>");
+
+document.writeln("306期绝杀<font color=\"#0033CC\" size=\"5\">【蛇鼠鸡】</font>开龙15准<br>");
+
+document.writeln("305期绝杀<font color=\"#0033CC\" size=\"5\">【猪羊马】</font>开蛇26准<br>");
+
+document.writeln("304期绝杀<font color=\"#0033CC\" size=\"5\">【猴龙鸡】</font>开狗21准<br>");
+
+document.writeln("303期绝杀<font color=\"#0033CC\" size=\"5\">【龙鼠狗】</font>开虎17准<br>");
+
+document.writeln("302期绝杀<font color=\"#0033CC\" size=\"5\">【龙羊兔】</font>开狗45准<br>");
+
+document.writeln("301期绝杀<font color=\"#0033CC\" size=\"5\">【鸡狗鼠】</font>开虎17准<br>");
+
+document.writeln("300期绝杀<font color=\"#0033CC\" size=\"5\">【猴虎羊】</font>开蛇38准<br>");
+
+
+document.writeln("299期绝杀<font color=\"#0033CC\" size=\"5\">【羊鸡鼠】</font>开猴23准<br>");
+
+document.writeln("298期绝杀<font color=\"#0033CC\" size=\"5\">【龙鸡猴】</font>开猪08准<br>");
+
+
+document.writeln("297期绝杀<font color=\"#0033CC\" size=\"5\">【鸡狗蛇】</font>开马13准<br>");
+
+document.writeln("296期绝杀<font color=\"#0033CC\" size=\"5\">【龙猪马】</font>开猴23准<br>");
+
+document.writeln("295期绝杀<font color=\"#0033CC\" size=\"5\">【猪牛蛇】</font>开马25准<br>");
 document.writeln("");
 document.writeln("		<br></font>		</font>	");
 document.writeln("");

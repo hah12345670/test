@@ -57,7 +57,8 @@ document.writeln("315期吉【马<span style=\'background-color: #FFFF00\'>羊</
 document.writeln("316期吉【蛇<span style=\'background-color: #FFFF00\'>龙</span>鸡羊】凶【猪猴牛鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("317期吉【兔羊<span style=\'background-color: #FFFF00\'>蛇</span>马】凶【鼠猴虎狗】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("318期吉【羊马龙<span style=\'background-color: #FFFF00\'>蛇</span>】凶【牛猪猴鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期吉【兔蛇羊龙】凶【鼠猪狗猴】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("319期吉【兔蛇羊龙】凶【鼠猪狗猴】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("320期吉【62102.com首页查看】<font color=\"#FF0000\">√</font><br>	");
 
 
 

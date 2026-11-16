@@ -27,8 +27,9 @@ document.writeln("");
 document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
+document.writeln("320期单双【单数+牛鸡】<font color=\"#FF0000\">√</font><br>	");
 
-document.writeln("319期单双【双数+鼠龙】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("319期单双【双数+鼠龙】<font color=\"#FF0000\">×</font><br>	");
 
 
 document.writeln("318期单双【单数+猪牛】<font color=\"#FF0000\">×</font><br>	");
@@ -106,7 +107,10 @@ document.writeln("	<span style=\'font-size: 15pt\'>");
 document.writeln("");
 
 
-document.writeln("319期家野【家禽+龙虎】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("320期家野【家禽+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+
+document.writeln("319期家野【家禽+龙<span style=\'background-color: #FFFF00\'>虎</span>】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("318期家野【家禽+龙猴】<font color=\"#FF0000\">×</font><br>	");
 
@@ -161,7 +165,8 @@ document.writeln("315期天地【天肖+<span style=\'background-color: #FFFF00\
 document.writeln("316期天地【地肖+牛<span style=\'background-color: #FFFF00\'>龙</span>】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("317期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("318期天地【<span style=\'background-color: #FFFF00\'>地肖</span>+龙马】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期天地【天肖+虎蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("319期天地【天肖+<span style=\'background-color: #FFFF00\'>虎</span>蛇】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("320期天地【天肖+蛇狗】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");
@@ -189,7 +194,8 @@ document.writeln("315期前后【<span style=\'background-color: #FFFF00\'>后�
 document.writeln("316期前后【<span style=\'background-color: #FFFF00\'>前</span>肖+马猴】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("317期前后【<span style=\'background-color: #FFFF00\'>前肖</span>+猴猪】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("318期前后【后肖+虎牛】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("319期前后【后肖+兔鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("319期前后【后肖+兔鼠】<font color=\"#FF0000\">×</font><br>	");
+document.writeln("320期前后【后肖+牛鼠】<font color=\"#FF0000\">√</font><br>	");
 
 document.writeln("");
 document.writeln("	");

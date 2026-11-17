@@ -446,11 +446,13 @@ window.addEventListener('DOMContentLoaded', () => {
 		}
 
 		/**
-		 * 渲染 arr_he7 表格的通用方法（增加命中单元格背景标注优化版）
+		 * 渲染 arr_he7 表格的通用方法（参数化注码与赔率优化版）
 		 * @param {Array} data 数据源
 		 * @param {string} tableId 表格 DOM 元素的 ID（默认 'arr-he7-table'）
+		 * @param {number} stake 注码（默认 10）
+		 * @param {number} odds 赔率（默认 10）
 		 */
-		function renderArrHe7Table(data, tableId = 'arr-he7-table') {
+		function renderArrHe7Table(data, tableId = 'arr-he7-table', stake = 10, odds = 10) {
 				const table = document.getElementById(tableId);
 				if (!table) return;
 
@@ -481,7 +483,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				const tdStyle = "border: 1px solid #ddd; padding: 6px 5px; color: #555; text-align: center; font-size: 11px;";
 				const summaryTdStyle = "border: 1px solid #ddd; padding: 6px 5px; color: #d9363e; font-weight: bold; text-align: center; font-size: 11px; background: #fafafa; vertical-align: middle;";
 				
-				// 命中单元格的背景标注样式（浅红色背景，搭配红色文字非常醒目）
+				// 命中单元格的背景标注样式
 				const hitBgStyle = "background: #fff1f0;";
 
 				if (isObjectArray) {
@@ -569,19 +571,18 @@ window.addEventListener('DOMContentLoaded', () => {
 
 														let count1 = sub1.length;
 														if (count1 > 0) {
-																statsProfit[key + '_sub1'] = (statsProfit[key + '_sub1'] || 0) + (hit1 ? (10 - count1) : (-count1));
+																statsProfit[key + '_sub1'] = (statsProfit[key + '_sub1'] || 0) + (hit1 ? (stake * odds - stake * count1) : (-stake * count1));
 														}
 														let count2 = sub2.length;
 														if (count2 > 0) {
-																statsProfit[key + '_sub2'] = (statsProfit[key + '_sub2'] || 0) + (hit2 ? (10 - count2) : (-count2));
+																statsProfit[key + '_sub2'] = (statsProfit[key + '_sub2'] || 0) + (hit2 ? (stake * odds - stake * count2) : (-stake * count2));
 														}
 														let totalCombCount = count1 + count2;
 														if (totalCombCount > 0) {
-																statsProfit[key + '_comb'] = (statsProfit[key + '_comb'] || 0) + ((hit1 || hit2) ? (10 - totalCombCount) : (-totalCombCount));
+																statsProfit[key + '_comb'] = (statsProfit[key + '_comb'] || 0) + ((hit1 || hit2) ? (stake * odds - stake * totalCombCount) : (-stake * totalCombCount));
 														}
 												}
 
-												// 动态应用命中背景色
 												let bg1 = hit1 ? hitBgStyle : "";
 												let bg2 = hit2 ? hitBgStyle : "";
 												bodyHtml += `<td style="${tdStyle} ${bg1}">${highlightMatch(sub1, currentRuleVal)}</td>`;
@@ -596,7 +597,7 @@ window.addEventListener('DOMContentLoaded', () => {
 														if (isHit) statsHits[key] = (statsHits[key] || 0) + 1;
 														let count = cellStr.length;
 														if (count > 0) {
-																statsProfit[key] = (statsProfit[key] || 0) + (isHit ? (10 - count) : (-count));
+																statsProfit[key] = (statsProfit[key] || 0) + (isHit ? (stake * odds - stake * count) : (-stake * count));
 														}
 												}
 
@@ -764,7 +765,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 												if (isHit) colHits[i - 2]++;
 												if (isValidRule && count > 0) {
-														colProfits[i - 2] += isHit ? (10 - count) : (-count);
+														colProfits[i - 2] += isHit ? (stake * odds - stake * count) : (-stake * count);
 												}
 										}
 
@@ -782,15 +783,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
 												let c32_len = String(renderRow[2]).trim().length + String(renderRow[3]).trim().length;
 												if (c32_len > 0) {
-														combProfit32 += (h32_1 || h32_2) ? (10 - c32_len) : (-c32_len);
+														combProfit32 += (h32_1 || h32_2) ? (stake * odds - stake * c32_len) : (-stake * c32_len);
 												}
 												let c15_len = String(renderRow[4]).trim().length + String(renderRow[5]).trim().length;
 												if (c15_len > 0) {
-														combProfit15 += (h15_1 || h15_2) ? (10 - c15_len) : (-c15_len);
+														combProfit15 += (h15_1 || h15_2) ? (stake * odds - stake * c15_len) : (-stake * c15_len);
 												}
 												let c55_len = String(renderRow[6]).trim().length + String(renderRow[7]).trim().length;
 												if (c55_len > 0) {
-														combProfit55 += (h55_1 || h55_2) ? (10 - c55_len) : (-c55_len);
+														combProfit55 += (h55_1 || h55_2) ? (stake * odds - stake * c55_len) : (-stake * c55_len);
 												}
 										}
 
@@ -809,7 +810,6 @@ window.addEventListener('DOMContentLoaded', () => {
 												} else if (isIndexCol || isPeriodCol) {
 														bodyHtml += `<td style="${tdStyle}">${cellStr}</td>`;
 												} else {
-														// 检查当前单元格是否命中规则
 														let isHit = isValidRule && cellStr.includes(currentRule);
 														let hitBg = isHit ? hitBgStyle : "";
 														bodyHtml += `<td style="${tdStyle} ${hitBg}">${highlightMatch(cellStr, currentRule)}</td>`;
@@ -880,7 +880,7 @@ window.addEventListener('DOMContentLoaded', () => {
 		}
 		// 初始化数据加载
 		if (typeof arr_he7 !== 'undefined') {
-			renderArrHe7Table(arr_he7, 'arr-he7-table');
+				renderArrHe7Table(arr_he7, 'arr-he7-table', 10, 10);
 		}
 
 		const observer = new MutationObserver(calcAllAndRecommend);

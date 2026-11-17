@@ -446,7 +446,7 @@ window.addEventListener('DOMContentLoaded', () => {
 		}
 
 		/**
-		 * 渲染 arr_he7 表格的通用方法（参数化注码与赔率优化版）
+		 * 渲染 arr_he7 表格的通用方法（参数化注码与赔率优化版 - 增设“倍数(1-3-7循环)”行）
 		 * @param {Array} data 数据源
 		 * @param {string} tableId 表格 DOM 元素的 ID（默认 'arr-he7-table'）
 		 * @param {number} stake 注码（默认 10）
@@ -477,6 +477,26 @@ window.addEventListener('DOMContentLoaded', () => {
 						const escapedRule = rule.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
 						const regex = new RegExp(`(${escapedRule})`, 'g');
 						return text.replace(regex, '<span style="color: red; font-weight: bold;">$1</span>');
+				}
+
+				// 1-3-7 倍投状态机辅助函数：根据当前错误次数获取倍数，并更新下一次的错误次数
+				const multiSteps = [1, 3, 7];
+				function calcStepProfitAndUpdateState(stateObj, key, isHit, charCount) {
+						let errCount = stateObj[key] || 0;
+						let currentMult = multiSteps[errCount]; // 当前这一把的倍数 (1, 3 或 7)
+						let actualStake = stake * currentMult;  // 当前这一把的实际注码
+
+						// 计算本把盈亏（与原盈利公式完全一致，仅替换 stake 为 actualStake）
+						let profit = isHit ? (actualStake * odds - actualStake * charCount) : (-actualStake * charCount);
+
+						// 更新下一把的状态：中了直接还原(0)，错了累加，满3次(errCount >= 2后再错)还原(0)
+						if (isHit) {
+								stateObj[key] = 0;
+						} else {
+								stateObj[key] = (errCount + 1) % 3;
+						}
+
+						return profit;
 				}
 
 				const thStyle = "border: 1px solid #ddd; padding: 7px 5px; color: #333; font-weight: bold; text-align: center; font-size: 11px;";
@@ -518,6 +538,8 @@ window.addEventListener('DOMContentLoaded', () => {
 						let validRowsCount = 0;
 						let statsHits = {};
 						let statsProfit = {}; 
+						let statsMultProfit = {}; // 倍数盈亏统计
+						let errStates = {};       // 记录各列当前的连错次数 (0, 1, 2)
 
 						let prevItem = null;
 						data.forEach((item, rowIndex) => {
@@ -572,14 +594,18 @@ window.addEventListener('DOMContentLoaded', () => {
 														let count1 = sub1.length;
 														if (count1 > 0) {
 																statsProfit[key + '_sub1'] = (statsProfit[key + '_sub1'] || 0) + (hit1 ? (stake * odds - stake * count1) : (-stake * count1));
+																statsMultProfit[key + '_sub1'] = (statsMultProfit[key + '_sub1'] || 0) + calcStepProfitAndUpdateState(errStates, key + '_sub1', hit1, count1);
 														}
 														let count2 = sub2.length;
 														if (count2 > 0) {
 																statsProfit[key + '_sub2'] = (statsProfit[key + '_sub2'] || 0) + (hit2 ? (stake * odds - stake * count2) : (-stake * count2));
+																statsMultProfit[key + '_sub2'] = (statsMultProfit[key + '_sub2'] || 0) + calcStepProfitAndUpdateState(errStates, key + '_sub2', hit2, count2);
 														}
 														let totalCombCount = count1 + count2;
 														if (totalCombCount > 0) {
-																statsProfit[key + '_comb'] = (statsProfit[key + '_comb'] || 0) + ((hit1 || hit2) ? (stake * odds - stake * totalCombCount) : (-stake * totalCombCount));
+																let isCombHit = (hit1 || hit2);
+																statsProfit[key + '_comb'] = (statsProfit[key + '_comb'] || 0) + (isCombHit ? (stake * odds - stake * totalCombCount) : (-stake * totalCombCount));
+																statsMultProfit[key + '_comb'] = (statsMultProfit[key + '_comb'] || 0) + calcStepProfitAndUpdateState(errStates, key + '_comb', isCombHit, totalCombCount);
 														}
 												}
 
@@ -598,6 +624,7 @@ window.addEventListener('DOMContentLoaded', () => {
 														let count = cellStr.length;
 														if (count > 0) {
 																statsProfit[key] = (statsProfit[key] || 0) + (isHit ? (stake * odds - stake * count) : (-stake * count));
+																statsMultProfit[key] = (statsMultProfit[key] || 0) + calcStepProfitAndUpdateState(errStates, key, isHit, count);
 														}
 												}
 
@@ -723,6 +750,58 @@ window.addEventListener('DOMContentLoaded', () => {
 								}
 						});
 						bodyHtml += `</tr>`;
+
+						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
+						bodyHtml += `<tr style="background: #fafafa;">`;
+						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数</td>`;
+						
+						renderKeys.slice(2).forEach(key => {
+								const lowerKey = key.toLowerCase();
+								let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+								let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+								if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+										let mp1 = statsMultProfit[key + '_sub1'] || 0;
+										let mp2 = statsMultProfit[key + '_sub2'] || 0;
+										let c1 = mp1 >= 0 ? '#52c41a' : '#f5222d';
+										let c2 = mp2 >= 0 ? '#52c41a' : '#f5222d';
+
+										bodyHtml += `<td style="${summaryTdStyle} color: ${c1};">${mp1}</td>`;
+										bodyHtml += `<td style="${summaryTdStyle} color: ${c2};">${mp2}</td>`;
+								} else if (isRuleField || isLengmenField) {
+										let mp = statsMultProfit[key] || 0;
+										let color = mp >= 0 ? '#52c41a' : '#f5222d';
+										let valStr = isLengmenField ? `<span style="color: ${color};">${mp}</span>` : `-`;
+										bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${valStr}</td>`;
+								} else {
+										let mp = statsMultProfit[key] || 0;
+										let color = mp >= 0 ? '#52c41a' : '#f5222d';
+										bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${mp}</td>`;
+								}
+						});
+						bodyHtml += `</tr>`;
+
+						// 组合倍数行
+						bodyHtml += `<tr style="background: #fafafa;">`;
+						renderKeys.slice(2).forEach(key => {
+								const lowerKey = key.toLowerCase();
+								let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+								let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+								if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+										let mpComb = statsMultProfit[key + '_comb'] || 0;
+										let cComb = mpComb >= 0 ? '#52c41a' : '#f5222d';
+										let combName = "组合";
+										if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
+										else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+										else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
+
+										bodyHtml += `<td style="${summaryTdStyle}; color: ${cComb};" colspan="2">${combName}倍数: ${mpComb}</td>`;
+								} else if (!isRuleField && !isLengmenField) {
+										bodyHtml += `<td style="${summaryTdStyle}"></td>`;
+								}
+						});
+						bodyHtml += `</tr>`;
 						bodyHtml += '</tbody>';
 
 				} else {
@@ -742,8 +821,11 @@ window.addEventListener('DOMContentLoaded', () => {
 						let validRowsCount = 0;
 						let colHits = [0, 0, 0, 0, 0, 0, 0]; 
 						let colProfits = [0, 0, 0, 0, 0, 0, 0]; 
+						let colMultProfits = [0, 0, 0, 0, 0, 0, 0]; // 各列倍数盈亏
 						let combHits32 = 0, combHits15 = 0, combHits55 = 0;
 						let combProfit32 = 0, combProfit15 = 0, combProfit55 = 0;
+						let combMultProfit32 = 0, combMultProfit15 = 0, combMultProfit55 = 0;
+						let errStatesArr = {}; // 二维数组各列连错状态
 
 						let prevRow = null;
 						data.forEach((row, rowIndex) => {
@@ -766,6 +848,7 @@ window.addEventListener('DOMContentLoaded', () => {
 												if (isHit) colHits[i - 2]++;
 												if (isValidRule && count > 0) {
 														colProfits[i - 2] += isHit ? (stake * odds - stake * count) : (-stake * count);
+														colMultProfits[i - 2] += calcStepProfitAndUpdateState(errStatesArr, 'col_' + i, isHit, count);
 												}
 										}
 
@@ -783,15 +866,21 @@ window.addEventListener('DOMContentLoaded', () => {
 
 												let c32_len = String(renderRow[2]).trim().length + String(renderRow[3]).trim().length;
 												if (c32_len > 0) {
-														combProfit32 += (h32_1 || h32_2) ? (stake * odds - stake * c32_len) : (-stake * c32_len);
+														let isHit32 = (h32_1 || h32_2);
+														combProfit32 += isHit32 ? (stake * odds - stake * c32_len) : (-stake * c32_len);
+														combMultProfit32 += calcStepProfitAndUpdateState(errStatesArr, 'comb32', isHit32, c32_len);
 												}
 												let c15_len = String(renderRow[4]).trim().length + String(renderRow[5]).trim().length;
 												if (c15_len > 0) {
-														combProfit15 += (h15_1 || h15_2) ? (stake * odds - stake * c15_len) : (-stake * c15_len);
+														let isHit15 = (h15_1 || h15_2);
+														combProfit15 += isHit15 ? (stake * odds - stake * c15_len) : (-stake * c15_len);
+														combMultProfit15 += calcStepProfitAndUpdateState(errStatesArr, 'comb15', isHit15, c15_len);
 												}
 												let c55_len = String(renderRow[6]).trim().length + String(renderRow[7]).trim().length;
 												if (c55_len > 0) {
-														combProfit55 += (h55_1 || h55_2) ? (stake * odds - stake * c55_len) : (-stake * c55_len);
+														let isHit55 = (h55_1 || h55_2);
+														combProfit55 += isHit55 ? (stake * odds - stake * c55_len) : (-stake * c55_len);
+														combMultProfit55 += calcStepProfitAndUpdateState(errStatesArr, 'comb55', isHit55, c55_len);
 												}
 										}
 
@@ -873,6 +962,32 @@ window.addEventListener('DOMContentLoaded', () => {
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp15_c};" colspan="2">1+5 组合盈利: ${combProfit15}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp55_c};" colspan="2">5+5 组合盈利: ${combProfit55}</td>`;
 						bodyHtml += `</tr>`;
+
+						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
+						bodyHtml += `<tr style="background: #fafafa;">`;
+						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数</td>`;
+						for(let i = 0; i < 6; i++) {
+								let mp = colMultProfits[i];
+								let color = mp >= 0 ? '#52c41a' : '#f5222d';
+								bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${mp}</td>`;
+						}
+						let mp6 = colMultProfits[6];
+						let mc6 = mp6 >= 0 ? '#52c41a' : '#f5222d';
+						bodyHtml += `<td style="${summaryTdStyle} color: ${mc6};" rowspan="2">${mp6}</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
+						bodyHtml += `</tr>`;
+
+						// 组合倍数跨列行
+						let cbm32_c = combMultProfit32 >= 0 ? '#52c41a' : '#f5222d';
+						let cbm15_c = combMultProfit15 >= 0 ? '#52c41a' : '#f5222d';
+						let cbm55_c = combMultProfit55 >= 0 ? '#52c41a' : '#f5222d';
+
+						bodyHtml += `<tr style="background: #fafafa;">`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm32_c};" colspan="2">3+2 组合倍数: ${combMultProfit32}</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm15_c};" colspan="2">1+5 组合倍数: ${combMultProfit15}</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm55_c};" colspan="2">5+5 组合倍数: ${combMultProfit55}</td>`;
+						bodyHtml += `</tr>`;
+
 						bodyHtml += '</tbody>';
 				}
 

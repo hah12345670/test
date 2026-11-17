@@ -6,45 +6,46 @@ let currentSystemConfig = {
             7
         ],
         [
-            10,
+            12,
             13,
-            16
+            16,
+            19
         ],
         [
-            22,
-            26,
-            29
+            24,
+            27
         ],
         [
+            30,
             31,
-            33,
-            35,
+            32,
             36,
             39
         ],
         [
-            40,
             42,
+            45,
             46,
-            48
+            48,
+            49
         ],
         [
-            50,
+            51,
             52,
             55,
-            56
+            57
         ],
         [
-            61,
+            60,
             62,
             63,
-            65,
-            69
+            64,
+            67,
+            68
         ],
         [
             70,
             73,
-            75,
             76,
             77
         ],
@@ -66,14 +67,14 @@ let currentSystemConfig = {
                         3,
                         4
                     ],
-                    "threshold": 0.9
+                    "threshold": 1.04
                 },
                 {
                     "pattern": [
                         2,
                         3
                     ],
-                    "threshold": 0.8
+                    "threshold": 0.72
                 },
                 {
                     "pattern": [
@@ -81,7 +82,7 @@ let currentSystemConfig = {
                         3,
                         4
                     ],
-                    "threshold": 1.3
+                    "threshold": 1.4
                 }
             ]
         },
@@ -95,18 +96,18 @@ let currentSystemConfig = {
                 {
                     "pattern": [
                         5,
-                        6,
-                        7
+                        6
                     ],
-                    "threshold": 1.34
+                    "threshold": 1.4
                 },
                 {
                     "pattern": [
+                        3,
                         4,
                         5,
                         6
                     ],
-                    "threshold": 1.34
+                    "threshold": 1.52
                 }
             ]
         },
@@ -123,7 +124,7 @@ let currentSystemConfig = {
                         2,
                         3
                     ],
-                    "threshold": 0.72
+                    "threshold": 0.84
                 },
                 {
                     "pattern": [
@@ -131,7 +132,7 @@ let currentSystemConfig = {
                         4,
                         5
                     ],
-                    "threshold": 1.32
+                    "threshold": 1.48
                 },
                 {
                     "pattern": [
@@ -152,10 +153,10 @@ let currentSystemConfig = {
             "options": [
                 {
                     "pattern": [
-                        2,
-                        3
+                        1,
+                        2
                     ],
-                    "threshold": 0.94
+                    "threshold": 0.84
                 },
                 {
                     "pattern": [
@@ -179,9 +180,10 @@ let currentSystemConfig = {
                 {
                     "pattern": [
                         1,
-                        2
+                        2,
+                        3
                     ],
-                    "threshold": 0.84
+                    "threshold": 0.96
                 },
                 {
                     "pattern": [
@@ -195,14 +197,15 @@ let currentSystemConfig = {
                         2,
                         3
                     ],
-                    "threshold": 0.8
+                    "threshold": 0.76
                 },
                 {
                     "pattern": [
+                        2,
                         3,
                         4
                     ],
-                    "threshold": 1.0
+                    "threshold": 1.12
                 }
             ]
         }

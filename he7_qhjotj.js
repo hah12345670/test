@@ -753,7 +753,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
 						bodyHtml += `<tr style="background: #fafafa;">`;
-						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数137</td>`;
 						
 						renderKeys.slice(2).forEach(key => {
 								const lowerKey = key.toLowerCase();
@@ -965,7 +965,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
 						bodyHtml += `<tr style="background: #fafafa;">`;
-						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍投策略</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数137</td>`;
 						for(let i = 0; i < 6; i++) {
 								let mp = colMultProfits[i];
 								let color = mp >= 0 ? '#52c41a' : '#f5222d';

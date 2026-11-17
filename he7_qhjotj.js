@@ -441,125 +441,437 @@ window.addEventListener('DOMContentLoaded', () => {
 		// 		logThreeDimensionalRecommendationByData(rawData.slice(0+i, 31+i), 10, 2);
 		// }
 		const arr_he7 = [];
-		for (let i = 31; i >= 0; i--) {
+		for (let i = 20; i >= 0; i--) {
 				arr_he7.push(logThreeDimensionalRecommendationByData(rawData.slice(0+i, 31+i), 10, 2));
 		}
 
 		/**
 		 * 渲染 arr_he7 表格的通用方法
-		 * 自动将“推荐3-2”、“推荐1-5”、“推荐5-5”拆分为双子列展示
-		 * @param {Array} data - 数据源（支持对象数组或二维数组）
-		 * @param {string} tableId - 表格 DOM 元素的 ID（默认 'arr-he7-table'）
+		 * 优化：底部“正确率”和“盈利”行的首尾及各非组合列均采用 rowspan="2" 实现上下行垂直合并，排版彻底对称整洁
+		 * @param {Array} data 数据源
+		 * @param {string} tableId 表格 DOM 元素的 ID（默认 'arr-he7-table'）
 		 */
 		function renderArrHe7Table(data, tableId = 'arr-he7-table') {
 			const table = document.getElementById(tableId);
 			if (!table) return;
 
 			if (!data || !Array.isArray(data) || data.length === 0) {
-					table.innerHTML = '<tr><td style="padding: 10px; color: #888;">数据为空或未定义</td></tr>';
+					table.innerHTML = '<tr><td style="padding: 10px; color: #888; text-align: center;">数据为空或未定义</td></tr>';
 					return;
 			}
 
-			// 需要拆分为两列展示的字段列表
-			const splitColumns = ['推荐3-2', '推荐1-5', '推荐5-5', 'tj32', 'rec32', 'tj15', 'rec15', 'tj55', 'rec55'];
+			if (table.parentElement && !table.parentElement.style.overflowX) {
+					table.parentElement.style.overflowX = 'auto';
+					table.parentElement.style.webkitOverflowScrolling = 'touch';
+			}
 
+			const firstItem = data[0];
 			let headerHtml = '';
 			let bodyHtml = '';
 
-			// 字段中文表头映射
-			const fieldLabels = {
-					'index': '序号', 'xuhao': '序号', 'id': '序号',
-					'qihao': '期数', 'period': '期数',
-					'tj32': '推荐3-2', 'rec32': '推荐3-2',
-					'tj15': '推荐1-5', 'rec15': '推荐1-5',
-					'tj55': '推荐5-5', 'rec55': '推荐5-5',
-					'lengmen': '冷门', 'cold': '冷门',
-					'guize': '规则', 'rule': '规则'
-			};
+			const isObjectArray = (typeof firstItem === 'object' && firstItem !== null && !Array.isArray(firstItem));
 
-			// 判断是否为对象数组
-			if (typeof data[0] === 'object' && data[0] !== null && !Array.isArray(data[0])) {
-					const keys = Object.keys(data[0]);
-					
-					// 第一行表头（包含合并单元格）
-					headerHtml = '<thead style="background: #fafafa; position: sticky; top: 0; z-index: 1;"><tr>';
-					keys.forEach(key => {
+			function highlightMatch(text, rule) {
+					if (!rule || rule === '-' || !text) return text;
+					const escapedRule = rule.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+					const regex = new RegExp(`(${escapedRule})`, 'g');
+					return text.replace(regex, '<span style="color: red; font-weight: bold;">$1</span>');
+			}
+
+			const thStyle = "border: 1px solid #ddd; padding: 6px 4px; color: #333; font-weight: bold; text-align: center; font-size: 11px;";
+			const tdStyle = "border: 1px solid #ddd; padding: 6px 4px; color: #555; text-align: center; font-size: 11px;";
+			// 为 rowspan 的单元格增加垂直居中样式
+			const summaryTdStyle = "border: 1px solid #ddd; padding: 6px 4px; color: #d9363e; font-weight: bold; text-align: center; font-size: 11px; background: #fafafa; vertical-align: middle;";
+
+			if (isObjectArray) {
+					// --- 对象数组渲染逻辑 ---
+					let keys = Object.keys(firstItem);
+					const hasIndexField = keys.some(k => ['index', 'xuhao', 'id'].includes(k.toLowerCase()));
+					const renderKeys = hasIndexField ? [...keys] : ['xuhao', ...keys];
+
+					const splitColumns = ['推荐3-2', '推荐1-5', '推荐5-5', 'tj32', 'rec32', 'tj15', 'rec15', 'tj55', 'rec55'];
+					const fieldLabels = {
+							'index': '序号', 'xuhao': '序号', 'id': '序号',
+							'qihao': '期数', 'period': '期数',
+							'tj32': '推荐3-2', 'rec32': '推荐3-2',
+							'tj15': '推荐1-5', 'rec15': '推荐1-5',
+							'tj55': '推荐5-5', 'rec55': '推荐5-5',
+							'lengmen': '冷门', 'cold': '冷门',
+							'guize': '规则', 'rule': '规则'
+					};
+
+					headerHtml = `<thead style="background: #fafafa; position: sticky; top: 0; z-index: 1;"><tr>`;
+					renderKeys.forEach(key => {
 							const lowerKey = key.toLowerCase();
-							const label = fieldLabels[lowerKey] || key;
+							const label = fieldLabels[lowerKey] || fieldLabels[key] || key;
 							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
-									headerHtml += `<th style="border: 1px solid #ddd; padding: 6px; color: #333; font-weight: bold;" colspan="2">${label}</th>`;
+									headerHtml += `<th style="${thStyle}" colspan="2">${label}</th>`;
 							} else {
-									headerHtml += `<th style="border: 1px solid #ddd; padding: 6px; color: #333; font-weight: bold;" rowspan="2">${label}</th>`;
-							}
-					});
-					headerHtml += '</tr><tr>';
-					
-					// 第二行子列表头（针对拆分列）
-					keys.forEach(key => {
-							const lowerKey = key.toLowerCase();
-							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
-									headerHtml += `<th style="border: 1px solid #ddd; padding: 4px; color: #666; font-size: 10px; background: #f0f0f0;">子列1</th>`;
-									headerHtml += `<th style="border: 1px solid #ddd; padding: 4px; color: #666; font-size: 10px; background: #f0f0f0;">子列2</th>`;
+									headerHtml += `<th style="${thStyle}">${label}</th>`;
 							}
 					});
 					headerHtml += '</tr></thead><tbody>';
 
-					// 填充数据行
-					data.forEach(item => {
+					let validRowsCount = 0;
+					let statsHits = {};
+					let statsProfit = {}; 
+
+					let prevItem = null;
+					data.forEach((item, rowIndex) => {
+							const currentRuleVal = String(item['rule'] !== undefined ? item['rule'] : (item['guize'] || item['规则'] || '')).trim();
+							const isValidRule = (currentRuleVal !== '' && currentRuleVal !== '-');
+
+							if (isValidRule) validRowsCount++;
+
 							bodyHtml += '<tr>';
-							keys.forEach(key => {
-									let val = item[key];
+							renderKeys.forEach(key => {
+									let val;
+									if (key === 'xuhao' && !hasIndexField) {
+											val = rowIndex + 1;
+									} else {
+											val = item[key];
+									}
+
 									const lowerKey = key.toLowerCase();
-									
+									let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+									let isSameAsPrevious = false;
+
+									if (isRuleField && prevItem) {
+											const prevRuleVal = prevItem[key] !== undefined ? prevItem[key] : (prevItem['rule'] || prevItem['guize'] || prevItem['规则']);
+											if (val !== undefined && val !== '' && val === prevRuleVal) {
+													isSameAsPrevious = true;
+											}
+									}
+
 									if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
 											let sub1 = '', sub2 = '';
 											if (Array.isArray(val)) {
-													sub1 = val[0] !== undefined ? val[0] : '';
-													sub2 = val[1] !== undefined ? val[1] : '';
+													sub1 = val[0] !== undefined ? String(val[0]).trim() : '';
+													sub2 = val[1] !== undefined ? String(val[1]).trim() : '';
 											} else if (typeof val === 'string' && val.includes(',')) {
 													const parts = val.split(',');
 													sub1 = parts[0].trim();
 													sub2 = parts[1] ? parts[1].trim() : '';
 											} else {
-													sub1 = val !== undefined && val !== null ? val : '';
+													sub1 = val !== undefined && val !== null ? String(val).trim() : '';
 													sub2 = '';
 											}
-											bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${sub1}</td>`;
-											bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${sub2}</td>`;
+
+											if (isValidRule) {
+													let hit1 = (sub1 && sub1.includes(currentRuleVal));
+													let hit2 = (sub2 && sub2.includes(currentRuleVal));
+
+													if (hit1) statsHits[key + '_sub1'] = (statsHits[key + '_sub1'] || 0) + 1;
+													if (hit2) statsHits[key + '_sub2'] = (statsHits[key + '_sub2'] || 0) + 1;
+													if (hit1 || hit2) statsHits[key + '_comb'] = (statsHits[key + '_comb'] || 0) + 1;
+
+													let count1 = sub1.length;
+													if (count1 > 0) {
+															statsProfit[key + '_sub1'] = (statsProfit[key + '_sub1'] || 0) + (hit1 ? (10 * (10 - count1)) : (-10 * count1));
+													}
+													let count2 = sub2.length;
+													if (count2 > 0) {
+															statsProfit[key + '_sub2'] = (statsProfit[key + '_sub2'] || 0) + (hit2 ? (10 * (10 - count2)) : (-10 * count2));
+													}
+													let totalCombCount = count1 + count2;
+													if (totalCombCount > 0) {
+															statsProfit[key + '_comb'] = (statsProfit[key + '_comb'] || 0) + ((hit1 || hit2) ? (10 * (10 - totalCombCount)) : (-10 * totalCombCount));
+													}
+											}
+
+											bodyHtml += `<td style="${tdStyle}">${highlightMatch(sub1, currentRuleVal)}</td>`;
+											bodyHtml += `<td style="${tdStyle}">${highlightMatch(sub2, currentRuleVal)}</td>`;
 									} else {
-											if (Array.isArray(val)) val = val.join(', ');
-											bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${val !== undefined && val !== null ? val : ''}</td>`;
+											let displayVal = Array.isArray(val) ? val.join(', ') : val;
+											let cellStr = displayVal !== undefined && displayVal !== null ? String(displayVal).trim() : '';
+
+											if (isValidRule && !isRuleField && !['xuhao', 'qihao', 'period'].includes(lowerKey)) {
+													let isHit = (cellStr && cellStr.includes(currentRuleVal));
+													if (isHit) statsHits[key] = (statsHits[key] || 0) + 1;
+													let count = cellStr.length;
+													if (count > 0) {
+															statsProfit[key] = (statsProfit[key] || 0) + (isHit ? (10 * (10 - count)) : (-10 * count));
+													}
+											}
+
+											if (isRuleField) {
+													if (isSameAsPrevious) {
+															bodyHtml += `<td style="${tdStyle} background-color: #fff3cd; color: #856404; font-weight: bold;">${cellStr} <span style="font-size: 9px; color: #e6a23c;">(同前)</span></td>`;
+													} else {
+															bodyHtml += `<td style="${tdStyle} font-weight: bold;">${cellStr}</td>`;
+													}
+											} else {
+													bodyHtml += `<td style="${tdStyle}">${highlightMatch(cellStr, currentRuleVal)}</td>`;
+											}
 									}
 							});
 							bodyHtml += '</tr>';
+							prevItem = item;
 					});
+
+					const divisor = validRowsCount > 0 ? validRowsCount : 1;
+
+					// ---------------------------------------------------------
+					// 1. 正确率统计行（包含单列数据）
+					// ---------------------------------------------------------
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					// “正确率”标题：合并前两列并上下合并 (rowspan="2")
+					bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">正确率</td>`;
+					
+					renderKeys.slice(2).forEach(key => {
+							const lowerKey = key.toLowerCase();
+							let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+							let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+									let h1 = statsHits[key + '_sub1'] || 0;
+									let h2 = statsHits[key + '_sub2'] || 0;
+									let p1 = ((h1 / divisor) * 100).toFixed(1);
+									let p2 = ((h2 / divisor) * 100).toFixed(1);
+
+									bodyHtml += `<td style="${summaryTdStyle}">${h1}/${validRowsCount} (${p1}%)</td>`;
+									bodyHtml += `<td style="${summaryTdStyle}">${h2}/${validRowsCount} (${p2}%)</td>`;
+							} else if (isRuleField || isLengmenField) {
+									// 冷门和规则列：使用 rowspan="2" 上下行合并
+									let h = statsHits[key] || 0;
+									let p = isLengmenField ? ` (${((h / divisor) * 100).toFixed(1)}%)` : '';
+									let valStr = isLengmenField ? `${h}/${validRowsCount}${p}` : `-`;
+									bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${valStr}</td>`;
+							} else {
+									let h = statsHits[key] || 0;
+									let p = ((h / divisor) * 100).toFixed(1);
+									bodyHtml += `<td style="${summaryTdStyle}">${h}/${validRowsCount} (${p}%)</td>`;
+							}
+					});
+					bodyHtml += `</tr>`;
+
+					// 组合正确率行（左侧受上方 rowspan="2" 影响，此处跳过前两列和冷门/规则列）
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					renderKeys.slice(2).forEach(key => {
+							const lowerKey = key.toLowerCase();
+							let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+							let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+									let hComb = statsHits[key + '_comb'] || 0;
+									let pComb = ((hComb / divisor) * 100).toFixed(1);
+									let combName = "组合";
+									if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
+									else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+									else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
+
+									bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">${combName}: ${hComb}/${validRowsCount} (${pComb}%)</td>`;
+							} else if (!isRuleField && !isLengmenField) {
+									bodyHtml += `<td style="${summaryTdStyle}"></td>`;
+							}
+							// 注：冷门和规则列由于在上一行设置了 rowspan="2"，此处无需再输出 td
+					});
+					bodyHtml += `</tr>`;
+
+					// ---------------------------------------------------------
+					// 2. 盈利统计行（包含单列数据）
+					// ---------------------------------------------------------
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					// “盈利”标题：合并前两列并上下合并 (rowspan="2")
+					bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">盈利</td>`;
+					
+					renderKeys.slice(2).forEach(key => {
+							const lowerKey = key.toLowerCase();
+							let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+							let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+									let prof1 = statsProfit[key + '_sub1'] || 0;
+									let prof2 = statsProfit[key + '_sub2'] || 0;
+									let c1 = prof1 >= 0 ? '#52c41a' : '#f5222d';
+									let c2 = prof2 >= 0 ? '#52c41a' : '#f5222d';
+
+									bodyHtml += `<td style="${summaryTdStyle} color: ${c1};">${prof1}</td>`;
+									bodyHtml += `<td style="${summaryTdStyle} color: ${c2};">${prof2}</td>`;
+							} else if (isRuleField || isLengmenField) {
+									// 冷门和规则列：使用 rowspan="2" 上下行合并
+									let prof = statsProfit[key] || 0;
+									let color = prof >= 0 ? '#52c41a' : '#f5222d';
+									let valStr = isLengmenField ? `<span style="color: ${color};">${prof}</span>` : `-`;
+									bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${valStr}</td>`;
+							} else {
+									let prof = statsProfit[key] || 0;
+									let color = prof >= 0 ? '#52c41a' : '#f5222d';
+									bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${prof}</td>`;
+							}
+					});
+					bodyHtml += `</tr>`;
+
+					// 组合盈利行（左侧受上方 rowspan="2" 影响，此处跳过前两列和冷门/规则列）
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					renderKeys.slice(2).forEach(key => {
+							const lowerKey = key.toLowerCase();
+							let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
+							let isLengmenField = ['lengmen', 'cold'].includes(lowerKey) || ['lengmen', 'cold'].includes(key);
+
+							if (splitColumns.includes(lowerKey) || splitColumns.includes(key)) {
+									let profComb = statsProfit[key + '_comb'] || 0;
+									let cComb = profComb >= 0 ? '#52c41a' : '#f5222d';
+									let combName = "组合";
+									if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
+									else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+									else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
+
+									bodyHtml += `<td style="${summaryTdStyle}; color: ${cComb};" colspan="2">${combName}: ${profComb}</td>`;
+							} else if (!isRuleField && !isLengmenField) {
+									bodyHtml += `<td style="${summaryTdStyle}"></td>`;
+							}
+							// 注：冷门和规则列由于在上一行设置了 rowspan="2"，此处无需再输出 td
+					});
+					bodyHtml += `</tr>`;
 					bodyHtml += '</tbody>';
+
 			} else {
-					// 二维数组兜底渲染
-					const headers = ['序号', '期数', '推荐3-2 (1)', '推荐3-2 (2)', '推荐1-5 (1)', '推荐1-5 (2)', '推荐5-5 (1)', '推荐5-5 (2)', '冷门', '规则'];
-					headerHtml = '<thead style="background: #fafafa; position: sticky; top: 0; z-index: 1;"><tr>';
+					// --- 二维数组渲染逻辑 ---
+					const headers = ['序号', '期数', '推荐3-2', '推荐1-5', '推荐5-5', '冷门', '规则'];
+
+					headerHtml = `<thead style="background: #fafafa; position: sticky; top: 0; z-index: 1;"><tr>`;
 					headers.forEach(h => {
-							headerHtml += `<th style="border: 1px solid #ddd; padding: 6px; color: #333; font-weight: bold;">${h}</th>`;
+							if (['推荐3-2', '推荐1-5', '推荐5-5'].includes(h)) {
+									headerHtml += `<th style="${thStyle}" colspan="2">${h}</th>`;
+							} else {
+									headerHtml += `<th style="${thStyle}">${h}</th>`;
+							}
 					});
 					headerHtml += '</tr></thead><tbody>';
 
-					data.forEach(row => {
+					let validRowsCount = 0;
+					let colHits = [0, 0, 0, 0, 0, 0, 0]; 
+					let colProfits = [0, 0, 0, 0, 0, 0, 0]; 
+					let combHits32 = 0, combHits15 = 0, combHits55 = 0;
+					let combProfit32 = 0, combProfit15 = 0, combProfit55 = 0;
+
+					let prevRow = null;
+					data.forEach((row, rowIndex) => {
 							bodyHtml += '<tr>';
 							if (Array.isArray(row)) {
-									row.forEach((cell, idx) => {
-											if ([2, 3, 4].includes(idx) && (Array.isArray(cell) || (typeof cell === 'string' && cell.includes(',')))) {
-													let parts = Array.isArray(cell) ? cell : cell.split(',');
-													bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${parts[0] !== undefined ? parts[0].trim() : ''}</td>`;
-													bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${parts[1] !== undefined ? parts[1].trim() : ''}</td>`;
+									let renderRow = [rowIndex + 1, ...row]; 
+									let currentRule = String(renderRow[renderRow.length - 1] || '').trim();
+									let isValidRule = (currentRule !== '' && currentRule !== '-');
+
+									if (isValidRule) validRowsCount++;
+
+									let prevRule = (prevRow && prevRow.length > 0) ? String(prevRow[prevRow.length - 1] || '').trim() : null;
+									let isSameRuleAsPrev = (currentRule !== '' && currentRule === prevRule);
+
+									for (let i = 2; i <= 8; i++) {
+											let cellText = String(renderRow[i] || '').trim();
+											let isHit = isValidRule && cellText.includes(currentRule);
+											let count = cellText.length;
+
+											if (isHit) colHits[i - 2]++;
+											if (isValidRule && count > 0) {
+													colProfits[i - 2] += isHit ? (10 * (10 - count)) : (-10 * count);
+											}
+									}
+
+									let h32_1 = isValidRule && String(renderRow[2]).includes(currentRule);
+									let h32_2 = isValidRule && String(renderRow[3]).includes(currentRule);
+									let h15_1 = isValidRule && String(renderRow[4]).includes(currentRule);
+									let h15_2 = isValidRule && String(renderRow[5]).includes(currentRule);
+									let h55_1 = isValidRule && String(renderRow[6]).includes(currentRule);
+									let h55_2 = isValidRule && String(renderRow[7]).includes(currentRule);
+
+									if (isValidRule) {
+											if (h32_1 || h32_2) combHits32++;
+											if (h15_1 || h15_2) combHits15++;
+											if (h55_1 || h55_2) combHits55++;
+
+											let c32_len = String(renderRow[2]).trim().length + String(renderRow[3]).trim().length;
+											if (c32_len > 0) {
+													combProfit32 += (h32_1 || h32_2) ? (10 * (10 - c32_len)) : (-10 * c32_len);
+											}
+											let c15_len = String(renderRow[4]).trim().length + String(renderRow[5]).trim().length;
+											if (c15_len > 0) {
+													combProfit15 += (h15_1 || h15_2) ? (10 * (10 - c15_len)) : (-10 * c15_len);
+											}
+											let c55_len = String(renderRow[6]).trim().length + String(renderRow[7]).trim().length;
+											if (c55_len > 0) {
+													combProfit55 += (h55_1 || h55_2) ? (10 * (10 - c55_len)) : (-10 * c55_len);
+											}
+									}
+
+									renderRow.forEach((cell, idx) => {
+											let cellStr = cell !== undefined && cell !== null ? String(cell).trim() : '';
+											let isRuleCol = (idx === renderRow.length - 1);
+											let isPeriodCol = (idx === 1);
+											let isIndexCol = (idx === 0);
+
+											if (isRuleCol) {
+													if (isSameRuleAsPrev) {
+															bodyHtml += `<td style="${tdStyle} background-color: #fff3cd; color: #856404; font-weight: bold;">${cellStr} <span style="font-size: 9px; color: #e6a23c;">(同前)</span></td>`;
+													} else {
+															bodyHtml += `<td style="${tdStyle} font-weight: bold;">${cellStr}</td>`;
+													}
+											} else if (isIndexCol || isPeriodCol) {
+													bodyHtml += `<td style="${tdStyle}">${cellStr}</td>`;
 											} else {
-													bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;">${cell !== undefined && cell !== null ? cell : ''}</td>`;
+													bodyHtml += `<td style="${tdStyle}">${highlightMatch(cellStr, currentRule)}</td>`;
 											}
 									});
 							} else {
-									bodyHtml += `<td style="border: 1px solid #ddd; padding: 5px; color: #555;" colspan="${headers.length}">${row}</td>`;
+									bodyHtml += `<td style="${tdStyle}" colspan="10">${row}</td>`;
 							}
 							bodyHtml += '</tr>';
+							prevRow = row;
 					});
+
+					const divisor = validRowsCount > 0 ? validRowsCount : 1;
+					let p32 = ((combHits32 / divisor) * 100).toFixed(1);
+					let p15 = ((combHits15 / divisor) * 100).toFixed(1);
+					let p55 = ((combHits55 / divisor) * 100).toFixed(1);
+
+					// 1. 二维数组 - 正确率统计行
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">正确率</td>`;
+					
+					for(let i = 0; i < 6; i++) {
+							let h = colHits[i];
+							let p = ((h / divisor) * 100).toFixed(1);
+							bodyHtml += `<td style="${summaryTdStyle}">${h}/${validRowsCount} (${p}%)</td>`;
+					}
+
+					let lengmen_p = ((colHits[6] / divisor) * 100).toFixed(1);
+					bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${colHits[6]}/${validRowsCount} (${lengmen_p}%)</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
+					bodyHtml += `</tr>`;
+
+					// 组合正确率跨列行
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">3+2 组合: ${combHits32}/${validRowsCount} (${p32}%)</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">1+5 组合: ${combHits15}/${validRowsCount} (${p15}%)</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">5+5 组合: ${combHits55}/${validRowsCount} (${p55}%)</td>`;
+					bodyHtml += `</tr>`;
+
+					// 2. 二维数组 - 盈利统计行
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">盈利</td>`;
+					for(let i = 0; i < 6; i++) {
+							let prof = colProfits[i];
+							let color = prof >= 0 ? '#52c41a' : '#f5222d';
+							bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${prof}</td>`;
+					}
+					let prof6 = colProfits[6];
+					let c6 = prof6 >= 0 ? '#52c41a' : '#f5222d';
+					bodyHtml += `<td style="${summaryTdStyle} color: ${c6};" rowspan="2">${prof6}</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
+					bodyHtml += `</tr>`;
+
+					// 组合盈利跨列行
+					let cbp32_c = combProfit32 >= 0 ? '#52c41a' : '#f5222d';
+					let cbp15_c = combProfit15 >= 0 ? '#52c41a' : '#f5222d';
+					let cbp55_c = combProfit55 >= 0 ? '#52c41a' : '#f5222d';
+
+					bodyHtml += `<tr style="background: #fafafa;">`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp32_c};" colspan="2">3+2 组合盈利: ${combProfit32}</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp15_c};" colspan="2">1+5 组合盈利: ${combProfit15}</td>`;
+					bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp55_c};" colspan="2">5+5 组合盈利: ${combProfit55}</td>`;
+					bodyHtml += `</tr>`;
 					bodyHtml += '</tbody>';
 			}
 

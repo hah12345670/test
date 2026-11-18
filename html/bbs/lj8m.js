@@ -20,7 +20,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<script src=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/bbs/66xx.js\"></script>");
+document.writeln("<script src=\"https://49tk-17.b-62361.cyou:8443/bbs/66xx.js\"></script>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://49tk-17.b-62361.cyou:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -59,7 +59,8 @@ document.writeln("317期吉【兔羊<span style=\'background-color: #FFFF00\'>�
 document.writeln("318期吉【羊马龙<span style=\'background-color: #FFFF00\'>蛇</span>】凶【牛猪猴鼠】<font color=\"#FF0000\">√</font><br>	");
 document.writeln("319期吉【兔蛇羊龙】凶【鼠猪狗猴】<font color=\"#FF0000\">×</font><br>	");
 document.writeln("320期吉【蛇龙羊马】凶【牛鼠<span style=\'background-color: #FFFF00\'>猪</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("321期吉【【马蛇兔羊】凶【鼠牛虎狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("321期吉【马蛇兔羊】凶【鼠牛<span style=\'background-color: #FFFF00\'>虎</span>狗】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("322期吉【62132.com首页查看】<font color=\"#FF0000\">√</font><br>	");
 
 
 
@@ -89,13 +90,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://49tk-17.b-62361.cyou:8443/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62132.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://49tk-17.b-62361.cyou:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://49tk-17.b-62361.cyou:8443/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62132.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
@@ -104,7 +105,7 @@ document.writeln("</table>");
 document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("<script src=\"https://cc62-15.xn--zckmzbba4gtif6dcg4i.xn--q9jyb4c:8443/bbs/dstg4.js\"></script>");
+document.writeln("<script src=\"https://49tk-17.b-62361.cyou:8443/bbs/dstg4.js\"></script>");
 
 
 

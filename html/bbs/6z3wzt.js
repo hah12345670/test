@@ -14,12 +14,12 @@ document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\"> <b>");
 document.writeln("		<p align=\"left\">");
 document.writeln("		<font color=\"#000000\" face=\"微软雅黑\" style=\"font-size: 12pt\">");
-document.writeln("		323期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（4.5.6.0.2.1.8）</font><br>");
-document.writeln("		323期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（4.5.6.0）<BR>		");
+document.writeln("		324期;七尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.8.6.2.4.7.3）</font><br>");
+document.writeln("		324期;四尾：<font color=\"#FF0000\" face=\"微软雅黑\" size=\"4\">（5.8.6.2）<BR>		");
 document.writeln("		===============</font></font></p></b></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
-document.writeln("	<!--gavc-->");
+
 
 
 document.writeln("	<!--gavc-->");

@@ -37,8 +37,8 @@ document.writeln("319期王者六肖【羊鼠猴狗<span style=\'background-colo
 document.writeln("320期王者六肖【兔虎<span style=\'background-color: #FFFF00\'>猪</span>鸡狗羊】√<br>");
 document.writeln("321期王者六肖【马狗龙猴鸡鼠】×<br>");
 document.writeln("322期王者六肖【虎马<span style=\'background-color: #FFFF00\'>鼠</span>猴狗牛】√<br>");
-document.writeln("323期王者六肖【鸡龙蛇牛羊兔】√<br>");
-
+document.writeln("323期王者六肖【鸡龙蛇牛羊兔】×<br>");
+document.writeln("324期王者六肖【狗猴羊鸡龙马】√<br>");
 
 document.writeln("		");
 document.writeln("		<br></font>	");
@@ -86,8 +86,8 @@ document.writeln("318-319期￥鸡牛龙<span style=\'background-color: #FFFF00\
 document.writeln("319-320期￥<span style=\'background-color: #FFFF00\'>虎</span>鸡兔牛蛇羊龙￥319期√<br>");
 document.writeln("320-321期￥<span style=\'background-color: #FFFF00\'>虎</span>猴龙牛羊狗马￥321期√<br>");
 document.writeln("322-323期￥羊猪兔虎狗<span style=\'background-color: #FFFF00\'>鼠</span>猴￥322期√<br>");
-document.writeln("323-324期￥蛇猪虎鸡猴龙牛￥000期√<br>");
-
+document.writeln("323-324期￥蛇猪虎鸡<span style=\'background-color: #FFFF00\'>猴</span>龙牛￥323期√<br>");
+document.writeln("324-325期￥猪狗龙虎猴蛇羊￥000期√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -126,8 +126,8 @@ document.writeln("320期【<span style=\'background-color: #FFFF00\'>家禽</spa
 document.writeln("321期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙猴<span style=\'background-color: #FFFF00\'>虎</span>兔】开虎41√<br>");
 
 document.writeln("322期【<span style=\'background-color: #FFFF00\'>野兽</span>：龙蛇虎猴】开鼠07√<br>");
-document.writeln("323期【家禽：牛鸡马狗】开？00√<br>");
-
+document.writeln("323期【家禽：牛鸡马狗】开猴47×<br>");
+document.writeln("324期【野兽：龙虎猴兔】开？00√<br>");
 
 
 document.writeln("		<br></font>	");
@@ -193,7 +193,8 @@ document.writeln("319期【狗牛龙鼠蛇马兔羊<span style=\'background-colo
 document.writeln("320期【鸡虎兔龙马<span style=\'background-color: #FFFF00\'>猪</span>鼠羊猴】开猪20√<br>");
 document.writeln("321期【牛兔羊龙鼠<span style=\'background-color: #FFFF00\'>虎</span>猪蛇猴】开虎41√<br>");
 document.writeln("322期【<span style=\'background-color: #FFFF00\'>鼠</span>狗马猪蛇虎鸡兔牛】开鼠07√<br>");
-document.writeln("323期【狗虎龙牛马蛇猪猴羊】开？00√<br>");
+document.writeln("323期【狗虎龙牛马蛇猪<span style=\'background-color: #FFFF00\'>猴</span>羊】开猴47√<br>");
+document.writeln("324期【虎狗龙猪牛马兔羊蛇】开？00√<br>");
 
 
 document.writeln("		<br></font>	");

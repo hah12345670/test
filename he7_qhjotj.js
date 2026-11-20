@@ -428,8 +428,11 @@ window.addEventListener('DOMContentLoaded', () => {
 					goldenNames.slice(3, 5), 
 					goldenNames.slice(0, 1), 
 					goldenNames.slice(1, 6), 
+					goldenNames.slice(0, 3)+''+goldenNames.slice(5, 6), 
+					goldenNames.slice(6, 10), 
 					goldenNames.slice(0, 5), 
 					goldenNames.slice(5, 10), 
+					goldenNames.slice(7, 8)+''+goldenNames.slice(8, 9), 
 					defendNames, 
 					rawData[0].rule === '?' ? '-' : rawData[0].rule
 			];
@@ -502,7 +505,7 @@ window.addEventListener('DOMContentLoaded', () => {
 				const thStyle = "border: 1px solid #ddd; padding: 7px 5px; color: #333; font-weight: bold; text-align: center; font-size: 11px;";
 				const tdStyle = "border: 1px solid #ddd; padding: 6px 5px; color: #555; text-align: center; font-size: 11px;";
 				const summaryTdStyle = "border: 1px solid #ddd; padding: 6px 5px; color: #d9363e; font-weight: bold; text-align: center; font-size: 11px; background: #fafafa; vertical-align: middle;";
-				
+
 				// 命中单元格的背景标注样式
 				const hitBgStyle = "background: #fff1f0;";
 
@@ -510,15 +513,35 @@ window.addEventListener('DOMContentLoaded', () => {
 						// --- 对象数组渲染逻辑 ---
 						let keys = Object.keys(firstItem);
 						const hasIndexField = keys.some(k => ['index', 'xuhao', 'id'].includes(k.toLowerCase()));
-						const renderKeys = hasIndexField ? [...keys] : ['xuhao', ...keys];
+						let renderKeys = hasIndexField ? [...keys] : ['xuhao', ...keys];
 
-						const splitColumns = ['推荐3-2', '推荐1-5', '推荐5-5', 'tj32', 'rec32', 'tj15', 'rec15', 'tj55', 'rec55'];
+						// 若数据源未显式包含“推荐4-4”相关字段，则在“推荐5-5”前插入推荐4-4列
+						const hasRec44Field = renderKeys.some(k => ['推荐4-4', 'tj44', 'rec44'].includes(k.toLowerCase()) || ['推荐4-4', 'tj44', 'rec44'].includes(k));
+						if (!hasRec44Field) {
+								const rec55Idx = renderKeys.findIndex(k => ['推荐5-5', 'tj55', 'rec55'].includes(k.toLowerCase()) || ['推荐5-5', 'tj55', 'rec55'].includes(k));
+								if (rec55Idx !== -1) {
+										renderKeys.splice(rec55Idx, 0, '推荐4-4');
+								}
+						}
+
+						// 若数据源未显式包含“推荐”相关字段，则在“推荐5-5”后插入单列“推荐”
+						const hasRecSingleField = renderKeys.some(k => ['推荐', 'tuijian', 'rec'].includes(k.toLowerCase()) || ['推荐', 'tuijian', 'rec'].includes(k));
+						if (!hasRecSingleField) {
+								const rec55IdxAfter = renderKeys.findIndex(k => ['推荐5-5', 'tj55', 'rec55'].includes(k.toLowerCase()) || ['推荐5-5', 'tj55', 'rec55'].includes(k));
+								if (rec55IdxAfter !== -1) {
+										renderKeys.splice(rec55IdxAfter + 1, 0, '推荐');
+								}
+						}
+
+						const splitColumns = ['推荐3-2', '推荐1-5', '推荐4-4', '推荐5-5', 'tj32', 'rec32', 'tj15', 'rec15', 'tj44', 'rec44', 'tj55', 'rec55'];
 						const fieldLabels = {
 								'index': '序号', 'xuhao': '序号', 'id': '序号',
 								'qihao': '期数', 'period': '期数',
 								'tj32': '推荐3-2', 'rec32': '推荐3-2',
 								'tj15': '推荐1-5', 'rec15': '推荐1-5',
+								'tj44': '推荐4-4', 'rec44': '推荐4-4', '推荐4-4': '推荐4-4',
 								'tj55': '推荐5-5', 'rec55': '推荐5-5',
+								'tuijian': '推荐', 'rec': '推荐', '推荐': '推荐',
 								'lengmen': '冷门', 'cold': '冷门',
 								'guize': '规则', 'rule': '规则'
 						};
@@ -537,7 +560,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 						let validRowsCount = 0;
 						let statsHits = {};
-						let statsProfit = {}; 
+						let statsProfit = {};
 						let statsMultProfit = {}; // 倍数盈亏统计
 						let errStates = {};       // 记录各列当前的连错次数 (0, 1, 2)
 
@@ -650,7 +673,7 @@ window.addEventListener('DOMContentLoaded', () => {
 						// 1. 正确率统计行
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">正确率</td>`;
-						
+
 						renderKeys.slice(2).forEach(key => {
 								const lowerKey = key.toLowerCase();
 								let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
@@ -690,6 +713,7 @@ window.addEventListener('DOMContentLoaded', () => {
 										let combName = "组合";
 										if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
 										else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+										else if (lowerKey.includes('44') || key.includes('4-4')) combName = "4+4";
 										else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
 
 										bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">${combName}: ${hComb}/${validRowsCount} (${pComb}%)</td>`;
@@ -702,7 +726,7 @@ window.addEventListener('DOMContentLoaded', () => {
 						// 2. 盈利统计行
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">盈利</td>`;
-						
+
 						renderKeys.slice(2).forEach(key => {
 								const lowerKey = key.toLowerCase();
 								let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
@@ -742,6 +766,7 @@ window.addEventListener('DOMContentLoaded', () => {
 										let combName = "组合";
 										if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
 										else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+										else if (lowerKey.includes('44') || key.includes('4-4')) combName = "4+4";
 										else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
 
 										bodyHtml += `<td style="${summaryTdStyle}; color: ${cComb};" colspan="2">${combName}: ${profComb}</td>`;
@@ -754,7 +779,7 @@ window.addEventListener('DOMContentLoaded', () => {
 						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数137</td>`;
-						
+
 						renderKeys.slice(2).forEach(key => {
 								const lowerKey = key.toLowerCase();
 								let isRuleField = ['rule', 'guize', '规则'].includes(lowerKey) || ['rule', 'guize', '规则'].includes(key);
@@ -794,6 +819,7 @@ window.addEventListener('DOMContentLoaded', () => {
 										let combName = "组合";
 										if (lowerKey.includes('32') || key.includes('3-2')) combName = "3+2";
 										else if (lowerKey.includes('15') || key.includes('1-5')) combName = "1+5";
+										else if (lowerKey.includes('44') || key.includes('4-4')) combName = "4+4";
 										else if (lowerKey.includes('55') || key.includes('5-5')) combName = "5+5";
 
 										bodyHtml += `<td style="${summaryTdStyle}; color: ${cComb};" colspan="2">${combName}倍数: ${mpComb}</td>`;
@@ -806,11 +832,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
 				} else {
 						// --- 二维数组渲染逻辑 ---
-						const headers = ['序号', '期数', '推荐3-2', '推荐1-5', '推荐5-5', '冷门', '规则'];
+						const headers = ['序号', '期数', '推荐3-2', '推荐1-5', '推荐4-4', '推荐5-5', '推荐', '冷门', '规则'];
 
 						headerHtml = `<thead style="background: #fafafa; position: sticky; top: 0; z-index: 1;"><tr>`;
 						headers.forEach(h => {
-								if (['推荐3-2', '推荐1-5', '推荐5-5'].includes(h)) {
+								if (['推荐3-2', '推荐1-5', '推荐4-4', '推荐5-5'].includes(h)) {
 										headerHtml += `<th style="${thStyle}" colspan="2">${h}</th>`;
 								} else {
 										headerHtml += `<th style="${thStyle}">${h}</th>`;
@@ -819,19 +845,29 @@ window.addEventListener('DOMContentLoaded', () => {
 						headerHtml += '</tr></thead><tbody>';
 
 						let validRowsCount = 0;
-						let colHits = [0, 0, 0, 0, 0, 0, 0]; 
-						let colProfits = [0, 0, 0, 0, 0, 0, 0]; 
-						let colMultProfits = [0, 0, 0, 0, 0, 0, 0]; // 各列倍数盈亏
-						let combHits32 = 0, combHits15 = 0, combHits55 = 0;
-						let combProfit32 = 0, combProfit15 = 0, combProfit55 = 0;
-						let combMultProfit32 = 0, combMultProfit15 = 0, combMultProfit55 = 0;
+						let colHits = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+						let colProfits = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+						let colMultProfits = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]; // 各列倍数盈亏
+						let combHits32 = 0, combHits15 = 0, combHits44 = 0, combHits55 = 0;
+						let combProfit32 = 0, combProfit15 = 0, combProfit44 = 0, combProfit55 = 0;
+						let combMultProfit32 = 0, combMultProfit15 = 0, combMultProfit44 = 0, combMultProfit55 = 0;
 						let errStatesArr = {}; // 二维数组各列连错状态
 
 						let prevRow = null;
 						data.forEach((row, rowIndex) => {
 								bodyHtml += '<tr>';
 								if (Array.isArray(row)) {
-										let renderRow = [rowIndex + 1, ...row]; 
+										// 若原始 row 长度为 8（含期数、3-2、1-5、5-5、冷门、规则），则在推荐4-4处补2个空列、推荐5-5后补1个空列给“推荐”
+										// 若原始 row 长度为 10（已含推荐4-4），则在推荐5-5后补1个空列给“推荐”
+										let normalizedRow;
+										if (row.length === 8) {
+												normalizedRow = [row[0], row[1], row[2], row[3], row[4], '', '', row[5], '', row[6], row[7]];
+										} else if (row.length === 10) {
+												normalizedRow = [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], '', row[8], row[9]];
+										} else {
+												normalizedRow = row;
+										}
+										let renderRow = [rowIndex + 1, ...normalizedRow];
 										let currentRule = String(renderRow[renderRow.length - 1] || '').trim();
 										let isValidRule = (currentRule !== '' && currentRule !== '-');
 
@@ -840,7 +876,7 @@ window.addEventListener('DOMContentLoaded', () => {
 										let prevRule = (prevRow && prevRow.length > 0) ? String(prevRow[prevRow.length - 1] || '').trim() : null;
 										let isSameRuleAsPrev = (currentRule !== '' && currentRule === prevRule);
 
-										for (let i = 2; i <= 8; i++) {
+										for (let i = 2; i <= 11; i++) {
 												let cellText = String(renderRow[i] || '').trim();
 												let isHit = isValidRule && cellText.includes(currentRule);
 												let count = cellText.length;
@@ -856,12 +892,15 @@ window.addEventListener('DOMContentLoaded', () => {
 										let h32_2 = isValidRule && String(renderRow[3]).includes(currentRule);
 										let h15_1 = isValidRule && String(renderRow[4]).includes(currentRule);
 										let h15_2 = isValidRule && String(renderRow[5]).includes(currentRule);
-										let h55_1 = isValidRule && String(renderRow[6]).includes(currentRule);
-										let h55_2 = isValidRule && String(renderRow[7]).includes(currentRule);
+										let h44_1 = isValidRule && String(renderRow[6]).includes(currentRule);
+										let h44_2 = isValidRule && String(renderRow[7]).includes(currentRule);
+										let h55_1 = isValidRule && String(renderRow[8]).includes(currentRule);
+										let h55_2 = isValidRule && String(renderRow[9]).includes(currentRule);
 
 										if (isValidRule) {
 												if (h32_1 || h32_2) combHits32++;
 												if (h15_1 || h15_2) combHits15++;
+												if (h44_1 || h44_2) combHits44++;
 												if (h55_1 || h55_2) combHits55++;
 
 												let c32_len = String(renderRow[2]).trim().length + String(renderRow[3]).trim().length;
@@ -876,7 +915,13 @@ window.addEventListener('DOMContentLoaded', () => {
 														combProfit15 += isHit15 ? (stake * odds - stake * c15_len) : (-stake * c15_len);
 														combMultProfit15 += calcStepProfitAndUpdateState(errStatesArr, 'comb15', isHit15, c15_len);
 												}
-												let c55_len = String(renderRow[6]).trim().length + String(renderRow[7]).trim().length;
+												let c44_len = String(renderRow[6]).trim().length + String(renderRow[7]).trim().length;
+												if (c44_len > 0) {
+														let isHit44 = (h44_1 || h44_2);
+														combProfit44 += isHit44 ? (stake * odds - stake * c44_len) : (-stake * c44_len);
+														combMultProfit44 += calcStepProfitAndUpdateState(errStatesArr, 'comb44', isHit44, c44_len);
+												}
+												let c55_len = String(renderRow[8]).trim().length + String(renderRow[9]).trim().length;
 												if (c55_len > 0) {
 														let isHit55 = (h55_1 || h55_2);
 														combProfit55 += isHit55 ? (stake * odds - stake * c55_len) : (-stake * c55_len);
@@ -905,7 +950,7 @@ window.addEventListener('DOMContentLoaded', () => {
 												}
 										});
 								} else {
-										bodyHtml += `<td style="${tdStyle}" colspan="10">${row}</td>`;
+										bodyHtml += `<td style="${tdStyle}" colspan="13">${row}</td>`;
 								}
 								bodyHtml += '</tr>';
 								prevRow = row;
@@ -914,20 +959,24 @@ window.addEventListener('DOMContentLoaded', () => {
 						const divisor = validRowsCount > 0 ? validRowsCount : 1;
 						let p32 = ((combHits32 / divisor) * 100).toFixed(1);
 						let p15 = ((combHits15 / divisor) * 100).toFixed(1);
+						let p44 = ((combHits44 / divisor) * 100).toFixed(1);
 						let p55 = ((combHits55 / divisor) * 100).toFixed(1);
 
 						// 1. 正确率统计行
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">正确率</td>`;
-						
-						for(let i = 0; i < 6; i++) {
+
+						for (let i = 0; i < 8; i++) {
 								let h = colHits[i];
 								let p = ((h / divisor) * 100).toFixed(1);
 								bodyHtml += `<td style="${summaryTdStyle}">${h}/${validRowsCount} (${p}%)</td>`;
 						}
 
-						let lengmen_p = ((colHits[6] / divisor) * 100).toFixed(1);
-						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${colHits[6]}/${validRowsCount} (${lengmen_p}%)</td>`;
+						let tuijian_p = ((colHits[8] / divisor) * 100).toFixed(1);
+						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${colHits[8]}/${validRowsCount} (${tuijian_p}%)</td>`;
+
+						let lengmen_p = ((colHits[9] / divisor) * 100).toFixed(1);
+						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">${colHits[9]}/${validRowsCount} (${lengmen_p}%)</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
 						bodyHtml += `</tr>`;
 
@@ -935,56 +984,69 @@ window.addEventListener('DOMContentLoaded', () => {
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">3+2 组合: ${combHits32}/${validRowsCount} (${p32}%)</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">1+5 组合: ${combHits15}/${validRowsCount} (${p15}%)</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">4+4 组合: ${combHits44}/${validRowsCount} (${p44}%)</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: #1890ff;" colspan="2">5+5 组合: ${combHits55}/${validRowsCount} (${p55}%)</td>`;
 						bodyHtml += `</tr>`;
 
 						// 2. 盈利统计行
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">盈利</td>`;
-						for(let i = 0; i < 6; i++) {
+						for (let i = 0; i < 8; i++) {
 								let prof = colProfits[i];
 								let color = prof >= 0 ? '#52c41a' : '#f5222d';
 								bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${prof}</td>`;
 						}
-						let prof6 = colProfits[6];
-						let c6 = prof6 >= 0 ? '#52c41a' : '#f5222d';
-						bodyHtml += `<td style="${summaryTdStyle} color: ${c6};" rowspan="2">${prof6}</td>`;
+						let prof8 = colProfits[8];
+						let c8 = prof8 >= 0 ? '#52c41a' : '#f5222d';
+						bodyHtml += `<td style="${summaryTdStyle} color: ${c8};" rowspan="2">${prof8}</td>`;
+
+						let prof9 = colProfits[9];
+						let c9 = prof9 >= 0 ? '#52c41a' : '#f5222d';
+						bodyHtml += `<td style="${summaryTdStyle} color: ${c9};" rowspan="2">${prof9}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
 						bodyHtml += `</tr>`;
 
 						// 组合盈利跨列行
 						let cbp32_c = combProfit32 >= 0 ? '#52c41a' : '#f5222d';
 						let cbp15_c = combProfit15 >= 0 ? '#52c41a' : '#f5222d';
+						let cbp44_c = combProfit44 >= 0 ? '#52c41a' : '#f5222d';
 						let cbp55_c = combProfit55 >= 0 ? '#52c41a' : '#f5222d';
 
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp32_c};" colspan="2">3+2 组合盈利: ${combProfit32}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp15_c};" colspan="2">1+5 组合盈利: ${combProfit15}</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp44_c};" colspan="2">4+4 组合盈利: ${combProfit44}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbp55_c};" colspan="2">5+5 组合盈利: ${combProfit55}</td>`;
 						bodyHtml += `</tr>`;
 
 						// 3. 倍数统计行 (1 -> 3 -> 7 -> 1 循环倍投)
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}" colspan="2" rowspan="2">倍数137</td>`;
-						for(let i = 0; i < 6; i++) {
+						for (let i = 0; i < 8; i++) {
 								let mp = colMultProfits[i];
 								let color = mp >= 0 ? '#52c41a' : '#f5222d';
 								bodyHtml += `<td style="${summaryTdStyle} color: ${color};">${mp}</td>`;
 						}
-						let mp6 = colMultProfits[6];
-						let mc6 = mp6 >= 0 ? '#52c41a' : '#f5222d';
-						bodyHtml += `<td style="${summaryTdStyle} color: ${mc6};" rowspan="2">${mp6}</td>`;
+						let mp8 = colMultProfits[8];
+						let mc8 = mp8 >= 0 ? '#52c41a' : '#f5222d';
+						bodyHtml += `<td style="${summaryTdStyle} color: ${mc8};" rowspan="2">${mp8}</td>`;
+
+						let mp9 = colMultProfits[9];
+						let mc9 = mp9 >= 0 ? '#52c41a' : '#f5222d';
+						bodyHtml += `<td style="${summaryTdStyle} color: ${mc9};" rowspan="2">${mp9}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}" rowspan="2">-</td>`;
 						bodyHtml += `</tr>`;
 
 						// 组合倍数跨列行
 						let cbm32_c = combMultProfit32 >= 0 ? '#52c41a' : '#f5222d';
 						let cbm15_c = combMultProfit15 >= 0 ? '#52c41a' : '#f5222d';
+						let cbm44_c = combMultProfit44 >= 0 ? '#52c41a' : '#f5222d';
 						let cbm55_c = combMultProfit55 >= 0 ? '#52c41a' : '#f5222d';
 
 						bodyHtml += `<tr style="background: #fafafa;">`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm32_c};" colspan="2">3+2 组合倍数: ${combMultProfit32}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm15_c};" colspan="2">1+5 组合倍数: ${combMultProfit15}</td>`;
+						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm44_c};" colspan="2">4+4 组合倍数: ${combMultProfit44}</td>`;
 						bodyHtml += `<td style="${summaryTdStyle}; color: ${cbm55_c};" colspan="2">5+5 组合倍数: ${combMultProfit55}</td>`;
 						bodyHtml += `</tr>`;
 

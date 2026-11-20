@@ -432,7 +432,7 @@ window.addEventListener('DOMContentLoaded', () => {
 					goldenNames.slice(6, 10), 
 					goldenNames.slice(0, 5), 
 					goldenNames.slice(5, 10), 
-					goldenNames.slice(7, 8)+''+goldenNames.slice(8, 9), 
+					goldenNames.slice(1, 2)+''+goldenNames.slice(7, 8)+''+goldenNames.slice(8, 9), 
 					defendNames, 
 					rawData[0].rule === '?' ? '-' : rawData[0].rule
 			];

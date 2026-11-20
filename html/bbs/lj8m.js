@@ -45,23 +45,29 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【多人来料】【凶吉四肖】</font><br>");
+document.writeln("【六合鬼才】【单双三肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到32569.com首页查看</font><br><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("314期吉【羊鸡马兔】凶【<span style=\'background-color: #FFFF00\'>鼠</span>虎猪狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("315期吉【马<span style=\'background-color: #FFFF00\'>羊</span>蛇兔】凶【狗牛猴猪】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("316期吉【蛇<span style=\'background-color: #FFFF00\'>龙</span>鸡羊】凶【猪猴牛鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("317期吉【兔羊<span style=\'background-color: #FFFF00\'>蛇</span>马】凶【鼠猴虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("318期吉【羊马龙<span style=\'background-color: #FFFF00\'>蛇</span>】凶【牛猪猴鼠】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("319期吉【兔蛇羊龙】凶【鼠猪狗猴】<font color=\"#FF0000\">×</font><br>	");
-document.writeln("320期吉【蛇龙羊马】凶【牛鼠<span style=\'background-color: #FFFF00\'>猪</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("321期吉【马蛇兔羊】凶【鼠牛<span style=\'background-color: #FFFF00\'>虎</span>狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("322期吉【马蛇鸡龙】凶【<span style=\'background-color: #FFFF00\'>鼠</span>牛虎狗】<font color=\"#FF0000\">√</font><br>	");
-document.writeln("323期吉【蛇兔马羊】凶【虎狗牛鼠】<font color=\"#FF0000\">√</font><br>	");
+document.writeln("																																				");
+document.writeln("324期【单双中特】开？00中<BR>");
+document.writeln("【62132.com高手榜查看】<BR><BR>");
+document.writeln("																																				");
+document.writeln("323期【单双中特】开猴47中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙虎<span style=\"background-color: #FFFF00\">猴</span>】<BR><BR>");
+document.writeln("			");
+document.writeln("322期【单双中特】开鼠07中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙猴虎】<BR><BR>");
+document.writeln("																																									");
+document.writeln("321期【单双中特】开虎41中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙<span style=\"background-color: #FFFF00\">虎</span>猴】<BR><BR>");
+document.writeln("															");
+document.writeln("320期【单双中特】开猪20中<BR>");
+document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【牛蛇<span style=\"background-color: #FFFF00\">猪</span>】<BR><BR>");
+document.writeln("				");
 
 
 

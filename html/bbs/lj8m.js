@@ -52,10 +52,14 @@ document.writeln("");
 document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62132.com首页查看</font><br><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("																																				");
-document.writeln("324期【单双中特】开？00中<BR>");
-document.writeln("【单肖】 主 【狗马猴】<BR><BR>");
-document.writeln("																																				");
+
+
+
+document.writeln("325期【单双中特】开？00中<BR>");
+document.writeln("【62132.com高手榜查看】<BR><BR>");
+
+document.writeln("324期【单双中特】开鼠43中<BR>");
+document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【狗马猴】<BR><BR>");
 document.writeln("323期【单双中特】开猴47中<BR>");
 document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙虎<span style=\"background-color: #FFFF00\">猴</span>】<BR><BR>");
 document.writeln("			");

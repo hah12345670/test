@@ -55,8 +55,12 @@ document.writeln("");
 
 
 
-document.writeln("325期【单双中特】开？00中<BR>");
-document.writeln("【单肖】 主 【猴虎羊】<BR><BR>");
+document.writeln("326期【单双中特】开？00中<BR>");
+document.writeln("【62131.com首页查看】<BR><BR>");
+
+
+document.writeln("325期【单双中特】开龙03中<BR>");
+document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【猴虎羊】<BR><BR>");
 
 document.writeln("324期【单双中特】开鼠43中<BR>");
 document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【狗马猴】<BR><BR>");

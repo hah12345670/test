@@ -20,7 +20,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<script src=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
+document.writeln("<script src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -49,14 +49,14 @@ document.writeln("【六合鬼才】【单双三肖】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
-document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62132.com首页查看</font><br><br>");
+document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62131.com首页查看</font><br><br>");
 document.writeln("");
 document.writeln("");
 
 
 
 document.writeln("325期【单双中特】开？00中<BR>");
-document.writeln("【62132.com高手榜查看】<BR><BR>");
+document.writeln("【单肖】 主 【猴虎羊】<BR><BR>");
 
 document.writeln("324期【单双中特】开鼠43中<BR>");
 document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【狗马猴】<BR><BR>");
@@ -101,14 +101,14 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/#g5\">");
-document.writeln("<font color=\"#FFFFFF\" size=\"5\">62132.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
+document.writeln("<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("<font color=\"#FFFFFF\" size=\"5\">62131.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/#g5\">");
-document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62132.com】</font></a></span></p>");
+document.writeln("		<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62131.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
 document.writeln("	</tr>");
@@ -116,7 +116,7 @@ document.writeln("</table>");
 document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("<script src=\"https://ki62-18.xn--7dcaaa1ba0er4c8fbebb.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
+document.writeln("<script src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
 
 
 

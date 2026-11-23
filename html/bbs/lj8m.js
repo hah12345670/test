@@ -55,7 +55,7 @@ document.writeln("");
 
 
 document.writeln("327期【单双中特】开？00中<BR>");
-document.writeln("【62131.com高手榜查看】<BR><BR>");
+document.writeln("【双肖】 主 【牛鸡猪】<BR><BR>");
 
 
 document.writeln("326期【单双中特】开猴23错<BR>");

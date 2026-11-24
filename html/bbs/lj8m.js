@@ -45,7 +45,7 @@ document.writeln("		<font style=\"text-decoration: none\" size=\"5\" color=\"#00
 document.writeln("		");
 document.writeln("");
 document.writeln("		");
-document.writeln("【六合鬼才】【单双三肖】</font><br>");
+document.writeln("【师出长安】【九肖中特】</font><br>");
 document.writeln("<font style=\"font-size: 14pt; text-decoration: none\"><br>");
 document.writeln("");
 document.writeln("");
@@ -53,33 +53,31 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62131.com�
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("327期【单双中特】开？00中<BR>");
-document.writeln("【双肖】 主 【牛鸡猪】<BR><BR>");
-
-
-document.writeln("326期【单双中特】开猴23错<BR>");
-document.writeln("【双肖】 主 【蛇羊牛】<BR><BR>");
-
-
-document.writeln("325期【单双中特】开龙03中<BR>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【猴虎羊】<BR><BR>");
-
-document.writeln("324期【单双中特】开鼠43中<BR>");
-document.writeln("<span style=\'background-color: #FFFF00\'>【单肖】</span> 主 【狗马猴】<BR><BR>");
-document.writeln("323期【单双中特】开猴47中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙虎<span style=\"background-color: #FFFF00\">猴</span>】<BR><BR>");
-document.writeln("			");
-document.writeln("322期【单双中特】开鼠07中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙猴虎】<BR><BR>");
-document.writeln("																																									");
-document.writeln("321期【单双中特】开虎41中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【单肖】</span> 主 【龙<span style=\"background-color: #FFFF00\">虎</span>猴】<BR><BR>");
-document.writeln("															");
-document.writeln("320期【单双中特】开猪20中<BR>");
-document.writeln("<span style=\"background-color: #FFFF00\">【双肖】</span> 主 【牛蛇<span style=\"background-color: #FFFF00\">猪</span>】<BR><BR>");
-document.writeln("				");
-
+document.writeln("");
+document.writeln("328期:【九肖中特】（62131.com高手榜查看）开:？00准<br>");
+document.writeln("327期:【九肖中特】（兔龙猴牛鸡猪蛇马<span style=\"background-color: #FFFF00\">狗</span>）开:狗45准<br>");
+document.writeln("326期:【九肖中特】（猪龙虎蛇狗<span style=\"background-color: #FFFF00\">猴</span>牛兔鼠）开:猴23准<br>");
+document.writeln("  ");
+document.writeln("325期:【九肖中特】（<span style=\"background-color: #FFFF00\">龙</span>虎猴马牛狗鼠鸡羊）开:龙03准<br>");
+document.writeln("324期:【九肖中特】（马猴蛇羊兔牛猪<span style=\"background-color: #FFFF00\">鼠</span>狗）开:鼠43准<br>");
+document.writeln("  ");
+document.writeln("323期:【九肖中特】（鼠<span style=\"background-color: #FFFF00\">猴</span>羊马狗牛兔猪龙）开:猴47准<br>");
+document.writeln("322期:【九肖中特】（马龙羊兔猴猪蛇<span style=\"background-color: #FFFF00\">鼠</span>牛）开:鼠07准<br>");
+document.writeln("  ");
+document.writeln("321期:【九肖中特】（兔羊蛇鸡<span style=\"background-color: #FFFF00\">虎</span>龙牛猴狗）开:虎41准<br>");
+document.writeln("  ");
+document.writeln("320期:【九肖中特】（羊牛鼠马狗虎<span style=\"background-color: #FFFF00\">猪</span>鸡兔）开:猪20准<br>");
+document.writeln("  ");
+document.writeln("319期:【九肖中特】（牛<span style=\"background-color: #FFFF00\">虎</span>猪马鸡龙鼠狗羊）开:虎05准<br>");
+document.writeln("  ");
+document.writeln("318期:【九肖中特】（鼠猴猪鸡马兔狗<span style=\"background-color: #FFFF00\">蛇</span>龙）开:蛇38准<br>");
+document.writeln("317期:【九肖中特】（兔龙鸡鼠马猪牛<span style=\"background-color: #FFFF00\">蛇</span>虎）开:蛇26准<br>");
+document.writeln("  ");
+document.writeln("316期:【九肖中特】（狗<span style=\"background-color: #FFFF00\">龙</span>猴马蛇虎猪鼠兔）开:龙03准<br>");
+document.writeln("  ");
+document.writeln("");
+document.writeln("315期:【九肖中特】（马猴鸡猪狗<span style=\"background-color: #FFFF00\">羊</span>兔龙鼠）开:羊48准<br>");
+document.writeln("314期:【九肖中特】（马<span style=\"background-color: #FFFF00\">鼠</span>虎羊龙兔猴牛猪）开:鼠31准<br>");
 
 
 

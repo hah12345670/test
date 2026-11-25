@@ -53,7 +53,7 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62551.com�
 document.writeln("");
 document.writeln("");
 
-document.writeln("329期:【九肖中特】（62551.com高手榜查看）开:？00准<br>");
+document.writeln("329期:【九肖中特】（鸡马猪虎狗兔鼠龙猴）开:？00准<br>");
 document.writeln("328期:【九肖中特】（猴鼠<span style=\'background-color: #FFFF00\'>牛</span>龙狗羊马鸡虎）开:牛06准<br>");
 document.writeln("327期:【九肖中特】（兔龙猴牛鸡猪蛇马<span style=\"background-color: #FFFF00\">狗</span>）开:狗45准<br>");
 document.writeln("326期:【九肖中特】（猪龙虎蛇狗<span style=\"background-color: #FFFF00\">猴</span>牛兔鼠）开:猴23准<br>");

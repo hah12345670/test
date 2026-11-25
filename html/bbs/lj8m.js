@@ -20,7 +20,7 @@ document.writeln("<table border=\'0\' width=\'100%\' bordercolor=\'#008000\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("<script src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
+document.writeln("<script src=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/66xx.js\"></script>");
 document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,7 +36,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
 document.writeln("");
 document.writeln("");
 document.writeln("		 ");
@@ -53,7 +53,10 @@ document.writeln("<font color=\"#FF0000\">前面撤掉的资料请到62551.com�
 document.writeln("");
 document.writeln("");
 
-document.writeln("329期:【九肖中特】（鸡马猪虎狗兔鼠龙猴）开:？00准<br>");
+
+
+document.writeln("330期:【九肖中特】（62552.com高手榜查看）开:？00准<br>");
+document.writeln("329期:【九肖中特】（鸡马<span style=\'background-color: #FFFF00\'>猪</span>虎狗兔鼠龙猴）开:猪44准<br>");
 document.writeln("328期:【九肖中特】（猴鼠<span style=\'background-color: #FFFF00\'>牛</span>龙狗羊马鸡虎）开:牛06准<br>");
 document.writeln("327期:【九肖中特】（兔龙猴牛鸡猪蛇马<span style=\"background-color: #FFFF00\">狗</span>）开:狗45准<br>");
 document.writeln("326期:【九肖中特】（猪龙虎蛇狗<span style=\"background-color: #FFFF00\">猴</span>牛兔鼠）开:猴23准<br>");
@@ -106,13 +109,13 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("<p align=\'center\'><span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("<a target=\"_blank\" href=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
 document.writeln("<font color=\"#FFFFFF\" size=\"5\">62551.com 论坛打不开？</font><font color=\"#FFFF00\" size=\"5\"><br>点这里！点这里！<br>最新网址，打开最快的连接</font><font color=\"#FFFFFF\" size=\"5\"> </font>");
 document.writeln("<font color=\"#FFFF00\" size=\"5\"> <br></font>");
-document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
+document.writeln("<font color=\"#000000\" size=\"5\"><img src=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/images/zu.gif\" style=\"width:40px\"></font><font color=\"#FFFFFF\" size=\"6\">点此进入！！</font></a></span></div>");
 document.writeln("			<p align=\'center\'>");
 document.writeln("		<span style=\"text-decoration: none; font-weight:700\">");
-document.writeln("		<a target=\"_blank\" href=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
+document.writeln("		<a target=\"_blank\" href=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/#g5\">");
 document.writeln("		<font size=\"5\" color=\"#000000\">谨记网址</font><font size=\"5\" color=\"#FF0000\">【a.62551.com】</font></a></span></p>");
 document.writeln("		");
 document.writeln("		</td>");
@@ -121,7 +124,7 @@ document.writeln("</table>");
 document.writeln("</div>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("<script src=\"https://ue11-20.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
+document.writeln("<script src=\"https://piu62-25.xn--7dcaaa1ba0er3c9fbebb.xn--gecrj9c:8443/bbs/dstg4.js\"></script>");
 
 
 

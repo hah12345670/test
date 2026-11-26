@@ -55,7 +55,9 @@ document.writeln("");
 
 
 
-document.writeln("330期:【九肖中特】（羊虎龙狗牛猪蛇鼠鸡）开:？00准<br>");
+
+document.writeln("331期:【九肖中特】（62551.com首页查看）开:？00准<br>");
+document.writeln("330期:【九肖中特】（羊虎龙狗牛猪<span style=\'background-color: #FFFF00\'>蛇</span>鼠鸡）开:蛇26准<br>");
 document.writeln("329期:【九肖中特】（鸡马<span style=\'background-color: #FFFF00\'>猪</span>虎狗兔鼠龙猴）开:猪44准<br>");
 document.writeln("328期:【九肖中特】（猴鼠<span style=\'background-color: #FFFF00\'>牛</span>龙狗羊马鸡虎）开:牛06准<br>");
 document.writeln("327期:【九肖中特】（兔龙猴牛鸡猪蛇马<span style=\"background-color: #FFFF00\">狗</span>）开:狗45准<br>");

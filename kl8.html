@@ -51,60 +51,6 @@
             font-size: 0.9rem;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
         }
-
-        /* 辅助表格样式 */
-        .table-container {
-            margin-top: 16px;
-            overflow-x: auto;
-            background: var(--card);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-        }
-        .section-title {
-            font-size: 0.95rem;
-            font-weight: 600;
-            color: var(--primary);
-            margin: 16px 0 8px 0;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 0.85rem;
-            text-align: center;
-        }
-        th, td {
-            padding: 9px 10px;
-            border: 1px solid var(--border);
-            white-space: nowrap;
-        }
-        th {
-            background: #cbd5e1;
-            font-weight: 700;
-            color: #0f172a;
-        }
-        tfoot tr td {
-            background: #e2e8f0;
-            font-weight: 600;
-            color: var(--primary);
-            border-top: 2px solid var(--border);
-        }
-
-        /* 规则字局部高亮样式 */
-        .rule-match {
-            background: #fee2e2;
-            color: #dc2626;
-            font-weight: bold;
-            padding: 0 2px;
-            border-radius: 2px;
-        }
-        .sub-rate {
-            font-size: 0.75rem;
-            color: #475569;
-            display: block;
-            margin-top: 2px;
-            font-weight: 500;
-        }
     </style>
 </head>
 <body>
@@ -113,27 +59,6 @@
     
     <!-- 快乐8 基础模型数据展示区 -->
     <div id="showdata"></div>
-
-    <!-- arr_he7 表格展示区 -->
-    <div id="he7-section" style="display:none;">
-        <div class="section-title"></div>
-        <div class="table-container">
-            <table>
-                <thead>
-                    <tr>
-                        <th>序号</th>
-                        <th>期数</th>
-                        <th colspan="2">推荐3-2</th>
-                        <th colspan="2">推荐1-5</th>
-                        <th colspan="2">推荐5-5</th>
-                        <th>规则</th>
-                    </tr>
-                </thead>
-                <tbody id="he7-body"></tbody>
-                <tfoot id="he7-foot"></tfoot>
-            </table>
-        </div>
-    </div>
     
     <script src="arr_kl8.js"></script>
     <script src="kl8.js"></script>

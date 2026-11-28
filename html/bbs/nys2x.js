@@ -10,7 +10,12 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
-document.writeln("<font size=\"4\" face=\"微软雅黑\">331期绝杀二肖:<font color=\"#FF0000\">【牛狗】</font>开:？00准</font></strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">332期绝杀二肖:<font color=\"#FF0000\">【狗马】</font>开:？00准</font></strong>");
+document.writeln("</td>");
+document.writeln("</tr>	");
+document.writeln("<tr>");
+document.writeln("<td align=\'center\' height=40 class=\'stylelxz\'><strong>");
+document.writeln("<font size=\"4\" face=\"微软雅黑\">331期绝杀二肖:<font color=\"#FF0000\">【牛狗】</font>开:马13准</font></strong>");
 document.writeln("</td>");
 document.writeln("</tr>	");
 
